@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="add_frequent_phrases">Adăugați fraze frecvente</string>
+    <string name="delete_frequent_phrases">Ștergeți fraze frecvente</string>
+    <string name="delete_frequent_phrases_confirm">Ștergeți frazele frecvente selectate?</string>
+    <string name="edit_frequent_phrases">Editați frazele frecvente</string>
+    <string name="frequent_phrases_des">Introduceți fraze frecvente cu doar câteva atingeri când editați un text</string>
+    <string name="frequent_phrases_size_exceeded">Puteți adăuga maxim %1$d fraze frecvente. Ștergeți-le pe cele inutile pentru a putea adăuga altele.</string>
+    <string name="menu_add_frequent_phrases">Adăugați</string>
+    <string name="menu_delete">Ștergeți</string>
+    <string name="menu_edit">Editați</string>
+    <string name="sync_phrase_label">Fraze frecvente</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Blocare</item>
+        <item>Deblocare</item>
+        <item>EffectTick</item>
+        <item>Tastă Ștergere</item>
+        <item>Tastă Înapoi</item>
+        <item>Tastă Standard</item>
+        <item>Tastă Spațiu</item>
+        <item>Sunet declanșare Cameră</item>
+        <item>Înregistrare Video</item>
+        <item>Numărătoare înversă Cameră</item>
+        <item>Sunet succes Cameră</item>
+        <item>Sunet eșec Cameră</item>
+        <item>Sunet progres Cameră</item>
+        <item>Sunet 1 progres Cameră</item>
+        <item>Sunet 2 progres Cameră</item>
+        <item>MusicShake</item>
+        <item>Mesaj Complet</item>
+        <item>Redare Sunet Înregistrat</item>
+        <item>Pauză Sunet Înregistrat</item>
+        <item>Derulare Sunet Înregistrat</item>
+        <item>Acumulator descărcat</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>dezactivează numele pachetelor</item>
+    </string-array>
+</resources>

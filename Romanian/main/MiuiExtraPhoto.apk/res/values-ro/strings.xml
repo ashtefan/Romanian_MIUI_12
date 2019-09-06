@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="extra_photo_common_permission_name">Bokeh</string>
+    <string name="extra_photo_common_saving">Salvare…</string>
+    <string name="motion_photo_re_pick_title">Selectați cele mai bune fotografii</string>
+    <string name="motion_photo_toast_default">Implicit</string>
+    <string name="motion_photo_toast_suggest">Recomandat</string>
+    <string name="refocus_discard_confirm_message">Salvați modificările?</string>
+    <string name="refocus_discard_negative_btn">Renunțați</string>
+    <string name="refocus_discard_positive_btn">Salvați</string>
+    <string name="refocus_photo_not_support">"Nu se poate blura această fotografie"</string>
+    <string name="refocus_relighting_toast">Mutați cercul pentru a ajusta unghiul de iluminare</string>
+    <string name="refocus_save_cancel">Renunțați</string>
+    <string name="refocus_save_title">Selectați formatul</string>
+    <string name="refocus_save_to_photo">Salvați ca imagine</string>
+    <string name="refocus_save_to_video">Salvați ca videoclip</string>
+    <string name="refocus_saving">Se salvează…</string>
+    <string name="refocus_title">Blur</string>
+    <string name="refocus_type_relighting">Iluminare de studio</string>
+    <string name="refocus_type_relighting_no_face">"Nu s-a putut identifica chipul"</string>
+    <string name="refocus_type_relighting_small_face">Iluminarea de studio funcționează pe fotografiile în care chipul ocupă mai mult spațiu decât aici.</string>
+    <string name="refocus_type_static">Nivel blurare</string>
+    <string name="refocus_type_video">Urme de lumină</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="add">Adăugați</string>
+    <string name="add_manual_printer">Adăugați manual o imprimantă</string>
+    <string name="app_name">Serviciul de imprimare al sistemului</string>
+    <string name="forget_printer">Uitați imprimanta</string>
+    <string name="hostname_or_ip">Nume gazdă sau adresă IP</string>
+    <string name="media_size_4x6in">4x6 inci</string>
+    <string name="media_size_54x86mm">54x86 mm</string>
+    <string name="media_size_5x7in">5x7 inci</string>
+    <string name="media_size_89x119mm">89x119 mm</string>
+    <string name="media_size_8x10in">8x10 inci</string>
+    <string name="no_printer_found">Nu s-a găsit nicio imprimantă la această adresă</string>
+    <string name="printer_busy">Ocupată</string>
+    <string name="printer_check">Verificați starea imprimantei</string>
+    <string name="printer_door_open">Ușiță deschisă</string>
+    <string name="printer_jammed">Blocată</string>
+    <string name="printer_low_on_ink">Nivel redus de cerneală</string>
+    <string name="printer_low_on_toner">Nivel redus de tuș</string>
+    <string name="printer_not_supported">Imprimanta nu este suportată</string>
+    <string name="printer_offline">Oprită</string>
+    <string name="printer_out_of_ink">Fără cerneală</string>
+    <string name="printer_out_of_paper">Fără hârtie</string>
+    <string name="printer_out_of_toner">Fără tuș</string>
+    <string name="title_activity_add_printer">Imprimante Adăugate Manual</string>
+    <string name="unreadable_input">Nu s-a putut citi documentul</string>
+    <string name="waiting_to_send">Se așteaptă trimiterea</string>
+    <string name="wifi_not_connected">Wi-Fi neconectat</string>
+</resources>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Alarmă în mai puțin de un minut</item>
+        <item>Alarmă în %1$s</item>
+        <item>Alarmă în %2$s</item>
+        <item>Alarmă în %1$s și %2$s</item>
+        <item>Alarmă în %3$s</item>
+        <item>Alarmă în %1$s și %3$s</item>
+        <item>Alarmă în %2$s și %3$s</item>
+        <item>Alarmă în %1$s, %2$s și %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>Zilnic</item>
+        <item>În zilele lucrătoare</item>
+        <item>În zilele nelucrătoare</item>
+        <item>Luni - Vineri</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Lu - Vi</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarma va suna peste mai puțin de un minut.</item>
+        <item>Alarma va suna peste %1$s.</item>
+        <item>Alarma va suna peste %2$s.</item>
+        <item>Alarma va suna peste %1$s și %2$s.</item>
+        <item>Alarma va suna peste %3$s.</item>
+        <item>Alarma va suna peste %1$s și %3$s.</item>
+        <item>Alarma va suna peste %2$s și %3$s.</item>
+        <item>Alarma va suna peste %1$s, %2$s și %3$s.</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bună</item>
+        <item>Satisfăcătoare</item>
+        <item>Poluare moderată</item>
+        <item>Rea</item>
+        <item>Foarte rea</item>
+        <item>Severă</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Niciodată</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Alb</item>
+        <item>Negru</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="countries_names_miui">
+        <item>"Coasta de Fildeș"</item>
+        <item>Ghana</item>
+        <item>Etiopia</item>
+        <item>Algeria</item>
+        <item>Malawi</item>
+        <item>Republica Congo</item>
+        <item>Egipt</item>
+        <item>Maroc</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Republica Djibouti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Africa de Sud</item>
+        <item>Uganda</item>
+        <item>Rwanda</item>
+        <item>Republica Democrată Congo</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>Kenya</item>
+        <item>Sao Tome and Principe</item>
+        <item>Mali</item>
+        <item>Libia</item>
+        <item>Tunisia</item>
+        <item>Statele Unite</item>
+        <item>Argentina</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Columbia</item>
+        <item>Argentina</item>
+        <item>Mexic</item>
+        <item>Venezuela</item>
+        <item>Insulele Cayman</item>
+        <item>Statele Unite</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Canada</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Republica Dominicană</item>
+        <item>Canada</item>
+        <item>El Salvador</item>
+        <item>Brazilia</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guiana</item>
+        <item>Canada</item>
+        <item>Cuba</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Jamaica</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Nicaragua</item>
+        <item>Martinica</item>
+        <item>Statele Unite</item>
+        <item>Mexic</item>
+        <item>Statele Unite</item>
+        <item>Uruguay</item>
+        <item>Canada</item>
+        <item>Bahamas</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Panama</item>
+        <item>Statele Unite</item>
+        <item>Trinidad și Tobago</item>
+        <item>Haiti</item>
+        <item>Brazilia</item>
+        <item>Canada</item>
+        <item>Saint Kitts și Nevis</item>
+        <item>Santa Lucia</item>
+        <item>Insulele Virgine ale U.S.</item>
+        <item>Mexic</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Svalbard și Jan Mayen</item>
+        <item>Kazahstan</item>
+        <item>Iordania</item>
+        <item>Rusia</item>
+        <item>Kazahstan</item>
+        <item>Irak</item>
+        <item>Bahrain</item>
+        <item>Azerbaidjan</item>
+        <item>Tailanda</item>
+        <item>Liban</item>
+        <item>India</item>
+        <item>Siria</item>
+        <item>Bangladesh</item>
+        <item>Emiratele Arabe Unite</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
+        <item>Vietnam</item>
+        <item>China</item>
+        <item>Indonezia</item>
+        <item>Israel</item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malaezia</item>
+        <item>Kuweit</item>
+        <item>China</item>
+        <item>Philippines</item>
+        <item>Oman</item>
+        <item>Cambodgia</item>
+        <item>Coreea de Nord</item>
+        <item>Katar</item>
+        <item>Myanmar</item>
+        <item>Arabia Saudită</item>
+        <item>Coreea de Sud</item>
+        <item>China</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Japonia</item>
+        <item>Mongolia</item>
+        <item>Bermude</item>
+        <item>Spania</item>
+        <item>Cap Verde</item>
+        <item>Islanda</item>
+        <item>Insulele Falkland</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>Olanda</item>
+        <item>Andorra</item>
+        <item>Grecia</item>
+        <item>Regatul Unit</item>
+        <item>Serbia</item>
+        <item>Germania</item>
+        <item>Slovacia</item>
+        <item>Belgia</item>
+        <item>România</item>
+        <item>Ungaria</item>
+        <item>Moldova</item>
+        <item>Danemarca</item>
+        <item>Irlanda</item>
+        <item>Gibraltar</item>
+        <item>Finlanda</item>
+        <item>Isle of Man</item>
+        <item>Turcia</item>
+        <item>Portugalia</item>
+        <item>Regatul Unit</item>
+        <item>Luxembourg</item>
+        <item>Spania</item>
+        <item>Malta</item>
+        <item>Belarus</item>
+        <item>Monaco</item>
+        <item>Rusia</item>
+        <item>Norvegia</item>
+        <item>Franța</item>
+        <item>Cehia</item>
+        <item>Letonia</item>
+        <item>Italia</item>
+        <item></item>
+        <item>Bosnia și Herzegovina</item>
+        <item></item>
+        <item>Macedonia</item>
+        <item>Bulgaria</item>
+        <item>Suedia</item>
+        <item>Estonia</item>
+        <item>Vatican</item>
+        <item>Austria</item>
+        <item>Lituania</item>
+        <item>Polonia</item>
+        <item>Croația</item>
+        <item>Elveția</item>
+        <item>Madagascar</item>
+        <item>Maldive</item>
+        <item>Maurițius</item>
+        <item>Noua Zeelandă</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Statele Unite</item>
+        <item>Noua Caledonie</item>
+        <item>Polinezia Franceză</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Canada</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Canada</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>El Salvador</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Qatar</item>
+        <item>China</item>
+        <item>India</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Japonia</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Spania</item>
+        <item>Germania</item>
+        <item>Italia</item>
+        <item>Germania</item>
+        <item>Vietnam</item>
+        <item>Turcia</item>
+        <item>India</item>
+        <item>Brazilia</item>
+        <item>Africa de Sud</item>
+        <item>Pakistan</item>
+        <item>Brazilia</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Regatul Unit</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Statele Unite</item>
+        <item>Brazilia</item>
+        <item>Chile</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Mexic</item>
+        <item>India</item>
+        <item>Regatul Unit</item>
+        <item>Ucraina</item>
+        <item>Rusia</item>
+        <item>Polonia</item>
+        <item>Polonia</item>
+        <item>Germania</item>
+        <item>Finlanda</item>
+        <item>Israel</item>
+        <item>Puerto Rico</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ecuador</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Total %1$s</item>
+        <item>Total %2$s</item>
+        <item>Total %1$s și %2$s</item>
+        <item>Total %3$s</item>
+        <item>Total %1$s și %3$s</item>
+        <item>Total %2$s %3$s</item>
+        <item>Total %1$s %2$s și %3$s</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nimic</item>
+        <item>Amână</item>
+        <item>Oprește</item>
+    </string-array>
+</resources>

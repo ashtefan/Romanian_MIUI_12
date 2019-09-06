@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Notificări</string>
+    <string name="default_list_type">Sortați după data recepționării</string>
+    <string name="disable_float_notification">"Nu se permit notificări plutitoare"</string>
+    <string name="disable_lockscreen_notification">"Nu se permit notificări în Blocarea ecranului"</string>
+    <string name="disable_show_badge_notification">"Nu se permit insignele notificărilor"</string>
+    <string name="enable_float_notification">Se permit notificări plutitoare</string>
+    <string name="enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
+    <string name="enable_show_badge_notification">Se permit insignele notificărilor</string>
+    <string name="expand_top_notification">Extindeți notificarea din partea superioară</string>
+    <string name="expandable_under_keyguard">Deschideți perdeaua de Notificări în Blocarea ecranului</string>
+    <string name="float_notifications">Notificări plutitoare</string>
+    <string name="hint_search_all">Căutați aplicații</string>
+    <string name="hint_search_in_disabled_apps">"Căutați aplicațiile care nu pot afișa notificări"</string>
+    <string name="hint_search_in_enabled_apps">Căutați aplicațiile care pot afișa notificări</string>
+    <string name="list_title_disable_notification">"Nu se permit notificări"</string>
+    <string name="loading">Doar o secundă…</string>
+    <string name="lock_screen_display_rules">Format</string>
+    <string name="lock_screen_tip_toast">Permiteți notificările în Blocarea ecranului în \"Format\"</string>
+    <string name="lockscreen_notifications">Notificări în Blocarea ecranului</string>
+    <string name="not_sent_recently">Nu recent</string>
+    <string name="notch_and_status_bar_setting">Breton și bara de stare</string>
+    <string name="notification_display_setting">Perdeaua de notificări</string>
+    <string name="notification_display_style">Stilul notificărilor</string>
+    <string name="notification_fold_summary">Toate notificările neimportante vor apărea într-un dosar separat</string>
+    <string name="notification_fold_title">Dosarul cu notificări</string>
+    <string name="notification_manager">Notificările aplicațiilor</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Oprit</string>
+    <string name="on">Pornit</string>
+    <string name="settings_guide_title">Aveți nevoie de alte setări?</string>
+    <string name="show_badge_notifications">Insignele notificărilor</string>
+    <string name="status_bar_setting">Bara de stare</string>
+    <string name="summary_disable_float_notification">"Nu se permit notificări plutitoare"</string>
+    <string name="summary_disable_lockscreen_notification">"Nu se permit notificări în Blocarea ecranului"</string>
+    <string name="summary_disable_show_badge_notification">"Nu se permite afișarea insignelor notificărilor"</string>
+    <string name="summary_enable_float_notification">Se permit notificări plutitoare</string>
+    <string name="summary_enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
+    <string name="summary_enable_show_badge_notification">Se permite afișarea insignelor notificărilor</string>
+    <string name="summary_float_enable_notification_first">Permiteți notificărilor să activeze afișarea notificărilor plutitoare</string>
+    <string name="summary_lock_screen_enable_notification_first">Permiteți notificărilor să activeze afișarea notificărilor în Blocarea ecranului</string>
+    <string name="summary_show_badge_enable_notification_first">Permiteți notificărilor să activeze afișarea insignelor notificărilor</string>
+</resources>
