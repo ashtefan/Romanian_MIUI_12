@@ -43,6 +43,10 @@
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>
     </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s mesaje | "</item>
+        <item quantity="one">"%s mesaj | "</item>
+    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Ați primit %d invitații pentru conversații în grup</item>
         <item quantity="one">Ați primit %d invitație pentru conversație în grup</item>
