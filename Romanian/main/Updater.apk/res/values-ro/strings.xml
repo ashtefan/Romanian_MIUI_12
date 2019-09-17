@@ -161,7 +161,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="no_info">Nicio informație disponibilă.</string>
     <string name="no_log">Niciun rezumat disponibil</string>
   <string name="no_network">Fără acces la rețea.</string>
-    <string name="no_update">Aveți deja cea mai recentă versiune sau există o problemă legată de server. Verificați pe xiaomi.eu dacă sunt actualizări!</string>
+    <string name="no_update">Aveți deja cea mai recentă versiune!</string>
     <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
     <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
     <string name="no_xioamieu">"Nu utilizați un ROM MIUI creat de către echipa Xiaomi.eu!
