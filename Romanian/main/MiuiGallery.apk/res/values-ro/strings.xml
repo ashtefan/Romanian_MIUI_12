@@ -111,6 +111,7 @@
     <string name="app_name">Galerie</string>
     <string name="app_name_view_picture">Vizualizare imagini</string>
     <string name="app_name_view_video">Vizualizare videoclipuri</string>
+    <string name="app_summary">Gestionarea și editarea fotografiilor dumneavoastră de pe dispozitiv și din Xiaomi Cloud</string>
     <string name="apply">Aplicați</string>
     <string name="assistant_page_discovery">Descoperiți</string>
     <string name="assistant_page_label">Amintiri</string>
@@ -209,6 +210,8 @@
     <string name="blank_app_name"/>
     <string name="blur_refocus_enter"/>
     <string name="browse_category_title">Răsfoiți</string>
+    <string name="btn_cancel">Renunțați</string>
+    <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
     <string name="burst_photo_enter"/>
     <string name="burst_preview_title">Fotografiere în rafală</string>
@@ -303,6 +306,8 @@
     <string name="cloud_guide_auto_backup_title">Selectați albumele ce vor fi salvate în MiCloud</string>
     <string name="cloud_guide_login_title">Crează în mod automat o copie de rezervă pentru fotografii și videoclipuri</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
+    <string name="cloud_privacy_with_ai_album">Declarația de confidențialitate la realizarea automată a copiilor de rezervă și la procesarea fotografiilor</string>
+    <string name="cloud_privacy_with_face">Declarația de confidențialitate la realizarea automată a copiilor de rezervă și la recunoașterea facială</string>
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_settings">Copii de rezervă pentru Galerie</string>
     <string name="cloud_storage_extend">Extindeți spațiul de stocare în cloud</string>
@@ -343,6 +348,8 @@
   <string name="collage_title_stitching">Film roll</string>
     <string name="collaps_people">Ascundeți</string>
     <string name="confirm">OK</string>
+    <string name="confirm_cancel_task_files">Opriți trimiterea fișierelor către %1$s?</string>
+    <string name="confirm_cancel_task_images">Opriți trimiterea imaginilor către %1$s?</string>
     <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când rețeaua Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
     <string name="confirm_face">Potrivire</string>
@@ -386,6 +393,7 @@
     <string name="debugging_tip">Se generează raportul erorilor</string>
     <string name="decrypt_video_failed">"Nu s-a putut pregăti videoclipul"</string>
     <string name="decrypting_video">Se pregătește videoclipul…</string>
+    <string name="default_device_name">Dispozitiv necunoscut</string>
     <string name="default_relation_name">Grup nou</string>
     <string name="define_by_user">Personalizat</string>
     <string name="delete">Ştergeţi</string>
@@ -412,6 +420,9 @@
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
     <string name="detail_title">Informații detaliate</string>
+    <string name="device_name_with_ellipsize">%1$s…</string>
+    <string name="device_offline">Celălalt dispozitiv este offline. Reluați.</string>
+    <string name="device_type_pc">Computer</string>
     <string name="disable_auto_upload_tip">Dezactivați sincronizarea în cloud pentru acest album?</string>
     <string name="disable_auto_upload_title">Dezactivați sincronizarea în cloud</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
@@ -420,6 +431,7 @@
     <string name="document_provider_guide_step_3">3. Atingeți butonul de meniu lateral.</string>
     <string name="document_provider_guide_step_4">4. Selectați \"Card SD\".</string>
     <string name="document_provider_guide_step_5">5. Atingeți \"Selectare\".</string>
+    <string name="double_tap_for_hr_preview_108m">Atingeți din nou de 2 ori pentru a comuta la previzualizarea 108 MP</string>
     <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru previzualizarea HD</string>
     <string name="download_canceled">Descărcarea a fost întreruptă</string>
     <string name="download_error_format">"Nu s-a putut descărca %s"</string>
@@ -463,6 +475,7 @@
     <string name="enable_cloud_for_sharing">Activați albumele Xiaomi Cloud pentru a vedea fotografiile partajate.</string>
     <string name="enable_face_album_summary">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin</string>
     <string name="enable_face_album_title">Sortați după persoanele conținute</string>
+    <string name="enable_midrop">Activați</string>
     <string name="enter_choice_mode">S-a accesat dialogul de Partajare</string>
     <string name="enter_email_hint">Introduceţi adresa de e-mail</string>
     <string name="eras_ad">AD</string>
@@ -577,6 +590,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="feature_guidance_photo_effects">"Sunt disponibile noi
 efecte pentru fotografii"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sunt disponibile noi efecte</string>
+    <string name="file_cannot_print">"Nu se poate tipări acest element."</string>
+    <string name="file_cannot_screen_throw">"Nu se poate proiecta acest element."</string>
+    <string name="file_sending">Se transferă fișierele…</string>
     <string name="filter_bi_bw">A/N</string>
     <string name="filter_bi_dusk">Amurg</string>
     <string name="filter_bi_lilt">Ritm vioi</string>
@@ -712,6 +728,7 @@ efecte pentru fotografii"</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">V</string>
+    <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Țineți aproape!</string>
     <string name="gallery_setting">Setări</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
     <string name="generate_story_summary">MIUI va analiza fotografiile și va crea albume cu amintiri. Dezactivați această caracteristică pentru a opri crearea de albume cu amintiri.</string>
@@ -735,6 +752,7 @@ efecte pentru fotografii"</string>
     <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
     <string name="how_to_set_relation">Apăsați și mențineți apăsat un album pentru a crea un grup</string>
+    <string name="hr_preview_108m">S-a comutat la previzualizarea 108 MP</string>
     <string name="hybrid_check_network">Setări reţea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">Nu s-a putut găsi locația dvs.</string>
@@ -829,6 +847,10 @@ pentru a personaliza Galeria"</string>
     <string name="merge_album">Îmbinare</string>
     <string name="merge_album_title">Asociați cu o persoană</string>
     <string name="messagelist_sender_self">Eu</string>
+    <string name="mi_9t">Mi 9T</string>
+    <string name="mi_9t_pro">Mi 9T Pro</string>
+    <string name="mi_a3">Mi A3</string>
+    <string name="mi_drop">Partajare Mi</string>
     <string name="micloud_introduce">Salvați în mod automat fotografiile și videoclipurile(este necesar un cont Mi)</string>
     <string name="midnight">AM</string>
     <string name="monday">Luni</string>
@@ -1004,6 +1026,8 @@ pentru a personaliza Galeria"</string>
     <string name="operation_too_often">Operațiunea dvs. depășește limita, încercați după un minut.</string>
     <string name="operation_unforce_top">Anulați fixarea</string>
     <string name="operation_unhide">Faceți vizibil</string>
+    <string name="oppo">OPPO</string>
+    <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Rotirea automată a imaginii este dezactivată</string>
     <string name="orientation_unlock_tip">Rotirea automată a imaginii este activată</string>
     <string name="origin_gif_name">fișierul original</string>
@@ -1012,14 +1036,15 @@ pentru a personaliza Galeria"</string>
     <string name="other_album">Alte albume</string>
     <string name="other_settings">Setări suplimentare</string>
     <string name="owner_album_subtitle">Distribuit către %1$s persoane</string>
+    <string name="pc_device_model_name">Computer</string>
   <string name="people_album_empty_title">Fotografiile pot fi sortate după persoanele pe care le conțin</string>
     <string name="people_jump_failed">Așteptați până când fotografiile conținând persoane sunt sincronizate în cloud și încercați din nou</string>
   <string name="people_mark_mode_title">Selectați \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Selectați o persoană</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
-    <string name="permissin_contract_desc">Pentru numele persoanelor din fotografii</string>
-    <string name="permission_contract_name">Contacte</string>
+    <string name="permission_contacts_desc">Pentru atribuirea numelor persoanelor din fotografii</string>
+    <string name="permission_contacts_name">Contacte</string>
     <string name="permission_optional_category">Permisiuni opționale</string>
     <string name="permission_phone_desc">Pentru solicitări de rețea bazate pe ID-ul dispozitivului</string>
     <string name="permission_phone_name">Telefon</string>
@@ -1175,6 +1200,15 @@ pentru a personaliza Galeria"</string>
     <string name="recovery_merge_or_rename">Îmbinați albumele</string>
     <string name="recovery_merge_or_rename_message">"Există un album cu acest nume. Le îmbinați acum?"</string>
     <string name="recovery_rename">Redenumiți</string>
+    <string name="redmi_6">Redmi 6</string>
+    <string name="redmi_6_pro">Redmi 6 Pro</string>
+    <string name="redmi_6a">Redmi 6A</string>
+    <string name="redmi_7a">Redmi 7A</string>
+    <string name="redmi_k20">Redmi K20</string>
+    <string name="redmi_k20_pro">Redmi K20 Pro</string>
+    <string name="redmi_note_5">Redmi Note 5</string>
+    <string name="redmi_note_7">Redmi Note 7</string>
+    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="refocus_desc">Focusați din nou</string>
     <string name="relation_text_empty_alert">Adăugaţi informaţia despre relaţie</string>
     <string name="relation_text_family">Membru al familiei</string>
@@ -1227,6 +1261,7 @@ pentru a personaliza Galeria"</string>
     <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma Distribuire.</string>
     <string name="scan_barcode_to_join">Scanaţi un cod QR pentru a adăuga un album</string>
     <string name="scan_qr_code_buttom_text">Scanaţi codul QR pentru a vizualiza acest album</string>
+    <string name="scanning_device_tips">Se caută dispozitive în apropiere… Asigurați-vă că celălalt dispozitiv este în modul descoperire.</string>
     <string name="screen_doodle_talkback_size">Lățimea liniei mâzgăliturii</string>
     <string name="screen_editor_btn_delete">Ștergeți</string>
     <string name="screen_editor_btn_save">Salvați</string>
@@ -1313,6 +1348,7 @@ pentru a personaliza Galeria"</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send_file_beautify_failed">"Nu s-a putut partaja"</string>
+    <string name="send_files_to">Trimiteți elementele către</string>
     <string name="send_multiple_files_hint_format">Trimiteţi (%s)</string>
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="send_secret_file_failed">"Nu s-a putut partaja"</string>
@@ -1518,6 +1554,8 @@ pentru a personaliza Galeria"</string>
   <string name="the_valentines_day">Valentines Day</string>
   <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="things_album_empty_title">Fotografiile pot fi sortate după obiectele pe care le conțin</string>
+    <string name="throwing_print">Tipăriți</string>
+    <string name="throwing_screen">Proiectați</string>
     <string name="thumbnail_name">miniatură</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
@@ -1531,6 +1569,7 @@ pentru a personaliza Galeria"</string>
     <string name="tip_file_path">Calea fișierului:</string>
     <string name="tip_not_download">Nicio descărcare. Se va descărca din Xiaomi Cloud în timpul rulării.</string>
     <string name="tip_screenshot_package_info">Numele aplicației:</string>
+    <string name="tips_prompt_enable_midrop">Partajați fișierele cu dispozitivele din apropiere</string>
     <string name="title_set_name">Setaţi numele</string>
     <string name="title_tip">Sfat</string>
     <string name="title_warn">Atenționare</string>
@@ -1558,6 +1597,8 @@ pentru a personaliza Galeria"</string>
     <string name="unpublish_failed">Eşuare</string>
     <string name="unpublish_succeeded">Album nepublicat</string>
     <string name="unpublishing">Anulare…</string>
+    <string name="unrecognized_manufacture">Necunoscut</string>
+    <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="unsupport_video">"%s nu funcționează cu videoclipuri"</string>
     <string name="user_agree">De acord</string>
     <string name="user_agreement2">Termenii serviciului</string>
@@ -1675,6 +1716,8 @@ pentru a personaliza Galeria"</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="view_more_face_desc">Vedeți mai multe persoane</string>
+    <string name="vivo">vivo</string>
+    <string name="vivo_phone">vivo</string>
     <string name="voice_assistant">Introducere vocală</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
@@ -1682,7 +1725,27 @@ pentru a personaliza Galeria"</string>
     <string name="welcome_to_micloud">Bine ați venit la Xiaomi Cloud</string>
     <string name="where_is_barcode">Unde este codul QR?</string>
     <string name="who_is_this">Cine este?</string>
+    <string name="xiaomi">Mi</string>
+    <string name="xiaomi_6">Mi 6</string>
+    <string name="xiaomi_8">Mi 8</string>
+    <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
+    <string name="xiaomi_8_se">Mi 8 SE</string>
+    <string name="xiaomi_8_ud">Mi 8 Pro</string>
+    <string name="xiaomi_8_young">Mi 8 Lite</string>
+    <string name="xiaomi_9">Mi 9</string>
+    <string name="xiaomi_9_se">Mi 9 SE</string>
     <string name="xiaomi_account_not_exists_toast">"Contul Mi nu există"</string>
+    <string name="xiaomi_cc_9">Mi CC9</string>
+    <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
+    <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_max_3">Mi MAX 3</string>
+    <string name="xiaomi_mix_2">Mi MIX 2</string>
+    <string name="xiaomi_mix_2s">Mi MIX 2S</string>
+    <string name="xiaomi_mix_3">Mi MIX 3</string>
+    <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
+    <string name="xiaomi_note_3">Mi Note 3</string>
+    <string name="xiaomi_phone">Xiaomi</string>
+    <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="yes">Da</string>
     <string name="yesterday">Ieri</string>
     <string name="you_are">"Sunteți pentru copil"</string>

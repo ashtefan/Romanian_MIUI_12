@@ -82,6 +82,8 @@
     <string name="martix">Matrix</string>
     <string name="messagesent">Mesaj trimis</string>
     <string name="mi">Mi</string>
+    <string name="mihouse">Mi Electronic</string>
+    <string name="mijazz">Mi Jazz</string>
     <string name="miremix">Mi (Remix)</string>
     <string name="miui_device_name">Android</string>
     <string name="mix">MIX</string>
@@ -115,6 +117,7 @@
     <string name="vip_not_login">Neconectat</string>
     <string name="vip_sign">Semnătură:</string>
     <string name="waterdrop_preview">Sunete din natură 1</string>
+    <string name="windchime">Adieri de vânt</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nu se pot trimite mesaje în modul Vizitator"</string>
     <string name="yellow_page_sms_send_failed">"Nu s-a putut trimite mesajul SMS"</string>

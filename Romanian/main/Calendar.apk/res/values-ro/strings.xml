@@ -440,6 +440,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="passenger">Pasager</string>
     <string name="path_calendar_settings">Aplicații de sistem/Calendar/Setări</string>
   <string name="pengzu">Ciupire</string>
+    <string name="permission_accounts">Pentru conectarea și gestionarea contului sistemului și asocierea elementelor cu acesta</string>
+    <string name="permission_contacts">Pentru sincronizarea zilelor de naștere ale contactelor și trimiterea de memento-uri</string>
+    <string name="permission_main_purpose">Vizualizarea și gestionarea evenimentelor din calendar, planificarea călătoriilor, primirea de memento-uri și abonarea la diferite servicii</string>
+    <string name="permission_storage">Pentru salvarea memento-urilor și a sunetelor de apel</string>
     <string name="phone_num">Telefon</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
     <string name="pref_reminder_time">Oră memento</string>

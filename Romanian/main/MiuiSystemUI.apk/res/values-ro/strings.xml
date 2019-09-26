@@ -636,6 +636,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="ext_media_unmountable_notification_title">Card SD deteriorat</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
+    <string name="face_data_apply_for_category_title">Deblocați utilizând datele faciale</string>
+    <string name="face_data_apply_for_keyguard_title">Blocarea ecranului</string>
     <string name="face_data_input_camera_fail">"Nu s-a putut încărca camera"</string>
     <string name="face_data_input_camera_ok">Se încarcă camera…</string>
     <string name="face_data_input_cancel">Renunțați</string>
@@ -667,6 +669,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața chipului dumneavoastră</string>
     <string name="face_unlock_by_notification_screen_on_msg">Puteți debloca telefonul utilizând datele faciale oricând ecranul se deschide pentru a afișa notificări. Acest lucru poate descărca acumulatorul mai rapid.</string>
     <string name="face_unlock_by_notification_screen_on_title">Permiteți deblocarea facială când se deschide ecranul</string>
+    <string name="face_unlock_category_title">Opțiuni pentru blocarea ecranului</string>
     <string name="face_unlock_check_failed">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_close_screen">Apropiați-vă de ecran</string>
     <string name="face_unlock_down">Ridicați capul</string>
@@ -880,6 +883,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_carrier_default">Fără serviciu</string>
     <string name="keyguard_charged">Încărcat</string>
     <string name="keyguard_charging_back_to_lockscreen">Înapoi la Blocarea ecranului</string>
+    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>

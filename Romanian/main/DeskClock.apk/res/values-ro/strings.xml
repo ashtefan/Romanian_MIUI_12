@@ -78,6 +78,8 @@
     <string name="clock_bg_button_setting_summary_common">Selectați culoarea de fundal pentru aplicația Ceas</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Culoarea neagră va fi folosită ca fundal de fiecare dată când treceți la modul Întunecat</string>
     <string name="clock_bg_button_setting_title">Culoare de fundal</string>
+    <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
+    <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close_alarm">Dezactivați</string>
     <string name="common_settings">Setări</string>
     <string name="confirm">Confirmați</string>
@@ -95,10 +97,17 @@
     <string name="delete_timer_item_title">Ștergeţi sarcina temporizatorului</string>
     <string name="delete_timezone_title">Ştergeţi fusul orar</string>
     <string name="dialog_confirm_abort">Renunțați la modificări?</string>
+    <string name="dialog_legal_off_day">&lt;Data&gt;"Se pare că utilizați alarmele pentru vacanță. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal. Înainte de a utiliza această funcție, trebuie să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Le acceptați?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day_desc">"Aplicația Ceas nu are permisiunea de a se conecta la internet pentru a actualiza informațiile despre zilele libere. Alarmele pentru vacanță vor fi dezactivate Sâmbătă și Duminică."</string>
+    <string name="dialog_legal_workday">&lt;Data&gt;"Se pare că utilizați alarmele pentru zilele lucrătoare. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal. Înainte de a utiliza această funcție, trebuie să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Le acceptați?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Se pare că utilizați alarme pentru vacanță și pentru zile lucrătoare. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal. Înainte de a utiliza această funcție, trebuie să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Le acceptați?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day_desc">"Aplicația Ceas nu are permisiunea de a se conecta la internet pentru a actualiza informațiile despre zilele libere. Alarmele pentru zilele lucrătoare vor fi active de Luni până Vineri. Alarmele pentru vacanță vor suna Sâmbătă și Duminică."</string>
+    <string name="dialog_legal_workday_desc">"Aplicația Ceas nu are permisiunea de a se conecta la internet pentru a actualiza informațiile despre zilele lucrătoare. Alarmele pentru zilele lucrătoare vor fi active de Luni până Vineri."</string>
     <string name="dialog_message_agree">De acord</string>
     <string name="dialog_message_for_contact_permission">Pentru a activa alarma pentru zilele de naștere, aplicația Ceas trebuie să poată accesa agenda. Sunteți de acord?</string>
     <string name="dialog_message_negative">"Nu sunt de acord"</string>
     <string name="dialog_message_not_remind">"Nu arăta din nou"</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal. Înainte de a utiliza această funcție, trebuie să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Le acceptați?&lt;/Data&gt;</string>
     <string name="dialog_privacy_content">Pentru a obține informații relevante despre sărbătorile legale locale, pentru a ajusta alarmele și pentru a furniza servicii personalizate, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați %1$s și %2$s. Acceptați?</string>
     <string name="dialog_privacy_content_global">Pentru a vă furniza servicii personalizate, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați %1$s și %2$s. Acceptați?</string>
     <string name="dialog_privacy_content_news">Pentru a vă furniza servicii personalizate și să includă știri matinale în alarme, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați %1$s și %2$s. Acceptați?</string>

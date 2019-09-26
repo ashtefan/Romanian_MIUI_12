@@ -107,6 +107,10 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
 　　•După accesarea sunetului, redați-l pe dispozitivul cu ecran mare.
 　　•Permisiuni de direcționare. Localizare și descoperire a dispozitivelor din proximitate."</string>
     <string name="private_protect">Protejarea confidențialității</string>
+    <string name="san_wait_msg_1">Dispozitivul țintă trebuie să activeze proiectarea wireless</string>
+    <string name="san_wait_msg_2">Căutarea dispozitivelor poate dura ceva timp…</string>
+    <string name="san_wait_msg_3">"Dispozitivele externe sunt mai ușor de găsit când sunt conectate la aceeași rețea cu a telefonului dumneavoastră"</string>
+    <string name="san_wait_msg_4">"Vedeți secțiunea \"Ajutor\" dacă nu găsiți dispozitivele"</string>
     <string name="sdk_name">lebo</string>
     <string name="service_name">Serviciul UniPlay</string>
     <string name="small_window">Minimizați fereastra</string>

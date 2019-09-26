@@ -757,6 +757,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="load_no_more">"Asta e tot pentru acum."</string>
     <string name="loading_desktop">Doar o secundă…</string>
     <string name="locating_fail">"Nu s-a putut obține locația"</string>
+    <string name="location_permission_desc">Pentru crearea rutelor de navigare și furnizarea serviciilor de chemare mașini</string>
     <string name="locations">Locaţii frecventate</string>
     <string name="locations_preferences">Locații și preferințe frecvente</string>
     <string name="login_before_use">Trebuie să vă conectați mai întâi</string>

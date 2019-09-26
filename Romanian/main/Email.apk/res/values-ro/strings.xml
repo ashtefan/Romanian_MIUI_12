@@ -8,6 +8,7 @@
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_failure">Sesiune expirată</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
+    <string name="account_options_actionbar_title">Setări Generale</string>
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
           spaţii. Numeroase servere nu acceptă parole cu spaţii."</string>
@@ -598,6 +599,9 @@ Actualizaţi acum?"</string>
     <string name="mail_login_help_details1">1.Parola e-mailului: Dacă nu ați setat clientul de e-mail și ați deschis deja protocolul POP3/IMAP/SMTP, puteți utiliza parola e-mailului pentru a vă conecta.</string>
     <string name="mail_login_help_details2">2. Codul de verificare a clientului: Dacă ați setat deja un cod de verificare, trebuie să-l folosiți pentru a vă conecta. De asemenea trebuie să vă asigurați că protocolul POP3/IMAP/SMTP a fost deschis.</string>
     <string name="mail_login_help_title">Descriere parolă de e-mail sau cod de verificare client:</string>
+    <string name="mail_outlook_login_tips">Conform cerințelor Microsoft, trebuie să introduceți parola în pagina de Autorizare Microsoft.</string>
+    <string name="mail_outlook_oauth_login">Conectare cu OAuth</string>
+    <string name="mail_outlook_psw_login">Conectare cu parolă</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
     <string name="mailbox_name_display_ad">Reclame</string>
     <string name="mailbox_name_display_add_account">Adăugați contul de e-mail</string>
@@ -807,6 +811,7 @@ Actualizaţi acum?"</string>
     <string name="outbox_alert_select_operation">Selectaţi o acţiune</string>
     <string name="outbox_alert_title_sent_failed">Nu s-a putut trimite e-mailul</string>
     <string name="outbox_no_mails">Gol</string>
+    <string name="outlook_login_failed_non_proxy_title">"Nu s-a putut accesa serverul Outlook"</string>
     <string name="output_all_log">Trimiteți toate jurnalele</string>
     <string name="output_db_summary">Cum să vă exportați baza de date</string>
     <string name="output_db_title">Exportați baza de date</string>
@@ -956,6 +961,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="quick_3">Voi citi mai târziu și revin.</string>
     <string name="quick_4">Să stabilim o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
+    <string name="quick_reply_expend">Extindeți</string>
     <string name="quick_reply_hint_bcc">(În BCC)</string>
     <string name="quick_reply_hint_cc">(În CC)</string>
     <string name="quick_reply_hint_reply_only_from">Răspuns rapid (doar către expeditor)</string>
@@ -1128,6 +1134,9 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="str_select_none">Deselectaţi tot</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">Subiect</string>
+    <string name="sync_calendra_fail_per_content">Atingeți pentru a permite accesul la calendar</string>
+    <string name="sync_calendra_fail_per_title">"Nu s-a putut sincroniza calendarul"</string>
+    <string name="sync_calendra_fail_permission">"Nu s-a putut sincroniza calendarul; permiteți aplicației E-mail să vă acceseze calendarul din Setări"</string>
     <string name="sync_contacts_fail_per_content">Atingeți pentru a permite accesul la contacte</string>
     <string name="sync_contacts_fail_per_title">"Nu s-au putut sincroniza contactele"</string>
     <string name="sync_contacts_fail_permission">"Nu s-au putut sincroniza contactele, permiteți accesul aplicației de E-mail la contacte din Setări"</string>

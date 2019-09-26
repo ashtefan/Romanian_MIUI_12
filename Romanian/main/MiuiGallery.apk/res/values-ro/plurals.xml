@@ -217,6 +217,10 @@
         <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
         <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fișiere</item>
+        <item quantity="one">%1$d fișier</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>

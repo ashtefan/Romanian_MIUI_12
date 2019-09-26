@@ -707,6 +707,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
     <string name="next_button_label">Înainte</string>
     <string name="no_app_open_document">Nu a fost găsită nicio aplicație pentru a finaliza această acțiune</string>
+    <string name="no_memory_space">memorie insuficientă</string>
     <string name="no_space_alert_cancel">Mai târziu</string>
     <string name="no_space_alert_clean">Obțineți spațiu suplimentar</string>
     <string name="no_space_alert_text">Nu există spațiu suficient de stocare</string>
@@ -1072,6 +1073,10 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="sync_and_backup_bookmark">Sincronizați și salvați semnele de carte</string>
     <string name="sync_and_backup_history">Sincronizați și salvați istoricul de navigare</string>
     <string name="sync_cloud_tabs">Sincronizați</string>
+    <string name="system_permission_accounts_purpose">Utilizată pentru autentificarea și gestionarea contului sistemului</string>
+    <string name="system_permission_main_purpose">Navigarea pe net, căutarea de informații, citirea de știri, vizualizarea videoclipurilor, etc</string>
+    <string name="system_permission_phone_state_purpose">Utilizată pentru obținerea IMEI-ului dispozitivului pentru a furniza servicii corespunzătoare</string>
+    <string name="system_permission_storage_purpose">Utilizată pentru citirea și scrierea fișierelor cum ar fi imagini salvate și pentru a activa funcțiile de încărcare/descărcare</string>
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
@@ -1193,5 +1198,6 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="voice_title_please">Începeți să rostiți…</string>
     <string name="voice_title_speech_again">"Nu v-am putut înțelege"</string>
     <string name="webpage_title">Marcaje şi istoric</string>
+    <string name="wechat_not_installed">Aplicația Wechat nu este instalată</string>
     <string name="window_manager_hybrid_application_list_title_text">Utilizate Recent</string>
 </resources>

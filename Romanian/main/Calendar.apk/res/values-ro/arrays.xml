@@ -259,6 +259,12 @@
         <item>Poate</item>
         <item>Nu</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>"Nu răspund"</item>
+        <item>Accept</item>
+        <item>Decid mai târziu</item>
+        <item>Nu accept</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>săgetător</item>
         <item>Săgetător</item>
@@ -278,7 +284,7 @@
         <item>Taur</item>
         <item>20.04 - 20.05</item>
     </string-array>
-    <string-array name="timezone_labels">
+    <string-array name="timezone_labels_v3">
         <item>Insulele Marshall</item>
         <item>Insula Midway</item>
         <item>Hawaii</item>
@@ -308,16 +314,19 @@
         <item>Insulele Azore</item>
         <item>Insula Capului Verde</item>
         <item>Casablanca</item>
-        <item>Londra, Dublin</item>
-        <item>Amsterdam, Berlin</item>
+        <item>Londra</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
         <item>Belgrad</item>
-        <item>Bruxelles</item>
-        <item>Sarajevo</item>
+        <item>Bruxel</item>
+        <item>Saraievo</item>
         <item>Windhoek</item>
         <item>Ora Africii de Vest</item>
-        <item>Amman, Iordania</item>
-        <item>Atena, Istanbul</item>
-        <item>Beirut, Liban</item>
+        <item>Amman</item>
+        <item>Atena</item>
+        <item>Istanbul</item>
+        <item>Beirut</item>
         <item>Cairo</item>
         <item>Helsinki</item>
         <item>Ierusalim</item>
@@ -333,7 +342,7 @@
         <item>Erevan</item>
         <item>Dubai</item>
         <item>Kabul</item>
-        <item>Islamabad, Karachi</item>
+        <item>Karachi</item>
         <item>"Ural'sk"</item>
         <item>Ekaterinburg</item>
         <item>Kolkata</item>
@@ -344,6 +353,7 @@
         <item>Krasnoyarsk</item>
         <item>Bangkok</item>
         <item>Beijing</item>
+        <item>Chongqing</item>
         <item>Hong Kong</item>
         <item>Macao</item>
         <item>Singapore</item>
@@ -352,13 +362,14 @@
         <item>Perth</item>
         <item>Taipei</item>
         <item>Seul</item>
-        <item>Tokyo, Osaka</item>
+        <item>Tokyo</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney, Canberra</item>
+        <item>Sydney</item>
+        <item>Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>

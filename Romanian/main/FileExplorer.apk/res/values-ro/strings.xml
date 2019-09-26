@@ -430,6 +430,7 @@
     <string name="partial_delete_failure">"Nu s-au putut șterge unele fișiere; reîncercați"</string>
     <string name="partial_encrypt_success">"Nu s-au putut ascunde unele fișiere; reîncercați"</string>
     <string name="path_download">Gestionați descărcările</string>
+    <string name="path_name_email">E-mail</string>
     <string name="path_recent_file">Gestionați fișierele de pe telefon</string>
     <string name="permission_denial">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări."</string>
     <string name="permission_required">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări.​"</string>

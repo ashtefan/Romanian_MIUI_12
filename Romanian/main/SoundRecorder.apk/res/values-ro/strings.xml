@@ -266,6 +266,7 @@
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
+    <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
     <string name="webview_check_network">Setări de rețea</string>
     <string name="webview_data_error">A apărut o eroare</string>
     <string name="webview_locating_fail">"Nu v-am putut determina locația"</string>

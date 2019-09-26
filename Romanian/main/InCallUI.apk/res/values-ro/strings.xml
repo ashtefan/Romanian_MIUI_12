@@ -123,9 +123,11 @@
     <string name="dialpad_mno">MNO</string>
     <string name="dialpad_nine">9</string>
     <string name="dialpad_one">1</string>
+    <string name="dialpad_pound">\#</string>
     <string name="dialpad_pqrs">PQRSȘ</string>
     <string name="dialpad_seven">7</string>
     <string name="dialpad_six">6</string>
+    <string name="dialpad_star">*</string>
     <string name="dialpad_three">3</string>
     <string name="dialpad_tuv">TȚUV</string>
     <string name="dialpad_two">2</string>
@@ -153,10 +155,13 @@
     <string name="incoming_circle_text_message_p">Glisați în sus</string>
     <string name="incoming_circle_text_reject">Eliberați</string>
     <string name="incoming_circle_text_reject_p">Glisați în sus</string>
+    <string name="incoming_circle_text_video_answer">Eliberați pentru a răspunde prin apel video</string>
+    <string name="incoming_circle_text_video_answer_p">Glisați în sus pentru a răspunde prin apel video</string>
     <string name="keep_wait_call_back">Mai așteptați</string>
     <string name="livetalk_dial">Utilizare Pachete de suplinire</string>
     <string name="livetalk_hangup">Încheiați apelul</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
+    <string name="manager_conference_done">Finalizat</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="network_error_message">Încercați să efectuaţi un apel obișnuit. Acesta va fi taxat de către operator.</string>
     <string name="network_error_title">Eroare de reţea</string>

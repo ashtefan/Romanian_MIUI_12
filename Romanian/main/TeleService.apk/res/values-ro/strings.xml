@@ -1333,6 +1333,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="private_num">Număr privat</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator">"Nu se pot realiza apeluri. Contactați China Telecom pentru a activa serviciul VoLTE."</string>
     <string name="prompt_to_turnoff_volte_when_failed">"Serviciile VoLTE nu sunt disponibile. Dezactivați VoLTE pentru a apela."</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"Serviciul nu este disponibil. Dezactivați VoLTE din Setări."</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">Selectați LTE ca tip de rețea preferat înainte de a activa VoLTE.</string>
@@ -1781,6 +1782,14 @@ Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile."
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_auth_password_wrong">Parola poate fi incorectă</string>
     <string name="wifi_auto_sel_wapi_cert">Selectează în mod automat</string>
+    <string name="wifi_call_accept">OK</string>
+    <string name="wifi_call_available_message">"Puteți realiza apeluri prin Wi-Fi acum. Dacă sunteți conectat la o rețea Wi-Fi, veți putea vorbi chiar și atunci când vă aflați într-o zonă fără acoperire a operatorului."</string>
+    <string name="wifi_call_available_title">Se activează apelarea prin Wi-Fi</string>
+    <string name="wifi_call_cancel">Renunțați</string>
+    <string name="wifi_call_help">Ajutor</string>
+    <string name="wifi_call_help_message">"Dacă selectați rețele mobile preferate, acestea vor fi utilizate implicit pentru apeluri. În cazul în care nu există semnal mobil sau acesta este slab, se va utiliza rețeaua Wi-Fi în schimb."</string>
+    <string name="wifi_call_help_title">Ajutor apelare prin Wi-Fi</string>
+    <string name="wifi_call_notification_message">"Acest serviciu este furnizat de către Orange. Este posibil să dureze câteva ore până la activarea serviciului. Veți primi un SMS de confirmare de îndată ce va fi disponibil."</string>
     <string name="wifi_call_setting">Apeluri prin Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_de">Apelare prin Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Apel Wi-Fi</string>

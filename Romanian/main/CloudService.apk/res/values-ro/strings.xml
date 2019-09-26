@@ -525,6 +525,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="storage_manage_list_title">Date în cloud</string>
     <string name="storage_manage_list_title_action">Vedeți mai multe</string>
     <string name="storage_manage_renewal">Reînnoiți</string>
+    <string name="storage_manage_title">Modificați planul de stocare în cloud</string>
     <string name="storage_manage_upgrade">Actualizați</string>
     <string name="sub_alert_notif_content">Activați Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">Sincronizați cu Xiaomi Cloud</string>

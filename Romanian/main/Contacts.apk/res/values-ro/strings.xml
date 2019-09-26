@@ -134,6 +134,7 @@
     <string name="callrecordview_menu_delete_sim">Ştergeţi jurnalul apelurilor (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Ştergeţi apelurile de la numere necunoscute</string>
     <string name="callrecordview_menu_edit_call_note">Editaţi nota apelului</string>
+    <string name="callrecordview_menu_identify_numbers">Identifică numerele de telefon</string>
     <string name="callrecordview_menu_ip">Apelare automată IP</string>
     <string name="callrecordview_menu_livetalk">Pachet de suplinire</string>
     <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -222,6 +223,7 @@
     <string name="contact_detail_action_item_nocalllog">Nu există istoric</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
     <string name="contact_detail_calllog_call_record_tips">Apel înregistrat</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Corectați sau raportați</string>
     <string name="contact_detail_calllog_empty">Nu există un istoric de apelare</string>
     <string name="contact_detail_entry_pay">Plătiți</string>
     <string name="contact_detail_entry_pay_dialog_title">Selectați numărul de telefon</string>
@@ -243,6 +245,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contact_detail_miprofile_save_success_toast">Cartela de contact a fost recepționată</string>
     <string name="contact_detail_miprofile_settings_header">SETĂRI ADIŢIONALE</string>
     <string name="contact_detail_miprofile_subtitle">Cartele schimbate deja</string>
+    <string name="contact_detail_more_calllog">Afișează mai mult</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Nu se poate conecta la rețea</string>
     <string name="contact_detail_profile_switch_fail_toast">Ceva a mers prost cu serverul nostru</string>
     <string name="contact_detail_profile_switch_off">Dezactivaţi cartele de contact</string>
@@ -448,6 +451,8 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="edit_contact">Editaţi informaţiile despre contactul din agendă</string>
     <string name="edit_contact_card_title">Selectați elementele de partajat</string>
     <string name="edit_contact_photo">Editaţi fotografia contactului</string>
+    <string name="eight">8</string>
+    <string name="eight_letter">TȚUV</string>
     <string name="email">Trimiteţi un e-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
     <string name="email_custom">Trimiteţi e-mail către %s</string>
@@ -499,8 +504,12 @@ Motivul: \"%s\""</string>
     <string name="favoritesFrequentContacted">Contactate frecvent</string>
     <string name="favorites_list_empty">Niciun contact favorit</string>
     <string name="firewall_setting">Listă blocări</string>
+    <string name="five">5</string>
+    <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Carte de vizită</string>
     <string name="force_touch_new_contact">Contact nou</string>
+    <string name="four">4</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Frecvent</string>
     <string name="full_name">Nume</string>
     <string name="gallery">Galerie</string>
@@ -768,6 +777,8 @@ Motivul: \"%s\""</string>
     <string name="nickname_editor_title">Editaţi pseudonimul</string>
     <string name="nickname_picker_name_column">Nume contact</string>
     <string name="nickname_picker_nickname_column">Titlu</string>
+    <string name="nine">9</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Pentru a crea grupuri aveţi nevoie de un cont.</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizaţi contactele Xiaomi, Google, Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restabiliţi datele contactelor utilizând contul Xiaomi</string>
@@ -806,6 +817,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="notification_action_voicemail_play">Redaţi</string>
     <string name="notification_new_voicemail_ticker">Mesaj vocal nou de la %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="one">1</string>
     <string name="openDialKeyboard">Tastatură numerică</string>
     <string name="open_contact">Vizualizaţi contactul</string>
     <string name="open_dial_pad_description">Deschideți tastatura numerică</string>
@@ -881,6 +893,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="postal_postcode">Codul poştal</string>
     <string name="postal_region">Stat</string>
     <string name="postal_street">Stradă</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_summary">Atribuiţi în mod automat o fotografie contactelor la care aceasta lipsește</string>
     <string name="pref_key_photo_word_title">Atribuire fotografii de contact</string>
@@ -1061,6 +1074,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="set_data_package">Setați mai întâi planul de date</string>
     <string name="set_default">Setaţi ca prestabilit</string>
     <string name="set_photo_failed_msg">"Nu s-a putut atribui fotografia"</string>
+    <string name="seven">7</string>
+    <string name="seven_letter">PQRSȘ</string>
     <string name="share_contact_as">Partajați contactul ca</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
     <string name="share_over_limit">Nu se pot partaja mai mult de 1000 de contacte</string>
@@ -1103,6 +1118,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="sim_unloaded">"Cartela SIM nu este instalată"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
+    <string name="six">6</string>
+    <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">După companie</string>
     <string name="smart_group_company_unavailable">Fără companie</string>
     <string name="smart_group_frequency_1">În ultima lună</string>
@@ -1143,6 +1160,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="special_code_security_exception">"Nu s-a putut finaliza acțiunea. Aceasta nu este tastatura dumneavoastră implicită."</string>
     <string name="splitConfirmation">Acest contact va fi separat în mai multe intrări în agendă.</string>
     <string name="splitConfirmation_title">Intrare separată?</string>
+    <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">Cu stea</string>
     <string name="starred_contacts">Favorite</string>
     <string name="status_available">Disponibil</string>
@@ -1162,6 +1181,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="t9_search_guide_zhuyin_title2">Tastați 8 și 2 pentru a căuta &lt;font fgcolor=""&gt;T&lt;/font&gt;atiana &lt;font fgcolor=""&gt;C&lt;/font&gt;azacu</string>
     <string name="take_new_photo">Creaţi o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
+    <string name="three">3</string>
+    <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">Asociaţi intrările din agendă</string>
     <string name="title_other_devices">Alte dispozitive disponibile</string>
     <string name="title_paired_devices">Dispozitive asociate</string>
@@ -1181,6 +1202,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
     <string name="transfer_accounts">Transferare conturi</string>
+    <string name="two">2</string>
+    <string name="two_letter">AĂÎBC</string>
     <string name="type_incoming">Apel</string>
     <string name="type_missed">Apel nepreluat</string>
     <string name="type_mx_msg">Mesagerie în Cloud</string>
@@ -1241,6 +1264,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="wipe_data">Ştergeţi datele</string>
     <string name="yellowPageNavigationIconLabel">Pagini Aurii</string>
     <string name="yellowPageNavigationLabel">Pagini Aurii</string>
+    <string name="yellowpage_address_tag">Adresa</string>
     <string name="yellowpage_fc_toast">"Nu se poate utiliza această caracteristică deoarece aplicația Pagini Aurii nu mai funcționează."</string>
     <string name="yellowpage_navigation_ad_hint">Reclamă</string>
     <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele mobile; încercați din nou."</string>
@@ -1261,7 +1285,10 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Descărcare pictogramă…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Eşuat, verificați setările de rețea</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adăugat la ecranul de pornire</string>
+    <string name="yellowpage_provider_label">Date furnizate de către</string>
     <string name="yellowpage_search_the_yellowpage">Căutare în Pagini Aurii</string>
     <string name="yellowpage_user_profile">Profil</string>
+    <string name="zero">0</string>
     <string name="zero_items_selected">Selectaţi elementele</string>
+    <string name="zero_letter">+</string>
 </resources>

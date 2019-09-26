@@ -2,8 +2,9 @@
 <resources>
     <string name="app_name">Serviciu Extensie Aplicații</string>
     <string name="auth_activity_label">Coduri de verificare</string>
-    <string name="auth_fingerprint_content">Verificați-vă amprenta pentru a accesa parolele salvate</string>
-    <string name="auth_fingerprint_content_message">"Nu s-a putut verifica amprenta; încercați din nou"</string>
+    <string name="auth_fingerprint_content">Se citește amprenta…</string>
+    <string name="auth_fingerprint_content_message">Puneți degetul pe senzor</string>
+    <string name="auth_fingerprint_content_message_error">"Nu s-a putut scana amprenta; încercați din nou"</string>
     <string name="auth_fingerprint_title">Verificați-vă amprenta</string>
     <string name="autofill_description">"MIUI poate cripta și stoca parolele pentru ca dvs. să le puteți introduce în mod automat atunci când vă sunt necesare. Xiaomi nu va putea citi parolele criptate."</string>
     <string name="autofill_hint_email_address">E-mail</string>

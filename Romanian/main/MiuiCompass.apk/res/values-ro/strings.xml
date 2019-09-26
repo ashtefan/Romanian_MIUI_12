@@ -56,6 +56,8 @@
     <string name="mobiledata_alert_dialog_title">Avertizare utilizare date</string>
     <string name="open_perm_msg">Aplicația Busolă trebuie să acceseze informațiile despre locație și Camera foto. Acestea sunt necesare pentru a vă determina coordonatele și pentru a vă oferi vederi în direct. Permiteți?</string>
     <string name="open_perm_title">Permisiuni necesare</string>
+    <string name="permission_camera_desc">Utilizarea nivelului de spirit?</string>
+    <string name="permission_location_desc">Afișarea coordonatelor și a presiunii atmosferice</string>
     <string name="preference_other">Altele</string>
     <string name="preference_privacy_title">Politica de Confidențialitate</string>
     <string name="pressure">%.1f</string>

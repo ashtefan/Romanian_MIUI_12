@@ -185,6 +185,7 @@
     <string name="chart_third_song">3.%s</string>
     <string name="checking_new_version">Se caută actualizări…</string>
     <string name="choose_download_quality">Selectaţi calitatea descărcării</string>
+    <string name="choose_music_lang_pref">Limba preferată pentru melodii</string>
     <string name="choose_stream_quality">Selectaţi calitatea fluxului de redare</string>
     <string name="click_modify">Atingeți pentru a edita versurile.</string>
     <string name="click_to_shuffle">Atingeţi pentru a amesteca</string>
@@ -1094,6 +1095,7 @@ Be Happy"</string>
     <string name="tab_artist_list">Artişti</string>
     <string name="tab_folder">Dosare</string>
     <string name="tab_playlist">Liste de redare</string>
+    <string name="tab_top_results">Top rezultate</string>
     <string name="tab_local_track_list">Melodii</string>
     <string name="tab_track">Melodii</string>
     <string name="tab_video">Videoclipuri</string>
@@ -1144,6 +1146,7 @@ Be Happy"</string>
     <string name="toast_my_playlist_illegal_name">"Titlul acestei liste de redare nu este valid. Redenumiți-o."</string>
     <string name="toast_my_playlist_set_to_private">"Această listă de redare este acum privată. Alte persoane nu o pot vedea."</string>
     <string name="toast_my_playlist_set_to_public">Această listă de redare este acum publică. Alte persoane o pot vedea.</string>
+    <string name="toast_my_playlist_sync_failed">"Nu s-au putut sincroniza listele de redare datorită unei erori de rețea."</string>
     <string name="toast_new_playlist_name_no_enter">"Nu se poate crea un nou paragraf"</string>
     <string name="toast_new_playlist_name_too_long">Numele listei de redare este prea lung</string>
     <string name="toast_normal_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Standard</string>

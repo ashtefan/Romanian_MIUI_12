@@ -1741,6 +1741,17 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evitați supraîncălzirea și problemele legate de partea hardware</string>
     <string name="perfermance_optimization_title">Optimizarea performanței</string>
+    <string name="permgroupdesc_calendar">Accesarea evenimentelor din calendar</string>
+    <string name="permgroupdesc_calllog">Accesarea și salvarea elementelor în istoricul de apelare</string>
+    <string name="permgroupdesc_camera">Realizarea de fotografii și înregistrarea de videoclipuri</string>
+    <string name="permgroupdesc_contacts">Accesarea contactelor</string>
+    <string name="permgroupdesc_location">Accesarea informațiilor de localizare</string>
+    <string name="permgroupdesc_microphone">Înregistrarea audio</string>
+    <string name="permgroupdesc_phone">Realizarea de apeluri și gestionarea conversațiilor</string>
+    <string name="permgroupdesc_recognition">Accesarea datelor despre sănătate și activități</string>
+    <string name="permgroupdesc_sensors">Accesarea datelor senzorilor corporali</string>
+    <string name="permgroupdesc_sms">Citirea și trimiterea de SMS-uri</string>
+    <string name="permgroupdesc_storage">Accesarea fotografiilor și a fișierelor din dispozitiv</string>
     <string name="permission_action_accept">Acceptaţi</string>
     <string name="permission_action_always">Permiteți întotdeauna</string>
     <string name="permission_action_foreground">Cât timp se utilizează aplicația</string>
@@ -2380,6 +2391,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="superpower_dialog_massage">"Ultra economisirea acumulatorului restricționează cele mai multe caracteristici consumatoare de energie și scade performanța dispozitivului pentru a lăsa disponibile cât mai mult timp posibil funcționalități de bază (de exemplu apeluri, SMS și conectarea la rețea). Activați Ultra economisirea acumulatorului?"</string>
     <string name="superpower_dialog_title">Ultra economisirea acumulatorului</string>
     <string name="superpower_notification_hint_enter">Activați</string>
+    <string name="superpower_notification_new_title">Mai puțin de %d%% acumulator disponibil</string>
     <string name="superpower_notification_summary">Activați Ultra economisirea acumulatorului</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
