@@ -273,6 +273,8 @@
     <string name="facebook_clean_exit_confirm_ok">Opriți</string>
     <string name="facebook_clean_exit_confirm_title">Opriți scanarea?</string>
     <string name="facebook_cleaner">Curățare Facebook</string>
+    <string name="facebook_function_summery">Ștergeți elementele din cache stocate de Facebook</string>
+    <string name="facebook_function_title">Curățare Facebook</string>
     <string name="facebook_group_cache">Fișiere cache</string>
     <string name="facebook_group_gif">GIF-uri</string>
     <string name="facebook_group_image">Imagini</string>
