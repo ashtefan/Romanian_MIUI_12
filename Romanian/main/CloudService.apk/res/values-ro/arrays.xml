@@ -118,6 +118,18 @@
         <item>Descărcați elementele rezervate pe dispozitiv</item>
         <item>Cloud;Creați o copie de rezervă;Backup;Restaurați;Servicii Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Pentru sincronizarea evenimentelor</item>
+        <item>Pentru sincronizarea mesajelor</item>
+        <item>Pentru sincronizarea mesajelor</item>
+        <item>Pentru sincronizarea contactelor</item>
+        <item>Pentru sincronizarea contactelor</item>
+        <item>Pentru salvarea elementelor pe dispozitiv (de ex. imagini, videoclipuri, melodii)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Pentru identificarea dispozitivului dvs.</item>
+        <item>Pentru localizarea dispozitivului și comutarea la modul pierdut</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>
         <item>Salvați dispunerea ecranului Acasă</item>

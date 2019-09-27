@@ -486,6 +486,81 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
+    <string name="priv_dialog_finddevice_all_purpose_pad">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
+    <string name="priv_dialog_finddevice_all_purpose_phone">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
+    <string name="priv_dialog_sync_all_purpose">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a sincroniza mesajele, istoricul de apelare, contactele, notițele, setările browserului, melodiile, fotografiile și videoclipurile, setările Wi-Fi, înregistrările, dispunerea Ecranului principal, aplicațiile, evenimentele din calendar, elementele din lista blocărilor și Asistentul inteligent între toate dispozitivele conectate.</string>
+    <string name="priv_doc_cloudservice">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a sincroniza mesajele, istoricul de apelare, contactele, notițele, setările browserului, melodiile, fotografiile și videoclipurile, setările Wi-Fi, înregistrările, dispunerea Ecranului principal, aplicațiile, evenimentele din calendar, elementele din lista blocărilor și Asistentul inteligent între toate dispozitivele conectate. Accesați elementele sincronizate din orice browser la i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+
+Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
+
+Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
+Pentru a putea funcționa în mod normal, Xiaomi Cloud trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
+&amp;#8226; Calendar:
+Pentru sincronizarea evenimentelor
+&amp;#8226; Accesarea SMS-urilor:
+Pentru sincronizarea mesajelor
+&amp;#8226; Accesarea MMS-urilor:
+Pentru sincronizarea mesajelor
+&amp;#8226; Accesarea contactelor:
+Pentru sincronizarea contactelor
+&amp;#8226; Editarea contactelor:
+Pentru sincronizarea contactelor
+&amp;#8226; Stocare:
+Pentru salvarea elementelor pe dispozitiv (de ex. imagini, videoclipuri, melodii)
+Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
+Citiți și acceptați "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;Acordul Utilizatorului ș&lt;/a&gt;&lt;/u&gt;i &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politica de Confidențialitate î&lt;/a&gt;&lt;/u&gt;"nainte de a utiliza Xiaomi Cloud.
+"</string>
+    <string name="priv_doc_finddevice_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+
+Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
+Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
+&amp;#8226; Accesarea informațiilor despre dispozitiv:
+Pentru identificarea dispozitivului dvs.
+&amp;#8226; Locație:
+Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
+Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
+Citiți și acceptați "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
+"</string>
+    <string name="priv_doc_finddevice_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+
+
+Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
+Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
+&amp;#8226; Accesarea informațiilor despre dispozitiv:
+Pentru identificarea dispozitivului dvs.
+&amp;#8226; Locație:
+Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
+Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
+Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
+"</string>
+    <string name="priv_doc_finddevice_with_telephony_feature_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+
+Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
+
+Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
+Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
+Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
+&amp;#8226; Accesarea informațiilor despre dispozitiv:
+Pentru identificarea dispozitivului dvs.
+&amp;#8226; Locație:
+Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
+Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
+Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
+"</string>
+    <string name="priv_doc_finddevice_with_telephony_feature_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesao "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+
+Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
+
+Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
+Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
+Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
+&amp;#8226; Accesarea informațiilor despre dispozitiv:
+Pentru identificarea dispozitivului dvs.
+&amp;#8226; Locație:
+Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
+Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
+Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
+"</string>
     <string name="privacy_and_agreement">Termeni și Condiții</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="provision_sync_items_loading">Se pregătește sincronizarea elementelor</string>

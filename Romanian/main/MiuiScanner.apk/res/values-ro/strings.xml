@@ -44,7 +44,11 @@
     <string name="accessibility_shutter_button">Obturator</string>
     <string name="action_search">Căutați</string>
     <string name="address">Adresă:</string>
+    <string name="agree_app_use">Scanarea codurilor QR și recunoașterea acestora din alte imagini</string>
     <string name="agree_btn">De acord</string>
+    <string name="agree_camera_permission">Pentru realizarea de fotografii și înregistrarea de videoclipuri</string>
+    <string name="agree_storage_permission">Pentru accesarea fotografiilor și a fișierelor stocate în dispozitiv</string>
+    <string name="always">Întotdeauna</string>
     <string name="amazon_assistant_shopping_title">Căutați pe Amazon</string>
     <string name="app_description_content">Aplicația Scaner vă permite scanarea codurilor QR, a documentelor și a cărților de vizită, etc. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Scaner</string>
@@ -67,6 +71,7 @@
     <string name="cancel">Renunțați</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choose_open_code_app">Selectați o aplicație</string>
     <string name="choose_pay_title">Selectați metoda de plată</string>
     <string name="choose_picture">Selectați codul QR</string>
     <string name="close_hotspot_when_connecting_to_wifi">Hotspot-ul este pornit. Activați Wi-Fi-ul.</string>
@@ -168,6 +173,7 @@
     <string name="not_insert_contact">"Nu se poate adăuga contactul"</string>
     <string name="not_recommend_access_web_url">Accesați site-ul oricum</string>
     <string name="note">Remarcă:</string>
+    <string name="once">Doar o dată</string>
     <string name="open_url">Accesați URL-ul</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pay_no_tip">"Nu arăta din nou"</string>
@@ -217,7 +223,9 @@
     <string name="switch_open">Activați</string>
     <string name="tel">Telefon</string>
     <string name="title">Titlu:</string>
+    <string name="to_install_title">Acest cod QR redirecționează către o aplicație neinstalată. Descărcați această aplicație acum?</string>
     <string name="to_pay">Finalizați plata</string>
+    <string name="toinstall">Descărcați</string>
     <string name="translate_auto_lock">Blocați traducerea</string>
     <string name="translate_auto_unlock">Deblocați traducerea</string>
     <string name="translate_copy_success">Copiat cu succes</string>
