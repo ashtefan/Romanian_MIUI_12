@@ -381,7 +381,7 @@ Sample Rate"</string>
     <string name="call_description_recording">Înregistrare…</string>
     <string name="call_forward_option">Redirecționare apel</string>
     <string name="call_forwarding_number_hint">Redirecţionare apeluri la</string>
-    <string name="call_forwarding_settings">Setările pentru redirecţionarea apelurilor</string>
+    <string name="call_forwarding_settings">Setări redirecţionare apelurilor</string>
     <string name="call_forwarding_settings_with_label">Setări redirecționare apeluri (%s)</string>
     <string name="call_record_add_numbers">Adăugaţi numere</string>
     <string name="call_record_auto_always">Toate numerele</string>
@@ -1479,7 +1479,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="singleContactImportedMsg">Contact importat</string>
     <string name="sip_account_disable">"Acest cont nu este activ. Nu se pot prelua apeluri."</string>
     <string name="sip_account_list">Conturi SIP</string>
-    <string name="sip_accounts">Conturi pentru apelare prin internet (SIP)</string>
+    <string name="sip_accounts">Conturi apelare prin internet(SIP)</string>
     <string name="sip_accounts_title">Conturi</string>
     <string name="sip_add_account_tip_text">Pentru a utiliza apelarea prin internet, adăugaţi un cont SIP</string>
     <string name="sip_always_send_keepalive">Se trimite întotdeauna</string>
@@ -1741,14 +1741,14 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Serviciile VoLTE China Telecom sunt oferite doar în zonele cu acoperire LTE.</string>
     <string name="vowifi_emergency_notification_channel">Avertisment Apelare de urgență prin Wi-Fi</string>
-    <string name="vowifi_emergency_notification_content">Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile</string>
+    <string name="vowifi_emergency_notification_content">Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mobile</string>
     <string name="vowifi_emergency_notification_title">Apelare prin Wi-Fi Vodafone</string>
-    <string name="vowifi_emergency_warning_check">"Nu arăta din nou"</string>
-    <string name="vowifi_emergency_warning_message">"Apelarea prin Wi-Fi nu se poate utiliza pentru apelurile de urgență.
+    <string name="vowifi_emergency_warning_check">"Nu arăta din nou."</string>
+    <string name="vowifi_emergency_warning_message">"Apelurile de urgență nu se pot realiza prin apelare Wi-Fi.
 
 Telefonul dvs. va comuta în mod automat la o rețea mobilă (2G/3G) pentru a realiza un apel de urgență.
 
-Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile."</string>
+Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mobile."</string>
     <string name="vowifi_emergency_warning_title">Apeluri de urgență prin Apelare Wi-Fi</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt disponibile pentru acest utilizator</string>
     <string name="vvm_unsupported_message_format">Tip de mesaj nesuportat, apelați %s pentru a-l asculta.</string>
