@@ -344,6 +344,9 @@
     <string name="shake_to_align_icons_title">Scuturați pentru a umple celulele goale</string>
     <string name="share">Distribuiți</string>
     <string name="sharedUserId" />
+    <string name="shortcut_share_dialog_content">"Fișierele pe care le trimiteți de pe telefon, ca și destinatarii sunt selectați și determinați de către dumneavoastră. Fiți atenți când căutați fișierele de partajat și selectați destinatarii. Este posibil să nu puteți folosi telefonul pentru a trimite viruși, malware, Trojani, time bombs și alte elemente periculoase altor persoane. Nu folosiți telefonul pentru a trimite software ce poate afecta utilizarea obișnuită a dispozitivului destinatarului sau alte elemente ce pot deteriora, interfera, intercepta sau elimina orice date de sistem sau informații personale de pe dispozitivele mobile. Veți fi responsabili pentru orice daună cauzată celorlați utilizatori sau terminale mobile. Xiaomi va face tot posibilul pentru a se asigura că funcționalitatea de partajare, ca și tehnologia și informațiile implicate să fie în siguranță, efective, acurate și de încredere. Totuși, datorită limitărilor actuale ale tehnologiei, Xiaomi nu garantează că funcția de partajare este perfectă și că vă va satisface în totalitate nevoile."</string>
+    <string name="shortcut_share_dialog_positive_button">Am înțeles</string>
+    <string name="shortcut_share_dialog_title">Act de renunțare</string>
     <string name="show_all">Afişaţi tot</string>
     <string name="show_mem_info_title">Afișați starea memoriei</string>
     <string name="show_recents_recommend_title">Afișează sugestii</string>
@@ -382,7 +385,6 @@
     <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
-    <string name="unstable_dialog_content">"Aceasta este o versiune de previzualizare a imaginii sistemului Android și poate fi modificată. Utilizarea imaginii acestui sistem este reglementată de Acordul de licență de previzualizare SDK Android. Imaginea sistemului de previzualizare Android nu este o versiune stabilă și poate conține erori și defecte care pot duce la deteriorarea sistemelor, dispozitivelor sau datelor computerului. Imaginea sistemului de previzualizare Android nu este supusă acelorlași teste ca și sistemul de operare din fabrică și poate cauza încetarea activității acestui dispozitiv, serviciilor sau aplicațiilor instalate."</string>
     <string name="wallpaper">Imagine de fundal</string>
     <string name="wallpaper_auto_change_title">Blocare ecran</string>
     <string name="wallpaper_failed_message">"Nu s-a putut aplica imaginea de fundal"</string>
