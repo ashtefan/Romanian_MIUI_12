@@ -337,8 +337,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_notification_style_animation">Afișează animații</string>
     <string name="aod_notification_style_none">Nimic</string>
     <string name="aod_notification_style_screen_on">Aprinde ecranul</string>
-    <string name="aod_settings_category_name">Afișaj ambiental</string>
-    <string name="aod_settings_title">Afișaj ambiental</string>
     <string name="aod_show_mode_title">Afișează elementele</string>
     <string name="aod_sample_date">Marți, 10 Mai</string>
     <string name="aod_sample_hour">2</string>
