@@ -310,7 +310,6 @@
     <string name="permdesc_recognition">Accesarea datelor despre sănătate și activități</string>
     <string name="permdesc_sensors">Accesarea datelor senzorilor corporali</string>
     <string name="permdesc_write_calendar">Accesarea evenimentelor din calendar</string>
-    <string name="permgroupdesc_calllog">Accesarea și salvarea elementelor în istoricul de apelare</string>
     <string name="permdesc_write_storage">Accesarea și salvarea fotografiilor și a fișierelor pe dispozitiv</string>
     <string name="permgroupdesc_calendar">Accesarea evenimentelor din calendar</string>
     <string name="permgroupdesc_calllog">Accesarea și salvarea evenimentelor în istoricul de apelare</string>
