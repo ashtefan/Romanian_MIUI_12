@@ -407,7 +407,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_charge_estimating">Se calculează</string>
     <string name="battery_charge_full">Complet încărcat</string>
     <string name="battery_charging_prompt">Se încarcă</string>
-    <string name="battery_desc_ambient_display">Energie consumată de către Afișajul ambiental</string>
+    <string name="battery_desc_ambient_display">Energie consumată de către Afișajul activ permanent</string>
     <string name="battery_desc_apps">Acumulator utilizat de aplicaţie</string>
     <string name="battery_desc_bluetooth">Acumulator utilizat de Bluetooth</string>
     <string name="battery_desc_display">Acumulator utilizat de afişaj şi iluminare</string>
@@ -1787,13 +1787,18 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
     <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
-    <string name="power_ambient_display">Afișaj ambiental</string>
+    <string name="power_ambient_display">Afișaj activ permanent</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
     <string name="power_analysis_suggestion_need_optimize">Au fost găsite probleme legate de utilizarea acumulatorului.</string>
     <string name="power_autorun_apps_empty">Nicio aplicație cu pornire automată</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
+    <string name="power_center_5g_save_close_detail">Economisirea acumulatorului 5G crește durata de utilizare a acestuia fără a afecta conectivitatea 5G. O dezactivați oricum?</string>
+    <string name="power_center_5g_save_close_later">"Nu o dezactiva"</string>
+    <string name="power_center_5g_save_close_title">Se dezactivează Economisirea acumulatorului 5G</string>
+    <string name="power_center_5g_save_summary_text">Face conectivitatea 5G mai puțin consumatoare de energie în unele scenarii</string>
+    <string name="power_center_5g_save_title_text">Economisirea acumulatorului 5G</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
     <string name="power_center_back">Înapoi</string>
     <string name="power_center_battery_last">%s rămas</string>
@@ -2009,6 +2014,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
 Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obține șablonul de calibrare."</string>
     <string name="privacy_prompt_upload">Încărcare</string>
     <string name="process_mediaserver_label">Server media</string>
+    <string name="process_vpnsdkmanager_label">Jocuri Turbo</string>
     <string name="promotion">Reclamă</string>
     <string name="prompt_all">Cereți pentru toate</string>
     <string name="prompt_input_time_illegal">"Nu se poate seta această oră; modificați-o și încercați din nou"</string>
@@ -2405,7 +2411,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="superpower_progress_turnoff_process">Restricționați activitatea în fundal</string>
     <string name="superpower_savemode_limit1">Tema întunecată</string>
     <string name="superpower_savemode_limit2">Restricționați activitatea în fundal</string>
-    <string name="superpower_savemode_limit3">Se resticționează activitățile consumatoare de energie (sincronizarea, GPS-ul, vibrațiile, afișajul ambiental, etc.)</string>
+    <string name="superpower_savemode_limit3">Se resticționează activitățile consumatoare de energie (sincronizarea, GPS-ul, vibrațiile, afișajul activ permanent, etc.)</string>
     <string name="superpower_savemode_limit4">Permiteți aplicațiilor selectate să funcționeze în mod normal</string>
     <string name="superpower_settings">Ultra economisirea acumulatorului</string>
     <string name="superpower_settins_autoenter_summary">Activați Ultra economisirea acumulatorului în mod automaty atunci când nivelul acumulatorului scade sub 10%</string>

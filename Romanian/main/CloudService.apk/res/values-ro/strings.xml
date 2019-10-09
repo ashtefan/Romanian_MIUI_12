@@ -51,11 +51,14 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_find_device_off">Oprită</string>
     <string name="cloud_find_device_on">Pornită</string>
     <string name="cloud_lab_title">Laborator</string>
+    <string name="cloud_storage_already_full">Spațiul de stocare în cloud este plin: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Ocupat: %1$s/%2$s</string>
+    <string name="cloud_storage_default_title">Stocare în cloud</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_others">Altele</string>
     <string name="cloud_storage_info_type_pdc">Setări de sistem</string>
+    <string name="cloud_storage_loading_data">Doar o secundă…</string>
     <string name="cloud_storage_manage_title">Gestionați spațiul de stocare</string>
     <string name="cloud_storage_no_data">Niciun element în cloud încă</string>
     <string name="cloudservice_new_sync">Sincronizaţi %s cu Xiaomi Cloud</string>

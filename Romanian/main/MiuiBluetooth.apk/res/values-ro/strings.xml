@@ -24,6 +24,7 @@
     <string name="fast_connect_device_connect_retry">Reîncercați</string>
     <string name="fast_connect_device_connect_setup">Setări</string>
     <string name="fast_connect_device_connect_success">Realizat</string>
+    <string name="fast_connect_device_headset">Acumulator</string>
     <string name="fast_connect_device_headset_l">Stânga</string>
     <string name="fast_connect_device_headset_r">Dreapta</string>
     <string name="fast_connect_device_headset_reset">Apăsați și mențineți apăsat butonul de pe decodor</string>

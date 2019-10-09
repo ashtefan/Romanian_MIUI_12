@@ -47,9 +47,9 @@
     <string name="notification_channel_progress">Sarcinile de tipărire rulează</string>
     <string name="open">Porniți</string>
     <string name="open_print_service">Activați imprimarea</string>
-    <string name="open_print_service_tips">Pentru a putea utiliza această caracteristică, activați mai întâi imprimarea în Setări.</string>
-    <string name="open_wlan">Porniți WiFi</string>
-    <string name="open_wlan_tips">Porniți WiFi-ul pentru a găsi mai rapid imprimante.</string>
+    <string name="open_print_service_tips">Pentru a putea utiliza această caracteristică, activați mai întâi imprimarea din Setări.</string>
+    <string name="open_wlan">Porniți Wi-Fi-ul</string>
+    <string name="open_wlan_tips">Porniți Wi-Fi-ul pentru a găsi mai rapid imprimante.</string>
     <string name="other_printer">Alte imprimante</string>
     <string name="page_description_template">Pagina %1$d din %2$d</string>
     <string name="pages_range_example">de ex. 1-5, 8, 11-13</string>
@@ -63,10 +63,10 @@
     <string name="print_error_printer_unavailable">"Această imprimantă nu este disponibilă acum."</string>
     <string name="print_error_retry">Reîncercați</string>
     <string name="print_fail">Nu s-a putut tipări</string>
-    <string name="print_fail_network_error">Nu s-a putut tipări. Verificați setările rețelei și încercați din nou.</string>
+    <string name="print_fail_network_error">Nu s-a putut tipări. Verificați setările de rețea și încercați din nou.</string>
     <string name="print_forget_printer">Omiteți imprimanta</string>
     <string name="print_help_label">Ajutor</string>
-    <string name="print_help_tip">Asigurați-vă că atât telefonul, cât și imprimanta sunt conectate la aceeași rețea WiFi sau WiFi Direct este pornit. Vizualizați \"Ajutor\".</string>
+    <string name="print_help_tip">Asigurați-vă că atât telefonul cât și imprimanta sunt conectate la aceeași rețea Wi-Fi sau că Wi-Fi Direct este pornit. Vizualizați \"Ajutor\".</string>
     <string name="print_help_tip_reg">Ajutor</string>
     <string name="print_no_print_services">Niciun serviciu de printare activ</string>
     <string name="print_no_printers">Nu au fost găsite imprimante</string>
@@ -87,8 +87,8 @@
     <string name="print_write_error_message">"Nu s-a putut modifica fișierul"</string>
     <string name="printer">Imprimantă</string>
     <string name="printer_busy">Imprimanta este ocupată</string>
-    <string name="printer_error">Eroare imprimantă</string>
-    <string name="printer_error_msg">Eroare imprimantă: %1$s</string>
+    <string name="printer_error">Eroare de imprimantă</string>
+    <string name="printer_error_msg">Eroare de imprimantă: %1$s</string>
     <string name="printer_info_desc">Mai multe informații despre această imprimantă</string>
     <string name="printer_notification_error_title">"Nu s-a putut tipări %1$s"</string>
     <string name="printer_unavailable">Imprimanta nu este disponibilă</string>
@@ -111,5 +111,5 @@
     <string name="system_print_service_help">Despre tipărire</string>
     <string name="template_all_pages">Toate %1$s</string>
     <string name="template_page_range">Intervalul %1$s</string>
-    <string name="wifi_direct">WiFi Direct</string>
+    <string name="wifi_direct">Wi-Fi Direct</string>
 </resources>

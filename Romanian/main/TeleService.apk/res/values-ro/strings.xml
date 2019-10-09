@@ -508,7 +508,7 @@ Sample Rate"</string>
     <string name="change_pin_system_error">Nu s-a putut seta codul PIN</string>
     <string name="change_pin_title">Modificați codul PIN al căsuței de mesaje</string>
     <string name="charge_length_format">%1$s în urmă</string>
-    <string name="china_mobile_palm_category">Serviciu Operator</string>
+    <string name="china_mobile_palm_category">Servicii Operator</string>
   <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
@@ -808,6 +808,7 @@ Sample Rate"</string>
     <string name="fiveg_network_config_type2">Tip Configurare Rețea[Slot 2] :</string>
     <string name="fiveg_plmn_info_list1">Listă informații PLMN[Slot 1] :</string>
     <string name="fiveg_plmn_info_list2">Listă informații PLMN[Slot 2] :</string>
+    <string name="fiveg_power_secret_code_tip">operați aceasta prin aplicația de Securitate - Acumulator - Economisire 5G</string>
     <string name="fiveg_restrict_dcnr1">Restricție DCNR[Slot 1] :</string>
     <string name="fiveg_restrict_dcnr2">Restricție DCNR[Slot 2] :</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G[Slot 1] :</string>

@@ -6770,19 +6770,19 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_mode_when_every_night">În fiecare noapte</string>
     <string name="zen_mode_when_never">Niciodată</string>
     <string name="zen_mode_when_weeknights">În nopțile din timpul săptămânii</string>
-    <string name="zen_msg_event_reminder_footer">Când este activat modul Nu deranja, sunetele pentru mesaje, mementouri și evenimente vor fi dezactivate, cu excepția elementelor pe care le permiteți mai sus. Puteți să modificați setările pentru mesaje ca să le permiteți prietenilor, familiei sau altor persoane de contact să vă contacteze.</string>
+    <string name="zen_msg_event_reminder_footer">Când este activat modul Nu deranjați, sunetele pentru mesaje, mementouri și evenimente vor fi dezactivate, cu excepția elementelor pe care le permiteți mai sus. Puteți să modificați setările pentru mesaje ca să le permiteți prietenilor, familiei sau altor persoane din agendă să vă contacteze.</string>
     <string name="zen_msg_event_reminder_title">Mesaje, evenimente și mementouri</string>
     <string name="zen_onboarding_current_setting_summary">(Setarea curentă)</string>
-    <string name="zen_onboarding_current_setting_title">Fără sunet de la notificări</string>
+    <string name="zen_onboarding_current_setting_title">Fără sunet de notificare</string>
     <string name="zen_onboarding_dnd_visual_disturbances_description">"Telefonul dvs. poate face mai mult pentru a vă ajuta să vă concentrați.
 
-Actualizează setările:
+Actualizați setările:
 
-- Pentu a ascunde complet notificările
+- Pentru a ascunde complet notificările
 
 - Pentru a permite apelurile de la persoanele de contact marcate cu stea și apelurile repetate"</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_header">Modificați setările pentru notificări ale modului „Nu deranja”?</string>
-    <string name="zen_onboarding_more_options">Puteți personaliza acestă opțiune în Setări.</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">Modificați setările de notificare ale modului „Nu deranjați”?</string>
+    <string name="zen_onboarding_more_options">Puteți personaliza această opțiune în Setări.</string>
     <string name="zen_onboarding_new_setting_summary">Nu veți vedea și nu veți auzi notificări. Sunt permise apelurile de la persoanele de contact marcate cu stea și de la apelanții care revin.</string>
     <string name="zen_onboarding_new_setting_title">Fără imagini sau sunet de la notificări</string>
     <string name="zen_onboarding_ok">Finalizat</string>
@@ -6795,14 +6795,14 @@ Actualizează setările:
     <string name="zen_schedule_rule_type_name">Regulă în funcție de oră</string>
     <string name="zen_sound_all_muted">Sunet dezactivat</string>
     <string name="zen_sound_category_title">Dezactivați sunetul pentru toate, cu excepția</string>
-    <string name="zen_sound_footer">Când este activată funcția Nu deranja, sunetele și vibrațiile vor fi dezactivate, cu excepția elementelor pe care le permiteți mai sus.</string>
+    <string name="zen_sound_footer">Când este activată funcția Nu deranjați, sunetele și vibrațiile vor fi dezactivate, cu excepția elementelor pe care le permiteți mai sus.</string>
     <string name="zen_sound_none_muted">Sunetul nu este dezactivat</string>
     <string name="zen_sound_one_allowed">Sunetul este dezactivat, dar permiteți %1$s</string>
     <string name="zen_sound_three_allowed">Sunetul este dezactivat, dar permiteți %1$s, %2$s, și %3$s</string>
     <string name="zen_sound_title">Sunete și vibrații</string>
     <string name="zen_sound_two_allowed">Sunetul este dezactivat, dar permiteți %1$s și %2$s</string>
     <string name="zen_suggestion_summary">Întrerupeți notificările pentru a vă păstra concentrarea</string>
-    <string name="zen_suggestion_title">Actualizați funcția Nu deranja</string>
+    <string name="zen_suggestion_title">Actualizați funcția Nu deranjați</string>
     <string name="zone_auto">Fus orar automat</string>
     <string name="zone_auto_summaryOff">Utilizaţi ora furnizată de operatorul de reţea</string>
     <string name="zone_auto_summaryOn">Utilizaţi ora furnizată de operatorul de reţea</string>
