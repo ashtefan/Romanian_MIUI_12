@@ -72,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activați</string>
     <string name="fp_nav_center_action_choose_dlg_title">Activați Apăsarea scurtă a butonului Acasă</string>
-    <string name="frequent_email">E-mailuri frecvente</string>
+    <string name="frequent_email">E-mailuri utilizate frecvent</string>
     <string name="frequent_phrases">Expresii frecvente</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Fiți pe fază!</string>
     <string name="global_actions_airplane_mode">Modul Avion</string>

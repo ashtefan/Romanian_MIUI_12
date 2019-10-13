@@ -101,6 +101,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="operation_create_group">Nume</string>
     <string name="operation_create_group_message">Introduceți numele noului grup</string>
     <string name="performance_category">Performanță</string>
+    <string name="permstep_description">"Permiteți aplicației să citească informațiile despre numărul de pași efectuați"</string>
+    <string name="permstep_label">Citire număr pași efectuați</string>
     <string name="power_center">Optimizare acumulator</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s rulează anormal</string>
     <string name="power_checker_background_cpu_title">%1$s rulează anormal</string>
