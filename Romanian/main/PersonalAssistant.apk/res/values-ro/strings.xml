@@ -822,6 +822,9 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="midrop_parent">Mi Drop</string>
     <string name="midrop_send">Trimiteți</string>
     <string name="mifare_card">Simulator card</string>
+    <string name="migu_game">Mini jocuri</string>
+    <string name="migu_parent">Migu</string>
+    <string name="migu_video">Videoclipuri</string>
   <string name="mini_cancel">Renunțați</string>
     <string name="miot_cta_dialog_title">Permiteți autorizarea</string>
     <string name="miot_del_dialog_cancel">Păstrați</string>
