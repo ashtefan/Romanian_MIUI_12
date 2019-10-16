@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%d articole în acest topic</item>
-        <item quantity="one">%d articol în acest topic</item>
+        <item quantity="other">Vedeți %s articole recomandate pentru dvs.</item>
+        <item quantity="one">Vedeți %s articol recomandat pentru dvs.</item>
     </plurals>
     <plurals name="llks_tools_remote_control_data">
-        <item quantity="other">%d elemente</item>
-        <item quantity="one">%d element</item>
+        <item quantity="other">%s elemente</item>
+        <item quantity="one">%s element</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%d dispozitive</item>
-        <item quantity="one">%d dispozitiv</item>
+        <item quantity="other">%s dispozitive</item>
+        <item quantity="one">%s dispozitiv</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s persoane abonate</item>
@@ -31,5 +31,9 @@
     <plurals name="time_minute_ago">
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d imagini</item>
+        <item quantity="one">%d imagine</item>
     </plurals>
 </resources>

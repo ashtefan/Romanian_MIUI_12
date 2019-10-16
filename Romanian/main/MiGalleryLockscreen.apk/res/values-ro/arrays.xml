@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="feature_desc">
-        <item>S-au remediat unele probleme cunoscute.</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -31,5 +28,22 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+    <string-array name="feature_desc">
+        <item>Optimizat pentru utilizatori de pe tot globul de către xiaomi.eu</item>
     </string-array>
 </resources>
