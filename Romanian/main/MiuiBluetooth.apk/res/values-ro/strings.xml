@@ -17,6 +17,8 @@
     <string name="bluetooth_search_for_devices">Căutați dispozitive</string>
     <string name="device_picker">Setări dispozitiv Bluetooth</string>
     <string name="disconnect">Deconectați</string>
+    <string name="expand_button_title">Avansat</string>
+    <string name="fast_connect_device_battery">Acumulator</string>
     <string name="fast_connect_device_box">Decodor</string>
     <string name="fast_connect_device_box_name">Decodor %1$s</string>
     <string name="fast_connect_device_connect_cancel">Renunțați</string>
@@ -24,14 +26,13 @@
     <string name="fast_connect_device_connect_retry">Reîncercați</string>
     <string name="fast_connect_device_connect_setup">Setări</string>
     <string name="fast_connect_device_connect_success">Realizat</string>
-    <string name="fast_connect_device_headset">Acumulator</string>
     <string name="fast_connect_device_headset_l">Stânga</string>
     <string name="fast_connect_device_headset_r">Dreapta</string>
     <string name="fast_connect_device_headset_reset">Apăsați și mențineți apăsat butonul de pe decodor</string>
     <string name="fast_connect_device_title_connect_fail">"Nu s-a putut conecta %1$s"</string>
     <string name="fast_connect_device_title_connecting">Se conectează…</string>
-    <string name="fast_connect_device_title_find_headset">Găsiți setul cu căști %1$s</string>
-    <string name="fast_connect_device_title_find_headset_others">Găsiți setul cu căști %1$s others</string>
+    <string name="fast_connect_device_title_find_headset">Găsiți %1$s</string>
+    <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
     <string name="goto_package">Deschideți %1$s</string>
     <string name="install_package">Instalați %1$s pentru mai multe facilități</string>
     <string name="mi_band_vibrate_alarm">Vibrrează când sună alarma</string>

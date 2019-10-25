@@ -97,6 +97,7 @@
     <string name="click_to_update">Atingeți pentru a căuta actualizări</string>
     <string name="click_to_view">Atingeți pentru a vizualiza</string>
     <string name="close">Închideţi</string>
+    <string name="cloud_recommend_view_tip">Activați sincronizarea cu Cloud pentru a restabili mesajele importante oricând</string>
     <string name="cloud_state_disabled">Activați sincronizarea cu Xiaomi Cloud pentru a sincroniza mesajele</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Xiaomi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Xiaomi Cloud…</string>

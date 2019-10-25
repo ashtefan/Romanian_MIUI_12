@@ -122,6 +122,7 @@
     <string name="feed_search_fail">Niciun rezultat; reîncercați</string>
     <string name="feedback_description_camera_access">"Aplicația Scaner nu se poate conecta la Cameră"</string>
     <string name="feedback_description_save_photo">"Nu s-a putut salva fotografia sau videoclipul"</string>
+    <string name="flight_mode_connecting_to_wifi">Activați manual conexiunea Wi-Fi atunci când modul Avion este activ</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
@@ -130,8 +131,6 @@
     <string name="impunity_declaration_negative_text">Ieșire</string>
     <string name="impunity_declaration_title">Politica de Confidențialitate</string>
     <string name="jd_shopping_title">Căutați pe JD</string>
-  <string name="jszc">手机淘宝拍立淘提供技术支持</string>
-  <string name="jzz">加载中</string>
     <string name="keywords_search_code">Scaner;Scanare;Cod QR;QR;Recunoaștere;Cod de bare;Coduri de bare;Produs;Produse;Alipay;WeChat;Cum să scanați codurile QR;Cum să scanați codurile de bare;Cum să scanați;Scaner MIUI</string>
     <string name="keywords_search_document">Scaner;Scanare document;Scanare documente;OCR;Scanare text;Scanare</string>
     <string name="keywords_search_namecard">Scaner;Carte de vizită;Cărți de vizită;Scan;Scanări;Card;Carduri;Contacte;Contact</string>

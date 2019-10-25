@@ -13,12 +13,12 @@
         <item quantity="one">Se restaurează %d fișier</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Prioritate ridicată: %d elemente</item>
-        <item quantity="one">Prioritate ridicată: %d element</item>
+        <item quantity="other">Prioritate ridicată: %d aplicații</item>
+        <item quantity="one">Prioritate ridicată: %d aplicație</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">Prioritate normală: %d elemente</item>
-        <item quantity="one">Prioritate normală: %d element</item>
+        <item quantity="other">Prioritate normală: %d aplicații</item>
+        <item quantity="one">Prioritate normală: %d aplicație</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d aplicații pe acest dispozitiv</item>

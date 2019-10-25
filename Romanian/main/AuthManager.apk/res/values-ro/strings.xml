@@ -147,7 +147,7 @@
     <string name="HIPS_Perm_Notification_Hint">%1$s aplicaţii pot afişa notificări în bara de stare</string>
     <string name="HIPS_Perm_PhoneID">Obținere informații despre telefon</string>
     <string name="HIPS_Perm_PhoneID_Desc">Obţinere număr de telefon, IMEI și IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Accesare număr de telefon și IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Accesare număr de telefon și stare dispozitiv</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s aplicaţii pot citi IMEI-ul și IMSI-ul telefonului</string>
     <string name="HIPS_Perm_PhoneID_ICCID">"citire ICCID telefon"</string>
     <string name="HIPS_Perm_PhoneID_IMEI">"citire IMEI telefon"</string>

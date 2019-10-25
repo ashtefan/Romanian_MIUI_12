@@ -121,6 +121,7 @@
     <string name="online_recognize_order_upload">Confirmați și încărcați</string>
     <string name="online_recognize_order_uploading">Se încarcă %s…</string>
     <string name="online_recognize_other_order_upload">Așteptați finalizarea încărcării curente și încercați din nou.</string>
+    <string name="online_recognize_progress">Transcriere %s…</string>
     <string name="online_recognize_running">Transcriere…</string>
     <string name="online_recognize_service_unavailable">"Serviciul nu este disponibil acum. Așteptați un minut sau două și încercați din nou."</string>
     <string name="order_item_duration">Durată: %s</string>
@@ -225,9 +226,11 @@
     <string name="retry">Reîncercaţi</string>
     <string name="runtime_permission_ungranted">"Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacordate</string>
     <string name="search_app">Înregistrare</string>
+    <string name="search_empty">Nu s-au găsit rezultate</string>
     <string name="search_enable_earpiece_title">Utilizare receptor pentru redarea fișierelor audio</string>
+    <string name="search_hint">Căutare</string>
     <string name="search_led_indicator">Indicator luminos intermitent</string>
-  <string name="search_led_indicator_prompt">În timpul înregistrării, afișează un widget în bara de stare iar led-ul de notificare va pulsa în blocarea ecranului</string>
+    <string name="search_led_indicator_prompt">În timpul înregistrării, afișează un widget în bara de stare iar led-ul de notificare va pulsa în blocarea ecranului</string>
     <string name="search_quliaty_title">Calitatea înregistrării</string>
     <string name="search_scenes">Tipul înregistrării</string>
     <string name="search_silent_mode">Dezactivați soneria în timpul înregistrării</string>

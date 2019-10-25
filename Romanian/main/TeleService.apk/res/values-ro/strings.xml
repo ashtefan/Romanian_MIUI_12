@@ -1783,17 +1783,30 @@ Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mob
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_auth_password_wrong">Parola poate fi incorectă</string>
     <string name="wifi_auto_sel_wapi_cert">Selectează în mod automat</string>
-    <string name="wifi_call_accept">OK</string>
+    <string name="wifi_call_accept">Omiteți</string>
     <string name="wifi_call_available_message">"Puteți realiza apeluri prin Wi-Fi acum. Dacă sunteți conectat la o rețea Wi-Fi, veți putea vorbi chiar și atunci când vă aflați într-o zonă fără acoperire a operatorului."</string>
     <string name="wifi_call_available_title">Se activează apelarea prin Wi-Fi</string>
-    <string name="wifi_call_cancel">Renunțați</string>
+    <string name="wifi_call_cancel">Mai multe informații</string>
     <string name="wifi_call_help">Ajutor</string>
-    <string name="wifi_call_help_message">"Dacă selectați rețele mobile preferate, acestea vor fi utilizate implicit pentru apeluri. În cazul în care nu există semnal mobil sau acesta este slab, se va utiliza rețeaua Wi-Fi în schimb."</string>
+    <string name="wifi_call_help_message_1">"Apelarea prin Wi-Fi este un serviciu oferit de Orange care vă permite să efectuați și să primiți apeluri prin Wi-Fi. Această caracteristică poate fi folosită în zonele cu o acoperire slabă a rețelei mobile.
+
+Pentru a utiliza apelarea prin Wi-Fi, activați în Setări &gt; Apelare prin Wi-Fi.
+
+Pentru a activa serviciul, Orange vă va trimite un mesaj de confirmare imediat ce serviciul va fi disponibil. După aceasta, vă veți putea conecta la o rețea Wi-Fi și veți puteți efectua apeluri.
+
+Apelurile efectuate prin Wi-Fi vor fi taxate în conformitate cu condițiile abonamentului dvs.
+
+Atunci când această caracteristică este disponibilă, următoarea pictogramă va fi afișată în partea de sus a ecranului."</string>
+    <string name="wifi_call_help_message_2">"Dacă alegeți să se prefere rețelele Wi-Fi, acestea vor fi utilizate în mod implicit pentru a efectua apelurile telefonice. În cazul în care nu sunteți conectat la Wi-Fi sau semnalul este slab, rețelele mobile vor fi utilizate pentru a efectua apeluri.
+
+Dacă alegeți să se prefere rețelele mobile, acestea vor fi utilizate în mod implicit pentru a efectua apelurile telefonice. În cazul în care nu există acoperire a rețelei mobile sau semnalul este slab, se vor utiliza rețele Wi-Fi."</string>
     <string name="wifi_call_help_title">Ajutor apelare prin Wi-Fi</string>
     <string name="wifi_call_notification_message">"Acest serviciu este furnizat de către Orange. Este posibil să dureze câteva ore până la activarea serviciului. Veți primi un SMS de confirmare de îndată ce va fi disponibil."</string>
+    <string name="wifi_call_preferred_summary">Dacă alegeți să se prefere rețelele mobile, rețelele mobile vor fi utilizate pentru apeluri în mod implicit. În cazul în care nu există acoperire a rețelei mobile sau semnalul este slab, se va utiliza rețeaua Wi-Fi.</string>
     <string name="wifi_call_setting">Apeluri prin Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_de">Apelare prin Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Apel Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">Apeluri prin Wi-Fi</string>
     <string name="wifi_calling">Apelare prin Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
     <string name="wifi_disabled_by_recommendation_provider">Neconectat datorită calității slabe a rețelei</string>

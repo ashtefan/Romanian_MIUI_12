@@ -4,6 +4,7 @@
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
     <string name="add_screen">Adăugați un ecran</string>
+    <string name="additional_settings">Setări adiționale</string>
     <string name="all_apps">Toate aplicațiile</string>
     <string name="all_apps_no_search_results">"Nu s-au găsit rezultate"</string>
     <string name="all_apps_search_app">Căutați aplicații</string>
@@ -14,6 +15,9 @@
     <string name="all_apps_setting_drawer_tips_desc">Sertarul de aplicații se deschide glisând în sus pe Ecranul principal. Comutarea la modul Ecran principal cu Sertarul de aplicații va face funcția de căutare indisponibilă. Comutați oricum?</string>
     <string name="all_apps_setting_drawer_tips_title">Se utilizează Sertarul de aplicații</string>
     <string name="all_apps_setting_drawer_title">Cu Sertarul de aplicații</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+    <string name="all_apps_setting_original_scrollbar">Aspect original</string>
+    <string name="all_apps_setting_scroll_bar">Bară de derulare</string>
     <string name="all_apps_setting_title">Ecranul principal</string>
     <string name="all_apps_slide_up_tips">Glisarea în sus este rezervată pentru deschiderea Sertarului de aplicații. Comutați la modul Ecran principal obișnuit și apoi încercați din nou.</string>
     <string name="all_apps_suggestions">Sugestii de aplicații</string>
@@ -75,6 +79,7 @@
     <string name="apply_as_lock_screen">Setați ca Blocare a ecranului</string>
     <string name="apply_as_wallpaper">Setați ca Ecran de pornire</string>
     <string name="apply_both">Ambele</string>
+    <string name="apply_text">APLICARE</string>
     <string name="aqi_quality_index_dangerous">Periculos</string>
     <string name="aqi_quality_index_good">Bun</string>
     <string name="aqi_quality_index_hazardous">Primejdios</string>
@@ -90,7 +95,6 @@
     <string name="cant_remove_folder">"Nu se poate elimina dosarul"</string>
     <string name="cant_remove_retained_app">"Nu a putut fi eliminată această aplicație"</string>
     <string name="cant_remove_system_app">"Nu se poate elimina o aplicație de sistem"</string>
-    <string name="cell_icon_size_title">Dimensiunea pictogramelor</string>
     <string name="change_wallpaper">Modificați</string>
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
@@ -124,6 +128,11 @@
     <string name="download_action">Descărcare</string>
     <string name="drag_multiple_item_name"/>
     <string name="drag_single_item_name"/>
+    <string name="drawer_background">Fundal</string>
+    <string name="drawer_background_dark">Întunecat</string>
+    <string name="drawer_background_light">Deschis</string>
+    <string name="drawer_background_transparency">Transparența fundalului sertarului de aplicații</string>
+    <string name="drawer_settings">Sertar de aplicații</string>
     <string name="dual_app">Aplicații clonate</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -214,8 +223,10 @@
     <string name="home_gesture_notification_bar">Notificări</string>
     <string name="home_pull_down_action">Glisați în jos în Ecranul principal</string>
     <string name="home_screen">Ecranul principal</string>
+    <string name="home_screen_settings">Ecranul principal</string>
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
     <string name="icon_reorganize_channel">Aranjați pictogramele</string>
+    <string name="icon_size">Dimensiunea pictogramelor</string>
     <string name="image_too_small_message">"Imaginea originală nu este destul de mare"</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact nevalid</string>
@@ -231,6 +242,7 @@
     <string name="liked">Adăugat la favorite</string>
     <string name="loading_desktop">Doar o secundă…</string>
     <string name="loading_wallpaper">Doar o secundă…</string>
+    <string name="local_apps">Aplicații locale</string>
     <string name="local_wallpaper">Descărcate</string>
     <string name="lock_screen">Blocarea ecranului</string>
     <string name="lock_screen_cells_title">Blocați dispunerea Ecranului principal</string>
@@ -262,8 +274,6 @@
     <string name="menu_workspace_preview">Previzualizare Ecran principal</string>
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
     <string name="minus_one_screen">Asistentul inteligent</string>
-    <string name="minus_one_screen_google">Google</string>
-    <string name="minus_one_screen_none">Nimic</string>
     <string name="miui_screen_config_title">Setări pentru Ecranul principal</string>
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
@@ -318,6 +328,7 @@
     <string name="recent_apps">Recente</string>
     <string name="recents_config_title">Recente</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
+    <string name="recommend_app">Sugestii pentru aplicații</string>
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_no_data">Nu există date</string>
     <string name="recommend_apps_no_data_toast">Nicio recomandare deocamdată.</string>
@@ -337,6 +348,8 @@
     <string name="screen_cells_config_title">Dispunerea Ecranului principal</string>
     <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
+    <string name="search_in_apps_store">Căutați \"%1$s\" în %2$s</string>
+    <string name="search_no_result">Nu s-a găsit niciun rezultat</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_frame">Cadru</string>
     <string name="select_photo">Fotografie</string>
@@ -353,7 +366,8 @@
     <string name="shortcut_share_dialog_title">Act de renunțare</string>
     <string name="show_all">Afişaţi tot</string>
     <string name="show_mem_info_title">Afișați starea memoriei</string>
-    <string name="show_recents_recommend_title">Afișează sugestii</string>
+    <string name="show_most_popular_apps_you_used">Se afișează aplicațiile utilizate cel mai frecvent în sertar</string>
+    <string name="show_recents_recommend_title">Se afișează sugestii</string>
     <string name="sort_by_abc">Sortare după nume</string>
     <string name="sort_by_frequency">Sortare după utilizare</string>
     <string name="sort_by_not_defined">Sortare automată</string>
@@ -365,6 +379,7 @@
     <string name="status_paused">în pauză</string>
     <string name="status_pending">în aşteptare</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>
+    <string name="system_text">Sistem</string>
     <string name="title_jeejen">Ecran principal Jeejen</string>
     <string name="title_select_live_folder">Selectaţi dosarul</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>

@@ -16,6 +16,8 @@
     <string name="collapse_handle">Restrângeți mânerul</string>
     <string name="connectio_delay_content">Este posibil să fie nevoie să confirmați conexiunea pe imprimanta dvs.</string>
     <string name="connectio_help_title">Se conectează la o imprimantă</string>
+    <string name="copies_decrease">Minus o copie</string>
+    <string name="copies_increase">Plus o copie</string>
     <string name="could_not_create_file">Nu s-a putut crea fișierul</string>
     <string name="delete_saved_printer_content">Ștergeți imprimantele selectate acum?</string>
     <string name="destination_default_text">Selectați o imprimantă</string>

@@ -84,6 +84,7 @@
     <string name="handy_mode_summary">Pentru a închide, apăsați pe zona întunecată</string>
     <string name="handy_mode_title">Modul Operare cu o mână</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasați degetul pe butonul Acasă</string>
+    <string name="input_method_clipboard_tips">Elementele copiate vor fi șterse din clipboard după 48 de ore</string>
     <string name="input_method_edit_phrase_text">Editați expresiile frecvente</string>
     <string name="input_method_no_content_text">Niciun element aici</string>
     <string name="input_method_switch_settings_text">Setările tastaturii</string>
