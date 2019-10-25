@@ -89,6 +89,7 @@
     <string name="feedback_choose_app_tag">Selectați problema</string>
     <string name="feedback_choose_module">Selectați elementul</string>
     <string name="feedback_choose_module_hint">Necesar</string>
+    <string name="feedback_choose_occurrence_time">Timp</string>
     <string name="feedback_choose_reproductivity">Reproductivitate</string>
     <string name="feedback_choose_third_app_name">Selectați numele aplicației</string>
     <string name="feedback_collect_log_failed">"Nu s-au putut obține rapoartele de eroare"</string>
@@ -118,6 +119,7 @@
     <string name="feedback_detail_waiting">Se generează…</string>
     <string name="feedback_empty_report_list">Niciun raport încă</string>
     <string name="feedback_guess">Părerea noastră</string>
+    <string name="feedback_hint_optional">Selectați</string>
     <string name="feedback_history_remind_login_desc">"Conectați-vă la contul Mi pentru a vedea detaliile și progresul raportului dumneavoastră"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Cheia JIRA: %s</string>
@@ -182,6 +184,7 @@
     <string name="feedback_third_packagename_hint">Care aplicație terță cauzează probleme?</string>
     <string name="feedback_title">Titlu</string>
     <string name="feedback_title_hint">Descrieți pe scurt problema</string>
+    <string name="feedback_title_occurrence_time">Selectați timpul</string>
     <string name="feedback_title_reproductivity">Selectați frecvența de apariție</string>
     <string name="feedback_tracking">Urmăriți problemele</string>
     <string name="feedback_version_label">Versiunea</string>

@@ -1545,6 +1545,16 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Animație la scara  5x</item>
         <item>Animație la scara  10x</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Se ajustează culorile în funcție de iluminarea curentă</item>
+        <item>Se intensifică culorile întotdeauna</item>
+        <item>Se restaurează culoarea standard a conținutului ecranului cu calibrarea culorii</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Automat (recomandat)</item>
+        <item>Intens</item>
+        <item>Culoare originală</item>
+    </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>

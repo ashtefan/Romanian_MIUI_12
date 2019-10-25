@@ -165,6 +165,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Ștergere utilizând gesturi</string>
     <string name="pref_title_todo_float_mode">Utilizați setul de instrumente</string>
     <string name="pref_title_todo_shorcut">Set de instrumente</string>
+    <string name="privacy_note_content_empty">Nu există elemente aici.</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Așteptați încărcarea notiței și reîncercați.</string>

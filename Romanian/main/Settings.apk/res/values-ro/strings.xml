@@ -212,6 +212,7 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="add_account_label">Adăugaţi un cont</string>
     <string name="add_auto_startup_application">Adăugaţi aplicaţii cu pornire automată</string>
     <string name="add_back_fingerprint_instruction_msg">Plasați degetul pe senzor</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">Senzorul de amprentă este situat pe marginea din dreapta a dispozitivului</string>
     <string name="add_device_admin">Activaţi acest administrator de dispozitiv</string>
     <string name="add_device_admin_msg">Activaţi acest administrator de dispozitiv?</string>
     <string name="add_facerecoginition_text">Adăugați datele faciale</string>
@@ -2942,7 +2943,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
     <string name="lockscreen_label">Ecran de blocare</string>
     <string name="lockscreen_magazine">Carusel imagini de fundal</string>
-    <string name="lockscreen_magazine_summary">Calitate ridicată pentru imaginile de fundal</string>
+    <string name="lockscreen_magazine_summary">Imagini uimitoare și povești interesante livrate zilnic</string>
     <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
     <string name="lockscreen_settings_title">Preferințe blocare ecran</string>
@@ -4673,7 +4674,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_vpn_settings_password">Parolă de protecție VPN;Protejați setările pentru VPN</string>
     <string name="search_vpn_settings_title">VPN;Creați VPN;Activați VPN</string>
     <string name="search_wakeup_for_keyguard_notification_title">Trezire ecran pentru notificări;trezire ecran;trezire telefon;trezire dispozitiv</string>
-    <string name="search_wallpaper_settings_title">Imaginea de fundal;Ecranul principal;Blocarea eranului</string>
+    <string name="search_wallpaper_settings_title">Imagine de fundal;Ecranul principal;Blocarea eranului</string>
     <string name="search_wfd_settings_title">Ecran wireless;Activați ecran wireless;WiDi;Proiectare;Afișare Wi-Fi;Afișare la distanță;Afișaj</string>
     <string name="search_wifi_advanced_ip_address_title">Adresă IP;IP</string>
     <string name="search_wifi_advanced_mac_address_title">Adresă MAC</string>
@@ -6108,7 +6109,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wallpaper_settings_fragment_title">Aleg. o imag. de fundal de la</string>
     <string name="wallpaper_settings_summary_custom">Personalizat</string>
     <string name="wallpaper_settings_summary_default">Implicit</string>
-    <string name="wallpaper_settings_title">Imaginea de fundal</string>
+    <string name="wallpaper_settings_title">Imagine de fundal</string>
     <string name="wallpaper_suggestion_summary">Personalizați-vă ecranul</string>
     <string name="wallpaper_suggestion_title">Modificare imagine de ecran</string>
     <string name="wapi_auto_sel_cert">Selectați în mod automat</string>

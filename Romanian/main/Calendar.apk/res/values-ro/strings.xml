@@ -152,7 +152,7 @@
     <string name="date_jump_title">Treceți la data</string>
   <string name="date_pattern_mm_dd">luna M ziua d</string>
     <string name="date_today">" (astăzi)"</string>
-    <string name="day_view_new_event_hint">+ Eveniment nou</string>
+    <string name="day_view_new_event_hint">Eveniment nou</string>
     <string name="default_reminder_later_time">Intervalul implicit pentru \"Amintește-mi mai târziu\"</string>
     <string name="default_reminder_mode">Memento-uri</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
@@ -222,7 +222,7 @@
     <string name="event_info_reminders_label">Mementouri</string>
     <string name="event_info_reminders_label_1">Memento</string>
     <string name="event_info_repeat">Repetare</string>
-    <string name="event_info_title">Vizualizaţi evenimentul</string>
+    <string name="event_info_title">Detalii eveniment</string>
     <string name="event_info_title_anniversary">Aniversare</string>
     <string name="event_info_title_birthday">Zi de naștere</string>
     <string name="event_info_title_countdown">Numărătoare inversă</string>
@@ -388,8 +388,8 @@
     <string name="month_medium_september">Sept</string>
     <string name="month_view">Lună</string>
     <string name="monthly">Lunar</string>
-    <string name="monthly_on_day">Lunar (în aceeași zi)</string>
-    <string name="monthly_on_day_count">Lunar (%1$s a fiecărei luni)</string>
+    <string name="monthly_on_day">Lunar (aceeași dată)</string>
+    <string name="monthly_on_day_count">Lunar (%1$s)</string>
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$d</string>
     <string name="movie_event_delete_successfully">Bilet de film șters cu succes</string>
@@ -546,7 +546,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_about_summary">Versiune: </string>
     <string name="setting_accounts">Conturi Calendar</string>
     <string name="setting_chinese_calendar">Calendar Chinezesc</string>
-  <string name="setting_content_promotion">内容推广</string>
     <string name="setting_daysoff_no_update">Informațiile despre sărbătorile oficiale sunt actualizate.</string>
     <string name="setting_daysoff_update">Actualizați informațiile despre sărbătorile oficiale</string>
     <string name="setting_daysoff_update_cta_cancel">Permiteți mai întâi conectarea Calendarului la internet</string>
@@ -558,8 +557,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_holiday_display_desc">Zilele libere apar sub agendă în pagina de pornire</string>
     <string name="setting_holiday_reminder">Arată zilele libere</string>
     <string name="setting_others">Altele</string>
-  <string name="setting_recommend">功能推荐</string>
-  <string name="setting_recommend_summary">首页订阅推荐入口</string>
+    <string name="setting_show_reject_agenda">Se afișează evenimentele respinse</string>
   <string name="setting_sms_import">SMS-uri import evenimente</string>
     <string name="setting_title_about">Despre</string>
   <string name="setting_title_debug">export jurnal</string>
@@ -656,7 +654,6 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="travel_item_virtual_sim">SIM Virtual Mi</string>
     <string name="travel_item_weather_forecast">Prognoza la destinație</string>
     <string name="travel_item_weather_now">Vremea la destinație</string>
-    <string name="travel_load_failed">"Nu s-a putut încărca"</string>
     <string name="travel_loaded">Susţinut de Veryzhun</string>
     <string name="travel_loading">Doar o secundă…</string>
     <string name="travel_local">Destinaţie</string>

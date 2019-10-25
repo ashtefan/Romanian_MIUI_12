@@ -83,7 +83,6 @@
     <string name="dialog_3g_title">Avertizare!</string>
     <string name="dialog_btn_3g">Continui oricum</string>
     <string name="dialog_btn_wifi">Comutați la Wi-Fi</string>
-
     <string name="dialog_delay_update_cancel">Renunțați</string>
     <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
     <string name="dialog_delay_update_title">Actualizare disponibilă</string>
@@ -94,11 +93,12 @@
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>
-  <string name="download_done">Descărcat cu succes!</string>
-  <string name="download_fail">Eroare survenită în timpul descărcării!</string>
-  <string name="download_fail_desc">Codul MD5 Sum nu se potrivește…</string>
-  <string name="downloading">Se descarcă:</string>
-  <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
+    <string name="download_done">Descărcat cu succes!</string>
+    <string name="download_fail">Eroare survenită în timpul descărcării!</string>
+    <string name="download_fail_desc">Codul MD5 Sum nu se potrivește…</string>
+    <string name="downloading">Se descarcă:</string>
+    <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
+    <string name="fetching_data">Se obține linkul de descărcare, așteptați…</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
     <string name="download_error">Ceva a mers prost. Așteptați un minut sau două și încercați din nou.</string>
     <string name="download_failed">Descărcarea a eșuat</string>
@@ -156,11 +156,12 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="my_worst_update">Cea mai rea actualizare</string>
     <string name="network_error">A apărut o eroare de rețea</string>
     <string name="new_updates_found_notification_title">Este disponibilă o actualizare</string>
-  <string name="new_version">A fost găsită o nouă versiune!</string>
+    <string name="new_version">A fost găsită o nouă versiune!</string>
     <string name="next">Înainte</string>
     <string name="no_info">Nicio informație disponibilă.</string>
+    <string name="no_mirror">În prezent, toate serverele sunt deconectate, încercați mai târziu…</string>
     <string name="no_log">Niciun rezumat disponibil</string>
-  <string name="no_network">Fără acces la rețea.</string>
+    <string name="no_network">Fără acces la rețea.</string>
     <string name="no_update">Aveți deja cea mai recentă versiune!</string>
     <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
     <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
@@ -168,10 +169,10 @@ Partiția de date nu va fi ștearsă."</string>
 Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
 
     <string name="not_open">Nu</string>
-  <string name="notif_cancel">Renunțați</string>
-  <string name="notif_install">Instalați</string>
-  <string name="notif_new_summary">Atingeți pentru detalii</string>
-  <string name="notif_new_title">Este disponibilă o nouă versiune!</string>
+    <string name="notif_cancel">Renunțați</string>
+    <string name="notif_install">Instalați</string>
+    <string name="notif_new_summary">Atingeți pentru detalii</string>
+    <string name="notif_new_title">Este disponibilă o nouă versiune!</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
     <string name="notification_delay_update_button">Actualizează peste 2 ore</string>
     <string name="notification_delay_update_cancel">"Nu actualiza la noapte"</string>

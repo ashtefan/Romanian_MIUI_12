@@ -43,6 +43,7 @@
     <string name="accessibility_intent_done_retry">Reluați</string>
     <string name="accessibility_lighting_panel_off">Bara de lumină de Studio este ascunsă</string>
     <string name="accessibility_lighting_panel_on">Se afișează bara de lumină de Studio</string>
+    <string name="accessibility_mode">Mod accesibilate</string>
     <string name="accessibility_mode_dismiss_button">Buton Închidere Selectare Moduri</string>
     <string name="accessibility_more">Mai multe</string>
     <string name="accessibility_open">Activat</string>

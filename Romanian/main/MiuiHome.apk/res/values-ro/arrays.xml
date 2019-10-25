@@ -58,13 +58,6 @@
         <item>La stânga</item>
         <item>La dreapta</item>
     </string-array>
-    <string-array name="cell_icon_size_entries">
-        <item>Minuscule</item>
-        <item>Mici</item>
-        <item>Medii</item>
-        <item>Mari</item>
-        <item>Uriaș</item>
-    </string-array>
     <string-array name="minus_screen_entries">
         <item>Nimic</item>
         <item>Asistent inteligent</item>

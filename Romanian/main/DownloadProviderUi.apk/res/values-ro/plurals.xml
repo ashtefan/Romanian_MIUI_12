@@ -12,6 +12,22 @@
         <item quantity="other">S-au găsit %d elemente</item>
         <item quantity="one">S-a găsit 1 element</item>
     </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d oră</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d secunde</item>
+        <item quantity="one">%1$d secundă</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Ștergeți %d elemente?</item>
         <item quantity="one">Ștergeți acest element?</item>
