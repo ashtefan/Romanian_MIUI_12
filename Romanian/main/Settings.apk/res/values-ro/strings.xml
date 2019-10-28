@@ -1312,9 +1312,6 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="config_backup_settings_label"/>
     <string name="config_charging_function_name">Încărcare</string>
     <string name="config_list_label">Reţele configurate</string>
-    <string name="config_mass_storage_function_name">stocare în masă</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>
     <string name="configure">Configurați</string>
     <string name="configure_apps">Configurați aplicațiile</string>
     <string name="configure_input_method">Configuraţi metodele de intrare</string>
