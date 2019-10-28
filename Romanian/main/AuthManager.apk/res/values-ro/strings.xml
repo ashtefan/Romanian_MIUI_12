@@ -294,8 +294,8 @@
     <string name="grant_dialog_button_allow_foreground">Permiteți doar când se utilizează aplicația</string>
     <string name="grant_dialog_button_deny">Revoc</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Refuză și nu mai întreba din nou"</string>
-    <string name="grant_dialog_button_deny_background">Menține accesul când este utilizată</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Menține și nu mai întreba din nou"</string>
+    <string name="grant_dialog_button_deny_background">Doar în timpul utilizării aplicației</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Refuză și nu mai întreba din nou</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="never_ask_again">"Nu întreba din nou"</string>
@@ -303,6 +303,7 @@
     <string name="permdesc_camera">Realizarea de fotografii și înregistrarea de videoclipuri</string>
     <string name="permdesc_in_calls">Monitorizarea apelurilor primite</string>
     <string name="permdesc_location">Accesarea informațiilor despre locație</string>
+    <string name="permdesc_location_background">Acces la locație în fundal</string>
     <string name="permdesc_microphone">Înregistrarea de sunete</string>
     <string name="permdesc_out_calls">Monitorizarea apelurilor efectuate</string>
     <string name="permdesc_read_calendar">Accesarea evenimentelor din calendar</string>
