@@ -294,10 +294,12 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_face_unlock_title">Deblocare facială</string>
     <string name="applock_function_base_settings">Blocare aplicații</string>
     <string name="applock_function_pwd_settings">Parolă</string>
+    <string name="applock_go_to">Setări</string>
     <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil. Mutați puțin mai departe.</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
     <string name="applock_not_add_account">&lt;u&gt;Not now&lt;/u&gt;</string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
+    <string name="applock_settings_unlock_all_toast">Toate aplicațiile au fost deblocate</string>
     <string name="applock_toast_tip">Blocare aplicații verificată cu succes</string>
     <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
@@ -1296,6 +1298,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
+    <string name="lock_all_title">Blocați toate aplicațiile</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s utilizaţi la blocarea ecranului</string>
     <string name="lock_screen_traffic_guide_notification_title">Apăsați pentru a gestiona utilizarea datelor.</string>
@@ -1815,6 +1818,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">Blocați dispozitivul după %d secunde de inactivitate</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_one_key_save">Optimizați</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
@@ -2442,10 +2446,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile solicitate sau nu ne permiteți să colectăm și să utilizăm datele personale, această aplicație nu va putea funcționa în mod normal."</string>
     <string name="system_permission_declare_no_say_no_analytics">"Dacă nu doriți să acordați aceste permisiuni, puteți să vă dezabonați din Setări &gt; Setări adiționale &gt; Confidențialitate &gt; Program Experiență Utilizator."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Dacă ați ales să nu acordați permisiunile necesare sau nu doriți să ne permiteți să colectăm și să utilizăm datele dvs., această aplicație nu va putea rula parțial."</string>
-    <string name="system_permission_declare_privacy_declare">"Vă respectăm și vă protejăm confidențialitatea.
-Luați în considerare faptul că %1s trebuie să colecteze datele personale și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
-    <string name="system_permission_declare_privacy_no_permission">"Luați în considerare faptul că %1s trebuie să colecteze date pentru a funcționa în mod normal.
-Vă respectăm și vă protejăm confidențialitatea."</string>
+    <string name="system_permission_declare_privacy_declare">Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Rețineți că aplicația Securitate trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:</string>
+    <string name="system_permission_declare_privacy_no_permission">Rețineți că aplicația Securitate trebuie să se conecteze la internet și să colecteze informațiile personale necesare pentru a vă oferi servicii. Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">Puteți părăsi această aplicație.</string>
     <string name="system_permission_declare_revoke_uninstallable">Vă puteți deconecta, puteți dezinstala această aplicație sau revoca autorizarea în Securitate> Gestionare aplicații> Permisiuni> Permisiuni.</string>

@@ -51,6 +51,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">"Dacă problema raportată este legată de calitatea imaginii camerei, adăugați o mostră foto originală (nedecupată) pentru a ne ajuta să localizăm problema. Adăugați o fotografie acum?"</string>
     <string name="miui_feedback_edit_choose_module">Selectați elementul</string>
     <string name="miui_feedback_edit_choose_module_hint">Necesar</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Timpul</string>
     <string name="miui_feedback_edit_choose_reproductivity">Reproductivitate</string>
     <string name="miui_feedback_edit_choose_third_app_name">Selectați numele aplicației</string>
     <string name="miui_feedback_edit_contact_info_hint">Număr de telefon/E-mail</string>
@@ -63,6 +64,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Renunțați la draft?</string>
     <string name="miui_feedback_edit_hint">Raportați orice bug de fiecare dată când intalniți așa ceva, pentru a ne ajuta să le rezolvăm cât mai repede</string>
     <string name="miui_feedback_edit_hint_gone">Mesaj închis</string>
+    <string name="miui_feedback_edit_hint_optional">Selectați</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Așteptați Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Încărcați</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Se pare că sunteți conectat la o rețea tarifată. Încărcarea jurnalelor poate genera taxe suplimentare."</string>
@@ -97,6 +99,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Nu afișa din nou"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Trimiteţi raportul</string>
     <string name="miui_feedback_edit_submit_directly">Trimiteți</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Selectați timpul</string>
     <string name="miui_feedback_edit_title_reproductivity">Selectați reproductivitatea</string>
     <string name="miui_feedback_edit_toast_description_required">Trebuie să faceți o descriere</string>
     <string name="miui_feedback_edit_toast_module_required">Selectați elementul</string>
