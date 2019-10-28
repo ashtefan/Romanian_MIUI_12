@@ -32,7 +32,8 @@
     <string name="ad_downloading">Descărcați…</string>
     <string name="app_name">Extensie serviciu de sistem</string>
     <string name="app_select_title">Adăugați aplicații utilizate frecvent</string>
-    <string name="cancel_button">Renunță</string>
+    <string name="cancel">Renunțați</string>
+    <string name="cancel_button">Renunțați</string>
     <string name="cta_main_purpose">Bine ați venit la Jocuri Turbo!</string>
     <string name="dialog_market_score_cancel">Renunțați</string>
     <string name="dialog_market_score_dislike">Comentați</string>
@@ -56,6 +57,11 @@
     <string name="fastboot_status_locked_summary">"Nu pot obține acces Root"</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
     <string name="fastboot_unlock_web_title">Mergeți la site-ul oficial MIUI pentru a obține unealta de deblocare.</string>
+    <string name="fingerprint_not_remind">Nu mai întreba</string>
+    <string name="free_send_net_booster">Accelerare gratuită a vitezei rețelei</string>
+    <string name="free_send_net_booster_busniess">Obțineți o accelerare a vitezei de la Xunlei</string>
+    <string name="free_send_net_booster_busniess_tip">Atingeți pentru a obține</string>
+    <string name="free_send_net_booster_tip">Beneficiați de jocuri rapide cu accelerare gratuită a vitezei de rețea.</string>
     <string name="function_close">Opriți</string>
     <string name="game_booster">Creștere viteză în jocuri</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a putea utiliza toate funcțiile Creșterii vitezei în jocuri?</string>
@@ -103,6 +109,9 @@
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuishare_wechat_timeline_title">Momente WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="net_booster_expire_notification">Sesiunea de accelerare a vitezei rețelei este pe cale să se încheie</string>
+    <string name="net_booster_overdue_notification">Sesiunea de accelerare a vitezei rețelei este pe cale să se încheie</string>
+    <string name="net_booster_overdue_notification_tip">Sesiunea de accelerare a vitezei rețelei este pe cale să se încheie. Reînnoiți sesiunea?</string>
     <string name="month_report_activity_label">Raport lunar</string>
     <string name="month_report_click_reconnect_network">Încercați din nou</string>
     <string name="month_report_disconnect_tip">"Nu se poate conecta la rețea"</string>
@@ -134,6 +143,7 @@
     <string name="power_autorun_apps_empty">Nicio aplicație cu pornire automată</string>
     <string name="privacy_declare_dialog_title">Termenii serviciului</string>
     <string name="privacy_prompt_traffic_purchase_message">"Numărul dumneavoastră de telefon și detaliile despre operator vor fi criptate și trimise la serverele Mi pentru a obține mai multe informații despre opțiunile de achiții de date."</string>
+    <string name="renew_now">Reînnoiți</string>
     <string name="release_memory">Goliți memoria cache</string>
     <string name="save_energy_text">"Restricționați pornirea automată și sincronizarea datelor aplicațiilor în fundal pentru a obține durata maximă de utilizare a acumulatorului telefonului"</string>
     <string name="save_energy_title">Optimizare consum de energie</string>

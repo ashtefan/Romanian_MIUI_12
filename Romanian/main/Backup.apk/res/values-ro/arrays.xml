@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="trans_succeed_survey_title">
-        <item>Apreciere generală</item>
+    <string-array name="trans_cancel_survey_title">
+        <item>Experiența generală</item>
         <item>Durata transferului</item>
         <item>Simplitatea procesului</item>
         <item>Claritatea instrucțiunilor</item>
+        <item>Această unealtă este utilă</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>Foarte dezamăgit</item>
@@ -13,14 +14,10 @@
         <item>Oarecum satisfăcut</item>
         <item>Foarte satisfăcut</item>
     </string-array>
-    <string-array name="trans_cancel_survey_title">
-        <item>Transferul durează prea mult</item>
-        <item>Conexiunea s-a întrerupt</item>
-        <item>Am selectat greșit elementele de transferat</item>
-        <item>Prea mulți pași</item>
-        <item>"Acumulatorul telefonului este descărcat"</item>
-        <item>Elementele transferate sunt corupte</item>
-        <item>Am pornit transferul în mod accidental</item>
-        <item>Altele</item>
+    <string-array name="trans_succeed_survey_title">
+        <item>Apreciere generală</item>
+        <item>Durata transferului</item>
+        <item>Simplitatea procesului</item>
+        <item>Claritatea instrucțiunilor</item>
     </string-array>
 </resources>

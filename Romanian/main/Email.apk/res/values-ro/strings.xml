@@ -177,6 +177,7 @@ Actualizaţi acum?"</string>
     <string name="add_pre_message_attachments_no">Nu se adaugă</string>
     <string name="add_pre_message_attachments_yes">Da</string>
     <string name="add_star">Cu stea</string>
+    <string name="all_purpose">Bine ați venit la aplicația E-mail! Acest client de e-mail a fost creat de către Kingsoft pentru Xiaomi. Puteți folosi această aplicație pentru a trimite și primi e-mailuri.</string>
     <string name="allread">Citiți tot</string>
     <string name="always_bcc_myself">Mi se trimite întotdeauna copie CCI</string>
     <string name="always_show_images">Afișați întotdeauna imaginile de la acest expeditor</string>
@@ -288,6 +289,7 @@ Actualizaţi acum?"</string>
     <string name="config_cancel">Renunțați</string>
     <string name="config_retry">Reîncercați</string>
     <string name="confirm">OK</string>
+    <string name="confirm_age">Confirmați vârsta</string>
     <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
     <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
     <string name="confirm_before_send">Confirmați înainte de a trimite</string>
@@ -547,6 +549,7 @@ Actualizaţi acum?"</string>
     <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Generale</string>
     <string name="help_and_info">Ajutor</string>
+    <string name="help_email_title">MI Mail</string>
     <string name="help_me_get_qq_auth">Obțineți codul de autorizare QQ</string>
     <string name="help_weixin_title">"Dacă aveți întrebări, scrieți-ne în contul nostru oficial WeChat: "</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
@@ -816,7 +819,9 @@ Actualizaţi acum?"</string>
     <string name="output_db_summary">Cum să vă exportați baza de date</string>
     <string name="output_db_title">Exportați baza de date</string>
     <string name="output_to_disk">Salvați jurnalele într-un fișier</string>
+    <string name="over_16_content">Confirmați că aveți peste 16 ani?</string>
     <string name="over_due">Depășire</string>
+    <string name="over_sixteen">"Am mai mult de 16 ani."</string>
     <string name="overlays_fail_tip">Ne pare foarte rău că nu s-a putut configura cu succes căsuța de e-mail; deschideți fereastra plutitoare de permisiuni și reîncercați</string>
     <string name="overlays_ok">Deschideți fereastra de permisiuni</string>
     <string name="overlays_tip">Setări telefon - Aplicații - Detalii aplicație - deschideți fereastra de permisiuni din managerul de permisiuni și bucurați-vă imediat de experiența extremă a configurării automate a căsuței de e-mail 139.</string>
@@ -851,12 +856,21 @@ Actualizaţi acum?"</string>
     <string name="perference_setup_send_tag">Server mesaje trimise</string>
     <string name="permission_access_provider_desc">Se permite aplicaţiei să acceseze baza de date e-mail, inclusiv mesajele recepţionate, mesajele trimise, numele de utilizatori şi parolele.</string>
     <string name="permission_access_provider_label">Accesare date e-mail oferite de KingSoft</string>
+    <string name="permission_des_calendar">Utilizată pentru a sincroniza mesajele calendar pentru dvs.</string>
+    <string name="permission_des_contact">Utilizată pentru a citi adresele de e-mail ale contactelor și a le completa rapid în e-mailuri</string>
+    <string name="permission_des_detail">"Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această aplicație. În acest caz puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări."</string>
+    <string name="permission_des_external_storage">Utilizată pentru a compune emailuri și pentru a citi fișierele locale în vederea finalizării procesului de adăugare și salvare atașamente</string>
+    <string name="permission_des_phone_status">Utilizată pentru a obține IMEI-ul în vederea distingerii diferitelor dispozitive</string>
+    <string name="permission_des_storage">Pentru crearea de e-mailuri noi, dar și pentru salvarea și adăugarea de atașamente</string>
     <string name="permission_read_attachment_desc">Se permite aplicaţiei să citească ataşamentele din e-mail.</string>
     <string name="permission_read_attachment_label">Citire ataşamente e-mail</string>
     <string name="permission_tip">Configurarea a eșuat, vă rugăm să permiteți efectuarea de apeluri și trimiterea de mesaje SMS în timpul configurării</string>
+    <string name="personal_data_collection_summary">Când butonul este activ, acceptați că putem colecta date personale. Puteți inactiva butonul, revoca autorizarea și șterge datele de pe serverele noastre oricând.</string>
+    <string name="personal_data_collection_title">Colectarea datelor personale</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
     <string name="photo_view_count">%1$d din %2$d</string>
+    <string name="pl_select_age">Vă rugăm selectați vârsta.</string>
     <string name="please_fill_in_your_mailbox_information2">Introduceţi datele căsuţei poştale.</string>
     <string name="pls_parse_bill_discribe">"Analizați facturile și informațiile despre deplasări din e-mail
 pentru a primi notificări despre plăți și călătorii"</string>
@@ -904,6 +918,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="print_scheduler_title">Tipăriți toate programările</string>
     <string name="privacy_des">"Jurnalele conțin informații de depanare despre clientul de e-mail și despre dispozitiv. Aceste informații sunt utilizate pentru a localiza mai rapid problemele. Atingând butonul \"%1$s\" de mai jos, acceptați \"%2$s\"."</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_setting_agree">De acord</string>
     <string name="prompt_title">Solicitare</string>
     <string name="protocol_eas">eas</string>
     <string name="protocol_imap">imap</string>
@@ -1102,6 +1117,8 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="service_protocol_discribe">&lt;u&gt;"Am citit și sunt de acord cu Termenii serviciului de e-mail WPS"&lt;/u&gt;</string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
+    <string name="setting_kids_subtitle">"Confirmați vârsta utilizatorului"</string>
+    <string name="setting_kids_title">Peste 16 ani.</string>
     <string name="settings_activity_title">Setări</string>
     <string name="share_choose">Selectaţi</string>
     <string name="sharing">Distribuiţi</string>
@@ -1202,6 +1219,8 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
     <string name="unbind_dialog_text">"Aplicația de E-mail nu vă va mai analiza e-mailurile după aceasta.
 Eliminați contul?"</string>
+    <string name="under_16_content">Confirmați că aveți sub 16 ani?</string>
+    <string name="under_sixteen">"Am mai puțin de 16 ani."</string>
     <string name="undo">Anulaţi</string>
     <string name="unknow">Necunoscut</string>
     <string name="unread_string">conversație necitită</string>
@@ -1220,6 +1239,8 @@ Eliminați contul?"</string>
     <string name="upload_logs">Trimiteți jurnalul de eroare</string>
     <string name="upload_logs_keywords">trimiteți jurnalul de eroare</string>
     <string name="uploading_logs">Doar o secundă…</string>
+    <string name="user_privacy_settings">Setări de Confidențialitate</string>
+    <string name="user_privacy_settings_agreement_authorization">"(Atingând butonul \"Autorizez\" acordați WPS Mail toate permisiunile necesare)"</string>
     <string name="validation_failed_prompt">Nu se poate verifica contul. Verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />

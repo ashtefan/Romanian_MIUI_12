@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">Se revine la pagina de start în %1$d secunde…</item>
+        <item quantity="one">Se revine la pagina de start în %1$d secundă…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
         <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
@@ -23,18 +27,6 @@
     <plurals name="ovp_home_item_unit">
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
-    </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d commntarii</item>
-        <item quantity="one">%d comentariu</item>
-    </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d răspunsuri</item>
-        <item quantity="one">%d răspuns</item>
-    </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">Vizualizați toate %d comentarii</item>
-        <item quantity="one">Vizualizați %d comentariu</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Ștergeți %s elemente acum?</item>
@@ -61,7 +53,15 @@
         <item quantity="one">%d videoclip</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> abonați</item>
-        <item quantity="one"> abonat</item>
+        <item quantity="other">%s abonați</item>
+        <item quantity="one">%s abonat</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde în urmă</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă în urmă</item>
     </plurals>
 </resources>

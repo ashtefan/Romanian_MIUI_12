@@ -85,17 +85,17 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="close_twice_auth_step_3">3. Atingeți \"Dezactivare autentificare în doi pași\". Apăsați din nou pentru a confirma</string>
     <string name="close_twice_auth_steps">Urmați pașii de mai jos pentru a dezactiva autentificarea în doi pași la contul Apple:</string>
     <string name="close_twice_auth_tutor">Dezactivați autentificarea în doi pași Apple ID</string>
-    <string name="cloud_app_name">Copie de rezervă în Mi Cloud</string>
+    <string name="cloud_app_name">Copie de rezervă în Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Pentru a accesa copiile de rezervă, conectați-vă acum</string>
     <string name="cloud_backup_login">Conectaţi-vă la contul dvs. Mi</string>
-    <string name="cloud_backup_window_title">Copie de rezervă în Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
-    <string name="cloud_item_info_summary">" (Local %1$s | Mi Cloud %2$s)"</string>
+    <string name="cloud_backup_window_title">Copie de rezervă în Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Local %1$s | Xiaomi Cloud %2$s)"</string>
     <string name="cloud_last_backup">"Ultima copie de rezervă "</string>
     <string name="cloud_no_backup">Nicio copie de rezervă</string>
     <string name="cloud_restore_guide">Pentru a restabili datele de utilizator pentru %s, atingeţi Restabilire</string>
     <string name="cloud_restore_title">Restabiliţi datele</string>
-    <string name="cloud_restore_window_title">Restabilire din Mi Cloud</string>
+    <string name="cloud_restore_window_title">Restabilire din Xiaomi Cloud</string>
     <string name="cloud_search">Căutare…</string>
     <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Preluarea informaţiilor…</string>
@@ -173,7 +173,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="file_uploading">Încărcare…</string>
     <string name="files_backup_info">Toate fișierele de pe cardul SD(inclusiv fotografii, melodii, videoclipuri, date ale aplicațiilor, etc.)</string>
     <string name="findlost_contact">Recuperaţi contactele</string>
-    <string name="findlost_contact_online">Restabiliţi contactele din Mi Cloud</string>
+    <string name="findlost_contact_online">Restabiliţi contactele din cloud</string>
     <string name="flash_drive_backup_btn">Copie de rezervă pe dispozitiv USB</string>
     <string name="flash_drive_backup_note">"Faceți o copie de rezervă a aplicațiilor pe un dispozitiv USB.
 Înainte de a începe, asigurați-vă că dispozitivul USB are spațiu de stocare suficient."</string>
@@ -245,7 +245,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="login">Conectați-vă</string>
     <string name="login_failed">"Conectarea a eșuat. Vă rugăm reîncercați."</string>
     <string name="logining">Conectare…</string>
-    <string name="miliao_account_guide">Utilizați contul Mi pentru a vă conecta la Mi Cloud, magazinul de teme MIUI și la alte servicii Mi, de oriunde v-ați afla</string>
+    <string name="miliao_account_guide">Utilizați contul Mi pentru a vă conecta la Xiaomi Cloud, magazinul de teme MIUI și la alte servicii Mi, de oriunde v-ați afla</string>
     <string name="miliao_account_login">Conectaţi-vă prin intermediul MiTalk</string>
     <string name="mms_title">MMS</string>
     <string name="multi_select_title">%1$s selectate</string>
@@ -302,7 +302,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="perm_read_sms">Citire SMS-uri</string>
     <string name="perm_storage">Citire și scriere de/pe stocarea externă</string>
     <string name="phone_title">Setări telefon</string>
-    <string name="platform_chooser_item_android_mi">Telefon Xiaomi</string>
+    <string name="platform_chooser_item_android_mi">Telefon Mi</string>
     <string name="platform_chooser_item_android_others">Alte mărci</string>
     <string name="platform_chooser_item_ios">Importați de pe un dispozitiv iOS</string>
     <string name="platform_chooser_title">Selectați vechiul telefon</string>
@@ -346,7 +346,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="sc_others">A apărut o eroare</string>
     <string name="sc_precondition_failed">Trebuie să asociați o adresă de e-mail la contul dvs. Mi mai întâi</string>
     <string name="sc_request_timeout">Solicitarea a expirat</string>
-    <string name="sc_service_unavailable">Mi Cloud inaccesibil</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud inaccesibil</string>
     <string name="sc_unaccess_password_file">"Nu s-a găsit parola rețelei Wi-Fi"</string>
     <string name="sc_unauthorized">Conectaţi-vă din nou</string>
     <string name="scan_soft_ap">Se caută noul dispozitiv…</string>
@@ -428,7 +428,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_calculating_app_sd_description">Date pe cardul SD</string>
     <string name="trans_calculating_media_description">Fișiere media</string>
     <string name="trans_calculating_tip">Calculare %s…</string>
-    <string name="trans_cancel_confirm">Transfer în desfășurare, opriți acum?</string>
+    <string name="trans_cancel_confirm">Transfer în desfășurare; opriți acum?</string>
     <string name="trans_cancel_selection_message">Dacă părăsiți Mi Mover, transferul în derulare va fi întrerupt. Așteptați până la încheierea transferului.</string>
     <string name="trans_cancel_selection_title">Rămâneți în Mi Mover</string>
     <string name="trans_cancelling">Oprire transfer…</string>
@@ -493,7 +493,7 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_intro_desc_6">Există unele motive pentru care acest lucru se poate întâmpla: probleme de compatibilitate a versiunii și a sistemului aplicaței, probleme de rețea, probleme de compatibilitate specifice unui dispozitiv, etc.</string>
     <string name="trans_intro_desc_7">Unele profiluri ale aplicațiilor (e-banking, financiare, etc.) sunt asociate cu unele dispozitive specifice din motive de securitate. Încercați să goliți datele aplicației sau să o reinstalați pe noul telefon.</string>
     <string name="trans_intro_desc_8">"Este posibil ca datele aplicației WeChat și istoricul chat-ului să nu fie transferate în întregime prin Mi Mover. Mergeți la setările WeChat și deconectați-vă pentru a avea mai multe șanse pentru un transfer cu succes."</string>
-    <string name="trans_intro_desc_9_method_1_dec">Mergeți la Ecranul principal &gt; Unelte &gt; Raportare probleme.</string>
+    <string name="trans_intro_desc_9_method_1_dec">Mergeți la Ecranul principal &gt; Unelte &gt; Feedback.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Trimiteți feedback-ul dumneavoastră utilizând aplicația \"Raportare probleme\" .</string>
     <string name="trans_intro_desc_9_method_2_dec">Trimiteți feedback-ul pe adresa miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Trimiteți-ne un e-mail</string>
@@ -620,7 +620,7 @@ Se așteaptă transferul…"</string>
     <string name="trans_waiting_for_sender">Se așteaptă conectarea vechiului dispozitiv…</string>
     <string name="trans_wlan_tips_message">"Vă rugăm să nu opriți sau să comutați rețeaua Wi-Fi pe durata transferului. În caz contrar, Mi Mover nu va putea transfera datele."</string>
     <string name="trans_wlan_tips_title">"Nu opriți Wi-Fi-ul"</string>
-    <string name="unit_byte">B</string>
+    <string name="unit_byte"> B</string>
     <string name="unknown_hint">Necunoscut</string>
     <string name="usb_backup_select_data_too_large">"Fișierele selectate sunt mari. Asigurați-vă că dispozitivul USB are suficient spațiu de stocare disponibil.
 Transferați doar elementele importante."</string>

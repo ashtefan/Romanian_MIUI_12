@@ -1081,7 +1081,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="system_permission_main_purpose">Navigarea pe net, căutarea de informații, citirea de știri, vizualizarea videoclipurilor, etc</string>
     <string name="system_permission_phone_state_purpose">Utilizată pentru obținerea IMEI-ului dispozitivului pentru a furniza servicii corespunzătoare</string>
     <string name="system_permission_storage_purpose">Utilizată pentru citirea și scrierea fișierelor cum ar fi imagini salvate și pentru a activa funcțiile de încărcare/descărcare</string>
-    <string name="tab_hotpage">News Feed</string>
+    <string name="tab_hotpage">Flux de știri</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
     <string name="tabs_description">File</string>

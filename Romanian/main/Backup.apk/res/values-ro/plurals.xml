@@ -1,48 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d fișiere de date ale aplicației</item>
+        <item quantity="one">%d fișier de date al aplicației</item>
+    </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d fișiere de sistem</item>
         <item quantity="one">%d fișier de sistem</item>
-    </plurals>
-    <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d fișiere cu datele aplicației</item>
-        <item quantity="one">%d fișier cu datele aplicației</item>
-    </plurals>
-    <plurals name="data_item_count">
-        <item quantity="other">%d elemente</item>
-        <item quantity="one">%d element</item>
-    </plurals>
-    <plurals name="total_num">
-        <item quantity="other">%d elemente,</item>
-        <item quantity="one">%d element,</item>
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
     </plurals>
-    <plurals name="trans_time_format_minute">
-        <item quantity="other">%d minute</item>
-        <item quantity="one">%d minut</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d oră</item>
-    </plurals>
-    <plurals name="select_item_summary">
-        <item quantity="other">%1$s | %2$d elemente</item>
-        <item quantity="one">%1$s | %2$d element</item>
-    </plurals>
-    <plurals name="select_item_count_unit">
-        <item quantity="other">elemente</item>
-        <item quantity="one">element</item>
-    </plurals>
-    <plurals name="save_item_saving_summary">
-        <item quantity="other">S-au restaurat %d elemente</item>
-        <item quantity="one">S-a restaurat %d element</item>
-    </plurals>
-    <plurals name="save_item_saved_summary">
-        <item quantity="other">S-au importat și s-au restaurat %d elemente</item>
-        <item quantity="one">S-a importat și s-a restaurat %d element</item>
+    <plurals name="data_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"S-au importat %d elemente. "</item>
@@ -51,5 +23,41 @@
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Importați din nou %d elemente.</item>
         <item quantity="one">Importați din nou %d element.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">S-au importat și s-au restaurat %d elemente</item>
+        <item quantity="one">S-a importat și s-a restaurat %d element</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">S-au restaurat %d elemente</item>
+        <item quantity="one">S-a restaurat %d element</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">elemente</item>
+        <item quantity="one">element</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d elemente</item>
+        <item quantity="one">%1$s | %2$d element</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d elemente,</item>
+        <item quantity="one">%d element,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"Nu s-au putut transfera %d elemente. Atingeți pentru a vedea detaliile."</item>
+        <item quantity="one">"Nu s-a putut transfera %d element. Atingeți pentru a vedea detaliile."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Nu s-au putut transfera %d elemente."</item>
+        <item quantity="one">"Nu s-a putut transfera %d element."</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
     </plurals>
 </resources>

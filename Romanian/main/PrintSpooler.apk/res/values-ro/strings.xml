@@ -51,7 +51,7 @@
     <string name="open_print_service">Activați imprimarea</string>
     <string name="open_print_service_tips">Pentru a putea utiliza această caracteristică, activați mai întâi imprimarea din Setări.</string>
     <string name="open_wlan">Porniți Wi-Fi-ul</string>
-    <string name="open_wlan_tips">Porniți Wi-Fi-ul pentru a găsi mai rapid imprimante.</string>
+    <string name="open_wlan_tips">Porniți Wi-Fi-ul pentru a găsi imprimante.</string>
     <string name="other_printer">Alte imprimante</string>
     <string name="page_description_template">Pagina %1$d din %2$d</string>
     <string name="pages_range_example">de ex. 1-5, 8, 11-13</string>
@@ -68,7 +68,7 @@
     <string name="print_fail_network_error">Nu s-a putut tipări. Verificați setările de rețea și încercați din nou.</string>
     <string name="print_forget_printer">Omiteți imprimanta</string>
     <string name="print_help_label">Ajutor</string>
-    <string name="print_help_tip">Asigurați-vă că atât telefonul cât și imprimanta sunt conectate la aceeași rețea Wi-Fi sau că Wi-Fi Direct este pornit. Vizualizați \"Ajutor\".</string>
+    <string name="print_help_tip">Asigurați-vă că telefonul și imprimanta sunt conectate la aceeași rețea Wi-Fi sau că Wi-Fi Direct este pornit. Vizualizați \"Ajutor\".</string>
     <string name="print_help_tip_reg">Ajutor</string>
     <string name="print_no_print_services">Niciun serviciu de printare activ</string>
     <string name="print_no_printers">Nu au fost găsite imprimante</string>

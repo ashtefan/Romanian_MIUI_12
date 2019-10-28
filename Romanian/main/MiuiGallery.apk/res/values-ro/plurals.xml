@@ -16,18 +16,18 @@
         <item quantity="other">Într-o jumătate de oră</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediat</item>
+        <item quantity="other">Curând</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">în %d minute</item>
-        <item quantity="one">într-un minut</item>
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>
-        <item quantity="one">Cu un minut în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Ascundeți aceste fișiere?</item>
@@ -94,8 +94,12 @@
         <item quantity="one">%d element este prea mare pentru a fi rezervat</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fotografii și videoclipuri | Oprită</item>
-        <item quantity="one">%d fotografie sau videoclip | Oprită</item>
+        <item quantity="other">Se va relua în %d minute</item>
+        <item quantity="one">Se va relua în %d minut</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notelor și a altor elemente în cloud pentru %d minute.</item>
+        <item quantity="one">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notelor și a altor elemente în cloud pentru %d minut.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotografii și videoclipuri | %2$s</item>

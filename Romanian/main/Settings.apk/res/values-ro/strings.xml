@@ -23,18 +23,6 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_search_hint">Căutare…</string>
     <string name="abc_searchview_description_clear">Goliți interogarea</string>
     <string name="abc_searchview_description_query">Interogare căutare</string>
@@ -1312,9 +1300,6 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="config_backup_settings_label"/>
     <string name="config_charging_function_name">Încărcare</string>
     <string name="config_list_label">Reţele configurate</string>
-    <string name="config_mass_storage_function_name">stocare în masă</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>
     <string name="configure">Configurați</string>
     <string name="configure_apps">Configurați aplicațiile</string>
     <string name="configure_input_method">Configuraţi metodele de intrare</string>
@@ -2150,11 +2135,14 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Vedeți notificările rapid</string>
     <string name="fingerprint_swipe_for_notifications_summary">Pentru a verifica notificările, glisați în jos pe senzorul de amprentă de pe spatele telefonului.</string>
     <string name="fingerprint_swipe_for_notifications_title">Glisați amprenta pentru notificări</string>
+    <string name="fingerprint_unlock_press_type">Apăsați</string>
     <string name="fingerprint_unlock_set_unlock_password">Amprentă + Parolă</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Amprentă + Model</string>
     <string name="fingerprint_unlock_set_unlock_pin">Amprentă + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuați fără amprentă</string>
     <string name="fingerprint_unlock_title">Puteți debloca telefonul utilizând amprenta. Din motive de siguranță, această opțiune necesită o metodă de blocare a ecranului de rezervă.</string>
+    <string name="fingerprint_unlock_touch_type">Atingeți</string>
+    <string name="fingerprint_unlock_type">Metoda de recunoaștere a amprentei</string>
     <string name="fingerprint_usage_category_title">Utilizați amprenta pentru</string>
     <string name="fingerprint_wakeup_summary">Se deschide ecranul când nu au fost înregistrate amprente digitale.</string>
     <string name="fingerprint_wakeup_title">Atingeți senzorul de amprentă pentru a porni ecranul</string>
@@ -2360,6 +2348,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_add_fingerprint_put_finger_message">Apăsați pe ecran și ridicați degetul după ce simțiți o vibrație. Repetați de câteva ori.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Apăsați și ridicați degetul după ce simțiți o vibrație</string>
     <string name="gxzw_add_fingerprint_title">Adăugați o amprentă</string>
+    <string name="gxzw_anim_aurora">Aurora</string>
     <string name="gxzw_anim_light">Neon</string>
     <string name="gxzw_anim_pulse">Puls</string>
     <string name="gxzw_anim_rhythm">Ritm</string>
@@ -5644,6 +5633,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
+    <string name="unlock_type_category_title">Metoda de recunoaștere</string>
     <string name="unlogin_account_summary">Toate serviciile Mi. Un singur cont Mi.</string>
     <string name="unlogin_account_title">Conectați-vă la contul Mi</string>
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
@@ -5776,6 +5766,10 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usb_eject_summary">Demontați stocarea USB pentru a o putea elimina în siguranță</string>
     <string name="usb_format">Ștergeți stocarea USB</string>
     <string name="usb_format_summary">Șterge toate datele din stocarea USB, cum ar fi muzica sau fotografiile</string>
+    <string name="usb_headset_not_support_cancel">Am înțeles</string>
+    <string name="usb_headset_not_support_message">"Căștile analogice USB nu sunt acceptate, înlocuiți cu căști digitale, 
+ sau utilizați mufa pentru căști de 3,5 mm pentru a accesa căștile"</string>
+    <string name="usb_headset_not_support_tile">Recunoașterea căștilor</string>
     <string name="usb_host_mode_subtext">Utilizarea controlerelor de joc şi a altor periferice în portul USB poate reduce durata de viață a acumulatorului</string>
     <string name="usb_host_mode_text">Activaţi modul gazdă USB</string>
     <string name="usb_insert_summary">Introduceți o memorie USB pentru a o monta</string>
@@ -6139,6 +6133,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="weight_light">Subțire</string>
     <string name="weight_setting_toast">Puteți modifica grosimea fontului doar pentru fontul implicit al sistemului</string>
     <string name="welcome">Bun venit</string>
+    <string name="wellbing_title">Bunăstare digitală și control parental</string>
     <string name="wfc_provisioned_switch_string">Apel prin Wi-Fi furnizat</string>
     <string name="wfd_available_devices">Dispozitive disponibile</string>
     <string name="wfd_disconnect_diag_msg">Vă deconectați de la %1$s?</string>
