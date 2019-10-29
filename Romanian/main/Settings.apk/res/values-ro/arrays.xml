@@ -1384,12 +1384,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Optimizare contrast pentru lumina disponibilă</item>
-        <item>"Crește contrastul ecranului"</item>
+        <item>Accentuează culorile întotdeauna</item>
         <item>Contrastul va rămâne constant</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Contrast automat</item>
-        <item>Contrast crescut</item>
+        <item>Auto (recomandat)</item>
+        <item>Saturat</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_resolution_text">
@@ -1734,6 +1734,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Utilizează MAC randomizat</item>
+        <item>Utilizează MAC-ul dispozitivului</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Niciunul</item>

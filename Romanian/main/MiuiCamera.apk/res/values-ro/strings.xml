@@ -26,7 +26,7 @@
     <string name="accessibility_filter_open_panel">Meniul de filtrare deschis</string>
     <string name="accessibility_filter_pad_close">Meniul de filtrare este ascuns</string>
     <string name="accessibility_flash_auto">Bliț automat activat</string>
-    <string name="accessibility_flash_mode_button">Buton bliţ</string>
+    <string name="accessibility_flash_back_soft_light">Blițul lucrează în modul iluminare redusă</string>
     <string name="accessibility_flash_off">Blițul este dezactivat</string>
     <string name="accessibility_flash_on">Blițul este activat</string>
     <string name="accessibility_flash_torch">Blițul este activat în modul lanternă</string>
@@ -169,6 +169,7 @@
     <string name="custom_watermark_words_save_success">Salvat cu succes</string>
     <string name="dialog_google_lens_option_0">Google Lens (Recomandat)</string>
     <string name="dialog_ok">OK</string>
+    <string name="dirty_tip_toast">Lentila este murdară. Curățați-o.</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dual_camera_lens_covered_toast">Lentilele sunt acoperite.</string>
     <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
@@ -286,6 +287,10 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="live_sticker_fragment_tab_name">Sticker magic TikTok</string>
     <string name="live_sticker_network_error_hint">Eroare de rețea</string>
     <string name="live_sticker_updating">Actualizare…</string>
+    <string name="location_permission_des">Reține locația pentru fotografii și videoclipuri</string>
+    <string name="location_permission_not_ask_again">Permiteți aplicației Cameră să vă acceseze locația din Setări.</string>
+    <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>
+    <string name="lying_direct_hint">Orientarea curentă</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">"Distanța dintre lentilă și obiect nu trebuie să depășească 10 cm"</string>
     <string name="message_snap_double_confirm">Actualmente apăsarea lungă a butonului de volum activează modul NFC. Modificați această acțiune?</string>
@@ -300,6 +305,10 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="module_name_square">Pătrat</string>
     <string name="module_name_video">Videoclip</string>
     <string name="multi_window_mode_not_supported">"Camera nu funcționează în modul Ecran scindat"</string>
+    <string name="network_access_user_notice_agree">De acord</string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Aplicația Cameră trebuie să se conecteze la internet pentru a furniza efecte, muzică și alte caracteristici pentru videoclipuri scurte.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atingând butonul \"De acord\" de mai jos, acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;, și permiteți conectarea la internet a aplicației."&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Aplicația Cameră trebuie să se conecteze la internet pentru a furniza stickere pentru această caracteristică.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atingând butonul \"De acord\" de mai jos, acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;, și permiteți conectarea la internet a aplicației."&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Aplicația Cameră trebuie să se conecteze la internet pentru a furniza funcționalitatea de transformare vorbire-în-text.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atingând butonul \"De acord\" de mai jos, acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;, și permiteți conectarea la internet a aplicației."&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Se conectează la internet</string>
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Stocarea internă este plină</string>
@@ -311,6 +320,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="pano_how_to_use_prompt_start">Atingeți săgeata pentru a comuta direcția și începeți să mișcați telefonul încet.</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
+    <string name="photo_assistance_tips_title">Sfaturi live</string>
     <string name="popup_tip_3d_beauty_intro_text">Înfrumusețare 3D</string>
     <string name="portait_effect_entry_blackwhite">Alb-negru</string>
     <string name="portait_effect_entry_cool">Mint</string>
@@ -340,6 +350,7 @@ fundalul fotografiilor"</string>
 pentru a scoate în evidență chipul persoanei."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Încercați modul Portret.
 Menține subiectul clar în timp ce fundalul este încețoșat."</string>
+    <string name="pref_960_watermark_title">Amprentă 960fps</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
     <string name="pref_ai_detect">Detecție AI</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
@@ -605,12 +616,13 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_whitebalance_entry_measure">Măsurare</string>
     <string name="pref_camera_whitebalance_title">Balans de alb</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">LUMINĂ REDUSĂ</string>
+    <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
     <string name="pref_camera_zoom_mode_entry_standard">STANDARD</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LARG</string>
     <string name="pref_camera_zoom_mode_entry_wide">LARG</string>
-    <string name="pref_camera_zoom_mode_entryvalue_tele">tele</string>
-    <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
     <string name="pref_camera_zoom_mode_title">LENTILE</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
@@ -636,12 +648,16 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_google_lens_summary">Îndreptați camera către informații de contact, URL-uri sau coduri QR pentru a vedea opțiunile disponibile</string>
     <string name="pref_google_lens_title">Sugestii de lentile</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
+    <string name="pref_lens_dirty_detect_summary">Primiți o notificare când lentila este murdară</string>
+    <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_menu_ultra_pixel_photography_32mp">32 MP</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48 MP</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720p cu 240fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_photo_assistance_tips_off">Oprit</string>
+    <string name="pref_photo_assistance_tips_on">Pornit</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_privacy_title">Politica de Confidențialitate</string>
     <string name="pref_qc_focus_position_title">Focalizare</string>
@@ -674,12 +690,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
-    <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+    <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
     <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
-    <string name="pref_video_quality_entry_vga">VGA</string>
-    <string name="pref_video_quality_entry_wqvga">WQVGA</string>
-    <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_title">Calitate video</string>
     <string name="pref_video_speed_entry_fast">Repede</string>
     <string name="pref_video_speed_entry_normal">Normal</string>
@@ -701,6 +715,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900x (Interval de 30 de secunde)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Interval de timp</string>
     <string name="preparing_sd">Verificare stocare internă…</string>
+    <string name="recommend_macro_mode">Încercați modul Macro</string>
+    <string name="recommend_portrait">Încercați modul Portret</string>
+    <string name="recommend_soft_light_tip">Activați blițul</string>
+    <string name="recommend_super_night">Încercați modul Nocturn</string>
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracteristică, apăsați simultan butoanele de creștere a volumului și Înapoi.</string>
     <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
@@ -732,6 +750,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Drăguț</string>
     <string name="sticker_tab2">Comic</string>
+    <string name="subtitle_network_exception_tips">"Nu s-a putut conecta la rețea. Nu se poate transcrie acum."</string>
+    <string name="super_eis">Super stabilizare</string>
+    <string name="super_eis_disabled_hint">Super stabilizarea este oprită</string>
+    <string name="super_night_hint">Se optimizează imaginea… Mențineți telefonul nemișcat.</string>
     <string name="super_night_toast">Mențineți telefonul drept cât timp fotografiați</string>
     <string name="tap_to_exposure">Atingeți pentru a regla manual expunerea</string>
     <string name="tap_to_focus">Atingeţi pentru focusare</string>
@@ -744,15 +766,25 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a fotografia</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
-    <string name="ultra_pixel_photography_32mp_close_tip">32 MP este oprit</string>
-    <string name="ultra_pixel_photography_32mp_open_tip">32 MP</string>
-    <string name="ultra_pixel_photography_48mp_close_tip">48 MP este oprit</string>
-    <string name="ultra_pixel_photography_48mp_open_tip">48 MP</string>
+    <string name="ultra_pixel_108mp">108 MP</string>
+    <string name="ultra_pixel_32mp">32 MP</string>
+    <string name="ultra_pixel_48mp">48 MP</string>
+    <string name="ultra_pixel_64mp">64 MP</string>
+    <string name="ultra_pixel_device">64 MP</string>
+    <string name="ultra_pixel_photography_close_tip">%s Ultra HD oprit</string>
+    <string name="ultra_pixel_photography_open_tip">%s Ultra HD pornit</string>
+    <string name="ultra_pixel_portrait_hint">Portret în lumină scăzută</string>
+    <string name="ultra_pixel_zoom_no_support_tip">"Zoom-ul nu funcționează în %s modul Ultra HD"</string>
+    <string name="ultra_tele_use_hint_text_body">"Utilizați zoomul 50X pentru a capta obiecte de la distanță
+în detalii remarcabile"</string>
+    <string name="ultra_tele_use_hint_text_title">Zoom 50X</string>
     <string name="ultra_wide_bokeh_close_tip">Modul corp complet este oprit</string>
     <string name="ultra_wide_bokeh_open_tip">Mod corp complet</string>
     <string name="ultra_wide_close_tip">Modul unghi foarte larg este oprit</string>
     <string name="ultra_wide_mode">Unghi foarte larg</string>
     <string name="ultra_wide_mode_use_hint_text">"Utilizați acest mod pentru a include mai multe detalii în fotografiile dvs.
+Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți îndepărta de subiect."</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"Încercați modul unghi ultra larg 0.6X pentru a include mai multe detalii în fotografiile dvs.
 Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți îndepărta de subiect."</string>
     <string name="ultra_wide_open_tip">Mod unghi foarte larg</string>
     <string name="ultra_wide_recommend_tip_hint">Încercați modul unghi foarte larg</string>
@@ -771,7 +803,15 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="video_ultra_clear_tip_8k">8K UHD</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
+    <string name="vv_duartion_hint">%1$s | Segmentul %2$d | %3$ss</string>
+    <string name="vv_hint">Puteți filma vloguri doar în modul peisaj</string>
+    <string name="vv_stability_hint">Mențineți telefonul nemișcat</string>
+    <string name="vv_start">Filmați un vlog</string>
+    <string name="vv_use_hint_text_body">"Modul Vlog vă permite
+să înregistrați și să editați videoclipuri în timp real"</string>
+    <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">O secundă…</string>
     <string name="wideselfie_press_shoot_key_to_start">Atingeți butonul de declanșare</string>
     <string name="wideselfie_result_image_lossless">"Nu s-a putut salva panorama"</string>

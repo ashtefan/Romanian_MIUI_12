@@ -128,9 +128,9 @@
     <string name="download_action">Descărcare</string>
     <string name="drag_multiple_item_name"/>
     <string name="drag_single_item_name"/>
-    <string name="drawer_background">Fundal</string>
+    <string name="drawer_background">Fundaluri</string>
     <string name="drawer_background_dark">Întunecat</string>
-    <string name="drawer_background_light">Deschis</string>
+    <string name="drawer_background_light">Luminos</string>
     <string name="drawer_background_transparency">Transparența fundalului sertarului de aplicații</string>
     <string name="drawer_settings">Sertar de aplicații</string>
     <string name="dual_app">Aplicații clonate</string>
@@ -232,7 +232,7 @@
     <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
-    <string name="launcher_minus_screen_title">Minus un ecran</string>
+    <string name="launcher_minus_screen_title">Ecran minus unu</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="launcher_pull_down_title">Glisați în jos în Ecranul principal</string>
     <string name="launcher_slide_up_title">Glisați în sus în Ecranul principal</string>
@@ -349,7 +349,7 @@
     <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
     <string name="search_in_apps_store">Căutați \"%1$s\" în %2$s</string>
-    <string name="search_no_result">Nu s-a găsit niciun rezultat</string>
+    <string name="search_no_result">"Nu s-a găsit niciun rezultat"</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_frame">Cadru</string>
     <string name="select_photo">Fotografie</string>
@@ -361,7 +361,7 @@
     <string name="shake_to_align_icons_title">Scuturați pentru a umple celulele goale</string>
     <string name="share">Distribuiți</string>
     <string name="sharedUserId" />
-    <string name="shortcut_share_dialog_content">"Fișierele pe care le trimiteți de pe telefon, ca și destinatarii sunt selectați și determinați de către dumneavoastră. Fiți atenți când căutați fișierele de partajat și selectați destinatarii. Este posibil să nu puteți folosi telefonul pentru a trimite viruși, malware, Trojani, time bombs și alte elemente periculoase altor persoane. Nu folosiți telefonul pentru a trimite software ce poate afecta utilizarea obișnuită a dispozitivului destinatarului sau alte elemente ce pot deteriora, interfera, intercepta sau elimina orice date de sistem sau informații personale de pe dispozitivele mobile. Veți fi responsabili pentru orice daună cauzată celorlați utilizatori sau terminale mobile. Xiaomi va face tot posibilul pentru a se asigura că funcționalitatea de partajare, ca și tehnologia și informațiile implicate să fie în siguranță, efective, acurate și de încredere. Totuși, datorită limitărilor actuale ale tehnologiei, Xiaomi nu garantează că funcția de partajare este perfectă și că vă va satisface în totalitate nevoile."</string>
+    <string name="shortcut_share_dialog_content">"Fișierele pe care le trimiteți de pe telefon, precum și destinatarii sunt selectați și determinați de către dumneavoastră. Fiți atenți când căutați fișierele de partajat și selectați destinatarii. Este posibil să nu puteți folosi telefonul pentru a trimite viruși, malware, Trojani, time bombs și alte elemente periculoase altor persoane. Nu folosiți telefonul pentru a trimite software ce poate afecta utilizarea obișnuită a dispozitivului destinatarului sau alte elemente ce pot deteriora, interfera, intercepta sau elimina orice date de sistem sau informații personale de pe dispozitivele mobile. Veți fi responsabili pentru orice daună cauzată celorlați utilizatori sau terminale mobile. Xiaomi va face tot posibilul pentru a se asigura că funcționalitatea de partajare, ca și tehnologia și informațiile implicate să fie în siguranță, efective, acurate și de încredere. Totuși, datorită limitărilor actuale ale tehnologiei, Xiaomi nu garantează că funcția de partajare este perfectă și că vă va satisface în totalitate nevoile."</string>
     <string name="shortcut_share_dialog_positive_button">Am înțeles</string>
     <string name="shortcut_share_dialog_title">Act de renunțare</string>
     <string name="show_all">Afişaţi tot</string>
