@@ -112,8 +112,8 @@
         <item quantity="one">%1$d secundă</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d vizualizări</item>
-        <item quantity="one">%1$d vizualizare</item>
+        <item quantity="other">%1$s vizualizări</item>
+        <item quantity="one">%1$s vizualizare</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">"Nu s-au putut exporta %d videoclipuri. Eliberați spațiu și reîncercați"</item>
