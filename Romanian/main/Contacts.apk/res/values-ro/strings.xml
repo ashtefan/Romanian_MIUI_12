@@ -196,12 +196,7 @@
     <string name="composer_has_no_exportable_contact">Nu există contacte în agendă ce pot fi exportate. Dacă aveţi contacte în agenda telefonului, este posibil ca exportul acestora de pe telefon să fie interzis de unii furnizori de date.</string>
     <string name="composer_not_initialized">Compozitorul vCard nu a pornit în mod corespunzător.</string>
     <string name="conference_call_disable_tip">"Nu se pot efectua apeluri. Asigurați-vă că telefonul este conectat la o rețea 4G cu suport VoLTE."</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_extensions_to_consider" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_prohibited_phone_number_regexp" />
     <string name="confirm_call_log_dial_summary">Cereți confirmarea înainte de a apela persoane din jurnalul de apeluri pentru a preveni apelarea accidentală.</string>
     <string name="confirm_call_log_dial_title">Confirmă apelarea din istoricul de apeluri</string>
     <string name="confirm_delete_contact_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
