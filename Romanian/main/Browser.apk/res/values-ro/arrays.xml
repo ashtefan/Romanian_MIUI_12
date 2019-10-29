@@ -49,14 +49,6 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
-    <string-array name="readmode_theme_background_color">
-        <item>alb</item>
-        <item>bej</item>
-        <item>maro</item>
-        <item>verde</item>
-        <item>gri</item>
-        <item>negru</item>
-    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Ștergeți</item>
         <item>Nu, mulțumesc</item>
