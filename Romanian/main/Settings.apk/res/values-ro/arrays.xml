@@ -1121,6 +1121,10 @@
         <item>Notificările vor apărea în Perdeaua de notificări</item>
         <item>Notificările vor apărea într-un dosar separat</item>
     </string-array>
+    <string-array name="fps_list_entries">
+        <item>120 Hz</item>
+        <item>60 Hz</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 inci</item>
         <item>4,0 inci</item>

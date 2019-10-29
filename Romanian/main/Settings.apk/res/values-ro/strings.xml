@@ -3826,6 +3826,8 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="pointer_location_summary">Suprap. pe ecran indic. coordonatele curente pt. atingeri</string>
     <string name="pointer_settings_category">Mouse/track pad</string>
     <string name="pointer_speed">Viteza indicatorului</string>
+    <string name="popup_gesture_summary">Mergeți înapoi la Ecranul principal, ridicați telefonul și priviți spre ecran pentru a deschide camera frontală în mod automat</string>
+    <string name="popup_gesture_title">Ridicați pentru a deschide camera frontală</string>
     <string name="popup_led_summary">Afișare animație atunci când camera frontală apare și se retrage</string>
     <string name="popup_led_title">Efect vizual</string>
     <string name="popup_title">Efectele camerei frontale</string>
@@ -4348,6 +4350,9 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_dark_mode_select_time_error_summary">Ora de început și ora de sfârșit nu pot fi aceleași</string>
     <string name="screen_dark_mode_time_title">Program</string>
     <string name="screen_effect">Contrast şi culori</string>
+    <string name="screen_fps_summary">O rată de reîmprospătare mai mare face fotografia mai plăcută în timp ce o rată mai redusă economisește acumulatorul</string>
+    <string name="screen_fps_title">Rata de reîmprospătare</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_key_long_press">Apăsarea lungă a tastelor</string>
     <string name="screen_key_long_press_action">Funcția de declanșare</string>
     <string name="screen_key_long_press_timeout">Durată apăsare lungă</string>
@@ -4531,6 +4536,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_advanced_settings">Setări avansate;Wi-Fi;Setări Wi-Fi;Setări WLAN</string>
     <string name="search_airplane_mode">Mod avion;mod aeroplan;mod Zbor;Avion;Aeroplan;Zbor</string>
     <string name="search_alarm_sound_title">Sunet alarmă;ton de alarmă;alarmă</string>
+    <string name="search_ambient_display_screen_title">Afișaj ambiental;Afișaj activ permanent;Afișaj activ-permanent</string>
     <string name="search_android_beam_settings_title">NFC;Atingere Android;Atingere</string>
     <string name="search_apn_settings">APN;Numele punctelor de acces</string>
     <string name="search_app_invisible">Aplicație invizibilă;Aplicații invizibile</string>
@@ -4552,6 +4558,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_children_mode_title">Modul Copil;Blocare sms;Control parental;Mod control parental pentru copii;Restricționare trimitere SMS</string>
     <string name="search_choose_timezone">Selectați fusul orar</string>
     <string name="search_cloud_backup_settings_section_title">Setări Copii de rezervă pentru aplicații</string>
+    <string name="search_cloud_restore_section_title">Restaurați din Mi Cloud;Mi Cloud;Copii de rezervă în cloud;Xiaomi Cloud;Restaurați din Xiaomi Cloud</string>
     <string name="search_connection_and_sharing">Mai multe;Wireless</string>
     <string name="search_cloud_restore_section_title">Restaurare din Mi Cloud;Mi Cloud;copii de rezervă în cloud;Xiaomi Cloud;Restaurare din Xiaomi Cloud</string>
     <string name="search_copyright_title">Drepturi de autor</string>
