@@ -14,8 +14,8 @@
         <item>Nimic</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pagina de pornire implicită</item>
-        <item>Personalizată</item>
+        <item>Implicită</item>
+        <item>Adresă personalizată</item>
     </string-array>
     <string-array name="pref_homepage_choices_with_simplehome">
         <item>Pagina de pornire implicită</item>

@@ -1545,8 +1545,8 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Automat (recomandat)</item>
-        <item>Intens</item>
-        <item>Culoare originală</item>
+        <item>Saturat</item>
+        <item>Culoarea originală</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>

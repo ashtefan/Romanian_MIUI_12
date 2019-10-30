@@ -812,6 +812,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
     <string name="vv_duartion_hint">%1$s | Segmentul %2$d | %3$ss</string>
     <string name="vv_hint">Puteți filma vloguri doar în modul peisaj</string>
+    <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mențineți telefonul nemișcat</string>
     <string name="vv_start">Filmați un vlog</string>
     <string name="vv_use_hint_text_body">"Modul Vlog vă permite

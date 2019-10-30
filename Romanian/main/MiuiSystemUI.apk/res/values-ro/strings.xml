@@ -1318,7 +1318,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="phone_locked_foget_password">Ați uitat parola?</string>
     <string name="phone_locked_foget_password_mehod_back">Înapoi</string>
     <string name="phone_locked_foget_password_method">Ați uitat parola?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Trebuie să &amp;lt;font color=#a5220e&amp;gt;ștergeți toate datele &amp;lt;/font&amp;gt; din telefon, inclusiv fotografiile și contactele și apoi să setați o nouă parolă de Blocare a ecranului.&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Trebuie să &amp;lt;font color=#a5220e&amp;gt;ștergeți toate datele &amp;lt;/font&amp;gt;din telefon, inclusiv fotografiile și contactele și apoi să setați o nouă parolă de Blocare a ecranului.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Următorul</string>
     <string name="phone_locked_foget_password_ok">Am înțeles</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Închideți telefonul, apăsați și mențineți apăsat &amp;lt;font color=#a5220e&amp;gt;Butonul de pornire&amp;lt;/font&amp;gt; și pe cel de &amp;lt;font color=#a5220e&amp;gt;Creștere volum&amp;lt;/font&amp;gt; simultan până când vedeți logo-ul Mi.&lt;/Data&gt;</string>

@@ -19,6 +19,6 @@
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d zile rămase până la încheierea sesiunii de accelerare a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</item>
-        <item quantity="one">%d zil rămasă până la încheierea sesiunii de accelerare a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</item>
+        <item quantity="one">%d zi rămasă până la încheierea sesiunii de accelerare a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</item>
     </plurals>
 </resources>

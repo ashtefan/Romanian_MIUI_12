@@ -6,7 +6,7 @@
     <string name="agree_terms">Am citit și sunt de acord cu Acordul de utilizare și Politica de Confidențialitate.</string>
     <string name="agree_terms_input_method_facemoji">Am citit și sunt de acord cu Politica de Confidențialitate Facemoji.</string>
     <string name="agree_terms_input_method_kika">Am citit și sunt de acord cu Politica de Confidențialitate Kika.</string>
-    <string name="ai_button_desc">Obțineți acces instant la asistentul vocal inteligent</string>
+    <string name="ai_button_desc">Butonul AI vă permite să declanșați Mi AI și să utilizați scurtăturile Mi AI</string>
     <string name="ai_button_double_press">Apăsare dublă</string>
     <string name="ai_button_double_press_desc">Atingeți de două ori butonul AI pentru a finaliza sarcinile personalizate</string>
     <string name="ai_button_long_press">Apăsați și mențineți apăsat</string>
@@ -14,15 +14,15 @@
     <string name="ai_button_single_press">Apăsați</string>
     <string name="ai_button_single_press_desc">Apăsați butonul AI pentru a vedea scurtăturile Mi AI</string>
     <string name="ai_button_title">Butonul AI</string>
-    <string name="album_introduction">Galerie vă permite să gestionați, să optimizați și să editați fotografii și videoclipuri pe dispozitivul dvs., precum și să le sincronizați cu Xiaomi Cloud.</string>
+    <string name="album_introduction">Aplicația Galerie vă permite să gestionați, să optimizați și să editați fotografii și videoclipuri pe dispozitivul dvs., precum și să le sincronizați cu Xiaomi Cloud.</string>
     <string name="app_name">Provision</string>
-    <string name="application_package_introduction">Această aplicație vă permite să instalați aplicații terțe, să le scanați înainte de instalare și să ofere recomandări după aceasta.</string>
+    <string name="application_package_introduction">Această aplicație vă permite să instalați aplicații terțe, să le scanați înainte de instalare și să primiți recomandări ulterior.</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
-    <string name="camera_introduction">Puteți utiliza Camera pentru a face fotografii și a filma videoclipuri.</string>
-    <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, date de identificare a dispozitivului (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante numai pentru a îmbunătăți calitatea serviciilor sau pentru a furniza servicii sau tehnologii personalizate și nu va dezvălui informații relevante persoanelor terțe sub nicio formă care se vă identifice personal. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
-    <string name="clock_introduction">Puteți utiliza această aplicație pentru a vizualiza timpul, precum și pentru a utiliza cronometrul, ceasul mondial, temporizatorul, să setați alarme și multe altele.</string>
+    <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
+    <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
+    <string name="clock_introduction">Puteți utiliza această aplicație pentru a vedea ora, precum și pentru a utiliza cronometrul, ora pe glob, temporizatorul, să setați alarme și multe altele.</string>
     <string name="close_location_service_setting">Puteți alege să dezactivați accesul la locație în Setări &gt; Setări adiționale &gt; Confidențialitate sau să restricționați permisiunile pentru aplicații individuale în aplicația Securitate.</string>
     <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>
@@ -39,7 +39,7 @@
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
     <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
-    <string name="diagnose_report">Trimiteți date de diagnosticare pentru a localiza și analiza problemele sistemului și pentru a îmbunătăți experiența utilizatorului. Aceste date pot include informații personale (de ex., IP, locație etc.)</string>
+    <string name="diagnose_report">Trimiteți date de diagnosticare pentru a localiza și a analiza problemele sistemului și pentru a îmbunătăți experiența utilizatorului. Aceste date pot include informații personale (de ex. IP-ul, locația, etc.)</string>
     <string name="disageement_abnormal_download">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagree">Anulaţi</string>
     <string name="disagreement_abnormal_running">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
@@ -49,7 +49,7 @@
     <string name="disagreement_exit_app">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="disagreement_function">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această caracteristică. Puteți alege să nu utilizați această caracteristică în astfel de cazuri.</string>
     <string name="disagreement_location_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
-    <string name="disagreement_terminate_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_terminate_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="download_introduction">Această aplicație gestionează toate descărcările dvs., inclusiv cele efectuate în Magazin Play, Mi Video, Actualizări, Teme și Browser.</string>
     <string name="enable_accessibility_canceled">Accesibilitate dezactivată.</string>
     <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
@@ -59,9 +59,9 @@
     <string name="font_hint_large">Dimensiunea implicită a textului</string>
     <string name="font_hint_normal">Măriți dimensiunea textului</string>
     <string name="framework_introduction">Mi Services Framework vă permite să utilizați Mi Account, Mi Push, Mi Stats și MIUI BI.</string>
-    <string name="framwork_base_service">Pentru a vă oferi aceste servicii, Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) trebuie să se conecteze la internet, să vă acceseze numărul de telefon, IMEI și IMSI și să permită dispozitivului dvs. să primească notificări push.</string>
+    <string name="framwork_base_service">Pentru a vă oferi aceste servicii, Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) trebuie să se conecteze la internet, să vă acceseze numărul de telefon, IMEI-ul și IMSI-ul și să permită dispozitivului dvs. să primească notificări push.</string>
     <string name="game_introduction">Suplimentul pentru jocuri vă permite să vă conectați, să creați comenzi, să plătiți, să utilizați cupoane și să participați la evenimente de promovare.</string>
-    <string name="google_service_introduction">Pentru a putea funcționa normal, Google Play trebuie să se conecteze la internet, să vă acceseze locația, să poată înregistra audio, să efectueze apeluri, să acceseze evenimentele din calendar, istoricul apelurilor, informația de la senzori, stocarea dispozitivului, camera foto, informațiile despre dispozitiv și conturi.</string>
+    <string name="google_service_introduction">Pentru a putea funcționa normal, Google Play trebuie să se conecteze la internet, să vă acceseze locația, să poată înregistra audio, să efectueze apeluri, să acceseze evenimentele din calendar, istoricul apelurilor, informațiile de la senzori, stocarea dispozitivului, camera foto, informațiile despre dispozitiv și conturi.</string>
     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
@@ -84,9 +84,9 @@
     <string name="navigation_picker_radio_text_virtual_key">Butoane</string>
     <string name="next">Înainte</string>
     <string name="next_fingerprint">Următoarea</string>
-    <string name="note_introduction">Această aplicație vă permite să creați, să vizualizați și să editați note.</string>
+    <string name="note_introduction">Această aplicație vă permite să creați, să vizualizați și să editați notițe.</string>
     <string name="other_settings">Setări adiţionale</string>
-    <string name="other_settings_ad_dialog_content">"După dezactivarea acestei funcții, nu veți mai primi reclame personalizate. Cu toate acestea, veți primi în continuare anunțuri care nu au relevanță pentru interesele dvs. Puteți afla mai multe despre anunțurile personalizate înn Politica de Confidențialitate Xiaomi.
+    <string name="other_settings_ad_dialog_content">"După dezactivarea acestei funcții, nu veți mai primi reclame personalizate. Cu toate acestea, veți primi în continuare anunțuri care nu au relevanță pentru interesele dvs. Puteți afla mai multe despre anunțurile personalizate în Politica de Confidențialitate Xiaomi.
 Dezactivați oricum anunțurile personalizate?"</string>
     <string name="other_settings_ad_disable_summary">Activați anunțurile personalizate</string>
     <string name="other_settings_ad_enable">Anunțuri personalizate</string>
@@ -104,13 +104,13 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime. Detalii</string>
     <string name="other_settings_user_experience_summary_index">Detalii</string>
-    <string name="permission_account">Accesare conturi pe dispozitiv:</string>
-    <string name="permission_account_introduction">Pentru conectarea cu contul Mi</string>
-    <string name="permission_application_package_introduction">Pentru accesarea stocării ce va permite analiza și scanarea pachetelor de instalare</string>
+    <string name="permission_account">Accesare conturi din dispozitiv:</string>
+    <string name="permission_account_introduction">Pentru conectarea la contul Mi</string>
+    <string name="permission_application_package_introduction">Pentru accesarea stocării ce va permite analizarea și scanarea pachetelor de instalare</string>
     <string name="permission_call_records">Accesare istoric apeluri:</string>
     <string name="permission_call_records_introduction">Pentru accesarea istoricului apelurilor ce va permite afișarea elementelor blocate</string>
     <string name="permission_call_state_introduction">Pentru accesarea stării telefonului, înregistrarea apelurilor și întreruperea înregistrărilor în timpul apelurilor primite</string>
-    <string name="permission_clock_info_introduction">Pentru salvarea datelor alarmelor</string>
+    <string name="permission_clock_info_introduction">Pentru salvarea datelor despre alarme</string>
     <string name="permission_contact">Accesare contacte:</string>
     <string name="permission_contact_introduction">Pentru furnizarea funcționalității Listă blocări și apelarea persoanelor de contact de urgență</string>
     <string name="permission_different_device_introduction">Pentru identificarea serviciilor asociate cu diferite dispozitive</string>
@@ -118,23 +118,23 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="permission_direct_call">Efectuare apeluri:</string>
     <string name="permission_direct_call_introduction">Pentru adăugarea elementelor la Lista blocărilor</string>
     <string name="permission_download_introduction">Pentru memorarea în cache a elementelor descărcate și salvarea lor pe dispozitiv</string>
-    <string name="permission_imei_service">Pentru accesarea IMEI ce va permite furnizarea serviciilor asociate dispozitivului dumneavoastră</string>
-    <string name="permission_interaction_introduction">Pentru salvarea fotografiilor și videoclipurilor pe dispozitiv</string>
+    <string name="permission_imei_service">Pentru accesarea IMEI-ului ce va permite furnizarea serviciilor asociate dispozitivului dumneavoastră</string>
+    <string name="permission_interaction_introduction">Pentru salvarea fotografiilor și a videoclipurilor pe dispozitiv</string>
     <string name="permission_location">Accesare informații despre locație:</string>
     <string name="permission_location_introduction">Pentru furnizarea de servicii bazate pe locație</string>
     <string name="permission_log_introduction">Pentru salvarea jurnalelor</string>
     <string name="permission_login_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="permission_message_introduction">Pentru trimiterea mesajelor către contactele blocate</string>
-    <string name="permission_phone_imei_device">Pentru accesarea IMEI ce va permite identificarea dispozitivelor</string>
+    <string name="permission_phone_imei_device">Pentru accesarea IMEI-ului ce va permite identificarea dispozitivelor</string>
     <string name="permission_phone_network">Pentru accesarea tipului de rețea ce va permite optimizarea și ajustarea elementelor descărcabile</string>
     <string name="permission_phone_service">Accesare număr de telefon, IMEI, și IMSI:</string>
     <string name="permission_photo_introduction">Pentru salvarea imaginilor în Galerie și publicarea stărilor</string>
     <string name="permission_photo_video">Fotografiere și înregistrare videoclipuri:</string>
-    <string name="permission_photo_video_introduction">Pentru fotografiere, înregistrare videoclipuri și a utilizare bliț</string>
-    <string name="permission_picture_introduction">Pentru salvarea, editarea și sincronizarea fotografiilor și videoclipurilor</string>
+    <string name="permission_photo_video_introduction">Pentru fotografiere, înregistrare videoclipuri și utilizarea blițului</string>
+    <string name="permission_picture_introduction">Pentru salvarea, editarea și sincronizarea fotografiilor și a videoclipurilor</string>
     <string name="permission_read_call_records">Editare istoric apeluri:</string>
     <string name="permission_read_call_records_introduction">Pentru adăugarea elementelor în istoricul apelurilor și ștergerea apelurilor blocate</string>
-    <string name="permission_read_note_introduction">Pentru accesarea notelor și atașamentelor</string>
+    <string name="permission_read_note_introduction">Pentru accesarea notițelor și a atașamentelor</string>
     <string name="permission_read_write_file">Accesare și salvare fișiere și fotografii pe dispozitiv:</string>
     <string name="permission_read_write_file_introduction">Pentru accesarea, salvarea și memorarea în cache a elementelor de pe dispozitiv</string>
     <string name="permission_recorder_file_introduction">Pentru accesarea și salvarea înregistrărilor audio</string>
@@ -144,7 +144,7 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="permission_send_message">Trimitere SMS</string>
     <string name="permission_user_record_introduction">Pentru înregistrare audio</string>
     <string name="permission_virusscan_introduction">Pentru efectuarea scanării antivirus și optimizarea dispozitivului</string>
-    <string name="permission_xunlei_introduction">Pentru conectare și gestionare a conturilor de sistem pentru a furniza servicii Xunlei</string>
+    <string name="permission_xunlei_introduction">Pentru conectare și gestionarea conturilor de sistem în vederea furnizării serviciilor Xunlei</string>
     <string name="poco_agree_terms_other">(Inclusiv Politica de Confidențialitate a lansatorului POCO și Acordul Utilizatorului)</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
@@ -153,12 +153,12 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="provision_inputmethod_policy_description">
 Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
-    <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și copiere de rezervă în cloud.</string>
+    <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și efectuarea de copii de rezervă în cloud.</string>
     <string name="require_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să vă conectați la internet și să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="screen_recording_introduction">Această aplicație vă permite să înregistrați ce se întâmplă pe ecran.</string>
-    <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inuite de pe dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile și multe altele.</string>
-    <string name="security_mobile_account_introduction">Pentru conectare și gestionare a conturilor sistemului</string>
+    <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inutile din dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile, permisiunile și multe altele.</string>
+    <string name="security_mobile_account_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="service_agreement">Am citit și am acceptat termenii și condițiile.</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Instalator de pachete</string>
@@ -167,7 +167,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_name_carrier">Declarație privind serviciile operatorului</string>
     <string name="service_name_clock">Ceas</string>
     <string name="service_name_compass">Busolă</string>
-    <string name="service_name_content_center">Content Center</string>
+    <string name="service_name_content_center">Centru de Conținut</string>
     <string name="service_name_download">Descărcări</string>
     <string name="service_name_fast_application">Quick apps Framework</string>
     <string name="service_name_game">Supliment jocuri</string>
@@ -203,11 +203,11 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="summary_not_set">Nu este setat</string>
     <string name="system_navigation_mode">Mod navigare prin sistem</string>
     <string name="terms_of_use">Termeni și condiții</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
-    <string name="terms_of_use_label">"Citiți Acordul nostru de utilizare și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum o folosim și ce alegeri vă sunt disponibile.
-Înainte de a putea utiliza MIUI, trebuie să accepatați Acordul nostru de utilizare și Politica de confidențialitate.
-%s și componentele Contului Mi se vor conecta la internet și vor achiziționa locația dvs."</string>
-    <string name="terms_of_use_label_Mistore">, Mi Store system plug-in</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
+    <string name="terms_of_use_label">"Citiți Acordul Utilizatorului și Politica noastră de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni aveți.
+Înainte de a putea utiliza MIUI, trebuie să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate.
+%s și componentele Contului Mi se vor conecta la internet și vor obține locația dvs."</string>
+    <string name="terms_of_use_label_Mistore">, Extensia de sistem Mi Store</string>
     <string name="terms_of_use_label_mab">, MAB</string>
     <string name="terms_of_use_label_package">, Instalator pachete</string>
     <string name="terms_of_use_label_phrase">, Fraze frecvente</string>
@@ -217,11 +217,11 @@ Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate �
     <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
     <string name="terms_of_use_label_updater">, Actualizări</string>
     <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, servicii de traducere, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"
+    <string name="terms_of_use_lable_default_input_method_facemoji">"r
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"
-
+    <string name="terms_of_use_lable_default_input_method_kika">"r
+r
 Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
     <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
@@ -230,10 +230,10 @@ Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
-    <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul nostru de utilizare și Politica de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciu Mi de activare SIM, Ecran de pornire, Fraze frecvente, Serviciu de traducere, Daemon MIUI și Actualizări se vor conecta la rețea. MSA se va conecta la rețea și va accesa locația dvs.</string>
+    <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI și Actualizări se vor conecta la rețea. MSA se va conecta la rețea și va accesa locația dvs.</string>
     <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>
-    <string name="voice_assist_condition">"Veți putea utiliza Mi AI în aceste cazuri:
-1. Când ecranul este pornit.
+    <string name="voice_assist_condition">"Veți putea utiliza Mi AI în aceste cazuri:r
+1. Când ecranul este activ.r
 2. Când ascultați muzică cu ecranul stins."</string>
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>

@@ -98,8 +98,8 @@
         <item quantity="one">Se va relua în %d minut</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notelor și a altor elemente în cloud pentru %d minute.</item>
-        <item quantity="one">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notelor și a altor elemente în cloud pentru %d minut.</item>
+        <item quantity="other">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notițelor și a altor elemente în cloud pentru %d minute.</item>
+        <item quantity="one">Întrerupeți sincronizarea fotografiilor, videoclipurilor, contactelor, notițelor și a altor elemente în cloud pentru %d minut.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotografii și videoclipuri | %2$s</item>
@@ -250,27 +250,27 @@
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elemente aşteaptă sincronizarea</item>
-        <item quantity="one">Un element aşteaptă sincronizarea</item>
+        <item quantity="one">%1$d element aşteaptă sincronizarea</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotografii</item>
         <item quantity="one">1 fotografie</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d imagini aşteaptă sincronizarea</item>
-        <item quantity="one">O imagine aşteaptă sincronizarea</item>
+        <item quantity="other">%1$d fotografii aşteaptă sincronizarea</item>
+        <item quantity="one">%1$d fotografie aşteaptă sincronizarea</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Se sincronizează %1$d imagini…</item>
-        <item quantity="one">Se sincronizează o imagine…</item>
+        <item quantity="other">Se sincronizează %1$d fotografii…</item>
+        <item quantity="one">Se sincronizează %1$d fotografie…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Se sincronizează %1$d videoclipuri şi imagini…</item>
-        <item quantity="one">Se sincronizează un videoclip şi o imagine…</item>
+        <item quantity="other">Se sincronizează %1$d elemente…</item>
+        <item quantity="one">Se sincronizează %1$d element…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Se sincronizează %1$d videoclipuri…</item>
-        <item quantity="one">Se sincronizează un videoclip…</item>
+        <item quantity="one">Se sincronizează %1$d videoclip…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d videoclipuri</item>
@@ -278,7 +278,7 @@
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d videoclipuri aşteaptă sincronizarea</item>
-        <item quantity="one">Un videoclip aşteaptă sincronizarea</item>
+        <item quantity="one">%1$d videoclip aşteaptă sincronizarea</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">În total %1$d elemente</item>

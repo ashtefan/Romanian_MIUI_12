@@ -294,7 +294,7 @@
     <string name="grant_dialog_button_allow_foreground">Permiteți doar când se utilizează aplicația</string>
     <string name="grant_dialog_button_deny">Revoc</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Refuză și nu mai întreba din nou"</string>
-    <string name="grant_dialog_button_deny_background">Doar în timpul utilizării aplicației</string>
+    <string name="grant_dialog_button_deny_background">Doar pe durata utilizării aplicației</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Refuză și nu mai întreba din nou</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>

@@ -128,7 +128,7 @@
     <string name="alert_selection_description">MIUI va analiza fotografiile similare și va marca pentru dvs. cele mai bune cadre.</string>
     <string name="alert_selection_title">Selectați cel mai bun cadru</string>
     <string name="all_faces">Fotografiile cu această persoană</string>
-    <string name="all_items_synced">Toate albumele au fost sincronizate în Cloud</string>
+    <string name="all_items_synced">Toate albumele au fost sincronizate în cloud</string>
     <string name="all_video_album_display_name">Toate videoclipurile</string>
     <string name="already_create_baby_album">Albumul copilului există deja în Xiaomi Cloud.</string>
     <string name="am">AM</string>
@@ -208,11 +208,11 @@
     <string name="backup_no_wifi_desc">Puteți sincroniza elementele și prin date mobile</string>
     <string name="backup_no_wifi_title">Atingeți pentru a vă conecta la Wi-Fi</string>
     <string name="backup_only_in_wifi">Se sincronizează fotografiile și videoclipurile doar dacă sunteți conectat la Wi-Fi</string>
-    <string name="backup_only_in_wifi_summary">Nu se utilizează conexiunea de date mobile pentru sincronizarea fotografiilor și a videoclipurilor</string>
+    <string name="backup_only_in_wifi_summary">Nu utiliza niciodată conexiunea de date mobile pentru sincronizarea fotografiilor și a videoclipurilor</string>
     <string name="backup_only_wifi_dialog_message">Utilizați datele mobile pentru sincronizarea fotografiilor și videoclipurilor?</string>
     <string name="backup_pause">Opriți sincronizarea</string>
     <string name="backup_pause_dialog_title">Întrerupeți sincronizarea</string>
-    <string name="backup_pause_title">Sincronizare întreruptă</string>
+    <string name="backup_pause_title">Sincronizarea este întreruptă</string>
     <string name="backup_pending">Se vor sincroniza în mod automat</string>
     <string name="backup_stop">Opriți sincronizarea</string>
     <string name="backup_sync_dialog_confirm">Activați</string>
@@ -334,7 +334,7 @@
     <string name="close">Închideți</string>
     <string name="close_dialog_desc">Închideți căsuța de dialog</string>
     <string name="cloud_camera_display_name">Cameră</string>
-    <string name="cloud_guide_auto_backup_title">Selectați albumele ce vor fi sincronizate în MiCloud</string>
+    <string name="cloud_guide_auto_backup_title">Selectați albumele ce vor fi sincronizate</string>
     <string name="cloud_guide_login_title">Crează în mod automat o copie de rezervă pentru fotografii și videoclipuri</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
     <string name="cloud_privacy_with_ai_album">Declarație de confidențialitate privind sincronizarea automată și procesarea imaginilor</string>
@@ -862,7 +862,7 @@ efecte pentru fotografii"</string>
     <string name="main_discard_negative_btn">Renunțați</string>
     <string name="main_discard_positive_btn">Salvați și ieșiți</string>
     <string name="main_save_cancel">Anulați</string>
-    <string name="main_save_compress">Compresați și salvați</string>
+    <string name="main_save_compress">Comprimați și salvați</string>
     <string name="main_save_error_msg">"Nu s-au putut salva modificările datorită unei erori apărute"</string>
     <string name="main_save_origin">Salvați fișierul original</string>
     <string name="mark_myself_default_name">Eu</string>
@@ -886,7 +886,7 @@ pentru a personaliza Galeria"</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Partajare Mi</string>
-    <string name="micloud_introduce">Sincronizați automat fotografiile și videoclipurile (este necesar un cont Mi)</string>
+    <string name="micloud_introduce">Sincronizează automat fotografiile și videoclipurile (este necesar un cont Mi)</string>
     <string name="midnight">AM</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
@@ -1449,16 +1449,16 @@ pentru a personaliza Galeria"</string>
     <string name="solar_term_great_cold">Foarte rece</string>
     <string name="solar_term_great_heat">Foarte cald</string>
     <string name="solar_term_heavy_snow">Ninsoare puternică</string>
-    <string name="solar_term_hoar_frost_falls">Hoar Frost Falls</string>
+    <string name="solar_term_hoar_frost_falls">Începutul înghețului</string>
     <string name="solar_term_insects_awaken">Insecte trezite</string>
     <string name="solar_term_light_snow">Ninsoare slabă</string>
     <string name="solar_term_slight_cold">Ușor rece</string>
     <string name="solar_term_slight_heat">Ușor cald</string>
     <string name="solar_term_spring_begins">Începutul primăverii</string>
-    <string name="solar_term_stopping_the_heat">Oprirea căldurii</string>
+    <string name="solar_term_stopping_the_heat">Sfârșitul căldurii</string>
     <string name="solar_term_summer_begins">Începutul verii</string>
     <string name="solar_term_summer_solstice">Solstițiul de vară</string>
-    <string name="solar_term_the_rains">Ploi</string>
+    <string name="solar_term_the_rains">Ploi puternice</string>
     <string name="solar_term_vernal_equinox">Echinocțiul de primăvară</string>
     <string name="solar_term_white_dews">Rouă albă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
@@ -1468,6 +1468,7 @@ pentru a personaliza Galeria"</string>
     <string name="special_type_night_beauty">Portret AI în lumină redusă</string>
     <string name="special_type_night_mode">Mod noapte AI</string>
     <string name="special_type_portrait">Portret pictură AI</string>
+    <string name="special_type_raw">RAW</string>
     <string name="special_type_wide_angle">Unghi foarte larg AI</string>
     <string name="start_debug">Reparare Galerie</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>

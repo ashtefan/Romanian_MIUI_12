@@ -4361,9 +4361,12 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_dark_mode_select_time_error_summary">Ora de început și ora de sfârșit nu pot fi aceleași</string>
     <string name="screen_dark_mode_time_title">Program</string>
     <string name="screen_effect">Contrast şi culori</string>
-    <string name="screen_fps_summary">O rată de reîmprospătare mai mare face fotografia mai plăcută în timp ce o rată mai redusă economisește acumulatorul</string>
+    <string name="screen_fps_summary_power_save">Utilizarea de rate fixe va scădea consumul de energie</string>
+    <string name="screen_fps_summary_smooth">Unele aplicații vor crește rata de reîmprospătare în mod automat pentru a îmbunătăți calitatea fotografiilor</string>
     <string name="screen_fps_title">Rata de reîmprospătare</string>
     <string name="screen_fps_unit">%d Hz</string>
+    <string name="screen_fps_unit_power_save">%dHz (Economisește acumulatorul)</string>
+    <string name="screen_fps_unit_smooth">%dHz (Calitate mai bună)</string>
     <string name="screen_key_long_press">Apăsarea lungă a tastelor</string>
     <string name="screen_key_long_press_action">Funcția de declanșare</string>
     <string name="screen_key_long_press_timeout">Durată apăsare lungă</string>
