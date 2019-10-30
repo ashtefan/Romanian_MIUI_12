@@ -199,7 +199,7 @@
     <string name="module_download_success">Fișierele audio au fost descărcate cu succes</string>
     <string name="module_download_title">Sunt necesare fișiere audio adiționale</string>
     <string name="module_downloading">Se descarcă fișierele audio…</string>
-    <string name="module_unzipping">Dezarhivare audio…</string>
+    <string name="module_unzipping">Se dezarhivează fișierele audio…</string>
     <string name="module_update_success">Fișierele audio actualizate pentru alarmele inteligente MIUI au fost descărcate cu succes. Puteți seta alarmele inteligente MIUI din setările aplicației Ceas.</string>
     <string name="module_update_success_control">Am înțeles</string>
     <string name="module_weather_ringtone_download_data">Alarma meteo alege diferite tonuri în funcție de starea curentă a vremii. Aplicația Ceas trebuie să descarce ≈30 MB fișiere audio pentru a putea rula. Descărcați acum?</string>

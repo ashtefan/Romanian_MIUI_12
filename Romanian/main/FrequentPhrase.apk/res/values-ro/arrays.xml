@@ -2,11 +2,11 @@
 <resources>
     <string-array name="default_phrases">
         <item>Antetul facturii: *** Inc.</item>
-        <item>Addresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item>
+        <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item>
         <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item>
-        <item>Așteaptă puțin, mă întorc în curând.</item>
-        <item>Sunt într-o ședință. Trimite un mesaj text.</item>
-        <item>Nu pot vorbi acum. Te sun înapoi cât mai curând.</item>
+        <item>Așteaptă puțin, mă întorc imediat.</item>
+        <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item>
+        <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item>
         <item>Mulțumesc!</item>
     </string-array>
 </resources>

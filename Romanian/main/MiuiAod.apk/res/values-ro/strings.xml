@@ -39,6 +39,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="above_image">Sus</string>
     <string name="accessibility_battery_level">Acumulator %d procente.</string>
     <string name="accessibility_battery_level_charging">Acumulatorul se încarcă, %d procente.</string>
     <string name="align_type">Aliniați</string>
@@ -56,13 +57,15 @@
     <string name="aod_mode_summary">Afișare ceas, dată, notificări și imagini de fundal atunci când ecranul este oprit</string>
     <string name="aod_mode_time_summary">Programare pornire și oprire mod Activ permanent</string>
     <string name="aod_mode_time_title">Program</string>
-    <string name="aod_mode_title">Mod Activ permanent</string>
+    <string name="aod_mode_title">Ecran Activ permanent</string>
+    <string name="aod_show_date_and_time">Afișează ora și data</string>
     <string name="aod_show_style_title">Elemente de afișat</string>
     <string name="aod_style">Temă</string>
     <string name="aod_to_close">Dezactivați</string>
     <string name="apply">Aplicați</string>
     <string name="apply_succeed">Aplicat cu succes</string>
     <string name="background_icon">Fundal</string>
+    <string name="below_image">Jos</string>
     <string name="cancel">Renunțați</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -71,6 +74,7 @@
     <string name="clock_panel_icon">Cadranul ceasului</string>
     <string name="color_change_with_time_description">Modificați culoarea textului în mod automat în timp</string>
     <string name="color_change_with_time_title">Modificați culoarea textului în mod automat</string>
+    <string name="custom_image">Imagine personalizată</string>
     <string name="deep_space_planet">Spațiu exterior</string>
     <string name="deep_space_planet_des">Această temă reflectă modificarea luminii înconjurătoare pe parcursul zilei. De asemenea apusul și răsăritul sunt sincronizate cu locația dvs.</string>
     <string name="digital_clock">Digital</string>
@@ -103,6 +107,7 @@
     <string name="show_battery_status">Afișează starea bateriei</string>
     <string name="show_notification">Afișează notificările</string>
     <string name="show_notificaton">Afișează notificările</string>
+    <string name="shownone_arround_image">Niciunul</string>
     <string name="signature">Semnătură</string>
     <string name="signature_default_content">"Crede întotdeauna că ceva
 minunat urmează să se întâmple"</string>
@@ -115,6 +120,7 @@ minunat urmează să se întâmple"</string>
     <string name="text_color">Culoarea textului</string>
     <string name="text_length_exceed_limit_alert">*Textul introdus este prea lung</string>
     <string name="text_size">Dimensiunea textului</string>
+    <string name="time_location">Poziția ceasului</string>
     <string name="time_style">Stilul</string>
     <string name="time_style_layout">Dispunerea</string>
 </resources>

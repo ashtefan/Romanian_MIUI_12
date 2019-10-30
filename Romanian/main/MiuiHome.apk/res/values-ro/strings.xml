@@ -4,7 +4,6 @@
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
     <string name="add_screen">Adăugați un ecran</string>
-    <string name="additional_settings">Setări adiționale</string>
     <string name="all_apps">Toate aplicațiile</string>
     <string name="all_apps_no_search_results">"Nu s-au găsit rezultate"</string>
     <string name="all_apps_search_app">Căutați aplicații</string>
@@ -223,7 +222,6 @@
     <string name="home_gesture_notification_bar">Notificări</string>
     <string name="home_pull_down_action">Glisați în jos în Ecranul principal</string>
     <string name="home_screen">Ecranul principal</string>
-    <string name="home_screen_settings">Ecranul principal</string>
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
     <string name="icon_reorganize_channel">Aranjați pictogramele</string>
     <string name="icon_size">Dimensiunea pictogramelor</string>

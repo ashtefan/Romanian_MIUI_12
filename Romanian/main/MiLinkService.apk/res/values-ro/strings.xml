@@ -3,7 +3,7 @@
     <string name="app_name">Serviciu UniPlay</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
-    <string name="casting_tips">Se proiectează...</string>
+    <string name="casting_tips">Se proiectează…</string>
     <string name="console_guide_btn_got_it">Am înțeles</string>
     <string name="console_guide_subtitle_hang_up">Nu se întrerupe proiectarea când se închide ecranul telefonului. Această funcție poate crește consumul de energie.</string>
     <string name="console_guide_subtitle_private">Nu se proiectează notificări plutitoare, notificări pentru apelurile primite și alte elemente care pot conține informații personale</string>
@@ -47,14 +47,16 @@ Pentru mai multe întrebări, vă rugăm să accesați secțiunea Ajutor."</stri
     <string name="help_page_text_11">Pasul 3</string>
     <string name="help_page_text_12">Selectați un dispozitiv extern din lista dispozitivelor disponibile pentru a porni proiectarea.</string>
     <string name="help_page_text_13">"Nu vă puteți conecta la un dispozitiv extern?"</string>
-    <string name="help_page_text_14">"1. Proiectare ecran Millet TV, vă rugăm să actualizați aplicația Ecran Wireless din lista de aplicații la cea mai recentă versiune. 
-2. Puteți încerca să conectați telefonul la televizor prin aceeași rețea Wi-Fi pentru a crește rata de succes a conectării. Cu toate acestea, este posibil ca unele routere să nu poată oferi un mediu de conexiune stabil pentru ecran, ceea ce determină o conexiune instabilă sau cu întreruperi frecvente.
-3. Dacă folosiți un televizor Mi, activarea Bluetooth-ului poate îmbunătăți conexiunea."</string>
+    <string name="help_page_text_14">"1. Dacă doriți să utilizați un dispozitiv Xiaomi dar nu îl găsiți în lista dispozitivelor disponibile, încercați următoarele:
+Conectați atât telefonul cât și monitorul extern (de ex. televizorul) la aceeași rețea Wi-Fi, sau conectați monitorul extern la hotspot-ul telefonului. Dacă nu există nicio rețea Wi-Fi disponibilă sau nu puteți conecta ambele dispozitive la aceeași rețea, verificați dacă funcția de proiectare de pe monitorul extern este actualizată, activați Bluetooth-ul pe ambele dispozitive și activați funcția Miracast pe TV.
+2. Dacă proiectați de pe un dispozitiv Xiaomi pentru prima dată, trebuie să finalizați procesul de verificare.
+3. Dacă doriți să utilizați un dispozitiv non-Xiaomi, dar nu îl găsiți în lista dispozitivelor disponibile, încercați următoarele:
+Conectați atât telefonul cât și monitorul extern (de ex. televizorul) la aceeași rețea Wi-Fi, sau conectați monitorul extern la hotspot-ul telefonului."</string>
     <string name="help_page_text_14_global">"1. Dacă doriți să utilizați un dispozitiv Xiaomi dar nu îl găsiți în lista dispozitivelor disponibile, încercați următoarele:
 Conectați atât telefonul cât și monitorul extern (de ex. televizorul) la aceeași rețea Wi-Fi, sau conectați monitorul extern la hotspot-ul telefonului. Dacă nu există nicio rețea Wi-Fi disponibilă sau nu puteți conecta ambele dispozitive la aceeași rețea, verificați dacă funcția de proiectare de pe monitorul extern este actualizată, activați Bluetooth-ul pe ambele dispozitive și activați funcția Miracast pe TV.
 2. Dacă proiectați de pe un dispozitiv Xiaomi pentru prima dată, trebuie să finalizați procesul de verificare.
 3. Dacă doriți să utilizați un dispozitiv non-Xiaomi, dar nu îl găsiți în lista dispozitivelor disponibile, încercați următoarele:
-Conect atât telefonul cât și monitorul extern (de ex. televizorul) la aceeași rețea Wi-Fi, sau conectați monitorul extern la hotspot-ul telefonului."</string>
+Conectați atât telefonul cât și monitorul extern (de ex. televizorul) la aceeași rețea Wi-Fi, sau conectați monitorul extern la hotspot-ul telefonului."</string>
     <string name="help_page_text_15">Funcția Miracast pe diverse dispozitive</string>
     <string name="help_page_text_16">Mi TV/Proiector Mi</string>
     <string name="help_page_text_17">"Telefoanele Xiaomi se pot conecta în mod direct la majoritatea televizoarelor Xiaomi cu Bluetooth, în loc de a deschide manual funcția Miracast.
@@ -105,14 +107,12 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
     <string name="notification_show_more">Vedeți mai multe funcții</string>
     <string name="privacy_agree">De acord</string>
-    <string name="privacy_text_1">　　Sunteți invitat să utilizați funcția de proiectare. Serviciul de proiectare a ecranului este furnizat de către Milian, iar unele funcții de proiectare a ecranului sunt furnizate de către companii terțe de proiectare. Pentru a vă asigura confidențialitatea, vă rugăm să citiți&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-    <string name="privacy_text_2">　　Apăsând butonul De acord, acceptați&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;conținutul și privilegiile stipulate mai jos.</string>
-    <string name="privacy_text_pemission">"　　• Permisiunile de rețea Wi-Fi sunt necesare pentru a descoperi și pentru a vă conecta la diverse dispozitive.
-　　•Bluetooth-ul este utilizat pentru descoperirea și conectarea dispozitivelor.
-　　•Accesarea stocării telefonului. După accesarea conținutului, proiectați-l pe un ecran mai mare.
-　　•Obținerea informațiilor despre telefon. Citirea IMEI-ului telefonului, ID-ul Android, versiunea și jurnalul cu informații înregistrate.
-　　•După accesarea sunetului, redați-l pe dispozitivul cu ecran mare.
-　　•Permisiuni de direcționare. Localizare și descoperire a dispozitivelor din proximitate."</string>
+    <string name="privacy_text_1">"　　Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern LeEco. Înainte de a utiliza această caracteristică, citiți și acceptați "&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;Declarația legală LeEco Casting&lt;/a&gt; și &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html"&gt;Politica de Confidențialitate LeEco&lt;/a&gt;.</string>
+    <string name="privacy_text_2">"　　Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări. Citiți și acceptați "&lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href="https://privacy.mi.com/all/en_US/"&gt;Politica noastră de Confidențialitate&lt;/a&gt; înainte de a utiliza această funcție.</string>
+    <string name="privacy_text_pemission">"　　•Accesarea și salvarea imaginilor pe dispozitiv pentru a le putea proiecta pe un monitor extern
+　　•Înregistrarea apelurilor și audio pentru a le putea proiecta pe dispozitive externe
+　　•Acces la numărul de telefon, IMEI și IMSI pentru a vă identifica dispozitivul
+　　•Acces la locație pentru a găsi dispozitivele din apropiere"</string>
     <string name="private_protect">Protejarea confidențialității</string>
     <string name="san_wait_msg_1">Dispozitivul țintă trebuie să activeze proiectarea wireless</string>
     <string name="san_wait_msg_2">Căutarea dispozitivelor poate dura ceva timp…</string>

@@ -918,12 +918,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_indication_charging_time_slowly">Se încarcă lent(%s până la încărcarea completă)</string>
     <string name="keyguard_indication_trust_disabled">Telefonul va rămâne blocat până la deblocarea manuală</string>
     <string name="keyguard_instructions_when_pattern_disabled">Atingeți butonul Meniu pentru a-l debloca.</string>
-    <string name="keyguard_left_calculator">Calculator</string>
-    <string name="keyguard_left_calendar">Calendar</string>
-    <string name="keyguard_left_contacts">Contacte</string>
     <string name="keyguard_left_mi_wallet">Portofel Mi</string>
-    <string name="keyguard_left_music">Muzică</string>
-    <string name="keyguard_left_notes">Note</string>
     <string name="keyguard_left_remotecentral">Telecomandă Mi</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Lanternă</string>
