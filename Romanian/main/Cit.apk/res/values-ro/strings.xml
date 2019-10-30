@@ -526,8 +526,10 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>
-  <string name="testagain">You can Press key HOME to test again</string>
-  <string name="testing">AutoTest Running...</string>
+    <string name="test_bottom_speaker">difuzor inferior</string>
+    <string name="test_top_speaker">difuzor superior</string>
+    <string name="testagain">Puteți apăsa butonul ACASĂ pentru a testa din nou</string>
+    <string name="testing">Rulare AutoTest...</string>
   <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
   <string name="tp_color">TP Color:</string>
   <string name="tp_version">TP Version:</string>

@@ -117,6 +117,8 @@
     <string name="cannot_connect_camera_volte_call">Apelul video este în desfășurare; încercați din nou mai târziu.</string>
     <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>
     <string name="capture_back_pressed_hint">Atingeți din nou pentru a ieși</string>
+    <string name="ccc_temperature_warning_msg">Dispozitivul dvs este supraîncălzit. Camera se va opri în %d secunde. Fotografiile și videoclipurile vor fi salvate în mod automat.</string>
+    <string name="ccc_temperature_warning_title">Dispozitivul dvs este supraîncălzit</string>
     <string name="close_back_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_front_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="color_effect_entry_berry">Fructe de padure</string>
@@ -240,6 +242,8 @@ dacă rotiți telefonul"</string>
 și apoi va crea una în care fiecare arată cel mai bine."</string>
     <string name="hint_groupshot_beauty">"Nu se poate utiliza modul Înfrumusețare în fotografiile de grup"</string>
     <string name="hint_slow_motion">Videoclipul înregistrat va fi redat la viteză redusă.</string>
+    <string name="hint_subtitle">"Dictați subtitrarea în timp ce înregistrați videoclipul"</string>
+    <string name="hint_subtitle_prompt">Puteți dicta subtitrarea acum</string>
     <string name="hunt_dual_water_mark">Amprenta camerei duale va fi adăugată în mod automat.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Instalați</string>
@@ -700,6 +704,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_speed_entry_slow">Încet</string>
     <string name="pref_video_speed_fast_title">Interval de timp</string>
     <string name="pref_video_speed_slow_title">Mişcare lentă</string>
+    <string name="pref_video_subtitle">Subtitrări</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10x (Interval de 0,3 secunde)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120x (Interval de 4 secunde)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150x (Interval de 5 secunde)</string>
@@ -750,7 +755,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Drăguț</string>
     <string name="sticker_tab2">Comic</string>
-    <string name="subtitle_network_exception_tips">"Nu s-a putut conecta la rețea. Nu se poate transcrie acum."</string>
+    <string name="subtitle_network_exception_tips">Nu s-a putut conecta la rețea. Nu se poate transcrie acum.</string>
     <string name="super_eis">Super stabilizare</string>
     <string name="super_eis_disabled_hint">Super stabilizarea este oprită</string>
     <string name="super_night_hint">Se optimizează imaginea… Mențineți telefonul nemișcat.</string>

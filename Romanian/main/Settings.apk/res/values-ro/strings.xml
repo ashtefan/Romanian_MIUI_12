@@ -291,7 +291,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="ambient_display_pickup_title">Ridicați pentru a verifica telefonul</string>
     <string name="ambient_display_screen_summary_always_on">Activ permanent / Utilizare intensă a acumulatorului</string>
     <string name="ambient_display_screen_summary_notifications">Notificări noi</string>
-    <string name="ambient_display_screen_title">Afișaj ambiental</string>
+    <string name="ambient_display_screen_title">Afișaj activ permanent</string>
     <string name="ambient_display_summary">Pentru a verifica rapid notificările, atingeți de două ori ecranul.</string>
     <string name="ambient_display_title">Atingeți de două ori pentru a verifica telefonul</string>
     <string name="android_beam_disabled_summary">Pentru a utiliza această caracteristică, activați NFC</string>
@@ -305,7 +305,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="animator_duration_scale_title">Scară durată Animator</string>
     <string name="another_migration_already_in_progress">O altă migrare este deja în curs.</string>
     <string name="anti_spam">Listă blocări</string>
-    <string name="aod_and_lock_screen_settings_title">Afișaj ambiental și Blocarea ecranului</string>
+    <string name="aod_and_lock_screen_settings_title">Afișaj activ permanent și Blocarea ecranului</string>
     <string name="aod_clock_style_title">Tip ceas</string>
     <string name="aod_close_color_inversion">"Această caracteristică nu poate fi combinată cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi."</string>
     <string name="aod_dual_togother">HH:mm</string>
@@ -322,7 +322,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_mode_title">Mod activ permanent</string>
     <string name="aod_mode_turn_off">Oprit</string>
     <string name="aod_mode_turn_on">Pornit</string>
-    <string name="aod_name_wanxiang">Afișaj ambiental</string>
+    <string name="aod_name_wanxiang">Afișaj activ permanent</string>
     <string name="aod_notification_style_animation">Afișează animații</string>
     <string name="aod_notification_style_none">Nimic</string>
     <string name="aod_notification_style_screen_on">Aprinde ecranul</string>
@@ -332,8 +332,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_sample_hour_vertical">02</string>
     <string name="aod_sample_minute">38</string>
     <string name="aod_sample_time">2:38</string>
-    <string name="aod_settings_category_name">Afișaj ambiental</string>
-    <string name="aod_settings_title">Afișaj ambiental</string>
+    <string name="aod_settings_category_name">Afișaj activ permanent</string>
+    <string name="aod_settings_title">Afișaj activ permanent</string>
     <string name="aod_style_description">Afișează ceasul, data, ora, notificările și alte elemente când ecranul este inactiv</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Dezactivați</string>

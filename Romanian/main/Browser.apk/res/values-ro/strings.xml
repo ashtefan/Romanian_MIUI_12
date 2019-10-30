@@ -962,7 +962,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="security_permission_desc_get_accounts">Utilizată pentru conectarea și gestionarea contului sistemului</string>
     <string name="security_permission_desc_read_phone">Utilizată pentru a obține IMEI-ul dispozitivului în vederea furnizării serviciului corespunzător</string>
     <string name="security_permission_desc_storage">Utilizată pentru a citi și scrie fișiere cum ar fi imagini salvate și pentru a activa funcțiile de încărcare/descărcare</string>
-    <string name="security_permission_main_purpose">Navigați pe internet, căutați informații, citiți știri, vedeți videoclipuri, etc</string>
+    <string name="security_permission_main_purpose">Navigați pe internet, căutați informații, citiți știri, vedeți videoclipuri, etc.</string>
     <string name="security_url_confirm_message">Oprirea acestei caracteristici poate cauza riscuri de securitate.</string>
     <string name="security_warning">Avertisment de securitate</string>
     <string name="security_warnings_confirm_message">Oprirea acestei caracteristici poate cauza riscuri de securitate.</string>

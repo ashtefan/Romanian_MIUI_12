@@ -97,7 +97,7 @@
     <string name="carousel_suggest">Atenție</string>
     <string name="carousel_suggest1">Obțineți imagini noi de fundal direct pe Ecranul de blocare în fiecare zi, în mod gratuit.</string>
     <string name="carousel_suggest2">Este activat Caruselul de imagini de fundal?</string>
-    <string name="category_subscribe_failed">"Nu s-a putut abona"</string>
+    <string name="category_subscribe_failed">Nu s-a putut abona</string>
     <string name="change_time">Schimbați imaginile de fundal</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="choose_to_signin">Da</string>
@@ -213,7 +213,7 @@
     <string name="idbct_opt_high_def_main_text">HD</string>
     <string name="idbct_title">Tipul rețelei</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
-    <string name="later">"Nu dezactiva"</string>
+    <string name="later">Nu dezactiva</string>
     <string name="launch_bg_permission_exception">Permiteți Caruselului de imagini de fundal să afișeze ferestre pop-up în timp ce rulează în fundal din aplicația de Securitate</string>
     <string name="like">Adăugați la Favorite</string>
     <string name="liked">Adăugată la Favorite</string>
@@ -501,7 +501,7 @@
     <string name="theme_close_maml">Caruselul de imagini de fundal va înlocui imaginea de fundal pentru Blocarea ecranului.</string>
     <string name="theme_des">Aplicați tema implicită și activați din nou Caruselul de imagini de fundal.</string>
     <string name="theme_des_lock_style">Aplicați Blocarea ecranului implicită și activați din nou Caruselul de imagini de fundal.</string>
-    <string name="theme_des_maml">"Acest lucru poate dura câteva secunde. Celelalte componente ale temei curente nu vor fi afectate. Tema va fi reîncărcată pentru a aplica modificările."</string>
+    <string name="theme_des_maml">Acest lucru poate dura câteva secunde. Celelalte componente ale temei curente nu vor fi afectate. Tema va fi reîncărcată pentru a aplica modificările.</string>
     <string name="theme_ok">Setări</string>
     <string name="theme_title">Treceți la tema implicită</string>
     <string name="theme_title_lock_style">Treceți la Blocarea ecranului implicită</string>
@@ -536,6 +536,6 @@
     <string name="weibo_redirect_uri"/>
     <string name="wlan_download">Actualizați doar prin Wi-Fi</string>
     <string name="wlan_download_cn">Actualizați doar atunci când sunteți conectat la Wi-Fi</string>
-    <string name="wm_storage_left">"Disponibil: "</string>
-    <string name="wm_storage_used">"Ocupat: "</string>
+    <string name="wm_storage_left">Disponibil: </string>
+    <string name="wm_storage_used">Ocupat: </string>
 </resources>

@@ -20,6 +20,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
     <string name="abc_search_hint">Căutați…</string>
     <string name="abc_searchview_description_clear">Goliți solicitarea</string>
     <string name="abc_searchview_description_query">Solicitare de căutare</string>
@@ -388,7 +398,7 @@
     <string name="month_medium_september">Sept</string>
     <string name="month_view">Lună</string>
     <string name="monthly">Lunar</string>
-    <string name="monthly_on_day">Lunar (aceeași dată)</string>
+    <string name="monthly_on_day">Lunar (la aceeași dată)</string>
     <string name="monthly_on_day_count">Lunar (%1$s)</string>
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$d</string>
@@ -557,7 +567,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_holiday_display_desc">Zilele libere apar sub agendă în pagina de pornire</string>
     <string name="setting_holiday_reminder">Arată zilele libere</string>
     <string name="setting_others">Altele</string>
-    <string name="setting_show_reject_agenda">Se afișează evenimentele respinse</string>
+    <string name="setting_show_reject_agenda">Afișează evenimentele respinse</string>
   <string name="setting_sms_import">SMS-uri import evenimente</string>
     <string name="setting_title_about">Despre</string>
   <string name="setting_title_debug">export jurnal</string>

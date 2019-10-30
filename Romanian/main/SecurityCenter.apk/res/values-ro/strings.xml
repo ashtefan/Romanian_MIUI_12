@@ -608,12 +608,12 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cta_close_dialog_cancel">Anulați</string>
     <string name="cta_close_dialog_content">Dacă restricționați accesul aplicației Securitate la internet și la informațiile despre locație, nu veți putea primi avertismente despre cutremure, să actualizați definițiile antvirus și informațiile despre blocări. Dispozitivul dvs. va deveni mai puțin securizat. Restricționați oricum?</string>
     <string name="cta_close_dialog_ok">Restricționați</string>
-    <string name="cta_close_dialog_title">Restricțoinare acces</string>
+    <string name="cta_close_dialog_title">Restricționare acces</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_title">Conexiune la Internet</string>
     <string name="cta_main_purpose">Bine ați venit în aplicația de Securitate! Puteți utiliza această aplicație pentru a goli datele inutile din telefon, găsi și neutraliza viruși, optimiza performanța în jocuri, economisi acumulatorul, gestiona aplicațiile și multe altele.</string>
-    <string name="cta_settings">Permiteți conecxiunea la internet și accesul la locație</string>
+    <string name="cta_settings">Permiteți conexiunea la internet și accesul la locație</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="customizer_mode_user_define_name">Regulile mele</string>

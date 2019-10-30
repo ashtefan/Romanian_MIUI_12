@@ -1,6 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="app_name">MIUI Bluetooth</string>
+    <string name="blackshark_name">H66L</string>
     <string name="ble_device_address">Adresa MAC a dispozitivului Bluetooth</string>
     <string name="ble_device_profile">Profilul dispozitivului Bluetooth</string>
     <string name="ble_device_profile_header_title">Setări</string>
@@ -15,6 +43,7 @@
     <string name="bluetooth_preference_found_devices">Dispozitive disponibile</string>
     <string name="bluetooth_preference_scan_title">Căutați dispozitive</string>
     <string name="bluetooth_search_for_devices">Căutați dispozitive</string>
+    <string name="copy">Copiați</string>
     <string name="device_picker">Setări dispozitiv Bluetooth</string>
     <string name="disconnect">Deconectați</string>
     <string name="expand_button_title">Avansat</string>
@@ -51,14 +80,19 @@
     <string name="mi_key_summary_open_camera">Apăsați de două ori butonul Mi Key pentru a deschide Camera</string>
     <string name="mi_key_summary_take_photo">Atingeți butonul Mi Key pentru a realiza o fotografie</string>
     <string name="mi_key_take_photo">Realizați o fotografie</string>
+    <string name="not_set">Nesetat</string>
     <string name="notify_device_lose_connection_text">Atingeți pentru anularea asocierii cu %1$s</string>
     <string name="notify_device_lose_connection_title">S-a pierdut conexiunea cu %1$s</string>
     <string name="ok_button">OK</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="progress_scanning">Căutare…</string>
     <string name="reset_function_msg">Resetarea acestei caracteristici poate împiedica %1$s să funcționeze în mod normal.</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="some_app_taking">(%1$s utilizează deja această caracteristică)</string>
     <string name="unbind_device_alert_cancel">Renunțați</string>
     <string name="unbind_device_alert_content">S-a pierdut conexiunea cu %1$s. Pentru a economisi acumulatorul, anulați asocierea cu acest dispozitiv acum.</string>
     <string name="unbind_device_alert_ok">Anulați asocierea</string>
     <string name="unbind_device_alert_title">Anulați asocierea cu dispozitivul</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
 </resources>
