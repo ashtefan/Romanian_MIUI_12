@@ -858,6 +858,12 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectat la dispozitivul de intrare</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizaţi pentru introducere date</string>
     <string name="bluetooth_incoming_pairing_msg">Notificare de la:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Asociaţi cu acest dispozitiv?</string>
+    <string name="bluetooth_inform_messgae">"Nu s-a putut conecta la %1$s.
+Iată ce ar putea fi în neregulă:
+1. Bluetooth-ul este dezactivat pe acest dispozitiv sau este în afara razei de acțiune.
+2. Dispozitivul nu este în modul descoperibil.
+3. Dispozitivul este conectat la alte dispozitive. Deconectați-l și încercați din nou."</string>
+    <string name="bluetooth_inform_messgae_title">Nu s-a putut conecta</string>
     <string name="bluetooth_is_disconnect_question">Deconectați %1$s?</string>
     <string name="bluetooth_is_discoverable">Vizibil pt. dispoz. Bluetooth din aprop. (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Faceți acest dispozitiv vizibil pentru toate dispozitivele Bluetooth din apropiere</string>
@@ -2964,6 +2970,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
     <string name="lockscreen_settings_title">Preferințe blocare ecran</string>
+    <string name="lockscreen_settings_what_to_show_category">Ce să se afișeze</string>
     <string name="login_account_dialog_message">Conectați-vă folosind contul Mi și activați sincronizarea în cloud.</string>
     <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
     <string name="login_account_summary">Gestionați conturile, serviciile cloud, plățile și multe altele</string>
@@ -3395,6 +3402,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nearby_wifi">Reţele disponibile</string>
     <string name="need_reboot_now">Reporniţi pentru a instala actualizarea.</string>
     <string name="netcheck_title">Diagnosticare rețea</string>
+    <string name="network_alarm">Nu redu la tăcere apelurile prin internet</string>
+    <string name="network_alarm_summary">Notă: Unele aplicații nu sunt compatibile cu această funcție.%1$s</string>
+    <string name="network_alarm_summary_reg">Vedeți aplicațiile suportate</string>
+    <string name="network_alarm_support_apps">Aplicații suportate</string>
     <string name="network_assistant">Utilizare date</string>
     <string name="network_changed_noti_summary">Se utilizează datele mobile</string>
     <string name="network_changed_noti_title">Deconectat de la Wi-Fi</string>
@@ -6164,6 +6175,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="webview_disabled_for_user">(dezactivat pentru utilizatorul %s)</string>
     <string name="webview_license_title">Licență de sistem WebView</string>
     <string name="webview_uninstalled_for_user">(dezinstalat pentru utilizatorul %s)</string>
+    <string name="wechat">WeChat</string>
     <string name="weight_heavy">Îngroșat</string>
     <string name="weight_light">Subțire</string>
     <string name="weight_setting_toast">Puteți modifica grosimea fontului doar pentru fontul implicit al sistemului</string>

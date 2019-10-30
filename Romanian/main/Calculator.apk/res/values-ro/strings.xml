@@ -254,8 +254,8 @@
     <string name="preference_settings">Setări</string>
     <string name="preference_use_degress_summary">Înlocuiți radianii cu unghiuri în funcțiile trigonometrice</string>
     <string name="preference_use_degress_title">Utilizați unghiuri</string>
-    <string name="preference_use_voice_summary">Activați pentru a utiliza ieșirea vocală în timpul calculelor</string>
-    <string name="preference_use_voice_title">Ieşire vocală</string>
+    <string name="preference_use_voice_summary">Activați pentru a utiliza redarea vocală în timpul calculelor</string>
+    <string name="preference_use_voice_title">Redare vocală</string>
     <string name="preference_user_feedback_title">Feedback</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="radDesc">Radian</string>
@@ -653,7 +653,7 @@
     <string name="user_agreement">Termenii Serviciului</string>
     <string name="view_float_window_move">Mutați Calculatorul minimizat</string>
     <string name="voiceDesc">Controale vocale</string>
-    <string name="voice_guide_text">Puteți activa aici ieșirea vocală</string>
+    <string name="voice_guide_text">Puteți activa aici redarea vocală</string>
     <string name="wf_word_figure">Simboluri financiare</string>
     <string name="word_figure_big_unit_fen">punct</string>
     <string name="word_figure_big_unit_jiao">unghi</string>

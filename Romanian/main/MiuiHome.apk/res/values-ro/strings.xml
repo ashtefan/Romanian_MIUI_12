@@ -79,7 +79,7 @@
     <string name="apply_as_lock_screen">Setați ca Blocare a ecranului</string>
     <string name="apply_as_wallpaper">Setați ca Ecran de pornire</string>
     <string name="apply_both">Ambele</string>
-    <string name="apply_text">APLICARE</string>
+    <string name="apply_text">APLICAȚI</string>
     <string name="aqi_quality_index_dangerous">Periculos</string>
     <string name="aqi_quality_index_good">Bun</string>
     <string name="aqi_quality_index_hazardous">Primejdios</string>
@@ -227,7 +227,7 @@
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
     <string name="icon_reorganize_channel">Aranjați pictogramele</string>
     <string name="icon_size">Dimensiunea pictogramelor</string>
-    <string name="image_too_small_message">"Imaginea originală nu este destul de mare"</string>
+    <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
@@ -235,6 +235,7 @@
     <string name="launcher_minus_screen_title">Ecran minus unu</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="launcher_pull_down_title">Glisați în jos în Ecranul principal</string>
+    <string name="launcher_search_bar_title">Bara de căutare</string>
     <string name="launcher_slide_up_title">Glisați în sus în Ecranul principal</string>
     <string name="launcher_sliding_up_gesture">Glisați în sus pe Ecranul principal pentru a deschide căutarea</string>
     <string name="launcher_title">Ecranul principal și Recente</string>
@@ -349,7 +350,7 @@
     <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
     <string name="search_in_apps_store">Căutați \"%1$s\" în %2$s</string>
-    <string name="search_no_result">"Nu s-a găsit niciun rezultat"</string>
+    <string name="search_no_result">Nu s-a găsit niciun rezultat</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_frame">Cadru</string>
     <string name="select_photo">Fotografie</string>
@@ -366,7 +367,7 @@
     <string name="shortcut_share_dialog_title">Act de renunțare</string>
     <string name="show_all">Afişaţi tot</string>
     <string name="show_mem_info_title">Afișați starea memoriei</string>
-    <string name="show_most_popular_apps_you_used">Se afișează aplicațiile utilizate cel mai frecvent în sertar</string>
+    <string name="show_most_popular_apps_you_used">Afișează aplicațiile utilizate cel mai frecvent în sertar</string>
     <string name="show_recents_recommend_title">Se afișează sugestii</string>
     <string name="sort_by_abc">Sortare după nume</string>
     <string name="sort_by_frequency">Sortare după utilizare</string>

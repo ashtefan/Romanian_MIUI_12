@@ -462,13 +462,15 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_guide_title">Creați o aplicație clonată</string>
     <string name="xspace_header">Aplicații clonate</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_completed">Pictogramă adăugată la Ecranul principal</string>
+    <string name="xspace_install_completed_global">Pictogramă adăugată la sertar</string>
     <string name="xspace_install_failed">"Nu s-a putut crea"</string>
     <string name="xspace_installing">Se instalează…</string>
     <string name="xspace_introduce">Recomandate</string>
     <string name="xspace_label">Aplicații clonate</string>
     <string name="xspace_loading_msg">Se încarcă aplicațiile…</string>
     <string name="xspace_notification">Notificări pentru aplicații clonate</string>
-    <string name="xspace_notification_error">Conectați-vă la WeChat clonat și încercați din nou</string>
+    <string name="xspace_notification_error">Conectați-vă la WeChat-ul clonat și încercați din nou</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Ștergeți conturile aplicațiilor clonate"</string>
     <string name="xspace_setting_label">Setări aplicații clonate</string>
