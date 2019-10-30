@@ -4571,7 +4571,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_cloud_backup_settings_section_title">Setări Copii de rezervă pentru aplicații</string>
     <string name="search_cloud_restore_section_title">Restaurați din Mi Cloud;Mi Cloud;Copii de rezervă în cloud;Xiaomi Cloud;Restaurați din Xiaomi Cloud</string>
     <string name="search_connection_and_sharing">Mai multe;Wireless</string>
-    <string name="search_cloud_restore_section_title">Restaurare din Mi Cloud;Mi Cloud;copii de rezervă în cloud;Xiaomi Cloud;Restaurare din Xiaomi Cloud</string>
     <string name="search_copyright_title">Drepturi de autor</string>
     <string name="search_credentials_install">Instalați din stocare</string>
     <string name="search_date_and_time_settings_title">Data și ora</string>
