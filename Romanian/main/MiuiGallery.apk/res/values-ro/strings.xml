@@ -944,6 +944,12 @@ pentru a personaliza Galeria"</string>
     <string name="movie_audio_dream">Vis</string>
     <string name="movie_audio_electronics">Electro</string>
     <string name="movie_audio_none">Nimic</string>
+    <string name="movie_audio_point1">Neon</string>
+    <string name="movie_audio_point2">Apus</string>
+    <string name="movie_audio_point3">Amintiri</string>
+    <string name="movie_audio_point4">Mijlocul verii</string>
+    <string name="movie_audio_point5">Valuri</string>
+    <string name="movie_audio_point6">Carnaval</string>
     <string name="movie_audio_quiet">Zen</string>
     <string name="movie_audio_summertime">Vară</string>
     <string name="movie_audio_vitality">Vitalitate</string>
@@ -976,6 +982,12 @@ pentru a personaliza Galeria"</string>
     <string name="movie_tab_music">Muzică</string>
     <string name="movie_tab_template">Șablon</string>
     <string name="movie_template_baby">Drăgălășenie</string>
+    <string name="movie_template_cool">Lumini</string>
+    <string name="movie_template_cool2">Ritm</string>
+    <string name="movie_template_cool3">Valuri</string>
+    <string name="movie_template_dull">Poveste</string>
+    <string name="movie_template_dull2">Timp</string>
+    <string name="movie_template_dull3">Frumusețe</string>
     <string name="movie_template_food">Mâncare</string>
     <string name="movie_template_new_year">An Nou</string>
     <string name="movie_template_normal">Melodie</string>

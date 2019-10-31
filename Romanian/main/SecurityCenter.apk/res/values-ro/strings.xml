@@ -2014,8 +2014,15 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_apps_tutorial_prompt_pagethree">După ce introduceți parola, dosarul ce conține aplicațiile ascunse va fi afișat.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Glisați cu două degete pe ecran. Veți vedea un mesaj care vă cere să introduceți parola pentru Blocarea aplicațiilor."</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
+    <string name="privacy_description_camera">%1s utilizează camera în fundal. Puteți comuta butonul de mai jos pentru a restricționa această activitate.</string>
+    <string name="privacy_description_camera_mic">%1s utilizează camera și microfonul în fundal. Puteți comuta butonul de mai jos pentru a restricționa această activitate.</string>
+    <string name="privacy_description_mic">%1s utilizează microfonul în fundal. Puteți comuta butonul de mai jos pentru a restricționa această activitate.</string>
     <string name="privacy_dialog_message">"Când vă conectați la internet, acest mesaj împreună cu informațiile despre operator vor fi criptate și încărcate pe serverele Mi pentru a ne ajuta să îmbunătățim monitorizarea utilizării datelor."</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
+    <string name="privacy_notification_subtitle">Atingeți pentru a gestiona permisiunile</string>
+    <string name="privacy_notification_title_camera">%1s utilizează camera în fundal</string>
+    <string name="privacy_notification_title_camera_mic">%1s utilizează camera și microfonul în fundal</string>
+    <string name="privacy_notification_title_mic">%1s utilizează microfonul în fundal</string>
     <string name="privacy_prompt_tc_sms_report_message">"Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor."</string>
     <string name="privacy_prompt_traffic_adjust_message">"După ce veți începe calibrarea, MIUI se va conecta la rețea, criptează informațiile despre operator, număr de telefon, IMEI şi contul Mi și le va încărca pe serverele Mi. Acest lucru este necesar pentru obținerea șablonului de calibrare a operatorului și afla dacă se pot achiziționa pachete de date din locația în care vă aflați
     

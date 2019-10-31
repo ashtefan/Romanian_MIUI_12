@@ -167,6 +167,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 4. Fotografia captată ar trebui să apară mai jos. Atingeți Ștergeți pentru a încheia testul."</string>
     <string name="cit_front_camera_check_title">Camera frontală</string>
     <string name="cit_front_rear_dual_camera_check_title">Camera Bokeh frontală</string>
+    <string name="cit_front_rear_sub_camera_check_title">Camera Aux frontală</string>
     <string name="cit_get_signature_failed">obținere semnătură EȘEC</string>
     <string name="cit_gps_check_summary">Informațiile GPS corespunzătoare ar trebui să fie afișate mai jos.</string>
     <string name="cit_gps_check_title">GPS</string>
