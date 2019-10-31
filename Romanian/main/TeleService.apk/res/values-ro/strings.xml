@@ -943,6 +943,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="lable_network_not_supported">"Rețeaua nu este suportată"</string>
     <string name="lafs_disable">Orarele de zbor ale aeroportului local sunt dezactivate</string>
     <string name="lafs_enable">Orarele de zbor ale aeroportului local sunt activate</string>
+    <string name="last_sim_callback_summary">Când se realizează apeluri din istoricul de apelare, utilizați cartela SIM de pe care s-a apelat anterior respectivul contact</string>
+    <string name="last_sim_callback_title">Reține preferințele cartelelor SIM</string>
     <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
     <string name="launch_defaults_some">Unele aplicații implicite setate</string>
     <string name="list_language_dtitle">Limbi</string>

@@ -17,6 +17,20 @@
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Nimic</item>
+        <item>Activează Google Assistant</item>
+    </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Vorbiți cu Google Assistant</item>
+        <item>Deschideți Google search</item>
+        <item>Porniți camera posterioară</item>
+        <item>Porniți camera frontală camera</item>
+        <item>Deschideți aplicația anterioară</item>
+        <item>Porniți lanterna</item>
+        <item>Activați modul Citire</item>
+        <item>Nimic</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>În fiecare zi</item>
         <item>În zilele săptămânii</item>
@@ -349,6 +363,7 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Implicit)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -365,6 +380,13 @@
         <item>5 minute</item>
         <item>1 oră</item>
         <item>Fără timp limită</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Dezactivată</item>
+        <item>Filtrare activată</item>
+        <item>Activare filtrare anteturi</item>
+        <item>Enabled Media Pkts Filtered</item>
+        <item>Activată</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 secundă</item>
@@ -413,6 +435,10 @@
         <item>Temporar</item>
         <item>Cursiv</item>
         <item>Litere mici</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Doar acasă</item>
+        <item>Automat</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Deblocare facială</item>
@@ -1032,6 +1058,10 @@
         <item>Compatibilitate</item>
         <item>Viteză crescută</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Întunecat</item>
+        <item>Luminos</item>
+    </string-array>
     <string-array name="data_network_type_name_default">
         <item>4G</item>
         <item>4G+</item>
@@ -1147,9 +1177,9 @@
         <item>Verifică întotdeauna</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
-        <item>Pornește ecranul</item>
-        <item>Arată animațiile</item>
         <item>"Nu porni ecranul"</item>
+        <item>Pornește ecranul</item>
+        <item>Arată animațiile</item>    
     </string-array>
     <string-array name="led_color_entries">
         <item>Albastru</item>
@@ -1324,6 +1354,36 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>E-mail</item>
         <item>Redare videoclip</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>De preferat GSM/WCDMA</item>
+        <item>Doar GSM</item>
+        <item>Doar WCDMA</item>
+        <item>GSM/WCDMA automat</item>
+        <item>CDMA/EvDo automat</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Doar EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Doar TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Stocarea internă</item>
         <item>Stocarea externă</item>
@@ -1492,19 +1552,14 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Spaniolă (América)</item>
         <item>Portugheză (Brazilia)</item>
     </string-array>
+    <string-array name="startup_hips_action">
+        <item>Permiteţi</item>
+        <item>Refuzaţi</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12-ore 1:00 PM</item>
         <item>24-ore 13:00</item>
         <item>Automat (bazat pe limba sistemului)</item>
-    </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3 GB</item>
-        <item>16 GB</item>
-        <item>Quad-core Max de 2,5 GHz</item>
-    </string-array>
-    <string-array name="startup_hips_action">
-        <item>Permiteţi</item>
-        <item>Refuzaţi</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -1605,6 +1660,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Doar de la contactele marcate</item>
         <item>Nimic</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Niciunul</item>
+        <item>Manual</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>Deconectată</item>
         <item>Se iniţializează…</item>
@@ -1703,9 +1762,18 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Doar 5 GHz</item>
         <item>Doar 2,4 GHz</item>
     </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>Nu</item>
+        <item>Da</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Static</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detectează în mod automat</item>
+        <item>Tratează ca rețea contorizată</item>
+        <item>Tratează ca rețea necontorizată</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Conectat</item>
@@ -1817,10 +1885,5 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="default_vol_stream_entries">
         <item>Sunet de apel</item>
         <item>Media</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Automat (bazat pe ora din zi)</item>
-        <item>Activ permanent</item>
-        <item>Permanent inactiv</item>
     </string-array>
 </resources>

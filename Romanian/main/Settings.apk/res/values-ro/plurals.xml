@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Cu %d zile în urmă</item>
+        <item quantity="one">Cu %d zi în urmă</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Cu %d min în urmă</item>
+        <item quantity="one">Cu %d min în urmă</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Cu %d ani în urmă</item>
+        <item quantity="one">Cu %d an în urmă</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d aplicații au acces deplin la dispozitivul dvs</item>
+        <item quantity="one">1 aplicație are acces deplin la dispozitivul dvs</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Întârziere extrem de scurtă (%1$d ms)</item>
         <item quantity="one">Întârziere extrem de scurtă (%1$d ms)</item>
@@ -36,6 +52,30 @@
         <item quantity="other">%d aplicații pot porni în mod automat</item>
         <item quantity="one">%d aplicație poate porni în mod automat</item>
     </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d aplicații restricționate</item>
+        <item quantity="one">%1$d aplicație restricționată</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Restricționați %1$d aplicații?</item>
+        <item quantity="one">Restricționați aplicația?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">"Aceste aplicații nu pot rula în fundal"</item>
+        <item quantity="one">"Această aplicație nu poate rula în fundal"</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d aplicații restricționate recent</item>
+        <item quantity="one">%1$s aplicație restricționată recent</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d aplicații consumă intensiv acumulatorul în fundal</item>
+        <item quantity="one">%1$s consumă intensiv acumulatorul în fundal</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Restricționați %1$d aplicații</item>
+        <item quantity="one">Restricționați %1$d aplicație</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicații se pot conecta la rețea</item>
         <item quantity="one">%d aplicație se poate conecta la rețea</item>
@@ -43,6 +83,10 @@
     <plurals name="bg_network_restrict_count">
         <item quantity="other">"%d aplicații nu se pot conecta la rețea"</item>
         <item quantity="one">"%d aplicație nu se pot conecta la rețea"</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">%d zile rămase</item>
+        <item quantity="one">%d zi rămasă</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispozitive</item>
@@ -103,6 +147,14 @@
     <plurals name="hours">
         <item quantity="other">%s ore</item>
         <item quantity="one">1 oră</item>
+    </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d din %2$d aplicații au acces la locație</item>
+        <item quantity="one">%1$d din %2$d aplicații are acces la locație</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Pe - %1$d aplicații au acces la locație</item>
+        <item quantity="one">Pe - %1$d aplicații are acces la locație</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
@@ -168,10 +220,6 @@
         <item quantity="other">%d agenți de încredere activi</item>
         <item quantity="one">1 agent de încredere activ</item>
     </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d conturi vor fi resetate</item>
-        <item quantity="one">1 cont va fi resetat</item>
-    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicații au utilizat memoria în ultimele %2$s</item>
         <item quantity="one">1 aplicație a utilizat memoria în ultima %2$s</item>
@@ -184,21 +232,57 @@
         <item quantity="other">%d adăugate</item>
         <item quantity="one">%d adăugat</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIMs</item>
+        <item quantity="one">%1$d SIM</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restricții</item>
         <item quantity="one">1 restricție</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d canale de notificare.</item>
+        <item quantity="one">%1$d canal de notificare.</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d categorii</item>
+        <item quantity="one">%d categorie</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Dezactivată pentru %d aplicații</item>
         <item quantity="one">Dezactivată pentru o aplicație</item>
     </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">%d categorii dezactivate</item>
+        <item quantity="one">%d categorie dezactivată</item>
+    </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d notificări pe zi</item>
+        <item quantity="one">~%d notificare pe zi</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d notificări pe săprămână</item>
+        <item quantity="one">~%d notificare pe săptămână</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aplicații active</item>
         <item quantity="one">%d aplicație activă</item>
     </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s aplicații</item>
+        <item quantity="one">1 aplicație</item>
+    </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permisiuni acordate</item>
         <item quantity="one">%d permisiune acordată</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d aplicații se comportă anormal</item>
+        <item quantity="one">%1$s se comportă anormal</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Aplicații descarcă acumulatorul</item>
+        <item quantity="one">%1$s descarcă acumulatorul</item>
     </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d sarcini de tipărire</item>
@@ -207,6 +291,10 @@
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d servicii de tipărire active</item>
         <item quantity="one">1 serviciu de printare activ</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">Se limitează utilizarea acumulatorului pentru %1$d aplicații</item>
+        <item quantity="one">Se limitează utilizarea acumulatorului pentru %1$d aplicație</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permisiuni suplimentare</item>
@@ -240,13 +328,9 @@
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
     </plurals>
-    <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d pași până la obținerea jurnalului GPS</item>
-        <item quantity="one">%1$d pas până la obținerea jurnalului GPS</item>
-    </plurals>
-    <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d pași până la obținerea jurnalului modem</item>
-        <item quantity="one">%1$d pas până la obținerea jurnalului modem</item>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d saved hearing aids</item>
+        <item quantity="one">%1$d saved hearing aid</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon."</item>
@@ -255,10 +339,6 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a raporta o problemă."</item>
         <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a raporta o problemă."</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Parcurgeți %1$d pași pentru a reveni la setările din fabrică</item>
-        <item quantity="one">Parcurgeți %1$d pas pentru a reveni la setările din fabrică</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d aplicații pot utiliza date nerestricționate</item>
@@ -295,6 +375,14 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicații pot afișa notificări</item>
         <item quantity="one">%d aplicație poate afișa notificări</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d sugestii</item>
+        <item quantity="one">+1 sugestie</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d sugestii</item>
+        <item quantity="one">1 sugestie</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elemente</item>
@@ -376,21 +464,38 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="other">%d rețele</item>
         <item quantity="one">1 rețea</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d rețele și abonamente</item>
+        <item quantity="one">1 rețea și abonament</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d abonamente</item>
+        <item quantity="one">1 abonament</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Au fost partajate %d rețele</item>
         <item quantity="one">A fost partajată %d rețea</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispozitive conectate</item>
+        <item quantity="one">%1$d dispozitiv conectat</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Codul PIN pentru cartela SIM este incorect. V-au mai rămas %d încercări.</item>
         <item quantity="one">Codul PIN pentru cartela SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Notificările de la %1$d aplicații pot suprascrie modul Nu deranjați</item>
+        <item quantity="zero">Nicio aplicație nu poate suprascrie modul Nu deranjați</item>
+        <item quantity="one">Notificările de la 1 aplicație pot suprascrie modul Nu deranjați</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d ore (dacă nu se activează automat)</item>
-        <item quantity="one">O oră (dacă nu se activează automat)</item>
+        <item quantity="other">%d ore</item>
+        <item quantity="one">O oră</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d sarcini automate activate</item>
-        <item quantity="one">O sarcină automată activată</item>
+        <item quantity="other">%d activate</item>
+        <item quantity="one">1 activată</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">%d reguli se pot activa automat</item>
