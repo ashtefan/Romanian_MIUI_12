@@ -4,7 +4,9 @@
     <string name="date_time_12">EEE, dd MMMM</string>
     <string name="desc_date_format">EEEE, dd MMM</string>
     <string name="desc_date_format_12">EEEE, dd MMM</string>
-	<string name="weather_type_0">Senin</string>
+    <string name="desc_time">'ora curentă\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', atingeți de două ori pentru a intra în aplicația Ceas'</string>
+    <string name="weather_type_null">'Nu există date'</string>
+    <string name="weather_type_0">Senin</string>
     <string name="weather_type_1">Înnorat</string>
     <string name="weather_type_2">Ceaţă</string>
     <string name="weather_type_3">Ceaţă</string>
@@ -29,4 +31,5 @@
     <string name="weather_type_22">Grindină</string>
     <string name="weather_type_23">Praf</string>
     <string name="weather_type_24">Ceaţă</string>
+    <string name="weather_type_25">Polei</string>
 </resources>
