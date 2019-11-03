@@ -1980,7 +1980,7 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifi_no_internet_no_reconnect">"Nu se poate conecta la Internet"</string>
     <string name="wifi_not_in_range">Înafara razei de acțiune</string>
     <string name="wifi_remembered">Salvată</string>
-  <string name="wifi_scan_throttling">WLAN scan throttling</string>
+    <string name="wifi_scan_throttling">Ștrangulare scanare Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce consumul acumulatorului și îmbunătățește performanța rețelei</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
