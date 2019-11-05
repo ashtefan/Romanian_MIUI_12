@@ -134,7 +134,6 @@
     <string name="keywords_search_code">Scaner;Scanare;Cod QR;QR;Recunoaștere;Cod de bare;Coduri de bare;Produs;Produse;Alipay;WeChat;Cum să scanați codurile QR;Cum să scanați codurile de bare;Cum să scanați;Scaner MIUI</string>
     <string name="keywords_search_document">Scaner;Scanare document;Scanare documente;OCR;Scanare text;Scanare</string>
     <string name="keywords_search_namecard">Scaner;Carte de vizită;Cărți de vizită;Scan;Scanări;Card;Carduri;Contacte;Contact</string>
-    <string name="keywords_search_shopping">Cumpărături;Scaner;Scanare produse;Scanare produs;Verificare preț;Produse;Taobao;Tmall;Prețuri;Cumpărături online</string>
     <string name="keywords_search_study">Scaner;Problem;Rezolvare probleme;Temă;Școală;Fizică;Chimie;Matematică;Aritmetică;Engleză;Istorie;Chineză</string>
     <string name="keywords_search_translation">Scaner;Traducere;Dicționar;Engleză;Limbă străină;Limbă;Limbi;Din engleză în chineză;Italiană;Germană;Japoneză;Coreană;Spaniolă;Franceză;Traducere Baidu;Dicționar Youdao;Dicționar Baidu;Traducere Google</string>
     <string name="label_choose_picture">Selectați fotografia</string>
@@ -165,7 +164,6 @@
     <string name="name">Nume:</string>
     <string name="new_schedule">Creați un eveniment</string>
     <string name="nickname">Pseudonim:</string>
-  <string name="nljzz">努力加载中</string>
     <string name="no_network">"Nu se poate conecta la rețea"</string>
     <string name="no_storage">Nu există un mediu intern de stocare</string>
     <string name="no_support_to_translate_type">"Această limbă nu este suportată"</string>

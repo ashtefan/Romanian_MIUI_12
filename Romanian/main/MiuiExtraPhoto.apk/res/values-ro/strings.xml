@@ -2,8 +2,17 @@
 <resources>
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_saving">Salvare…</string>
-    <string name="motion_photo_re_pick_title">Selectați cele mai bune fotografii</string>
+    <string name="motion_photo_cancel">Renunțați</string>
+    <string name="motion_photo_re_pick_title">Fotografie live</string>
+    <string name="motion_photo_save_fail">Nu s-a putut salva</string>
+    <string name="motion_photo_save_gif">Salvați ca GIF</string>
+    <string name="motion_photo_save_gif_ing">Se salvează GIF-ul…</string>
+    <string name="motion_photo_save_image">Salvați cea mai bună imagine</string>
+    <string name="motion_photo_save_image_ing">Se salvează cea mai bună imagine…</string>
+    <string name="motion_photo_save_video">Salvați ca videoclip</string>
+    <string name="motion_photo_save_video_ing">Se salvează videoclipul…</string>
     <string name="motion_photo_toast_default">Implicit</string>
+    <string name="motion_photo_toast_long_press_play">Apăsați și mențineți apăsat pe fotografie pentru a reda</string>
     <string name="motion_photo_toast_suggest">Recomandat</string>
     <string name="refocus_discard_confirm_message">Salvați modificările?</string>
     <string name="refocus_discard_negative_btn">Renunțați</string>

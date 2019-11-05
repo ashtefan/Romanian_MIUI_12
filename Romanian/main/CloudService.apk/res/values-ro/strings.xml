@@ -94,7 +94,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabled_title">Localizare dispozitiv dezactivată</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
-    <string name="find_device_dspt_provision">"Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#ff0000&gt;%s&lt;/font&gt; pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări."</string>
+    <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF&gt;%s&lt;/font&gt; pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări."</string>
     <string name="find_device_dspt_provision_3">. Puteți activa sau dezactiva această caracteristică oricând în Setări.</string>
     <string name="find_device_dspt_provision_4">Dacă veţi schimba cartela SIM, un mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
     <string name="find_device_enabling">Activare…</string>
@@ -175,6 +175,8 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
+    <string name="menu_add_feedback">Feedback</string>
+    <string name="menu_add_short_cut">Creați o scurtătură pe Ecranul principal</string>
     <string name="micloud_alert_dialog_positive">OK</string>
     <string name="micloud_all_sub_1_intl_sms">Un SMS internațional va fi trimis pentru activarea cartelei SIM. Operatorul dumneavoastră vă poate taxa pentru acest SMS.</string>
     <string name="micloud_all_sub_1_sms">Un SMS local va fi trimis pentru activarea cartelei SIM. Operatorul dumneavoastră vă poate taxa pentru acest SMS..</string>
@@ -256,7 +258,7 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
-    <string name="micloud_find_device_guide_title">"Conectați-vă la &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge datele de pe telefonul dumneavoastră. Acest lucru vă poate ajuta să vă recuperați telefonul în caz că îl pierdeți.&lt;br /&gt;Dacă pierdeți telefonul, puteți contacta serviciul de securitate al aplicațiilor utilizate frecvent( de ex. Alipay, WeChat, QQ) pentru a vă proteja conturile de pe &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
+    <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge datele de pe telefonul dumneavoastră. Acest lucru vă poate ajuta să vă recuperați telefonul în caz că îl pierdeți..</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
@@ -492,7 +494,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="priv_dialog_finddevice_all_purpose_pad">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
     <string name="priv_dialog_sync_all_purpose">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a sincroniza mesajele, istoricul de apelare, contactele, notițele, setările browserului, melodiile, fotografiile și videoclipurile, setările Wi-Fi, înregistrările, dispunerea Ecranului principal, aplicațiile, evenimentele din calendar, elementele din lista blocărilor și Asistentul inteligent între toate dispozitivele conectate.</string>
-    <string name="priv_doc_cloudservice">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a sincroniza mesajele, istoricul de apelare, contactele, notițele, setările browserului, melodiile, fotografiile și videoclipurile, setările Wi-Fi, înregistrările, dispunerea Ecranului principal, aplicațiile, evenimentele din calendar, elementele din lista blocărilor și Asistentul inteligent între toate dispozitivele conectate. Accesați elementele sincronizate din orice browser la i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+    <string name="priv_doc_cloudservice">"Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a sincroniza mesajele, istoricul de apelare, contactele, notițele, setările browserului, melodiile, fotografiile și videoclipurile, setările Wi-Fi, înregistrările, dispunerea Ecranului principal, aplicațiile, evenimentele din calendar, elementele din lista blocărilor și Asistentul inteligent între toate dispozitivele conectate. Accesați elementele sincronizate din orice browser la &lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;
 
 Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
 
@@ -513,7 +515,7 @@ Pentru salvarea elementelor pe dispozitiv (de ex. imagini, videoclipuri, melodii
 Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
 Citiți și acceptați "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;Acordul Utilizatorului ș&lt;/a&gt;&lt;/u&gt;i &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politica de Confidențialitate î&lt;/a&gt;&lt;/u&gt;"nainte de a utiliza Xiaomi Cloud.
 "</string>
-    <string name="priv_doc_finddevice_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+    <string name="priv_doc_finddevice_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;" pentru a-l localiza, bloca sau reseta.
 
 Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
 Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
@@ -524,7 +526,7 @@ Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
 Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
 Citiți și acceptați "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
 "</string>
-    <string name="priv_doc_finddevice_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+    <string name="priv_doc_finddevice_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;" pentru a-l localiza, bloca sau reseta.
 
 Vă vom proteja informațiile personale în concordanță cu legile și regulamentele relevante și politica de confidențialitate.
 Pentru a putea funcționa în mod normal, Găsirea dispozitivului trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a vă colecta informațiile personale:
@@ -535,7 +537,7 @@ Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
 Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
 Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
 "</string>
-    <string name="priv_doc_finddevice_with_telephony_feature_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+    <string name="priv_doc_finddevice_with_telephony_feature_pad">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;" pentru a-l localiza, bloca sau reseta.
 
 Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
 
@@ -549,7 +551,7 @@ Pentru localizarea dispozitivului dvs. și comutarea la modul pierdut
 Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza aceste servicii. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în asemenea cazuri.
 Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Acordul Utilizatorului &lt;/a&gt;&lt;/u&gt;și&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Politica de Confidențialitate &lt;/a&gt;&lt;/u&gt;"înainte de a utiliza Găsirea dispozitivului.
 "</string>
-    <string name="priv_doc_finddevice_with_telephony_feature_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesao "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" pentru a-l localiza, bloca sau reseta.
+    <string name="priv_doc_finddevice_with_telephony_feature_phone">"Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;" pentru a-l localiza, bloca sau reseta.
 
 Un mesaj SMS poate fi necesar pentru activarea acestui serviciu. Operatorul dumneavoastră vă va taxa pentru acest mesaj. Când veți schimba cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această caracteristică.
 
@@ -641,9 +643,8 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="sync_sub_2_intl_sms">Operatorul dvs. vă poate taxa pentru două mesaje SMS internaţionale utilizate pentru a activa acest serviciu.</string>
     <string name="sync_sub_2_sms">Operatorul dvs. vă poate taxa pentru două mesaje SMS utilizate pentru a activa acest serviciu.</string>
     <string name="system_busy_or_network_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="sync_sub_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
-    <string name="sync_sub_dspt_provision">Sincronizaţi fotografiile, contactele, muzica, aplicațiile și altele între toate dispozitivele dvs.</string>
-    <string name="sync_sub_int_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
+    <string name="tip_short_cut_added_success">Creată cu succes</string>
+    <string name="tip_short_cut_already_added">Creată</string>
     <string name="title_back">Înapoi</string>
     <string name="title_reg">Creaţi un cont Mi</string>
     <string name="total_space_upgraded_to">Spaţiu total: %s</string>

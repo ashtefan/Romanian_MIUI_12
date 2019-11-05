@@ -1792,6 +1792,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="smart_divert_title">Redirecționare inteligentă</string>
     <string name="smart_forwarding_settings_menu">Redirecționare Inteligentă</string>
     <string name="smart_forwarding_settings_menu_summary">"Când un număr nu este disponibil, redirecționează întotdeauna apelurile pe celălalt număr"</string>
+    <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Asigurați-vă că numărul introdus este corect. Altfel, nu veți putea trimite sau primi SMS-uri. Contactați operatorul dvs. pentru a confirma numărul SMSC."</string>
     <string name="speed_label_fast">Rapid</string>
     <string name="speed_label_medium">Mediu</string>

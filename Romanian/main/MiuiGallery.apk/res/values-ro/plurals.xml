@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Cu o oră în urmă</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Cu o oră în urmă</item>
     </plurals>
@@ -224,29 +221,6 @@
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d fișiere</item>
         <item quantity="one">%1$d fișier</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Cu o jumătate de oră în urmă</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Într-o oră</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">În jumătate de oră</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Imediat</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">în %d minute</item>
-        <item quantity="one">într-un minut</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Chiar acum</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Cu %d minute în urmă</item>
-        <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elemente aşteaptă sincronizarea</item>

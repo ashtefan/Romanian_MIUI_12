@@ -65,6 +65,7 @@
     <string name="pressure_title">Presiune</string>
     <string name="pressure_unit">hPa</string>
     <string name="shake_enter_tip">Agitaţi pentru a calibra</string>
+    <string name="unit_degree">Grade</string>
     <string name="using_camera_confirm_cancel">Opriţi</string>
     <string name="using_camera_confirm_ok">De acord</string>
 </resources>

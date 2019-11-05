@@ -1095,13 +1095,15 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="bt_ldac_property">Atribute</string>
     <string name="bt_ldac_remember_choice">Reține alegerea</string>
     <string name="bt_ldac_settings">Setări</string>
-    <string name="bt_lhdc_declaration">Atunci când un dispozitiv Bluetooth suportă LHDC, el va fi conectat în mod implicit. LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
+    <string name="bt_lhdc_declaration">Atunci când un dispozitiv Bluetooth suportă LHDC, el va fi conectat în mod implicit. LDHC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie
-Această caracteristică poate fi dezactivată din [Setări]"</string>
+Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="bt_lhdc_dialog_title">Dispozitivul curent suportă LHDC, care a fost conectat în mod implicit:</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
     <string name="bt_lhdc_open_dialog_title">Activați LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Atribute</string>
+    <string name="bt_pre_summary">Furnizează o experiență audio de înaltă calitate</string>
     <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
@@ -3403,7 +3405,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="need_reboot_now">Reporniţi pentru a instala actualizarea.</string>
     <string name="netcheck_title">Diagnosticare rețea</string>
     <string name="network_alarm">Nu redu la tăcere apelurile prin internet</string>
-    <string name="network_alarm_summary">Notă: Unele aplicații nu sunt compatibile cu această funcție.%1$s</string>
+    <string name="network_alarm_summary">Notă: Unele aplicații nu sunt compatibile cu această funcție. %1$s</string>
     <string name="network_alarm_summary_reg">Vedeți aplicațiile suportate</string>
     <string name="network_alarm_support_apps">Aplicații suportate</string>
     <string name="network_assistant">Utilizare date</string>
@@ -6404,7 +6406,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_network_prefix_length">Lungime prefix</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">Trebuie precizat un domeniu.</string>
-    <string name="wifi_no_internet">Nu există acces la Internet</string>
+    <string name="wifi_no_internet">Nu se poate conecta la Internet</string>
     <string name="wifi_no_internet_no_reconnect">"Nu se va conecta în mod automat"</string>
     <string name="wifi_not_in_range">În afara ariei de acoperire</string>
     <string name="wifi_notify_cmcc_connected_summary">Se afişează o notificare atunci când este conectat la rețea CMCC</string>
@@ -6699,6 +6701,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="write_tag">Scrieți</string>
     <string name="wrong_pin_code_pukked">Cod PIN incorect. Contactaţi operatorul pentru deblocarea dispozitivului.</string>
     <string name="xiaomi_account">Contul Mi</string>
+    <string name="xiaomi_cloud_find_device">Localizare dispozitiv</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud sincronizează contactele și fotografiile, creează copii de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea telefonului.</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud vă sincronizează fotografiile, face copie de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea dispozitivului.</string>

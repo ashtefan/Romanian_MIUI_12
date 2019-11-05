@@ -230,10 +230,11 @@
     <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
+    <string name="launcher_global_search_mode_title">Căutare globală</string>
+    <string name="launcher_global_search_provider_title">Furnizor căutare globală</string>
     <string name="launcher_minus_screen_title">Ecran minus unu</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="launcher_pull_down_title">Glisați în jos în Ecranul principal</string>
-    <string name="launcher_search_bar_title">Bara de căutare</string>
     <string name="launcher_slide_up_title">Glisați în sus în Ecranul principal</string>
     <string name="launcher_sliding_up_gesture">Glisați în sus pe Ecranul principal pentru a deschide căutarea</string>
     <string name="launcher_title">Ecranul principal și Recente</string>

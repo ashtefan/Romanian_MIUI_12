@@ -72,6 +72,15 @@
         <item>La stânga</item>
         <item>La dreapta</item>
     </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Nimic</item>
+        <item>Glisare în sus</item>
+        <item>Bară de căutare</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>Implicit</item>
+        <item>Google</item>
+    </string-array>
     <string-array name="minus_screen_entries">
         <item>Nimic</item>
         <item>Asistent inteligent</item>

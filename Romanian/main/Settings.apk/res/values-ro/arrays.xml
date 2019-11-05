@@ -341,6 +341,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Activați codecurile opționale</item>
         <item>Dezactivați codecurile opționale</item>
     </string-array>
@@ -352,6 +353,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Activați codecurile opționale</item>
         <item>Dezactivați codecurile opționale</item>
     </string-array>

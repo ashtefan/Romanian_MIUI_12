@@ -23,6 +23,8 @@
     <string name="app_notification_info">Aplicația Note rulează în fundal</string>
     <string name="app_widget">Note</string>
     <string name="application_icon">Pictograma aplicației</string>
+    <string name="audio_create_normal_state">Eliberați pentru a crea. Glisați în sus pentru a anula.</string>
+    <string name="audio_create_will_cancel_state">Eliberați pentru a anula</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Fișer audio nevalid</string>
     <string name="audio_toast_file_undownload">"Fișierul audio nu este complet descărcat sau lipsește"</string>
@@ -130,6 +132,10 @@
     <string name="menu_todo_show_finished_todo">Afișează sarcinile finalizate</string>
     <string name="menu_unhide">Afișați</string>
     <string name="menu_unstick">Anulaţi fixarea</string>
+    <string name="new_audio_create_cancel_talkback_des">Anulată</string>
+    <string name="new_audio_create_done_talkback_des">Creată</string>
+    <string name="new_audio_create_guide_tip">Apăsați și mențineți apăsat pentru a crea o notiță vocală</string>
+    <string name="new_audio_create_talkback_des">Atingeți pentru a crea o notiță text. Apăsați și mențineți apăsat pentru a crea o notiță vocală. Eliberați butonul pentru a opri înregistrarea și a crea o notiță sau glisați în sus pentru a anula.</string>
     <string name="not_now">Nu acum</string>
     <string name="note_description_content">Aplicația Note este o unealtă utilă pentru a vă înregistra ideile. Incorporează funcția de memento și vă sincronizează elementele în cloud pentru a le putea accesa de oriunde, oricând. Asigurați-vă că puteți trăi fără aceste caracterisitici înainte de a șterge aplicația.</string>
     <string name="note_description_title">Despre aplicația Note</string>

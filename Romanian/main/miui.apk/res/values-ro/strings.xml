@@ -348,7 +348,7 @@
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">Sincronizarea a fost dezactivată din cauza unor probleme cu contul dvs. Mi.</string>
     <string name="error_not_acceptable">Sincronizarea a fost dezactivată.</string>
-    <string name="error_title">"Sincronizarea a eșuat"</string>
+    <string name="error_title">Sincronizarea a eșuat</string>
     <string name="error_unauthorized">Sincronizarea a fost dezactivată din cauza prea multor încercări de autentificare.</string>
     <string name="evening">PM</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -416,7 +416,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="hybrid_provider">Furnizată de %1$s.</string>
+    <string name="hybrid_provider">Furnizată de %1$s</string>
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Închideți</string>
     <string name="instruction">Informații importante de securitate</string>
@@ -466,7 +466,7 @@
     <string name="name">Nume</string>
     <string name="nickname">Pseudonim</string>
     <string name="night">PM</string>
-    <string name="no_network">"Nu se poate conecta la rețea"</string>
+    <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="no_sim">Nicio cartelă SIM detectată.</string>
     <string name="noon">PM</string>
     <string name="note">Notă</string>
@@ -498,12 +498,12 @@
     <string name="sim_not_ready">Cartela SIM este în uz. Încercați din nou mai târziu.</string>
     <string name="sim_unavailable">Cartelă SIM indisponibilă.</string>
     <string name="sip_phone">Telefon SIP</string>
-    <string name="size_byte">" B"</string>
-    <string name="size_giga_byte">" GB"</string>
-    <string name="size_kilo_byte">" KB"</string>
-    <string name="size_mega_byte">" MB"</string>
-    <string name="size_peta_byte">" PB"</string>
-    <string name="size_tera_byte">" TB"</string>
+    <string name="size_byte"> B</string>
+    <string name="size_giga_byte"> GB</string>
+    <string name="size_kilo_byte"> KB</string>
+    <string name="size_mega_byte"> MB</string>
+    <string name="size_peta_byte"> PB</string>
+    <string name="size_tera_byte"> TB</string>
     <string name="solar_term_autumn_begins">Autumn Begins</string>
     <string name="solar_term_autumn_equinox">Autumn Equinox</string>
     <string name="solar_term_clear_and_bright">Clear and Bright</string>

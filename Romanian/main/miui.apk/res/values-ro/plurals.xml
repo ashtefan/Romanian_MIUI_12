@@ -5,10 +5,10 @@
         <item quantity="one">%d element selectat</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Acum</item>
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Acum</item>
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediat</item>
@@ -50,10 +50,10 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">în %d minute</item>
-        <item quantity="one">intr-un minut</item>
+        <item quantity="one">într-un minut</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">în %d minute</item>
-        <item quantity="one">intr-un minut</item>
+        <item quantity="one">într-un minut</item>
     </plurals>
 </resources>

@@ -376,7 +376,7 @@
     <string name="collage_select_image_range">Colajele pot conține 1-6 fotografii</string>
     <string name="collage_title_layout">Dispunere</string>
     <string name="collage_title_poster">Poster</string>
-  <string name="collage_title_stitching">Film roll</string>
+    <string name="collage_title_stitching">Rolă de film</string>
     <string name="collaps_people">Ascundeți</string>
     <string name="confirm">OK</string>
     <string name="confirm_cancel_task_files">Opriți trimiterea fișierelor către %1$s?</string>
@@ -447,7 +447,7 @@
     <string name="delete_third_party_photo">Ștergeți această fotografie?</string>
     <string name="delete_third_party_video">Ștergeți acest videoclip?</string>
     <string name="delete_to_trash_tips">Puteți vedea fotografiile sincronizate șterse recent în Setări/Coș de gunoi</string>
-    <string name="deny">Nu</string>
+    <string name="deny">Respingeți</string>
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
     <string name="detail_title">Informații detaliate</string>
@@ -1562,6 +1562,14 @@ pentru a personaliza Galeria"</string>
     <string name="text_edit_sub_menu_text">Baloane</string>
     <string name="text_tab_bubble">Bule</string>
     <string name="text_tab_watermark">Filigrane</string>
+    <string name="the_eve_of_the_spring_festival">Ajunul Festivalului de Primăvară</string>
+    <string name="the_fifth_day">A cincea zi</string>
+    <string name="the_forth_day">A patra zi</string>
+    <string name="the_second_day">A doua zi</string>
+    <string name="the_seventh_day">A șaptea zi</string>
+    <string name="the_sixth_day">A șasea zi</string>
+    <string name="the_spring_festival">Festivalul de Primăvară</string>
+    <string name="the_third_day">A treia zi</string>
     <string name="things_album_empty_title">Fotografiile pot fi sortate după obiectele pe care le conțin</string>
     <string name="throwing_print">Tipăriți</string>
     <string name="throwing_screen">Proiectați</string>
