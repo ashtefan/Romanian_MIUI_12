@@ -34,15 +34,12 @@
     <string name="action">Conectaţi-vă</string>
     <string name="action_imme_open">Deschide imediat</string>
     <string name="action_menu_account_not_login">Nu sunteți conectat</string>
-    <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza în cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
     <string name="action_menu_download">Descărcați</string>
     <string name="action_menu_request_desktop_site">Acces site desktop</string>
     <string name="action_menu_text_add_shortcut">Adăugați o scurtătură</string>
     <string name="action_menu_text_bandwidth">Economisire date</string>
-    <string name="action_menu_text_bandwidth_off">Economisire date</string>
-    <string name="action_menu_text_bandwidth_on">Economisire date</string>
     <string name="action_menu_text_bookmark_add_off">Nu s-a putut adăuga site-ul</string>
     <string name="action_menu_text_copy_url">Copiaţi URL</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
@@ -64,8 +61,6 @@
     <string name="action_menu_toast_incognito_off">Dezactivați modul Incognito</string>
     <string name="action_menu_toast_incognito_on">Activați modul Incognito</string>
     <string name="action_menu_toolbox">Unelte</string>
-    <string name="action_menu_useful_page">Adaugă la Utile</string>
-    <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="action_menu_user_center">Profil</string>
     <string name="action_modify_bookmark">Modificați marcajul</string>
     <string name="action_put_in_search_box">Puneți %s în căsuța de căutare</string>
@@ -90,10 +85,7 @@
     <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
     <string name="adblock_rules_not_updated_toast">"Nu s-a putut actualiza"</string>
-    <string name="adblock_rules_restore">Deblocaţi</string>
     <string name="adblock_rules_updated_toast">Actualizare efectuată</string>
-    <string name="adblock_websites_settings_empyt_hint">Nu ați blocat niciun site.</string>
-    <string name="adblock_websites_settings_title">Site-uri blocate</string>
     <string name="add_bookmark_group">Adăugaţi un grup</string>
     <string name="add_bookshelf_popup_text">Adăugată în raft</string>
     <string name="add_favorites_to">Adăugați la Favorite</string>
@@ -112,7 +104,6 @@
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
     <string name="agree">De acord</string>
     <string name="agree_permissions_request">Permiteți</string>
-    <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_continue_downloading_text">Reluați</string>
     <string name="app_download_market_text">Utilizați Mi Market pentru a descărca, mai rapid și mai sigur</string>
@@ -121,7 +112,6 @@
     <string name="app_downloading_ratio_text">Se descarcă %s</string>
     <string name="app_downloading_text">Se descarcă</string>
     <string name="app_installing_text">Se instalează</string>
-    <string name="app_name">UiFramework</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_open_text">Deschideți</string>
     <string name="app_task_download_exists_text">Sarcina de descărcare există</string>
@@ -138,7 +128,6 @@
     <string name="autologin_bar_error">"Imposibil de conectat"</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
     <string name="autologin_bar_login_text">Conectare</string>
-    <string name="autologin_bar_text">Conectaţi-vă ca</string>
     <string name="back_button_label">Înapoi</string>
     <string name="back_description">Înapoi</string>
     <string name="block">Blocaţi</string>
@@ -147,9 +136,6 @@
     <string name="block_ads_message">Doriți să blocați mesajele de pe acest site?</string>
     <string name="block_ads_title">Conținutul poate cuprinde anunțuri</string>
     <string name="bookmark">Semn de carte</string>
-    <string name="bookmark_add_to">Adăugaţi la</string>
-    <string name="bookmark_btn_select_all">Selectați tot</string>
-    <string name="bookmark_btn_select_none">Deselectați tot</string>
     <string name="bookmark_cannot_save_url">"Această adresă URL nu poate fi marcată"</string>
     <string name="bookmark_deleted">Marcaj șters</string>
     <string name="bookmark_error_page_title">A apărut o eroare</string>
@@ -162,25 +148,18 @@
     <string name="bookmark_not_saved">"Marcajul nu a putut fi salvat"</string>
     <string name="bookmark_rename_group">Redenumiţi grupul</string>
     <string name="bookmark_saved">Marcajul a fost salvat</string>
-    <string name="bookmark_title">Nume marcaj</string>
-    <string name="bookmark_title_lable">Titlu</string>
-    <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">"Aţi adăugat deja acest URL la marcaje"</string>
     <string name="bookmark_url_can_not_null">Introduceți adresa URL</string>
-    <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_exisit">"Ați șters deja acest URL"</string>
     <string name="bookmark_url_not_valid">"Această adresă URL nu este validă"</string>
-    <string name="bookmarks_content_is_null">Niciun marcaj</string>
     <string name="bookmarks_management">Marcaje</string>
     <string name="bookmarks_root_folder">Dosar rădăcină</string>
     <string name="bookmarks_search">Browser</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Glisaţi în jos pentru a închide</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Aceasta este ultima filă</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisaţi în sus pentru a închide</string>
-    <string name="browserFrameFileErrorLabel">Eroare de fişier</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
-    <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
     <string name="bubble_guide_bottom_message_text">Aveți %d mesaje necitite</string>
     <string name="bubble_guide_logined_text">Autentificați-vă pentru a participa la ruletă</string>
     <string name="bubble_guide_portrait_message_text">Atingeți pentru a vedea</string>
@@ -189,8 +168,6 @@
     <string name="cancle_sync_cloud_tabs">Opriți sincronizarea</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
     <string name="cast_video">Proiectați videoclipul</string>
-    <string name="channel_complete">Finalizat</string>
-    <string name="channel_edit">Editați</string>
     <string name="channel_header_description">Atingeți pentru a accesa, apăsați lung pentru a edita</string>
     <string name="channel_header_title">Canalul meu</string>
     <string name="channel_more_description">Atingeți pentru a adăuga un canal</string>
@@ -894,7 +871,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
     <string name="recommending_close_toast_text">Setați închiderea acestei funcții din setările avansate</string>
     <string name="refresh_description">Reîmprospătare</string>
-    <string name="refresh_text">Reîmprospătați</string>
+    <string name="refresh_text">Reîncărcați</string>
     <string name="refuse_permissions_request">Restricționați</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
@@ -1037,6 +1014,8 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="storage_permission_request_toast">"Aplicația de descărcare solicită accesul la stocarea dispozitivului"</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
+    <string name="sug_search_history_delete_text">Eliminați</string>
+    <string name="sug_search_history_empty_text">Goliți</string>
     <string name="suggest_access_btn_install">Instalaţi</string>
     <string name="suggest_access_btn_open">Deschideţi</string>
     <string name="suggest_access_item_app_mark">APLICAȚII</string>
@@ -1205,5 +1184,4 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="voice_title_speech_again">"Nu v-am putut înțelege"</string>
     <string name="webpage_title">Marcaje şi istoric</string>
     <string name="wechat_not_installed">Aplicația Wechat nu este instalată</string>
-    <string name="window_manager_hybrid_application_list_title_text">Utilizate Recent</string>
 </resources>

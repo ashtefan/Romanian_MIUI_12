@@ -510,6 +510,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="push_notification_title">V-ați conectat la contul Mi de pe un dispozitiv necunoscut</string>
     <string name="push_notify_dialog_message">"Un dispozitiv necunoscut este folosit pentru conectarea la contul dumneavoastră Mi. Introduceți acest cod de verificare pe dispozitiv. Dacă nu ați fost dumneavoastră, schimbați parola contului Mi imediat. Nu transmiteți codul de verificare altor persoane."</string>
     <string name="push_notify_dialog_title">Verificare cont</string>
+    <string name="pwd_width_phone_number_or_mail_num">Parola nu poate conține numărul dvs. de telefon, adresa de e-mail sau ID-ul contului Mi</string>
     <string name="qq">QQ</string>
     <string name="recycle_phone_notification_msg">Se pare că numărul dvs. de telefon a fost reciclat. Atingeți pentru a actualiza.</string>
     <string name="recycle_phone_notification_title">Risc de securitate cont Mi</string>
@@ -526,8 +527,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="restart_action">Reporniţi</string>
     <string name="restart_phone_bind_message">Un mesaj text cu un cod de verificare va fi trimis la acest număr.</string>
     <string name="restart_phone_bind_title">Schimbaţi numărul de telefon pentru recuperare</string>
-    <string name="same_new_and_old_pwd">"Nu poate fi identică cu parola actuală"</string>
-    <string name="scan_barcode">Scanați codul QR pentru a vă conecta</string>
+    <string name="risky_pwd_not_allow">Noua parolă nu este sigură. Setați altă parolă.</string>
+    <string name="same_new_and_old_pwd">Noua parolă nu poate fi identică cu vechea parolă</string>
     <string name="scan_barcode_title">Pentru a vă conecta la contul dvs. Mi, scanaţi codul QR</string>
     <string name="search_account_security">Securitate cont</string>
     <string name="search_account_security_desc">Setări cont</string>

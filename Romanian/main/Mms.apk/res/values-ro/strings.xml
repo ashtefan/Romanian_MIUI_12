@@ -150,7 +150,6 @@
     <string name="context_menu_view_mms">Vizualizaţi MMS</string>
     <string name="conversation">Mesaje</string>
     <string name="conversation_listitem_avatar">Imagine de profil</string>
-    <string name="conversation_style">balon</string>
     <string name="converting_to_picture_message">Se face conversia la mesaj multimedia…</string>
     <string name="converting_to_text_message">Se face conversia la mesaj text…</string>
     <string name="converting_vcard_failed">"Nu s-a putut converti contactul"</string>
@@ -360,7 +359,7 @@
     <string name="mms_block_hint">"Acest expeditor nu se află în contactele dvs.
 Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mms_block_hint_highlight">Blocare MMS</string>
-    <string name="mms_main_purpose">"Pentru a obține acces deplin la funcționalitatea aplicației de Mesagerie, permiteți accesul acesteia de conectare la internet și activați Mesageria Mi și Mesageria Inteligentă."</string>
+    <string name="mms_main_purpose">"Pentru a obține acces deplin la funcționalitatea aplicației de Mesagerie, activați Mesageria Mi și Mesageria Inteligentă."</string>
     <string name="mms_title">Mesagerie</string>
     <string name="more">Mai multe</string>
     <string name="move_down">Mutaţi în jos</string>
@@ -422,6 +421,7 @@ Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mx_filter_message_from_stranger_summary">"Veți putea primi în continuare mesaje SMS de la numere necunoscute"</string>
     <string name="mx_main_purpose">"Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai Mesageriei Mi prin internet, fără a fi taxat.
 Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Opertaorul dvs. vă va taxa pentru acest mesaj."</string>
+    <string name="mx_main_purpose_short">Mesageria Mi permite utilizatorilor MIUI să trimită și să primească în mod gratuit mesaje SMS și MMS.</string>
     <string name="mx_message">Mesagerie Mi</string>
     <string name="mx_msg">Mesagerie Mi</string>
     <string name="mx_msg_pageview_setting_title">Setări Mesagerie Mi</string>
@@ -851,12 +851,12 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Opertao
     <string name="switch_to_editor">Mod Editare</string>
     <string name="switch_to_menu">Mod Meniu</string>
     <string name="system_permission_declare_agree">De acord</string>
-    <string name="system_permission_declare_disagree">"Nu sunt de acord"</string>
+    <string name="system_permission_declare_disagree">Renunțați</string>
     <string name="system_permission_declare_double_link" formatted="false">Citiți și acceptați %1s și %2s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! %2s</string>
-    <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile necesare sau nu permiteți colectarea datelor personale, această aplicație nu va funcționa în mod normal."</string>
-    <string name="system_permission_declare_privacy_declare">"Vă respectăm și vă protejăm confidențialitatea.
-Luați în considerare faptul că %1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
+    <string name="system_permission_declare_no_say_no">"Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.
+Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
+    <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizarea și să dezactivați serviciile din setările Mesageriei.</string>
     <string name="system_permission_declare_single_link">Citiți și acceptați %1s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Citiți și acceptați %1s, %2s și %3s înainte de a utiliza aceste caracteristici.</string>

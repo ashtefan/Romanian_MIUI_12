@@ -133,8 +133,8 @@ Actualizaţi acum?"</string>
     <string name="account_setup_incoming_username_label_default_hint">Puteți include domeniul</string>
     <string name="account_setup_need_password_verification">Contul dvs. are autentificare în doi pași. Este necesară autentificarea.</string>
     <string name="account_setup_options_actionbar_title">Setări rapide</string>
-    <string name="account_setup_options_mail_check_frequency_10min">La fiecare 10 minute</string>
     <string name="account_setup_options_mail_check_frequency_12hour">La fiecare 12 ore</string>
+    <string name="account_setup_options_mail_check_frequency_15min">La fiecare 15 minute</string>
     <string name="account_setup_options_mail_check_frequency_1hour">În fiecare oră</string>
     <string name="account_setup_options_mail_check_frequency_4hour">La fiecare 4 ore</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Automat (Push)</string>
@@ -584,6 +584,7 @@ Actualizaţi acum?"</string>
     <string name="login">Conectaţi-vă</string>
     <string name="login139">Conectare prin China Mobile</string>
     <string name="login_err_message">%1$sEste posibil să aveți nevoie de un cod de verificare pentru a vă conecta. Dacă doriți să vă resetați parola, accesați https://email.163.com/ pentru a vedea opțiunile disponibile.</string>
+    <string name="login_err_sina_message">%1$sEste posibil să aveți nevoie de un cod de verificare pentru a vă conecta. Dacă doriți să vă resetați parola, accesați https://mail.sina.com.cn/ pentru a vedea opțiunile disponibile.</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_tip">Numărul public de WeChat pentru suport și feedback:</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
@@ -617,6 +618,7 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
+  <string name="mailbox_name_server_all_unread">Necitite</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
@@ -1040,6 +1042,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="refreshing_done">Finalizat</string>
     <string name="release_to_refresh">Eliberați pentru a actualiza</string>
     <string name="remind_attachment_size_limit">Mărimea e-mailurilor ar trebui să fie sub %s MB</string>
+    <string name="remote_no_mail">Nu mai există e-mailuri pe server.</string>
     <string name="remote_search_body_too_large_prompt">"Acest e-mail este prea lung.
 Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer."</string>
     <string name="remove_account">Eliminaţi contul</string>
@@ -1112,7 +1115,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="ser_resp_err_map_nouser">Utilizatorul nu există</string>
     <string name="ser_resp_err_map_or">sau</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte.</string>
-    <string name="ser_resp_err_map_serclosed">Serverul este oprit</string>
+    <string name="ser_resp_err_map_serclosed">Serverul %s este oprit</string>
     <string name="ser_resp_err_map_ssl">"Alegeţi 'SSL/TLS (Se acceptă toate certificatele)' în 'Tip securitate'"</string>
     <string name="service_protocol_discribe">&lt;u&gt;"Am citit și sunt de acord cu Termenii serviciului de e-mail WPS"&lt;/u&gt;</string>
     <string name="service_protocol_title">Termenii serviciului</string>
@@ -1241,6 +1244,9 @@ Eliminați contul?"</string>
     <string name="uploading_logs">Doar o secundă…</string>
     <string name="user_privacy_settings">Setări de Confidențialitate</string>
     <string name="user_privacy_settings_agreement_authorization">"(Atingând butonul \"Autorizez\" acordați WPS Mail toate permisiunile necesare)"</string>
+    <string name="user_privacy_settings_path">Sfat: Vă puteți retrage consimțământul din setările de confidențialitate ale utilizatorului, setări - setările de confidențialitate ale utilizatorului.</string>
+    <string name="user_privacy_settings_summary">Vom colecta Android ID-ul (criptat ca ID unic de utilizator când folosiți MI Mail) sau jurnalul de operare. Aveți dreptul să vă retrageți consimțământul oricând prin intermediul setărilor de confidențialitate a utilizatorului.</string>
+    <string name="user_privacy_settings_title">Memento Drepturi de Confidențialitate MI Mail</string>
     <string name="validation_failed_prompt">Nu se poate verifica contul. Verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
