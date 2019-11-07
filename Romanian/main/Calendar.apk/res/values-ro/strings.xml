@@ -209,6 +209,14 @@
     <string name="edit_event_tab_birthday">Zi de naștere</string>
     <string name="edit_event_tab_countdown">Temporizator</string>
     <string name="edit_event_tab_event">Eveniment</string>
+    <string name="edit_event_title_create_agenda">Adăugați un eveniment</string>
+    <string name="edit_event_title_create_anniversary">Adăugați o aniversare</string>
+    <string name="edit_event_title_create_birthday">Adăugați o zi de nașterey</string>
+    <string name="edit_event_title_create_countdown">Adăugați o numărătoare inversă</string>
+    <string name="edit_event_title_edit_agenda">Editați evenimentul</string>
+    <string name="edit_event_title_edit_anniversary">Editați aniversarea</string>
+    <string name="edit_event_title_edit_birthday">Editați ziua de naștere</string>
+    <string name="edit_event_title_edit_countdown">Editați numărătoarea inversă</string>
     <string name="edit_event_to_label">Până la</string>
     <string name="email_guests_label">Trimiteţi e-mailuri invitaţilor</string>
     <string name="email_install_hint">Aplicația de E-mail a fost dezinstalată. Reinstalați-o pentru a restaura conturile calendar sau să adăugați un cont nou.</string>

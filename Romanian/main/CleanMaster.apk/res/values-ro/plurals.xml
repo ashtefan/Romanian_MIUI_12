@@ -22,13 +22,33 @@
         <item quantity="other">%1$d elemente per secundă | Timp rămas: %2$s</item>
         <item quantity="one">%1$d element per secundă | Timp rămas: %2$s</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">cu %1$d zile în urmă</item>
-        <item quantity="zero">cu %1$d zile în urmă</item>
-        <item quantity="one">cu %1$d zi în urmă</item>
-        <item quantity="two">cu %1$d zile în urmă</item>
-        <item quantity="few">cu %1$d zile în urmă</item>
-        <item quantity="many">cu %1$d zile în urmă</item>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Faceți %1$d pași pentru a elibera %2$s</item>
+        <item quantity="one">Faceți %1$d pas pentru a elibera %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> pachete de instalare&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> pachet de instalare&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data>Puteți șterge datele pentru &lt;font color=#0097FF>%d&lt;/font> aplicații&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți șterge datele pentru &lt;font color=#0097FF>%d&lt;/font> aplicație&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> fotografii inutile&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> fotografie inutilă&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> fișiere mari&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> fișier mare&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data>Puteți dezinstala &lt;font color=#0097FF>%d&lt;/font> aplicații utilizate rar&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți dezinstala &lt;font color=#0097FF>%d&lt;/font> aplicație rar utilizată&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> videoclipuri&lt;/Data></item>
+        <item quantity="one">&lt;Data>Puteți șterge &lt;font color=#0097FF>%d&lt;/font> videoclip&lt;/Data></item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">Au fost găsite %d aplicații; le puteți șterge pe cele inutile.</item>

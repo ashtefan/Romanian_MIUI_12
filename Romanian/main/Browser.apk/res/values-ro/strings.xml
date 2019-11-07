@@ -977,6 +977,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="slide_guide">Glisați pentru a reveni</string>
     <string name="small_video_ad_app_text_click">Descărcați</string>
     <string name="small_video_ad_app_text_resume">Reluați</string>
+    <string name="small_video_ad_download_text">Descărcați</string>
     <string name="small_video_ad_web_text">Deschideți</string>
     <string name="small_video_boba_tab">Difuzați</string>
     <string name="small_video_comment">Toate comentariile</string>

@@ -247,6 +247,7 @@
     <string name="current_lyric">Versurile curente</string>
     <string name="current_services">Actual</string>
     <string name="current_version">Versiunea curentă</string>
+    <string name="daily_recommendation">Mixuri zilnice</string>
     <string name="dark_mode">Modul întunecat</string>
     <string name="data_usage_warning">Utilizare date</string>
     <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica la o calitate superioară pot crește costurile de utilizare a datelor.</string>
@@ -299,6 +300,10 @@
     <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama PRO?​</string>
     <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU PRO</string>
     <string name="dialog_renew_success">Mulțumim pentru confirmare</string>
+    <string name="dialog_score_btn_good">Evaluați</string>
+    <string name="dialog_score_prompt_bad">"Vă mulțumim pentru feedback! Vom face tot posibilul pentru a îmbunătăți aplicația și serviciile."</string>
+    <string name="dialog_score_prompt_good">Vă mulțumim pentru suport! Evaluați aplicația în Google Play?</string>
+    <string name="dialog_score_title">Evaluați aplicația</string>
     <string name="dialog_song_sort_type">Sortați melodiile</string>
     <string name="dialog_song_sort_type_name">După nume</string>
     <string name="dialog_song_sort_type_playing_times">După numărul redărilor</string>
@@ -322,6 +327,7 @@
     <string name="disable_auto_payment_success_message">"Reînnoirea automată a fost dezactivată. După expirarea abonamentului actual, va trebui să vă abonați din nou pentru a putea descărca melodii."</string>
     <string name="disallow_add_to_fm">"Nu se pot adăuga melodii la Radio FM"</string>
     <string name="do_not_remind_this_version">"Nu-mi aminti de această versiune"</string>
+    <string name="do_not_support_google_voice_search">Căutarea vocală Google nu este suportată pe dispozitivul dvs.</string>
     <string name="download">Descărcaţi</string>
     <string name="download_added_to_list">Adăugată în lista de descărcare</string>
     <string name="download_all_song">Descărcaţi tot</string>
@@ -576,12 +582,14 @@
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Doar membrii PRO pot descărca mai multe melodii. Vreți să deveniți membru PRO acum?</string>
-    <string name="hungama_category_chart">Topuri muzicale</string>
+    <string name="hungama_batch_download_alert_summary_toast">Obțineți un abonament să descărcați toată lista de redare.</string>
+    <string name="hungama_category_chart">Topuri</string>
     <string name="hungama_category_playlist">Liste de redare</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videoclipuri</string>
     <string name="hungama_category_vip">Vip</string>
     <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru PRO pentru a descărca nelimitat melodii?"</string>
+    <string name="hungama_free_download_out_summary_toast">Ați descărcat deja %d melodii. Obțineți un abonament să descărcați mai multe.</string>
     <string name="hungama_playlist_category">Categorie listă de redare</string>
     <string name="hungama_privacy_desc">Politica de Confidențialitate Hungama (opțional)</string>
     <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
@@ -716,6 +724,7 @@
     <string name="more_settings">Setări avansate</string>
     <string name="more_settings_summary">Temporizator, filtrare fișiere și multe altele</string>
     <string name="more_share">Partajați</string>
+    <string name="more_splendid_contents">Mai multe</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminaţi %1$s</string>
     <string name="mulit_choice_management">Gestionați mai multe elemente</string>
     <string name="multichoice">Selectaţi</string>
@@ -1083,6 +1092,7 @@ Be Happy"</string>
     <string name="tab_album_list">Albume</string>
     <string name="tab_artist">Artişti</string>
     <string name="tab_artist_list">Artişti</string>
+    <string name="tab_chart">Topuri</string>
     <string name="tab_folder">Dosare</string>
     <string name="tab_playlist">Liste de redare</string>
     <string name="tab_top_results">Top rezultate</string>
@@ -1215,4 +1225,5 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
     <string name="you_can_switch_mode_in_settings">Puteți comuta între moduri în Setări</string>
+    <string name="you_may_like">V-ar mai putea place</string>
 </resources>
