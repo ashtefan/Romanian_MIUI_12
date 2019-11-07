@@ -211,7 +211,7 @@
     <string name="edit_event_tab_event">Eveniment</string>
     <string name="edit_event_title_create_agenda">Adăugați un eveniment</string>
     <string name="edit_event_title_create_anniversary">Adăugați o aniversare</string>
-    <string name="edit_event_title_create_birthday">Adăugați o zi de nașterey</string>
+    <string name="edit_event_title_create_birthday">Adăugați o zi de naștere</string>
     <string name="edit_event_title_create_countdown">Adăugați o numărătoare inversă</string>
     <string name="edit_event_title_edit_agenda">Editați evenimentul</string>
     <string name="edit_event_title_edit_anniversary">Editați aniversarea</string>

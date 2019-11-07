@@ -68,4 +68,12 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minute înseamnă un pas important către atenție și concentrare.</item>
+        <item quantity="one">%d minut înseamnă un pas important către atenție și concentrare.</item>
+    </plurals>
 </resources>
