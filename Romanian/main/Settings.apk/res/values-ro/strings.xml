@@ -435,7 +435,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_notification_style_animation">Afișează animații</string>
     <string name="aod_notification_style_none">Nimic</string>
     <string name="aod_notification_style_screen_on">Aprinde ecranul</string>
-    <string name="aod_show_mode_title">Afișează elementele</string>
     <string name="aod_sample_date">Marți, 10 Mai</string>
     <string name="aod_sample_hour">2</string>
     <string name="aod_sample_hour_vertical">02</string>
@@ -3374,7 +3373,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
     <string name="lock_settings">Blocare ecran și parolă</string>
     <string name="lock_settings_common_title">Setări blocare</string>
-    <string name="lock_settings_picker_fingerprint_message">Setați metoda secundară de blocare a ecranului</string>
+    <string name="lock_settings_picker_biometrics_added_security_message">Pentru securitate sporită, setați o metodă secundară de blocare a ecranului</string>
     <string name="lock_settings_picker_face_message">Alegeți metoda de rezervă de blocare a ecranului</string>
     <string name="lock_settings_picker_fingerprint_message">Alegeți metoda de rezervă de blocare a ecranului</string>
     <string name="lock_settings_picker_settings">Setaţi blocarea ecranului</string>
