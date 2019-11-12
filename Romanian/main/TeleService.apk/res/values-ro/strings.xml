@@ -2048,7 +2048,7 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="voicemail_provider">Servicii</string>
     <string name="voicemail_provider_summary">Alegeţi serviciul de mesagerie vocală</string>
     <string name="voicemail_set_pin_dialog_title">Setați codul PIN</string>
-    <string name="voicemail_settings">Setări mesagerie vocală</string>
+    <string name="voicemail_settings">Setare mesagerie vocală</string>
     <string name="voicemail_settings_number_hint">Introduceți numărul mesageriei vocale</string>
     <string name="voicemail_settings_number_label">Număr mesagerie vocală</string>
     <string name="voicemail_settings_number_title">Număr mesagerie vocală</string>

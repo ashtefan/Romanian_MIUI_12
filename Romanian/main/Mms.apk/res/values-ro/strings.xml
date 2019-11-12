@@ -134,6 +134,7 @@
     <string name="confirm_restore_title">Restabiliți mesajele</string>
     <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca MMS, ceea ce poate duce la costuri suplimentare.</string>
     <string name="confirm_upload_sms">Încărcați mesaje pentru îmbunătățirea funcționalității listei de blocări</string>
+    <string name="contact_card_unknown_contact">Contact necunoscut</string>
     <string name="contact_not_exists">"Această persoană nu este în lista dvs de contacte."</string>
     <string name="context_menu_add_calendar">Adăugaţi în Calendar</string>
     <string name="context_menu_add_contact">Adăugaţi la Contacte</string>

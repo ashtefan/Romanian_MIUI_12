@@ -40,7 +40,9 @@
     <string name="intelligent_recognition_item_title">Identificare servicii</string>
     <string name="mms">Mesagerie</string>
     <string name="more_ringtone">Toate sunetele de apel</string>
+    <string name="network_error">A apărut o eroare de rețea; încercați din nou</string>
     <string name="notification_sound">Sunete de notificare</string>
+    <string name="retry">Reîncercați</string>
     <string name="ringtone_slot_setting_title">Sunete de apel dual SIM</string>
     <string name="ringtone_sound">Sunete de apel</string>
     <string name="ringtone_title">Sunete de apel</string>
@@ -52,6 +54,10 @@
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Mesaj trimis</string>
     <string name="sms_received_sound_title">Mesaj primit</string>
+    <string name="stop_app_timer">Dezactivați Timpul de ecran</string>
+    <string name="stop_app_timer_fail">Timpul de ecran nu a putut fi dezactivat</string>
+    <string name="stop_app_timer_success">Timpul de ecran a fost dezactivat</string>
+    <string name="stop_app_timer_tip">Datele și permisiunile legate de Timpul de ecran vor fi șterse după dezactivare, inclusiv setările, datele locale și din cloud, etc.</string>
     <string name="thememanager_not_found">"Nu s-a putut deschide aplicația Teme. Asigurați-vă că această aplicație este instalată în telefon."</string>
     <string name="usage_app_get_it">Am înțeles</string>
     <string name="usage_app_limit_alter_summary">"Se pare că această limită este mai mică decât timpul în care ați utilizat astăzi această aplicație. Setați limita oricum?"</string>
@@ -204,4 +210,5 @@
     <string name="usagestats_device_timeout_negative">Amintește-mi într-o oră</string>
     <string name="usagestats_device_timeout_positive">Am înțeles</string>
     <string name="usagestats_device_timeout_title">Alertă timp de ecran</string>
+    <string name="wait_tip">Vă rugăm așteptați…</string>
 </resources>

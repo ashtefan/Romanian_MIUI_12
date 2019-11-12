@@ -221,6 +221,11 @@
         <item>Cel mult 3 procese</item>
         <item>Cel mult 4 procese</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Oprit</item>
+        <item>Depanare</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Mai vechi de 30 de zile</item>
         <item>Mai vechi de 60 de zile</item>
@@ -233,9 +238,9 @@
         <item>Bare sus</item>
     </string-array>
     <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Nespecificat</item>
@@ -414,10 +419,10 @@
         <item>Foarte mare</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
-        <item>25 %</item>
-        <item>50 %</item>
-        <item>75 %</item>
-        <item>100 %</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Utilizat implict de către aplicație</item>
@@ -437,6 +442,10 @@
         <item>Temporar</item>
         <item>Cursiv</item>
         <item>Litere mici</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Doar acasă</item>
@@ -1588,12 +1597,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animație oprită</item>
-        <item>Animație la scara  0,5x</item>
-        <item>Animație la scara  1x</item>
-        <item>Animație la scara  1,5x</item>
-        <item>Animație la scara  2x</item>
-        <item>Animație la scara  5x</item>
-        <item>Animație la scara  10x</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
         <item>Se ajustează culorile în funcție de iluminarea curentă</item>
@@ -1709,11 +1718,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Procent (în interiorul pictogramei)</item>
         <item>Procent (lângă pictograma din Perdeaua de notificări)</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>De preferat Wi-Fi</item>
-        <item>De preferat celular</item>
-        <item>Doar Wi-Fi</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Date mobile</item>
@@ -1722,10 +1726,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Date mobile</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>De preferat Wi-Fi</item>
-        <item>De preferat celular</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectare automată</item>

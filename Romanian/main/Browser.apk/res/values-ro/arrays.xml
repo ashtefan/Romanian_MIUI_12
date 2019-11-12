@@ -49,6 +49,10 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Semne de carte</item>
+        <item>Istoric</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Ștergeți</item>
         <item>Nu, mulțumesc</item>

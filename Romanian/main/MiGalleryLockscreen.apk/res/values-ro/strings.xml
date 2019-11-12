@@ -58,6 +58,10 @@
     <string name="add">Adăugați</string>
     <string name="add_cw_fail_tip">"Nu s-a putut adăuga imaginea de fundal"</string>
     <string name="add_cw_success_tip">Imagine de fundal adăugată cu succes</string>
+    <string name="add_first_cw_toast1">Adăugată cu succes. S-a activat Caruselul de imagini de fundal și s-a pornit colajul.</string>
+    <string name="add_first_cw_toast2">S-au adăugat cu succes unele elemente. S-a activat Caruselul de imagini de fundal și s-a pornit colajul.</string>
+    <string name="add_first_cw_toast3">S-au adăugat imaginile de fundal cu succes. S-a activat Caruselul de imagini de fundal și s-a pornit colajul.</string>
+    <string name="add_first_cw_toast4">S-a activat Caruselul de imagini de fundal și s-a pornit colajul</string>
     <string name="add_launch_hint_text">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="add_local_picture">Galerie</string>
     <string name="add_online_picture">Imagini online</string>
@@ -187,11 +191,19 @@
     <string name="detail_toast_deny_favor">"Nu s-a putut adăuga la Favorite."</string>
     <string name="detail_toast_dislike_fail">"Nu s-a putut șterge"</string>
     <string name="detail_toast_favor_permission">Permiteți Caruselului de imagini să acceseze spațiul de stocare din aplicația de Securitate.</string>
+    <string name="disable_dlg_cancel">Renunțați</string>
+    <string name="disable_dlg_content">Nu veți mai primi imagini noi în Ecranul principal și Blocarea ecranului dacă dezactivați Caruselul de imagini de fundal. Dezactivați oricum?</string>
+    <string name="disable_dlg_ok">Dezactivați</string>
+    <string name="disable_dlg_title">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="dislike">Ștergeți</string>
     <string name="dlg_cancel">Renunțați</string>
     <string name="dot_and_space">• </string>
     <string name="double_click_to_exit_activity">Atingeți din nou pentru a ieși</string>
     <string name="edit_wallpaper">Gestionați imaginile de fundal</string>
+    <string name="enable_toast_ar">S-a comutat la recomandări</string>
+    <string name="enable_toast_cw">S-a comutat la slideshow</string>
+    <string name="enable_toast_cwo">S-a activat Caruselul de imagini de fundal și s-a pornit colajul</string>
+    <string name="enable_toast_subscribe">S-a activat Caruselul de imagini de fundal și s-au activat abonamentele.</string>
     <string name="explorer_activity_title">Caruselul de imagini de fundal</string>
     <string name="facebook_application_id"/>
     <string name="favor_list_no_data">Niciun element aici.</string>
@@ -271,6 +283,12 @@
     <string name="main_fragment_title_user">Setări</string>
     <string name="manage">Gestionați</string>
     <string name="minutes_15">La fiecare 15 minute</string>
+    <string name="mode_auto_desc">Activați Caruselul de imagini de fundal pentru a primi imagini noi în mod automat</string>
+    <string name="mode_auto_desc_open">Primiți imagini noi în mod automat</string>
+    <string name="mode_auto_desc_selected">Se primesc imagini noi în mod automat</string>
+    <string name="mode_cw_desc">Activați Caruselul de imagini de fundal pentru a vă personaliza colajul</string>
+    <string name="mode_cw_desc_open">Adăugați imagini în colaj</string>
+    <string name="mode_cw_desc_selected">Se utilizează imaginile dvs în colaj</string>
     <string name="mode_des">Caruselul de imagini de fundal vă prezintă acum recomandările. Comutați la slideshow pentru a putea vedea elementele personalizate.</string>
     <string name="mode_ok">Comutați la slideshow</string>
     <string name="mode_select">Selectați modul</string>
@@ -353,6 +371,7 @@
     <string name="prv_nodata">Nu există date</string>
     <string name="psw_hint">Parola</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
+    <string name="pull_to_refresh_loading_label">Doar o secundă…</string>
     <string name="pull_to_refresh_pull_down_label">Glisați în jos pentru a reîmprospăta</string>
     <string name="pull_to_refresh_pull_up_label">Glisați în sus pentru a reîmprospăta</string>
     <string name="pull_to_refresh_refreshing_label">Reîmprospătare…</string>
@@ -383,6 +402,7 @@
     <string name="search_str">Populare acum</string>
     <string name="see_all">Vedeți tot</string>
     <string name="see_more">Vedeți mai mult</string>
+    <string name="see_more_content">Vedeți mai multe</string>
     <string name="select_package">Selectați versiunea</string>
     <string name="select_picture">Selectați imaginile</string>
     <string name="select_picture_des">Adăugați fotografiile dvs. și imagini online pentru a le combina și afișa în derulare în mod automat.</string>
@@ -409,6 +429,7 @@
     <string name="shortcut_created">Scurtătură creată cu succes</string>
     <string name="shortcut_exist">Scurtătura există deja</string>
     <string name="shortcut_failed">Nu s-a putut crea scurtătura</string>
+    <string name="show_wallpaper_loop_entry_title">Colaj Ecran principal</string>
     <string name="sign_in_title">Conectați-vă utilizând contul Mi</string>
     <string name="sliding_on_unlock">Glisați în sus pentru deblocare</string>
     <string name="sns_sign_in">Altă metodă de conectare</string>
@@ -442,6 +463,8 @@
     <string name="sst_morning_greeting_desc2">Primiți salutări între %1$s și %2$s zilnic</string>
     <string name="sst_morning_greeting_disable_toast">Această caracteristică va fi disponibilă în curând</string>
     <string name="sst_morning_greeting_title">Primiți salutări dimineața</string>
+    <string name="sst_morning_history_desc">Vedeți salutările matinale anterioare</string>
+    <string name="sst_morning_history_title">Istoric salutări matinale</string>
     <string name="sst_new_feature">Caracteristici noi</string>
     <string name="sst_no_favor_wallpaper_hint">Nicio imagine favorită</string>
     <string name="sst_privacy_policy_title">Politica de confidențialitate</string>
@@ -462,16 +485,20 @@
     <string name="sst_subscribe_title">Abonamente</string>
     <string name="sst_subscrible_manager_title_bar_text">Gestionați abonamentele</string>
     <string name="sst_subscripted">Activat</string>
+    <string name="sst_subscripted2">Categorii disponibile</string>
     <string name="sst_switch_wallpaper_order_desc">Selectați ordinea în care imaginile de fundal sunt actualizate</string>
     <string name="sst_switch_wallpaper_order_fixed">Secvența</string>
     <string name="sst_switch_wallpaper_order_random">Aleatoriu</string>
     <string name="sst_switch_wallpaper_order_title">Ordinea de actualizare</string>
     <string name="sst_wallpaper_define_desc">Gestionați</string>
     <string name="sst_wallpaper_define_title">Slideshow-ul meu</string>
+    <string name="sst_wallpaper_define_title2">Adăugați imagini</string>
     <string name="sst_wallpaper_history_des">Vedeți recomandările recente</string>
     <string name="sst_wallpaper_history_title">Istoric</string>
     <string name="sst_wifi_only_desc">Dezactivați pentru a actualiza imaginile de fundal doar prin Wi-Fi</string>
     <string name="sst_wifi_only_title">Activați descărcarea prin date mobile</string>
+    <string name="status_wallpaper_loop_not_start">Oprit</string>
+    <string name="status_wallpaper_loop_start">Pornit</string>
     <string name="subscribe_apply_wp">Imagine de fundal pentru Blocarea ecranului aplicată cu succes</string>
     <string name="subscribe_dlg_btn">Start</string>
     <string name="subscribe_dlg_content">Abonați-vă pentru a primi imagini de fundal noi livrate zilnic în Blocarea ecranului și salutări zilnice.</string>
@@ -512,6 +539,8 @@
     <string name="time_current">Chiar acum</string>
     <string name="toast_ad_down_tip">Se descarcă aplicația…</string>
     <string name="toast_ad_down_tip2">Se descarcă %s</string>
+    <string name="toast_connect_failed_tip">Nu s-a putut conecta. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="toast_load_failed_tip">Nu s-au putut încărca elementele</string>
     <string name="toast_load_hd_fail">"Nu s-a putut încărca imaginea originală"</string>
     <string name="toast_neterror_tip">A apărut o eroare de rețea</string>
     <string name="toast_update_no_more_newest_feeds">Niciun element nou deocamdată</string>
@@ -538,4 +567,6 @@
     <string name="wlan_download_cn">Actualizați doar atunci când sunteți conectat la Wi-Fi</string>
     <string name="wm_storage_left">Disponibil: </string>
     <string name="wm_storage_used">Ocupat: </string>
+    <string name="wp_desktop_enable_title">Colaj Ecran principal</string>
+    <string name="wp_lockscreen_enable_title">Colaj Blocare ecran</string>
 </resources>

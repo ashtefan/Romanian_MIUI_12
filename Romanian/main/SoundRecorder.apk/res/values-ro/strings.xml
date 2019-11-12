@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">Toate</string>
     <string name="call_record_list_group_connected">Conectate</string>
     <string name="call_record_list_group_unconnected">Neconectate</string>
+    <string name="cancel_rename">Renunțați</string>
     <string name="clear_records">Ștergeți înregistrările sincronizate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
     <string name="cloud_record_tip">Sincronizare înregistrări cu Xiaomi Cloud.</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">Pentru înregistrarea de sunete</string>
     <string name="korea_permission_storage">Stocare</string>
     <string name="korea_permission_storage_desc">Pentru salvarea înregistrărilor</string>
+    <string name="loading_more">Doar o secundă…</string>
     <string name="loading_order_list">Doar o secundă…</string>
     <string name="loading_order_list_empty">Nicio comandă aici.</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>

@@ -316,9 +316,9 @@
         <item quantity="other">Afișează %d elemente ascunse</item>
         <item quantity="one">Afișează %d element ascuns</item>
     </plurals>
-    <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d pași până la obținerea jurnalului audio</item>
-        <item quantity="one">%1$d pas până la obținerea jurnalului audio</item>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d dispozitive conectate</item>
+        <item quantity="one">%1$d dispozitiv conectat</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a porni CIT."</item>

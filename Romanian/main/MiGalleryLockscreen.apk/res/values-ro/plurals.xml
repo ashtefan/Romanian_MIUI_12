@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d articole</item>
+        <item quantity="one">%d articol</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">Vedeți %s articole recomandate pentru dvs.</item>
         <item quantity="one">Vedeți %s articol recomandat pentru dvs.</item>
