@@ -315,6 +315,8 @@
     <string name="available_via_carrier">Disponibil via %1$s</string>
     <string name="available_via_passpoint">Disponibil via %1$s</string>
     <string name="back">Înapoi</string>
+    <string name="band_24G">(2,4G)</string>
+    <string name="band_5G">(5G)</string>
     <string name="battery">Acumulator</string>
     <string name="battery_can_use_time">Aproximativ %s rămas</string>
     <string name="battery_detail_charging_summary">"Economisirea acumulatorului nu este disponibilă pe durata încărcării"</string>

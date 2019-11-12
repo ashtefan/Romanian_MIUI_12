@@ -959,7 +959,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="secureaccess_cancel">Ignorați</string>
     <string name="security_permission_desc_get_accounts">Pentru conectarea și gestionarea contului sistemului</string>
     <string name="security_permission_desc_read_phone">Pentru a obține IMEI-ul dispozitivului în vederea identificării dispozitivului</string>
-    <string name="security_permission_desc_storage">Pentru aaccesarea, salvarea, încărcarea și descărcarea imaginilor și a altor fișere</string>
+    <string name="security_permission_desc_storage">Pentru accesarea, salvarea, încărcarea și descărcarea imaginilor și a altor fișere</string>
     <string name="security_permission_main_purpose">Navigați pe internet, căutați informații, citiți știri, vedeți videoclipuri, etc.</string>
     <string name="security_permission_message_location">Această aplicație trebuie să vă poată accesa locația pentru a vă furniza servicii bazate pe localizare. Dacă nu acceptați asemenea permisiuni, nu veți putea unele funcții ale aplicației; oricum, funcțiile de bază vor fi disponibile. Puteți oricând restricționa permisiunile sau revoca autorizarea din Setări.</string>
     <string name="security_permission_negative_btn_location">Renunțați</string>

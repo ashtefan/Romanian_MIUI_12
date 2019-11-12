@@ -90,6 +90,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_audio_right_caldata">"Date calibrare PA dreapta:
 "</string>
     <string name="cit_audio_right_calfail">Calibrarea PA dreapta a eșuat!</string>
+    <string name="cit_back_light_sensor_check_title">Senzor de lumină posterior</string>
     <string name="cit_battery_check_summary">Statistici acumulator telefon</string>
     <string name="cit_battery_check_title">Informații despre acumulator</string>
     <string name="cit_battery_temp_fail">Temperatura acumulatorului este anormală (valoarea=%d)</string>
@@ -518,6 +519,11 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_vibrator_play_touch_pattern">Vibration</string>
   <string name="cit_vibrator_short">Short vibration</string>
   <string name="cit_vibrator_show_advanced">Show advanced options</string>
+    <string name="cit_voc_data_check_title">Senzor date VOC</string>
+    <string name="cit_voc_data_humidity">Umiditate</string>
+    <string name="cit_voc_data_pressure">Presiune</string>
+    <string name="cit_voc_data_sensor_check_summary">Valorile pentru VOC, temperatură, umiditate, presiune ar trebui să apară dedesubt</string>
+    <string name="cit_voc_data_temperature">Temperatură</string>
   <string name="cit_wifi_address_check_summary">Below is the address of the WLAN network that the phone is currently connected to. Confirm that the info highlighted in green is correct.</string>
   <string name="cit_wifi_address_check_title">WLAN Address</string>
   <string name="cit_wifi_address_error">"Couldn't get WLAN address. Make sure that WLAN is enabled."</string>

@@ -62,6 +62,8 @@
     <string name="fast_connect_device_title_connecting">Se conectează…</string>
     <string name="fast_connect_device_title_find_headset">Găsiți %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
+    <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
+    <string name="fast_connect_nzbt_reset">Mențineți apăsat butonul superior pentru %1$s secunde în timp ce îl închideți</string>
     <string name="goto_package">Deschideți %1$s</string>
     <string name="install_package">Instalați %1$s pentru mai multe facilități</string>
     <string name="mi_band_vibrate_alarm">Vibrrează când sună alarma</string>

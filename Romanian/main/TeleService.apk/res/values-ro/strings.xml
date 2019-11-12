@@ -1651,6 +1651,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="remove">Eliminaţi</string>
     <string name="remove_sip_account">Eliminaţi contul</string>
     <string name="removing_account">Se elimină contul…</string>
+    <string name="replace_4g_template">4G</string>
     <string name="requesting_unlock">Se solicită deblocarea rețelei…</string>
     <string name="respond_via_sms_canned_response_1">Nu pot vorbi acum. Este ceva urgent?</string>
     <string name="respond_via_sms_canned_response_2">Vă sun imediat înapoi.</string>

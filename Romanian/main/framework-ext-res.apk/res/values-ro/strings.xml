@@ -49,6 +49,7 @@
     <string name="copy">Copiere</string>
     <string name="customer_location_judgment">China</string>
     <string name="cut">Decupare</string>
+    <string name="data_usage_context">Dacă Wi-Fi-ul nu este activat, dispozitivul dvs. se va conecta la o rețea mobilă, ceea ce poate atrage costuri suplimentare, în funcție de abonamentul pe care îl aveți. Mulțumim!</string>
     <string name="default_device_name">Dispozitiv necunoscut</string>
     <string name="default_name">Implicit</string>
     <string name="description_title">Silențios</string>

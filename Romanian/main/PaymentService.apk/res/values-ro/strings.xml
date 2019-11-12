@@ -357,7 +357,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="passport_account_hint_text">Adresa de e-mail, numărul de telefon sau ID-ul contului Mi</string>
     <string name="passport_account_identity_title">Verificați-vă identitatea</string>
     <string name="passport_account_label">Contul Mi</string>
-    <string name="passport_account_name">Cont: %1$s</string>
+    <string name="passport_account_name">"Cont: %1$s "</string>
     <string name="passport_account_not_activated">"Contul nu a fost activat"</string>
     <string name="passport_account_not_actived">"Contul dvs. nu a fost activat"</string>
     <string name="passport_account_set_password">Setați parola</string>
