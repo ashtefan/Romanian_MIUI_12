@@ -299,8 +299,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
     <string name="cit_tele_camera_check_title">Camera Tele</string>
-  <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
-  <string name="cit_tfcard_support_title">Support TFCard</string>
+    <string name="cit_tfcard_support_summary">Verificați dacă cardul TF este suportat pe acest dispozitiv</string>
+    <string name="cit_tfcard_support_title">Suport TFCard</string>
     <string name="cit_thermal_history_summary">Vă rugăm așteptați...Se citesc datele termice ale dispozitivului.</string>
     <string name="cit_thermal_history_title">Istoricul de temperatură</string>
   <string name="cit_tool">Additional tools</string>

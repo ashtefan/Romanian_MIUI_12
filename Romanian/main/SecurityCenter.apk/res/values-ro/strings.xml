@@ -13,7 +13,7 @@
     <string name="ac_enter_applock">Accesați Blocare Aplicații</string>
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
-    <string name="ac_mask_all_apps">Ascundeți pentru toate aplicațiile</string>
+    <string name="ac_mask_all_apps">Ascundeți pentru toate</string>
     <string name="ac_notification_contentText">Atingeți pentru a activa</string>
     <string name="ac_notification_contentTitle">Protejați aplicațiile cu Blocarea aplicațiilor</string>
     <string name="ac_post_notification_contentText">Obțineți protecție la nivel de sistem</string>
@@ -22,7 +22,7 @@
     <string name="ac_pre_notification_contentTitle">Încercați Blocarea Aplicațiilor</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Introduceți parola pentru a accesa aplicațiile protejate</string>
-    <string name="ac_unmask_all_apps">Afișați pentru toate aplicațiile</string>
+    <string name="ac_unmask_all_apps">Afișați pentru toate</string>
     <string name="access_control_app_is_launching">Aplicația pornește</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Introduceți parola înainte de a debloca cu o nouă amprentă</string>
     <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
@@ -1589,8 +1589,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_mask_summary">Nu afișa conținutul notificărilor pentru aplicațiile protejate</string>
     <string name="notification_mask_title">Ascundeți conținutul notificărilor</string>
-    <string name="notification_masked_item">Ascunde notificările</string>
-    <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
+    <string name="notification_masked_item">Cum să ascundeți conținutul notificărilor?</string>
+    <string name="notification_masked_subtitle">Utilizați Blocarea aplicațiilor pentru a ascunde conținutul notificărilor pentru aplicațiile selectate</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notify_channel_mipush">Mesaje push de securitate</string>
     <string name="notify_channel_name_security">Securitate sistem</string>
@@ -1826,6 +1826,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_power_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
     <string name="power_center_power_save_title_text">Economisire acumulator</string>
     <string name="power_center_repeat">Repetare</string>
+    <string name="power_center_scan_item_title_5g">Conectivitate 5G</string>
     <string name="power_center_scan_item_title_GPS">Ajustați acuratețea GPS-ului</string>
     <string name="power_center_scan_item_title_abnormal">Probleme legate de acumulator</string>
     <string name="power_center_scan_item_title_abnormal_apps">Aplicații care descarcă acumulatorul</string>
@@ -1856,6 +1857,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">"Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici și scade performanța dispozitivului dvs. pentru a menține funcțiile de bază (de ex. apeluri, SMS-uri ți conectarea la rețea) disponibile pentru un timp cât mai lung. Activați ultra economisirea acumulatorului?"</string>
+    <string name="power_dialog_super_save_msg_5g">Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici (de ex. conectivitatea 5G) care scad performanța dispozitivului dvs. Doar apelurile, mesajele și conexiunea la rețea nu vor fi afectate. Activați ultra economisirea acumulatorului?"</string>
     <string name="power_dialog_super_save_title">Ultra economisire a acumulatorului</string>
     <string name="power_idle">Telefon inactiv</string>
     <string name="power_main_battery_last_day_hour">%1$sz și %2$s h rămase</string>
@@ -1867,6 +1869,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_btn_text_fixed">Optimizat</string>
     <string name="power_optimize_catagory_fixed_title">Optimizat</string>
     <string name="power_optimize_close_app">Închideți aplicațiile care consumă energie excesiv</string>
+    <string name="power_optimize_disable_5g">Restricționați conectivitatea 5G</string>
     <string name="power_optimize_disable_app_autostart">Împiedicați pornirea automată a aplicațiilor</string>
     <string name="power_optimize_disable_gps">Dezactivați GPS-ul</string>
     <string name="power_optimize_disable_start_other_app">Preveniți pornirea aplicațiilor de către alte aplicații</string>
@@ -1889,6 +1892,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
     <string name="power_save_ps_close_setting">Se dezactivează serviciile de fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_close_setting_5g">Restricționează caracteristicile energofage (sincronizarea, conectivitatea 5G, GPS-ul)</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
     <string name="power_save_settings">Setări pentru acumulator</string>
@@ -2028,6 +2032,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     
 Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obține șablonul de calibrare."</string>
     <string name="privacy_prompt_upload">Încărcare</string>
+    <string name="privacyapp_number_masked_text">Conținutul notificărilor este ascuns</string>
+    <string name="privacyapp_number_unmasked_text">Conținutul notificărilor poate fi ascuns</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_vpnsdkmanager_label">Jocuri Turbo</string>
     <string name="promotion">Reclamă</string>
@@ -2361,7 +2367,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="still_retain_btn">Păstrați</string>
     <string name="stop_milink_connect">S-a oprit proiectarea</string>
     <string name="suggest_app_tolock">Sugestii</string>
-    <string name="suggest_app_tolock_masked">Ascunse</string>
+    <string name="suggest_app_tolock_masked">Conținut ascuns</string>
     <string name="suggest_app_tolock_unmasked">Notificări vizibile</string>
     <string name="suggest_scan_again">Finalizați scanarea pentru e evita riscurile legate de securitate.</string>
     <string name="summary_app_lock_disable">Protejați-vă datele cu Blocarea aplicațiilor</string>

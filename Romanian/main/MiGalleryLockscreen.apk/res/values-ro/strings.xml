@@ -518,6 +518,7 @@
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href='%2$s'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
+    <string name="system_default">Implicit</string>
     <string name="tab_user_title_bar_text">Setări</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica; încercați din nou mai târziu"</string>
     <string name="theme_apply_lockscreen_apply">Se activează Caruselul de imagini de fundal…</string>
