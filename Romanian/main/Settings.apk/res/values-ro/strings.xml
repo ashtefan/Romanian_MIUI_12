@@ -7480,8 +7480,8 @@ Acest lucru poate cauza un risc de securitate deoarece telefonul dvs va transmit
 
 Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_hide_password">Ascunde parola</string>
-    <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
-    <string name="wifi_hotspot_checkbox_text_summary">Utilizați conexiunea de date mobile pentru a furniza rețea Wi-Fi</string>
+    <string name="wifi_hotspot_ap_band_title">Bandă AP</string>
+    <string name="wifi_hotspot_auto_off_summary">Hotspot-ul Wi-Fi se va dezactiva dacă nu sunt dispozitive conectate</string>
     <string name="wifi_hotspot_auto_off_title">Dezactivează hotspot-ul în mod automat</string>
     <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text">Configurare hotspot Wi-Fi</string>
@@ -7978,7 +7978,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="zen_mode_calls_footer">Pentru a vă asigura că sunetele pentru apeluri sunt active, verificați dacă dispozitivul dvs este setat să sune, să vibreze sau este pus pe silențios.</string>
     <string name="zen_mode_calls_summary_one">Permiteți de la %1$s</string>
     <string name="zen_mode_calls_summary_two">Permiteți de la %1$s și %2$s</string>
-    <string name="zen_mode_calls">Apeluri</string>
+    <string name="zen_mode_calls_title">Apeluri</string>
     <string name="zen_mode_choose_rule_type">Alegeți tipul de regulă</string>
     <string name="zen_mode_contacts_callers">contacte</string>
     <string name="zen_mode_custom_behavior_category_title">Pentru ‘%1$s’</string>
@@ -8102,7 +8102,7 @@ Când dezactivați modul Nu deranjați, găsiți notificările pierdute glisând
     <string name="zen_mode_summary_alarms_only_indefinite">Schimbă în doar pentru alarme pe o perioadă nedefinită</string>
     <string name="zen_mode_summary_always">Schimbă în întrerupe întotdeauna</string>
     <string name="zen_mode_system">Permite sunetele la atingere</string>
-    <string name="zen_mode_system">Sunete la atingere</string>
+    <string name="zen_mode_system_list">sunete la atingere</string>
     <string name="zen_mode_unknown_app_set_behavior">Aceste setări nu pot fi modificate momentan. O aplicație a activat automat modul Nu deranjați cu comportament personalizat.</string>
     <string name="zen_mode_use_automatic_rule">Utilizați regula</string>
     <string name="zen_mode_visual_interruptions_settings_title">Blochează perturbările vizuale</string>
