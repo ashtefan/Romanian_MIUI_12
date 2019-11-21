@@ -567,6 +567,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="applications_settings_summary">Gestionaţi aplicaţii, creaţi scurtături pentru lansare rapidă</string>
     <string name="applications_settings_title">Aplicații</string>
     <string name="apply">Aplicați</string>
+    <string name="apply_fingerprint_to">Utilizați amprentele pentru</string>
     <string name="apply_fingerprint_to_category_title">Aplicați amprenta pentru…</string>
     <string name="apply_now_button_text">Actualizaţi</string>
     <string name="apply_password_to_category_title">Necesită deblocare</string>
@@ -2286,8 +2287,8 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dual_wifi_on">Pornit</string>
     <string name="dual_wifi_primary_wifi_connected">Rețeaua Wi-Fi principală</string>
     <string name="dual_wifi_slave_wifi_connected">Rețeaua Wi-Fi secundară</string>
-    <string name="dual_wifi_summary">Creșteți viteza rețelei Wi-Fi conctându-vă la rețelele secundare.</string>
-    <string name="dual_wifi_switching_not_remind">NU afișa din nou</string>
+    <string name="dual_wifi_summary">Creșteți viteza rețelei Wi-Fi conectându-vă la rețelele secundare.</string>
+    <string name="dual_wifi_switching_not_remind">Nu afișa din nou</string>
     <string name="dual_wifi_switching_prompt">Se comută între rețele</string>
     <string name="dual_wifi_switching_summary">Creșterea vitezei rețelei Wi-Fi cu bandă duală trebuie să utilizeze 2 benzi de frecvență diferite. Dacă vă conectați la o altă rețea principală, conexiunea la rețeaua secundară va fi pierdută.</string>
     <string name="dump_log">Obțineți jurnale legate de această problemă</string>
@@ -2401,6 +2402,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">Apelare 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Apelare Avansată</string>
+    <string name="enrol_fingerprint_data">Adăugați amprenta</string>
     <string name="enter_password">Introduceţi parola pentru a porni sistemul de operare Android</string>
     <string name="enter_pattern">Pentru a porni sistemul Android, desenați modelul de deblocare</string>
     <string name="enter_pin">Pentru a porni sistemul Android, introduceți codul PIN</string>
@@ -3641,6 +3643,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="max_cpu6_info">"Hexa-core Max "</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">"Nu se pot adăuga mai mult de 5 amprente. Pentru a putea adăuga o nouă amprentă va trebui să eliminați una sau mai multe amprente existente."</string>
+    <string name="max_fingerprint_reached_toast">Puteți adăuga maxim 5 amprente</string>
     <string name="maximum_memory_use">Utilizare maximă a memoriei</string>
     <string name="media_button">Butonul media</string>
     <string name="media_category">Muzică și videoclipuri</string>
@@ -6314,7 +6317,9 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="summary_range_verbal_combination">%1$s la %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
-    <string name="super_resolution_access_title">Aplicații accesibile</string>
+    <string name="sunlight_mode">Mod Răsărit</string>
+    <string name="sunlight_mode_summary">Ajustează iluminarea la lumina ambientală puternică când iluminarea automată este oprită</string>
+   <string name="super_resolution_access_title">Aplicații accesibile</string>
     <string name="super_resolution_desc">Face imaginile mai clare utilizând un algoritm AI</string>
     <string name="super_resolution_maintain">"Super rezoluția nu este disponibilă încă."</string>
     <string name="super_resolution_no_app_tips">Descărcați mai întâi WeChat și Toutiao.</string>
@@ -7513,10 +7518,10 @@ Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_ip_settings_menu_save">Salvaţi</string>
     <string name="wifi_limit_optimizations_summary">Limitați utilizarea acumulatorului de către Wi-Fi</string>
     <string name="wifi_limited_connection">Conexiune limitată</string>
-    <string name="wifi_link_turbo">Utilizați datele mobile pentru a amplifica viteza</string>
+    <string name="wifi_link_turbo">Utilizați datele mobile pentru a crește viteza</string>
     <string name="wifi_link_turbo_app_settings_summary">Selectați aplicațiile care vor utiliza această funcție</string>
     <string name="wifi_link_turbo_app_settings_title">Selectați aplicațiile</string>
-    <string name="wifi_link_turbo_no_app">Nu există aplicații încă.</string>
+    <string name="wifi_link_turbo_no_app">Nu există nicio aplicație încă.</string>
     <string name="wifi_link_turbo_off">Oprit</string>
     <string name="wifi_link_turbo_on">Pornit</string>
     <string name="wifi_link_turbo_summary">Se amplifică viteză de conectare a aplicațiilor selectate utilizând datele mobile, atunci când conexiunea Wi-Fi este slabă</string>
@@ -8148,6 +8153,7 @@ Actualizați setările:
     <string name="zone_auto">Fus orar automat</string>
     <string name="zone_auto_summaryOff">Utilizaţi ora furnizată de operatorul de reţea</string>
     <string name="zone_auto_summaryOn">Utilizaţi ora furnizată de operatorul de reţea</string>
+    <string name="zone_auto_title">Utilizați fusul orar furnizat de operatorul de rețea</string>
     <string name="zone_change_to_from_dst">%1$s pornește la %2$s.</string>
     <string name="zone_info_footer">Utilizează %1$s. %2$s pornește la %3$s.</string>
     <string name="zone_info_footer_no_dst">Utilizează %1$s. Fără oră de vară.</string>

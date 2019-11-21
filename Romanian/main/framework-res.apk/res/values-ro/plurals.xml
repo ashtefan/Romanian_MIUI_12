@@ -72,6 +72,14 @@
         <item quantity="other">în %d a</item>
         <item quantity="one">în %d a</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d fișiere</item>
+        <item quantity="one">%1$s + %2$d fișier</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Încercați din nou în %d secunde.</item>
+        <item quantity="one">Încercați din nou în 1 secundă.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">În ultimele %d zile</item>
         <item quantity="one">În ultima zi</item>

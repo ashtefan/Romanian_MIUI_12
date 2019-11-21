@@ -258,6 +258,10 @@
         <item quantity="other">În total %1$d elemente</item>
         <item quantity="one">În total %1$d element</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
         <item quantity="one">"Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?"</item>
@@ -353,6 +357,26 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>
+        <item quantity="one">Nu veți putea restaura %d element selectat dacă îl ștergeți. Îl ștergeți oricum?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>
+        <item quantity="one">Nu veți putea restaura %d element selectat dacă îl ștergeți. Îl ștergeți oricum?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>
+        <item quantity="one">Nu veți putea restaura %d element selectat dacă îl ștergeți. Îl ștergeți oricum?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Elementele pot fi stocate aici timp de %1$d zile (%2$s)</item>
+        <item quantity="one">Elementele pot fi stocate aici timp de %1$d zi (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Elementele pot fi stocate aici timp de %1$d zile. Actualizați-vă planul pentru a extinde această perioadă.</item>
+        <item quantity="one">Elementele pot fi stocate aici timp de %1$d zi. Actualizați-vă planul pentru a extinde această perioadă.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fișiere</item>

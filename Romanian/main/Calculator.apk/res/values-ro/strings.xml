@@ -159,6 +159,7 @@
     <string name="loading_message">Se încarcă aplicația…</string>
     <string name="loading_slogan">Utilizați aplicații fără să le instalați</string>
     <string name="loading_tips">Setări descărcate cu succes. Lansați din nou aplicația Calculator pentru a le aplica.</string>
+    <string name="loan_basic_point">Punct de bază</string>
     <string name="loan_edittext_hint_commercial">Introduceți valoarea</string>
     <string name="loan_edittext_hint_commercial_combined">Comercial(x10K)</string>
     <string name="loan_edittext_hint_fund">Introduceți valoarea</string>
@@ -170,7 +171,14 @@
     <string name="loan_pay_years">Perioada creditului</string>
     <string name="loan_payback_way">Rambursare</string>
     <string name="loan_repayment_detail_loading">Se încarcă rambursarea detaliată…</string>
+    <string name="loan_type_summary_lpr">LPR</string>
+    <string name="loan_type_title">Rata standard a dobânzii</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="lpr_ok">Am înțeles</string>
+    <string name="lpr_tips_msg">"Începând cu 8 octombrie 2019, rata dobânzii comerciale pentru împrumutul pentru locuințe personale va fi calculată în funcție de rata primară a împrumutului (LPR) în loc de rata dobânzii de referință implementată anterior de 4,9%. Acum, rata finală va fi confirmată prin adăugarea unui punct de bază LPR.
+
+LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (pot apărea întârzieri din cauza vacanțelor bancare) pe site-ul Băncii Populare Chineze."</string>
+    <string name="lpr_tips_title">LPR (rata primară a împrumutului)</string>
     <string name="medical_treatment">Tratament medical</string>
     <string name="menuDesc">meniu</string>
     <string name="minus">−</string>

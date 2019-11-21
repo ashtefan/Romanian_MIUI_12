@@ -90,13 +90,9 @@
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului să configureze acest serviciu. Apoi activați apelarea prin Wi-Fi din nou din Setări.</item>
+        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului să configureze acest serviciu. Apoi activați apelarea prin Wi-Fi din nou din Setări. (Cod de eroare: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Înregistrați-vă cu operatorul dumneavoastră</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s apelare prin Wi-Fi</item>
+        <item>Probleme de înregistrare apelare prin Wi-Fi cu operatorul dvs: %1$s</item>
     </string-array>
 </resources>

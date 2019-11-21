@@ -34,13 +34,17 @@
     <string name="back">Înapoi</string>
     <string name="calendar_sound">Memento-uri evenimente</string>
     <string name="calendar_tip">Memento-urile pentru evenimente funcționează pentru calendar, note și sarcini</string>
+    <string name="category_other">Altele</string>
+    <string name="first_unlock_time">"Prima deblocare: "</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
+    <string name="healthy_use_phone">Gestionați timpul de ecran	</string>
     <string name="intelligent_recognition_item_summary">Utilizați un ton de apel desemnat pentru apeluri de la serviciile de livrare și taxi. Această caracteristică va funcționa când %s este setat ca ton de apel implicit.</string>
     <string name="intelligent_recognition_item_title">Identificare servicii</string>
     <string name="mms">Mesagerie</string>
     <string name="more_ringtone">Toate sunetele de apel</string>
-    <string name="network_error">A apărut o eroare de rețea; încercați din nou</string>
+    <string name="most_unlock_week_day">"Cele mai multe deblocări: "</string>
+    <string name="network_error">A apărut o eroare de rețea. Încercați din nou</string>
     <string name="notification_sound">Sunete de notificare</string>
     <string name="retry">Reîncercați</string>
     <string name="ringtone_slot_setting_title">Sunete de apel dual SIM</string>
@@ -50,6 +54,7 @@
     <string name="screen_confirm">Activați</string>
     <string name="screen_paper_mode_apps_loading">Doar o secundă…</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="several_days_use_time">Timp de ecran: %2$s</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Mesaj trimis</string>
@@ -57,8 +62,17 @@
     <string name="stop_app_timer">Dezactivați Timpul de ecran</string>
     <string name="stop_app_timer_fail">Timpul de ecran nu a putut fi dezactivat</string>
     <string name="stop_app_timer_success">Timpul de ecran a fost dezactivat</string>
-    <string name="stop_app_timer_tip">Datele și permisiunile legate de Timpul de ecran vor fi șterse după dezactivare, inclusiv setările, datele locale și din cloud, etc.</string>
+    <string name="stop_app_timer_tip">Toate datele și permisiunile legate de Timpul de ecran vor fi șterse după dezactivare, inclusiv setările, datele locale și din cloud, etc.</string>
     <string name="thememanager_not_found">"Nu s-a putut deschide aplicația Teme. Asigurați-vă că această aplicație este instalată în telefon."</string>
+    <string name="today_usage_title">Astăzi</string>
+    <string name="today_use_time">Timp de ecran: %1$s</string>
+    <string name="trend_from_yesterday_equal">La fel ca ieri</string>
+    <string name="trend_from_yesterday_less">%1$s mai puțin decât ieri</string>
+    <string name="trend_from_yesterday_less_simple">%1$s mai puțin decât ieri</string>
+    <string name="trend_from_yesterday_more">%1$s mai mult decât ieri</string>
+    <string name="trend_from_yesterday_more_simple">%1$s mai mult decât ieri</string>
+    <string name="unlock_times_per_day">"Media zilnică: "</string>
+    <string name="unlock_times_per_hour">"Deblocări pe oră: "</string>
     <string name="usage_app_get_it">Am înțeles</string>
     <string name="usage_app_limit_alter_summary">"Se pare că această limită este mai mică decât timpul în care ați utilizat astăzi această aplicație. Setați limita oricum?"</string>
     <string name="usage_app_limit_alter_title">Verificați limita de timp pentru ecran</string>
@@ -122,6 +136,7 @@
     <string name="usage_state_focus_call">Apel de urgență</string>
     <string name="usage_state_focus_level1">Stea ce răsare</string>
     <string name="usage_state_focus_level_summary">Nivelul curent: %s</string>
+    <string name="usage_state_focus_mode_experience_warning_message">Modul Focusat permite doar utilizarea Camerei foto și realizarea de apeluri de urgență. Nu veți putea dezactiva modul Focusat mai devreme.</string>
     <string name="usage_state_focus_mode_summary">Restricționați toate funcțiile înafară de apelarea de urgență și Camera</string>
     <string name="usage_state_focus_mode_summary1">Ați început bine. Sunteți la mijlocul drumului</string>
     <string name="usage_state_focus_mode_summary2">Rămâneți concentrat</string>
@@ -145,6 +160,7 @@
     <string name="usage_state_num_level">Nivelul %d:</string>
     <string name="usage_state_open_focus_mode">Activați modul Focusat</string>
     <string name="usage_state_over_p">Mai bine decât</string>
+    <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Primiți o notificare când se atinge limita de utilizare a ecranului setată</string>
     <string name="usage_state_remind_summary">Activați pentru a primi alerte de utilizare a ecranului</string>
     <string name="usage_state_remind_title">Alertă de utilizare a ecranului</string>
@@ -210,5 +226,5 @@
     <string name="usagestats_device_timeout_negative">Amintește-mi într-o oră</string>
     <string name="usagestats_device_timeout_positive">Am înțeles</string>
     <string name="usagestats_device_timeout_title">Alertă timp de ecran</string>
-    <string name="wait_tip">Vă rugăm așteptați…</string>
+    <string name="wait_tip">Doar o secundă…</string>
 </resources>

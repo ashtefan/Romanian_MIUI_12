@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="Approval">Aplicați</string>
+    <string name="Xiaomi_account_pending_approval">Se revizuiește aplicarea</string>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
@@ -71,6 +73,7 @@
     <string name="cancel">Renunțați</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_for_updates">Căutați actualizări de tip Beta</string>
     <string name="choose_open_code_app">Selectați o aplicație</string>
     <string name="choose_pay_title">Selectați metoda de plată</string>
     <string name="choose_picture">Selectați codul QR</string>
@@ -84,6 +87,7 @@
     <string name="contact_details">Codul QR al contactului:</string>
     <string name="continue_access_web_url">Accesați site-ul</string>
     <string name="continue_to_website">Accesați site-ul</string>
+    <string name="continue_waiting">Așteptați în continuare</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_text_success">Text copiat</string>
     <string name="crop_cancel_description">Renunțați</string>
@@ -108,6 +112,8 @@
     <string name="document_title">Fotografiați documentul</string>
     <string name="document_top_panel_title">Fotografie a documentului</string>
     <string name="done">Terminat</string>
+    <string name="download_stable_version">Utilizați versiunea stabilă</string>
+    <string name="download_use_stable_version">Descărcați versiunea stabilă</string>
     <string name="drag_barcode_into_frame">Aranjați rama astfel încât să acopere codul</string>
     <string name="drag_crop_to_business_card">Mutați pentru a decupa</string>
     <string name="email">E-mail:</string>
@@ -118,11 +124,28 @@
     <string name="error_media_storage_failure">"Nu s-a putut salva fotografia"</string>
     <string name="error_permissions">"Aplicația Scaner nu are permisiunile necesare pentru a funcționa normal. Mergeți la Setări și acordați permisiunile necesare pentru a continua."</string>
     <string name="error_server_error">A apărut o eroare de server.</string>
+    <string name="experience_new_feature_tips">Conectați-vă la contul dvs Mi pentru a aplica pentru permisiunile de utilizare a versiunii Beta. Veți putea utiliza versiunea Beta după ce vă vom revizui aplicarea. Versiunea Beta poate conține erori.</string>
+    <string name="experience_new_features">Versiune Beta</string>
+    <string name="experiential_version_of_the_prompt_content">Conectați-vă la contul dvs Mi pentru a accesa aplicația Scaner Beta. Vă conectați acum?</string>
+    <string name="failed_to_get_xiaomi_account">Nu s-a putut conecta</string>
     <string name="fax">Fax</string>
     <string name="feed_search_fail">Niciun rezultat; reîncercați</string>
+    <string name="feedback">Feedback</string>
     <string name="feedback_description_camera_access">"Aplicația Scaner nu se poate conecta la Cameră"</string>
     <string name="feedback_description_save_photo">"Nu s-a putut salva fotografia sau videoclipul"</string>
+    <string name="feedback_title">Feedback</string>
     <string name="flight_mode_connecting_to_wifi">Activați manual conexiunea Wi-Fi atunci când modul Avion este activ</string>
+    <string name="food_identification_fail_tips">Scanați fructe, legume și alte alimente. Această caracteristică funcționează de asemenea și cu imagini.</string>
+    <string name="food_identification_tip_msg">Se recunoaște mâncarea…</string>
+    <string name="food_make_complaints_hint">Introduceți feedback-ul aici</string>
+    <string name="food_module_feedback_str">Feedback</string>
+    <string name="food_module_get_more_info">Mai multe informații</string>
+    <string name="food_module_identification_failure">Nu am putut recunoaște acest element</string>
+    <string name="food_module_send_feedback">Trimiteți</string>
+    <string name="food_module_step_on">Nu îmi place</string>
+    <string name="food_module_thumbs_up">Îmi place</string>
+    <string name="food_module_tip">Plasați mâncarea în interiorul ramei</string>
+    <string name="food_module_title_food">Calorii</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
@@ -164,6 +187,8 @@
     <string name="name">Nume:</string>
     <string name="new_schedule">Creați un eveniment</string>
     <string name="nickname">Pseudonim:</string>
+    <string name="no_has_experience_version_permission">Nu aveți permisiunea de a utiliza aplicația Scaner Beta. Aplicați pentru permisiuni sau descărcați versiunea stabilă.</string>
+    <string name="no_inner_version">Versiunea Beta nu este disponibilă</string>
     <string name="no_network">"Nu se poate conecta la rețea"</string>
     <string name="no_storage">Nu există un mediu intern de stocare</string>
     <string name="no_support_to_translate_type">"Această limbă nu este suportată"</string>
@@ -189,9 +214,11 @@
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
     <string name="preparing_sd">Se pregătește mediul intern de stocare…</string>
     <string name="previous">Înapoi</string>
+    <string name="prompt">Atenție</string>
     <string name="qr_code_details">Detalii cod QR:</string>
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
+    <string name="request_server_failed">Nu s-a putut conecta la server</string>
     <string name="scan_result">Rezultat</string>
     <string name="scan_support_type">WeChat, Alipay, Coduri QR, coduri de bare</string>
     <string name="sdk_not_ready">Pregătire SDK. Încercați din nou mai târziu.</string>
@@ -217,6 +244,7 @@
     <string name="study_searching">Se caută rezultate…</string>
     <string name="study_title">Scanați problema pe care doriți să o rezolvați</string>
     <string name="study_vendor_info">Susținut de Zuoyebang</string>
+    <string name="suggested_submission_success">Feedback trimis cu succes</string>
     <string name="switch_open">Activați</string>
     <string name="tel">Telefon</string>
     <string name="title">Titlu:</string>
@@ -252,6 +280,7 @@
     <string name="translation_see_more">Vizualizați definiția</string>
     <string name="translation_type_sentence">Frază</string>
     <string name="translation_type_word">Cuvânt</string>
+    <string name="uninstall_prompt">Dacă apar probleme pe durata instalării, mergeți la Setări &gt; Aplicații &gt; Gestionați aplicațiile &gt; Scaner, apăsați \"Dezinstalați\" și încercați să instalați aplicația din nou.</string>
     <string name="url_is_phish">Acest site poate fi phishing</string>
     <string name="url_is_safety">Site-ul este sigur</string>
     <string name="url_is_unknown">"Nu se poate verifica dacă site-ul este sigur"</string>
@@ -260,6 +289,7 @@
     <string name="web">Site:</string>
     <string name="website_details">Website:</string>
     <string name="weixin_code_tip">Scanați acest cod QR utilizând WeChat</string>
+    <string name="welcome_to_thesweepversion">Bine ați venit în aplicația Scaner Beta!</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Hotspotul Wi-Fi \"%1$s\" există deja. Ștergeți-l și încercați din nou.</string>
     <string name="wifi_open_fail">"Nu se poate activa Wi-Fi-ul"</string>
@@ -267,5 +297,9 @@
     <string name="wifi_pwd">Parola:</string>
     <string name="wifi_security">Securitate:</string>
     <string name="wifi_ssid">SSID:</string>
+    <string name="will_be_sent_tothe_background_review">" (Aplicarea dvs va fi trimisă spre revizuire în curând.)"</string>
     <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
+    <string name="you_have_permission_to_download">Atingeți pentru a descărca versiunea Beta</string>
+    <string name="you_id">"ID-ul dvs: "</string>
+    <string name="your_application_is_under_review">" (Aplicarea dvs este revizuită.)"</string>
 </resources>

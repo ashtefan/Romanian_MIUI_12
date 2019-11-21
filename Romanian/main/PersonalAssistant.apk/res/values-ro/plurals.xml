@@ -23,6 +23,10 @@
         <item quantity="other">%s elemente selectate</item>
         <item quantity="one">%s element selectat</item>
     </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">S-au adăugat %d numere de telefon</item>
+        <item quantity="one">S-a adăugat %d număr de telefon</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">cu %1$d hr în urmă</item>
     </plurals>

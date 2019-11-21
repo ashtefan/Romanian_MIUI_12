@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="usage_days">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Deblocat de %d ori</item>
         <item quantity="one">Deblocat %d dată</item>
@@ -15,6 +19,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">S-au primit %d notificări</item>
         <item quantity="one">S-a primit %d notificare</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minute înseamnă un pas important către atenție și concentrare.</item>
+        <item quantity="one">%d minut înseamnă un pas important către atenție și concentrare.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ore</item>
@@ -68,12 +76,25 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
-    <plurals name="usage_days">
+    <plurals name="last_several_days">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
     </plurals>
-    <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">%d minute înseamnă un pas important către atenție și concentrare.</item>
-        <item quantity="one">%d minut înseamnă un pas important către atenție și concentrare.</item>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Timpul de ecran de astăzi este egal cu media dvs pe %d zile</item>
+        <item quantity="one">Timpul de ecran de astăzi este egal cu media dvs pe %d zi</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s mai puțin timp de ecran astăzi decât media pe %1$d zile</item>
+        <item quantity="one">%2$s mai puțin timp de ecran astăzi decât media pe %1$d zi</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s mai mult timp de ecran astăzi decât media pe %1$d zile</item>
+        <item quantity="one">%2$s mai mult timp de ecran astăzi decât media pe %1$d zi</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f ori</item>
+        <item quantity="zero">%.2f ori</item>
+        <item quantity="one">%.2f dată</item>
     </plurals>
 </resources>

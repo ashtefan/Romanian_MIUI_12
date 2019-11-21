@@ -1578,7 +1578,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_screenshot_label">Captură de ecran</string>
     <string name="quick_settings_secondary_label_until">Până la %s</string>
     <string name="quick_settings_settings_label">Setări</string>
-    <string name="quick_settings_sim_disabled">(Dezactivat)</string>
+    <string name="quick_settings_sim_disabled">" (Dezactivat)"</string>
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_time_label">Ora</string>
@@ -1680,7 +1680,9 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="screenshot_edit">Editați</string>
     <string name="screenshot_failed_title">"Nu s-a putut realiza captura de ecran."</string>
     <string name="screenshot_failed_text">"Nu s-a putut realiza captura de ecran datorită spațiului de stocare insuficient sau a faptului că aplicația nu permite acest lucru"</string>
+    <string name="screenshot_failed_to_capture_title">Această aplicație nu permite realizarea de capturi de ecran</string>
     <string name="screenshot_failed_to_save_text">"Nu se poate realiza captura de ecran datorită spațiului de stocare insuficient."</string>
+    <string name="screenshot_failed_to_save_title">Nu există spațiu de stocare suficient pentru capturi de ecran noi</string>
     <string name="screenshot_failed_to_save_unknown_text">A apărut o eroare în timpul salvării capturii de ecran.</string>
     <string name="screenshot_feedback_txt">Feedback</string>
     <string name="screenshot_insert_failed">"Încărcarea capturii de ecran a eșuat. Faceți o nouă captură de ecran sau vedeți fotografia în Galerie."</string>
