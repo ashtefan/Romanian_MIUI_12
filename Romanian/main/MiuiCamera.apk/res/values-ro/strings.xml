@@ -820,7 +820,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_privacy_title">Politica de Confidențialitate</string>
     <string name="pref_qc_focus_position_title">Focalizare</string>
-    <string name="pref_qc_focus_position_title_abbr">AF</string>
+    <string name="pref_qc_focus_position_title_abbr">A/M F</string>
     <string name="pref_retain_camera_mode_summary">Comută camera la modul utilizat anterior când deschideți aplicația.</string>
     <string name="pref_retain_camera_mode_title">Salvează modul anterior</string>
     <string name="pref_scan_qrcode_summary">Doar camera posterioară poate scana coduri QR în modul \"Fotografiere\".</string>

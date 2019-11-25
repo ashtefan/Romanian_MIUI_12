@@ -1596,7 +1596,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tipul de reţea preferat</string>
     <string name="preferred_phone_account">Cont de apelare preferat</string>
-    <string name="preferred_wificall_roaming_title">Preferințe pentru roaming</string>
     <string name="preferred_wificall_title">Preferințe pentru rețea</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="private_dns_mode_off">Oprit</string>

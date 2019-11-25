@@ -112,8 +112,8 @@
         <item>Dezactivat</item>
         <item>Filtrare activată</item>
         <item>Filtrare anteturi activată</item>
-        <item>Filtrare Media Pkts activată</item>
-        <item>Activată</item>
+        <item>\"Filtrare anteturi\" activată</item>
+        <item>\"Filtrare pachete media\" activată</item>
     </string-array>
     <string-array name="carrier_name">
         <item>Digi Mobil</item>

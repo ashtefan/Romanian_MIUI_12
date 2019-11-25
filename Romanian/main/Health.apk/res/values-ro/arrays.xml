@@ -56,6 +56,15 @@
         <item>℃</item>
         <item>°F</item>
     </string-array>
+    <string-array name="week">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+    </string-array>
     <string-array name="week_label">
         <item>Dum</item>
         <item>Lun</item>

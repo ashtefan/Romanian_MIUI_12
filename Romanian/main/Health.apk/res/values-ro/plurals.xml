@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Faceți cel puțin %1$d pași în fiecare zi</item>
+        <item quantity="one">Faceți cel puțin %1$d pas în fiecare zi</item>
+    </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d zile</item>
         <item quantity="one">%1$d zi</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">Au fost selectate %1$d elemente</item>
+        <item quantity="one">A fost selectat %1$d element</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Ștergeți %1$d înregistrări?</item>
+        <item quantity="one">Ștergeți %1$d înregistrare?</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Țintă: %1$d pași</item>
@@ -12,13 +24,53 @@
         <item quantity="other">" pași"</item>
         <item quantity="one">" pas"</item>
     </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d pași</item>
+        <item quantity="one">%1$d pas</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d oră</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d zile de la cântărirea anterioară</item>
+        <item quantity="one">%1$d zi de la cântărirea anterioară</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d zile de la cântărirea anterioară</item>
+        <item quantity="one">%1$d zi de la cântărirea anterioară</item>
+    </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Perioadă de %1$d zile</item>
         <item quantity="one">Perioadă de %1$d zi</item>
     </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Ziua %1$d (preconizată)</item>
+        <item quantity="one">Ziua %1$d (preconizată)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Ziua %1$d</item>
+        <item quantity="one">Ziua %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Următorul ciclu în %1$d zile</item>
+        <item quantity="one">Următorul ciclu în %1$d zi</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d notificări noi</item>
         <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Ținta: %1$d ore</item>
+        <item quantity="one">Ținta: %1$d oră</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">Setările curente nu vă asigură %1$d ore de somn zilnic. Aveți nevoie de mai mult de atât.</item>
+        <item quantity="one">Setările curente nu vă asigură %1$d oră de somn zilnic. Aveți nevoie de mai mult de atât.</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d pași</item>
@@ -59,6 +111,10 @@
     <plurals name="title_menstruation_predict_period">
         <item quantity="other">Ziua estimată a %1$d-a a ciclului</item>
         <item quantity="one">Ziua estimată a %1$d-a a ciclului</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d pași făcuți astăzi</item>
+        <item quantity="one">%1$d pas făcut astăzi</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" zile"</item>

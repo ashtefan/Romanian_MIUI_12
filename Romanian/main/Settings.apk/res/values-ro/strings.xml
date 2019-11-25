@@ -3535,6 +3535,8 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
     <string name="lockscreen_settings_title">Preferințe blocare ecran</string>
     <string name="lockscreen_settings_what_to_show_category">Ce să se afișeze</string>
+    <string name="lockscreen_sidepanel_shortcuts_summary">Personalizați aplicațiile afișate în panoul lateral din blocarea ecranului</string>
+    <string name="lockscreen_sidepanel_shortcuts_title">Scurtături panou lateral</string>
     <string name="login_account_dialog_message">Conectați-vă folosind contul Mi și activați sincronizarea în cloud.</string>
     <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
     <string name="login_account_summary">Gestionați conturile, serviciile cloud, plățile și multe altele</string>
@@ -3961,7 +3963,12 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="msd_pc_system_install_summary_xp">1. Executaţi setup.exe pentru a instala</string>
     <string name="msg_wlan_signal_found">Vă conectaţi la %s?</string>
     <string name="msim_sim_radio_off">Oprit</string>
+    <string name="mtp_connection_failed">Nu se pot transfera fișierele pe computerul conectat. Încercați să rulați depanatorul.</string>
+    <string name="mtp_connection_failed_title">Conexiune USB</string>
+    <string name="mtp_connection_not_remind">Nu arăta din nou</string>
     <string name="mtp_ptp_mode_summary">Funcţia MTP sau PTP este activă</string>
+    <string name="mtp_solution_button_cancel">Am înțeles</string>
+    <string name="mtp_solution_button_ok">Depanator</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="mtrl_picker_cancel">Renunțați</string>
     <string name="mtrl_picker_confirm">Salvați</string>

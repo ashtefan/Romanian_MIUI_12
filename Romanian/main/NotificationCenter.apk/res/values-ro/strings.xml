@@ -14,6 +14,7 @@
     <string name="hint_search_all">Căutați aplicații</string>
     <string name="hint_search_in_disabled_apps">"Căutați aplicațiile care nu pot afișa notificări"</string>
     <string name="hint_search_in_enabled_apps">Căutați aplicațiile care pot afișa notificări</string>
+    <string name="last_sent_time_second">Chiar acum</string>
     <string name="list_title_disable_notification">"Nu se permit notificări"</string>
     <string name="loading">Doar o secundă…</string>
     <string name="lock_screen_display_rules">Format</string>

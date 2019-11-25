@@ -78,6 +78,8 @@
     <string name="deep_space_planet">Spațiu exterior</string>
     <string name="deep_space_planet_des">Această temă reflectă modificarea luminii înconjurătoare pe parcursul zilei. De asemenea apusul și răsăritul sunt sincronizate cu locația dvs.</string>
     <string name="digital_clock">Digital</string>
+    <string name="disable_aod_in_power_save_mode">Dezactivați când Economisirea acumulatorului este activă</string>
+  <string name="disable_aod_in_power_save_mode_summary">Nu afișa elementele pentru a economisi energia</string>
     <string name="font_thickness">Font îngroșat</string>
     <string name="large_time">Ceas mare</string>
     <string name="letter_space">Litere spațiate</string>
@@ -95,6 +97,7 @@
     <string name="paper_mode_end_time_title">Dezactivați</string>
     <string name="paper_mode_start_time_title">Activați</string>
     <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="photo_editor_saving">Se salvează…</string>
     <string name="please_input_signature">Introduceți semnătura</string>
     <string name="scheduled_style">Programat</string>
     <string name="scope_des">Fiecare caleidoscop conține 5 modele diferite care vor fi afișate în rând de fiecare dată când ecranul este aprins.</string>
@@ -113,9 +116,7 @@
 minunat urmează să se întâmple"</string>
     <string name="standard_clock_panel">Standard</string>
     <string name="standard_style">Standard</string>
-    <string name="summary">"Pentru a reduce consumul de energie, elementele nu vor fi afișate în următoarele situații:
-1. Când telefonul stă o perioadă mai lungă în întuneric.
-2. Când modul Nu deranjați este activ."</string>
+    <string name="summary">"Pentru a reduce consumul de energie, elementele nu vor fi afișate când telefonul stă o perioadă mai lungă în întuneric."</string>
     <string name="temporary_style">Pentru 10 secunde după atingere</string>
     <string name="text_color">Culoarea textului</string>
     <string name="text_length_exceed_limit_alert">*Textul introdus este prea lung</string>
