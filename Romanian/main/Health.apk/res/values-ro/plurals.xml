@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Țintă: %1$d pași</item>
+        <item quantity="one">Țintă: %1$d pas</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" pași"</item>
+        <item quantity="one">" pas"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">Perioadă de %1$d zile</item>
+        <item quantity="one">Perioadă de %1$d zi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d pași</item>
+        <item quantity="one">%1$d pas</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">"Nu ați înregistrat timp de %1$d zile. Înregistrați perioadele pentru a obține predicții mai precise."</item>
+        <item quantity="one">"Nu ați înregistrat timp de %1$d zi. Înregistrați perioadele pentru a obține predicții mai precise."</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Această menstruație durează pentru un total de %1$d zile</item>
+        <item quantity="one">Această menstruație durează pentru un total de %1$d zi</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Ziua %1$d a acestui ciclu menstrual</item>
+        <item quantity="one">Ziua %1$d a acestui ciclu menstrual</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">Ciclu de %1$d zile</item>
+        <item quantity="one">Ciclu de %1$d zi</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d ori</item>
+        <item quantity="one">%1$d dată</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Ziua %1$d a ciclului</item>
+        <item quantity="one">Ziua %1$d a ciclului</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d zile până la următorul ciclu</item>
+        <item quantity="one">%1$d zi până la următorul ciclu</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Ziua estimată a %1$d-a a ciclului</item>
+        <item quantity="one">Ziua estimată a %1$d-a a ciclului</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" zile"</item>
+        <item quantity="one">" zi"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d ani</item>
+        <item quantity="one">%1$d an</item>
+    </plurals>
+</resources>

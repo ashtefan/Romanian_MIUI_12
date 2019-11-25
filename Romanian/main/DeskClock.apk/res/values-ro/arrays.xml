@@ -665,4 +665,31 @@
         <item>Amână</item>
         <item>Oprește</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>De luni până vineri</item>
+        <item>În fiecare zi</item>
+        <item>În zilele lucrătoare</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>În fiecare zi</item>
+        <item>De luni până vineri</item>
+        <item>În zilele lucrătoare</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Dum</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>La ora setată</item>
+        <item>Cu 15 minute înainte</item>
+        <item>Cu 30 de minute înainte</item>
+        <item>Cu o oră înainte</item>
+        <item>Nimic</item>
+    </string-array>
 </resources>

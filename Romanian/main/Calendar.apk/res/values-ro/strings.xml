@@ -84,7 +84,7 @@
     <string name="birthday_event_description_day_after_tomorrow">Poimâine este </string>
     <string name="birthday_event_description_day_before_yesterday">Alaltăieri a fost</string>
     <string name="birthday_event_description_default">"%2$s %3$s %4$s a lui %1$s"</string>
-    <string name="birthday_event_description_special">"%1$s a lui %2$s %3$s %4$s %5$s"</string>
+    <string name="birthday_event_description_special">"%1$s %4$s a lui %2$s %3$s %5$s"</string>
     <string name="birthday_event_description_today">Astăzi este</string>
     <string name="birthday_event_description_tomorrow">Mâine este</string>
     <string name="birthday_event_description_yesterday">Ieri a fost</string>

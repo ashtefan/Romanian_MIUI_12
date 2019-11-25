@@ -68,4 +68,20 @@
         <item quantity="other">%1$d secunde</item>
         <item quantity="one">%1$d secundă</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1s ore</item>
+        <item quantity="one">%1$s oră</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1s ore</item>
+        <item quantity="one">%1$s oră</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minute</item>
+        <item quantity="one">%1$s minut</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
 </resources>

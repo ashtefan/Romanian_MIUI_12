@@ -118,10 +118,12 @@
         <item quantity="one">%1$d minut</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Descărcat de %1$d utilizatori</item>
+        <item quantity="other">Descărcat de %1$d persoane</item>
+        <item quantity="one">Descărcat de %1$d persoană</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Descărcat de %1$d utilizatori</item>
+        <item quantity="other">Descărcat de %1$d persoane</item>
+        <item quantity="one">Descărcat de %1$d persoană</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicații nu au fost utilizate de mult timp; aruncați o privire."&lt;/Data></item>
@@ -147,10 +149,32 @@
         <item quantity="other">Ștergeți %1$d elemente?</item>
         <item quantity="one">Ștergeți %1$d element?</item>
     </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>S-au eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> melodii)&lt;/Data></item>
+        <item quantity="one">&lt;Data>S-a eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> melodie)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>S-au eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotografii)&lt;/Data></item>
+        <item quantity="one">&lt;Data>S-a eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotografie)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>S-au găsit &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mesaje vocale&lt;/Data></item>
+        <item quantity="one">&lt;Data>S-a găsit &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mesaj vocal&lt;/Data></item>
+    </plurals>
     <plurals name="wechat_video_time_p1">
         <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
     </plurals>
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
 </resources>
