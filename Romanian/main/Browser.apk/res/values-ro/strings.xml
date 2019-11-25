@@ -53,7 +53,7 @@
     <string name="action_menu_text_history">Marcaje şi istoric</string>
     <string name="action_menu_text_nightmode">Mod nocturn</string>
     <string name="action_menu_text_readmode">Mod citire</string>
-    <string name="action_menu_text_refresh">Reîmprospătare</string>
+    <string name="action_menu_text_refresh">Reîncărcare</string>
     <string name="action_menu_text_setting">Setări</string>
     <string name="action_menu_text_share">Partajaţi</string>
     <string name="action_menu_text_snapshot">Salvați pagina</string>
@@ -98,7 +98,7 @@
     <string name="adblock_rules_not_updated_toast">"Nu s-a putut actualiza"</string>
     <string name="adblock_rules_updated_toast">Actualizare efectuată</string>
     <string name="add_bookmark_group">Adăugaţi un grup</string>
-    <string name="add_bookshelf_popup_text">Adăugată în raft</string>
+    <string name="add_bookshelf_popup_text">Adăugată pe raft</string>
     <string name="add_favorites_to">Adăugați la Favorite</string>
     <string name="add_new_bookmark">Adăugaţi un marcaj</string>
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
@@ -136,7 +136,6 @@
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
-    <string name="autologin_bar_error">"Imposibil de conectat"</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
     <string name="autologin_bar_login_text">Conectare</string>
     <string name="back_button_label">Înapoi</string>
@@ -224,8 +223,8 @@
     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
-    <string name="common_use_phrase_bottom_bar_text_next">Înainte</string>
-    <string name="common_use_phrase_bottom_bar_text_previous">Înapoi</string>
+    <string name="common_use_phrase_bottom_bar_text_next">Următorul</string>
+    <string name="common_use_phrase_bottom_bar_text_previous">Anteriorul</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="context_menu_add_to_desk_id">Adăugați la Ecranul principal</string>
     <string name="context_menu_orientation_portrait_swap_id">Ecran V/O</string>
@@ -352,7 +351,7 @@ pentru a ne ajuta să o dezvoltăm"</string>
     <string name="download_sdcard_busy_dlg_title">Card SD indisponibil</string>
     <string name="download_status_failed">"Nu s-a putut descărca"</string>
     <string name="download_status_pending">În așteptare</string>
-    <string name="download_success">Descărcat</string>
+    <string name="download_success">Finalizat</string>
     <string name="download_title">Descărcări</string>
     <string name="download_video">Descărcați videoclipul</string>
     <string name="download_wait_connect">În așteptare pentru conectare</string>
@@ -709,7 +708,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="not_now">Nu acum</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
-    <string name="novel_toast_hint">Acest site a fost adăugat în raft</string>
+    <string name="novel_toast_hint">Acest site a fost adăugat pe raft</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_cloud_sync">Activați sincronizarea în cloud</string>
@@ -729,7 +728,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="paused_unknown">Întreruptă</string>
     <string name="paused_waiting_for_network">Se așteaptă conectarea…</string>
     <string name="paused_waiting_to_retry">Se așteaptă reluarea…</string>
-    <string name="pay_failed_toast">"Nu s-a putut finaliza plata"</string>
+    <string name="pay_failed_toast">Nu s-a putut finaliza plata</string>
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
     <string name="permission_alert_window">Pentru a utiliza această funcție, accesați opțiune de sistem Afișare ferestre pop-up.</string>
     <string name="permission_notification">trimită notificări.</string>

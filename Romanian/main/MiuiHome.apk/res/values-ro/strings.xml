@@ -3,7 +3,6 @@
     <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
-    <string name="add">Adăugați</string>
     <string name="add_custom_category">Personalizați</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="added_all_category">S-au adăugat cu succes toate aplicațiile</string>
@@ -163,6 +162,7 @@
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="edit">Editați</string>
     <string name="edit_folder_title">Editaţi numele dosarului</string>
     <string name="edit_mode_dual_app">Creați o aplicație clonată</string>
     <string name="edit_mode_group">Grupați</string>

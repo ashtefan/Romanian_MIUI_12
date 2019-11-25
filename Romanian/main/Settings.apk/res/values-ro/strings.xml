@@ -6836,6 +6836,10 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usb_eject_summary">Demontați stocarea USB pentru a o putea elimina în siguranță</string>
     <string name="usb_format">Ștergeți stocarea USB</string>
     <string name="usb_format_summary">Șterge toate datele din stocarea USB, cum ar fi muzica sau fotografiile</string>
+    <string name="usb_headset_not_support_cancel">Am înțeles</string>
+    <string name="usb_headset_not_support_message">"Nu se poate reda sunetul audio prin adaptor. Utilizați căști digitale
+sau căști cu mufa de 3,5mm."</string>
+    <string name="usb_headset_not_support_tile">Nu se poate reda sunetul audio</string>
     <string name="usb_host_mode_subtext">Utilizarea controlerelor de joc şi a altor periferice în portul USB poate reduce durata de viață a acumulatorului</string>
     <string name="usb_host_mode_text">Activaţi modul gazdă USB</string>
     <string name="usb_insert_summary">Introduceți o memorie USB pentru a o monta</string>
