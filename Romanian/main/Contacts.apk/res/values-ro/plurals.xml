@@ -107,20 +107,20 @@
         <item quantity="one">(%1$d)</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">Au fost găsite %d  persoane din agendă</item>
-        <item quantity="one">A fost găsită o persoană în agendă</item>
+        <item quantity="other">%d găsite</item>
+        <item quantity="one">1 găsită</item>
      </plurals>   
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d  persoane din Agendă</item>
-        <item quantity="one">O persoană din Agendă</item>
+        <item quantity="other">%d contacte</item>
+        <item quantity="one">1 contact</item>
      </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d  persoane din agendă cu numere de telefon</item>
-        <item quantity="one">O persoană din agendă cu număr de telefon</item>
+        <item quantity="other">%d contacte cu numere de telefon</item>
+        <item quantity="one">1 contact cu număr de telefon</item>
       </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d contacte cu informații parțial identice</item>
-        <item quantity="one">%1$d contact cu informații parțiale identice</item>
+        <item quantity="one">%1$d contact cu informații parțial identice</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">au fost îmbinate din %0$d surse</item>
