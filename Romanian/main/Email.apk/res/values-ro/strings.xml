@@ -482,7 +482,7 @@ Actualizaţi acum?"</string>
     <string name="folder_drafts_name_en0">Mesaje nefinalizate</string>
     <string name="folder_drafts_name_en1">Mesaj nefinalizat</string>
     <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
-    <string name="folder_empty_to_fresh">"Mailurile nu se sincronizează. Glisați în jos pentru a sincroniza."</string>
+    <string name="folder_empty_to_fresh">"E-mailurile nu se sincronizează. Glisați în jos pentru a sincroniza."</string>
     <string name="folder_junk_name_cn0">Spam</string>
     <string name="folder_junk_name_cn1">Coș de gunoi</string>
     <string name="folder_junk_name_cn2">[Gmail]/Spam</string>

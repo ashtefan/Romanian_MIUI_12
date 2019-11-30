@@ -299,7 +299,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="prompt_more_than_3h">Mai mult de 3 ore</string>
     <string name="prompt_sleep_time_night">Somn de noapte</string>
     <string name="prompt_sleep_time_noon">Somn de zi</string>
-    <string name="recommand_body_weight_msg">Ținta recomandată pentru greutate: %1$.1f kg. Atingeți IMC %2$.1f pentru a reduce riscul de accident cardiovascular și boli de ficat.</string>
+    <string name="recommand_body_weight_msg">Ținta recomandată pentru greutate: %1$.1f kg. Ajungeți la IMC %2$.1f pentru a reduce riscul de accident cardiovascular și boli de ficat.</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_body_weight_button">Înregistrați greutatea</string>
     <string name="record_detail_page_title">Detalii</string>

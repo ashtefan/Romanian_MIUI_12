@@ -1370,7 +1370,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="open_camera_hint_text">Glisați spre stânga pentru a deschide Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
-    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a vedea controalele</string>
+    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a vedea scurtăturile</string>
     <string name="osu_completing_sign_up">Se finalizează înregistrarea…</string>
     <string name="osu_connect_failed">Nu s-a putut conecta</string>
     <string name="osu_opening_provider">Se deschide %1$s</string>

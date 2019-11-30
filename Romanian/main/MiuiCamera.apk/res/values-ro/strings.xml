@@ -832,7 +832,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_skin_beautify_intelligent_title">Inteligent</string>
     <string name="pref_skin_beautify_slim_title">Zvelt</string>
     <string name="pref_skin_beautify_smooth_title">Skin</string>
-    <string name="pref_userdefine_watermark_title">Watermark personalizat</string>
+    <string name="pref_userdefine_watermark_title">Amprentă personalizată</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
     <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 Compatibilitate ridicată</string>

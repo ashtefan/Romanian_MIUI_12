@@ -219,7 +219,7 @@
     <string name="force_touch_search">Căutați fișierele</string>
     <string name="found_router">Router conectat</string>
     <string name="found_usb">Stocare USB conectată</string>
-    <string name="ftp_account_req_notice">4-16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
+    <string name="ftp_account_req_notice">4-16 caractere(litere şi cifre) se face diferenţiere între litere mici şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_anonymous_warning_msg">Funcțiile de rămânere anonim pot cauza riscuri de securitate. Utilizați această caracteristică oricum?</string>
     <string name="ftp_anonymous_warning_title">Atenție</string>

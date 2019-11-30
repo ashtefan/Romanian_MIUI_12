@@ -4,4 +4,8 @@
         <item quantity="other">Încă %1$d</item>
         <item quantity="one">Încă %1$d</item>
     </plurals>
+    <plurals name="miui_permission_detail">
+        <item quantity="other">%d permisiuni</item>
+        <item quantity="one">%d permisiune</item>
+    </plurals>
 </resources>

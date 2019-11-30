@@ -184,6 +184,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
+    <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
     <string name="night_not_disturb_settings_summary">Blochează alertele între 23:00 și 07:00</string>
     <string name="night_not_disturb_settings_title">"Nu deranja peste noapte"</string>
     <string name="no_data">Nu există date</string>
@@ -306,6 +307,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
     <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>
+    <string name="widget_cta_not_agree">Atingeți pentru a obține informații despre starea vremii</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>
