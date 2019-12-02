@@ -1267,7 +1267,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="msim_not_set_summary">Nesetat</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_pref_title_voice">Apelare</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="msim_select_default_time_left">(%ds)</string>
     <string name="msim_set_icc_card_error">Eroare card ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta în timpul unui apel</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>

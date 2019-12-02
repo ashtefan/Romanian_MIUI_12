@@ -565,7 +565,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_trial_15_days_end_title">Sesiunea de încercare de 15 zile a expirat</string>
     <string name="resource_trial_15_days_immediately">Încercați pentru 15 zile imediat</string>
     <string name="resource_trial_days">(perioadă de încercare: %1$dd)</string>
-    <string name="resource_trial_days_hours">(perioada de încercare: %1$dd %2$dh)</string>
+    <string name="resource_trial_days_hours">(perioada de încercare: %1$dz și %2$dh)</string>
     <string name="resource_trial_end_checkbox_hint">Primiți mai întâi Credite Mi</string>
     <string name="resource_trial_end_get_mibi">Primiți Credite Mi</string>
     <string name="resource_trial_end_jump_hint">Redirecționare…</string>
@@ -580,7 +580,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_trial_fail_message">Asigurați-vă că ceasul este setat la ora corectă.</string>
     <string name="resource_trial_fail_title">Nu a putut fi configurată o sesiune de încercare</string>
     <string name="resource_trial_hours">(perioadă de încercare: %1$dh)</string>
-    <string name="resource_trial_hours_minutes">(perioada de încercare: %1$dh %2$dm)</string>
+    <string name="resource_trial_hours_minutes">(perioada de încercare: %1$dh și %2$dm)</string>
     <string name="resource_trial_time">(încercare pentru %1$d minute)</string>
     <string name="resource_unknow_error">A apărut o eroare necunoscută</string>
     <string name="resource_update">Actualizaţi</string>

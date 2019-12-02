@@ -17,12 +17,12 @@
         <item quantity="one">în %d zi</item>
     </plurals>
     <plurals name="duration_days_shortest">
-        <item quantity="other">%d z</item>
-        <item quantity="one">%d z</item>
+        <item quantity="other">%dz</item>
+        <item quantity="one">%dz</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
-        <item quantity="other">în %d z</item>
-        <item quantity="one">în %d z</item>
+        <item quantity="other">în %dz</item>
+        <item quantity="one">în %dz</item>
     </plurals>
     <plurals name="duration_hours_relative">
         <item quantity="other">cu %d ore în urmă</item>
@@ -33,8 +33,8 @@
         <item quantity="one">în %d oră</item>
     </plurals>
     <plurals name="duration_hours_shortest">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
     </plurals>
     <plurals name="duration_hours_shortest_future">
         <item quantity="other">în %dh</item>
@@ -49,12 +49,12 @@
         <item quantity="one">în %d minut</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%d m</item>
-        <item quantity="one">%d m</item>
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">în %d m</item>
-        <item quantity="one">în %d m</item>
+        <item quantity="other">în %dm</item>
+        <item quantity="one">în %dm</item>
     </plurals>
     <plurals name="duration_years_relative">
         <item quantity="other">cu %d ani în urmă</item>
@@ -65,12 +65,12 @@
         <item quantity="one">în %d an</item>
     </plurals>
     <plurals name="duration_years_shortest">
-        <item quantity="other">%d a</item>
-        <item quantity="one">%d a</item>
+        <item quantity="other">%da</item>
+        <item quantity="one">%da</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">în %d a</item>
-        <item quantity="one">în %d a</item>
+        <item quantity="other">în %da</item>
+        <item quantity="one">în %da</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$s + %2$d fișiere</item>
@@ -117,24 +117,24 @@
         <item quantity="one">Pentru o oră</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
-        <item quantity="other">Pentru %d hr</item>
-        <item quantity="one">Pentru 1 hr</item>
+        <item quantity="other">Pentru %dh</item>
+        <item quantity="one">Pentru 1 h</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
         <item quantity="other">Pentru %1$d ore (până la %2$s)</item>
         <item quantity="one">Pentru o oră (până la %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
-        <item quantity="other">Pentru %1$d hr (până la %2$s)</item>
-        <item quantity="one">Pentru 1 hr (până la %2$s)</item>
+        <item quantity="other">Pentru %1$dh (până la %2$s)</item>
+        <item quantity="one">Pentru 1h (până la %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes">
         <item quantity="other">Pentru %d minute</item>
         <item quantity="one">Pentru un minut</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_short">
-        <item quantity="other">Pentru %d min</item>
-        <item quantity="one">Pentru 1 min</item>
+        <item quantity="other">Pentru %dmin</item>
+        <item quantity="one">Pentru 1min</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
         <item quantity="other">Pentru %1$d minute (până la %2$s)</item>

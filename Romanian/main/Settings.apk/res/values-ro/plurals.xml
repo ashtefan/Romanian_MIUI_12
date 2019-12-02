@@ -154,15 +154,15 @@
     </plurals>
     <plurals name="location_settings_summary_location_on">
         <item quantity="other">Pe - %1$d aplicații au acces la locație</item>
-        <item quantity="one">Pe - %1$d aplicații are acces la locație</item>
+        <item quantity="one">Pe - %1$d aplicație are acces la locație</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 literă.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Parola trebuie să conţină cel puţin %d minuscule.</item>
-        <item quantity="one">Parola trebuie să conţină cel puţin o minusculă.</item>
+        <item quantity="other">Parola trebuie să conţină cel puţin %d litere mici.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă mică.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Parola trebuie să conţină cel puţin %d caractere care să nu fie litere.</item>
@@ -186,7 +186,7 @@
     </plurals>
     <plurals name="lockpassword_password_too_short">
         <item quantity="other">Introduceți cel puțin %d caractere</item>
-        <item quantity="one">Introduceți cel puțin %d caractere</item>
+        <item quantity="one">Introduceți cel puțin %d caracter</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Codul PIN trebuie să conțină %d cifre</item>
@@ -341,8 +341,8 @@
         <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a raporta o problemă."</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d aplicații pot utiliza date nerestricționate</item>
-        <item quantity="one">1 aplicație poate utiliza date nerestricționate</item>
+        <item quantity="other">%d aplicații pot utiliza date fără restricții</item>
+        <item quantity="one">1 aplicație poate utiliza date fără restricții</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Setați ca de încredere sau eliminați certificatele</item>
@@ -397,12 +397,12 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="one">Deblocat %d dată</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Recepționat %d notificări</item>
-        <item quantity="one">Recepționat %d notificare</item>
+        <item quantity="other">S-au primit %d notificări</item>
+        <item quantity="one">S-a primit %d notificare</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Recepționat %d notificări</item>
-        <item quantity="one">Recepționat %d notificare</item>
+        <item quantity="other">S-au primit %d notificări</item>
+        <item quantity="one">S-a primit %d notificare</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ore</item>
@@ -507,7 +507,7 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Modifică la alarme pentru doar %1$d ore până la %2$s</item>
-        <item quantity="one">la alarme pentru doar o oră până la %2$s</item>
+        <item quantity="one">Modifică la alarme pentru doar o oră până la %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Modifică la alarme pentru doar %1$d minute (până la %2$s)</item>

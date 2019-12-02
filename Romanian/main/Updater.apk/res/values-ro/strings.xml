@@ -262,13 +262,13 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_network_title">Conectați-vă la Wi-Fi</string>
     <string name="set_only_wifi">Utilizaţi doar Wi-Fi</string>
     <string name="share">Distribuiţi</string>
-    <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s, verificați ce este nou la: %2$s</string>
+    <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s; verificați noutățile la: %2$s</string>
     <string name="share_qq">Postaţi pe Tencent Weibo</string>
     <string name="share_sina">Postaţi pe Sina Weibo</string>
   <string name="share_title">Partajați cu</string>
     <string name="share_update">Distribuiţi informaţia despre actualizare</string>
-    <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul detaliat al schimbărilor, accesaţi %3$s</string>
-    <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul detaliat al schimbărilor, accesaţi %2$s</string>
+    <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul detaliat al modificărilor, accesaţi %3$s</string>
+    <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul detaliat al modificărilor, accesaţi %2$s</string>
     <string name="sina_share_fail">"Nu s-a putut trimite"</string>
     <string name="sina_share_fail_content_repeat">"Ați partajat deja acest conținut"</string>
     <string name="sina_share_pendding">Trimitere…</string>

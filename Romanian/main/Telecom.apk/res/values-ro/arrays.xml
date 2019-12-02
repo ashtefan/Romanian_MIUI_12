@@ -257,9 +257,9 @@
         <item>Culori optimizate pentru conținut digital</item>
     </string-array>
     <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="voice_report_phone_number_array">
         <item>0</item>

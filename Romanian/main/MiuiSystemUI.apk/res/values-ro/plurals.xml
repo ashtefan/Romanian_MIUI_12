@@ -41,8 +41,8 @@
         <item quantity="one">Circa %d minut rămas</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Circa %1$d h și %2$d m rămase</item>
-        <item quantity="one">Circa %1$d h și %2$d m rămas</item>
+        <item quantity="other">Circa %1$dh și %2$dm rămase</item>
+        <item quantity="one">Circa %1$dh și %2$dm rămas</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d ore</item>
@@ -53,8 +53,8 @@
         <item quantity="one">%d minut</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h și %2$d m</item>
-        <item quantity="one">%1$d h și %2$d m</item>
+        <item quantity="other">%1$dh și %2$dm</item>
+        <item quantity="one">%1$dh și %2$dm</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">%d ore disponibile</item>
@@ -65,8 +65,8 @@
         <item quantity="one">%d minut disponibil</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d h și %2$d m disponibile</item>
-        <item quantity="one">%1$d h și %2$d m disponibil</item>
+        <item quantity="other">%1$dh și %2$dm disponibile</item>
+        <item quantity="one">%1$dh și %2$dm disponibil</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Introduceți codul PIN SIM, mai aveți %d încercări rămase.</item>
@@ -89,8 +89,8 @@
         <item quantity="one">"Dispozitivul nu a mai fost deblocat de %d oră. Confirmați parola."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Dispozitivul nu a mai fost deblocat de %d hours. Confirm pattern."</item>
-        <item quantity="one">"Dispozitivul nu a mai fost deblocat de %d hour. Confirm pattern."</item>
+        <item quantity="other">Dispozitivul nu a mai fost deblocat de %d ore. Confirmați modelul.</item>
+        <item quantity="one">Dispozitivul nu a mai fost deblocat de %d oră. Confirmați modelul.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
         <item quantity="other">"Dispozitivul nu a mai fost deblocat de %d ore. Confirmați codul PIN."</item>

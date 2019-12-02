@@ -58,7 +58,7 @@
     <string name="accessibility_battery_two_bars">Acumulator două bare.</string>
     <string name="accessibility_bluetooth_connected">Conectat prin Bluetooth</string>
     <string name="accessibility_bluetooth_disconnected">Deconectat de la Bluetooth</string>
-    <string name="accessibility_bluetooth_name">Conectata la %s.</string>
+    <string name="accessibility_bluetooth_name">Conectată la %s.</string>
     <string name="accessibility_bluetooth_tether">Tethering prin Bluetooth.</string>
     <string name="accessibility_brightness">Iluminare ecran</string>
     <string name="accessibility_brightness_slider">Cursor iluminare</string>
@@ -851,7 +851,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="how_to_use_drawer">Cum să accesați meniul de glisare</string>
     <string name="how_to_use_drawer_summary">Glisați spre dreapta din partea de sus a ecranului</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>
-    <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Use this input method?</string>
+    <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Utilizați această metodă de introducere?</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>
     <string name="immediately_destroy_activities_summary">Închide orice activitate de îndată ce utilizatorul o părăsește</string>
     <string name="important_desc">Toate notificările importante vor fi afișate în bara de notificări.</string>

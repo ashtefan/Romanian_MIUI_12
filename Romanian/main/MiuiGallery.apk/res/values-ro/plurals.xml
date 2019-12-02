@@ -271,8 +271,8 @@
         <item quantity="one">"Fotografia selectată nu este pe telefon. Aceasta va fi descărcată"</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Fotografiile selectate (%dMB) nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
-        <item quantity="one">"Fotografia selectată (%dMB) nu este pe telefon; o descărcați utilizând datele mobile?"</item>
+        <item quantity="other">"Fotografiile selectate (%d MB) nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
+        <item quantity="one">"Fotografia selectată (%d MB) nu este pe telefon; o descărcați utilizând datele mobile?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>

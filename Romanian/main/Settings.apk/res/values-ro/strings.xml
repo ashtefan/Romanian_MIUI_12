@@ -43,7 +43,7 @@
     <string name="abc_slice_more">Mai multe</string>
     <string name="abc_slice_more_content">+ %1$d</string>
     <string name="abc_slice_permission_allow">Permiteți</string>
-    <string name="abc_slice_permission_checkbox">Permiteți %1$s să afșeze fragmente din orice aplicație</string>
+    <string name="abc_slice_permission_checkbox">Permiteți %1$s să afișeze fragmente din orice aplicație</string>
     <string name="abc_slice_permission_deny">Refuzați</string>
     <string name="abc_slice_permission_text_1">- Poate citi informații de la %1$s</string>
     <string name="abc_slice_permission_text_2">- Poate realiza acțiuni în interiorul %1$s</string>
@@ -551,7 +551,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_usage_preference">Preferințe utilizare aplicație</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="application_forbid_auto_startup">Opriţi %s să pornească în fundal</string>
+    <string name="application_forbid_auto_startup">Împiedicați %s să pornească în fundal</string>
     <string name="application_info_label">Informaţii despre aplicaţie</string>
     <string name="application_item_already_permission">Adăugată</string>
     <string name="application_item_disable">Dezactivaţi</string>
@@ -1088,9 +1088,9 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_name_not_set">Nu a fost setat niciun nume, se utilizează numele contului</string>
     <string name="bluetooth_no_devices_found">Nu există disp. Bluetooth în apropiere.</string>
     <string name="bluetooth_not_visible_to_other_devices">Nu este vizibil pentru alte dispozitive Bluetooth</string>
-    <string name="bluetooth_notif_message">Atingeţi pentru a împerechea cu %1$s.</string>
-    <string name="bluetooth_notif_ticker">Solicitare de împerechere prin Bluetooth</string>
-    <string name="bluetooth_notif_title">Solicitare de împerechere</string>
+    <string name="bluetooth_notif_message">Atingeţi pentru a asocia cu %1$s.</string>
+    <string name="bluetooth_notif_ticker">Solicitare de asociere prin Bluetooth</string>
+    <string name="bluetooth_notif_title">Solicitare de asociere</string>
     <string name="bluetooth_off_footer">Activați Bluetooth-ul pentru a vă conecta la alte dispozitive.</string>
     <string name="bluetooth_on_time">Timp de funcţionare Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Vizibil numai pe dispozitivele asociate</string>
@@ -1216,7 +1216,7 @@ Selecție"</string>
     <string name="bluetooth_tethering_errored_subtext">Nu este conectat ca modem</string>
     <string name="bluetooth_tethering_off_subtext">Nu se partajează conexiunea la Internet a acestui telefon prin Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Se partajează conexiunea la Internet a %1$d prin Bluetooth</string>
-    <string name="bluetooth_tethering_overflow_error">Este imposibil tethering cu peste %1$d dispozitive.</string>
+    <string name="bluetooth_tethering_overflow_error">Nu se poate realiza tethering cu mai mult de %1$d dispozitive.</string>
     <string name="bluetooth_tethering_subtext">Partajați conexiunea la internet a telefonului via Bluetooth</string>
     <string name="bluetooth_turning_off">Se dezactivează Bluetooth…</string>
     <string name="bluetooth_turning_on">Se activează Bluetooth…</string>
@@ -1283,7 +1283,7 @@ Selecție"</string>
     <string name="bootloader_status_locked">Blocat</string>
     <string name="bootloader_status_locked_info">Acest telefon este blocat</string>
     <string name="bootloader_status_locked_summary">Telefonul este securizat</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock trebuie să vă acceseze contul Mi, CPU ID, IMEI, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
+    <string name="bootloader_status_privacy_dialog_message">Deblocarea Mi trebuie să vă acceseze contul Mi, CPU ID, IMEI, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
     <string name="bootloader_status_privacy_dialog_no">Renunțați</string>
     <string name="bootloader_status_privacy_dialog_title">Permisiuni necesare</string>
     <string name="bootloader_status_privacy_dialog_url_text">Politica noastră de Confidențialitate</string>
@@ -1904,7 +1904,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="data_usage_template">%1$s utilizate între %2$s</string>
     <string name="data_usage_title">Date primare</string>
     <string name="data_usage_total_during_range">%2$s: aproximativ %1$s utilizaţi.</string>
-    <string name="data_usage_total_during_range_mobile">%2$s: aprox. %1$s utilizaţi, conform tel. Contabilizarea operatorului dvs. poate diferi.</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: aprox. %1$s utilizaţi, conform raportului din telefon. Contabilizarea operatorului dvs. poate diferi.</string>
     <string name="data_usage_uninstalled_apps">Aplicaţii eliminate</string>
     <string name="data_usage_uninstalled_apps_users">Aplicaţii şi utilizatori eliminaţi</string>
     <string name="data_usage_warning_editor_title">Setaţi un avertisment de utilizare a datelor</string>
@@ -2923,8 +2923,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="high_power_filter_on">Neoptimizat</string>
     <string name="high_power_off">Utilizare optimizată a acumulatorului</string>
     <string name="high_power_on">Neoptimizat</string>
-    <string name="high_power_prompt_body">"Permițând aplicației %1$s să ruleze în fundal poate reduce durata de viață a acumulatorului.
-Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notificări."</string>
+    <string name="high_power_prompt_body">"Permițând aplicației %1$s să ruleze în fundal se poate reduce durata de viață a acumulatorului.
+Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări."</string>
     <string name="high_power_prompt_title">Permiteți aplicației să ruleze în fundal?</string>
     <string name="high_power_system">Optimizarea acumulatorului nu este disponibilă</string>
     <string name="history_details_title">Detalii istoric</string>
@@ -3338,13 +3338,13 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="location_title">Locaţia mea</string>
     <string name="lock_after_timeout">Blocare automată</string>
     <string name="lock_after_timeout_summary">%1$s după inactivitate</string>
-    <string name="lock_after_timeout_summary_with_exception">%1$s după inactivitate, exceptând cazul când este menținut activ de %2$s</string>
-    <string name="lock_failed_attempts_before_wipe">Încercați din nou. Încercarea %1$d din %2$d.</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s după inactivitate, exceptând cazul când este menținut activ de către %2$s</string>
+    <string name="lock_failed_attempts_before_wipe">Reîncercați. Încercarea %1$d din %2$d.</string>
     <string name="lock_failed_attempts_now_wiping_device">Prea multe încercări incorecte. Datele din acest dispozitiv vor fi șterse.</string>
     <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Îndepărtați</string>
     <string name="lock_failed_attempts_now_wiping_profile">Prea multe încercări incorecte. Acest profil de servici și datele acestuia vor fi șterse.</string>
     <string name="lock_failed_attempts_now_wiping_user">Prea multe încercări incorecte. Acest utilizator va fi șters.</string>
-    <string name="lock_immediately_summary_with_exception">Imediat după intrarea în standy, exceptând cazul în care este menținut deblocat de către %1$s</string>
+    <string name="lock_immediately_summary_with_exception">Imediat după intrarea în standby, exceptând cazul în care este menținut deblocat de către %1$s</string>
     <string name="lock_last_attempt_before_wipe_warning_title">Datele dumneavoastră vor fi șterse</string>
     <string name="lock_last_password_attempt_before_wipe_device">Dacă introduceți o parolă incorectă la următoarea încercare, datele din acest dispozitiv vor fi șterse</string>
     <string name="lock_last_password_attempt_before_wipe_profile">Dacă introduceți o parolă incorectă la următoarea încercare, profilul dvs de servici și datele acestuia vor fi șterse</string>
@@ -4974,8 +4974,8 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="radio_info_ims_feature_status_available">Disponibil</string>
     <string name="radio_info_ims_feature_status_unavailable">Indisponibil</string>
     <string name="radio_info_ims_reg_status">"Înregistrare IMS: %1$s
-Voce peste LTE: %2$s
-Voce peste Wi-Fi: %3$s
+Voce prin LTE: %2$s
+Voce prin Wi-Fi: %3$s
 Apel video: %4$s
 Interfață UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">Neînregistrat</string>
@@ -7927,10 +7927,10 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="zen_access_detail_switch">Permiteți Nu deranjați</string>
     <string name="zen_access_disabled_package_warning">Trebuie pornit deoarece accesul la notificări este activ</string>
     <string name="zen_access_empty_text">Nicio aplicație instalată nu a solicitat accesul la modul Nu deranjați</string>
-    <string name="zen_access_revoke_warning_dialog_summary">Toate regulile Nu deranjați create de această aplicație vor fi eliminate.</string>
-    <string name="zen_access_revoke_warning_dialog_title">Revocați accesul la Nu deranjați pentru %1$s?</string>
+    <string name="zen_access_revoke_warning_dialog_summary">Toate regulile modului Nu deranjați create de această aplicație vor fi eliminate.</string>
+    <string name="zen_access_revoke_warning_dialog_title">Revocați accesul la modul Nu deranjați pentru %1$s?</string>
     <string name="zen_access_warning_dialog_summary">Aplicația va putea porni/opri modul Nu deranjați și să modifice setările înrudite.</string>
-    <string name="zen_access_warning_dialog_title">Permiteți accesul la Nu deranjați pentru %1$s?</string>
+    <string name="zen_access_warning_dialog_title">Permiteți accesul la modul Nu deranjați pentru %1$s?</string>
     <string name="zen_alarm_warning">Nu veți auzi următoarea alarmă %1$s</string>
     <string name="zen_alarm_warning_indef">Nu veți auzi următoarea alarmă %1$s decât dacă dezactivați această caracteristică înainte</string>
     <string name="zen_calls_summary_contacts_repeat">De la contacte și apelurile repetate</string>

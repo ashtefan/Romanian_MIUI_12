@@ -14,6 +14,6 @@
     </plurals>
     <plurals name="view_all_browsers">
         <item quantity="other">Vizualizați toate cele %d browsere</item>
-        <item quantity="one">Vizualizați %d browser-ul</item>
+        <item quantity="one">Vizualizați %d browser</item>
     </plurals>
 </resources>

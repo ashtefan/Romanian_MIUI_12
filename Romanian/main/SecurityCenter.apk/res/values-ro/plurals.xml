@@ -185,7 +185,7 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">Conectați cel puțin %d punct</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Ațteptați %d secunde și încercați din nou. "</item>
+        <item quantity="other">"Așteptați %d secunde și încercați din nou. "</item>
         <item quantity="one">"Așteptați %d secundă și încercați din nou. "</item>
     </plurals>
     <plurals name="manual_white_list_header">

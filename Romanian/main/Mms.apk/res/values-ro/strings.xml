@@ -929,7 +929,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
     <string name="view_message_details">Afişaţi detaliile</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Trimitere în %d s</string>
+    <string name="warning_show">Trimitere în %ds</string>
     <string name="wild_msg_processing">Procesare…</string>
     <string name="wild_msg_title">Selectați numerele de telefon pentru sincronizare</string>
     <string name="yellowpage_recommend_msg">"Descoperiți caracteristicile serviciului de mesagerie MIUI"</string>

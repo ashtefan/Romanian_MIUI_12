@@ -432,9 +432,9 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_health_title_text">Starea acumulatorului</string>
     <string name="battery_health_voltage_text">Tensiunea acumulatorului</string>
     <string name="battery_history_activity_title">Istoric</string>
-    <string name="battery_history_days">%1$d z %2$d h %3$d m şi %4$d s</string>
-    <string name="battery_history_hours">%1$d h %2$d m şi %3$d s</string>
-    <string name="battery_history_minutes">%1$d m şi %2$d s</string>
+    <string name="battery_history_days">%1$dz %2$dh %3$dm şi %4$d s</string>
+    <string name="battery_history_hours">%1$dh %2$dm şi %3$ds</string>
+    <string name="battery_history_minutes">%1$dm şi %2$ds</string>
     <string name="battery_history_seconds">%1$d sec.</string>
     <string name="battery_low_button_not_open_power_save">Nu acum</string>
     <string name="battery_low_button_open_power_save">Activați</string>
@@ -965,7 +965,7 @@ cardul de sănătate"</string>
     <string name="firewall_fragment_sys_listempty">Gol</string>
     <string name="firewall_mobile">Date mobile</string>
     <string name="firewall_mobile_dialog_message">"Aplicația instalată nu se va putea conecta la internet prin date mobile când aceast comutator este inactiv."</string>
-    <string name="firewall_network_allow">S-a permis ca %1$s să utilizeze %2$s conexiunea</string>
+    <string name="firewall_network_allow">S-a permis ca %1$s să utilizeze conexiunea %2$s</string>
     <string name="firewall_network_restrict_notify_message">Atingeţi pentru a modifica setările.</string>
     <string name="firewall_network_restrict_notify_mobile">Date mobile</string>
     <string name="firewall_partial">Permite unor aplicații conectarea utilizând metoda următoare​</string>
@@ -1751,23 +1751,23 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_main_activity_back">Înapoi</string>
-    <string name="pc_main_battery_text_day">S-au adăugat %1$s m, aproximativ %2$s z rămase</string>
-    <string name="pc_main_battery_text_day_hour">S-au adăugat %1$s m, aproximativ %2$s z și %3$s h rămase</string>
-    <string name="pc_main_battery_text_hour">S-au adăugat %1$s m, aproximativ %2$s h rămase</string>
-    <string name="pc_main_battery_text_hour_minute">S-au adăugat %1$s m, aproximativ %2$s h și %3$s m rămase</string>
-    <string name="pc_main_battery_text_minute">S-au adăugat %1$s m, aproximativ %2$s m rămase</string>
-    <string name="pc_main_power_manager_day_hour">%1$s z și %2$s h până la încărcarea completă</string>
-    <string name="pc_main_power_manager_hour_minute">%1$s h și %2$s m până la încărcarea completă</string>
-    <string name="pc_main_sub_battery_text_day_hour">%1$s z și %2$s h rămase</string>
-    <string name="pc_main_sub_battery_text_hour_minute">%1$s h și %2$s m rămase</string>
+    <string name="pc_main_battery_text_day">S-au adăugat %1$sm, aproximativ %2$sz rămase</string>
+    <string name="pc_main_battery_text_day_hour">S-au adăugat %1$sm, aproximativ %2$sz și %3$sh rămase</string>
+    <string name="pc_main_battery_text_hour">S-au adăugat %1$sm, aproximativ %2$sh rămase</string>
+    <string name="pc_main_battery_text_hour_minute">S-au adăugat %1$sm, aproximativ %2$sh și %3$sm rămase</string>
+    <string name="pc_main_battery_text_minute">S-au adăugat %1$sm, aproximativ %2$sm rămase</string>
+    <string name="pc_main_power_manager_day_hour">%1$sz și %2$sh până la încărcarea completă</string>
+    <string name="pc_main_power_manager_hour_minute">%1$sh și %2$sm până la încărcarea completă</string>
+    <string name="pc_main_sub_battery_text_day_hour">%1$sz și %2$sh rămase</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$sh și %2$sm rămase</string>
     <string name="pc_search_keywords_battery">Acumulator</string>
     <string name="pc_search_keywords_battery_save">Economisirea acumulatorului</string>
     <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Setări acumulator și performanță</string>
-    <string name="pc_statistics_battery_last_hour_minute">%1$d h și %2$d m rămase</string>
-    <string name="pc_statistics_battery_use_hour_minute">%1$d h și %2$d m de la ultima încărcare</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
     <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare completă</string>
     <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
@@ -1890,8 +1890,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_dialog_super_save_msg_5g">Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici (de ex. conectivitatea 5G) care scad performanța dispozitivului dvs. Doar apelurile, mesajele și conexiunea la rețea nu vor fi afectate. Activați ultra economisirea acumulatorului?"</string>
     <string name="power_dialog_super_save_title">Ultra economisire a acumulatorului</string>
     <string name="power_idle">Telefon inactiv</string>
-    <string name="power_main_battery_last_day_hour">%1$s z și %2$s h rămase</string>
-    <string name="power_main_battery_last_hour_minute">%1$s h și %2$s m rămase</string>
+    <string name="power_main_battery_last_day_hour">%1$sz și %2$sh rămase</string>
+    <string name="power_main_battery_last_hour_minute">%1$sh și %2$sm rămase</string>
     <string name="power_optimize_auto_catagory_title">Probleme acumulator</string>
     <string name="power_optimize_battery_save_idea">Optimizați utilizarea acumulatorului</string>
     <string name="power_optimize_battery_save_more">Mai multe</string>
@@ -2609,10 +2609,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="third_desktop_dialog_ok">Am înțeles</string>
     <string name="third_desktop_dialog_title">Eroare</string>
     <string name="three_percent_total_pkg">%s (3%% din datele lunare)</string>
-    <string name="timeshow_h">%.1f h</string>
-    <string name="timeshow_h_int">%d h</string>
-    <string name="timeshow_m">%d m</string>
-    <string name="timeshow_s">%d s</string>
+    <string name="timeshow_h">%.1fh</string>
+    <string name="timeshow_h_int">%dh</string>
+    <string name="timeshow_m">%dm</string>
+    <string name="timeshow_s">%ds</string>
     <string name="tips_dialog_title">"Nu cunoaşteţi limita"</string>
     <string name="tips_message">"Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Ștergeți aplicațiile rar utilizate pentru a elibera spațiu de stocare</string>
@@ -2716,7 +2716,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
 
 Acceptați această valoare?"</string>
     <string name="traffic_config_alert_body_extra">"
-Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual."</string>
+Ați procurat %1$s date suplimentare în această lună. Aceasta diferă de %2$s pe care i-aţi adăugat manual."</string>
     <string name="traffic_config_alert_body_extra_notset">"
 Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual."</string>
     <string name="traffic_config_alert_body_leisure">"

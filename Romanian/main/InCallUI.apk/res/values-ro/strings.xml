@@ -161,7 +161,7 @@
     <string name="livetalk_hangup">Încheiați apelul</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
     <string name="manager_conference_done">Finalizat</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="msim_select_default_time_left">(%ds)</string>
     <string name="network_error_message">Încercați să efectuaţi un apel obișnuit. Acesta va fi taxat de către operator.</string>
     <string name="network_error_title">Eroare de reţea</string>
     <string name="no_call_back_message">Conectarea durează prea mult. Efectuați un apel obișnuit(veți fi taxat de către operator).</string>
