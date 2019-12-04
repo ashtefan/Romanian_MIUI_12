@@ -1999,6 +1999,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_vol_stream_title">Control volum flux implicit</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_fingerprint_confirm_msg">Eliminați amprenta?</string>
+    <string name="delete_fingerprint_confirm_title">Atenție</string>
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
     <string name="delete_legacy_fingerprint">Ștergeți</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
@@ -3540,6 +3541,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
     <string name="lockscreen_label">Ecran de blocare</string>
     <string name="lockscreen_magazine">Carusel imagini de fundal</string>
+    <string name="lockscreen_magazine_india">Priviți către Mi</string>
     <string name="lockscreen_magazine_summary">Imagini uimitoare și povești interesante livrate zilnic</string>
     <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
