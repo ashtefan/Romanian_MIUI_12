@@ -43,7 +43,8 @@
     <string name="about">Despre Muzică Mi</string>
     <string name="account">Cont</string>
     <string name="account_and_cloud">Cont</string>
-    <string name="action_item_add">Adăugaţi</string>
+    <string name="account_logout">Deconectați-vă</string>
+    <string name="action_item_add">Adăugaţi în</string>
     <string name="action_item_add_song">Adăugaţi în lista de redare</string>
     <string name="action_item_add_to_current_playlist">Lista de redare curentă</string>
     <string name="action_item_add_to_favorite_playlist">Lista de redare favorită</string>
@@ -77,6 +78,8 @@
     <string name="agreement_desc">Acordul Utilizatorului (obligatoriu)</string>
     <string name="alaka_required">Ar trebui să plătiți pentru a asculta această melodie</string>
     <string name="alarm_clock_ringtones_successful">Alarmă setată cu succes</string>
+    <string name="album_cover">Coperta albumului</string>
+    <string name="album_is_empty">Numele albumului nu poate fi necompletat.</string>
     <string name="album_label">Coperți de album</string>
     <string name="album_name">Album</string>
     <string name="album_search_title">Album</string>
@@ -135,7 +138,9 @@
     <string name="auto_download_in_wifi">Descărcați melodiile favorite prin Wi-Fi</string>
     <string name="auto_payment">Reînnoire automată</string>
     <string name="auto_payment_date">Următoarea plată: %s</string>
+    <string name="auto_recommend">Auto (recomandat)</string>
     <string name="auto_restart_under_wifi">Fișierul se va descărca în mod automat când veți fi conectat la Wi-Fi</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_upgrade">Actualizați în mod automat</string>
     <string name="auto_update">Actualizați în mod automat</string>
     <string name="auto_update_tip">Puteți actualiza aplicațiile de sistem utilizând datele mobile. Acest lucru poate genera taxe suplimentare.</string>
@@ -175,7 +180,7 @@
     <string name="choose_download_quality">Selectaţi calitatea descărcării</string>
     <string name="choose_music_lang_pref">Limba preferată pentru melodii</string>
     <string name="choose_stream_quality">Selectaţi calitatea fluxului de redare</string>
-    <string name="click_modify">Atingeți pentru a edita versurile.</string>
+    <string name="click_to_add_album_cover_and_lyric">Atingeți pentru a adăuga coperta albumului și versurile</string>
     <string name="click_to_shuffle">Atingeţi pentru a amesteca</string>
     <string name="close_music_time">"Timp rămas: "</string>
     <string name="cloud_empty_local_empty_button">Nicio melodie pe acest telefon</string>
@@ -382,7 +387,7 @@
     <string name="download_running">În curs</string>
     <string name="download_running_percent">În curs, %d%%</string>
     <string name="download_share_dialog">Partajați prin</string>
-    <string name="download_speed_null"/>
+    <string name="download_song_quality_title">Calitatea melodiilor descărcate</string>
     <string name="download_start">Pornire descărcare…</string>
     <string name="download_start_apk">Se pornește descărcarea… Vedeți progresul în Perdeaua de notificări.</string>
     <string name="download_start_btn">Descărcați</string>
@@ -533,6 +538,7 @@
     <string name="fragment_title_recommend">Recomandate</string>
     <string name="garbage_cleanup">Curățare</string>
     <string name="gcm_fallback_notification_channel_label">Diverse</string>
+    <string name="get_more_favorite_content_after_login">Conectați-vă pentru a descoperi mai multe melodii și videoclipuri.</string>
     <string name="global_search_app_name">Muzică</string>
     <string name="global_search_description_entry">Savurați muzică</string>
     <string name="global_search_description_hot">Actualizări săptămânale</string>
@@ -561,6 +567,7 @@
     <string name="global_search_title_movie">Coloane sonore</string>
     <string name="global_search_title_prenatal">Muzică prenatală</string>
     <string name="global_search_title_radar">Recunoaștere melodii</string>
+    <string name="google_account_login">Conectați-vă prin Google</string>
     <string name="goto_local_search">Căutați pe dispozitiv</string>
     <string name="goto_online_search">Căutați online</string>
     <string name="handle_later">Nu acum</string>
@@ -570,6 +577,7 @@
     <string name="headset_and_audio_effect_title">Căști și efecte audio</string>
     <string name="hide_album">Ascundeți coperta de album</string>
     <string name="hide_lyric">Ascundeți versurile</string>
+    <string name="high_sound_quality">Înaltă</string>
     <string name="higher_quality_music">Muzică la calitate superioară</string>
     <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică la calitate superioară</string>
     <string name="home_tab_home">Acasă</string>
@@ -587,7 +595,7 @@
     <string name="hungama_category_playlist">Liste de redare</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videoclipuri</string>
-    <string name="hungama_category_vip">Vip</string>
+    <string name="hungama_category_vip">Pro</string>
     <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru PRO pentru a descărca nelimitat melodii?"</string>
     <string name="hungama_free_download_out_summary_toast">Ați descărcat deja %d melodii. Obțineți un abonament să descărcați mai multe.</string>
     <string name="hungama_playlist_category">Categorie listă de redare</string>
@@ -649,9 +657,10 @@
     <string name="local_page_song_all">Toate melodiile</string>
     <string name="local_page_song_download">Melodii din telefon</string>
     <string name="local_page_song_download_history">Descărcări</string>
-    <string name="local_page_song_favorite">Melodii favorite</string>
-    <string name="local_tracks_short">Muzică locală</string>
-    <string name="log_out">Ieșiți</string>
+    <string name="login_instantly">Conectați-vă</string>
+    <string name="login_mi_account_and_gain_more_rights">Conectați-vă cu contul Mi pentru a avea acces la funcții suplimentare.</string>
+    <string name="long_press_to_select_lyric">Apăsați și mențineți apăsat pentru a selecta fișierul local cu versuri</string>
+    <string name="low_sound_quality">Scăzută</string>
     <string name="lrc_search_failed">"Nu s-au găsit versurile"</string>
     <string name="lrc_searching">Căutare…</string>
     <string name="lyric">Versuri</string>
@@ -685,6 +694,7 @@
     <string name="metered_serious_alert_msg_with_beyond_data">"Ați depășit deja limita de trafic prin date mobile cu %s. Utilizați datele mobile pentru a reda melodii?"</string>
     <string name="metered_serious_alert_msg_with_data">Mai aveți doar %s date mobile disponibile. Utilizați datele mobile pentru a reda melodii?</string>
     <string name="metered_serious_allow">Redați oricum</string>
+    <string name="middle_sound_quality">Standard</string>
     <string name="milink_unavaliable_please_update">"Funcția Mi Link nu este disponibilă. Actualizați MIUI."</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Necunoscut&gt;</string>
@@ -730,6 +740,7 @@
     <string name="multichoice">Selectaţi</string>
     <string name="music_browser_label">Muzică</string>
     <string name="music_filter">Filtrare fişiere audio</string>
+    <string name="music_recommendation">Recomandări melodii</string>
     <string name="music_service">Serviciul Muzică Mi</string>
     <string name="music_settings">Muzică</string>
     <string name="mv_metered_play_summary">"Nu afișa avertismentul pentru utilizarea datelor​"</string>
@@ -747,6 +758,7 @@
     <string name="network_traffic">Utilizare date</string>
     <string name="news_mark">NOUTĂȚI</string>
     <string name="next_time">Nu acum</string>
+    <string name="next_to_play">Următoarea</string>
     <string name="no_album_info">Nu există informaţii despre album</string>
     <string name="no_artist_info">Nu există informaţii despre artist</string>
     <string name="no_downloads">Nu există descărcări</string>
@@ -757,6 +769,7 @@
     <string name="no_local_songs">Gol</string>
     <string name="no_local_songs_selected">"Nu se pot trimite melodii deoarece nu au fost descărcate"</string>
     <string name="no_local_source_find">"Nu s-a putut găsi melodia"</string>
+    <string name="no_longer_prompt">Nu arăta din nou</string>
     <string name="no_results_return">Niciun rezultat al căutării</string>
     <string name="no_scanned_songs">Gol</string>
     <string name="no_song">Nicio melodie</string>
@@ -820,9 +833,11 @@
     <string name="online_service_title">Servicii online</string>
     <string name="online_special">Speciale</string>
     <string name="online_switch">Servicii de conținut online</string>
+    <string name="online_switch_confirm_title">Dezactivarea serviciilor de conținut online va face indisponibile toate funcțiile online. Dezactivați oricum?</string>
     <string name="online_switch_message">Dezactivarea serviciilor online va afecta serviciile VIP și recomandările. Dezactivați oricum?</string>
     <string name="online_switch_setting">Setări conținut online</string>
     <string name="open_download">Deschideți</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD audio este disponibil doar membrilor PRO</string>
     <string name="open_online_service">Trebuie să activați serviciile online pentru a utiliza această caracteristică. Activați acum?</string>
     <string name="open_service">Activați</string>
     <string name="operation_done_close">Închideţi</string>
@@ -857,6 +872,8 @@
     <string name="pick_local_song">Melodii locale</string>
     <string name="pick_recent_song">Redate recent</string>
     <string name="play_all_song">Redaţi tot</string>
+    <string name="play_empty_playlist">Nu se pot reda melodii. Lista de redare este goală.</string>
+    <string name="play_history">Istoricul de redare</string>
     <string name="play_mode_all_loop">Repetați toate</string>
     <string name="play_mode_one_loop">În buclă</string>
     <string name="play_mode_play_all">Redați toate</string>
@@ -939,7 +956,9 @@
     <string name="recommend_fragment_title">Recomandate</string>
     <string name="recommended_file_size_download_in_mobile">Utilizați %s din datele mobile pentru a descărca acest fișier?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizați conexiunea de date mobile pentru a descărca acest fișier?</string>
-    <string name="remaining">Rămas în această lună:</string>
+    <string name="recommend_songs_when_playing_audio_files">Obțineți recomandări de melodii în timp ce ascultați muzică</string>
+    <string name="recommended_file_size_download_in_mobile">Utilizați %s date mobile pentru a descărca acest fișier?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Utilizați conexiunea de date mobile pentru a descărca acest fișier?</string>
     <string name="remove">Eliminaţi</string>
     <string name="remove_download">Eliminați</string>
     <string name="renew_dialog_title">"Go Pro
@@ -970,6 +989,7 @@ Be Happy"</string>
     <string name="s6">Permiteți serviciului de Reclame să creeze un eveniment în calendar?</string>
     <string name="s7">Testați serviciul de Reclame</string>
     <string name="save_changes">Salvați modificările</string>
+    <string name="save_image">Salvați imaginea</string>
     <string name="search_album_and_lyric">Căutați coperți de albume și versuri</string>
     <string name="search_empty">"Nu s-a găsit nimic"</string>
     <string name="search_empty_subtitle_online_music">Atingeți butonul de mai jos pentru a deschide %s.</string>
@@ -998,8 +1018,10 @@ Be Happy"</string>
     <string name="select_desc_sub">Puteți selecta până la 3 limbi</string>
     <string name="select_device">Selectaţi dispozitivul</string>
     <string name="select_displayed_folders">Selectaţi dosarele de afișat</string>
-    <string name="select_local_album">Selectaţi un album</string>
-    <string name="select_local_lyric">Selectaţi versurile</string>
+    <string name="select_local_album_cover">Selectați imaginea</string>
+    <string name="select_local_cover">Selectați coperta locală</string>
+    <string name="select_local_lyric">Selectaţi fișierul</string>
+    <string name="select_local_lyric_file">Selectați fișerul local cu versuri</string>
     <string name="select_none">Deselectaţi tot</string>
     <string name="select_one_language">Selectați cel puțin o limbă</string>
     <string name="select_three_languages">Puteți selecta până la 3 limbi</string>
@@ -1066,7 +1088,7 @@ Be Happy"</string>
     <string name="song_not_find">"Această melodie nu este disponibilă."</string>
     <string name="song_offline">Această melodie nu mai este disponibilă.</string>
     <string name="song_picker_complete">Finalizat</string>
-    <string name="song_unit">elemente</string>
+    <string name="song_quality_category">Muzică</string>
     <string name="songgroup_pick_album">Albume</string>
     <string name="songgroup_pick_playlist">Liste de redare</string>
     <string name="sort_by_name">Nume</string>
@@ -1086,6 +1108,7 @@ Be Happy"</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
+    <string name="switch_success">Comutat cu succes</string>
     <string name="sync_only_in_wifi">Se sincronizează doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Sincronizaţi muzica între toate dispozitivele cu Mi Cloud. Utilizarea conexiunii de date mobile pentru a sincroniza muzica va creşte utilizarea datelor. Dacă depăşiţi limita de date din planul dvs, operatorul ar putea percepe taxe suplimentare.</string>
     <string name="tab_album">Albume</string>
@@ -1093,6 +1116,7 @@ Be Happy"</string>
     <string name="tab_artist">Artişti</string>
     <string name="tab_artist_list">Artişti</string>
     <string name="tab_chart">Topuri</string>
+    <string name="tab_flow">Vedeți</string>
     <string name="tab_folder">Dosare</string>
     <string name="tab_playlist">Liste de redare</string>
     <string name="tab_top_results">Top rezultate</string>
@@ -1166,6 +1190,7 @@ Be Happy"</string>
     <string name="track_list_control_play">Redaţi</string>
     <string name="track_main_fragment_tab_album">Albume</string>
     <string name="track_main_fragment_tab_track">Melodii</string>
+    <string name="track_play_history_after_login">Conectați-vă pentru a vedea istoricul de redare</string>
     <string name="track_search_title">Pistă</string>
     <string name="track_view">Melodie</string>
     <string name="trigger_to_scan_media_library_finish">Reîmprospătat</string>
@@ -1192,6 +1217,7 @@ Be Happy"</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="version_info">Versiune</string>
+    <string name="vhigh_sound_quality">HD</string>
     <string name="video_play_cellular">"Dispozitivul dvs. nu este conectat la Wi-Fi. Utilizați datele mobile?"</string>
     <string name="video_replay_btn">Redați din nou</string>
     <string name="video_retry_btn">Încercați din nou</string>

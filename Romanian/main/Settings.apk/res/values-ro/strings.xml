@@ -1490,7 +1490,7 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="checking_decryption">Verificare…</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">Verificare actualizări…</string>
-    <string name="child_mode_settings">Control parental</string>
+  <string name="chip_text">Fragment de text</string>
     <string name="choose_a_card_to_reset">Selectați cartela SIM pe care doriți să o resetați</string>
     <string name="choose_keyguard_clock_style">Formatul ceasului din Blocarea ecranului</string>
     <string name="choose_keyguard_clock_summary">"Această setare nu funcționează cu temele provenite din terțe părți"</string>
@@ -1651,7 +1651,7 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="connected_device_connections_title">Preferințe conexiune</string>
     <string name="connected_device_previously_connected_screen_title">Conectat anterior</string>
     <string name="connected_device_previously_connected_title">Dispozitive conectate anterior</string>
-    <string name="connected">Conectat</string>
+    <string name="connected_device_saved_title">Dispozitive salvate</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
     <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth, NFC</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mod condus</string>
@@ -1702,9 +1702,9 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="credentials_configure_lock_screen_hint">Trebuie să setaţi o parolă numerică sau una complexă pentru Blocarea ecranului înainte de a putea utiliza spaţiul de stocare a certificatelor.</string>
     <string name="credentials_enabled">Stocarea acreditărilor este activată.</string>
     <string name="credentials_erased">Stocarea acreditărilor este ştearsă.</string>
-    <string name="credentials_install">Instalaţi de pe cardul SD</string>
-    <string name="credentials_install_summary">Instalaţi certificate de pe cardul SD</string>
-    <string name="credentials_not_erased">Nu s-a şters spațiul de stocare al cert.</string>
+    <string name="credentials_install">Instalaţi din spațiul de stocare</string>
+    <string name="credentials_install_summary">Instalaţi certificate din spațiul de stocare</string>
+    <string name="credentials_not_erased">Nu s-a putut şterge spațiul de stocare al certificatelor.</string>
     <string name="credentials_old_password">Parola actuală:</string>
     <string name="credentials_password_too_short">Minim 8 caractere</string>
     <string name="credentials_reset">Ştergeţi acreditările</string>
@@ -1923,7 +1923,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="date_time_24hour">Utilizaţi formatul de 24 de ore</string>
     <string name="date_time_24hour_auto">Utilizați formatul local implicit</string>
     <string name="date_time_24hour_title">Format de 24 ore</string>
-    <string name="date_time_auto">Dată şi oră automate</string>
+    <string name="date_time_auto">Utilizați ora furnizată de rețea</string>
     <string name="date_time_auto_summaryOff">Utilizaţi ora furnizată de reţea</string>
     <string name="date_time_auto_summaryOn">Utilizaţi ora furnizată de reţea</string>
     <string name="date_time_search_region">Căutare regiune</string>

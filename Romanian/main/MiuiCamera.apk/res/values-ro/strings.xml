@@ -785,7 +785,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
     <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5x</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LARG</string>
-    <string name="pref_camera_zoom_mode_entry_ultra_abbr">UL</string>
+    <string name="pref_camera_zoom_mode_entry_ultra_abbr">ULTRA LARG</string>
     <string name="pref_camera_zoom_mode_entry_wide">LARG</string>
     <string name="pref_camera_zoom_mode_entry_wide_abbr">LARG</string>
     <string name="pref_camera_zoom_mode_title">LENTILE</string>
