@@ -1283,6 +1283,19 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="mr_dialog_transferable_header">Redați într-un grup</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
+    <string name="multi_face_delete_message">Atenție</string>
+    <string name="multi_face_delete_show_message">Ștergeți datele faciale acum?</string>
+    <string name="multi_face_input">Adăugați date faciale</string>
+    <string name="multi_face_input_enroll">Adăugați date faciale</string>
+    <string name="multi_face_input_enrolling">Se adaugă datele faciale…</string>
+    <string name="multi_face_input_reach_upper_limit">Nu s-au putut adăuga datele faciale. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="multi_face_input_success_msg_lift">Glisați în sus în Blocarea ecranului pentru a utiliza Deblocarea facială</string>
+    <string name="multi_face_input_success_msg_normal">Utilizați Deblocarea facială când se aprinde Blocarea ecranului</string>
+    <string name="multi_face_input_success_msg_slide">Glisați în jos în Blocarea ecranului pentru a utiliza Deblocarea facială</string>
+    <string name="multi_face_input_success_name_title">Nume</string>
+    <string name="multi_face_list">Date faciale</string>
+    <string name="multi_face_name_prefix">"Chip "</string>
+    <string name="multi_face_number_reach_limit">Nu se pot adăuga date pentru mai mult de 2 chipuri</string>
     <string name="mx_mcc">334</string>
     <string name="nav_bar">Bară de navigare</string>
     <string name="nav_bar_default">(implicit)</string>
@@ -1513,6 +1526,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cellular_detail_over_limit">Peste limită</string>
     <string name="quick_settings_cellular_detail_remaining_data">Date disponibile</string>
     <string name="quick_settings_cellular_detail_title">Date mobile</string>
+    <string name="quick_settings_cellular_detail_unable_change">Nu se poate seta în timpul unui apel</string>
     <string name="quick_settings_color_space_label">Mod Corecție de culoare</string>
     <string name="quick_settings_connect_success">Conectat</string>
     <string name="quick_settings_connected">Conectat</string>

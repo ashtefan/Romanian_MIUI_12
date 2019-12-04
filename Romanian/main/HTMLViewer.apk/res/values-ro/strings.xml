@@ -6,6 +6,7 @@
     <string name="app_version_which_call">Versiunea aplicației: %s</string>
     <string name="autoconnect">Conectare automată</string>
     <string name="ime_privacy_policy">Selectați tastatura</string>
+    <string name="legal_written_offer">Ofertă scrisă</string>
     <string name="license_host_unreachable">"Nu s-a putut conecta la rețea. Pentru a vedea informația acum, 
 accesați %s de pe alt dispozitiv conectat"</string>
     <string name="loading">Doar o secundă…</string>

@@ -162,6 +162,7 @@
     <string name="additional_gsm_call_settings_with_label">Setări adiționale (%s)</string>
     <string name="administrative_disable">Administrativ dezactivat</string>
     <string name="administrative_enable">Administrativ activat</string>
+    <string name="advanced_mobile_settings">Setări avansate</string>
     <string name="advanced_options_title">Avansate</string>
     <string name="advanced_settings">Setări opţionale</string>
     <string name="advanced_settings_hide">▽ Atingeţi pentru a le ascunde pe toate</string>
@@ -986,6 +987,7 @@ Selecție"</string>
     <string name="fiveg_power_secret_code_tip">operați aceasta prin aplicația de Securitate - Acumulator - Economisire 5G</string>
     <string name="fiveg_restrict_dcnr1">Restricție DCNR[Slot 1] :</string>
     <string name="fiveg_restrict_dcnr2">Restricție DCNR[Slot 2] :</string>
+    <string name="fiveg_sa_switch_title">Rețea SA</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G[Slot 1] :</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>
     <string name="fiveg_switch_status1">Stare comutare 5G[Slot 1] :</string>
@@ -1152,6 +1154,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="lte_band_sel_setting">lista benzilor</string>
     <string name="lte_band_set_status">setare bandă lte</string>
     <string name="lte_freq_set_button">setați frecv. și pci</string>
+    <string name="main_netcheck_summary">Testați conexiunea pentru a detecta probleme de rețea</string>
     <string name="maintenance_disable">Întreţinere dezactivată</string>
     <string name="maintenance_enable">Întreţinere activată</string>
     <string name="make_and_receive_calls">Realizare și preluare apeluri</string>
@@ -1193,6 +1196,9 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM-ul %s: Fără serviciu</string>
     <string name="mmiCancelled">Cod MMI anulat</string>
     <string name="mmiStarted">Cod MMI pornit</string>
+    <string name="mobile_advanced_dns_server_title">Adresa serverului DNS</string>
+    <string name="mobile_advanced_ip_address_title">Adresa IP</string>
+    <string name="mobile_connection_management">Gestionați conexiunea rețelei mobile</string>
     <string name="mobile_data">Date mobile</string>
     <string name="mobile_data_activate_button">ADĂUGAȚI DATE</string>
     <string name="mobile_data_activate_cancel_button">RENUNȚAȚI</string>
@@ -1215,6 +1221,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">În prezent în roaming, este necesar un plan de date</string>
     <string name="mobile_network_settings_not_available">Setările rețelei mobile nu sunt accesibile acestui cont de utilizator</string>
     <string name="mobile_networks">Setările reţelei mobile</string>
+    <string name="mobile_property">Proprietățile reţelei mobile</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
@@ -1285,6 +1292,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="name">Nume</string>
     <string name="national_disable">Știri naţionale dezactivate</string>
     <string name="national_enable">Știri naţionale activate</string>
+    <string name="netcheck_title">Diagnosticare rețea mobilă</string>
     <string name="network_1x">1x</string>
     <string name="network_2G">2G</string>
     <string name="network_3G">3G</string>

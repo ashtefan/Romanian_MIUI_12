@@ -260,7 +260,7 @@
         <item>Nu</item>
     </string-array>
     <string-array name="response_labels2">
-        <item>"Nu răspund"</item>
+        <item>Nu răspund</item>
         <item>Accept</item>
         <item>Decid mai târziu</item>
         <item>Nu accept</item>

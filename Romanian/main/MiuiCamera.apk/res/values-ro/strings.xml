@@ -189,6 +189,9 @@
     <string name="dialog_ok_time">OK (%ds)</string>
     <string name="dirty_tip_toast">Lentila este murdară. Curățați-o.</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
+    <string name="document_blackwhite">A/N</string>
+    <string name="document_origin">Original</string>
+    <string name="document_strengthen">Intensificat</string>
     <string name="dual_camera_lens_covered_toast">Lentilele sunt acoperite.</string>
     <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
     <string name="dual_camera_too_close_toast">Camera este prea aproape de obiect.</string>
@@ -264,9 +267,14 @@ dacă rotiți telefonul"</string>
     <string name="hint_groupshot_beauty">"Nu se poate utiliza modul Înfrumusețare în fotografiile de grup"</string>
     <string name="hint_mimovie">Fotografiați în modul peisaj pentru a obține cele mai bune efecte</string>
     <string name="hint_slow_motion">Videoclipul înregistrat va fi redat la viteză redusă.</string>
-    <string name="hint_subtitle">"Dictați subtitrarea în timp ce înregistrați videoclipul"</string>
+    <string name="hint_subtitle">Dictați subtitrarea în timp ce înregistrați videoclipul</string>
     <string name="hint_subtitle_prompt">Puteți dicta subtitrarea acum</string>
     <string name="hunt_dual_water_mark">Amprenta camerei duale va fi adăugată în mod automat.</string>
+    <string name="id_card_mode_hint_back">Scanați partea din spate a cărții de identitate</string>
+    <string name="id_card_mode_hint_front">Scanați partea din față a cărții de identitate</string>
+    <string name="id_card_mode_use_hint_text_body">"Combinați ambele părți ale cărții de identitate într-o singură imagine.
+Tipăriți copia pe o foaie A4 printr-o conexiune fără fir."</string>
+    <string name="id_card_mode_use_hint_text_title">Scanați cartea de identitate</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Instalați</string>
     <string name="lens_dirty_detected_content">"Se pare că lentila camerei este murdară.
@@ -417,6 +425,7 @@ să pară mai mari în fotografii"</string>
     <string name="not_enough_space">Stocarea internă este plină</string>
     <string name="object_track_enable_toast">Pentru a selcta un obiect, apăsați simultan două puncte de pe diagonala conturului.</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_prefix">PANO_</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Aliniați săgeata cu linia de referință</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continuaţi…</string>
     <string name="pano_how_to_use_prompt_slow_down">Mișcați-vă mai încet…</string>
@@ -576,6 +585,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_face_info_watermark_title">Adaugă informațiile despre vârstă în fotografii</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Ascunde în mod automat rama de detectare a chipului</string>
     <string name="pref_camera_facedetection_title">Detectare faţă</string>
+    <string name="pref_camera_first_tag_tips">Marcat cu succes</string>
     <string name="pref_camera_flashmode_entry_auto">Automat</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Lumină redusă</string>
     <string name="pref_camera_flashmode_entry_off">Dezactivat</string>
@@ -757,6 +767,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_video_duration_entry_30">30 de minute</string>
     <string name="pref_camera_video_duration_entry_mms">30 de secunde (MMS)</string>
     <string name="pref_camera_video_log_tips">LOG</string>
+    <string name="pref_camera_video_tag">Permiteți marcarea videoclipurilor</string>
+    <string name="pref_camera_video_tag_description">Apăsați butonul \"Marcaje\" în timpul filmării unui videoclip pentru a vă putea întoarce la momentele marcate când redați videoclipul</string>
     <string name="pref_camera_volumekey_function_default">temporizator</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Obturator</string>
     <string name="pref_camera_volumekey_function_entry_timer">Declanșarea inversă a obturatorului</string>
@@ -794,6 +806,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_zsl_entry_off">Activat</string>
     <string name="pref_camera_zsl_entry_on">Dezactivat</string>
     <string name="pref_capture_settings">Camera</string>
+    <string name="pref_document_mode">Documente</string>
     <string name="pref_face_beauty_title">Înfrumuseţare</string>
     <string name="pref_fingerprint_capture_title">Declanșare prin amprentă</string>
     <string name="pref_front_mirror_entry_auto">Când este detectată fața</string>
@@ -970,6 +983,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
+    <string name="video_tag_flag_title">Marcaje</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">8K UHD</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>

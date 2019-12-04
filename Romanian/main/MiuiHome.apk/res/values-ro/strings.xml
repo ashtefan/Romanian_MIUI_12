@@ -112,6 +112,7 @@
     <string name="cate_order_reset">Resetați</string>
     <string name="category_already_exists">Această categorie există deja</string>
     <string name="category_cannot_empty">Introduceți mai întâi categoria</string>
+    <string name="category_choose_no_app_select_tip">Fiecare categorie trebuie să conțină cel puțin o aplicație.</string>
     <string name="category_drawer_name_hint">Introduceți numele categoriei</string>
     <string name="category_group">Categorisiți aplicațiile</string>
     <string name="category_group_summary">Categorisiți aplicațiile din Sertarul de aplicații</string>

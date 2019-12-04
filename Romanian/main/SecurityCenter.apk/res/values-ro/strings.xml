@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">modificare și ștergere jurnal apeluri</string>
+    <string name="HIPS_Perm_Call_Desc">apelare directă a numerelor de telefon</string>
+    <string name="HIPS_Perm_Contact_Desc">modificare și ștergere contacte</string>
+    <string name="HIPS_Perm_PhoneID_Desc">accesare număr de telefon, IMEI și IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Accesare număr de telefon și stare dispozitiv</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">citire istoric de apelare</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">citire contacte</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">citire mesaje SMS</string>
+    <string name="HIPS_Perm_SendSMS_Desc">trimitere directă de mesaje SMS</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">adăugare mesaje vocale de sistem</string>
+    <string name="HIPS_Perm_get_accounts_Desc">accesare conturi stocate în dispozitiv</string>
+    <string name="HIPS_Perm_use_sip_Desc">utilizare Protocol Inițiere Sesiune pentru redare videoclipuri</string>
     <string name="Phonepass">Permite apeluri</string>
     <string name="SMS_and_MMS">SMS şi MMS</string>
     <string name="SMSpass">Permite SMS-uri</string>
@@ -1778,6 +1790,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evitați supraîncălzirea și problemele legate de partea hardware</string>
     <string name="perfermance_optimization_title">Optimizarea performanței</string>
+    <string name="permdesc_in_calls">Monitorizarea apelurilor primite</string>
+    <string name="permdesc_out_calls">Monitorizarea apelurilor efectuate</string>
     <string name="permgroupdesc_calendar">Accesarea evenimentelor din calendar</string>
     <string name="permgroupdesc_calllog">Accesarea și salvarea elementelor în istoricul de apelare</string>
     <string name="permgroupdesc_camera">Realizarea de fotografii și înregistrarea de videoclipuri</string>
@@ -1841,14 +1855,17 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_battery_last">%s rămas</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_dialog_msg_bottom">Puteți crește durata de viață a acumulatorului cu %1$dh și %2$dm. Activați Economisirea acumulatorului?</string>
+    <string name="power_center_dialog_msg_title">Activați pentru a obține %1$s timp suplimentar. Următoarele acțiuni vor fi realizate pentru a economisi energia acumulatorului:</string>
     <string name="power_center_dialog_msg_top">Când Economisirea acumulatorului este activă, MIUI va face următoarele optimizări:</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
+    <string name="power_center_list_item_haptic_feedback">Dezactivați feedback-ul optic</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Blocați dispozitivul după %d secunde de inactivitate</string>
+    <string name="power_center_list_item_wake_notification">Nu porni ecranul pentru notificări</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_one_key_save">Optimizați</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
@@ -1902,6 +1919,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_disable_5g">Restricționați conectivitatea 5G</string>
     <string name="power_optimize_disable_app_autostart">Împiedicați pornirea automată a aplicațiilor</string>
     <string name="power_optimize_disable_gps">Dezactivați GPS-ul</string>
+    <string name="power_optimize_disable_gps_high_accuracy">Dezactivați modul de localizare cu acuratețe ridicată</string>
     <string name="power_optimize_disable_start_other_app">Preveniți pornirea aplicațiilor de către alte aplicații</string>
     <string name="power_optimize_loading">Încărcare</string>
     <string name="power_optimize_open_hide_mode">Activați Economisirea acumulatorului</string>
@@ -1911,18 +1929,23 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_mode">Economisire acumulator</string>
     <string name="power_save_mode_auto_exit_summary">Dezactivați când acumulatorul are peste 60% sau este încărcat complet​</string>
     <string name="power_save_mode_auto_exit_title">Dezactivați când este încărcat</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Funcționează când este activă Economisirea acumulatorului</string>
+    <string name="power_save_mode_close_notification_screenon_title">Nu trezi ecranul pentru notificări</string>
     <string name="power_save_mode_close_warn_text">Economisirea acumulatorului restricționează activitățile din fundal și sincronizarea. Dacă alegeți să o utilizați când acumulatorul este încărcat, unele catacteristici pot funcționa necorespunzător. Păstrați Economisirea acumulatorului activă când telefonul este încărcat?</string>
     <string name="power_save_mode_close_warn_title">Economisire acumulator</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">Funcționează când este activă Economisirea acumulatorului</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">Nu declanșa vocal Mi AI</string>
     <string name="power_save_mode_enable">Economisire acumulator</string>
     <string name="power_save_mode_end_time">Sfârșit</string>
     <string name="power_save_mode_ontime_enabled">Programați comutarea modurilor</string>
+    <string name="power_save_mode_other_optimization">Optimizare opțională</string>
     <string name="power_save_mode_start_time">Start</string>
     <string name="power_save_mode_summary">Monitorizează procesele în fundal și dezactivează sincronizarea.</string>
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
-    <string name="power_save_ps_close_setting">Se dezactivează serviciile de fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
-    <string name="power_save_ps_close_setting_5g">Restricționează caracteristicile energofage (sincronizarea, conectivitatea 5G, GPS-ul)</string>
+    <string name="power_save_ps_close_setting">Dezactivează serviciile și caracteristicile energofage (sincronizare, GPS, feedback optic, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_close_setting_5g">Restricționează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, GPS, feedback optic, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
     <string name="power_save_settings">Setări pentru acumulator</string>
@@ -2499,6 +2522,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="system_permission_declare_use_network_no_permission">Conectați-vă la rețea</string>
     <string name="system_permission_declare_user_agreement">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">Apeluri</string>
+    <string name="system_permission_perm_optional">" (opțional)"</string>
     <string name="system_permission_perm_read_mms">Citire MMS-uri</string>
     <string name="system_permission_perm_read_numbers">Citire numere de telefon</string>
     <string name="system_permission_perm_send_mms">Trimitere MMS-uri</string>

@@ -60,11 +60,11 @@ Actualizaţi acum?"</string>
     <string name="account_settings_servers">Setări server</string>
     <string name="account_settings_summary">Frecvenţa sincronizării, notificări, etc.</string>
     <string name="account_settings_sync_calendar_enable">Sincronizaţi calendarul</string>
-    <string name="account_settings_sync_calendar_summary">Sincron. evenim. calendar pt. cont</string>
+    <string name="account_settings_sync_calendar_summary">Sincronizează evenimentele din calendar pentru acest cont</string>
     <string name="account_settings_sync_contacts_enable">Sincronizaţi contactele din agendă</string>
-    <string name="account_settings_sync_contacts_summary">Sincron. agenda pt. acest cont</string>
+    <string name="account_settings_sync_contacts_summary">Sincronizează agenda pentru acest cont</string>
     <string name="account_settings_sync_email_enable">Sincronizați e-mailul</string>
-    <string name="account_settings_sync_email_summary">Sincr. e-mailul pt. acest cont</string>
+    <string name="account_settings_sync_email_summary">Sincronizează e-mailurile pentru acest cont</string>
     <string name="account_settings_unsupported_label">Politici neacceptate</string>
     <string name="account_settings_unsupported_summary">Niciunul</string>
     <string name="account_settings_user_usage">Setări cont</string>

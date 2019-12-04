@@ -954,8 +954,6 @@
     <string name="recognized_alert_message">Muzică Mi a găsit coperta de album și versurile acestei melodii. Apăsați \"…\" pentru a edita informațiile.</string>
     <string name="recognized_alert_title">S-a găsit coperta de album și versurile</string>
     <string name="recommend_fragment_title">Recomandate</string>
-    <string name="recommended_file_size_download_in_mobile">Utilizați %s din datele mobile pentru a descărca acest fișier?</string>
-    <string name="recommended_no_file_size_download_in_mobile">Utilizați conexiunea de date mobile pentru a descărca acest fișier?</string>
     <string name="recommend_songs_when_playing_audio_files">Obțineți recomandări de melodii în timp ce ascultați muzică</string>
     <string name="recommended_file_size_download_in_mobile">Utilizați %s date mobile pentru a descărca acest fișier?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizați conexiunea de date mobile pentru a descărca acest fișier?</string>

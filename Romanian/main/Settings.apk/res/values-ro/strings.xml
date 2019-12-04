@@ -1538,6 +1538,13 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="color_cyan">Cyan</string>
     <string name="color_gray">Gri</string>
     <string name="color_green">Verde</string>
+    <string name="color_lamp_applications_title">Gestionați notificările</string>
+    <string name="color_lamp_applications_title_summary">Permiteți sau restricționați utilizarea LED-ului din \"Categorii notificare\"</string>
+    <string name="color_lamp_battery_title">Mențineți activ pe durata încărcării</string>
+    <string name="color_lamp_charging_summary">Lumina LED-ului va fi dezactivată atunci când acumulatorul este încărcat complet</string>
+    <string name="color_lamp_incall_pulse_title">Clipește la apelurile primite</string>
+    <string name="color_lamp_notification_pulse_title">Clipește pentru notificări când ecranul este inactiv</string>
+    <string name="color_lamp_title">Iluminarea LED-ului</string>
     <string name="color_led_applications_title">Selectați aplicațiile</string>
     <string name="color_led_applications_title_summary">Puteți restricționa utilizarea LED-ului pentru aplicații individuale</string>
     <string name="color_led_battery_title">Mențineți activ pe durata încărcării</string>
@@ -2279,6 +2286,8 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Creștere viteză rețea duală Wi-Fi</string>
     <string name="dual_wifi_acceleration">Se crește viteza</string>
+    <string name="dual_wifi_auto_disable">Oprește creșterea automată a vitezei</string>
+    <string name="dual_wifi_auto_disable_summary">Deconectează rețelele Wi-Fi auxiliare când ecranul este inactiv pentru a economisi energia</string>
     <string name="dual_wifi_avaliable_slave_wifi">Rețele auxiliare disponibile</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Rețele auxiliare disponibile(Banda de 2,4 GHz)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Rețele auxiliare disponibile(Banda de 5 GHz)</string>
@@ -3239,6 +3248,7 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="legal_workday_invalidate">Lu-Vi (informaţiile despre sărbători au expirat)</string>
     <string name="legal_workday_invalidate_message">Apăsați pentru a actualiza informaţiile despre sărbătorile legale.</string>
     <string name="legal_workday_message">(Omiteţi sărbătorile)</string>
+    <string name="legal_written_offer">Ofertă Scrisă</string>
     <string name="license_title">Licenţă</string>
     <string name="lift_to_wake_title">Glisați în sus pentru a trezi</string>
     <string name="lights_title">Lumină LED</string>
@@ -4591,6 +4601,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="popup_gesture_title">Ridicați pentru a deschide camera frontală</string>
     <string name="popup_led_summary">Afișare animație atunci când camera frontală apare și se retrage</string>
     <string name="popup_led_title">Efect vizual</string>
+    <string name="popup_led_try_later">Așteptați un minut sau două și încercați din nou</string>
     <string name="popup_title">Efectele camerei frontale</string>
     <string name="popup_title_cangmen">Ușa cabinei</string>
     <string name="popup_title_chilun">Roată dințată</string>

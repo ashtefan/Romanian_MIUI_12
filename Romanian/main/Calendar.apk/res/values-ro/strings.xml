@@ -78,7 +78,7 @@
     <string name="app_label">Calendar</string>
     <string name="app_name">comun</string>
     <string name="birthday_born">Data nașterii</string>
-    <string name="birthday_calendar_display_name">Memento zi de naştere</string>
+    <string name="birthday_calendar_display_name">Memento zile de naştere</string>
     <string name="birthday_event_description_a_week_ago">Cu o săptămână în urmă</string>
     <string name="birthday_event_description_a_week_later">Peste o săptămână</string>
     <string name="birthday_event_description_day_after_tomorrow">Poimâine este </string>
@@ -590,6 +590,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="shortcut_new_event">Adăugați eveniment</string>
     <string name="shortcut_next_agenda">Evenimentul următor</string>
     <string name="shortcut_settings">Setări</string>
+    <string name="show_day_view">Afișează ziua</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_lunar_convert_date"/>
     <string name="solar_lunar_convert_description">Din Gregorian în Chinezesc Tradițional</string>
