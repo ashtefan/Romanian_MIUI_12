@@ -558,9 +558,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="select_date">Selectaţi data</string>
     <string name="select_today_tip">Astăzi</string>
     <string name="setting">Setări</string>
-    <string name="setting_about_calendar_version">Versiunea Calendarului: </string>
-    <string name="setting_about_imei">IMEI: </string>
-    <string name="setting_about_miui_version">Versiunea MIUI: </string>
+    <string name="setting_about_calendar_version">Versiunea Calendarului:%1$s-%2$s</string>
+    <string name="setting_about_imei">IMEI:%1$s</string>
+    <string name="setting_about_miui_version">Versiunea MIUI:%1$s-%2$s</string>
+    <string name="setting_about_oaid">OAID:%1$s</string>
     <string name="setting_about_summary">Versiune: </string>
     <string name="setting_accounts">Conturi Calendar</string>
     <string name="setting_chinese_calendar">Calendar Chinezesc</string>
@@ -593,6 +594,7 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_lunar_convert_date"/>
     <string name="solar_lunar_convert_description">Din Gregorian în Chinezesc Tradițional</string>
+    <string name="solar_lunar_convert_description_2">Comutați între calendarele Chinezesc Tradițional și Gregorian</string>
     <string name="solar_lunar_convert_tab">Convertiți</string>
     <string name="solar_to_lunar"/>
     <string name="solar_to_lunar_chinese_calendar">Din Gregorian în Chinezesc</string>

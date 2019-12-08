@@ -170,6 +170,10 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisaţi în sus pentru a închide</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
+    <string name="browser_default_setting_cancel">Renunțați</string>
+    <string name="browser_default_setting_confirm">OK</string>
+    <string name="browser_default_setting_content">Navigare pe internet rapidă și sigură</string>
+    <string name="browser_default_setting_title">Setați ca browser implicit</string>
     <string name="bubble_guide_bottom_message_text">Aveți %d mesaje necitite</string>
     <string name="bubble_guide_logined_text">Autentificați-vă pentru a participa la ruletă</string>
     <string name="bubble_guide_portrait_message_text">Atingeți pentru a vedea</string>
@@ -442,7 +446,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
     <string name="info_flow_description">Info canal</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
-    <string name="load_error_tip">Eroare de încărcare; apăsați reîncercare</string>
+    <string name="keep_queued_download">Păstrați</string>
+    <string name="load_error_tip">Nu s-au putut încărca elementele. Atingeți pentru a încerca din nou.</string>
     <string name="load_more_footer_status_msg_error_load">Nu s-a putut încărca. Încercați din nou.</string>
     <string name="load_more_footer_status_msg_error_no_network">Nu s-a putut conecta la rețea.</string>
     <string name="load_more_footer_status_msg_full">Asta e tot pentru moment.</string>
@@ -692,7 +697,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
-    <string name="network_error_tips">Eroare de rețea; reîncercați</string>
+    <string name="network_error_tips">A apărut o eroare de rețea. Reîncercați.</string>
     <string name="network_not_available_comment">Fără conexiune la internet; nu se poate adăuga un comentariu</string>
     <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
@@ -708,7 +713,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="not_now">Nu acum</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
-    <string name="novel_toast_hint">Acest site a fost adăugat pe raft</string>
+    <string name="notification_channel_name_local_push">Notificări browser</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_cloud_sync">Activați sincronizarea în cloud</string>

@@ -248,6 +248,7 @@
     <string name="face_beauty_smart">Inteligent</string>
     <string name="face_score_info">Scor: %.1f</string>
     <string name="fps960_toast">Captarea la viteză redusă va începe în ultimul sfert al înregistrării</string>
+    <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="front_camera_hint_text_place">"Realizarea de selfie-uri este mai facilă
 dacă rotiți telefonul"</string>
     <string name="front_camera_hint_text_rotate">Rotiți telefonul</string>
@@ -821,7 +822,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_lens_dirty_detect_summary">Primiți o notificare când lentila este murdară</string>
     <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
-    <string name="pref_manual_exposure_title_abbr">T exp</string>
+    <string name="pref_manual_exposure_title_abbr">T Exp</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720p cu 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Puteți înregistra doar videoclipuri 720p cu 960fps</string>
@@ -977,10 +978,19 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_camera_label">Cameră video</string>
     <string name="video_effect_entry_blackwhite">Alb-negru</string>
     <string name="video_effect_entry_bygone">Trecut</string>
+    <string name="video_effect_entry_central">Central</string>
+    <string name="video_effect_entry_color_retention">Retenție de culoare portret</string>
+    <string name="video_effect_entry_fantasy">Fantezie</string>
     <string name="video_effect_entry_film">Film</string>
     <string name="video_effect_entry_forest">Tufiș</string>
     <string name="video_effect_entry_holiday">Reflecții</string>
+    <string name="video_effect_entry_lost">Pierdut</string>
+    <string name="video_effect_entry_meet">Regăsit</string>
+    <string name="video_effect_entry_northern_europe">Europa de Nord</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
+    <string name="video_effect_entry_rome">Roma</string>
+    <string name="video_effect_entry_summer_day">Zi de vară</string>
+    <string name="video_effect_entry_wind_sing">Adiere de vânt</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_tag_flag_title">Marcaje</string>

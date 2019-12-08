@@ -240,13 +240,6 @@
         <item>Sugestie</item>
         <item>Altele</item>
     </string-array>
-    <string-array name="playback_streaming_quality">
-        <item>Auto</item>
-        <item>Redusă</item>
-        <item>Medie</item>
-        <item>Înaltă</item>
-        <item>Foarte înaltă</item>
-    </string-array>
     <string-array name="subtitle_font_title">
         <item>A</item>
         <item>A</item>

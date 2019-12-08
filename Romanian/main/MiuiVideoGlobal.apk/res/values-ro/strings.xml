@@ -176,6 +176,27 @@
     <string name="com_mixpanel_android_notification_image">Imagine neafișată</string>
     <string name="com_permission_desc">"Mi Video nu poate accesa videoclipurile din telefon. Permiteți accesul din Setări."</string>
     <string name="com_permission_title">Sunt necesare unele permisiuni</string>
+    <string name="comment_model_add_comment">Adăugați un comentariu</string>
+    <string name="comment_model_bg_add_comment">Partajați gândurile dvs. cu comunitatea noastră</string>
+    <string name="comment_model_bg_deleted_comment">Acest comentariu a fost șters</string>
+    <string name="comment_model_comment">Comentarii</string>
+    <string name="comment_model_confirm_delete">Ștergeți comentariul acum?</string>
+    <string name="comment_model_copy">Copiați</string>
+    <string name="comment_model_copy_fail">Nu s-a putut copia</string>
+    <string name="comment_model_copy_success">Copiat cu succes</string>
+    <string name="comment_model_delete">Ștergeți</string>
+    <string name="comment_model_delete_fail">Nu s-a putut șterge</string>
+    <string name="comment_model_delete_success">Șters cu succes</string>
+    <string name="comment_model_reply">Răspunsuri</string>
+    <string name="comment_model_reply_comment">"Răspundeți la %s: "</string>
+    <string name="comment_model_report">Raportați</string>
+    <string name="comment_model_report_fail">Nu s-a putut raporta</string>
+    <string name="comment_model_report_success">Raportat cu succes</string>
+    <string name="comment_model_send_fail">Nu s-a putut trimite</string>
+    <string name="comment_model_send_fail_frequently">Nu chiar atât de repede! Așteptați un minut sau două și încercați din nou.</string>
+    <string name="comment_model_send_forbid_desc">Ați publicat multe comentarii care conțin elemente ce încalcă standardele comunității noastre. Contul dumneavoastră este suspendat definitv acum. Puteți contesta decizia noastră prin intermediul aplicației de feedback înglobate.</string>
+    <string name="comment_model_send_forbid_tips">Cont suspendat</string>
+    <string name="comment_model_send_success">Trimis cu succes</string>
     <string name="common_cancel">Renunțați</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
@@ -208,7 +229,7 @@
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
 ID:%s
 Trimiteți acest cod supervizorului."</string>
-    <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Veți fi considerat că ați citit și ați fost de acord cu &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a noastră atunci când atingeți \"De acord\" mai jos.</string>
+    <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=\"%2$s\"&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
     <string name="dialog_privacy_title">Autorizaţie</string>
     <string name="dialog_revoke_privacy_info_new2">După revocarea autorizației, aplicația va opri colectarea datelor și toate datele asociate vor fi șterse de pe serverele noastre. Acest lucru poate face aplicația practic inutilizabilă. Anulați oricum autorizația?</string>
     <string name="dialog_revoke_privacy_title">Revocarea autorizației</string>
@@ -277,6 +298,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="favorite_cancel_success">Eliminată cu succes din favorite</string>
     <string name="favorite_fail">"Nu s-a putut adăuga la favorite. Încercați din nou."</string>
     <string name="favorite_success">Adăugată cu succes la favorite</string>
+    <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Introduceți informațiile de contact</string>
@@ -467,7 +489,7 @@ pentru videoclipuri"</string>
     <string name="lv_subtitle_onlinesub_loading">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Act de renunțare</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/>&lt;br/>de la &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>Toate subtritările online sunt furnizate de &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/&gt;&lt;br/&gt;de la &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Toate subtitrările online sunt furnizate de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Nu s-a putut adăuga subtitrarea</string>
     <string name="lv_subtitle_onlinesub_save_success">Au fost adăugate subtitrările cu succes</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Introduceți cuvinte cheie pentru a căuta</string>
@@ -539,7 +561,13 @@ pentru videoclipuri"</string>
     <string name="no_recommend_data">Niciun videoclip recomandat acum</string>
     <string name="no_subscriptions">Nimic aici</string>
     <string name="not_show">Nu mai afișa din nou</string>
-    <string name="notify_apk_installed">Descărcat cu succes</string>
+    <string name="notice_comment_action">%s a comentat la postarea dumneavoastră</string>
+    <string name="notice_comment_action_deleted">Acest comentariu a fost șters</string>
+    <string name="notice_feedback_content">Există o actualizare referitoare la feedback-ul dumneavoastră. Atingeți pentru a o vedea.</string>
+    <string name="notice_like_action">%s v-a apreciat comentariul</string>
+    <string name="notice_message_title">Notificări</string>
+    <string name="notice_title">Mesaje</string>
+    <string name="notify_apk_installed">Descărcată cu succes</string>
     <string name="off">[oprit]</string>
     <string name="ok">OK</string>
     <string name="order_alphabet">A-Z</string>
@@ -550,6 +578,7 @@ pentru videoclipuri"</string>
     <string name="ovp_category">Categorii</string>
     <string name="ovp_confirm_delete_favor">Eliminați elemente selectate din favorite?</string>
     <string name="ovp_default_plugin_name">Supliment HD</string>
+    <string name="ovp_detail_back_to_watch_more">Descoperiți mai multe elemente în pagina de pornire</string>
     <string name="ovp_detail_collapse_summary">Ascundeți</string>
     <string name="ovp_detail_collect">Adăugați la favorite</string>
     <string name="ovp_detail_comment">Comentariu</string>
@@ -592,13 +621,15 @@ pentru videoclipuri"</string>
     <string name="ovp_loading_video_netplay_label_v5">Doar o secundă…</string>
     <string name="ovp_local_videos_title">Videoclipuri locale</string>
     <string name="ovp_navigation_category">Categorie</string>
+  <string name="ovp_navigation_content">Cooperarea conținutului</string>
     <string name="ovp_navigation_favorites">Favorite</string>
     <string name="ovp_navigation_feedback">Părere</string>
     <string name="ovp_navigation_history">Istoric</string>
     <string name="ovp_navigation_home">Acasă</string>
     <string name="ovp_navigation_language">Limbă</string>
     <string name="ovp_navigation_localvideo">Locale</string>
-    <string name="ovp_navigation_setting">Setări descărcări</string>
+    <string name="ovp_navigation_notice">Notificări</string>
+    <string name="ovp_navigation_setting">Setări</string>
     <string name="ovp_navigation_subscribe">Abonament</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Închideți</string>
     <string name="ovp_player_plugin_dlg_no_content">Nu este instalată nicio extensie video.</string>
@@ -706,8 +737,8 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="passport_unknow_error">Ne pare rău, a apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">Ne pare rău, a apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Am citit și sunt de acord cu &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%2$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și sunt de acord cu următoarele documente: &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%4$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Am citit și sunt de acord cu &lt;a href=\"%1$s\"&gt;Acordul Utilizatorului&lt;/a&gt; și lt;a href=\"%2$s\"&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și sunt de acord cu următoarele documente: &lt;a href=\"%1$s\"&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=\"%4$s\"&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării este incompletă</string>
@@ -748,6 +779,7 @@ Spori securitatea contului dvs."</string>
     <string name="playlist_title">Listă de redare</string>
     <string name="plus_add_shortcut">Creați o scurtătură pe Ecranul principal</string>
     <string name="plus_change_poster">Modificați coperta albumului</string>
+    <string name="plus_continue_watching">Continuați să urmăriți</string>
     <string name="plus_deleting_wait">Se șterge</string>
     <string name="plus_fallback">Feedback</string>
     <string name="plus_gallery_allvideos">Toate videoclipurile</string>
@@ -766,6 +798,12 @@ Spori securitatea contului dvs."</string>
     <string name="plus_gallery_video_title_mediatype">Categorii de videoclipuri</string>
     <string name="plus_gallery_video_title_othergallery">Alte videoclipuri</string>
     <string name="plus_loading_text">Se încarcă elementele…</string>
+    <string name="plus_menu_delete">Ștergeți</string>
+    <string name="plus_menu_delete_popup_text">Ștergeți acum?</string>
+    <string name="plus_menu_properties">Proprietăți</string>
+    <string name="plus_menu_rename">Redenumiți</string>
+    <string name="plus_menu_rename_fail">Numele fișierului nu poate conține \"/\"</string>
+    <string name="plus_menu_share">Distribuiți</string>
     <string name="plus_mine_gallery">Albumele mele</string>
     <string name="plus_mine_videos">Videoclipurile mele</string>
     <string name="plus_player_8k_video_not_support">"Nu se pot reda videoclipuri 8K pe acest dispozitiv"</string>
@@ -804,7 +842,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_player_subtitle_local_add_success">Subtitrări adăugate cu succes</string>
     <string name="plus_player_subtitle_no_file">Nicio subtitrare aici.</string>
     <string name="plus_player_subtitle_online">Subtitrări online</string>
-    <string name="plus_player_subtitle_online_declare_content">"Sunteți pe cale să căutați &lt;br/&gt;subtitrări în baza de date &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Toate subtitrările sunt furnizate de către &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
+    <string name="plus_player_subtitle_online_declare_content">Sunteți pe cale să căutați &lt;br/&gt;subtitrări în baza de date &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; database. &lt;br/&gt;Toate subtitrările sunt furnizate de către &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="plus_player_subtitle_online_declare_title">Act de renunțare</string>
     <string name="plus_player_subtitle_online_download_fail">"Nu s-au putut descărca subtitrările"</string>
     <string name="plus_player_subtitle_online_download_start">Se descarcă subtitrările…</string>
@@ -816,6 +854,31 @@ Spori securitatea contului dvs."</string>
     <string name="plus_player_unhide">Anulați ascunderea</string>
     <string name="plus_player_video_not_support">"Acest format de videoclip nu este suportat."</string>
     <string name="plus_poster_reset_default">Restaurați coperta implicită</string>
+    <string name="plus_properties_bit_rate">Bit rate</string>
+    <string name="plus_properties_codec">Codec</string>
+    <string name="plus_properties_date">Data</string>
+    <string name="plus_properties_file">Fișier</string>
+    <string name="plus_properties_file_name">Nume fișier</string>
+    <string name="plus_properties_finished">Finalizat</string>
+    <string name="plus_properties_format">Format</string>
+    <string name="plus_properties_frame_rate">Rata cadrelor</string>
+    <string name="plus_properties_last_playback_position">Ultima poziție</string>
+    <string name="plus_properties_last_playback_time">Ultima redare</string>
+    <string name="plus_properties_length">Durata</string>
+    <string name="plus_properties_media">Media</string>
+    <string name="plus_properties_path">Locația</string>
+    <string name="plus_properties_playback_history">Istoricul de redare</string>
+    <string name="plus_properties_resolution">Rezoluția</string>
+    <string name="plus_properties_sample_rate">Rata de eșantionare</string>
+    <string name="plus_properties_size">Dimensiunea</string>
+    <string name="plus_properties_status">Starea</string>
+    <string name="plus_properties_stream">Redare</string>
+    <string name="plus_properties_stream_title">Titlu</string>
+    <string name="plus_properties_type">Tip</string>
+    <string name="plus_properties_type_audio">Audio</string>
+    <string name="plus_properties_type_subtitle">Subtitrări</string>
+    <string name="plus_properties_type_video">Video</string>
+    <string name="plus_properties_unfinish">Nefinalizat</string>
     <string name="plus_search_barhint">Căutați local videoclipuri</string>
     <string name="plus_search_guide">Căutați videoclipuri</string>
     <string name="plus_search_result_empty">"Nu s-au găsit rezultate"</string>
@@ -896,6 +959,11 @@ Verificați alte videoclipuri!"</string>
     <string name="reload_sub_title">Atingeți pentru a încerca din nou.</string>
     <string name="reload_title">"Nu s-a putut conecta la rețea."</string>
     <string name="report">Raportați</string>
+    <string name="report_content_fakement">Spam sau fraudă</string>
+    <string name="report_content_illegal">Declarații ilegale</string>
+    <string name="report_content_other">Altele</string>
+    <string name="report_content_sexy">Conținut sexual explicit</string>
+    <string name="report_content_violence">Discurs ostil</string>
     <string name="report_fail">"Nu s-a putut raporta. Încercați din nou."</string>
     <string name="report_success">Raportat cu succes</string>
     <string name="resend_active_email">Retrimiteți</string>

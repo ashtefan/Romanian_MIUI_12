@@ -421,7 +421,7 @@ Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blocați mesajele Mi de la numere necunoscute</string>
     <string name="mx_filter_message_from_stranger_summary">"Veți putea primi în continuare mesaje SMS de la numere necunoscute"</string>
     <string name="mx_main_purpose">"Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai Mesageriei Mi prin internet, fără a fi taxat.
-Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Opertaorul dvs. vă va taxa pentru acest mesaj."</string>
+Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operatorul dvs. vă va taxa pentru acest mesaj."</string>
     <string name="mx_main_purpose_short">Mesageria Mi permite utilizatorilor MIUI să trimită și să primească în mod gratuit mesaje SMS și MMS.</string>
     <string name="mx_message">Mesagerie Mi</string>
     <string name="mx_msg">Mesagerie Mi</string>
@@ -861,7 +861,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizarea și să dezactivați serviciile din setările Mesageriei.</string>
     <string name="system_permission_declare_single_link">Citiți și acceptați %1s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Citiți și acceptați %1s, %2s și %3s înainte de a utiliza aceste caracteristici.</string>
-    <string name="system_permission_declare_use_network">Conectați-vă la rețea</string>
+    <string name="system_permission_declare_use_network">Conectarea la rețea</string>
     <string name="system_permission_perm_answer_call">Realizarea de apeluri</string>
     <string name="system_permission_perm_read_mms">Citirea MMS-urilor</string>
     <string name="system_permission_perm_read_numbers">Citirea numerelor de telefon</string>

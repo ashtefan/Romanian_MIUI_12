@@ -239,6 +239,13 @@
     <string name="shopping_title">Realizați o fotografie a produsului</string>
     <string name="shopping_vendor_info">Oferit de Taobao</string>
     <string name="spaceIsLow_content">Nu există spațiu de stocare suficient în memoria internă. Eliberați spațiu.</string>
+    <string name="store_feedback_prompt">Introduceți mai întâi feedback-ul dumneavoastră</string>
+    <string name="store_location_dialog">Acest serviciu este furnizat de către Dianping. Toate fotografiile realizate în timpul utilizării acestui serviciu, inclusiv informațiile legate de locație, vor fi partajate cu Dianping pentru a obține informații despre magazine.</string>
+    <string name="store_location_fail">Nu s-au putut obține informațiile despre locație</string>
+    <string name="store_location_prompt">Permiteți aplicației Scaner să vă acceseze locația pentru a putea identifica magazinele</string>
+    <string name="store_module_title">Magazin</string>
+    <string name="store_no_date">Nu s-a putut identifica magazinul</string>
+    <string name="store_title">Scanați sigla magazinului</string>
     <string name="study_rotate_picture">Se procesează imaginea…</string>
     <string name="study_scan_result">Rezultat</string>
     <string name="study_searching">Se caută rezultate…</string>

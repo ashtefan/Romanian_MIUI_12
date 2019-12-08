@@ -118,7 +118,7 @@
     <string name="HIPS_Perm_Location_Access">obţinere poziţie precisă(bazat pe GPS și rețea)</string>
     <string name="HIPS_Perm_Location_CellInfo">localizare aproximativă utilizând triangularea</string>
     <string name="HIPS_Perm_Location_CellLocation">localizare aproximativă utilizând triangularea</string>
-    <string name="HIPS_Perm_Location_Desc">Localizare precisă a telefonului prin intermediul reţelei sau al GPS-ului</string>
+    <string name="HIPS_Perm_Location_Desc">localizare precisă a telefonului prin intermediul reţelei sau al GPS-ului</string>
     <string name="HIPS_Perm_Location_Hint">%1$s aplicaţii pot să vă localizeze precis telefonul(bazat pe GPS și rețea)</string>
     <string name="HIPS_Perm_Location_Monitor">urmărire poziţie</string>
     <string name="HIPS_Perm_Location_Source_Cellular">localizare aproximativă prin reţeaua celulară</string>
@@ -147,7 +147,7 @@
     <string name="HIPS_Perm_Notification_Hint">%1$s aplicaţii pot afişa notificări în bara de stare</string>
     <string name="HIPS_Perm_PhoneID">Obținere informații despre telefon</string>
     <string name="HIPS_Perm_PhoneID_Desc">Obţinere număr de telefon, IMEI și IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Accesare număr de telefon și stare dispozitiv</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">accesare număr de telefon și stare dispozitiv</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s aplicaţii pot citi IMEI-ul și IMSI-ul telefonului</string>
     <string name="HIPS_Perm_PhoneID_ICCID">"citire ICCID telefon"</string>
     <string name="HIPS_Perm_PhoneID_IMEI">"citire IMEI telefon"</string>
@@ -238,7 +238,7 @@
     <string name="HIPS_Perm_process_outgoing_calls">Accesare aplicație de Telefon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">preluarea, monitorizarea și încheierea apelurilor</string>
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
-    <string name="HIPS_Perm_read_notification_sms_Desc">Citire date despre serviciul SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">citire date despre serviciul SMS</string>
     <string name="HIPS_Perm_service_foreground">Servicii în fundal</string>
     <string name="HIPS_Perm_service_foreground_Desc">servicii în fundal</string>
     <string name="HIPS_Perm_show_when_locked">Afișare în Blocarea ecranului</string>
