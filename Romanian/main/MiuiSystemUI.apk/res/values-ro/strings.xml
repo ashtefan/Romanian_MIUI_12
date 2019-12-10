@@ -852,6 +852,8 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="how_to_use_drawer_summary">Glisați spre dreapta din partea de sus a ecranului</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>
     <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Utilizați această metodă de introducere?</string>
+    <string name="ime_security_warning_global">Metodele de introducere pot colecta tot ceea ce scrieți, inclusiv date personale, cum ar fi parolele sau datele cardurilor de credit. Utilizați %1$s?</string>
+    <string name="ime_security_warning_title_global">Activarea tastaturii</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>
     <string name="immediately_destroy_activities_summary">Închide orice activitate de îndată ce utilizatorul o părăsește</string>
     <string name="important_desc">Toate notificările importante vor fi afișate în bara de notificări.</string>

@@ -593,6 +593,10 @@ Pentru a obține asistență contactați administratorul organizației"</string>
      <string name="granularity_label_link">link</string>
      <string name="granularity_label_word">cuvânt</string>
      <string name="gsm_alphabet_default_charset"/>
+    <string name="handset_text_unsupported_handset_insert">Atingeți pentru a vedea detalii</string>
+    <string name="handset_text_usb_handset_insert">Atingeți pentru a deschide setările adiționale</string>
+    <string name="handset_title_unsupported_handset_insert">Nu se poate reda sunet prin intermediul adaptorului</string>
+    <string name="handset_title_usb_handset_insert">Redare sunete via USB</string>
      <string name="hardware">Arată tastatura virtuală</string>
      <string name="harmful_app_warning_open_anyway">Deschideți oricum</string>
      <string name="harmful_app_warning_title">Aplicație dăunătoare detectată</string>

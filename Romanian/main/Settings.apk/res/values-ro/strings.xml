@@ -2152,6 +2152,8 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="disallow_lock_screen_summary">Permiteți mai întâi afișarea notificărilor din \"Notificările aplicației\"</string>
     <string name="disconnect">deconectat</string>
     <string name="disconnected">Deconectat</string>
+    <string name="display_advanced_mode_summary">Opțiuni gamă de culoare</string>
+    <string name="display_advanced_mode_title">Setări avansate</string>
     <string name="display_auto_rotate_rotate">Pornit</string>
     <string name="display_auto_rotate_stay_in_current">Oprit</string>
     <string name="display_auto_rotate_stay_in_landscape">Blochează la modul peisaj</string>
@@ -2853,6 +2855,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="handy_mode_tips_full_screen">"Atunci când utilizați gesturi pe ecranul complet, puteți activa modul Utilizare cu o mână utilizând Asistentul de ecran. Puteți de asemenea comuta la utilizarea butoanelor în locul gesturilor pe ecran complet."</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
+    <string name="haptic_feedback_progress">Nivel feedback tactil</string>
+    <string name="haptic_feedback_summary">Primiți răspunsuri tactile la gesturi și controlul sistemului</string>
+    <string name="haptic_feedback_title">Feedback tactil</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
     <string name="hardware_info">Model și hardware</string>
     <string name="hardware_revision">Versiune hardware</string>
@@ -2956,7 +2961,9 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="ignore_optimizations_on">Nu optimiza</string>
     <string name="ignore_optimizations_on_desc">Poate descărca mai rapid acumulatorul</string>
     <string name="ignore_optimizations_title">Permiteți %s să ignore optimizările acumulatorului?</string>
-    <string name="ime_security_warning">%1$s poate înregistra tot ce tastați, inclusiv parolele, datele cardurilor de credit și alte date personale.</string>
+    <string name="ime_security_warning">%1$s poate înregistra tot ceea ce tastați, inclusiv parolele, datele cardurilor de credit și alte date personale.</string>
+    <string name="ime_security_warning_global">Metodele de introducere pot colecta tot ceea ce scrieți, inclusiv date personale, cum ar fi parolele sau datele cardurilor de credit. Utilizați %1$s?</string>
+    <string name="ime_security_warning_title_global">Activarea tastaturii</string>
     <string name="imei_information_summary">Informații referitoare la IMEI</string>
     <string name="imei_information_title">Informații IMEI</string>
     <string name="imei_multi_sim">IMEI (SIM %1$d)</string>
@@ -3150,14 +3157,14 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="keywords_more_default_sms_app">mesaj text</string>
     <string name="keywords_more_mobile_networks">mobil celulă operator Wi-Fi</string>
     <string name="keywords_network_reset">resetare, restaurare, fabrică</string>
-    <string name="keywords_notification_vibration">optic, vibrație, sensibilitate</string>
+    <string name="keywords_notification_vibration">tactil, vibrație, sensibilitate</string>
     <string name="keywords_paper_mode">Flux;Citire;Mod citire;Lumină albastră;protejare ochi</string>
     <string name="keywords_payment_settings">plăți, atingere, plată</string>
     <string name="keywords_printing">imprimantă</string>
     <string name="keywords_profile_challenge">competiție la Servici, Servici, profil</string>
     <string name="keywords_quick_ball">Asistent ecran;scurtătură;scurtături;butoane;buton</string>
     <string name="keywords_reset_apps">resetare, preferințe, implicit</string>
-    <string name="keywords_ring_vibration">optic, vibrează, telefon, apel, sensibilitate, sunet</string>
+    <string name="keywords_ring_vibration">tactil, vibrează, telefon, apel, sensibilitate, sunet</string>
     <string name="keywords_screen_timeout">ecran, timp blocare, timp limită, blocare ecran</string>
     <string name="keywords_silent">Silențios;Mut;Dezactivare sunet</string>
     <string name="keywords_sim_status">rețea, stare rețea mobilă, stare serviciu, putere semnal, tip rețea mobilă, roaming, iccid, eid</string>
@@ -3176,7 +3183,7 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="keywords_time_format">Utilizați formatul de 24 de ore</string>
     <string name="keywords_time_zone">fus orar</string>
     <string name="keywords_torch">Lanternă;Bliț</string>
-    <string name="keywords_touch_vibration">optic, vibrează, ecran, sensibilitate</string>
+    <string name="keywords_touch_vibration">tactil, vibrează, ecran, sensibilitate</string>
     <string name="keywords_unification">profil Servici, profil gestionat, unificare, unificați, servici, profil</string>
     <string name="keywords_users">restricție restricționare resctricționat</string>
     <string name="keywords_vibrate">Vibrare;Vibrații</string>
@@ -4429,6 +4436,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="open_demo_mode">Activați</string>
     <string name="open_demo_mode_warning_message">Când modul Demo este activat, ceasul din bara de stare se va opri iar pictogramele pentru acumulator și semnal vor fi afișate ca pline. Puteți dezactiva modul Demo sau reporni telefonul pentru a modifica acest lucru.</string>
     <string name="open_game_accelerate">Activați Jocuri Turbo</string>
+    <string name="open_haptic_feedback">Feedback tactil</string>
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_optimization_message">Activați optimizarea pentru a vă bucura de o interfață rapidă și fluentă.</string>
     <string name="open_optimization_option">Activați</string>
@@ -6431,7 +6439,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_backup_section_title">Copii de rezervă</string>
     <string name="system_dashboard_summary">Limbă, oră, copie de rezervă, actualizări</string>
     <string name="system_default_app">(Implicit de sistem)</string>
-    <string name="system_haptic_feedback">Feedback optic</string>
+    <string name="system_haptic_feedback">Feedback tactil</string>
     <string name="system_navigation_title">Navigare prin sistem</string>
     <string name="system_package">Actualizările de sistem nu pot fi instalate pe suportul extern.</string>
     <string name="system_print_service_help">Despre tipărire</string>
@@ -7034,7 +7042,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vibrate_in_silent_title">Vibrează în profilul Silenţios</string>
     <string name="vibrate_input_devices">Utilizaţi mecanismul de vibrare</string>
     <string name="vibrate_input_devices_summary">Redirecţionaţi mecanismul de vibrare pentru controlerul de joc când este conectat.</string>
-    <string name="vibrate_on_touch_summary">Feedback optic pentru atingeri, tastatură și altele</string>
+    <string name="vibrate_on_touch_summary">Feedback tactil pentru atingeri, tastatură și altele</string>
     <string name="vibrate_on_touch_title">Vibrează la atingere</string>
     <string name="vibrate_title">Vibrație</string>
     <string name="vibrate_when_ringing_title">Vibrează când sună</string>

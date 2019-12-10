@@ -262,6 +262,10 @@
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
         <item quantity="one">"Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?"</item>

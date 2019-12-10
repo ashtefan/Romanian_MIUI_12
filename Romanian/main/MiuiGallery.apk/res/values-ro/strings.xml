@@ -257,6 +257,7 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Albumul fotografiilor captate trebuie să fie sincronizat</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autorizați vizualizarea albumelor pe TV</string>
+    <string name="can_not_transfer_when_screening">Nu se poate proiecta pe durata transferurilor</string>
     <string name="cancel">Renunță</string>
     <string name="cancel_authorize_to_device_failed">Nu s-a putut anula autorizarea</string>
     <string name="cancel_authorize_watch_on_tv_failed">Nu s-a putut anula autorizarea pentru vizualizarea pe TV</string>
@@ -488,7 +489,8 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Puteți selecta calitatea imaginilor descărcate sau dezactiva descărcarea automată din Setări.</string>
     <string name="downloading_title">Se descarcă fotografiile din Xiaomi Cloud</string>
-    <string name="edit_baby_info">Vizualizaţi informaţiile despre copil</string>
+  <string name="dump_db_info">Informații despre baza de date de descărcare</string>
+    <string name="edit_baby_info">Vedeți informaţiile despre copil</string>
     <string name="editor_cancel">Renunțați</string>
     <string name="editor_export">Salvați</string>
     <string name="editor_talkback_redo">Reluați</string>
@@ -679,6 +681,7 @@ efecte pentru fotografii"</string>
     <string name="filter_people_sepia">Sepia</string>
     <string name="filter_people_story">Poveste</string>
     <string name="filter_people_tea">Ceai</string>
+    <string name="filter_portrait_hint">Explozie de culoare</string>
     <string name="filter_scene_city">Oraș</string>
     <string name="filter_scene_df">Ceață</string>
     <string name="filter_scene_koizora">Dragoste</string>
@@ -1139,6 +1142,11 @@ pentru a personaliza Galeria"</string>
     <string name="photo_movie_select_image_range">Clipurile pot conține între 3 și 20 de fotografii</string>
     <string name="photo_page_save_uri_image_fail">"Nu s-a putut salva în Galerie"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
+    <string name="photo_portrait_color_download_fail">Nu s-a putut descărca extensia. Conectați-vă la rețea și încercați din nou.</string>
+    <string name="photo_portrait_color_download_success">Filtre descărcate cu succes</string>
+    <string name="photo_portrait_color_no_face">Efectule de explozie de culoare funcționează doar pentru fotografiile în care există persoane</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Se pare că nu sunteți conectat la Wi-Fi acum. Puteți descărca filtrele (%1$d MB) utilizând datele mobile.</string>
+    <string name="photo_portrait_download_sdk_without_wifi_title">Descărcați filtrele</string>
     <string name="photo_print_menu_loading">Încărcare extensie…</string>
     <string name="photo_print_package_finish">Modul de tipărire încărcat cu succes</string>
     <string name="photo_print_package_installing">Încărcare extensie de tipărire…</string>
@@ -1354,6 +1362,8 @@ pentru a personaliza Galeria"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send_file_beautify_failed">"Nu s-a putut partaja"</string>
     <string name="send_files_to">Trimiteți elementele către</string>
+    <string name="send_heif_summary">Convertiți imaginile înainte de a le trimite pentru a asigura compatibilitatea</string>
+    <string name="send_heif_title">Convertiți imaginile .heif în .jpg înainte de a le trimite</string>
     <string name="send_multiple_files_hint_format">Trimiteţi (%s)</string>
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="send_secret_file_failed">"Nu s-a putut partaja"</string>
@@ -1587,6 +1597,10 @@ pentru a personaliza Galeria"</string>
     <string name="unsupport_raw">%s nu funcționează cu imagini RAW</string>
     <string name="unsupport_raw_and_video">%s nu funcționează cu videoclipuri și imagini RAW</string>
     <string name="unsupport_video">%s nu funcționează cu videoclipuri</string>
+    <string name="unsupported_media_downloading_tip_common">Vizualizarea imaginilor originale în acest format nu este suportată în această versiune Android. Descărcați oricum?"</string>
+    <string name="unsupported_media_downloading_tip_format">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android. Descărcați oricum?"</string>
+    <string name="unsupported_media_scanned_tip">Au fost detectate %1$s imagini. Vizualizarea imaginilor %2$s nu este suportată în această versiune Android.</string>
+    <string name="unsupported_media_view_tip">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android</string>
     <string name="user_agree">De acord</string>
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>

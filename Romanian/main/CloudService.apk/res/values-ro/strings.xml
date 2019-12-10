@@ -686,6 +686,7 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
+    <string name="wipe_data_query_progress_title">Se verifică…</string>
     <string name="wipe_secret_photo_dialog_title">"Fotografiile ascunse nu sunt sincronizate"</string>
     <string name="xiaomi_cloud_service">Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Toate lucrurile importante într-un singur loc</string>

@@ -1694,7 +1694,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">Creștere viteză</string>
     <string name="optimize_result_available_memory_info">Memorie disponibilă</string>
-    <string name="optimize_result_button_cloudspace">Adăugați stocare în Cloud</string>
+    <string name="optimize_result_button_cloudspace">Obțineți mai mult spațiu de stocare în cloud</string>
     <string name="optimize_result_button_consume_power_analysis">Scanare acumulator</string>
     <string name="optimize_result_button_cooldown_now">Răcorire</string>
     <string name="optimize_result_button_correct_now">Ajustați</string>
@@ -1862,7 +1862,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
-    <string name="power_center_list_item_haptic_feedback">Dezactivați feedback-ul optic</string>
+    <string name="power_center_list_item_haptic_feedback">Dezactivați feedback-ul tactil</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Blocați dispozitivul după %d secunde de inactivitate</string>
     <string name="power_center_list_item_wake_notification">Nu porni ecranul pentru notificări</string>
@@ -1944,8 +1944,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
-    <string name="power_save_ps_close_setting">Dezactivează serviciile și caracteristicile energofage (sincronizare, GPS, feedback optic, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
-    <string name="power_save_ps_close_setting_5g">Restricționează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, GPS, feedback optic, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_close_setting">Dezactivează serviciile și caracteristicile energofage (sincronizare, GPS, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_close_setting_5g">Restricționează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, GPS, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_close_setting_5g_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\")</string>
+    <string name="power_save_ps_close_setting_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\")</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
     <string name="power_save_settings">Setări pentru acumulator</string>

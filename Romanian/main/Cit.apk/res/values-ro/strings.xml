@@ -577,7 +577,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally</string>
   <string name="cit_vibrator_check_title">Vibration</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-  <string name="cit_vibrator_haptic">Haptic</string>
+  <string name="cit_vibrator_haptic">Tactil</string>
   <string name="cit_vibrator_load_down_pattern">Down Pattern</string>
   <string name="cit_vibrator_load_up_pattern">Up Pattern</string>
   <string name="cit_vibrator_long">Long vibration</string>
