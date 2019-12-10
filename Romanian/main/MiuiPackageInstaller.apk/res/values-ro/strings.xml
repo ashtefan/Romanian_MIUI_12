@@ -551,7 +551,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="review_button_cancel">Renunțați</string>
     <string name="review_button_continue">Continuați</string>
     <string name="risk_warning_bottom_button">Instalați din GetApps</string>
-    <string name="risk_warning_msg">Semnătura acestui pachet de instalare pare nelegitimă. Pentru a evita posibilele riscuri, instalați această aplicație din GetApps."</string>
+    <string name="risk_warning_msg">Semnătura acestui pachet de instalare pare nelegitimă. Pentru a evita posibilele riscuri, instalați această aplicație dintr-o sursă de încredere."</string>
     <string name="risk_warning_title">Riscuri detectate</string>
     <string name="risk_warning_top_button">Nu instala</string>
     <string name="running_process_item_user_label">Utilizator: %1$s</string>
