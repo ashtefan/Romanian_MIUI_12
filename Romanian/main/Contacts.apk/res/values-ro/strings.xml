@@ -48,6 +48,11 @@
     <string name="back_description">Înapoi</string>
     <string name="back_view_description">Apăsați pentru a reveni la ecranul anterior</string>
     <string name="batch_delete">Ştergere în serie</string>
+    <string name="bind_simcard_default">Cartela SIM implicită pentru apeluri</string>
+    <string name="bind_simcard_menu">Setați cartela SIM implicită pentru apeluri</string>
+    <string name="bind_simcard_no_dual">Nu s-a găsit dual SIM</string>
+    <string name="bind_simcard_not_set">Nesetată</string>
+    <string name="bind_simcard_title">Cartela SIM implicită pentru apeluri</string>
     <string name="blacklist">Blocaţi</string>
     <string name="bluetooth_connection_failed_toast">Conexiune bluetooth întreruptă</string>
     <string name="blurbJoinContactDataWith">Selectaţi contactul de îmbinat cu %s:</string>

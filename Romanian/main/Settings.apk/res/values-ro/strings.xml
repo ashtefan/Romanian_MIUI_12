@@ -3157,14 +3157,14 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="keywords_more_default_sms_app">mesaj text</string>
     <string name="keywords_more_mobile_networks">mobil celulă operator Wi-Fi</string>
     <string name="keywords_network_reset">resetare, restaurare, fabrică</string>
-    <string name="keywords_notification_vibration">tactil, vibrație, sensibilitate</string>
+    <string name="keywords_notification_vibration">optic, vibrație, sensibilitate</string>
     <string name="keywords_paper_mode">Flux;Citire;Mod citire;Lumină albastră;protejare ochi</string>
     <string name="keywords_payment_settings">plăți, atingere, plată</string>
     <string name="keywords_printing">imprimantă</string>
     <string name="keywords_profile_challenge">competiție la Servici, Servici, profil</string>
     <string name="keywords_quick_ball">Asistent ecran;scurtătură;scurtături;butoane;buton</string>
     <string name="keywords_reset_apps">resetare, preferințe, implicit</string>
-    <string name="keywords_ring_vibration">tactil, vibrează, telefon, apel, sensibilitate, sunet</string>
+    <string name="keywords_ring_vibration">optic, vibrează, telefon, apel, sensibilitate, sunet</string>
     <string name="keywords_screen_timeout">ecran, timp blocare, timp limită, blocare ecran</string>
     <string name="keywords_silent">Silențios;Mut;Dezactivare sunet</string>
     <string name="keywords_sim_status">rețea, stare rețea mobilă, stare serviciu, putere semnal, tip rețea mobilă, roaming, iccid, eid</string>
@@ -3183,7 +3183,7 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="keywords_time_format">Utilizați formatul de 24 de ore</string>
     <string name="keywords_time_zone">fus orar</string>
     <string name="keywords_torch">Lanternă;Bliț</string>
-    <string name="keywords_touch_vibration">tactil, vibrează, ecran, sensibilitate</string>
+    <string name="keywords_touch_vibration">optic, vibrează, ecran, sensibilitate</string>
     <string name="keywords_unification">profil Servici, profil gestionat, unificare, unificați, servici, profil</string>
     <string name="keywords_users">restricție restricționare resctricționat</string>
     <string name="keywords_vibrate">Vibrare;Vibrații</string>
@@ -7042,7 +7042,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vibrate_in_silent_title">Vibrează în profilul Silenţios</string>
     <string name="vibrate_input_devices">Utilizaţi mecanismul de vibrare</string>
     <string name="vibrate_input_devices_summary">Redirecţionaţi mecanismul de vibrare pentru controlerul de joc când este conectat.</string>
-    <string name="vibrate_on_touch_summary">Feedback tactil pentru atingeri, tastatură și altele</string>
+    <string name="vibrate_on_touch_summary">Feedback optic pentru atingeri, tastatură și altele</string>
     <string name="vibrate_on_touch_title">Vibrează la atingere</string>
     <string name="vibrate_title">Vibrație</string>
     <string name="vibrate_when_ringing_title">Vibrează când sună</string>

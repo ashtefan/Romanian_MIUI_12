@@ -252,6 +252,11 @@
     <string name="accessibility_status_bar_headphones">Difuzoare conectate</string>
     <string name="accessibility_status_bar_headset">Căști conectate</string>
     <string name="accessibility_status_bar_hotspot">Hotspot</string>
+    <string name="accessibility_status_bar_no_slave_wifi">Rețea Wi-Fi secundară deconetată.</string>
+    <string name="accessibility_status_bar_slave_wifi_four_bars">Rețea Wi-Fi secundară 4 bare.</string>
+    <string name="accessibility_status_bar_slave_wifi_one_bar">Rețea Wi-Fi secundară o bară.</string>
+    <string name="accessibility_status_bar_slave_wifi_three_bars">Rețea Wi-Fi secundară trei bare.</string>
+    <string name="accessibility_status_bar_slave_wifi_two_bars">Rețea Wi-Fi secundară două bare.</string>
     <string name="accessibility_three_bars">Trei bare.</string>
     <string name="accessibility_tty_enabled">TeleTypewriter activat.</string>
     <string name="accessibility_two_bars">Două bare.</string>
@@ -1603,6 +1608,12 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_user_new_user">Utilizator nou</string>
     <string name="quick_settings_user_title">Utilizator</string>
     <string name="quick_settings_vibrate_label">Vibrații</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Se crește viteza</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Renunțați</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmați</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Nu arăta din nou</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Se comută rețelele</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Creșterea vitezei rețelei Wi-Fi dual band trebuie să utilizeze 2 benzi diferite Wi-Fi. Dacă vă conectați la o rețea principală diferită, conexiunea auxiliară va fi întreruptă.</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
@@ -1793,7 +1804,7 @@ d MMMM"</string>
     <string name="status_bar_no_recent_apps">Nu există aplicaţii recente</string>
     <string name="status_bar_notification_app_settings_title">setări ale %s</string>
     <string name="status_bar_notification_inspect_item_title">Informaţii despre aplicaţie</string>
-    <string name="status_bar_ongoing_events_title">În curs</string>
+    <string name="status_bar_ongoing_events_title">În desfășurare</string>
     <string name="status_bar_recent_guide_all">"Glisaţi în sus pentru a închide
 Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_recent_guide_bottom">Glisaţi în jos pt. a bloca</string>

@@ -728,6 +728,7 @@ Selecție"</string>
     <string name="crescendo_ringer_summary">Volumul soneriei va crește gradual până la nivelul pe care l-ați setat</string>
     <string name="crescendo_ringer_title">Volum crescător al soneriei</string>
     <string name="ct_ut_not_support_close_4glte">UT nu este disponibil, vă rugăm dezactivați Modul Extins 4G LTE din Setări</string>
+  <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (roșu-verde)</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
     <string name="daltonizer_mode_monochromacy">Monocromie</string>
@@ -987,7 +988,10 @@ Selecție"</string>
     <string name="fiveg_power_secret_code_tip">operați aceasta prin aplicația de Securitate - Acumulator - Economisire 5G</string>
     <string name="fiveg_restrict_dcnr1">Restricție DCNR[Slot 1] :</string>
     <string name="fiveg_restrict_dcnr2">Restricție DCNR[Slot 2] :</string>
-    <string name="fiveg_sa_switch_title">Rețea SA</string>
+    <string name="fiveg_sa_switch_open_dialog_content">Conexiunea 5G poate fi instabilă în modul de sine stătător, ceea ce poate afecta serviciile de telefonie. Activați modul SA oricum?</string>
+    <string name="fiveg_sa_switch_open_dialog_title">Atenție</string>
+    <string name="fiveg_sa_switch_summary">Permiteți conectarea la rețelele 5G în modul de sine stătător</string>
+    <string name="fiveg_sa_switch_title">Mod SA</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G[Slot 1] :</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>
     <string name="fiveg_switch_status1">Stare comutare 5G[Slot 1] :</string>
@@ -1614,7 +1618,11 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="private_num">Număr privat</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">Nu se pot realiza sau primi apeluri. Serviciul VoLTE este oprit pentru cartela dvs. SIM (China Telecom) acum.</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">Nu se pot realiza sau primi apeluri. Serviciul VoLTE este oprit pentru cartela SIM %d (China Telecom) acum.</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">Nu se pot realiza sau primi apeluri</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">"Nu se pot realiza apeluri. Contactați China Telecom pentru a activa serviciul VoLTE."</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">Cartela SIM %d nu poate efectua apeluri. Contactați China Telecom pentru a activa serviciul VoLTE.</string>
     <string name="prompt_to_turnoff_volte_when_failed">"Serviciile VoLTE nu sunt disponibile. Dezactivați VoLTE pentru a apela."</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"Serviciul nu este disponibil. Dezactivați VoLTE din Setări."</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">Selectați LTE ca tip de rețea preferat înainte de a activa VoLTE.</string>

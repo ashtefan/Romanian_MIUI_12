@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="blackshark_name">H66L</string>
+    <string name="blackshark_right_name">H66R</string>
     <string name="ble_device_address">Adresa MAC a dispozitivului Bluetooth</string>
     <string name="ble_device_profile">Profilul dispozitivului Bluetooth</string>
     <string name="ble_device_profile_header_title">Setări</string>
@@ -64,7 +65,7 @@
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Mențineți apăsat butonul superior pentru %1$s secunde în timp ce îl închideți</string>
-    <string name="fast_connect_wbs_name">ZMI WBS01</string>
+    <string name="fast_connect_wbs_name">ZMI WBS02</string>
     <string name="fast_connect_wbs_reset">Mențineți apăsat butonul superior timp de %1$s secunde în timp ce îl închideți</string>
     <string name="goto_package">Deschideți %1$s</string>
     <string name="install_package">Instalați %1$s pentru mai multe facilități</string>
