@@ -335,7 +335,7 @@
     <string name="sleep_record_desc_detailed">Funcția de monitorizare a somnului este furnizată de către Mi Health. Odată activată, Mi Health înregistrează în mod automat somnul bazat pe modul de utilizare a telefonului, starea activităților, dar și pe orele setate pentru culcare și trezire și vă arată statistici sub formă de grafice. Pentru a vă monitoriza somnul mai precis, permiteți aplicației Mi Health să pornească în mod automat. Toate datele asociate vor fi stocate local pe telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
     <string name="sleep_record_no_data">Statisticile dvs vor apărea aici după ce Mi Health analizează suficiente date</string>
     <string name="sleep_remind">Memento oră de culcare</string>
-    <string name="sleep_time">Adormire</string>
+    <string name="sleep_time">Ați adormit la</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
     <string name="snooze_confirm_cancel">Anulaţi alarma</string>
@@ -436,7 +436,7 @@
     <string name="wake_up_alert">Alarmă</string>
     <string name="wake_up_alert_desc">Redă sunetul alarmei la ora de trezire</string>
     <string name="wake_up_ringtone">Sunet alarmă</string>
-    <string name="wake_up_time">Trezire</string>
+    <string name="wake_up_time">V-ați trezit la</string>
     <string name="workday_alarm_clock">Alarmă în zilele lucrătoare</string>
     <string name="worldclock_empty_text">Niciun ceas</string>
     <string name="worldclock_input_hint_text">Căutați țara sau orașul</string>

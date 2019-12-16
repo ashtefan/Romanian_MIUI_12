@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+   <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
@@ -20,7 +37,7 @@
     <string name="all_app_category_shopping">Cumpărături</string>
     <string name="all_app_category_tools">Unelte</string>
     <string name="all_apps">Toate aplicațiile</string>
-    <string name="all_apps_no_search_results">"Nu s-au găsit rezultate"</string>
+    <string name="all_apps_no_search_results">Nu s-au găsit rezultate</string>
     <string name="all_apps_search_app">Căutați aplicații</string>
     <string name="all_apps_search_market_message">Căutați online</string>
     <string name="all_apps_setting_desktop_desc">"Afișează toate aplicațiile instalate pe Ecranul principal. Atingeți și mențineți apăsată pictograma unei aplicații pentru a vedea scurtăturile disponibile, gestionați sau dezinstalați aplicația."</string>

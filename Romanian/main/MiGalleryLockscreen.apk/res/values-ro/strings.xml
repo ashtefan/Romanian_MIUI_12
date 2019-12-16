@@ -159,6 +159,7 @@
     <string name="declaration">Obțineți zilnic imagini de fundal noi direct pe ecranul telefonului în mod gratuit</string>
     <string name="declaration_lockscreen_title">Obțineți imagini noi de fundal în fiecare zi</string>
     <string name="declaration_title">Termeni și Condiții de utilizare</string>
+    <string name="delete_pic">Ștergeți imaginea</string>
     <string name="deny_des">Caruselul de imagini de fundal trebuie să poată accesa Galeria pentru a funcționa în mod normal.</string>
     <string name="detail_ad_type_ad">RECLAME</string>
     <string name="detail_ad_type_video">Videoclipuri populare</string>
@@ -283,6 +284,7 @@
     <string name="main_fragment_title_user">Setări</string>
     <string name="manage">Gestionați</string>
     <string name="minutes_15">La fiecare 15 minute</string>
+    <string name="minutes_5">La fiecare 5 minute</string>
     <string name="mode_auto_desc">Activați Caruselul de imagini de fundal pentru a primi imagini noi în mod automat</string>
     <string name="mode_auto_desc_open">Primiți imagini noi în mod automat</string>
     <string name="mode_auto_desc_selected">Se primesc imagini noi în mod automat</string>
@@ -404,6 +406,7 @@
     <string name="see_more">Vedeți mai mult</string>
     <string name="see_more_content">Vedeți mai multe</string>
     <string name="select_package">Selectați versiunea</string>
+    <string name="select_photo_album">Selectați albumul</string>
     <string name="select_picture">Selectați imaginile</string>
     <string name="select_picture_des">Adăugați fotografiile dvs. și imagini online pentru a le combina și afișa în derulare în mod automat.</string>
     <string name="setting_about_item_des">Versiunea</string>
@@ -429,7 +432,7 @@
     <string name="shortcut_created">Scurtătură creată cu succes</string>
     <string name="shortcut_exist">Scurtătura există deja</string>
     <string name="shortcut_failed">Nu s-a putut crea scurtătura</string>
-    <string name="show_wallpaper_loop_entry_title">Colaj Ecran principal</string>
+    <string name="show_wallpaper_loop_entry_title">Setări colaj</string>
     <string name="sign_in_title">Conectați-vă utilizând contul Mi</string>
     <string name="sliding_on_unlock">Glisați în sus pentru deblocare</string>
     <string name="sns_sign_in">Altă metodă de conectare</string>
@@ -507,6 +510,7 @@
     <string name="subscribe_free">Abonați-vă</string>
     <string name="subscribe_item_checked">Abonat</string>
     <string name="subscribe_item_unchecked">Dezabonat</string>
+    <string name="subscribe_success_content_per_5_minutes">Schimbați imaginea de fundal la fiecare 5 minute</string>
     <string name="subscribe_success_content_per_day">Schimbați imaginea de fundal în fiecare zi</string>
     <string name="subscribe_success_content_per_hour">Schimbați imaginea de fundal în fiecare oră</string>
     <string name="subscribe_success_content_per_quarter">Schimbați imaginea de fundal la fiecare 15 minute</string>
@@ -514,7 +518,7 @@
     <string name="subscribe_success_content_per_unlock">Schimbați imaginea de fundal de fiecare dată când dispozitivul este blocat</string>
     <string name="subscribe_update_time_setting">Setați un interval diferit</string>
     <string name="summary">"Acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt; pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
-    <string name="summary2">"Utilizând această caracteristică, sunteți de acord cu &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/font&gt;&lt;/a&gt;și &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Politica noastră de Confidențialitate&lt;/font&gt;&lt;/a&gt;.. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
+    <string name="summary2">Utilizând această caracteristică, sunteți de acord cu &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/font&gt;&lt;/a&gt; și &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Politica noastră de Confidențialitate&lt;/font&gt;&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​</string>
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href='%2$s'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
@@ -541,6 +545,8 @@
     <string name="toast_ad_down_tip">Se descarcă aplicația…</string>
     <string name="toast_ad_down_tip2">Se descarcă %s</string>
     <string name="toast_connect_failed_tip">Nu s-a putut conecta. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="toast_has_close_gallery">Caruselul de imagini de fundal s-a dezactivat cu succes</string>
+    <string name="toast_has_open_gallery">Caruselul de imagini de fundal s-a activat cu succes</string>
     <string name="toast_load_failed_tip">Nu s-au putut încărca elementele</string>
     <string name="toast_load_hd_fail">"Nu s-a putut încărca imaginea originală"</string>
     <string name="toast_neterror_tip">A apărut o eroare de rețea</string>

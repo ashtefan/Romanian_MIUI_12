@@ -340,7 +340,7 @@ pentru a ne ajuta să o dezvoltăm"</string>
     <string name="download_filter_others">Altele</string>
     <string name="download_filter_text">Fișiere</string>
     <string name="download_filter_video">Videoclipuri</string>
-    <string name="download_filter_zip">.zip</string>
+    <string name="download_filter_zip">arhiva .zip</string>
     <string name="download_in_process">Descărcare…</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_memory_info_avai">" disponibil %s|"</string>
@@ -488,7 +488,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="miuishare_account_login_cancel">Renunțați</string>
     <string name="miuishare_account_login_confirmation">Conectați-vă mai întâi</string>
     <string name="miuishare_account_login_ok">Conectați-vă</string>
-    <string name="miuishare_account_need_activate">Contul Weibo trebuie asociat contului dvs. Mi. Vă conectați a contul Mi?</string>
+    <string name="miuishare_account_need_activate">Contul Weibo trebuie asociat contului dumneavoastră Mi. Vă conectați la contul Mi?</string>
     <string name="miuishare_account_need_login">Contul Weibo trebuie să fie asociat contului Mi curent. Vă conectați pentru a partaja acum?</string>
     <string name="miuishare_app_name">Partajare Miui</string>
     <string name="miuishare_dialog_cancel">Renunțați</string>
