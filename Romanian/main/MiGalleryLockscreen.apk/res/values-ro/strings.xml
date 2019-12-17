@@ -518,7 +518,6 @@
     <string name="subscribe_success_content_per_unlock">Schimbați imaginea de fundal de fiecare dată când dispozitivul este blocat</string>
     <string name="subscribe_update_time_setting">Setați un interval diferit</string>
     <string name="summary">"Acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt; pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
-    <string name="summary2">Utilizând această caracteristică, sunteți de acord cu &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/font&gt;&lt;/a&gt; și &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Politica noastră de Confidențialitate&lt;/font&gt;&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​</string>
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href='%2$s'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
