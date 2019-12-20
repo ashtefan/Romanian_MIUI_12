@@ -58,6 +58,7 @@ Actualizaţi acum?"</string>
     <string name="account_settings_retry_summary">Apăsați aici pentru a sincroniza acest cont</string>
     <string name="account_settings_ringtone">Sunet de notificare</string>
     <string name="account_settings_servers">Setări server</string>
+    <string name="account_settings_smime_title">S/MIME(Securizat/Extensii Multifuncționale Internet Mail)</string>
     <string name="account_settings_summary">Frecvenţa sincronizării, notificări, etc.</string>
     <string name="account_settings_sync_calendar_enable">Sincronizaţi calendarul</string>
     <string name="account_settings_sync_calendar_summary">Sincronizează evenimentele din calendar pentru acest cont</string>
@@ -159,6 +160,11 @@ Actualizaţi acum?"</string>
     <string name="account_setup_security_required_title">Administrarea securităţii de la distanţă</string>
     <string name="account_setup_server_acc_manager_title">Conturi</string>
     <string name="account_setup_username_password_toast">Introduceţi o adresă de e-mail şi o parolă valide.</string>
+    <string name="account_smime">S/MIME</string>
+    <string name="account_smime_cert_title">certificat</string>
+    <string name="account_smime_encrypt">Criptare S/MIME</string>
+    <string name="account_smime_install_cert">Certificat instalare</string>
+    <string name="account_smime_sign">Semnătură S/MIME</string>
     <string name="account_sync_off">Sincronizare cont dezactivată.</string>
     <string name="account_sync_settings_settings">Sincronizare contacte și calendar</string>
     <string name="account_sync_settingstip_description">Sincronizare</string>
@@ -264,6 +270,15 @@ Actualizaţi acum?"</string>
     <string name="cancel_pop3_attchemt_downloading">"Nu se poate opri descărcarea în curs a atașamentelor pentru conturile de tip POP3"</string>
     <string name="cant_move_or_change_labels">"Nu se pot muta elemente din mai multe conturi."</string>
     <string name="cc_heading">"CC: "</string>
+    <string name="certificate_add_failed">Certificatul \"%s\" nu a putut fi instalat.</string>
+    <string name="certificate_added">S-a adăugat certificatul \"%s\".</string>
+    <string name="certificate_alias_prompt_certificate_name">Numele certificatului</string>
+    <string name="certificate_alias_prompt_title">Denumiți certificatul</string>
+    <string name="certificate_alias_prompt_w">Nume duplicat al certificatului; vă rugăm să redenumiți certificatul</string>
+    <string name="certificate_password_hit">vă rugăm să introduceți parola</string>
+    <string name="certificate_password_prompt_title">Extrageți certificatul</string>
+    <string name="certificate_password_tips">Introduceți o parolă pentru a extrage certificatul</string>
+    <string name="certificate_password_tips_w">Vă rugăm să introduceți parola corectă</string>
     <string name="change_folders_selection_dialog_title">Modificaţi dosarele</string>
     <string name="change_sync_settings">Modificaţi setările de sincronizare</string>
     <string name="changepw_dialog_tips">Reintroduceţi parola pentru %s</string>
@@ -339,11 +354,16 @@ Actualizaţi acum?"</string>
     <string name="contextmenu_send_mail">Trimiteţi un e-mail</string>
     <string name="contextmenu_sharelink">Distribuiţi linkul</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_cert_distrust">Anulați încrederea</string>
+    <string name="conversation_cert_info_tips">Expeditorul a semnat acest mesaj cu un certificat de încredere</string>
+    <string name="conversation_cert_info_title">Semnat</string>
+    <string name="conversation_cert_trust">Acordați încredere semnăturii</string>
     <string name="conversation_detail_hide">Ascundeți</string>
     <string name="conversation_detail_show">Detalii</string>
     <string name="conversation_folder_moved">Mutat în %1$s</string>
     <string name="conversation_item_mark_read">Citit</string>
     <string name="conversation_item_mark_unread">Necitit</string>
+    <string name="conversation_message_encrypt_tips">Acest mesaj este criptat. Vă rugăm să instalați un fișier certificat ce conține identititatea dvs. criptată pentru a decripta acest mesaj.</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Trimis către "</string>
     <string name="conversation_photo_welcome_text">Atingeți imaginea expeditorului pentru a selecta o conversație.</string>
     <string name="conversation_pull_ad_content">Gestionați-vă e-mailurile fără efort</string>
@@ -755,6 +775,7 @@ Actualizaţi acum?"</string>
     <string name="no_mails">Niciun e-mail.</string>
     <string name="no_matched_attachment">Niciun rezultat.</string>
     <string name="no_more_mail">Nu mai sunt mesaje</string>
+    <string name="no_open_smime_toast">Vă rugăm să instalați mai întâi certificatul S/MIME</string>
     <string name="no_recognize_describe">"Nu s-a găsit niciun e-mail care să conțină bilete sau rezervări.
 Încercați cu altă căsuță de e-mail."</string>
     <string name="no_search_results">Continuați căutarea în server</string>
@@ -1095,7 +1116,9 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="select_no_file">Niciun ataşament selectat</string>
     <string name="select_path">Selectați calea</string>
     <string name="send">Trimiteţi</string>
-    <string name="send_failed">Mesaj netrimis.</string>
+    <string name="send_encrypt_dialog_fail_content">Acest e-mail nu a putut fi criptat deoarece destinatarul nu are un certificat cu semnătură de încredere. Acest e-mail este trimis într-o formă necriptată?</string>
+    <string name="send_encrypt_dialog_fail_title">Nu se poate trimite e-mailul criptat</string>
+    <string name="send_failed">Mesajul nu a fost trimis.</string>
     <string name="send_feed_back">Trimiteţi feedback</string>
     <string name="send_feed_back_keywords">trimiteţi feedback</string>
     <string name="send_mail">Trimiteți</string>
