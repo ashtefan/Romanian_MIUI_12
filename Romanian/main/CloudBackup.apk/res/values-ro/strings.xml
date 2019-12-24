@@ -79,7 +79,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="cloud_backup_detail_title">Ecranul principal, aplicații și setări.</string>
     <string name="cloud_backup_have_data">A fost găsită o copie de rezervă în Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Renunțați</string>
-    <string name="cloud_backup_in_process">Creare copie de rezervă…</string>
+    <string name="cloud_backup_in_process">Se crează copia de rezervă</string>
     <string name="cloud_backup_select_recover">Selectați copia de rezervă din Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">Opriţi restabilirea din %s şi ștergeţi această copie de rezervă? Această acţiune este ireversibilă!</string>
     <string name="cloud_restore_task">Restabilire…</string>

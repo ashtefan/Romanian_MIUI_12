@@ -334,6 +334,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="location_permission_des">Reține locația pentru fotografii și videoclipuri</string>
     <string name="location_permission_not_ask_again">Permiteți aplicației Cameră să vă acceseze locația din Setări.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">Orientarea curentă</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">"Distanța dintre lentilă și obiect nu trebuie să depășească 10 cm"</string>
@@ -404,6 +405,8 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_selected">Selectați</string>
     <string name="mimoji_start_create">Se crează Mimoji-ul…</string>
     <string name="mimoji_tips">Atingeți pentru a face o fotografie. Atingeți și mențineți apăsat pentru a înregistra un videoclip.</string>
+    <string name="miservice_notification_content">Atingeți pentru a afla mai multe</string>
+    <string name="miservice_notification_title">Aflați mai multe despre noile funcții ale aplicației Cameră foto</string>
     <string name="module_name_beauty">Înfrumusețare</string>
     <string name="module_name_capture">Fotografie</string>
     <string name="module_name_fun">Clip scurt</string>
@@ -434,6 +437,9 @@ să pară mai mari în fotografii"</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
     <string name="photo_assistance_tips_title">Sfaturi live</string>
+    <string name="pic_flaw_blink_more">Se pare că o persoană din cadru a închis ochii</string>
+    <string name="pic_flaw_blink_one">Se pare că persoana din cadru a închis ochii</string>
+    <string name="pic_flaw_cover">Se pare că lentila este parțial obturată</string>
     <string name="popup_tip_3d_beauty_intro_text">Înfrumusețare 3D</string>
     <string name="portait_effect_entry_blackwhite">Alb-negru</string>
     <string name="portait_effect_entry_cool">Mint</string>
@@ -461,9 +467,9 @@ fundalul fotografiilor"</string>
     <string name="portrait_india_effect_entry_portrait">Portret</string>
     <string name="portrait_india_effect_entry_retro">Retro</string>
     <string name="portrait_india_effect_entry_romantic">Romantic</string>
-    <string name="portrait_india_effect_entry_strong">Puternic</string>
+    <string name="portrait_india_effect_entry_strong">Intens</string>
     <string name="portrait_india_effect_entry_sunny">Însorit</string>
-    <string name="portrait_india_effect_entry_sweet">Drăguț</string>
+  <string name="portrait_india_effect_entry_sweet">Caramel</string>
     <string name="portrait_india_effect_entry_warm">Cald</string>
     <string name="portrait_india_effect_entry_young">Tânăr</string>
     <string name="portrait_mode_depth_effect_success_hint">Adâncime de câmp</string>
@@ -626,8 +632,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_off">Oprit</string>
     <string name="pref_camera_hdr_title">HDR</string>
-    <string name="pref_camera_heic_image_format_description">Captați fotografii în formatul de înaltă eficiență HEIF</string>
-    <string name="pref_camera_heic_image_format_title">Format HEIC</string>
+    <string name="pref_camera_heic_image_format_description">Fotografiile în formatul de înaltă eficiență ocupă mai puțin spațiu de stocare dar nu sunt suportate de către unele aplicații</string>
+    <string name="pref_camera_heic_image_format_title">Format HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -842,6 +848,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">Oprit</string>
     <string name="pref_photo_assistance_tips_on">Pornit</string>
+    <string name="pref_pic_flaw_tip_summary">Primiți notificări în timp real când persoanele din cadru închid ochii sau când lentila este parțial obturată în timpul fotografierii</string>
+    <string name="pref_pic_flaw_tip_title">Notifică despre erori</string>
     <string name="pref_popup_camera_title">Camera pop-up</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_privacy_title">Politica de Confidențialitate</string>

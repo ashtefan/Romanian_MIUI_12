@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="extra_photo_common_permission_name">Bokeh</string>
-    <string name="extra_photo_common_save_fail">Salvarea a eșuat</string>
+    <string name="extra_photo_common_save_fail">Nu s-a putut salva</string>
     <string name="extra_photo_common_saving">Salvare…</string>
     <string name="motion_photo_cancel">Renunțați</string>
     <string name="motion_photo_re_pick_title">Fotografie live</string>

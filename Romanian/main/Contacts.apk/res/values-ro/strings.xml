@@ -833,7 +833,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="option_send_to_others">Redirecţionaţi</string>
     <string name="option_view_contact">Vizualizaţi</string>
     <string name="option_view_group">Vizualizaţi</string>
-    <string name="organizationLabelsGroup">Organizaţie</string>
+    <string name="organizationLabelsGroup">Poziție</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Alte contacte</string>
     <string name="other_phone">Alte telefoane</string>

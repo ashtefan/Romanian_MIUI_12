@@ -26,11 +26,11 @@
         <item>Salvați setările de sistem</item>
         <item>Găsiți telefonul</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Pentru identificarea dispozitivului dvs.</item>
         <item>Pentru localizarea dispozitivului și comutarea la modul pierdut</item>
     </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Pentru sincronizarea evenimentelor</item>
         <item>Pentru sincronizarea mesajelor</item>
         <item>Pentru sincronizarea mesajelor</item>

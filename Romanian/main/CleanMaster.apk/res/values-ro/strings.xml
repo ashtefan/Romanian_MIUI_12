@@ -349,14 +349,14 @@
     <string name="global_wa_setting_alert_time_three_day">La fiecare 3 zile</string>
     <string name="global_wa_setting_other_pref_category_title">Altele</string>
     <string name="global_wa_setting_other_pref_reconmmend_title">Recomandări</string>
-    <string name="global_wa_setting_other_pref_shortcut_title">Scurtătură Ecran principal</string>
+    <string name="global_wa_setting_other_pref_shortcut_title">Scurtătură pe Ecranul principal</string>
     <string name="global_wa_setting_privacy_pref_category_title">Confidențialitate</string>
     <string name="global_wa_setting_privacy_pref_mi_title">Politica de Confidențialitate Xiaomi</string>
     <string name="global_wa_setting_privacy_pref_third_title">Politicile de Confidențialitate ale terțelor părți</string>
     <string name="global_wa_shortcut_dialog_cancel">Renunțați</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">Nu arăta din nou</string>
     <string name="global_wa_shortcut_dialog_confirm">Creați</string>
-    <string name="global_wa_shortcut_dialog_content">Creați o scurtătură pe Ecranul principal pentru Curățarea WhatsApp făcând această funcție mai ușor accesibilă.</string>
+    <string name="global_wa_shortcut_dialog_content">Creați o scurtătură pe Ecranul principal pentru Curățarea WhatsApp, făcând această funcție mai ușor accesibilă.</string>
     <string name="global_wa_shortcut_dialog_title">Scurtătură pe Ecranul principal</string>
     <string name="global_wa_shortcut_toast">S-a creat cu succes scurtătura pe Ecranul principal</string>
     <string name="global_wa_wrapper">Imagini de fundal</string>
@@ -576,9 +576,9 @@
     <string name="recommended">Recomandate</string>
     <string name="remain_item_name_n7p"/>
     <string name="remain_item_name_pamp"/>
-    <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.&lt;/Data&gt;" "</string>
-    <string name="resutl_function_qq_clean_summary">" "&lt;Date&gt;Puteți goli &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din memoria cache generate de QQ&lt;/Date&gt;" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din cache-ul WeChat. Eliberați mai mult spațiu.&lt;/Data&gt;" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.&lt;/Data&gt;</string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Puteți goli &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din memoria cache generate de QQ&lt;/Data&gt;</string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din cache-ul WeChat. Eliberați mai mult spațiu.&lt;/Data&gt;</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
     <string name="scanning">Scanare…</string>
