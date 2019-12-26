@@ -50,7 +50,9 @@
     <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12_signature">d/M</string>
     <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+    <string name="aod_lock_screen_date_signature">d/M</string>
     <string name="aod_mode_preview">Previzualizați</string>
     <string name="aod_mode_style">Stilul ceasului și fundalul</string>
     <string name="aod_mode_style_title">Mai multe opțiuni</string>
@@ -60,6 +62,7 @@
     <string name="aod_mode_title">Ecran Activ permanent</string>
     <string name="aod_show_date_and_time">Afișează ora și data</string>
     <string name="aod_show_style_title">Elemente de afișat</string>
+    <string name="aod_signature_12">hh:mm aa</string>
     <string name="aod_style">Temă</string>
     <string name="aod_to_close">Dezactivați</string>
     <string name="apply">Aplicați</string>

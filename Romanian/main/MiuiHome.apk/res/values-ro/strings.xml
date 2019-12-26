@@ -20,7 +20,7 @@
     <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
-    <string name="add_custom_category">Personalizați</string>
+    <string name="add_custom_category">Personalizat</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="added_all_category">S-au adăugat cu succes toate aplicațiile</string>
     <string name="all_app_category_all">Toate</string>
@@ -117,6 +117,8 @@
     <string name="aqi_quality_index_light_pollution">Atenţie</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Nesănătos</string>
+    <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
+    <string name="auto_delete_category_dialog_title">Se șterge categoria</string>
     <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
     <string name="bad_wallpaper_source_prompt">"Imposibil de încărcat imaginea de fundal"</string>
     <string name="buffering">Încărcare memorie tampon…</string>
@@ -152,6 +154,7 @@
     <string name="defalut_launcher_title">Lansatorul implicit</string>
     <string name="default_folder_title_game">Jocuri</string>
     <string name="default_folder_title_meitu">Aplicații Meitu</string>
+    <string name="default_folder_title_other_apps">Alte aplicații</string>
     <string name="default_folder_title_recommend">Alte aplicații</string>
     <string name="default_folder_title_security">Sistem</string>
     <string name="default_folder_title_services">Servicii</string>

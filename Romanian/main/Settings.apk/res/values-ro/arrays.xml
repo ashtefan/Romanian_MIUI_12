@@ -347,7 +347,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_v3</item>
+        <item>LHDC_v2</item>
+        <item>LHDC_v1</item>
         <item>Activați codecurile opționale</item>
         <item>Dezactivați codecurile opționale</item>
     </string-array>
@@ -360,7 +362,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_v3</item>
+        <item>LHDC_v2</item>
+        <item>LHDC_v1</item>
         <item>Activați codecurile opționale</item>
         <item>Dezactivați codecurile opționale</item>
     </string-array>

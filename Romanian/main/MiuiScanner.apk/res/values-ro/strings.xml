@@ -71,6 +71,13 @@
     <string name="call_anyone">Apelați</string>
     <string name="camera_error_title">Eroare de cameră</string>
     <string name="cancel">Renunțați</string>
+    <string name="carsHome_title">Mașină</string>
+    <string name="cars_is_public">Lansată</string>
+    <string name="cars_no_public">Nelansată</string>
+    <string name="cars_solution">"Soluție: "</string>
+    <string name="cars_suitability">"Potrivire: "</string>
+    <string name="cars_title">Scanați un automobil sau o parte a acesteia</string>
+    <string name="carshome_data">Suport tehnic furnizat de către Autohome Inc.</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_for_updates">Căutați actualizări de tip Beta</string>
@@ -90,6 +97,7 @@
     <string name="continue_waiting">Așteptați în continuare</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_text_success">Text copiat</string>
+    <string name="copy_tracknum">Copiați codul de urmărire</string>
     <string name="crop_cancel_description">Renunțați</string>
     <string name="crop_done_description">Finalizat</string>
     <string name="crop_title_study">Decupați fotografia</string>
@@ -150,15 +158,17 @@
     <string name="gps">Navigați</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
     <string name="import_contact">Importați contactul</string>
-    <string name="impunity_declaration_content">"Aplicația Scanner trebuie să poată accesa camera foto și să proceseze imaginile realizate cât timp folosiți aplicația. Nu folosiți aplicația pentru a face fotografii obiectelor care conțin datele dvs. personale. Atingând butonul \"De acord\", acceptați &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Politica de Confidențialitate&lt;/a&gt;&lt;/font&gt; și permiteți aplicației Scaner să se conecteze la internet."</string>
+    <string name="impunity_declaration_content">"Aplicația Scanner trebuie să poată accesa camera foto și să proceseze imaginile realizate cât timp folosiți aplicația. Nu folosiți aplicația pentru a face fotografii obiectelor care conțin datele dvs. personale. Atingând butonul \"De acord\", acceptați &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Politica de Confidențialitate&lt;/a&gt;&lt;/font&gt; și permiteți aplicației Scaner să se conecteze la internet."</string>
     <string name="impunity_declaration_negative_text">Ieșire</string>
     <string name="impunity_declaration_title">Politica de Confidențialitate</string>
     <string name="jd_shopping_title">Căutați pe JD</string>
+    <string name="jingdong">JD</string>
     <string name="keywords_search_code">Scaner;Scanare;Cod QR;QR;Recunoaștere;Cod de bare;Coduri de bare;Produs;Produse;Alipay;WeChat;Cum să scanați codurile QR;Cum să scanați codurile de bare;Cum să scanați;Scaner MIUI</string>
     <string name="keywords_search_document">Scaner;Scanare document;Scanare documente;OCR;Scanare text;Scanare</string>
     <string name="keywords_search_namecard">Scaner;Carte de vizită;Cărți de vizită;Scan;Scanări;Card;Carduri;Contacte;Contact</string>
     <string name="keywords_search_study">Scaner;Problem;Rezolvare probleme;Temă;Școală;Fizică;Chimie;Matematică;Aritmetică;Engleză;Istorie;Chineză</string>
     <string name="keywords_search_translation">Scaner;Traducere;Dicționar;Engleză;Limbă străină;Limbă;Limbi;Din engleză în chineză;Italiană;Germană;Japoneză;Coreană;Spaniolă;Franceză;Traducere Baidu;Dicționar Youdao;Dicționar Baidu;Traducere Google</string>
+    <string name="kuaidi100_data">Furnizat de către Kuaidi 100</string>
     <string name="label_choose_picture">Selectați fotografia</string>
     <string name="label_flash_light">Bliț</string>
     <string name="language_entry_chinese_cn">Chineză simplificată</string>
@@ -168,6 +178,7 @@
     <string name="language_entry_japanese">Japoneză</string>
     <string name="language_entry_korean">Coreană</string>
     <string name="language_entry_spanish">Spaniolă</string>
+    <string name="logistics">Livrare expres</string>
     <string name="low_version_tip">Actualizați MIUI la cea mai recentă versiune pentru a utiliza aplicația Scaner.</string>
     <string name="miracast_connect">Proiectați</string>
     <string name="miracast_connect_fail">"Nu s-a putut proiecta; încercați din nou"</string>
@@ -176,6 +187,7 @@
     <string name="miracast_message">Proiectați pe %s?</string>
     <string name="miracast_switch_off">Ecranul wireless este oprit</string>
     <string name="miracast_switch_tip">Activați ecranul wireless pentru a utiliza această caracteristică</string>
+    <string name="mishop">Magazin Mi</string>
     <string name="module_title_business_card">Carte de vizită</string>
     <string name="module_title_code">Cod QR</string>
     <string name="module_title_document">Document</string>
@@ -195,6 +207,7 @@
     <string name="not_insert_contact">"Nu se poate adăuga contactul"</string>
     <string name="not_recommend_access_web_url">Accesați site-ul oricum</string>
     <string name="note">Remarcă:</string>
+    <string name="now_state">"Stare curentă: "</string>
     <string name="once">Doar o dată</string>
     <string name="open_url">Accesați URL-ul</string>
     <string name="password_toggle_content_description">Afișează parola</string>
@@ -208,14 +221,20 @@
     <string name="plant_reg_fail_2">"Nu s-a putut recunoaște acest obiect. Aplicația Scaner poate identifica doar plante."</string>
     <string name="plant_support">" (Suport tehnic)"</string>
     <string name="plant_title">Scanați planta pe care doriți să o identificați</string>
-  <string name="pref_camera_focusmode_default">continuous-picture</string>
-  <string name="pref_camera_jpeg_quality_fine">fine</string>
-  <string name="pref_camera_jpeg_quality_normal">normal</string>
-  <string name="pref_camera_jpeg_quality_superfine">superfine</string>
+    <string name="please_try_again_later">Așteptați un minut sau două și încercați din nou</string>
+    <string name="pref_camera_focusmode_default">fotografiere continuă</string>
+    <string name="pref_camera_jpeg_quality_fine">ridicată</string>
+    <string name="pref_camera_jpeg_quality_normal">normală</string>
+    <string name="pref_camera_jpeg_quality_superfine">super calitate</string>
     <string name="preparing_sd">Se pregătește mediul intern de stocare…</string>
     <string name="previous">Înapoi</string>
     <string name="prompt">Atenție</string>
     <string name="qr_code_details">Detalii cod QR:</string>
+    <string name="queryNum">Verificați comanda</string>
+    <string name="query_faile">Starea comenzii și detaliile acesteia nu au fost sincronizate încă. Verificați manual comanda.</string>
+    <string name="query_inai">Permiteți Mi AI să vă ajute</string>
+    <string name="query_more">Mai multe informații</string>
+    <string name="query_tracknum">Verificați comanda cu livrare expres</string>
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
     <string name="request_server_failed">Nu s-a putut conecta la server</string>
@@ -225,6 +244,7 @@
     <string name="search_menu_title">Căutați</string>
     <string name="secure_access_web_url">Accesați site-ul</string>
     <string name="see_app_details">Vizualizați detaliile aplicației</string>
+    <string name="see_details">Atingeți pentru a vedea detaliile</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="send_mail">Trimiteți un e-mail</string>
     <string name="setting_alipay">Alipay</string>
@@ -253,6 +273,7 @@
     <string name="study_vendor_info">Susținut de Zuoyebang</string>
     <string name="suggested_submission_success">Feedback trimis cu succes</string>
     <string name="switch_open">Activați</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Titlu:</string>
     <string name="to_install_title">Acest cod QR redirecționează către o aplicație neinstalată. Descărcați această aplicație acum?</string>
@@ -293,6 +314,7 @@
     <string name="url_is_unknown">"Nu se poate verifica dacă site-ul este sigur"</string>
     <string name="url_is_unsafety">"Acest site nu este sigur"</string>
     <string name="vender_info_translation_kingsoft">Oferit de Kingsoft</string>
+    <string name="waybill_num">"Comanda: "</string>
     <string name="web">Site:</string>
     <string name="website_details">Website:</string>
     <string name="weixin_code_tip">Scanați acest cod QR utilizând WeChat</string>
@@ -306,6 +328,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Aplicarea dvs va fi trimisă spre revizuire în curând.)"</string>
     <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
+    <string name="xiaoai_dialog">"Încercați să spuneți Mi AI ceea ce
+doriți să scanați"</string>
     <string name="you_have_permission_to_download">Atingeți pentru a descărca versiunea Beta</string>
     <string name="you_id">"ID-ul dvs: "</string>
     <string name="your_application_is_under_review">" (Aplicarea dvs este revizuită.)"</string>

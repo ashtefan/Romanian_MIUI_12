@@ -168,7 +168,7 @@
     <string name="confirm_install_scanner_message">"Aplicația Scaner vă permite să scanați coduri QR, coduri de bare și altele. Nu trebuie să vă conectați la internet pentru a o instala."</string>
     <string name="confirm_install_scanner_title">Instalați aplicația Scaner</string>
     <string name="confirm_location_alert">Înregistrare locaţie în fotografii</string>
-    <string name="confirm_location_message">Înregistraţi locaţia în fotografiile captate?</string>
+    <string name="confirm_location_message">&lt;Data&gt;Bine ați venit în aplicația Cameră! Etichetarea fotografiilor și a videoclipurilor cu locațiile unde au fost realizate va face Galeria dvs. mai organizată și vă va ajuta să găsiți elementele mai ușor. Este posibil ca unele caracteristici să nu fie disponibile dacă restricționați adăugarea informațiilor despre locație.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.&lt;/Data&gt;</string>
     <string name="confirm_location_title">Înregistraţi locaţia în fotografii?</string>
     <string name="confirm_recording_fail_calling_alert">Nu se poate înregistra în timpul apelului.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">O altă aplicație poate utiliza deja microfonul dispozitivului pentru a înregistra.</string>
@@ -331,6 +331,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="live_sticker_network_error_hint">Eroare de rețea</string>
     <string name="live_sticker_tab_name">Stickere Magice TikTok</string>
     <string name="live_sticker_updating">Actualizare…</string>
+    <string name="location_access_allow">Permiteți</string>
     <string name="location_permission_des">Reține locația pentru fotografii și videoclipuri</string>
     <string name="location_permission_not_ask_again">Permiteți aplicației Cameră să vă acceseze locația din Setări.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>

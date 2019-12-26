@@ -33,12 +33,21 @@
     <string name="activity_title_settings">Setări</string>
     <string name="activity_title_sleep">Somn</string>
     <string name="activity_title_sleep_details">Detalii somn</string>
+    <string name="add">Adăugați</string>
     <string name="add_body_weight_button">Adăugați date despre greutate</string>
     <string name="add_body_weight_record_button">Adăugați date despre greutate</string>
+    <string name="add_data_source">Se adaugă sursele datelor</string>
+    <string name="add_data_source_description">Adăugați date despre sănătate generate de către alte dispozitive în aplicația Sănătate Mi pentru a crește acuratețea statusului și pentru a obține sfaturi mai relevante pentru sănătate.
+Aplicația Sănătate Mi suportă dispozitivele adăugate anterior în aplicația Mi Home. Dacă nu puteți găsi dispozitivul pe care doriți să-l adăugați, verificați mai întâi dacă l-ați adăugat în aplicația Mi Home.</string>
+    <string name="add_data_source_login_and_open_sync">Conectați-vă la contul Mi și activați sincronizarea în cloud pentru a putea adăuga sursele datelor.</string>
+    <string name="add_data_source_open_sync">Activați sincronizarea în cloud pentru a putea adăuga sursele datelor.</string>
+    <string name="add_data_source_support_step">Acest dispozitiv nu generează date despre numărul pașilor efectuați. Puteți încerca să comutați la alte surse de date.</string>
     <string name="add_model_card">"Atingeți butonul din colțul din stânga sus
 pentru a adăuga carduri"</string>
+    <string name="added_data_source">Surse adăugate</string>
     <string name="all_records">Toate înregistrările</string>
   <string name="app_name">wcdb-room</string>
+    <string name="auth_description">Permiteți %1$s să sincronizeze date de la următoarele dispozitive</string>
     <string name="auto_start_fail">Nu s-a putut acorda permisiunea</string>
     <string name="auto_start_success">Permisiune acordată cu succes</string>
     <string name="auto_start_tips">Apăsați butonul \"Setări\" de mai jos pentru a deschide setările Mi Health și pentru a acorda permisiunile solicitate.</string>
@@ -46,6 +55,7 @@ pentru a adăuga carduri"</string>
     <string name="average_menstruation_days">Durata medie a ciclului</string>
     <string name="avg_steps">Pași zilnici</string>
     <string name="background_run_tips">Apăsați butonul \"Setări\" de mai jos și permiteți rularea în permanență în fundal a Mi Health.</string>
+    <string name="backtrack">Înapoi</string>
     <string name="basic_info_label_age">Vârsta</string>
     <string name="basic_info_label_birthday">Ziua de naștere</string>
     <string name="basic_info_label_gender">Sexul</string>
@@ -87,7 +97,19 @@ pentru a adăuga carduri"</string>
     <string name="daily_distance_label">Distanță</string>
     <string name="daily_steps">Pași</string>
     <string name="daily_time_label">Ora</string>
+    <string name="data">Date</string>
+    <string name="data_account_info_loading">Se obțin informațiile contului…</string>
+    <string name="data_delete_tip">Se șterg datele referitoare la sănătate din acest dispozitiv…</string>
     <string name="data_empty">Nu există date</string>
+    <string name="data_safety_tip_details">Datele despre sănătate vor fi păstrate pe acest dispozitiv după ce vă veți deconecta. Puteți șterge aceste date din Sănătate>Surse de date.</string>
+    <string name="data_safety_tip_details2">Unele date despre sănătate au fost încărcate în cloud. Puteți alege să păstrați datele pe acest dispozitiv sau să le ștergeți. Selectând opțiunea \"Șterge\" de mai jos vor fi eliminate doar datele din acest dispozitiv, dar elementele sincronizate vor fi păstrate în continuare în cloud.
+Dacă veți decide să ștergeți datele despre sănătate după ce ați ales să le păstrați, puteți face acest lucru din Sănătate>Surse de date.</string>
+    <string name="data_safety_tip_title">Se șterg datele despre sănătate</string>
+    <string name="data_source">Surse de date</string>
+    <string name="data_source_data_updating">Se actualizează datele…</string>
+    <string name="data_source_list_description">Aplicația Sănătate Mi obține date (%1$s) din aceste surse. Dacă datele există în mai multe surse, veți vedea datele din sursele care apar mai întâi în listă în Sănătate Mi.</string>
+    <string name="data_source_manage">Gestionați sursele datelor</string>
+    <string name="data_source_not_support_hm_description">"%1$s nu furnizează informații detaliate despre numărul de pași. Puteți comuta la alte surse de date din Mai mult>Surse de date.</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
     <string name="date_format_m_d">d/M</string>
@@ -100,15 +122,23 @@ pentru a adăuga carduri"</string>
     <string name="date_format_y_m_d_2">dd MMM, yyyy</string>
     <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
+    <string name="date_format_y_m_d_h_m_3">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Zi</string>
     <string name="deep_sleep">Somn profund</string>
+    <string name="delete_all_data">Ștergeți toate datele</string>
     <string name="delete_menstruation_record_confirm">Ștergeți această înregistrare?</string>
+    <string name="delete_origin_data_description">Ștergeți toate datele generate de către %1$s?</string>
     <string name="detail_format">%1$.1f</string>
+    <string name="device_data_manage">Gestionați dispozitivele</string>
+    <string name="device_data_sync">Sincronizați datele despre sănătate</string>
+    <string name="device_list_origin_description">Aceste dispozitive sunt asociate contului Mi %1$s. Dacă nu puteți găsi aici dispozitivul de care aveți nevoie, asigurați-vă că l-ați adăugat în aplicația corespunzătoare.</string>
+    <string name="device_off_sync_description">Datele despre sănătate generate de către acest dispozitiv nu vor fi sincronizate în Sănătate Mi</string>
     <string name="dialog_abandon">Renunțați</string>
     <string name="dialog_abandon_sleep_edit">Renunțați la modificări?</string>
+    <string name="dialog_account_perm_desc">Pentru accesarea contului dvs. Mi</string>
     <string name="dialog_agree_and_continue">De acord</string>
     <string name="dialog_auto_start_detail">"Permiteți Mi Health să pornească în mod automat pentru a putea primi notificări.
 Mi Health vă va notifica doar despre lucrurile importante."</string>
@@ -130,6 +160,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_health_applicator">Mi Health furnizează în prezent servicii doar persoanelor adulte.</string>
     <string name="dialog_juveniles_details">Conform Politicii noastre de Confidențialitate, vârsta minimă pentru a putea utiliza acest produs este de 18 ani.</string>
     <string name="dialog_juveniles_link">Conform &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Politicii noastre de Confidențialitate&lt;/a&gt;&lt;/font&gt;, vârsta minimă pentru a putea utiliza acest produs este de 18 ani.</string>
+    <string name="dialog_keep">Păstrați</string>
     <string name="dialog_known">Am înțeles</string>
     <string name="dialog_menstruation_purpose">Bine ați venit în aplicația Mi Health! \"Menstruația\" vă permite să înregistrați ciclurile, să determinați zilele estimate pentru ciclurile următoare și să primiți memento-uri. Toate datele corelate vor fi păstrate local în telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
     <string name="dialog_no_more_prompt">Nu arăta din nou</string>
@@ -143,13 +174,13 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Politica noastră de Confidențialitate&lt;/a &gt;&lt;/font&gt; pentru mai multe detalii."</string>
     <string name="dialog_privacy_policy_statement">Declarația Politicii de Confidențialitate</string>
     <string name="dialog_privacy_title">Termeni și condiții</string>
-    <string name="dialog_read_phone_perm_desc">Pentru accesarea ID-ului dispozitivului în vederea identificării acestuia.</string>
+    <string name="dialog_read_phone_perm_desc">Pentru identificarea dispozitivului dumneavoastră</string>
     <string name="dialog_sleep_goal_setting">Setați ținta pentru durata somnului</string>
     <string name="dialog_sleep_goal_subtitle">Dormiți pentru 7–9 ore zilnic</string>
     <string name="dialog_sleep_goal_title">Ținta pentru durata somnului</string>
     <string name="dialog_sleep_record_auto_start">Pentru a vă monitoriza somnul mai precis, permiteți Mi Health să pornească în mod automat.</string>
     <string name="dialog_sure">OK</string>
-    <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Mi Health! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a primi sfaturi pentru menținerea sănătății.</string>
+    <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Mi Health! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza stadiile dvs. în cloud.</string>
     <string name="dot">.</string>
     <string name="drink_water">Beți puțină apă și faceți o plimbare.</string>
     <string name="edit_basic_info_desc">Informații de bază</string>
@@ -179,18 +210,31 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="go_back_to_today">Înapoi la Azi</string>
     <string name="go_open_sleep_detector">Start</string>
     <string name="go_setting">Setări</string>
+    <string name="go_to_open">Activați</string>
     <string name="goal_daily_exercise">Ținta de activitate</string>
     <string name="goal_sleep_time">Ținta pentru durata somnului</string>
     <string name="goal_title">Păstrați-vă sănătatea</string>
     <string name="goto_setting_auto_start">Setări</string>
+    <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări>Servicii Cloud.</string>
+    <string name="guide_local_data_sync_subtitle">Pașii, somnul, greutatea și ciclurile menstruale</string>
+    <string name="guide_local_data_sync_title">Încărcați date din acest dispozitiv</string>
+    <string name="guide_other_data_sync_subtitle">Telefoane, brățări, cântare și alte dispozitive</string>
+    <string name="guide_other_data_sync_title">Sincronizați date de la alte dispozitive</string>
     <string name="guide_setting">Furnizați următoarele informații pentru a obține statistici precise despre menstruație</string>
     <string name="harm_learn_more">Aflați mai multe</string>
     <string name="health_app_name">Sănătate</string>
     <string name="health_app_name_dev">Health dev</string>
+    <string name="health_cloud_service">Servicii Cloud</string>
+    <string name="health_data_cloud_sync_subtitle">Sincronizați în cloud datele despre sănătate și accesați-le de pe orice dispozitiv</string>
+    <string name="health_data_cloud_sync_title">Sincronizați în cloud</string>
     <string name="health_score">Scor sănătate</string>
     <string name="health_score_tips">Scorul de sănătate este calculat pe baza IMC (indicele de masă corporală), dar și pe somn și pașii efectuați. Cu cât sunteți mai aproape de țintele propuse, cu atât scorul de sănătate este mai ridicat.</string>
     <string name="history_statistics">Statistici</string>
     <string name="home_page_card_setting">Carduri din pagina de pornire</string>
+    <string name="home_tip_open_data_sync">Activați sincronizarea în cloud</string>
+    <string name="home_tip_sync_done">Sincronizat cu succes</string>
+    <string name="home_tip_sync_immediately">Unele elemente nu s-au sincronizat. Atingeți pentru a sincroniza acum.</string>
+    <string name="home_tip_syncing">Se sincronizează datele despre sănătate…</string>
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
@@ -199,6 +243,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="improve_your_health_default_tips">Faceți exerciții și odihniți-vă îndeajuns pentru a vă menține sănătos.</string>
     <string name="input_body_weight">Introduceți datele despre greutate pentru a obține sfaturi despre sănătate</string>
     <string name="jump_over">Omiteți</string>
+    <string name="just_recently">Chiar acum</string>
     <string name="label_average_daily_sleep_duration">Durata medie a somnului</string>
     <string name="label_average_daily_sleep_time">Ora medie de adormire</string>
     <string name="label_average_daily_sleep_time2">Ora medie de adormire</string>
@@ -228,7 +273,10 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="label_wake_up_time">V-ați trezit</string>
     <string name="last_measure_date">"Ultima cântărire: "</string>
     <string name="last_measure_hours_minutes">%1$s de la ultima cântărire</string>
+    <string name="last_sync_time">Ultima sincronizare: %1$s</string>
     <string name="light_sleep">Somn ușor</string>
+    <string name="login_and_open_sync">Conectați-vă și activați sincronizarea</string>
+    <string name="login_and_open_sync2">Conectați-vă și activați sincronizarea</string>
     <string name="manual_adjust">Ajustați</string>
     <string name="manual_input">Introduceți manual</string>
     <string name="manual_page_label_body_weight_select">Selectați greutatea</string>
@@ -236,6 +284,10 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="manual_page_measure_date_title">Data și ora</string>
     <string name="mark_end">Perioadă încheiată</string>
     <string name="mark_start">Start</string>
+    <string name="member">Utilizator</string>
+    <string name="member_name_select">Selectați numele dvs. de utilizator</string>
+    <string name="member_name_select_purpose">Sincronizați datele despre sănătate generate de către %1$s</string>
+    <string name="member_name_select_purpose2">Selectați numele dvs. de utilizator pentru a sincroniza datele despre sănătate</string>
     <string name="menses_auto_start_description">Activarea memento-urilor va permite Mi Health să pornească în mod automat.</string>
     <string name="menses_features_description">Înregistrați-vă ciclurile și primiți memento-uri</string>
     <string name="menstrual_assistant">Menstruație</string>
@@ -253,6 +305,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="mesens_card_title_today_begin">Este posibil ca ciclul să înceapă azi</string>
     <string name="mesens_card_title_tomorrow_begin">Este posibil ca ciclul să înceapă mâine</string>
     <string name="mi_health">Mi Health</string>
+    <string name="mi_sports">Mi Fit</string>
     <string name="minute">M</string>
     <string name="model_card_setting">Setări file</string>
     <string name="modify">Editați</string>
@@ -269,14 +322,21 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_range_header_title">Selectați un interval de timp</string>
     <string name="mtrl_picker_range_header_unselected">Data de început - Data încheierii</string>
+    <string name="my_data_source">Surse de date</string>
     <string name="name_title_menstruation_today_end">Este de așteptat ca ciclul să se încheie astăzi</string>
     <string name="need_auto_start_permission">Pentru a obține statistici mai precise, permiteți Mi Health să pornească în mod automat.</string>
     <string name="need_unrestricted_permission">Pentru a obține statistici mai precise, permiteți Mi Health să ruleze în permanență în fundal.</string>
+    <string name="network_connect_failure">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="next_step">Următorul</string>
+    <string name="no_available_device">Niciun dispozitiv</string>
     <string name="no_body_weight_record">Nicio înregistrare aici deocamdată</string>
     <string name="no_records">Niciun element aici deocamdată.</string>
+    <string name="not_open_auto_sync">Sincronizarea este dezactivată</string>
     <string name="not_support_step">Dispozitivul dvs nu poate număra pașii efectuați</string>
+    <string name="open_data_sync_description">Activați sincronizarea în cloud pentru a sincroniza datele despre sănătate din alte surse.</string>
+    <string name="open_sync">Activați sincronizarea</string>
     <string name="open_unrestricted_permissions">Pentru a monitoriza somnul mai precis, permiteți Mi Health să ruleze în permanență în fundal.</string>
+    <string name="other_can_add_data_source">Surse disponibile</string>
     <string name="page">%1$d/%2$d</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="permission_check_result">Setată cu succes</string>
@@ -286,6 +346,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="predict_menstruation">Ciclu preconizat</string>
     <string name="preference_about">Despre</string>
     <string name="preference_basic_info">Informații de bază</string>
+    <string name="preference_click_login">Conectați-vă</string>
     <string name="preference_feedback">Feedback</string>
     <string name="preference_health_info_proposal_title">Obțineți statistici precise și sfaturi prețioase</string>
     <string name="preference_health_score_tip">Scor de sănătate</string>
@@ -330,6 +391,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="select_menstruation_end_date">Selectați data de încheiere a acestui ciclu</string>
     <string name="select_null">Neselectat</string>
     <string name="setting">Setări</string>
+    <string name="setting_data_cloud_sync_tip">Utilizați această caracteristică pentru a face o copie de rezervă a elementelor din acest dispozitiv și pentru a sincroniza date despre sănătate provenite de la alte dispozitive</string>
     <string name="setting_sedentary_off">OPRIT</string>
     <string name="setting_sedentary_on">PORNIT</string>
     <string name="setting_sedentary_title">Memento mișcare</string>
@@ -409,6 +471,14 @@ bazate pe informațiile personale."</string>
     <string name="suggestion_title">Sugestii</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sustain_title">"Nu v-ați mișcat de "</string>
+    <string name="sync_immediately">Sincronizați</string>
+    <string name="sync_is_off">Sincronizarea este dezactivată</string>
+    <string name="sync_set_network">Setări pentru rețea</string>
+    <string name="sync_status">Starea sincronizării</string>
+    <string name="sync_status_failure_retry">Nu s-a putut sincroniza. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="sync_status_in_progress">Se sincronizează…</string>
+    <string name="sync_status_network_failure">Nu s-a putut sincroniza. Conectați-vă la rețea și încercați din nou</string>
+    <string name="sync_status_never_done">Nesincronizate</string>
     <string name="text_edit_exercise_goal">Modificați ținta</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Finalizat</string>
@@ -431,6 +501,7 @@ bazate pe informațiile personale."</string>
     <string name="title_start_use_menstruation_assistant">Înregistrați-vă ciclul menstrual</string>
     <string name="title_today_exercise_detail">Activitățile de astăzi</string>
     <string name="today">Astăzi</string>
+    <string name="today_hh_mm">Astăzi la HH:mm</string>
     <string name="today_label">Astăzi</string>
     <string name="today_single">Astăzi</string>
     <string name="tomorrow">Mâine</string>
@@ -463,6 +534,7 @@ Actualizați acum?"</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="weight_keep_up">Minunat! Continuați să vă mențineți o greutate optimă.</string>
     <string name="weight_trend_offset_date">"De la %1$s la %2$s: "</string>
     <string name="weight_unit_kg">Kg</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
