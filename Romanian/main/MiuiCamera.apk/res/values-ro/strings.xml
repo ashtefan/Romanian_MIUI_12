@@ -282,6 +282,7 @@ Tipăriți copia pe o foaie A4 printr-o conexiune fără fir."</string>
     <string name="id_card_mode_use_hint_text_title">Scanați cartea de identitate</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Instalați</string>
+    <string name="kaleidoscope_fragment_tab_name">Caleidoscop</string>
     <string name="lens_dirty_detected_content">"Se pare că lentila camerei este murdară.
 Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="lens_dirty_detected_title_back">Lentila camerei posterioare este murdară</string>
