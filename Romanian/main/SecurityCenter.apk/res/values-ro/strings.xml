@@ -1144,6 +1144,7 @@ cardul de sănătate"</string>
     <string name="gamebox_immersion_tips_content">Modul Imersiv restricționează toate funcțiile cartelei SIM, cu excepția conexiunii de date mobile. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
     <string name="gamebox_immersion_tips_title">Atenție</string>
     <string name="gamebox_immerson_open">"Se activează modul Imersiv; nu schimbați rețelele…"</string>
+    <string name="gamebox_manual_record">Înregistrați</string>
     <string name="gamebox_milink">Proiectați</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>

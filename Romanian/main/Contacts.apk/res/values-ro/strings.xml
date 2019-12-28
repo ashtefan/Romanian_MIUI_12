@@ -315,6 +315,8 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="delete_call_log_message">Ştergeţi istoricul apelurilor?</string>
     <string name="delete_call_log_selected_title">Ștergeţi jurnalul apelurilor selectate?</string>
     <string name="delete_call_log_title">Selectaţi jurnalul apelurilor</string>
+    <string name="delete_conference_call_log_message">Ștergeți toate apelurile conferință asociate cu acest contact acum?</string>
+    <string name="delete_conference_call_log_title">Ștergeți înregistrările apelurilor conferință</string>
     <string name="delete_contact_calllog_title">Ştergeţi jurnalul apelurilor?</string>
     <string name="delete_dial_input">Ştergeţi</string>
     <string name="delete_duplicate">Îmbinaţi</string>
