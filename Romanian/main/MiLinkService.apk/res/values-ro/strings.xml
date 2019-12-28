@@ -110,7 +110,6 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="privacy_agree">De acord</string>
     <string name="privacy_text_1">&lt;Data&gt;Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern.
 Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%2$s&amp;gt;Declarația Legală HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate HappyCast&amp;lt;/a&amp;gt;.
-</string>
 Pentru a putea funcționa în mod normal, această aplicație trebuie să se conecteze la internet și necesită acordarea următoarelor permisiuni pentru a colecta informațiile personale:"&lt;/Data&gt;</string>
     <string name="privacy_text_2">&lt;Data&gt;"Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în acest caz.
 Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție."&lt;/Data&gt;</string>
