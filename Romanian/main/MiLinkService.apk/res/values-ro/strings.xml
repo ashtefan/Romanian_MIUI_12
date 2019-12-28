@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="actionbar_button_up_description">Înapoi</string>
     <string name="app_name">Serviciu UniPlay</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
@@ -20,13 +21,13 @@
     <string name="dialog_only_suport_content">Proiectați fotografii, videoclipuri sau muzică</string>
     <string name="dialog_open_wifi_bt">Activați</string>
     <string name="dialog_please_make_sure_tv_ok">Dispozitivul țintă trebuie să activeze proiectarea wireless a ecranului.</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">"Vă rugăm să verificați dacă dispozitivul țintă are activată funcția de proiectare wireless a ecranului.
-Pentru mai multe întrebări, vă rugăm să accesați secțiunea Ajutor."</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Asigurați-vă că funcția de proiectare wireless este activată pe dispozitivul țintă.
+Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la conectare."</string>
     <string name="dialog_recent_connected">Recent</string>
     <string name="dialog_retry">Încercați din nou</string>
     <string name="dialog_scanning_device">Se caută dispozitive în apropiere…</string>
     <string name="dialog_scanning_precondition">Activați Wi-Fi-ul și Bluetooth-ul pe telefonul dvs. pentru a utiliza Ecranul Wireless.</string>
-    <string name="dialog_select_tv">Selectați dispozitivul la care să vă conectați</string>
+    <string name="dialog_select_tv">Selectați dispozitivul (%d)</string>
     <string name="dialog_show_help">Ajutor</string>
     <string name="disconnect">Opriți proiectarea</string>
     <string name="hang_up">Proiectați când ecranul este oprit</string>
@@ -81,7 +82,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_34">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți selecta Aplicații &gt; Proiectare &gt; Dispozitiv Androide &gt; Miracast.</string>
     <string name="help_page_text_35">Numărul de telefon pentru suport Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți apăsa butonul [SURSĂ] de pe telecomandă și apoi să selectați \"Oglindire ecran\"; La alte modele se poate selecta din Rețea &gt; Setări Wi-Fi direct; Această funcție este activată în mod implicit pe multe modele.</string>
+    <string name="help_page_text_37">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți apăsa butonul [SURSĂ] de pe telecomandă și apoi să selectați \"Oglindire ecran\"; La alte modele, se poate activa această funcție din Rețele &gt; Wi-Fi direct; Această funcție este activată în mod implicit pe multe modele.</string>
     <string name="help_page_text_38">Numărul de telefon pentru suport Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți selecta Aplicații &gt; Oglindire ecran.</string>
@@ -94,7 +95,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_47">Numărul de telefon pentru suport TCL: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
     <string name="help_page_text_49">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. Pentru a activa această funcție, mergeți la Aplicațiile Mele &gt; Ecran Wi-Fi.</string>
-    <string name="help_page_text_50">Numărul de telefon pentru suport AODIN:400-810-5858</string>
+    <string name="help_page_text_50">Numărul de telefon pentru suport AODIN: 400-810-5858</string>
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Vă rugăm să vă asigurați că modelul dvs. cu ecran mare suportă protocolul Miracast. La unele model, puteți selecta Setări &gt; Rețea &gt; Ecrane multiple interactive &gt; Ecran Wireless.</string>
     <string name="help_page_text_53">Numărul de telefon pentru suport LeTV: 10109000</string>
@@ -107,14 +108,18 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
     <string name="notification_show_more">Vedeți mai multe funcții</string>
     <string name="privacy_agree">De acord</string>
-    <string name="privacy_text_1">"　　Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern LeEco. Înainte de a utiliza această caracteristică, citiți și acceptați "&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;Declarația legală LeEco Casting&lt;/a&gt; și &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html"&gt;Politica de Confidențialitate LeEco&lt;/a&gt;.</string>
-    <string name="privacy_text_2">"　　Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări. Citiți și acceptați "&lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href="https://privacy.mi.com/all/en_US/"&gt;Politica noastră de Confidențialitate&lt;/a&gt; înainte de a utiliza această funcție.</string>
+    <string name="privacy_text_1">&lt;Data&gt;Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern.
+Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%2$s&amp;gt;Declarația Legală HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate HappyCast&amp;lt;/a&amp;gt;.
+</string>
+Pentru a putea funcționa în mod normal, această aplicație trebuie să se conecteze la internet și necesită acordarea următoarelor permisiuni pentru a colecta informațiile personale:"&lt;/Data&gt;</string>
+    <string name="privacy_text_2">&lt;Data&gt;"Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în acest caz.
+Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție."&lt;/Data&gt;</string>
     <string name="privacy_text_pemission">"　　•Accesarea și salvarea imaginilor pe dispozitiv pentru a le putea proiecta pe un monitor extern
 　　•Înregistrarea apelurilor și audio pentru a le putea proiecta pe dispozitive externe
 　　•Acces la numărul de telefon, IMEI și IMSI pentru a vă identifica dispozitivul
 　　•Acces la locație pentru a găsi dispozitivele din apropiere"</string>
     <string name="private_protect">Protejarea confidențialității</string>
-    <string name="san_wait_msg_1">Dispozitivul țintă trebuie să activeze proiectarea wireless</string>
+    <string name="san_wait_msg_1">Activați proiectarea wireless pe dispozitivul țintă</string>
     <string name="san_wait_msg_2">Căutarea dispozitivelor poate dura ceva timp…</string>
     <string name="san_wait_msg_3">"Dispozitivele externe sunt mai ușor de găsit când sunt conectate la aceeași rețea cu a telefonului dumneavoastră"</string>
     <string name="san_wait_msg_4">"Vedeți secțiunea \"Ajutor\" dacă nu găsiți dispozitivele"</string>

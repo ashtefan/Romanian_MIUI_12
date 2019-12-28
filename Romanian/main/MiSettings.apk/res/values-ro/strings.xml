@@ -8,6 +8,18 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">ștergere</string>
@@ -36,6 +48,11 @@
     <string name="category_other">Altele</string>
     <string name="color_gamut">Gamă de culori</string>
     <string name="contrast_ratio">Contrast</string>
+    <string name="create">Creați</string>
+    <string name="create_failed">Nu s-a putut crea</string>
+    <string name="create_shortcut">Scurtătură pe Ecranul principal</string>
+    <string name="created">Creată</string>
+    <string name="created_successfully">Creată cu succes</string>
     <string name="first_unlock_time">"Prima deblocare: "</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
@@ -47,10 +64,13 @@
     <string name="hsv_space_color_value">Valoare</string>
     <string name="intelligent_recognition_item_summary">Utilizați un ton de apel desemnat pentru apeluri de la serviciile de livrare și taxi. Această caracteristică va funcționa când %s este setat ca ton de apel implicit.</string>
     <string name="intelligent_recognition_item_title">Identificare servicii</string>
+    <string name="lock_summary">Protejați-vă informațiile personale</string>
     <string name="mms">Mesagerie</string>
     <string name="more_ringtone">Toate sunetele de apel</string>
+    <string name="more_settings">Setări</string>
     <string name="most_unlock_week_day">"Cele mai multe deblocări: "</string>
     <string name="network_error">A apărut o eroare de rețea. Încercați din nou</string>
+    <string name="no_matching">Nu s-a putut găsi o aplicație pentru a deschide acest link</string>
     <string name="notification_sound">Sunete de notificare</string>
     <string name="other_parameter">Altul</string>
     <string name="p3_color_region">P3</string>
@@ -58,6 +78,7 @@
     <string name="preview">Previzualizați</string>
     <string name="primary_color_region">Original</string>
     <string name="primary_color_region_summary">Identificați gama de culori în mod automat prin calibrarea culorilor</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="reset_edit">Renunțați la modificări</string>
     <string name="restore_default">Restaurați setările implicite</string>
     <string name="retry">Reîncercați</string>
@@ -73,10 +94,12 @@
     <string name="screen_original_gamut">Îmbunătățit</string>
     <string name="screen_original_gamut_summary">Afișează tot conținutul ecranului în cea mai largă gamă de culori posibilă</string>
     <string name="screen_paper_mode_apps_loading">Doar o secundă…</string>
+    <string name="screen_time_lock">Timp blocare ecran</string>
     <string name="search_app_name">Căutați aplicații</string>
     <string name="search_empty">Nicio aplicație găsită</string>
     <string name="search_menu_title">Căutați</string>
     <string name="several_days_use_time">Timp de ecran: %2$s</string>
+    <string name="shortcut_created">Această scurtătură există deja</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Mesaj trimis</string>
@@ -87,6 +110,8 @@
     <string name="stop_app_timer_fail">Timpul de ecran nu a putut fi dezactivat</string>
     <string name="stop_app_timer_success">Timpul de ecran a fost dezactivat</string>
     <string name="stop_app_timer_tip">Toate datele și permisiunile legate de Timpul de ecran vor fi șterse după dezactivare, inclusiv setările, datele locale și din cloud, etc.</string>
+    <string name="stop_summary">Toate datele și informațiile referitoare la Timpul de ecran vor fi șterse când dezactivați această funcție</string>
+    <string name="suggestion">Feedback</string>
     <string name="thememanager_not_found">"Nu s-a putut deschide aplicația Teme. Asigurați-vă că această aplicație este instalată în telefon."</string>
     <string name="today_usage_title">Astăzi</string>
     <string name="today_use_time">Timp de ecran: %1$s</string>
@@ -97,6 +122,7 @@
     <string name="trend_from_yesterday_more_simple">%1$s mai mult decât ieri</string>
     <string name="unlock_times_per_day">"Media zilnică: "</string>
     <string name="unlock_times_per_hour">"Deblocări pe oră: "</string>
+    <string name="usage_agree">Accept</string>
     <string name="usage_app_get_it">Am înțeles</string>
     <string name="usage_app_limit_alter_summary">"Se pare că această limită este mai mică decât timpul în care ați utilizat astăzi această aplicație. Setați limita oricum?"</string>
     <string name="usage_app_limit_alter_title">Verificați limita de timp pentru ecran</string>
@@ -114,6 +140,7 @@
     <string name="usage_app_weekend_limit">Zile libere</string>
     <string name="usage_beat_fans">Mai bine decât %s fani Mi</string>
     <string name="usage_continuous_days">Perioadă</string>
+    <string name="usage_exit">Ieșiți</string>
     <string name="usage_focus_focus_premission_main_summary">Această aplicație trebuie să vă acceseze informațiile despre cont pentru a vă înregistra starea utilizării modului Focusat.</string>  
     <string name="usage_focus_focus_premission_second_summary">Dacă nu acceptați să acordați asemenea permisuni, nu veți putea utiliza unele caracteristici ale acestei aplicații. Totuși, funcțiile de bază vor fi disponibile în continuare. Puteți oricând restricționa permisiunile sau revoca autorizarea din Setări.</string>
     <string name="usage_focus_save_success">Salvată cu succes în Galerie</string>
@@ -127,8 +154,19 @@
     <string name="usage_focus_title_level3">Ridicați-vă deasupra celorlalți</string>
     <string name="usage_focus_title_level4">Găsiți bucurie în consecvență</string>
     <string name="usage_focus_title_level5">Continuați să rămâneți focusați</string>
+    <string name="usage_home_permission_account_summary">Pentru conectarea la contul Mi și sincronizarea datelor referitoare la Timpului de ecran</string>
+    <string name="usage_home_permission_account_title">Accesarea informațiilor contului</string>
+    <string name="usage_home_permission_phone_summary">Pentru identificarea dispozitivului dvs. utilizând VAID</string>
+    <string name="usage_home_permission_phone_title">Accesarea informațiilor despre dispozitiv</string>
     <string name="usage_home_premission_main_summary">Bine ați venit în aplicația Timp de ecran! Puteți utiliza această aplicație pentru a vă seta limite de utilizare a ecranului, să vedeți starea și să comutați la modul Focus. Această aplicație trebuie să colecteze informații despre timpul de utilizare a ecranului (de ex. de câte ori deblocați telefonul și aprindeți ecranul, dar și cât timp utilizați aplicațiile) pentru a funcționa în mod normal."</string>
+    <string name="usage_home_premission_main_summary_new">"Bine ați venit în aplicația Timp de ecran!
+Pentru a putea funcționa în mod normal, această aplicație trebuie să colecteze informații despre timpul de utilizare a ecranului: numărul de deblocări ale telefonului, numele aplicațiilor și durata de utilizare a aplicațiilor pentru a genera statistici despre Timpul de ecran; setările modului Focusat sunt necesare pentru a genera statistici despre acesta.
+Această aplicație trebuie de asemenea să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:"</string>
+    <string name="usage_home_premission_main_summary_new_o">"Bine ați venit în aplicația Timp de ecran!
+Pentru a putea funcționa în mod normal, această aplicație trebuie să colecteze informații despre timpul de utilizare a ecranului: numărul de deblocări ale telefonului, numele aplicațiilor și durata de utilizare a aplicațiilor pentru a genera statistici despre Timpul de ecran.
+Această aplicație trebuie de asemenea să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:"</string>
     <string name="usage_home_premission_second_summary">Pentru a putea funcționa în mod normal, această aplicație trebuie să vă colecteze datele personale. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.</string>
+    <string name="usage_home_premission_second_summary_new">Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante. Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați informații personale, nu veți putea utiliza această aplicație. Puteți revoca autorizarea din Timp de ecran>Setări>Dezactivați timpul de ecran. Dacă aveți întrebări referitoare la confidențialitate, ne puteți contacta la privacy@xiaomi.com."</string>
     <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
     <string name="usage_state_add_up_count">Sesiuni</string>
     <string name="usage_state_add_up_days">Zile</string>

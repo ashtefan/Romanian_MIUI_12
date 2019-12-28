@@ -65,7 +65,7 @@
     <string name="app_store_installing_message">Se instalează…</string>
     <string name="app_store_missing_message">Se pare că nu ați instalat Magazinul nostru oficial de aplicații. Îl instalați acum?</string>
     <string name="app_store_missing_title">Magazinul de aplicații nu este instalat</string>
-    <string name="application_detail_tips">Informațiile aplicației și setări permisiuni</string>
+    <string name="application_detail_tips">Detaliile aplicației și permisiunile necesare</string>
     <string name="auto_startup_dialog_msg">Această aplicație poate porni fără permisiunea dumneavoastră.</string>
     <string name="available_via_passpoint">Disponibil prin %1$s</string>
     <string name="battery_info_status_charging">Încărcare</string>
@@ -302,8 +302,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_failed_invalid_apk">Pachetul pare să fie corupt.</string>
     <string name="install_failed_msg">"%1$s nu a putut fi instalată pe telefonul dvs."</string>
     <string name="install_failed_system_incompatible">Această aplicație nu este compatibilă cu MIUI"</string>
-    <string name="install_finished_notification_summary">Atingeți pentru a curăța acum</string>
-    <string name="install_finished_notification_title">%1$s instalată cu succes; eliberați %2$s acum</string>
+    <string name="install_finished_notification_summary">Atingeți pentru a elibera spațiu de stocare</string>
+    <string name="install_finished_notification_title">%1$s s-a instalat cu succes. Puteți elibera %2$s din spațiul de stocare.</string>
     <string name="install_from_appstore_hint">Vă recomandăm să instalați aplicația din &lt;u&gt;&lt;font color=#91c727&gt;Magazinul de Aplicații&lt;/font&gt;&lt;/u&gt;</string>
     <string name="installing">Se instalează…</string>
     <string name="installing_app">Se instalează %1$s…</string>
@@ -437,7 +437,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="miui_install_source_unkown">Necunoscut</string>
     <string name="miui_install_success">Instalată cu succes</string>
     <string name="miui_install_version">Versiune: %1$s | Dimensiune: %2$s</string>
-    <string name="miui_install_version_3">Versiune: %1$s -&gt; %2$s | Dimensiune: %3$s</string>
+    <string name="miui_install_version_3">Versiunea %1$s -&gt; %2$s | Dimensiune: %3$s</string>
     <string name="miui_installing">Se instalează…</string>
     <string name="miui_installing2">Se instalează…</string>
   <string name="miui_message_staging_0">Staging app   </string>
@@ -544,7 +544,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="privacy_relative">Confidențialitate</string>
     <string name="reboot_time">Se pregătește pentru repornire… (%1$s)</string>
     <string name="remaining_length_format">%1$s rămas</string>
-    <string name="replace_app_des_text">Doriți să actualizați această aplicație?</string>
+    <string name="replace_app_des_text">Doriți să înlocuiți aplicația cu această versiune?</string>
     <string name="retail_demo_reset_message">Introduceți parola pentru a readuce la setările din fabrică în modul Demo</string>
     <string name="retail_demo_reset_next">Următorul</string>
     <string name="retail_demo_reset_title">Parola este necesară</string>
@@ -680,7 +680,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="untrusted_external_source_always_click">Permite întotdeauna</string>
     <string name="untrusted_external_source_title">Permiteți \"%1$s\" să instaleze aplicații?</string>
     <string name="untrusted_external_source_warning">Pentru siguranța dumneavoastră, nu se pot instala aplicații necunoscute din această sursă pe telefon.</string>
-    <string name="untrusted_external_source_warning_summary">Telefonul și datele dvs personale sunt vulnerabile la atacurile provenite din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
+    <string name="untrusted_external_source_warning_summary">Telefonul și datele dvs personale sunt vulnerabile la atacurile provenite de la aplicațiile instalate din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
     <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
     <string name="usb_audio_disable_routing_summary">Dezactivați rutarea automată la perifericele audio USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizați limbile sistemului</string>

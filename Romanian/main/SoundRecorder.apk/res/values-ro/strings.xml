@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Avertizare utilizare date</string>
     <string name="delete">Ştergeţi</string>
+    <string name="delete_cloud_data_at_same_time">Ștergeți de asemenea și din cloud</string>
     <string name="delete_dialog_message">Ştergeţi înregistrarea?</string>
     <string name="deleting_message">Ştergere…</string>
     <string name="details">Detalii</string>
@@ -143,6 +144,8 @@
     <string name="preference_online_orders">Comenzi online</string>
     <string name="preference_recog_faqs">Întrebări frecvente referitoare la transcrierea online</string>
     <string name="preference_recog_terms">Termenii Serviciului</string>
+    <string name="preference_record_desktop_indicator_summary">Afișează un indicator albastru pe Ecranul principal când Înregistrarea sunetelor rulează în fundal</string>
+    <string name="preference_record_desktop_indicator_title">Indicator pe Ecranul principal</string>
     <string name="preference_record_scenes_dialog_title">Selectaţi scena înregistrării</string>
     <string name="preference_scenes">Tip înregistrare</string>
     <string name="preference_silent_mode">Dezactivaţi soneria în timpul înregistrării</string>

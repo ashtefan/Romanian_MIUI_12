@@ -438,6 +438,8 @@
     <string name="delete">Ştergeţi</string>
     <string name="delete_album_failed">Nu s-a putut șterge albumul.</string>
     <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
+    <string name="delete_album_msg_format_cloud">Ștergeți %1$s %2$s din Xiaomi Cloud și de pe toate dispozitivele sincronizate?</string>
+    <string name="delete_album_msg_format_local">Ștergeți %1$s %2$s?</string>
     <string name="delete_album_success">Album șters</string>
     <string name="delete_from_all_devices_and_cloud">de pe toate dispozitivele și din Xiaomi Cloud</string>
     <string name="delete_from_cloud">Ștergeți fotografiile din Xiaomi Cloud</string>
@@ -464,6 +466,7 @@
     <string name="disable_auto_upload_tip">Dezactivați sincronizarea în cloud pentru acest album?</string>
     <string name="disable_auto_upload_title">Dezactivați sincronizarea în cloud</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
+    <string name="doc_photo_enter"/>
     <string name="document_provider_guide_step_1">1. Atingeți butonul \"Mai multe\".</string>
     <string name="document_provider_guide_step_2">2. Atingeți \"Afișează stocarea internă\".</string>
     <string name="document_provider_guide_step_3">3. Atingeți butonul de meniu lateral.</string>
@@ -691,8 +694,12 @@ efecte pentru fotografii"</string>
     <string name="filter_scene_vivid">Intens</string>
     <string name="filter_scene_warm">Soare</string>
     <string name="filter_single_sky">Cer scăpărând</string>
+    <string name="filter_sky_clear_sky">Cer senin</string>
     <string name="filter_sky_cloudy">Înnorat</string>
+    <string name="filter_sky_cumulus">Cumulus</string>
+    <string name="filter_sky_dawn">Zori de zi</string>
     <string name="filter_sky_detect_forbidden_tips">"Nu s-a putut detecta cerul"</string>
+    <string name="filter_sky_double_rainbow">Curcubeu dublu</string>
     <string name="filter_sky_download_failed">"Nu s-a putut descărca extensia. Verificați setările de rețea și încercați din nou."</string>
     <string name="filter_sky_download_finish">Extensie descărcată cu succes</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">"Dacă nu sunteți conectat la o rețea Wi-Fi, puteți utiliza datele mobile pentru a descărca extensia (%1$d MB) care vă permite să înlocuiți cerul din fotografiile dumneavoastră."</string>
@@ -700,9 +707,13 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_dusk">Amurg</string>
     <string name="filter_sky_glow">Strălucitor</string>
     <string name="filter_sky_hint">Cer scăpărând</string>
+    <string name="filter_sky_nimbus">Nimbus</string>
     <string name="filter_sky_rainbow">Curcubeu</string>
+    <string name="filter_sky_snowy">Ninsoare</string>
+    <string name="filter_sky_stratus">Stratus</string>
     <string name="filter_sky_sunny">Însorit</string>
     <string name="filter_sky_sunset">Apus</string>
+    <string name="filter_sky_twilight">Amurg</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Xiaomi Cloud</string>
     <string name="finish_fill_baby">Creare</string>
     <string name="first_time_add_video_to_secret_tips">Actualizați aplicația Galerie pentru a putea ascunde videoclipuri</string>
@@ -1265,6 +1276,10 @@ pentru a personaliza Galeria"</string>
     <string name="request_sms_url_title">Sugestie</string>
     <string name="retry_to_create_album">Încercați din nou</string>
     <string name="retry_to_request_qr_code">Încercați din nou</string>
+    <string name="risk_control_deleted_date">dd/MM</string>
+    <string name="risk_control_deleted_message">Cineva a șters elementele dvs. din Galeria cloud utilizând un %3$s pe %1$s la %2$s. Ați fost dumneavoastră?</string>
+    <string name="risk_control_deleted_time">HH:mm</string>
+    <string name="risk_control_deleted_title">Avertisment de securitate</string>
     <string name="runtime_permission_ungranted">Aplicația Galerie s-a închis datorită unei permisiuni încălcate</string>
     <string name="same_name_album_exist_and_toast">"Un album cu același nume există deja. În schimb a fost creat '%s'."</string>
     <string name="saturday">Sâmbătă</string>
@@ -1419,6 +1434,7 @@ pentru a personaliza Galeria"</string>
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
     <string name="slow_motion_enter"/>
+    <string name="special_type_8k">AI 8K</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Clar și luminos</string>
@@ -1445,6 +1461,7 @@ pentru a personaliza Galeria"</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="special_type_eye_repair">S-au remediat ochii închiși utilizând AI</string>
     <string name="special_type_hdr">HDR</string>
+    <string name="special_type_log">LOG</string>
     <string name="special_type_night_beauty">Portret AI în lumină redusă</string>
     <string name="special_type_night_mode">Mod noapte AI</string>
     <string name="special_type_portrait">Portret pictură AI</string>
@@ -1571,6 +1588,7 @@ pentru a personaliza Galeria"</string>
     <string name="trash_bin">Coș de gunoi</string>
     <string name="trash_bin_key_word">Fotografii eliminate</string>
     <string name="trash_bin_summary">Vedeți fotografiile salvate care au fost șterse recent</string>
+    <string name="trash_bin_summary_local">Vedeți fotografiile și videoclipurile șterse recent</string>
     <string name="trash_empty">Niciun element aici.</string>
     <string name="trash_menu_delete">Ștergeți</string>
     <string name="trash_menu_recovery">Restaurați</string>
@@ -1605,7 +1623,7 @@ pentru a personaliza Galeria"</string>
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
     <string name="user_alias_self">Individual</string>
-    <string name="user_notice_identify_summary_format">"Utilizând acest serviciu sunteți de acord cu %1$s și %2$s Xiaomi."</string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;Utilizând acest serviciu sunteți de acord cu &amp;lt;a href=\"%1$s\"&amp;gt;\"Termenii Serviciului\"&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;\"Politica de Confidențialitate Xiaomi\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="video_edit_file_not_exits_tip">Descărcați mai întâi videoclipul</string>
     <string name="video_editor_abandon_changes_tip_message">Renunțați la toate modificările?</string>

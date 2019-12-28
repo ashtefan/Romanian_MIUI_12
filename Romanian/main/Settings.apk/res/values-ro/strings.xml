@@ -2815,6 +2815,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="google_service_title">Servicii Google</string>
     <string name="google_title">Google</string>
     <string name="got_it">Am înțeles</string>
+    <string name="gps_description">Sunt suportate multiple sisteme de sateliți de navigare (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="gxzw_add_fingerprint_area">Scanner pentru amprentă</string>
     <string name="gxzw_add_fingerprint_continue">Continuați</string>
@@ -6044,6 +6045,8 @@ Codul PIN poate fi incorect."</string>
     <string name="sound_title">Sunet</string>
     <string name="sound_vibrate_settings">Sunet şi vibrare</string>
     <string name="sound_work_settings">Sunete profil de servici</string>
+    <string name="speaker">Difuzor</string>
+    <string name="speaker_clean">Curățați difuzorul</string>
     <string name="special_access">Aplicații cu acces special</string>
     <string name="special_access_more">Vedeți mai multe</string>
     <string name="speed_label_fast">Rapid</string>

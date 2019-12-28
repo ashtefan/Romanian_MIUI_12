@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">S-a pornit înregistrarea video</string>
     <string name="accessibility_camera_record_stop">S-a oprit înregistrarea video</string>
     <string name="accessibility_camera_shutter_finish">Fotografie realizată cu succes</string>
+    <string name="accessibility_camera_switch_capture_recording">Comutați între modurile foto și video</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Modul Corp complet este dezactivat</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Modul Corp complet este activat</string>
     <string name="accessibility_camera_video_960fps_120">120 fps</string>
@@ -75,7 +76,7 @@
     <string name="accessibility_video_resume_button">S-a reluat înregistrarea video</string>
     <string name="accessibility_zoom_button">Mod mărire</string>
     <string name="ai_scene_mode_use_hint_text">"AI Camera detectează scenele în mod automat 
- și optimizează fotografiile în funcție de acesta"</string>
+și optimizează fotografiile în funcție de acesta"</string>
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="app_name">Gestionare efecte</string>
@@ -84,6 +85,9 @@
     <string name="autozoom_disabled_hint">S-a oprit urmărirea obiectelor în mișcare</string>
     <string name="autozoom_hint">Urmăriți obiectele în mișcare</string>
     <string name="autozoom_landscape_hint">Fotografiați în modul peisaj pentru a obține cele mai bune efecte</string>
+    <string name="auxiliary_close_status">Efectele adiționale sunt dezactivate</string>
+    <string name="auxiliary_exposure_feedback_status">Verificarea expunerii este activă</string>
+    <string name="auxiliary_focus_peak_status">Concentrarea focalizării este activă</string>
     <string name="back_bokeh_use_hint">Mențineți subiectul la mai puțin de 1,5 metri pentru a obține cele mai bune efecte</string>
     <string name="beauty_body">Siluetă</string>
     <string name="beauty_body_body">Subțire</string>
@@ -420,6 +424,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_square">Pătrat</string>
     <string name="module_name_video">Videoclip</string>
+    <string name="moive_frame">Ramă video</string>
     <string name="multi_window_mode_not_supported">"Camera nu funcționează în modul Ecran scindat"</string>
     <string name="network_access_user_notice_agree">De acord</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Aplicația Cameră trebuie să se conecteze la internet pentru a furniza efecte, muzică și alte caracteristici pentru videoclipuri scurte.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atingând butonul \"De acord\" de mai jos, acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;, și permiteți conectarea la internet a aplicației."&lt;/Data&gt;</string>
@@ -436,6 +441,44 @@ să pară mai mari în fotografii"</string>
     <string name="pano_how_to_use_prompt_slow_down">Mișcați-vă mai încet…</string>
     <string name="pano_how_to_use_prompt_start">Atingeți săgeata pentru a comuta direcția și începeți să mișcați telefonul încet.</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
+    <string name="parameter_description_pro_capture_title">Caracteristici pro pentru realizarea de fotografii</string>
+    <string name="parameter_description_pro_video_title">Caracteristici pro pentru realizarea de videoclipuri</string>
+    <string name="parameter_description_sub_title">Controlați mai creativ fotografiile și videoclipurile dvs.</string>
+    <string name="parameter_ef_split_description">Puteți trage inelul de expunere afară din cel pentru focalizare și să ajustați separat cei 2 parametri.</string>
+    <string name="parameter_ef_split_title">Măsurare separată a focalizării și a expunerii</string>
+    <string name="parameter_et_description">Viteza automată a obturatorului este determinată de către cantitatea de lumină măsurată de camera fotoe. Când selectați manual viteza obturatorului, țineți minte că odată cu creșterea duratei în care obturatorul este deschis, crește și cantitatea de lumină ajunsă pe senzor, facând fotografiile mai luminoase.</string>
+    <string name="parameter_et_title">Viteza obturatorului</string>
+    <string name="parameter_exposure_description">Această caracteristică vă permite să compensați expunerea atunci când doriți ca imaginile dvs. să fie mai luminoase sau mai întunecate decât este sugerat de către dispozitivul de măsurare.</string>
+    <string name="parameter_exposure_feecback_description">Evidențiază zonele subexpuse în albastru și pe cele supraexpuse în roșu pentru a putea ajusta în mod corect expunerea.</string>
+    <string name="parameter_exposure_feecback_title">Verificarea expunerii</string>
+    <string name="parameter_exposure_title">Compensarea expunerii</string>
+    <string name="parameter_focus_description">Puteți focaliza fie în modul manual, fie în modul automat. Cu cât este mai mare valoarea selectată prin cursor, cu atât mai departe va fi aria de focalizare.</string>
+    <string name="parameter_focus_title">Focalizare</string>
+    <string name="parameter_histogram_description">Histograma este o reprezentare în timp real a expunerii care indică părțile cele mai întunecate ale cadrului în stânga mergând până la cele mai luminoase în dreapta. Partea verticală a graficului arată cât din cadru este luminos sau întunecat.</string>
+    <string name="parameter_histogram_title">Histogramă</string>
+    <string name="parameter_iso_description">Valorile ISO pot fi determinate în mod automat de către senzorul de lumină. Puteți modifica valoarea și în mod manual. Luați aminte că valorile mari ale ISO fac camera mai sensibilă la lumină, dar aduc mai mult zgomot digital imaginii.</string>
+    <string name="parameter_iso_title">Sensibilitate ISO</string>
+    <string name="parameter_lens_description">"Puteți comuta între mai multe tipuri de lentile disponibile: "</string>
+    <string name="parameter_lens_marco">, MACRO (lentile macro)</string>
+    <string name="parameter_lens_st">, S-TELE (lentile de zoom)</string>
+    <string name="parameter_lens_t">, TELE (lentile teleobiectiv)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (lentile teleobiectiv)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (lentile teleobiectiv)</string>
+    <string name="parameter_lens_title">Lentile</string>
+    <string name="parameter_lens_uw">, UL (lentile cu unghi foarte larg)</string>
+    <string name="parameter_lens_w">LARG (lentile cu unghi larg)</string>
+    <string name="parameter_log_format_description">Acest format înregistrează videoclipul cu o funcție logaritmică aplicată curbei de expunere pentru a capta mai multe detalii în lumini și umbre, oferindu-vă mai multe opțiuni de post-procesare.</string>
+    <string name="parameter_log_format_title">Format LOG</string>
+    <string name="parameter_metering_description">Măsurarea ponderată ia în considerare toate zonele imaginii, mergând foarte bine pentru scenele luminate uniform. Măsurarea centrată se concentrează în principal pe zona centrală a cadrului și oferă atenție sporită luminozității zonei înconjurătoare, mod care este potrivit pentru fotografierea subiecților din centrul cadrului. Măsurarea punctuală acoperă numai zona dintr-un singur punct, oferindu-vă un control precis asupra expunerii.</string>
+    <string name="parameter_metering_title">Moduri de măsurare</string>
+    <string name="parameter_peak_focus_description">Atunci când focalizați în mod manual, utilizați concentrarea focusului pentru a plasa o zonă iluminată în roșu în aria de focalizare."</string>
+    <string name="parameter_peak_focus_title">Concentrarea focusului</string>
+    <string name="parameter_peak_raw_description">Acest format de fotografie captează toate datele imaginii înregistrate de către senzor atunci când faceți o fotografie. Datele necomprimate vă oferă mai multe opțiuni de post-procesare.</string>
+    <string name="parameter_peak_raw_title">Format RAW</string>
+    <string name="parameter_wb_description">Înafară de setările predefinite ale balansului de alb (incandescent, lumină de zi, fluorescent, înnorat), puteți seta o valoare personalizată cuprinsă între 2.000 și 8.000 de grade Kelvin.</string>
+    <string name="parameter_wb_title">Balans de alb</string>
+    <string name="parameter_zoom_slider_description">Trageți glisorul pentru zoom în sus și în jos pentru a schimba ușor fotografia de la o fotografie cu bătaie lungă la una în prim-plan.</string>
+    <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
     <string name="photo_assistance_tips_title">Sfaturi live</string>
     <string name="pic_flaw_blink_more">Se pare că o persoană din cadru a închis ochii</string>
@@ -506,6 +549,9 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Mediere</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Fix</string>
     <string name="pref_camera_autoexposure_title">Setări expunere automată</string>
+    <string name="pref_camera_auxiliary_close">Dezactivat</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Verificarea expunerii</string>
+    <string name="pref_camera_auxiliary_focus_peak">Concentrarea focalizării</string>
     <string name="pref_camera_auxiliary_title">Auxiliar</string>
     <string name="pref_camera_beautify_entry_high">Înalt</string>
     <string name="pref_camera_beautify_entry_low">Redus</string>
@@ -689,6 +735,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_lying_summary">Notifică despre orientarea curentă când telefonul se află paralel cu pământul</string>
     <string name="pref_camera_lying_title">Notifică despre orientare</string>
     <string name="pref_camera_magic_mirror_title">Oglindă magică</string>
+    <string name="pref_camera_manual_description_title">Despre caracteristicile Pro</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
     <string name="pref_camera_mfnr_sat_enable_title">Activați MFNR</string>
@@ -1016,7 +1063,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_tag_flag_title">Marcaje</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
     <string name="vv_duartion_hint">%1$s | Segmentul %2$d | %3$ss</string>
     <string name="vv_hint">Puteți filma vloguri doar în modul peisaj</string>

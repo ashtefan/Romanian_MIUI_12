@@ -230,6 +230,10 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 3. Atingeți pictograma Verificare. Sistemul va salva fotografia în mod automat.
 4. Fotografia captată ar trebui să apară mai jos. Atingeți Ștergeți pentru a încheia testul."</string>
     <string name="cit_front_camera_check_title">Camera frontală</string>
+    <string name="cit_front_dual_camera_check_summary_no_zoom">"测试步骤如下：
+
+1.Pornește camera foto în mod automat pentru a intra în interfața de previzualizare
+2.Așteptați finalizarea previzualizării și revenirea automată"</string>
     <string name="cit_front_rear_dual_camera_check_title">Camera Bokeh frontală</string>
     <string name="cit_front_rear_sub_camera_check_title">Camera Aux frontală</string>
     <string name="cit_get_signature_failed">obținere semnătură EȘEC</string>
@@ -608,6 +612,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>
+    <string name="mtb_tool_modem_cdma_manager">Gestionare CDMA Cap</string>
   <string name="nfc_disable_tip">Vă rugăm să activați funcția NFC</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>

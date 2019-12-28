@@ -48,6 +48,7 @@
     <string name="device_picker">Setări dispozitiv Bluetooth</string>
     <string name="disconnect">Deconectați</string>
     <string name="expand_button_title">Avansat</string>
+    <string name="fast_connect_b508_name">ZMI B50B</string>
     <string name="fast_connect_device_battery">Acumulator</string>
     <string name="fast_connect_device_box">Decodor</string>
     <string name="fast_connect_device_box_name">Decodor %1$s</string>

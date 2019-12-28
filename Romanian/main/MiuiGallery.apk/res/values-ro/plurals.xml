@@ -70,6 +70,10 @@
         <item quantity="other">(%d elemente)</item>
         <item quantity="one">(%d element)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albume</item>
+        <item quantity="one">%d album</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elemente</item>
         <item quantity="one">%1$d element</item>

@@ -56,7 +56,7 @@
     <string name="description_content">Înafară de caracteristicile de bază, aplicația Calculator funcționează ca și convertor multifuncțional, calculator de taxe și dobânzi. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="description_title">Despre aplicația Calculator</string>
     <string name="devided_by_zero_reminder_message">"Nu se poate împărți la zero"</string>
-    <string name="dialog_privacy_content">Înafara funcțiilor de bază de calculator, aplicația noastră conține de asemenea un calculator științific și un convertor pentru diverse unități. Unele caracteristici necesită conectarea la internet pentru a funcționa în mod normal. Trebuie să citiți și să acceptați %1$s și %2$s înainte de a utiliza aplicația Calculator.</string>
+    <string name="dialog_privacy_content">Înafara funcției de bază, aplicația Calculator vă permite să convertiți valute și unități de măsură, să calculați rambursările creditelor și multe altele. Unele caracteristici pot necesita conectarea la internet pentru a funcționa în mod normal. &lt;Data&gt;Înainte de a utiliza aplicația, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="dialog_privacy_title">Termenii și Condițiile</string>
     <string name="dialog_rating_desc_ask">Ce părere aveți despre aplicația Calculator?</string>
     <string name="dialog_rating_desc_less">Ne puteți da și un feedback?</string>
@@ -72,6 +72,7 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
+    <string name="disallow">Nu sunt de acord</string>
     <string name="div">÷</string>
     <string name="divDesc">împărţire</string>
     <string name="dot">.</string>
@@ -225,6 +226,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="negDesc">Comutați între temperaturi negative și pozitive</string>
     <string name="network_confirm_content">Convertorul valutar și calculatorul de taxe și credite trebuie să se conecteze la internet și să acceseze serviciul de localizare a telefonului pentru a funcționa în mod normal.</string>
     <string name="network_confirm_title">Este necesară acordarea unor permisiuni</string>
+    <string name="network_privacy">Luați aminte că această aplicație trebuie să se conecteze la internet și să colecteze informațiile personale necesare pentru a vă furniza servicii. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.</string>
     <string name="network_purpose">Bine ați venit în aplicația Calculator! Aceasta vă permite să faceți conversii valutare, să calculați ratele împrumuturilor și multe altele.</string>
     <string name="none">Nimic</string>
     <string name="not_supported_due_to_language">Această caracteristică este valabilă doar pentru limba Chineză</string>
@@ -232,6 +234,14 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="percent"/>
     <string name="percentDesc">procent</string>
     <string name="percentage">%</string>
+    <string name="permission_location">Acces la locație</string>
+    <string name="permission_location_desc">Pentru furnizarea de servicii bazate pe localizare</string>
+    <string name="permission_phone">Acces la starea și ID-ul dispozitivului</string>
+    <string name="permission_phone_desc">Pentru identificarea diferitelor dispozitive</string>
+    <string name="permission_privacy_link">&lt;Data&gt;Înainte de a utiliza această aplicație, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="permission_purpose">"Bine ați venit în aplicația Calculator! Înafara funcției de bază, aplicația Calculator vă permite să convertiți valute și unități de măsură, să calculați rambursările creditelor și multe altele. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.
+Luați aminte că această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:"</string>
+  <string name="permission_remove_desc">Puteți alege să dezinstalați această aplicație sau să restricționați permisiunile și să revocați autorizarea din Setări.</string>
     <string name="pi">π</string>
     <string name="piDesc">pi</string>
     <string name="plus">+</string>
