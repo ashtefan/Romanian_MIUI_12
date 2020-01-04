@@ -237,6 +237,10 @@
     <string name="fake_cell_timeout_hint">"Nu s-a putut verifica securitatea"</string>
     <string name="favorite_at_time">Adăugat la favorite la: %1s</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
+    <string name="feature_mx">Mesagerie Mi</string>
+    <string name="feature_mx_summary">&lt;b&gt;Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai mesageriei Mi prin internet, fără a fi taxat&lt;/b&gt;. Este necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul vă va taxa pentru acest mesaj. Citiți și acceptați &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Acordul Utilizatorului&lt;/a&gt;&lt;/font&gt; și &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Politica noastră de Confidențialitate&lt;/a&gt;&lt;/font&gt; înainte de a utiliza această caracteristică.</string>
+    <string name="feature_smart_sms">Mesagerie inteligentă</string>
+    <string name="feature_smart_sms_summary">&lt;b&gt;Mesageria inteligentă permite recunoașterea ID-ului expeditorului și meniuri inteligente&lt;/b&gt;". Mesageria inteligentă este furnizată parțial de către Yulore. Citiți și acceptați "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politica de Confidențialitate Yulore&lt;/a&gt;&lt;/font&gt; înainte de a utiliza această caracteristică.</string>
     <string name="festival_sms_loading">Încărcare…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creat:</string>
@@ -288,6 +292,7 @@
     <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
     <string name="hybrid_try_again">Încercați din nou</string>
     <string name="i_know">Am înțeles</string>
+    <string name="ignore">Nu acum</string>
     <string name="imageview_ad">Reclamă</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
@@ -351,7 +356,7 @@
     <string name="message_type_label">"Tip: "</string>
     <string name="messagelist_sender_self">Eu</string>
     <string name="messaging">Mesagerie</string>
-    <string name="mi_message_title">Mesaj Mi</string>
+    <string name="mi_message_title">Mesaje Mi</string>
     <string name="millionbyte">MB</string>
     <string name="mms">MMS</string>
     <string name="mms_block_alert_message">Toate MMS-urile, cu excepția mesajelor trimise de la expeditori autorizați, vor fi blocate. Expeditorii autorizați includ furnizorii de rețea, sistemele naționale de rezervare a căilor ferate etc.</string>
@@ -579,6 +584,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_term">Politica de Confidențialitate</string>
     <string name="private_message">Mesaje private</string>
     <string name="private_new_notification">Notificări mesaj</string>
     <string name="private_protect">Parole</string>
@@ -669,6 +675,12 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="recommend_bar_ok">Activați</string>
     <string name="recommend_bar_title_mx_rcs">Mesageria Mi</string>
     <string name="recommend_bar_title_smart_message">Mesageria Inteligentă</string>
+    <string name="recommend_both_dialog_title">Bine ați venit în aplicația de Mesagerie!</string>
+    <string name="recommend_dialog_message">Puteți activa Mesageria Mi și Mesageria inteligentă pentru a accesa funcțiile suplimentare.</string>
+    <string name="recommend_mx_dialog_title">Bine ați venit în aplicația Mesagerie Mi!</string>
+    <string name="recommend_mx_setting_summary">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai Mesageriei Mi prin internet, fără a fi taxat.</string>
+    <string name="recommend_smart_sms_dialog_title">Bine ați venit în aplicația de Mesagerie inteligentă!</string>
+    <string name="recommend_smart_sms_setting_summary">Mesageria inteligentă permite recunoașterea ID-ului expeditorului și meniuri inteligente.</string>
     <string name="recording_failed">Nu se poate înregistra</string>
     <string name="refill_now">Completaţi din nou acum</string>
     <string name="refreshing">Se actualizează…</string>
@@ -894,6 +906,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
     <string name="train_edit_destination">Adăugați</string>
     <string name="try_to_send">Încercaţi să trimiteţi</string>
+    <string name="turn_on">Activați</string>
     <string name="type_attachment">ataşament</string>
     <string name="type_audio">audio</string>
     <string name="type_picture">fotografie</string>
@@ -923,6 +936,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="url_scan_again">Verificați din nou</string>
     <string name="url_scanning">Verificare URL…</string>
     <string name="user_agreement">Acordul utilizatorului</string>
+    <string name="user_term">Acordul utilizatorului</string>
     <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
     <string name="view">Vizualizaţi</string>
@@ -936,6 +950,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="yes">OK</string>
     <string name="yesterday">Ieri</string>
     <string name="you_have_new_message">Aveți mesaje noi</string>
+    <string name="yulore_term">Politica de Confidențialitate</string>
     <string name="zero_sms_feedback_message">Mesajele raportate sunt încărcate pe serverele noastre împreună cu numerele de telefon ale expeditorilor lor. Aceste mesaje sunt utilizate doar pentru a îmbunătăți funcționalitatea Listei de blocări.</string>
     <string name="zero_sms_feedback_success">Raportat cu succes</string>
     <string name="zero_sms_feedback_title">Raportare</string>

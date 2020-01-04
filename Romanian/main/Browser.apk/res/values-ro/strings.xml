@@ -123,6 +123,7 @@
     <string name="app_downloading_ratio_text">Se descarcă %s</string>
     <string name="app_downloading_text">Se descarcă</string>
     <string name="app_installing_text">Se instalează</string>
+    <string name="app_name">CrashLib</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_open_text">Deschideți</string>
     <string name="app_task_download_exists_text">Sarcina de descărcare există</string>
@@ -186,6 +187,8 @@
     <string name="channel_header_title">Canalele mele</string>
     <string name="channel_more_description">Atingeți pentru a adăuga</string>
     <string name="channel_more_title">Mai multe canale</string>
+    <string name="channel_network_error">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="channel_no_data">Asta e tot pentru moment. Consultați alte canale!</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="check_security_tip_privacy_policy">Politica de confidențialitate</string>
     <string name="check_security_tip_user_agreement">Acordul utilizatorului</string>
@@ -215,11 +218,13 @@
     <string name="collect_video">Colectați video</string>
     <string name="comment_app_menu">Comentariu</string>
     <string name="comment_description">Comentariu</string>
+    <string name="comment_fail">Nu s-a putut adăuga comentariul. Încercați din nou.</string>
     <string name="comment_hint">Comentariu</string>
     <string name="comment_max_length">Comentariul dvs. este prea lung.</string>
     <string name="comment_menu">Comentariu</string>
     <string name="comment_num_description">Numărul comentariului</string>
     <string name="comment_publish_to_topic">Comentariile se sincronizează cu</string>
+    <string name="comment_success">Comentariu adăugat cu succes</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -386,6 +391,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exit_fullscreen">Părăsiți modul ecran complet</string>
     <string name="expand_button_title">Avansate</string>
     <string name="favorite">Adăugați la Favorite</string>
+    <string name="feedback_not_interested_response">Veți vedea mai puține elemente de acest tip</string>
     <string name="file_dir">Modificați dosarul</string>
     <string name="file_name">"Nume: "</string>
     <string name="file_picker">Selectaţi calea</string>
@@ -990,6 +996,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="short_video_gesture_hint">Glisați pentru a vedea următorul videoclip</string>
     <string name="short_video_net_dialog_continue">Redați oricum</string>
     <string name="short_video_net_dialog_title">În prezent utilizați datele mobile. Utilizarea acestora poate genera taxe suplimentare de la operator.</string>
+    <string name="short_video_network_error">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="short_video_tip">Uite! Un filmuleț comic</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Vom colecta și utiliza datele dvs. personale dacă alegeți să utilizați serviciile noastre.
 Iată datele pe care le vom colecta:
@@ -1115,7 +1122,10 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="translation_query_error">"Nu s-a putut traduce"</string>
     <string name="translation_query_error_network">"Nu s-au putut obține informații. Conectați-vă la rețea și încercați din nou."</string>
     <string name="translation_result_copy">Copiat în clipboard</string>
-    <string name="unSwitchText">NU</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">Reclamă</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
     <string name="undo">Anulează acțiunea</string>
     <string name="unknown_title">Necunoscut</string>
     <string name="unsecurity_url_toast">"Acest site nu este sigur"</string>
@@ -1202,6 +1212,40 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="vo_choose_activity_content">Nu s-a putut obține locația. Selectați manual un oraș.</string>
     <string name="vo_choose_activity_positive">Selectați</string>
     <string name="vo_comment_text">Comentariu</string>
+  <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
+%s
+imagini:
+%s
+interactionType:
+%s
+"</string>
+  <string name="vo_debug_info_flow_dialog" formatted="false">"imei
+%s
+track_ext:
+%s
+debugExt:
+%s
+eid:
+%s
+traceid:
+%s
+ docid:
+%s
+categorie:
+%s
+subcategorie:
+%s
+etichete:
+%s
+tip:
+%s
+url:
+%s
+item_style:
+%s
+feedsContentId:
+%s
+"</string>
     <string name="vo_feedback_back">Înapoi</string>
     <string name="vo_feedback_black">Blocați: %s</string>
     <string name="vo_feedback_content">Conținut cu calitate slabă</string>

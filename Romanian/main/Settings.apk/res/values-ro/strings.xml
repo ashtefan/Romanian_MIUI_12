@@ -2676,9 +2676,9 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="forbidden_switch_apn_string">"Setările APN selectat nu se potrivesc tipului de rețea curentă"</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
-    <string name="force_hw_ui">Forţaţi redarea cu GPU</string>
-    <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desenarea 2d</string>
-    <string name="force_immersive_compatibility_dont_hide">"Nu ascunde"</string>
+    <string name="force_desktop_mode">Forțează modul desktop</string>
+    <string name="force_desktop_mode_summary">Forțează modul experimental desktop pe ecranele secundare</string>
+    <string name="force_immersive_compatibility_dont_hide">Nu ascunde</string>
     <string name="force_immersive_compatibility_hide">Ascunde</string>
     <string name="force_immersive_compatibility_hint_message">Unele aplicații pot funcționa incorect dacă alegeți să ascundeți butoanele de pe ecran.</string>
     <string name="force_immersive_compatibility_hint_title">Probleme de compatibilitate</string>
@@ -3343,6 +3343,8 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="location_network_based">Wi-Fi şi reţeaua mobilă</string>
     <string name="location_no_recent_accesses">Nicio aplicație nu a accesat locația recent</string>
     <string name="location_no_recent_apps">Nicio aplicație nu a solicitat locația recent</string>
+    <string name="location_off_summary">Oprit</string>
+    <string name="location_on_summary">Pornit</string>
     <string name="location_recent_location_access_view_details">Vedeți detalii</string>
     <string name="location_recent_location_requests_see_all">Vedeți tot</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Îmbunătățiți precizia de localizare permițând permanent serviciilor și aplicațiilor de sistem detectarea dispozitivelor Bluetooth.</string>

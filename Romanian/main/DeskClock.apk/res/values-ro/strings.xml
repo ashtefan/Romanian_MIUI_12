@@ -66,9 +66,13 @@
     <string name="alarmclock_empty_text">Nicio alarmă</string>
     <string name="alarmclock_silent_hint">Alarma este în modul silențios</string>
     <string name="alert">Ton de apel</string>
+    <string name="alert_ringtone">Tonul alarmei</string>
+    <string name="alert_volume">Volumul alarmei</string>
+    <string name="alert_volume_summary">Setați volumul tonului pentru alarme și temporizatoare</string>
     <string name="analog_gadget">Ceas analogic</string>
     <string name="app_label">Ceas</string>
     <string name="auto_silence_never">Niciodată</string>
+    <string name="auto_silence_summary">Setați timpul după care alarmele și temporizatoarele vor fi reduse la tăcere</string>
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>
     <string name="back">Ieșiți</string>
     <string name="battery_charging_level">%d%%</string>
@@ -151,6 +155,7 @@
     <string name="done">Terminat</string>
     <string name="dynamic_alarm_speech">Alarmă inteligentă</string>
     <string name="edit_alarm">Editați alarma</string>
+    <string name="edit_label">Editați eticheta alarmei</string>
     <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
     <string name="edit_systemtime_setting_summary">Data, ora și ceasul dual</string>
     <string name="elapsed_time_format">+</string>
@@ -165,6 +170,7 @@
     <string name="holiday_update_fail">"Nu s-a putut actualiza"</string>
     <string name="holiday_update_loading">Se actualizează…</string>
     <string name="holiday_update_success">Toate elementele sunt actualizate</string>
+    <string name="holiday_update_title">Actualizați informațiile despre sărbătorile legale</string>
     <string name="hour_unit">h</string>
     <string name="install_weather_app_error">"Nu s-a putut încărca aplicația"</string>
     <string name="install_weather_app_loading">Doar o secundă…</string>
@@ -178,6 +184,8 @@
     <string name="korea_permission_storage">Stocare</string>
     <string name="korea_permission_storage_desc">Pentru salvarea alarmelor</string>
     <string name="label">Setaţi o etichetă</string>
+    <string name="label_input_desc">Această etichetă va fi afișată pe ecran atunci când se declanșează alarma</string>
+    <string name="label_input_hint">Introduceți eticheta</string>
     <string name="label_pref_summary">Etichetă</string>
     <string name="lap">Circuit</string>
     <string name="lap_num">Circuit</string>
@@ -258,18 +266,24 @@
     <string name="module_white_noise_download_wifi">Aplicația Ceas trebuie să descarce fișiere audio pentru temporizatoarele cu sunete ambientale. Le descărcați acum?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Pentru a putea descărca fișierele audio cu sunete ambientale și a vă furniza servicii personalizate, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; Acceptați?&lt;/Data&gt;</string>
     <string name="monday_to_friday">De Luni până Vineri</string>
+    <string name="more_alert_setting">Setări suplimentare pentru alarmă</string>
     <string name="more_setting">Mai multe setări</string>
     <string name="more_settings">Setări</string>
+    <string name="net_permission_cancel">Nu sunt de acord</string>
+    <string name="net_permission_ok">De acord</string>
     <string name="network_privacy">&lt;Data&gt;Pentru a primi informații relevante despre sărbătorile legale locale și a seta alarmele, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Acceptați?&lt;/Data&gt;</string>
     <string name="network_privacy_global">&lt;Data&gt;Pentru a vă furniza servicii personalizate, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie de asemenea să citiți și să acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Acceptați?&lt;/Data&gt;</string>
     <string name="never">O dată</string>
+    <string name="new_label">Adăugați eticheta alarmei</string>
     <string name="no_alarm_setting">Nicio alarmă aici</string>
     <string name="no_worldclock">Niciun fus orar aici</string>
+    <string name="normal_settings">Setări generale</string>
     <string name="not_update">Nu acum</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>
     <string name="open_keep_screen">Ecranul va fi păstrat pornit</string>
     <string name="open_sleep_record">Activați</string>
     <string name="other_category_title">Altele</string>
+    <string name="other_settings">Setări suplimentare</string>
     <string name="pause">Pauză</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Recomandări personalizate de conținut</string>
@@ -286,6 +300,7 @@
     <string name="revert">Reveniţi</string>
     <string name="ringtone_all">Toate sunetele</string>
     <string name="ringtone_dew">Roua dimineții</string>
+    <string name="ringtone_digital_timer">Temporizator</string>
     <string name="ringtone_dream">Fantezie</string>
     <string name="ringtone_firefly">Licurici</string>
     <string name="ringtone_other">Mai multe sunete de apel</string>
@@ -376,6 +391,7 @@
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_picker_label_second">S</string>
+    <string name="time_settings">Setări Ceas</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Atingeţi ecranul pentru a opri soneria</string>
     <string name="timer_alarm_dot_matrix_label">TEMPORIZATOR</string>
@@ -411,11 +427,12 @@
     <string name="timer_new_item">Adăugaţi un temporizator</string>
     <string name="timer_notify_text">Amânaţi sau anulaţi temporizatorul.</string>
     <string name="timer_pause_timer">Opriți temporizatorul</string>
+    <string name="timer_ringtone">Ton temporizator</string>
     <string name="timer_running">Temporizatorul rulează</string>
     <string name="timer_start_alarm">Timpul a expirat</string>
     <string name="timer_start_timer">Porniți temporizatorul</string>
     <string name="timer_title">Temporizator</string>
-    <string name="timezone_exist_error_message">"Acest fus orar este afișat deja"</string>
+    <string name="timezone_exist_error_message">Acest fus orar este afișat deja</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="turn_off_a_repeat_alarm">Opriți alarma repetitivă</string>

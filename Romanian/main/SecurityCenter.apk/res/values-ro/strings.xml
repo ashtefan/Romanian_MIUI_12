@@ -1762,7 +1762,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="optmizingbar_title_clear">Goliți cache-ul</string>
     <string name="optmizingbar_title_security">Securitate</string>
     <string name="optmizingbar_title_system">Securitatea sistemului</string>
-    <string name="organization">Organizațien</string>
+    <string name="organization">Organizație</string>
     <string name="other">Alte setări</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>
     <string name="other_exception_title">Verificarea pentru alte probleme</string>
@@ -1783,7 +1783,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="password_promotion_title">Adăugați contul Mi</string>
     <string name="password_type">Schimbați parola</string>
     <string name="password_type_underline">&lt;u&gt;Schimbați parola&lt;/u&gt;</string>
-    <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați un altul.</string>
+    <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați ulterior un altul.</string>
     <string name="pc_abnormal_scan_button_text">Închideți aplicațiile</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Previne intrarea sistemului în modul repaos</string>
     <string name="pc_abnormal_scan_reason_reconnect">Încearcă să se conecteze prea des la rețea</string>

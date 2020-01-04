@@ -41,5 +41,6 @@
         <item>Qualcomm Technologies, Inc SDM845</item>
         <item>Qualcomm Technologies, Inc MSM8998</item>
         <item>Qualcomm Technologies, Inc SM8150</item>
+        <item>Qualcomm Technologies, Inc SM8250</item>
     </string-array>
 </resources>

@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Toți</item>
-        <item>Doar destinatarii</item>
+        <item>Doar expeditorii</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>

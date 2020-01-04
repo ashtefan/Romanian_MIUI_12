@@ -5,7 +5,7 @@
         <item quantity="one">cu %d zi în urmă</item>
     </plurals>
     <plurals name="last_sent_time_hour">
-        <item quantity="other">cu % ore în urmă</item>
+        <item quantity="other">cu %d ore în urmă</item>
         <item quantity="one">cu %d oră în urmă</item>
     </plurals>
     <plurals name="last_sent_time_minute">

@@ -43,6 +43,12 @@
         <item quantity="other">Ștergeți %1$d elemente din istoric?</item>
         <item quantity="one">Ștergeți %1$d element din istoric?</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Nu s-a putut încărca videoclipul.
+Se va reda următorul în %d secunde…"</item>
+        <item quantity="one">"Nu s-a putut încărca videoclipul.
+Se va reda următorul în %d secundă…"</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minute rămase</item>
         <item quantity="one">%d minut rămas</item>

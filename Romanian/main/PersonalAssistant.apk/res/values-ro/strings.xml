@@ -75,9 +75,9 @@
     <string name="app_setting_xiaoai">Buton Mi AI</string>
     <string name="app_suggest_detail_setting_summary">Sugestiile de aplicații se bazează pe datele dumneavoastră de utilizare</string>
     <string name="app_suggest_detail_setting_title">Permiteți accesul la starea aplicațiilor</string>
-    <string name="app_suggest_setting_brief">Afișează aplicațiile recent utilizate</string>
-    <string name="app_suggest_setting_brief_detail">Sugestiile de aplicații se bazează pe datele dumneavoastră de utilizare</string>
-    <string name="app_suggest_setting_title">Sugestii de aplicații</string>
+    <string name="app_suggest_setting_brief">Primiți sugestii de aplicații și caracteristici pe care este posibil să le utilizați</string>
+    <string name="app_suggest_setting_brief_detail">Primiți sugestii de aplicații și caracteristici pe care este posibil să le utilizați</string>
+    <string name="app_suggest_setting_title">Sugestii inteligente</string>
     <string name="apps">Recomandări aplicații</string>
     <string name="apps_label">Aplicații</string>
     <string name="arr_airport">Aeroportul de destinație</string>
@@ -187,6 +187,7 @@
     <string name="card_expand_note_toast_clear_null">Golit cu succes</string>
     <string name="card_expand_note_toast_save_done">Salvat în Notițe</string>
     <string name="card_expand_note_toast_save_dup">Salvat cu succes</string>
+    <string name="card_expand_note_toast_share_null">Această notiță este goală</string>
     <string name="card_hint_noteboard">Atingeți aici pentru a lua o notiță.</string>
     <string name="card_menu_edit">Editați</string>
     <string name="card_menu_remove">Eliminați</string>
