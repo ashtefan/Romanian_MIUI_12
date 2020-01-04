@@ -101,7 +101,7 @@
     <string name="alert_back_milink_hangup_tips_content">"Proiectarea nu va fi înteruptă cât timp încheiați un apel. Puteți apăsa butonul Pornire pentru a trezi ecranul."</string>
     <string name="alert_back_milink_hangup_tips_content_vb">Proiectarea nu va fi înteruptă cât timp ecranul este închis și aplicația rulează în fundal. Puteți apăsa butonul de Pornire pentru a reactiva ecranul.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
-    <string name="already_close_gamebooster">Creșterea vitezei în jocuri este dezactivată</string>
+    <string name="already_close_gamebooster">Jocurile turbo sunt dezactivate</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
     <string name="antispam_mode_details">Detaliile listei de blocări</string>
@@ -362,8 +362,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_back_booster">Opriți accelerarea</string>
     <string name="auto_booster_suc">Accelerat cu succes</string>
     <string name="auto_clean_close">Curățarea automată este oprită</string>
-    <string name="auto_data_back_booster">Creșterea vitezei în jocuri este dezactivată. Funcțiile de comunicare sunt restaurate.</string>
-    <string name="auto_data_booster_suc">Creșterea vitezei în jocuri este activată. S-a comutat la modul Imersiv.</string>
+    <string name="auto_data_back_booster">Jocurile Turbo sunt dezactivate. Funcțiile de comunicare sunt restaurate.</string>
+    <string name="auto_data_booster_suc">Jocurile Turbo sunt activate. S-a comutat la modul Imersiv.</string>
     <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
@@ -588,7 +588,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
     <string name="card_main_deepclean_whatsapp_title">Curățare WhatsApp</string>
     <string name="card_main_gamebooster_summary">Crește stabilitatea conexiunii pentru jocuri</string>
-    <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
+    <string name="card_main_gamebooster_title">Jocuri Turbo</string>
     <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
     <string name="card_main_hbassistant_title">Asistent Red envelope</string>
     <string name="card_main_hwtest_title">Test hardware</string>
@@ -647,7 +647,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cpu_usage_process_run_time_little_time">Mai puțin de un minut</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
-    <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
+    <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Jocurile Turbo</string>
     <string name="cta_HIPS_Perm_Location_Desc">obținere locație precisă (bazată pe GPS și rețea)</string>
     <string name="cta_close_dialog_cancel">Anulați</string>
     <string name="cta_close_dialog_content">Dacă restricționați accesul aplicației Securitate la internet și la informațiile despre locație, nu veți putea primi avertismente despre cutremure, să actualizați definițiile antvirus și informațiile despre blocări. Dispozitivul dvs. va deveni mai puțin securizat. Restricționați oricum?</string>
@@ -888,7 +888,7 @@ cardul de sănătate"</string>
     <string name="ew_guide_next_text">Următorul</string>
     <string name="ew_guide_play_audio">Redă un sunet de avertizare</string>
     <string name="ew_guide_play_audio_last">Redă un sunet de avertizare (%ds)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;"&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Act de renunțare&amp;lt;/a&amp;gt;Ori de câte ori un utilizator (în continuare, denumit ca \"dvs\") activează funcționalitatea de avertizare împotriva cutremurului, el sau ea încheie un contract legal obligatoriu cu Xiaomi și afiliații săi (denumit în continuare \"Xiaomi\"). Utilizând această caracteristică, acceptați că ați citit această exonerare de răspundere și înțelegeți pe deplin și sunteți de acord cu întregul conținut al acesteia. Dacă nu sunteți de acord cu această exonerare, ar trebui să dezactivați imediat funcția de avertizare împotriva cutremurelor.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declarație specială&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; În conformitate cu legile și reglementările relevante, serviciile de avertizare timpurie a cutremurelor sunt furnizate numai în zonele care au fost autorizate de către departamentele guvernamentale relevante. Aceasta înseamnă că atunci când activați funcționalitatea de avertizare la cutremur și dispozitivul dvs. se află într-o zonă autorizată, puteți primi servicii de avertizare la cutremur. Puteți verifica lista zonelor în care sunt furnizate în prezent servicii de avertizare la cutremure. Mai multe zone vor fi disponibile în viitor. Rămâneți aproape!&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Act de renunțare&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Aplicația de securitate vă oferă funcționalitatea de avertizare la cutremur. Trebuie să înțelegeți că informațiile de avertizare despre cutremure sunt furnizate de agențiile guvernamentale de avertizare timpurie. Xiaomi nu supraveghează astfel de agenții și nu are niciun control asupra acestora. &amp;lt;br&amp;gt; Xiaomi nu promite sau nu garantează exactitatea, validitatea și actualitatea informațiilor de avertizare în caz de cutremur și nici nu garantează că serviciul de avertizare împotriva cutremurelor va răspunde tuturor nevoilor dvs.&amp;lt;br&amp;gt; Primirea informațiilor de avertizare în caz de cutremur necesită să vă mențineți dispozitivul conectat la rețeaua mobilă. Defecțiuni ale unei linii de comunicații terțe, probleme tehnice, defecțiuni ale echipamentului de rețea sau terminal, instabilitatea sistemului și alte evenimente de forță majoră pot împiedica primirea informațiilor de avertizare la cutremur. Xiaomi nu poartă nicio responsabilitate pentru pierderile cauzate de astfel de evenimente.&amp;lt;br&amp;gt; Trebuie să înțelegeți că această caracteristică este furnizată doar pentru referința dvs. Sunteți singurul responsabil pentru riscurile și consecințele oricăror acțiuni pe care le efectuați pe baza informațiilor furnizate de această caracteristică. &amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+    <string name="ew_guide_statement_text">&lt;Data&gt;"Acest act de renunțare se aplică tuturor utilizatorilor (denumit în continuare „dumneavoastră”) care activează caracteristica de avertizare de cutremur. Acceptând acest act de renunțare, acceptați o colaborare legală cu Xiaomi Inc. și afiliații săi (denumit în continuare Xiaomi). Acceptați că ați citit tot conținutul actului și că înțelegeți și acceptați toți termenii și condițiile acestuia; în caz contrar, ar trebui să dezactivați carcacteristica de avertizare la cutremur imediat.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declarație specială&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Funcționalitatea de avertizare la cutremur este disponibilă în anumite regiuni (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Atingeți pentru a vizualiza&amp;lt;/a&amp;gt;). În curând vor fi mai multe regiuni disponibile.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Act de renunțare&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Funcțiile de avertizare pentru cutremure sunt furnizate de Xiaomi în aplicația Securitate. Trebuie să înțelegeți că informațiile de avertizare împotriva cutremurului sunt furnizate de agențiile de avertizare timpurie a guvernului. Xiaomi nu supraveghează astfel de agenții și nu are niciun control asupra acestora.&amp;lt;br&amp;gt; Xiaomi nu promite sau nu garantează exactitatea, validitatea și actualitatea informațiilor de avertizare în caz de cutremur și nici nu garantează că serviciul de avertizare în caz de cutremur va răspunde tuturor nevoilor dvs.&amp;lt;br&amp;gt; Primirea informațiilor de avertizare în caz de cutremur necesită să vă mențineți dispozitivul conectat la rețeaua mobilă. Defecțiuni ale unei linii de comunicații terțe, probleme tehnice, defecțiuni ale echipamentului de rețea sau terminal, instabilitatea sistemului și alte evenimente de forță majoră pot împiedica primirea informațiilor de avertizare la cutremur. Xiaomi nu poartă nicio responsabilitate pentru pierderile cauzate de astfel de evenimente.&amp;lt;br&amp;gt; Trebuie să înțelegeți că această caracteristică este furnizată doar pentru referința dvs. Avertismentul pe care îl primiți poate veni cu câteva secunde înainte de debutul unui cutremur. Sunteți singurul responsabil pentru riscurile și consecințele oricăror acțiuni pe care le efectuați pe baza informațiilor furnizate de această caracteristică.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
     <string name="ew_guide_tips_1">"Veți fi anunțat despre cutremurele viitoare și veți auzi un sunet de avertizare"</string>
     <string name="ew_guide_tips_2">Informațiile și sunetul de avertizare vor fi actualizate pe durata cutremurului</string>
     <string name="ew_guide_tips_3">"Veți putea găsi cel mai apropiat adăpost, să apelați contactul dvs. de urgență și veți putea prezenta cardul de sănătate, dacă este necesar"</string>
@@ -1101,14 +1101,16 @@ cardul de sănătate"</string>
     <string name="fw_oversea_content">Blochează apelurile de la numere de telefon străine</string>
     <string name="game_ad_recommendation">Toată lumea joacă</string>
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
-    <string name="game_booster">Creșterea vitezei în jocuri</string>
-    <string name="game_booster_close">Creșterea vitezei în jocuri dezactivată</string>
-    <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
+    <string name="game_booster">Jocuri Turbo</string>
+    <string name="game_booster_close">Jocurile Turbo sunt dezactivate</string>
+    <string name="game_booster_intro">Despre Jocurile Turbo</string>
     <string name="game_booster_jump_webview">Doar o secundă…</string>
     <string name="game_booster_tab_top">Top</string>
     <string name="game_booster_title">Accelerați</string>
     <string name="game_bootser_tab_settings">Setări pentru creșterea vitezei</string>
     <string name="game_else_function">Altele</string>
+    <string name="game_manual_record_setting_setting">Despre această caracteristică</string>
+    <string name="game_manual_record_setting_title">Momente cheie</string>
     <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
     <string name="game_setting">Setări pentru jocuri</string>
     <string name="game_video_net_data">Date mobile</string>
@@ -1142,6 +1144,7 @@ cardul de sănătate"</string>
     <string name="gamebox_immersion_tips_content">Modul Imersiv restricționează toate funcțiile cartelei SIM, cu excepția conexiunii de date mobile. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
     <string name="gamebox_immersion_tips_title">Atenție</string>
     <string name="gamebox_immerson_open">"Se activează modul Imersiv; nu schimbați rețelele…"</string>
+    <string name="gamebox_manual_record">Înregistrați</string>
     <string name="gamebox_milink">Proiectați</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
@@ -1188,6 +1191,11 @@ cardul de sănătate"</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
+    <string name="gb_dialog_record_way_ai">Înregistrările AI sunt salvate în cutia de jocuri pentru 7 zile.</string>
+    <string name="gb_dialog_record_way_finish">Finalizat</string>
+    <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
+    <string name="gb_dialog_record_way_setting_tips">Notă: Înregistrarea sesiunilor de joc necesită un consum crescut de energie care poate crea sincope în utilizare.</string>
+    <string name="gb_dialog_record_way_title">Selectați metoda de înregistrare</string>
     <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat modul Joc Turbo</string>
     <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați</string>
     <string name="gb_first_guide_handsfree_des">Răspundeți la apelurile din fundal</string>
@@ -1202,10 +1210,20 @@ cardul de sănătate"</string>
     <string name="gb_first_window_handsfree_title">Apeluri mâini-libere</string>
     <string name="gb_first_window_start">Porniți redarea</string>
     <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
-    <string name="gb_first_window_title">Creșterea vitezei în jocuri</string>
+    <string name="gb_first_window_title">Jocuri Turbo</string>
+    <string name="gb_game_end_toast">Revedeți momentele cheie din jocurile dvs.</string>
+    <string name="gb_game_video_bottom_tips">Vedeți înregistrările sesiunilor dvs. în cutia de jocuri. Videoclipurile sunt stocate în mod implicit 7 zile.</string>
+    <string name="gb_game_video_item_tag">Moment cheie</string>
+    <string name="gb_game_video_page_delete_success">Șters cu succes</string>
+    <string name="gb_game_video_page_null">Înregistrați momentele cheie din sesiunile de joc</string>
+    <string name="gb_game_video_record_finish_tips">Videoclip salvat cu succes</string>
+    <string name="gb_game_video_save">Salvați</string>
+    <string name="gb_game_video_type_ai">AI</string>
+    <string name="gb_game_video_type_manual">Manual</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
     <string name="gb_global_settings">Setări generale</string>
     <string name="gb_have_signed">Verificat astăzi</string>
+    <string name="gb_manual_record_dialog_del_video_message">Ștergeți definitiv videoclipurile selectate?</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
     <string name="gb_msg_completely_shielded_summary">Ascundeți</string>
     <string name="gb_msg_not_shielded_summary">Afișați</string>
@@ -1233,6 +1251,12 @@ cardul de sănătate"</string>
     <string name="gb_voice_changer_men">Bîrbat</string>
     <string name="gb_voice_changer_normal">Original</string>
     <string name="gb_voice_changer_robot">Robot</string>
+    <string name="gb_wonderful_video_cancel">Renunțați</string>
+    <string name="gb_wonderful_video_checkall">Selectați tot</string>
+    <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
+    <string name="gb_wonderful_video_delete">Ștergeți</string>
+    <string name="gb_wonderful_video_header_title">Astăzi</string>
+    <string name="gb_wonderful_video_save_suc">Salvat cu succces</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
@@ -1260,11 +1284,20 @@ cardul de sănătate"</string>
     <string name="gs_dialog_confirm_close_msg">Scurtătura va fi eliminată de pe Ecranul principal. Accesați Securitate &gt; Setări pentru a o restaura.</string>
     <string name="gs_dialog_confirm_close_title">Dezactivați</string>
     <string name="gs_forbid_autosync">Restricționați sincronizarea în fundal</string>
+    <string name="gs_game_ai_record">Înregistrați utilizând AI</string>
+    <string name="gs_game_ai_record_subtitle">Puteți începe să înregistrați în cutia de jocuri în timp ce vă jucați. Videoclipurile cu momente cheie vor fi generate în mod automat și șterse după 7 zile în mod implicit. Puteți de asemenea să salvați videoclipurile permanent.</string>
     <string name="gs_game_disturb_msg">Nu deranjați</string>
     <string name="gs_game_duration">Timp</string>
+    <string name="gs_game_manual_record">Înregistrați manual</string>
+     <string name="gs_game_manual_record_subtitle">Puteți înregistra în cutia de jocuri în timp ce vă jucați. Se pot înregistra până la 30 de secunde video după ce apăsați butonul \"Înregistrați\".
+Videoclipurile vor fi salvate în Jocuri Turbo >Momente cheie."</string>
+    <string name="gs_game_manual_record_subtitle_child">Este posibil să întâmpinați unele probleme în timp ce utilizați această caracteristică:</string>
+    <string name="gs_game_manual_record_subtitle_child_carton">Înregistrarea sesiun ilor de joc necesită un consum crescut de energie care poate afecta viteza de lucru a dispozitivului.</string>
+    <string name="gs_game_manual_record_subtitle_child_conflict">Alte funcții de înregistrare a imaginilor de pe ecran pot funcționa necorespunzător.</string>
     <string name="gs_game_net_priority">Prioritate conexiune</string>
     <string name="gs_game_net_priority_detail">Limitați viteza de descărcare pentru a avea lățime de bandă disponibilă pentru jocuri</string>
     <string name="gs_game_performance">Performanță</string>
+    <string name="gs_game_record_intro_tips">*Înregistrarea sesiunii de joc este disponibilă doar pentru jocurile compatibile selectate</string>
     <string name="gs_game_shortcut">Îmbunătățiți experiența de joc</string>
     <string name="gs_gamebox">Scurtături în jocuri</string>
     <string name="gs_gamebox_detail">Glisați din partea de sus a ecranului pentru a vedea</string>

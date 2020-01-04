@@ -166,6 +166,11 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
     <string name="location_provider_btn_text">Activați serviciile de localizare</string>
     <string name="location_tag">Localizare GPS</string>
+    <string name="manager_city_option_add_city_back_search">Înapoi la căutare</string>
+    <string name="manager_city_option_add_city_content">Acest oraș a fost adăugat la pagina de pornire cu succes</string>
+    <string name="manager_city_option_add_city_title">Adăugat cu succes</string>
+    <string name="manager_city_option_add_home">Adăugați la pagina de pornire</string>
+    <string name="manager_city_option_view_on_home">Vedeți pe pagina de pornire</string>
     <string name="menu_location">Locaţii</string>
     <string name="menu_speaker">Suport vocal</string>
     <string name="minute_rain">Prognoza precipitațiilor</string>
@@ -213,6 +218,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="precipitation_degree_three">Moderată</string>
     <string name="precipitation_degree_two">Ușoară</string>
     <string name="pressure_connect">%1$s mb</string>
+    <string name="pressure_content">%1$s%2$s</string>
     <string name="privacy_grant_failed">"Nu s-a putut acorda permisiunea. Așteptați un minut sau două și încercați din nou."</string>
     <string name="privacy_grant_or_revoke_settings">Acordare și revocare autorizare</string>
     <string name="privacy_grant_success">Autorizare acordată cu succes</string>
