@@ -117,6 +117,7 @@
     <string name="aqi_quality_index_light_pollution">Atenţie</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Nesănătos</string>
+    <string name="auto_add_app_shortcut">Adăugați aplicațiile recent instalate pe Ecranul principal</string>
     <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
     <string name="auto_delete_category_dialog_title">Se șterge categoria</string>
     <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
@@ -133,6 +134,9 @@
     <string name="category_cannot_empty">Introduceți mai întâi categoria</string>
     <string name="category_choose_no_app_select_tip">Fiecare categorie trebuie să conțină cel puțin o aplicație.</string>
     <string name="category_drawer_name_hint">Introduceți numele categoriei</string>
+    <string name="category_edit_back_confirm_dialog_content">Salvați modificările acum?</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">Nu salva</string>
+    <string name="category_edit_back_confirm_dialog_positive_button">Salvați</string>
     <string name="category_group">Categorisiți aplicațiile</string>
     <string name="category_group_summary">Categorisiți aplicațiile din Sertarul de aplicații</string>
     <string name="category_not_selected">Aplicații disponibile</string>

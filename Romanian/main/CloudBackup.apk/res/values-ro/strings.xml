@@ -216,6 +216,8 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="size_unknown">Dimensiune necunoscută</string>
     <string name="start_backup_to_micloud">Creați o copie de rezervă pentru aplicații în Xiaomi Cloud</string>
     <string name="start_recover">Restabiliţi %s</string>
+    <string name="storage_unit_gb">%s GB</string>
+    <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">A fost activată crearea copiilor de rezervă pentru aplicațiile din ecranul principal</string>
     <string name="title_alert_cancel_restore">Opriți restaurarea</string>
     <string name="title_alert_restore_error">"Restaurarea a eșuat"</string>

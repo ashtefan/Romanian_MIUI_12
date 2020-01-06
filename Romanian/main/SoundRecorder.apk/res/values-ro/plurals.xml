@@ -8,6 +8,14 @@
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Ștergeți %d înregistrări din cloud?</item>
+        <item quantity="one">Ștergeți %d înregistrare din cloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Ștergeți %d înregistrări?</item>
+        <item quantity="one">Ștergeți %d înregistrare?</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
@@ -27,13 +35,5 @@
     <plurals name="unsynced_records_count">
         <item quantity="other">%d nu sunt sincronizate</item>
         <item quantity="one">%d nu este sincronizat</item>
-    </plurals>
-    <plurals name="confirm_delete_cloud_records">
-        <item quantity="other">Ștergeți %d înregistrări din cloud?</item>
-        <item quantity="one">Ștergeți %d înregistrare din cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_records">
-        <item quantity="other">Ștergeți %d înregistrări?</item>
-        <item quantity="one">Ștergeți %d înregistrare?</item>
     </plurals>
 </resources>

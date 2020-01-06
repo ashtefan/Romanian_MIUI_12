@@ -22,6 +22,7 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="find_device_error_access_denied">Acces refuzat.</string>
     <string name="find_device_error_account_sys_timeout">"Nu s-a putut conecta la contul Mi. "</string>
     <string name="find_device_error_account_unknown_error">Eroare Cont Mi (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Eroare de rețea.</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server (%s).</string>

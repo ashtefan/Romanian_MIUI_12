@@ -1532,6 +1532,8 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="cloud_restore_section_summary">Restaurați setările de sistem, dispunerea Ecranului principal și aplicațiile</string>
     <string name="cloud_restore_section_title">Restaurați din Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
+    <string name="codec_low_latency_summary">Furnizează o experiență de latență scăzută pentru sincronizarea Audio/Video</string>
+    <string name="codec_low_latency_title">Latență scăzută</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
     <string name="color_calibration_none">Nativă</string>
@@ -1996,6 +1998,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_rule_name">Regula programată nr. 1</string>
     <string name="default_sound">Sunet prestabilit</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
+    <string name="default_suppression_title">Implicit (Recomandat)</string>
     <string name="default_theme">Implicită</string>
     <string name="default_usb_mode">Conexiune USB</string>
     <string name="default_vol_stream_title">Control volum flux implicit</string>
@@ -2177,6 +2180,8 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="display_vr_pref_off">Nu fă nimic</string>
     <string name="display_vr_pref_title">Când telefonul este în Modul VR</string>
     <string name="display_white_balance_title">Afișare balans de alb</string>
+    <string name="diy_suppression_summary">Ajustați dimensiunea ariei din apropierea colțurilor unde atingerile accidentale vor fi ignorate</string>
+    <string name="diy_suppression_title">Personalizat</string>
     <string name="dlg_cancel">Anulaţi</string>
     <string name="dlg_confirm_unmount_text">Dacă demontaţi stocarea USB, unele aplicaţii pe care le utilizaţi se vor opri şi ar putea fi indisponibile până la remontarea acestuia.</string>
     <string name="dlg_confirm_unmount_title">Demontaţi stocarea USB?</string>
@@ -2321,6 +2326,8 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="edge_mode_photo_summary">În aplicația Cameră foto, apăsați marginea superioară a ecranului pentru a activa obturatorul și apăsați din nou pentru a realiza o fotografie</string>
     <string name="edge_mode_screenshot">Captură de ecran</string>
     <string name="edge_mode_screenshot_summary">Apăsați de două ori ambele margini pentru a realiza o captură de ecran</string>
+    <string name="edge_mode_state_summary">Aria din jurul marginilor curbate nu va răspunde la atingere</string>
+    <string name="edge_mode_state_title">Ignorați atingerile accidentale din zona marginilor</string>
     <string name="edge_to_edge_navigation_summary">Pentru a naviga Acasă, glisați în sus din partea de jos a ecranului. Pentru a comuta între aplicații, glisați în sus din partea de jos, mențineți, apoi eliberați. Pentru a reveni, glisați din partea stângă sau dreaptă a ecranului.</string>
     <string name="edge_to_edge_navigation_title">Navigare utilizând gesturi</string>
     <string name="edit_rule">Editați regulile</string>
@@ -2889,7 +2896,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_system">Sistem</string>
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
-    <string name="headset_settings_title">Căști</string>
+    <string name="headset_settings_title">Efecte sunet</string>
     <string name="heavy_weight_stop_description">Această aplicaţie nu poate fi oprită în siguranţă. Oprirea aplicaţiei ar putea duce la pierderea datelor curente.</string>
     <string name="help_feedback_label">Ajutor și feedback</string>
     <string name="help_label">Ajutor și feedback</string>
@@ -4833,6 +4840,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="privacy_factory_reset_dlg_button_text">Resetați</string>
     <string name="privacy_factory_reset_dlg_message">"Dacă uitați parola, va trebui să faceți o resetare la valorile din fabrică pentru a seta o altă parolă."</string>
     <string name="privacy_factory_reset_dlg_title">Salvați-vă datele</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Introduceți parola înainte de a utiliza o nouă amprentă</string>
     <string name="privacy_file">Fișiere</string>
     <string name="privacy_gallery">Fotografii</string>
     <string name="privacy_header_text_less_than_half">Prea puțin. Mutați separatorul mai departe.</string>
@@ -5733,6 +5741,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="see_all_apps_title">Afișați toate cele %1$d aplicații</string>
     <string name="see_less">Vedeți mai puțin</string>
     <string name="see_more">Vedeți mai mult</string>
+    <string name="seek_bar_info">Ajustați dimensiunea</string>
     <string name="select_all">Selectaţi-le pe toate</string>
     <string name="select_application">Selectaţi o aplicaţie</string>
     <string name="select_automatically">Selectează rețeaua în mod automat</string>
@@ -6318,6 +6327,8 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="storageuse_settings_title">Utilizare stocare</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Ilum. intermit. la operaţiuni lungi pe firul princ.</string>
+    <string name="strong_suppression_summary">Telefonul dvs. nu va răspunde la atingerile accidentale; este posibil ca unele controale prin gesturi să nu funcționeze în zonele din apropierea marginilor</string>
+    <string name="strong_suppression_title">Arie mare</string>
     <string name="structure_add_facerecoginition_text">Adăugați date 3D ale chipului</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Nu se poate utiliza această caracteristică datorită nivelului redus al acumulatorului"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Acumulatorul trebuie să aibă cel puțin 5% energie pentru a porni înregistrarea.</string>
@@ -7215,6 +7226,8 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vt_provisioned_switch_string">Apel Video furnizat</string>
     <string name="wait_for_debugger">Aşteptaţi depanatorul</string>
     <string name="wait_for_debugger_summary">Înaintea executării, aplicaţia aşteaptă ataşarea depanatorului</string>
+    <string name="wake_suppression_summary">Este posibil ca telefonul dvs. să nu răspundă la atingerile accidentale, dar va răspunde la controalele prin gesturi în zonele din apropierea marginilor</string>
+    <string name="wake_suppression_title">Arie mică</string>
     <string name="wakeup_and_sleep_settings_category_name">Setări pentru Blocarea ecranului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
     <string name="wallpaper_attributions">Imagini de fundal</string>
@@ -7415,6 +7428,8 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_details_subnet_mask">Mască subrețea</string>
     <string name="wifi_details_title">Detalii rețea</string>
     <string name="wifi_dialog_remind_type_title">Rețea de date mobile</string>
+    <string name="wifi_direct_close_hotspot_hint">Dezactivați hotspot-ul portabil înainte de a utiliza Wi-Fi Direct</string>
+    <string name="wifi_direct_close_slave_wifi_hint">Deconectați-vă de la rețeaua Wi-Fi auxiliară înainte de a utiliza Wi-Fi Direct</string>
     <string name="wifi_disabled_by_recommendation_provider">Neconectat datorită calității slabe a rețelei</string>
     <string name="wifi_disabled_generic">Dezactivată</string>
     <string name="wifi_disabled_help">Reţeaua s-a deconectat din cauza conexiunii slabe. Pentru ajustarea setărilor, mergeţi la Setări > Wi-Fi, meniul Avansat.</string>

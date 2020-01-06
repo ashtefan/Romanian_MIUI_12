@@ -37,7 +37,7 @@
     <string name="catch_full_log_item_title_gps">Servicii de localizare</string>
     <string name="catch_full_log_item_title_sensor">Senzori</string>
     <string name="catch_full_log_item_title_signal">Telefon, semnal și rețele mobile</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi și Mi Drop</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi și ShareMi</string>
     <string name="catch_full_log_notification_content">Atingeți pentru a reveni la jurnale</string>
     <string name="catch_full_log_notification_title">Se generează jurnalul…</string>
     <string name="catch_full_log_privacy_content_audio">"Generați jurnale și le salvați în telefon. Jurnalele pot conține informații despre sistemul audio al dispozitivului, inclusiv istoricul de redare și cel al înregistrărilor. Tratați-le cu atenție și nu le trimiteți altor persoane. Atingând butonul \"De acord\" de mai jos, acceptați să colectăm datele de mai sus pe durata generării rapoartelor și apoi să le încărcăm pe serverele noastre pentru a putea localiza și remedia problemele pe care le-ați raportat."</string>
@@ -85,6 +85,7 @@
     <string name="err_type_xiaomi_family">Familia Mi</string>
     <string name="err_type_xiaomi_service">Serviciu clienți</string>
     <string name="error_no_connection">"Nu s-a putut conecta la rețea"</string>
+    <string name="failed_to_fetch_fql">Nu s-au găsit informații despre întrebările frecvente; verificați conexiunea la rețea</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selectați problema</string>
     <string name="feedback_choose_module">Selectați elementul</string>
@@ -195,6 +196,10 @@
     <string name="goon_feedback_main">Continuați</string>
     <string name="hint_feedback_main">Descrieți problema</string>
     <string name="issue_search">Căutați</string>
+    <string name="jump_full_log_dialog_cancel">Renunțați</string>
+    <string name="jump_full_log_dialog_confirm">Generați</string>
+    <string name="jump_full_log_dialog_content">Jurnalele ne ajută să localizăm și să remediem mai rapid problemele pe care doriți să le raportați. Generați jurnale și atașați-le feedback-ului dvs.</string>
+    <string name="jump_full_log_dialog_title">Generați jurnale</string>
     <string name="kr_authorization_agree">Accept</string>
     <string name="kr_authorization_contact">Conturi</string>
     <string name="kr_authorization_contact_desc">Pentru obținerea de informații despre contul Mi și verificarea contului</string>
@@ -308,6 +313,7 @@
     <string name="module_tools">Unelte de sistem</string>
     <string name="modules">Selectați elementul</string>
     <string name="multi_graph_more">Total elemente: %d</string>
+    <string name="net_error_info">Nu există o conexiune la rețea; atingeți aici pentru a merge la Setări</string>
     <string name="network_err">"Nu se poate conecta la rețea."</string>
     <string name="network_errorbtntip_custom">Încercați din nou</string>
     <string name="network_errorbtntip_login">Conectați-vă</string>
@@ -511,6 +517,7 @@ Pentru a vă activa contul, accesați
     <string name="section_err_type">Tip de eroare</string>
     <string name="section_screenshot">Captură de ecran</string>
     <string name="select_system_app_tag">Selectați o problemă</string>
+    <string name="service_unavailiable">Nu s-au putut obține informații; încercați din nou mai târziu</string>
     <string name="submit_dialog_cancel">"Nu sunt de acord"</string>
     <string name="submit_dialog_confirm">De acord</string>
     <string name="submit_dialog_content">&lt;Data&gt;"Trebuie să acceptați &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; pentru a putea utiliza funcția de Raportare. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați."&lt;/Data&gt;</string>
@@ -543,6 +550,7 @@ Pentru a vă activa contul, accesați
     <string name="toast_feedback_pending_wlan">"Raportul dvs. va fi trimis atunci când veţi fi conectat la Wi-Fi"</string>
     <string name="toast_feedback_submitted">Raportul dvs. a fost trimis</string>
     <string name="toast_feedback_submitting">Trimitere…</string>
+    <string name="toast_file_format_not_support">Acest format de fișier nu este suportat. Încercați să selectați un fișier diferit.</string>
     <string name="toast_fill_brackets">Din raportul dvs. lipsesc câteva informaţii</string>
     <string name="toast_loading_app_id">Obținere informații…</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
@@ -560,8 +568,24 @@ Pentru a vă activa contul, accesați
     <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="toast_title_required">Descrieți problema</string>
     <string name="topic_author">1#</string>
-    <string name="try_again">Încercați din nou</string>
+    <string name="update_dialog_cancel">Renunțați</string>
+    <string name="update_dialog_confirm">Actualizați</string>
+    <string name="update_dialog_content_log">"Ce este nou:
+%1$s
+Dimensiune: %2$s"</string>
+    <string name="update_dialog_content_version">Puteți trece la versiunea %1$s acum.</string>
+    <string name="update_dialog_title">Este disponibilă o actualizare</string>
     <string name="upload_log_failed">"Nu s-au putut trimite rapoartele cu erori"</string>
     <string name="warning_field_empty">Introduceți %1$s</string>
     <string name="warning_field_invalid">Selectați o %1$s validă</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de descărcare a eșuat; vă rugăm să verificați starea acestuia din Gestionarea Aplicațiilor.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
+Dimensiune: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Vă prezentăm versiunea %1$s
+Dimensiunea actualizării Delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Actualizare %1$s!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Stocare indisponibilă; vă rugăm să verificați cardul SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
 </resources>

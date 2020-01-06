@@ -68,6 +68,7 @@
     <string name="button_send">Trimiteți</string>
     <string name="call_title">Istoric apeluri</string>
     <string name="camera_summary">Setări Cameră (fotografiile nu se includ)</string>
+    <string name="camera_summary_for_cta">Setări Cameră</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_backup">Opriţi</string>
     <string name="cancel_moving_dialog_message">Opriți importarea acum?</string>

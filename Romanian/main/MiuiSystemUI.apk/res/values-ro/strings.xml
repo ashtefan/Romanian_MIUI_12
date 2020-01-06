@@ -905,6 +905,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="ir_mcc">432</string>
     <string name="keep_screen_on">Ecran activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
+    <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">Înapoi</string>
     <string name="keyboard_key_backspace">Șterge</string>
     <string name="keyboard_key_button_template">Butonul %1$s</string>

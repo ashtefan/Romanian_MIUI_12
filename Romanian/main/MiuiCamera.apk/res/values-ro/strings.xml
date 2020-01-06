@@ -75,8 +75,8 @@
     <string name="accessibility_video_pause_button">Buton pauză înregistrare video</string>
     <string name="accessibility_video_resume_button">S-a reluat înregistrarea video</string>
     <string name="accessibility_zoom_button">Mod mărire</string>
-    <string name="ai_scene_mode_use_hint_text">"AI Camera detectează scenele în mod automat 
-și optimizează fotografiile în funcție de acesta"</string>
+    <string name="ai_scene_mode_use_hint_text">"Recunoașteți scenele utilizând AI
+și ajustați preferințele în mod automat"</string>
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="app_name">Gestionare efecte</string>
@@ -114,6 +114,7 @@
     <string name="button_fisheye_camera_title">Ochi de pește</string>
     <string name="button_front_camera_title">Realizați un selfie</string>
     <string name="button_normal_video_title">Înregistrați un videoclip</string>
+    <string name="camcorder_tip_8k_max_video_duration">Puteți înregistra până la 6 minute în 8K</string>
     <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_facedetection_sub_option_hint">Caracteristică experimentală</string>
@@ -1044,6 +1045,8 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="user_notice_identify_summary_format">"Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Acceptați să vă conectați la internet?"</string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="video_beauty_tip">Înfrumusețare pentru videoclipuri</string>
+    <string name="video_beauty_tip_filter">Filtre</string>
+    <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
     <string name="video_camera_label">Cameră video</string>
     <string name="video_effect_entry_blackwhite">Alb-negru</string>
     <string name="video_effect_entry_bygone">Trecut</string>
