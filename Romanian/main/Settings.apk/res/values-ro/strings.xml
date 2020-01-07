@@ -6942,6 +6942,11 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Pentru a o utiliza, selectați un furnizor de rating de rețea compatibil</string>
     <string name="use_open_wifi_automatically_summary_scoring_disabled">Pentru a o utiliza, selectați un furnizor de rating de rețea compatibil</string>
     <string name="use_open_wifi_automatically_title">Se conectează la rețelele deschise</string>
+    <string name="use_otg_charge_only">Încărcare inversă</string>
+    <string name="use_otg_charge_only_summary">Încărcare mai rapidă 1A</string>
+    <string name="use_otg_file_transfers">Încărcare inversă și transfer de fișiere</string>
+    <string name="use_otg_file_transfers_summary">Încărcare mai lentă 500mA și transfer de fișiere</string>
+    <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Recomandare personalizată Reclame</string>
     <string name="use_personalized_ad_service_summary">Când caracteristica de recomandare este dezactivată, veți vedea la fel de multe reclame ca atunci când este activată, dar nu vor mai fi bazate pe datele comportamentului sau informațiile personale.</string>
     <string name="use_privacy_password_immediate">Utilizați</string>
@@ -7829,8 +7834,8 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_tether_configure_ap_text">Configuraţi hotspotul portabil</string>
     <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
     <string name="wifi_tether_configure_subtext">%1$s portabil %2$s</string>
-    <string name="wifi_tether_enabled_subtext">%1$s este activă</string>
-    <string name="wifi_tether_enabled_summary">%1$s este activă</string>
+    <string name="wifi_tether_enabled_subtext">%1$s este activ</string>
+    <string name="wifi_tether_enabled_summary">%1$s este activ</string>
     <string name="wifi_tether_failed_subtext">Eroare de hotspot portabil</string>
     <string name="wifi_tether_setting_title">Setări</string>
     <string name="wifi_tether_settings_title">Hotspot portabil</string>

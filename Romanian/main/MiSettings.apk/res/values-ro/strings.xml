@@ -140,9 +140,11 @@
     <string name="usage_app_weekend_limit">Zile libere</string>
     <string name="usage_beat_fans">Mai bine decât %s fani Mi</string>
     <string name="usage_continuous_days">Perioadă</string>
+    <string name="usage_creating_weekly_report">Se crează raportul săptămânal…</string>
     <string name="usage_exit">Ieșiți</string>
     <string name="usage_focus_focus_premission_main_summary">Această aplicație trebuie să vă acceseze informațiile despre cont pentru a vă înregistra starea utilizării modului Focusat.</string>  
     <string name="usage_focus_focus_premission_second_summary">Dacă nu acceptați să acordați asemenea permisuni, nu veți putea utiliza unele caracteristici ale acestei aplicații. Totuși, funcțiile de bază vor fi disponibile în continuare. Puteți oricând restricționa permisiunile sau revoca autorizarea din Setări.</string>
+    <string name="usage_focus_new_summary">Deveniți mai atent și mai concentrat</string>
     <string name="usage_focus_save_success">Salvată cu succes în Galerie</string>
     <string name="usage_focus_summary_level1">Este ușor să acordați câteva minute pentru a rămâne focusați.</string>
     <string name="usage_focus_summary_level2">Focusarea poate deveni rutină.</string>
@@ -167,6 +169,11 @@ Pentru a putea funcționa în mod normal, această aplicație trebuie să colect
 Această aplicație trebuie de asemenea să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:"</string>
     <string name="usage_home_premission_second_summary">Pentru a putea funcționa în mod normal, această aplicație trebuie să vă colecteze datele personale. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.</string>
     <string name="usage_home_premission_second_summary_new">Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante. Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați informații personale, nu veți putea utiliza această aplicație. Puteți revoca autorizarea din Timp de ecran>Setări>Dezactivați timpul de ecran. Dacă aveți întrebări referitoare la confidențialitate, ne puteți contacta la privacy@xiaomi.com."</string>
+    <string name="usage_no_net_summary">Verificați setările de rețea și încercați din nou</string>
+    <string name="usage_refresh">Încercați din nou</string>
+    <string name="usage_request_error_summary">A apărut o eroare necunoscută</string>
+    <string name="usage_request_timeout_summary">Timpul de rezolvare a solicitării a expirat</string>
+    <string name="usage_special_feature">Funcții speciale</string>
     <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
     <string name="usage_state_add_up_count">Sesiuni</string>
     <string name="usage_state_add_up_days">Zile</string>
@@ -213,7 +220,7 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_state_friday">Vin</string>
     <string name="usage_state_go_more">Mai multe aplicații</string>
     <string name="usage_state_hour_minute">%1$dh și %2$dm</string>
-    <string name="usage_state_less_one_minute">Mai puțin de 1 minut</string>
+    <string name="usage_state_less_one_minute">< 1 minut</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">Timp de ecran pe %s</string>
     <string name="usage_state_noti_mourth_day">Notificări pe %s</string>
@@ -262,6 +269,8 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_stats_week_day">În zilele nelucrătoare</string>
     <string name="usage_total_days">Total zile</string>
     <string name="usage_total_times">Total sesiuni</string>
+    <string name="usage_weekly_report_summary">Aflați cât timp petreceți folosind telefonul</string>
+    <string name="usage_weekly_report_title">Raport săptămânal</string>
     <string name="usagestats_app_category_miui_education">Educație</string>
     <string name="usagestats_app_category_miui_entainment">Distracție</string>
     <string name="usagestats_app_category_miui_financial">Finanțe</string>

@@ -112,7 +112,7 @@
      </plurals>   
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contacte</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="one">%d contact</item>
      </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacte cu numere de telefon</item>
@@ -141,7 +141,7 @@
      </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d  grupuri</item>
-        <item quantity="one">1 grup</item>
+        <item quantity="one">%d grup</item>
      </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elemente rămase</item>
@@ -169,7 +169,7 @@
      </plurals>      
     <plurals name="searchFoundContacts">
         <item quantity="other">%d găsite</item>
-        <item quantity="one">1 găsit</item>
+        <item quantity="one">%d găsit</item>
      </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Selectați mai puțin de %1$d; nu se pot selecta toate"</item>

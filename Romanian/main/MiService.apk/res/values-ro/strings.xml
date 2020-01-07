@@ -45,8 +45,12 @@
     <string name="miservice_channel_guide_name">ghid</string>
     <string name="miservice_channel_update_notification_info">\"Servicii și feedback\" solicită date online…</string>
     <string name="miservice_notification_boot_content">Aflați mai multe despre ce poate face MIUI</string>
+    <string name="miservice_notification_huanji_content">Transferați-le utilizând Mi Mover</string>
+    <string name="miservice_notification_huanji_title">Aveți lucruri importante pe vechiul telefon?</string>
     <string name="miservice_notification_open_feedback_content">Toate caracteristicile de feedback au fost mutate în noua aplicație</string>
     <string name="miservice_notification_open_feedback_title">Vă prezentăm aplicația \"Servicii și feedback\"</string>
+    <string name="miservice_notification_scan_content">Utilizați aplicația Scaner pentru a traduce cuvinte și fraze</string>
+    <string name="miservice_notification_scan_title">Traduceți într-o clipă</string>
     <string name="miui_feedback_answer_detail_community">Puteți găsi răpunsuri la întrebările dvs. în Comunitatea Mi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Da</string>
     <string name="miui_feedback_answer_detail_feedback_result">Vă mulțumim pentru feedback!</string>

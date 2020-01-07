@@ -1353,6 +1353,8 @@ Se va utiliza rețeaua preferată."</string>
     <string name="not_allowed">"Cartela dvs. SIM nu permite conexiunea la această reţea."</string>
     <string name="not_set">Nesetat</string>
     <string name="not_voice_capable">Apelarea vocală nu este acceptată</string>
+    <string name="notification_demo_version_text">Nu se pot efectua apeluri sau utiliza date mobile</string>
+    <string name="notification_demo_version_title">Acesta este un dispozitiv demo</string>
     <string name="notification_network_selection_text">Reţeaua selectată (%s) nu este disponibilă</string>
     <string name="notification_network_selection_title">Fără serviciu</string>
     <string name="notification_voicemail_no_vm_number">Număr mesagerie vocală necunoscut</string>

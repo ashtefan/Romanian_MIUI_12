@@ -394,17 +394,17 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_paired_dialog_title">Preluare contacte…</string>
     <string name="device_pairing_dialog_message">Asociere…</string>
     <string name="device_pairing_dialog_title">Asociaţi dispozitivele</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Activați \"Bluetooth\" pe celălalt telefon;        
-- Pe telefoanele cu Android \"Bluetooth\" se găsește de regulă în secțiunea Rețele mobile
+    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activați Bluetooth-ul pe celălalt dispozitiv.
+- Pe telefoanele cu Android funcția Bluetooth se găsește de regulă în secțiunea Rețele mobile.
         
-- Pe telefoanele cu iOS \"Bluetooth\" se găsește în Setări
-2. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea \"Detectare disponibilă pentru celelalte dispozitive\";
+- Pe telefoanele cu iOS funcția Bluetooth se găsește în Setări.
+%d. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea Mod Detectare.
         
-3. Apăsați \"Următorul\", și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
-    <string name="device_transfer_by_sim_message">"1. Salvați contactele de pe celălalt telefon pe cartela SIM;
+%d. Apăsați \"Următorul\" și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
+    <string name="device_transfer_by_sim_message" formatted="false">"%d. Salvați contactele de pe celălalt telefon pe cartela SIM;
         
 
-2. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
+%d. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați toate contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
     <string name="device_version_header_bluetooth">Importați contactele prin Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cartela SIM</string>
     <string name="dial">Apelaţi</string>
@@ -456,7 +456,6 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="edit_contact">Editaţi informaţiile despre contactul din agendă</string>
     <string name="edit_contact_card_title">Selectați elementele de partajat</string>
     <string name="edit_contact_photo">Editaţi fotografia contactului</string>
-    <string name="eight">8</string>
     <string name="eight_letter">TȚUV</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
@@ -509,11 +508,9 @@ Motivul: \"%s\""</string>
     <string name="favoritesFrequentContacted">Contactate frecvent</string>
     <string name="favorites_list_empty">Niciun contact favorit</string>
     <string name="firewall_setting">Listă blocări</string>
-    <string name="five">5</string>
     <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Carte de vizită</string>
     <string name="force_touch_new_contact">Contact nou</string>
-    <string name="four">4</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Frecvent</string>
     <string name="full_name">Nume</string>
@@ -578,8 +575,8 @@ Motivul: \"%s\""</string>
     <string name="import_from_sim2">Importați de pe cartela SIM2</string>
     <string name="import_multiple_vcard_string">Importaţi fişiere multiple vCard</string>
     <string name="import_name">Nume</string>
-    <string name="import_one_vcard_string">Importaţi un fişier vCard</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">Importaţi %d fişier(e) vCard</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">Importaţi contactele selectate</string>
     <string name="import_sim_contacts_hint_title">Importați contactele SIM</string>
     <string name="import_sim_entries_finish">Contacte importate din cartela SIM</string>
@@ -782,7 +779,6 @@ Motivul: \"%s\""</string>
     <string name="nickname_editor_title">Editaţi pseudonimul</string>
     <string name="nickname_picker_name_column">Nume contact</string>
     <string name="nickname_picker_nickname_column">Titlu</string>
-    <string name="nine">9</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Pentru a crea grupuri aveţi nevoie de un cont.</string>
     <string name="noContactHelpTextAccountsInfo"/>
@@ -823,7 +819,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="notification_action_voicemail_play">Redaţi</string>
     <string name="notification_new_voicemail_ticker">Mesaj vocal nou de la %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="one">1</string>
     <string name="openDialKeyboard">Tastatură numerică</string>
     <string name="open_contact">Vizualizaţi contactul</string>
     <string name="open_dial_pad_description">Deschideți tastatura numerică</string>
@@ -1080,11 +1075,10 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="set_data_package">Setați mai întâi planul de date</string>
     <string name="set_default">Setaţi ca prestabilit</string>
     <string name="set_photo_failed_msg">"Nu s-a putut atribui fotografia"</string>
-    <string name="seven">7</string>
     <string name="seven_letter">PQRSȘ</string>
     <string name="share_contact_as">Partajați contactul ca</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
-    <string name="share_over_limit">Nu se pot partaja mai mult de 1000 de contacte</string>
+    <string name="share_over_limit">Nu se pot partaja mai mult de %d de contacte</string>
     <string name="share_qrcode">Partajați codul QR</string>
     <string name="share_via">Trimiteţi utilizând</string>
     <string name="share_visible_contacts">Distribuiţi contactele</string>
@@ -1124,14 +1118,13 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="sim_unloaded">"Cartela SIM nu este instalată"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
-    <string name="six">6</string>
     <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">Companie</string>
     <string name="smart_group_company_unavailable">Nicio informație despre companie</string>
     <string name="smart_group_frequency_1">În ultima lună</string>
-    <string name="smart_group_frequency_2">Între 1 și 3 luni</string>
-    <string name="smart_group_frequency_3">Între 3 și 6 luni</string>
-    <string name="smart_group_frequency_4">Cu mai mult de 6 luni în urmă</string>
+    <string name="smart_group_frequency_2" formatted="false">Între %d și %d luni</string>
+    <string name="smart_group_frequency_3" formatted="false">Între %d și %d luni</string>
+    <string name="smart_group_frequency_4">Cu mai mult de %d luni în urmă</string>
     <string name="smart_group_frequency_label">Recente</string>
     <string name="smart_group_label">Grupuri inteligente</string>
     <string name="smart_group_loading">Doar o secundă…</string>
@@ -1182,12 +1175,11 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="t9_search_empty_send_sms">Trimiteți un mesaj</string>
     <string name="t9_search_empty_video_call">Apel video</string>
     <string name="t9_search_guide_pinyin_title1">Căutați rapid contactele introducând literele de început</string>
-    <string name="t9_search_guide_pinyin_title2">Tastați 9 și 4 pentru a căuta Zaharia George</string>
-    <string name="t9_search_guide_zhuyin_title1">Căutați rapid contactele introducând literele de început</string>
-    <string name="t9_search_guide_zhuyin_title2">Tastați 8 și 2 pentru a căuta &lt;font fgcolor=""&gt;T&lt;/font&gt;atiana &lt;font fgcolor=""&gt;C&lt;/font&gt;azacu</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduceți %d și %d pentru a căuta &lt;font fgcolor=""&gt;X&lt;/font&gt;enia &lt;font fgcolor=""&gt;H&lt;/font&gt;othazie</string>
+    <string name="t9_search_guide_zhuyin_title1">Introduceți cifre pentru a găsi contacte</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduceți %d și %d pentru a căuta &lt;font fgcolor=""&gt;J&lt;/font&gt;ana &lt;font fgcolor=""&gt;M&lt;/font&gt;urărescu</string>
     <string name="take_new_photo">Realizați o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
-    <string name="three">3</string>
     <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">Asociaţi intrările din agendă</string>
     <string name="title_other_devices">Alte dispozitive disponibile</string>
@@ -1208,7 +1200,6 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
     <string name="transfer_accounts">Transferare conturi</string>
-    <string name="two">2</string>
     <string name="two_letter">AĂÎBC</string>
     <string name="type_incoming">Apel primit</string>
     <string name="type_missed">Apel nepreluat</string>
@@ -1294,7 +1285,6 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_provider_label">Date furnizate de către</string>
     <string name="yellowpage_search_the_yellowpage">Căutare în Pagini Aurii</string>
     <string name="yellowpage_user_profile">Profil</string>
-    <string name="zero">0</string>
     <string name="zero_items_selected">Selectaţi elementele</string>
     <string name="zero_letter">+</string>
 </resources>

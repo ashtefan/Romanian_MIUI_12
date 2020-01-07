@@ -46,7 +46,7 @@
     <string name="accessibility_shutter_button">Obturator</string>
     <string name="action_search">Căutați</string>
     <string name="address">Adresă:</string>
-    <string name="agree_app_use">Scanarea codurilor QR și recunoașterea acestora din alte imagini</string>
+    <string name="agree_app_use">Scanarea codurilor QR și a altor imagini(unele caracteristici pot necesita accesarea locației)</string>
     <string name="agree_btn">De acord</string>
     <string name="agree_camera_permission">Pentru realizarea de fotografii și înregistrarea de videoclipuri</string>
     <string name="agree_storage_permission">Pentru accesarea fotografiilor și a fișierelor stocate în dispozitiv</string>

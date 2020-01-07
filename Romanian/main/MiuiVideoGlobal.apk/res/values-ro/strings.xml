@@ -322,6 +322,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="fw_loading">Doar o secundă…</string>
     <string name="fw_reload_sub_title">Atinge ecranul pentru a încerca din nou</string>
     <string name="fw_reload_title">Nu se poate conecta la rețea.</string>
+    <string name="gallery_fold_tags">Ascunde marcajele</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Camera</string>
     <string name="gallery_folder_alias_download">Descărcări</string>
@@ -354,6 +355,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="gallery_video_operate_text">Ajustări mișcare lentă</string>
     <string name="gallery_video_save_video">Se crează videoclipul…</string>
     <string name="gallery_video_slow_edit">Mișcare lentă</string>
+    <string name="gallery_view_tags">Afișează marcajele</string>
     <string name="get_back_pwd">Se resetează parola</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi."</string>
@@ -390,6 +392,7 @@ pentru videoclipuri"</string>
     <string name="library_roundedimageview_author">Vince Mi</string>
   <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="local_push_title">Populare astăzi</string>
     <string name="logging_normal">Normal</string>
     <string name="logging_verbose">Verbose</string>
     <string name="login">Conectați-vă</string>
@@ -398,6 +401,10 @@ pentru videoclipuri"</string>
     <string name="logout">Deconectați-vă</string>
     <string name="logout_account">Deconectați-vă</string>
     <string name="lp_base_folder">Card SD</string>
+    <string name="lp_play_mode_list_loop">Redați în buclă tot</string>
+    <string name="lp_play_mode_pause">Redați unul</string>
+    <string name="lp_play_mode_single_loop">Redați în buclă unul</string>
+    <string name="lp_play_mode_title">Mod de redare</string>
     <string name="lp_speed_title">Viteza de redare</string>
     <string name="lp_speed_toast">Se redă la viteza %sX…</string>
     <string name="lp_videoView_error_button">Am înțeles</string>
