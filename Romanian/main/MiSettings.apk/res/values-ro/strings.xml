@@ -220,7 +220,7 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_state_friday">Vin</string>
     <string name="usage_state_go_more">Mai multe aplicații</string>
     <string name="usage_state_hour_minute">%1$dh și %2$dm</string>
-    <string name="usage_state_less_one_minute">< 1 minut</string>
+    <string name="usage_state_less_one_minute">&lt; 1 minut</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">Timp de ecran pe %s</string>
     <string name="usage_state_noti_mourth_day">Notificări pe %s</string>
