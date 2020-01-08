@@ -117,7 +117,7 @@
     <string name="aqi_quality_index_light_pollution">Atenţie</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Nesănătos</string>
-    <string name="auto_add_app_shortcut">Adăugați aplicațiile recent instalate pe Ecranul principal</string>
+    <string name="auto_add_app_shortcut">Plasați aplicațiile noi pe Ecranul principal</string>
     <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
     <string name="auto_delete_category_dialog_title">Se șterge categoria</string>
     <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
@@ -335,6 +335,7 @@
     <string name="notification_installed">Instalat cu succes</string>
     <string name="notification_open_button">Deschideți</string>
     <string name="notification_reset_title">Pictogramele au fost aranjate cu succes</string>
+    <string name="one_key_call_title">Atingeți pentru a forma</string>
     <string name="online_wallpaper">On-line</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Dezactivați</string>

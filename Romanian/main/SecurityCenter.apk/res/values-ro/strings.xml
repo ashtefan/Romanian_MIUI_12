@@ -1276,11 +1276,15 @@ cardul de sănătate"</string>
     <string name="gb_sound_audition">Încercați</string>
     <string name="gb_voice_change_settinged">Modificarea vocii este activă</string>
     <string name="gb_voice_changer_cartoon">Desen animat</string>
+    <string name="gb_voice_changer_dlg_button_agree">Permiteți</string>
+    <string name="gb_voice_changer_dlg_button_refuse">Restricționați</string>
     <string name="gb_voice_changer_dlg_title">Modificare voce</string>
     <string name="gb_voice_changer_lady">Femeie</string>
     <string name="gb_voice_changer_loli">Fată</string>
     <string name="gb_voice_changer_men">Bîrbat</string>
     <string name="gb_voice_changer_normal">Original</string>
+    <string name="gb_voice_changer_permission_dlg_msg">Funcția de modificare a vocii trebuie să poată înegistra sunete pentru a funcționa în mod normal.</string>
+    <string name="gb_voice_changer_permission_dlg_title">Sunt necesare unele permisiuni</string>
     <string name="gb_voice_changer_robot">Robot</string>
     <string name="gb_wonderful_video_cancel">Renunțați</string>
     <string name="gb_wonderful_video_checkall">Selectați tot</string>
@@ -1343,6 +1347,8 @@ Videoclipurile vor fi salvate în Jocuri Turbo >Momente cheie."</string>
     <string name="gs_show_way_vertical">Vertical</string>
     <string name="gs_sign_notification">Amintește-mi să verific în fiecare zi la ora 20.00</string>
     <string name="gs_slip_gamebox_detail">Utilizați cursorul sau glisați din partea de sus a ecranului pentru a afișa panoul cu scurtături</string>
+    <string name="gtb_exit_game_to_gtb">Deschideți cutia cu jocuri</string>
+    <string name="gtb_exit_game_to_home">Înapoi la Ecranul principal</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
@@ -2052,10 +2058,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
-    <string name="power_save_ps_close_setting">Dezactivează serviciile și caracteristicile energofage (sincronizare, GPS, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
-    <string name="power_save_ps_close_setting_5g">Restricționează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, GPS, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\") pentru a economisi acumulatorul</string>
-    <string name="power_save_ps_close_setting_5g_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\")</string>
-    <string name="power_save_ps_close_setting_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, feedback tactil, \"Ridicare pentru a trezi\", \"Atingere dublă pentru a porni sau închide ecranul\", \"Arată pictograma amprentei când ecranul este închis\")</string>
+    <string name="power_save_ps_close_setting">Dezactivează serviciile și caracteristicile energofage (sincronizare, GPS, feedback tactil, \"Ridicare pentru a trezi\" și \"Arată pictograma amprentei când ecranul este închis\")</string>
+    <string name="power_save_ps_close_setting_5g">Restricționează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, GPS, feedback tactil, \"Ridicare pentru a trezi\" și \"Arată pictograma amprentei când ecranul este închis\")</string>
+    <string name="power_save_ps_close_setting_5g_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, conectivitate 5G, feedback tactil, \"Ridicare pentru a trezi\" și \"Arată pictograma amprentei când ecranul este închis\")</string>
+    <string name="power_save_ps_close_setting_q">Dezactivează serviciile și caracteristicile energofage (sincronizare, feedback tactil, \"Ridicare pentru a trezi\" și \"Arată pictograma amprentei când ecranul este închis\")</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
     <string name="power_save_settings">Setări pentru acumulator</string>

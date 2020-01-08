@@ -1271,6 +1271,7 @@ feedsContentId:
     <string name="vo_location_change_positive">Comutați</string>
     <string name="vo_location_change_title">Locația s-a schimbat</string>
     <string name="vo_location_choose_city">Atingeți pentru a schimba orașul</string>
+    <string name="vo_mi_ad_detail">Deschide în %s</string>
     <string name="vo_share_text">Partajați</string>
     <string name="vo_small_video_load_more_text">Glisați pentru a încărca mai mult</string>
     <string name="vo_small_video_title">Videoclipuri scurte</string>

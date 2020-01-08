@@ -206,7 +206,7 @@
     <string name="sim_added_reboot_title">Cartela SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="sim_lock_non_ais_msg">"Cartela dvs. SIM nu este complet operațională cu acest telefon deoarece nu respectă termenii și condițiile abonamentului dumneavoastră. Dacă aveți întrebări sau aveți nevoie de mai multe informații referitoare la această problemă, vă rugăm să contactați centrele de servicii Xiaomi sau magazinul de unde ați achiziționat produsele."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
-    <string name="slatoast">Utilizarea datelor mobile pentru a crește viteza poate duce la un trafic crescut de date mobile</string>
+    <string name="slatoast">Utilizarea datelor mobile pentru a crește viteza poate atrage taxe suplimentare de la operator</string>
     <string name="slavewifi">Wi-Fi dual band</string>
     <string name="slavewifi_disconnect">Deconectați</string>
     <string name="slavewifi_notification_title">Se utilizează Wi-Fi dual band</string>

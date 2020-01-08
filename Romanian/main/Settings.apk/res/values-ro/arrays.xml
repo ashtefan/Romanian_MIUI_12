@@ -1082,6 +1082,7 @@
     <string-array name="data_network_type_name_default">
         <item>4G</item>
         <item>4G+</item>
+        <item>5G</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Ultimele 30 de zile</item>

@@ -1374,6 +1374,7 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="calendar_sound_dialog_title">Selectați sunetul pentru calendar</string>
     <string name="calendar_sound_title">Sunet calendar</string>
     <string name="call_category">Apelare</string>
+    <string name="call_example_name">Nume</string>
     <string name="call_manager_enable_summary">Permiteți acestui serviciu să administreze modul de realizare a apelurilor.</string>
     <string name="call_manager_enable_title">Activați Administratorul de Apeluri</string>
     <string name="call_manager_title">Administrator apeluri</string>
