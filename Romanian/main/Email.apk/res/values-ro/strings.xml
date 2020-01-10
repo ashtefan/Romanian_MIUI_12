@@ -3,12 +3,12 @@
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
     <string name="SMTP_password_text">Parolă</string>
     <string name="SMTP_username_text">Nume de utilizator</string>
-    <string name="account_add_title">Selectați serviciul de e-mail</string>
+    <string name="account_add_title">Selectați un serviciu de e-mail</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_failure">Sesiune expirată</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
-    <string name="account_options_actionbar_title">Setări cont</string>
+    <string name="account_options_actionbar_title">Setări Generale</string>
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
           spaţii. Numeroase servere nu acceptă parole cu spaţii."</string>
@@ -38,7 +38,7 @@
     <string name="account_settings_incoming_summary">Nume utilizator, parolă şi alte setări pt. serverul de primire</string>
     <string name="account_settings_login_dialog_content_fmt">"Numele de utilizator sau parola pentru %s sunt incorecte.
 Actualizaţi acum?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">Nu s-a putut conecta la %1$s. Răspunsul serverului: %2$s. Actualizați numele de utilizator și parola?</string>
+    <string name="account_settings_login_dialog_reason_fmt">Nu s-a putut conecta la %1$s. Răspunsul serverului: %2$s</string>
     <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Trebuie să reîmprospătați manual E-mailurile pentru a sincroniza mesajele</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Va trebui să reîmprospătați în mod manual pentru a sincroniza mesajele și evenimentele din Calendar"</string>
@@ -305,7 +305,7 @@ Actualizaţi acum?"</string>
     <string name="config_cancel">Renunțați</string>
     <string name="config_retry">Reîncercați</string>
     <string name="confirm">OK</string>
-    <string name="confirm_age">Confirmați vârsta</string>
+    <string name="confirm_age">Confirmați Vârsta</string>
     <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
     <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
     <string name="confirm_before_send">Confirmați înainte de a trimite</string>
@@ -451,7 +451,7 @@ Actualizaţi acum?"</string>
     <string name="email_feedback_uri" />
     <string name="email_setting">E-mail</string>
     <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
-    <string name="email_sync_failed">Nu s-a putut sincroniza e-mailul</string>
+    <string name="email_sync_failed">Sincronizarea a eșuat</string>
     <string name="eml_parse_message">Se deschide fișierul EML…</string>
     <string name="empty_account_tip">Nu s-a putut găsi contul</string>
     <string name="empty_email_tip">Nu se poate trimite un mesaj gol</string>
@@ -604,10 +604,10 @@ Actualizaţi acum?"</string>
     <string name="log_save_path">Locația jurnalului</string>
     <string name="login">Conectaţi-vă</string>
     <string name="login139">Conectare prin China Mobile</string>
-    <string name="login_err_message">Utilizați coduri de acces autorizate pentru a vă conecta la %1$s dacă ați selectat anterior această opțiune. Accesați https://email.163.com/ pentru a reseta parola sau codul de acces.</string>
-    <string name="login_err_sina_message">Utilizați coduri de acces autorizate pentru a vă conecta la %1$s dacă ați selectat anterior această opțiune. Accesați https://mail.sina.com.cn/ pentru a reseta parola sau codul de acces.</string>
+    <string name="login_err_message">%1$sEste posibil să aveți nevoie de asemenea și de un cod de verificare pentru a vă conecta. Dacă trebuie să vă resetați parola, accesați https://email.163.com/ pentru a vedea opțiunile disponibile.</string>
+    <string name="login_err_sina_message">%1$sEste posibil să aveți nevoie de asemenea și de un cod de verificare pentru a vă conecta. Dacă trebuie să vă resetați parola, accesați https://mail.sina.com.cn/ pentru a vedea opțiunile disponibile.</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
-    <string name="login_failed_tip">Contactați-ne prin WeChat pentru a primi suport:</string>
+    <string name="login_failed_tip">Pentru a primi ajutor la conectare și a lăsa feedback adăugați numărul public WeChat:</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="login_mail">Conectați-vă</string>
     <string name="login_qq_psw">Conectați-vă utilizând parola/autentificatorul/codul QQ</string>
@@ -619,13 +619,13 @@ Actualizaţi acum?"</string>
     <string name="mail_description_content">Aplicația de e-mail este un client de e-mail care poate gestiona mai multe conturi, suportă trimiterea și primirea de e-mailuri ca și sincronizarea calendarului și a contactelor. Asigurați-vă că vă descurcați fără aceste caracteristici înainte de a dezinstala aplicația. Contactele și informațiile calendarului vor fi șterse de asemenea.</string>
     <string name="mail_description_title">Despre aplicația de E-mail</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
-    <string name="mail_login_help">Cum vă conectați</string>
-    <string name="mail_login_help_bottom_tip">Dacă ați uitat parola sau vreți să verificați starea contului, utilizați versiunea web a NetEase Mail. Puteți obține ajutor și prin WeChat:</string>
-    <string name="mail_login_help_details1">1. Parola e-mailului poate fi utilizată atunci când nu a fost setat niciun cod de autorizare în clientul de e-mail iar serviciile POP3/IMAP/SMTP au fost activate.</string>
-    <string name="mail_login_help_details2">2. Codurile de autorizare terțe pot fi utilizate pentru a vă conecta la clienți de e-mail terți atunci când au fost activate serviciile POP3/IMAP/SMTP.</string>
-    <string name="mail_login_help_title">Parola e-mailului/Clientul terț:</string>
-    <string name="mail_outlook_login_tips">Veți fi redirecționat către siteul Microsoft pentru a introduce parola</string>
-    <string name="mail_outlook_oauth_login">Conectare cu OAuth</string>
+    <string name="mail_login_help">Ajutor conectare</string>
+    <string name="mail_login_help_bottom_tip">Dacă doriți să vă resetați parola sau să verificați starea setărilor, accesați https://email.163.com/ pentru a vedea opțiunile disponibile:</string>
+    <string name="mail_login_help_details1">1.Parola e-mailului: Dacă nu ați setat clientul de e-mail și ați deschis deja protocolul POP3/IMAP/SMTP, puteți utiliza parola e-mailului pentru a vă conecta.</string>
+    <string name="mail_login_help_details2">2.Codul de verificare a clientului: Dacă ați setat deja un cod de verificare, trebuie să-l folosiți pentru a vă conecta. De asemenea trebuie să vă asigurați că protocolul POP3/IMAP/SMTP a fost deschis.</string>
+    <string name="mail_login_help_title">Descriere parolă de e-mail sau cod de verificare client:</string>
+    <string name="mail_outlook_login_tips">Conform cerințelor Microsoft, trebuie să introduceți parola în pagina de Autorizare Microsoft.</string>
+    <string name="mail_outlook_oauth_login">Conectare prin OAuth</string>
     <string name="mail_outlook_psw_login">Conectare cu parolă</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
     <string name="mailbox_name_display_ad">Reclame</string>
@@ -786,7 +786,7 @@ Actualizaţi acum?"</string>
     <string name="no_open_smime_toast">Adăugați mai întâi certificatul S/MIME</string>
     <string name="no_recognize_describe">"Nu s-a găsit niciun e-mail care să conțină bilete sau rezervări.
 Încercați cu altă căsuță de e-mail."</string>
-    <string name="no_search_results">Căutați pe server</string>
+    <string name="no_search_results">Continuați căutarea pe server</string>
     <string name="not_subject">(Niciun subiect)</string>
     <string name="not_synced_title">Cont nesincronizat</string>
     <string name="note_text">Printr-o rețea China Mobile și verificare prin SMS; va genera doar trafic suplimentar, fără taxe pentru SMS-uri.</string>
@@ -824,7 +824,7 @@ Actualizaţi acum?"</string>
   <string name="open_notification_kingagent">Activați notificările despre punctul de îngropare??</string>
     <string name="optimization_suggestion">Sugestii de optimizare</string>
     <string name="others_mail">Altul</string>
-    <string name="others_mail_des">Alte servicii de e-mail private sau de servici</string>
+    <string name="others_mail_des">Pentru alte servicii de e-mail private sau de servici</string>
     <string name="outbox_alert_button_no_resend">Nu trimite</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
     <string name="outbox_alert_certificate_error">Contactați administratorul de sistem și actualizaţi certificatul.</string>
@@ -888,21 +888,21 @@ Actualizaţi acum?"</string>
     <string name="perference_setup_send_tag">Server mesaje trimise</string>
     <string name="permission_access_provider_desc">Se permite aplicaţiei să acceseze baza de date e-mail, inclusiv mesajele recepţionate, mesajele trimise, numele de utilizatori şi parolele.</string>
     <string name="permission_access_provider_label">Accesare date e-mail oferite de KingSoft</string>
-    <string name="permission_des_calendar">Pentru a sincroniza evenimentele din calendar</string>
-    <string name="permission_des_contact">Pentru a citi adresele de e-mail ale contactelor și a le completa rapid în e-mailuri</string>
+    <string name="permission_des_calendar">Utilizată pentru a sincroniza mesajele calendar pentru dvs.</string>
+    <string name="permission_des_contact">Utilizată pentru a citi adresele de e-mail ale contactelor și a le completa rapid în e-mailuri</string>
     <string name="permission_des_detail">"Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această aplicație. În acest caz puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări."</string>
-    <string name="permission_des_external_storage">Pentru a compune emailuri dar și pentru a salva și adăuga atașamente</string>
-    <string name="permission_des_phone_status">Pentru a obține IMEI-ul în vederea identificării dispozitivului dvs.</string>
+    <string name="permission_des_external_storage">Utilizată pentru a compune emailuri și pentru a citi fișierele locale în vederea finalizării procesului de adăugare și salvare atașamente</string>
+    <string name="permission_des_phone_status">Utilizată pentru a obține IMEI-ul în vederea distingerii diferitelor dispozitive</string>
     <string name="permission_des_storage">Pentru crearea de e-mailuri noi, dar și pentru salvarea și adăugarea de atașamente</string>
     <string name="permission_read_attachment_desc">Se permite aplicaţiei să citească ataşamentele din e-mail.</string>
     <string name="permission_read_attachment_label">Citire ataşamente e-mail</string>
     <string name="permission_tip">Configurarea a eșuat, vă rugăm să permiteți efectuarea de apeluri și trimiterea de mesaje SMS în timpul configurării</string>
     <string name="personal_data_collection_summary">Când butonul este activ, acceptați că putem colecta date personale. Puteți inactiva butonul, revoca autorizarea și șterge datele de pe serverele noastre oricând.</string>
-    <string name="personal_data_collection_title">Permiteți colectarea datelor personale</string>
+    <string name="personal_data_collection_title">Colectarea datelor personale</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
-    <string name="photo_view_count">%1$d/%2$d</string>
-    <string name="pl_select_age">Selectați vârsta</string>
+    <string name="photo_view_count">%1$d din %2$d</string>
+    <string name="pl_select_age">Vă rugăm să selectați vârsta.</string>
     <string name="please_fill_in_your_mailbox_information2">Introduceţi datele căsuţei poştale.</string>
     <string name="pls_parse_bill_discribe">"Analizați facturile și informațiile despre deplasări din e-mail
 pentru a primi notificări despre plăți și călătorii"</string>
@@ -960,13 +960,13 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="pull_load_more">Glisați în sus pentru a încărca mai multe</string>
     <string name="pull_to_refresh">Glisați în jos pentru a actualiza</string>
     <string name="push_wps_better_confirm_download">Descărcaţi</string>
-    <string name="push_wps_better_confirm_exit">Alte aplicații</string>
+    <string name="push_wps_better_confirm_exit">Nu acum</string>
     <string name="push_wps_better_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_better_confirm_noshow_hint">Nu se afişează din nou</string>
     <string name="push_wps_better_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_confirm_cancel">Nu acum</string>
     <string name="push_wps_confirm_download">Descărcaţi</string>
-    <string name="push_wps_confirm_message">Nu s-a găsit o aplicație pentru acest atașament. Încercaţi să utilizaţi WPS Office.</string>
+    <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
     <string name="qq_authorization_help_get">Obțineți codul</string>
@@ -980,11 +980,11 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="qq_changepw_dialog_tips">Obțineți un nou cod de la %s pentru a vă conecta.</string>
     <string name="qq_login_basecode">Conectare la QQ Email din browser. Introduceți parola independentă.</string>
     <string name="qq_login_get_auth">Activați protecția prin parolă dacă nu puteți primi SMS</string>
-    <string name="qq_login_help_bottom_tip">Dacă ați uitat parola sau doriți să verificați starea contului dvs., utilizați versiunea web a QQ Mail. Puteți obține ajutor și prin WeChat:</string>
-    <string name="qq_login_help_details1">1. Parola QQ poate fi utilizată atunci când nu a fost setată o parolă independentă sau un cod de autorizare prin protocoalele IMAP/Exchange.</string>
-    <string name="qq_login_help_details2">2. Parola independentă poate fi utilizată atunci când nu a fost setat un cod de autorizare prin protocoalele IMAP/Exchange.</string>
-    <string name="qq_login_help_details3">3. Codurile de autorizare generate pentru clienții terți de e-mail pot fi utilizate de asemenea și pentru conectare. Dacă ați uitat codul, accesați acest link:</string>
-    <string name="qq_login_help_title">QQ/Parolă independentă/Cod de verificare:</string>
+    <string name="qq_login_help_bottom_tip">Dacă doriți să vă resetați parola sau să verificați starea setărilor, accesați https://mail.qq.com/ pentru a vedea opțiunile disponibile. Pentru mai multe întrebări adăugați numărul public de WeChat:</string>
+    <string name="qq_login_help_details1">1. Parola QQ: Dacă nu ați setat clientul de e-mail și ați deschis deja protocolul POP3/IMAP/SMTP, puteți utiliza parola QQ pentru a vă conecta.</string>
+    <string name="qq_login_help_details2">2. Parola e-mailului: Dacă ați setat deja o parolă de e-mail și nu ați setat un cod de verificare, asigurați-vă că protocolul POP3/IMAP/SMTP a fost deschis. Puteți utiliza parola de e-mail pentru a vă conecta.</string>
+    <string name="qq_login_help_details3">3. Cod de verificare: Dacă ați setat deja un cod de verificare QQ, trebuie să-l utilizați pentru a vă conecta. Dacă doriți să vă resetați codul de verificare, atingeți aici:</string>
+    <string name="qq_login_help_title">Descriere parolă QQ/parolă e-mail/cod de verificare</string>
     <string name="qq_login_notice">"Notă: Dacă ați setat deja o parolă, va trebui să o verificați când vă conectați."</string>
     <string name="qq_login_open_imap">Apăsați \"Ajutor\" pentru a activa IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Introduceți numele de utilizator și parola pentru a vă conecta &gt;</string>
@@ -1000,7 +1000,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="questionnair_instability">Aplicație instabilă, se blochează în mod frecvent</string>
     <string name="questionnair_not_send">"Nu se poate trimite e-mailul"</string>
     <string name="questionnair_not_sync">Sincronizare instabilă</string>
-    <string name="questionnair_other_reasons">Alte motive</string>
+    <string name="questionnair_other_reasons">Altele</string>
     <string name="questionnair_title">Eliminați contul?</string>
     <string name="questionnair_ui_not_pretty">"Nu îmi place prezentarea"</string>
     <string name="questionnair_waste_resource">Ștergând contul pot elibera spațiu de stocare</string>
@@ -1009,7 +1009,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="quick_3">Voi citi mai târziu și revin.</string>
     <string name="quick_4">Să stabilim o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
-    <string name="quick_reply_expend">Mai multe</string>
+    <string name="quick_reply_expend">Extindeți</string>
     <string name="quick_reply_hint_bcc">(În BCC)</string>
     <string name="quick_reply_hint_cc">(În CC)</string>
     <string name="quick_reply_hint_reply_only_from">Răspuns rapid (doar către expeditor)</string>
@@ -1082,7 +1082,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="reply">Răspundeţi</string>
     <string name="reply_add_bodycontent">Adăugați răspunsul in conținutul mesajului?</string>
     <string name="reply_all">Răs. tuturor</string>
-    <string name="reply_attribution">%2$s a scris pe %1$s:</string>
+    <string name="reply_attribution">Pe %1$s, %2$s a scris:</string>
     <string name="report_phishing">Raportaţi phishing</string>
     <string name="report_rendering_improvement">Arată bine</string>
     <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
@@ -1091,7 +1091,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="report_spam">Raportaţi ca spam</string>
     <string name="request_copy_db_to_disk">Aplicația de E-Mail solicită să copiați baza dvs. de date într-un fișier</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
-    <string name="request_permission_activity">Sunt necesare unele permisiuni</string>
+    <string name="request_permission_activity">Solicitare acordare permisiune</string>
     <string name="respond_inline">"    Răspundeţi inline"</string>
     <string name="retry_login">Autentificați-vă din nou</string>
     <string name="save_action">Salvaţi</string>
@@ -1105,7 +1105,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
     <string name="search_bar_text">Căutați după mesaje sau contacte</string>
     <string name="search_hint">Căutare e-mail</string>
-    <string name="search_remote_again">Nu s-a putut conecta la rețea. Atingeți pentru a reîncerca.</string>
+    <string name="search_remote_again">Rețea indisponibilă; apăsați Reîncercare.</string>
     <string name="search_result">"Rezultate "</string>
     <string name="search_tabs_name_all">Toate</string>
     <string name="search_tabs_name_recipient">Destinatar</string>
@@ -1153,8 +1153,8 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="service_protocol_discribe">&lt;u&gt;"Am citit și sunt de acord cu Termenii serviciului de e-mail WPS"&lt;/u&gt;</string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
-    <string name="setting_kids_subtitle">Vârstă confirmată</string>
-    <string name="setting_kids_title">Peste 16 ani</string>
+    <string name="setting_kids_subtitle">Confirmați vârsta utilizatorului</string>
+    <string name="setting_kids_title">Peste 16 ani.</string>
     <string name="settings_activity_title">Setări</string>
     <string name="share_choose">Selectaţi</string>
     <string name="sharing">Distribuiţi</string>
@@ -1187,9 +1187,9 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="str_select_none">Deselectaţi tot</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="subject_hint">Subiect</string>
-    <string name="sync_calendra_fail_per_content">Atingeți pentru a permite</string>
-    <string name="sync_calendra_fail_per_title">Nu s-au putut sincroniza evenimentele din calendar</string>
-    <string name="sync_calendra_fail_permission">Nu s-au putut sincroniza evenimentele din calendar. Permiteți mai întâi aplicației WPS Mail să vă acceseze calendarul.</string>
+    <string name="sync_calendra_fail_per_content">Atingeți pentru a permite accesul la calendar</string>
+    <string name="sync_calendra_fail_per_title">"Nu s-a putut sincroniza calendarul"</string>
+    <string name="sync_calendra_fail_permission">"Nu s-a putut sincroniza calendarul; permiteți aplicației E-mail să vă acceseze calendarul din Setări"</string>
     <string name="sync_contacts_fail_per_content">Atingeți pentru a permite accesul la contacte</string>
     <string name="sync_contacts_fail_per_title">"Nu s-au putut sincroniza contactele"</string>
     <string name="sync_contacts_fail_permission">"Nu s-au putut sincroniza contactele, permiteți accesul aplicației de E-mail la contacte din Setări"</string>
@@ -1221,10 +1221,11 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="toast_bar_insufficient_memory_space">"Nu se pot primi mesaje noi. Spaţiul de stocare este insuficient."</string>
     <string name="toast_bar_invalid_account">Informațiile contului au expirat. Atingeți pentru a vă autentifica din nou.</string>
     <string name="toast_bar_no_connection_network">Nu aveți o conexiune la internet</string>
-    <string name="toast_bar_open_gmail_synchronization">Nu s-a putut conecta la Gmail. Verificați setările de rețea și încercați din nou.</string>
+    <string name="toast_bar_open_gmail_synchronization">Nu s-a putut conecta la Gmail. Verificați setările de rețea.</string>
     <string name="toast_bar_send_fail_remind">"Nu s-a putut trimite e-mailul. Acesta a fost salvat în dosarul \"De trimis\"."</string>
-    <string name="toast_bar_sync_failed_client_cert">Nu s-a putut sincroniza datorită lipsei unui certificat. Atingeți pentru a adăuga din nou certificatul.</string>
-    <string name="toast_bar_sync_failed_mi_authority">Conectați-vă pentru a vă autoriza dispozitivul</string>
+    <string name="toast_bar_sync_failed_client_cert">Sincronizarea a eșuat. Eroare de autentificare. Atingeți pentru a adăuga din nou certificatul</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Nu s-a putut sincroniza. Așteptați un minut sau două și încercați din nou. Vedeți detalii.
+(Dacă utilizați un dispozitiv neautorizat, conectați-vă la intranet sau utilizați un cod de verificare.)"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Pentru a sincroniza contactele și informațiile calendarului, acordați aplicației E-mail permisiunile solicitate din Setări</string>
     <string name="toastbar_calendar_permission_switch_close">Pentru a primi memento-uri de la Calendar, acordați aplicației E-mail permisiunile solicitate din Setări</string>
     <string name="toastbar_contacts_permission_switch_close">Pentru a adăuga contacte, acordați aplicației E-mail permisiunile solicitate din Setări</string>
@@ -1276,10 +1277,10 @@ Eliminați contul?"</string>
     <string name="uploading_logs">Doar o secundă…</string>
     <string name="user_new_auth_code">Conectați-vă printr-un cod nou</string>
     <string name="user_privacy_settings">Setări de Confidențialitate</string>
-    <string name="user_privacy_settings_agreement_authorization">"(Atingând butonul \"De acord\", acordați aplicației E-mail toate permisiunile necesare)"</string>
-    <string name="user_privacy_settings_path">Pentru a revoca autorizarea, mergeți la Setări>Setări de confidențialitate.</string>
-    <string name="user_privacy_settings_summary">Vom colecta ID-ul Android în formă criptată și-l vom utiliza ca identificator unic în aplicația E-mail. Este posibil de asemenea să colectăm și jurnalele de utilizare. Puteți revoca autorizarea oricând prin intermediul setărilor de confidențialitate.</string>
-    <string name="user_privacy_settings_title">Declarație de Confidențialitate a aplicației E-mail</string>
+    <string name="user_privacy_settings_agreement_authorization">"(Atingând butonul \"Autorizez\" acordați WPS Mail toate permisiunile necesare)"</string>
+    <string name="user_privacy_settings_path">Sfat: Vă puteți retrage consimțământul din setările de confidențialitate ale utilizatorului, setări - setările de confidențialitate ale utilizatorului.</string>
+    <string name="user_privacy_settings_summary">Vom colecta Android ID-ul (criptat ca ID unic de utilizator când folosiți MI Mail) sau jurnalul de operare. Aveți dreptul să vă retrageți consimțământul oricând prin intermediul setărilor de confidențialitate a utilizatorului.</string>
+    <string name="user_privacy_settings_title">Memento Drepturi de Confidențialitate MI Mail</string>
     <string name="validation_failed_prompt">Nu se poate verifica contul. Verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
@@ -1293,7 +1294,7 @@ Eliminați contul?"</string>
 Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţi setările de sincronizare pentru a sincroniza e-mailurile în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
     <string name="wait_help_context">așteptați</string>
-    <string name="wait_while_update_db">Se actualizează baza de date…</string>
+    <string name="wait_while_update_db">Așteptați un moment până când se actualizează baza de date!</string>
     <string name="webview_logout">Puteți să încercați să vă conectați din nou</string>
     <string name="webview_logout_cancel">Nu acum</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>
