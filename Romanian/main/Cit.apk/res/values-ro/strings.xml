@@ -230,6 +230,9 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 3. Atingeți pictograma Verificare. Sistemul va salva fotografia în mod automat.
 4. Fotografia captată ar trebui să apară mai jos. Atingeți Ștergeți pentru a încheia testul."</string>
     <string name="cit_front_camera_check_title">Camera frontală</string>
+    <string name="cit_front_camera_motor_cali_fail">Calibrarea motorului a eșuat</string>
+    <string name="cit_front_camera_motor_cali_success">Calibrarea motorului a reușit</string>
+    <string name="cit_front_camera_motor_cali_tips">Nu blocați camera pe durata procesului de calibrare a motorului camerei pop-up</string>
     <string name="cit_front_dual_camera_check_summary_no_zoom">"测试步骤如下：
 
 1.Pornește camera foto în mod automat pentru a intra în interfața de previzualizare

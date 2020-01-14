@@ -101,4 +101,5 @@
     <string name="unbind_device_alert_title">Anulați asocierea cu dispozitivul</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="zhiyun_name">SMOOTH Q2</string>
 </resources>

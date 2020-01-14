@@ -252,6 +252,7 @@
     <string name="accessibility_status_bar_headphones">Difuzoare conectate</string>
     <string name="accessibility_status_bar_headset">Căști conectate</string>
     <string name="accessibility_status_bar_hotspot">Hotspot</string>
+    <string name="accessibility_status_bar_micphone">microfon conectat</string>
     <string name="accessibility_status_bar_no_slave_wifi">Rețea Wi-Fi auxiliară deconectată.</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Semnal rețea Wi-Fi auxiliară 4 bare.</string>
     <string name="accessibility_status_bar_slave_wifi_one_bar">Semnal rețea Wi-Fi auxiliară o bară.</string>
@@ -853,6 +854,9 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="how_to_back_home">Reveniți la pagina Acasă</string>
     <string name="how_to_switch_recents">Comutați la Recente</string>
+    <string name="how_to_use_app_quick">Cum să comutați între aplicații</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Glisați în sus din partea de jos a ecranului, apoi glisați spre stânga sau spre dreapta</string>
+    <string name="how_to_use_app_quick_summary">Glisați spre stânga sau spre dreapta de la indicatorul de ecran complet sau de la baza ecranului</string>
     <string name="how_to_use_drawer">Cum să accesați meniul de glisare</string>
     <string name="how_to_use_drawer_summary">Glisați spre dreapta din partea de sus a ecranului</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>

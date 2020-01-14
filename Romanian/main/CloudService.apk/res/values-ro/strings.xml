@@ -34,6 +34,8 @@ Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string
     <string name="buy_space_sulotion_renew_title">Reînnoire abonament</string>
     <string name="buy_space_sulotion_title">Achiziţionaţi spaţiu de stocare</string>
     <string name="calendar_sync">Calendar</string>
+    <string name="check_contact">Adăugați</string>
+    <string name="choose_contact_title">Contacte</string>
     <string name="click_to_enabled">Atingeţi pentru a sincroniza.</string>
     <string name="close_shortcut">Închideți</string>
     <string name="cloud_back_up_button_ok">Oprire forţată</string>
@@ -500,6 +502,9 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pay_info_dialog_title">Selectați metoda de plată</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
     <string name="phone_number_required_dspt_provision">"Acest serviciu solicită numărul dvs. de telefon. "</string>
+    <string name="picker_list_empty">Niciun contact aici</string>
+    <string name="picker_search_empty">Nu s-a găsit niciun contact</string>
+    <string name="picker_search_hint">Căutați</string>
     <string name="pre_privacy_policy">Politica de Confidențialitate</string>
     <string name="pre_user_agreement">Acordul utilizatorului</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi"</string>
@@ -601,6 +606,7 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="soundrecorder_sync_only_in_wifi">Utilizați doar Wi-Fi pentru sincronizare</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Aplicația Înregistrare nu va utiliza datele mobile pentru a descărca sau încărca înregistrări</string>
     <string name="soundrecorder_sync_records">Sincronizare cu Xiaomi Cloud</string>
+    <string name="starred_contact">Favorite</string>
     <string name="storage_manage_expansion">Obțineți mai mult</string>
     <string name="storage_manage_list_title">Date în cloud</string>
     <string name="storage_manage_list_title_action">Vedeți mai multe</string>

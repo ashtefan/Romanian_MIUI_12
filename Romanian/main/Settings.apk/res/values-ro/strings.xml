@@ -4083,6 +4083,9 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="my_device_info_device_name_preference_title">Numele dispozitivului</string>
     <string name="n_cacrts">%d certificate CA</string>
     <string name="nature_color">Implicit</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Glisați în sus din partea de jos a ecranului, apoi glisați spre stânga sau spre dreapta</string>
+    <string name="navigation_guide_app_quick_switch_summary">Glisați spre stânga sau spre dreapta de la indicatorul de ecran complet sau de la baza ecranului</string>
+    <string name="navigation_guide_app_quick_switch_title">Comutare între aplicații</string>
     <string name="navigation_guide_app_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului din partea superioară a acestuia</string>
     <string name="navigation_guide_app_title">"Declanșează acțiunea aplicației"</string>
     <string name="navigation_guide_appswitch_anim_summary">Glisați în lungul ecranului pornind de la margine pentru a reveni la aplicația anterioară</string>
@@ -4097,6 +4100,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="navigation_guide_dialog_skip">Nu acum</string>
     <string name="navigation_guide_dialog_summary">Învățați ce gesturi puteți utiliza pentru a naviga prin interfață.</string>
     <string name="navigation_guide_dialog_title">Învățați gesturi</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">Un nou gest pentru comutarea între aplicații va fi folosit după ce veți ascunde indicatorul de ecran complet. Deprindeți acest gest acum?</string>
+    <string name="navigation_guide_gesture_line_dialog_title">Deprindeți un gest nou</string>
+    <string name="navigation_guide_hide_gesture_line_summary">Nu arăta indicatorul de ecran complet când se utilizează gesturile pentru ecran complet</string>
+    <string name="navigation_guide_hide_gesture_line_title">Ascunde indicatorul de ecran complet</string>
     <string name="navigation_guide_home_summary">Glisați în sus de la baza ecranului</string>
     <string name="navigation_guide_home_title">Mergeți la ecranul Acasă</string>
     <string name="navigation_guide_recent_summary">Glisați în sus de la baza ecranului și opriți-vă</string>

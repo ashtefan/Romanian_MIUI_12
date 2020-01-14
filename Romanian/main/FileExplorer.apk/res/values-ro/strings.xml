@@ -188,6 +188,7 @@
     <string name="error_file_already_exists">Acest fișier există deja</string>
     <string name="error_filename_too_long">Numele fișierului introdus este prea lung</string>
     <string name="error_folder_already_exists">Acest fișier există deja</string>
+    <string name="error_hint_copy_folder_to_self_or_sub">Nu se pot muta sau copia dosare în interiorul lor sau al subdirectoarelor lor</string>
     <string name="error_info_cant_send_folder">"Imposibil de trimis acest tip de fișiere."</string>
     <string name="error_invalid_path">Cale incorectă</string>
     <string name="error_not_support">Nesuportat</string>

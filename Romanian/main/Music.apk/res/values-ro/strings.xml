@@ -171,6 +171,7 @@
     <string name="can_not_find_resource">"Nu se pot găsi resurse"</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_running_download">Renunțați</string>
+    <string name="cannot_download_to_sdcard_hint">Nu se pot descărca elemente pe cardul SD datorită restricțiilor legate de drepturile de autor. Elementele vor fi descărcate în schimb în memoria internă.</string>
     <string name="change_download_quality">Modificați calitatea descărcărilor</string>
     <string name="character_counter_content_description">Limita caracterelor depășeşte %1$d din %2$d</string>
     <string name="chart_first_song">1.%s</string>
@@ -248,6 +249,7 @@
     <string name="count_million_format">%2$1.2fM</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">"Nu s-a putut crea lista de redare"</string>
+    <string name="create_playlist_input_hint">Introduceți numele listei de redare</string>
     <string name="current_album">Coperta de album curentă</string>
     <string name="current_lyric">Versurile curente</string>
     <string name="current_services">Actual</string>
@@ -824,6 +826,7 @@
     <string name="online_apk_install_in_background">Se încarcă conținutul online în fundal…</string>
     <string name="online_apk_install_network_change_paused">"Utilizați datele mobile. S-a oprit încărcarea elementelor. Atingeți %s pentru a vedea."</string>
     <string name="online_apk_install_network_error">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
+    <string name="online_apk_install_tips">Trebuie să descărcați extensia acestui furnizor de conținut o singură dată. Veți putea accesa melodiile în mod direct data viitoare.</string>
     <string name="online_list_delete_message">Toate melodiile descărcate din această listă de redare vor fi șterse de pe dispozitiv.</string>
     <string name="online_music_joox">JOOX</string>
     <string name="online_music_yandex">Yandex</string>

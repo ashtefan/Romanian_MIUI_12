@@ -33,11 +33,11 @@
         <item quantity="one">%d secundă</item>
     </plurals>
     <plurals name="sleep_duration_hour">
-        <item quantity="other">%1s ore</item>
+        <item quantity="other">%1$s ore</item>
         <item quantity="one">%1$s oră</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1s ore</item>
+        <item quantity="other">%1$s ore</item>
         <item quantity="one">%1$s oră</item>
     </plurals>
     <plurals name="sleep_duration_min">

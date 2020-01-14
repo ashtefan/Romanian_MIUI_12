@@ -84,6 +84,8 @@
     <string name="handy_mode_enter_dlg_title">Intrare în modul Operare cu o mână</string>
     <string name="handy_mode_summary">Pentru a închide, apăsați pe zona întunecată</string>
     <string name="handy_mode_title">Modul Operare cu o mână</string>
+    <string name="help">Vedeți secțiunea de ajutor</string>
+    <string name="help_content">Dacă nu găsiți dispozitivul pe care îl căutați, rugați cealaltă persoană să activeze Partajarea Mi.</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasați degetul pe butonul Acasă</string>
     <string name="input_method_clipboard_tips">Elementele copiate vor fi șterse din clipboard după 48 de ore</string>
     <string name="input_method_edit_phrase_text">Editați expresiile frecvente</string>
