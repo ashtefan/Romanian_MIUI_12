@@ -35,6 +35,7 @@
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Content Center agregă conținutul și serviciile de pe mai multe canale. Aici puteți citi articole, viziona videoclipuri, vizualiza articole prezentate zilnic și să primiți recomandări de conținut.</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
+    <string name="data_traffic_enable_dialog_title">Dacă nu sunteți conectat la Wi-Fi acum, se va utiliza conexiunea de date mobile. Utilizarea datelor mobile poate genera taxe suplimentare de la operator.</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
@@ -94,6 +95,7 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="other_settings_auto_update">Actualizări automate ale sistemului</string>
     <string name="other_settings_auto_update_summary">MIUI va selecta cel mai bun moment pentru a descărca și instala actualizările. Dispozitivul dvs. va fi repornit automat pentru a aplica modificările.</string>
     <string name="other_settings_enhanced_lockscreen">Caruselul de imagini de fundal</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Privire către Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Politica de Confidențialitate</string>
     <string name="other_settings_enhanced_lockscreen_summary">Obțineți imagini și povești selecte livrate zilnic pe ecranul de blocare. %1$s și %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Acordul utilizatorului final</string>
@@ -217,11 +219,11 @@ Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate �
     <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
     <string name="terms_of_use_label_updater">, Actualizări</string>
     <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, servicii de traducere, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
     <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>

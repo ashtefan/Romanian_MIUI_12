@@ -127,6 +127,7 @@
     <string name="etws_tsunami_warning">Avertizare de Tsunami</string>
     <string name="exercise">Exercițiu</string>
     <string name="exercises">Exerciții</string>
+    <string name="gr_emergency_alert_dialog_title">GR-ALERT</string>
     <string name="menu_delete">Ștergere mesaj</string>
     <string name="menu_delete_all">Ștergere mesaje</string>
     <string name="menu_preferences">Setări</string>
@@ -141,6 +142,7 @@
     <string name="pws_other_message_identifiers">Alertă de urgență</string>
     <string name="reading_settings">Setări citire</string>
     <string name="receive_broad_cast">Primiți SMS-uri Cell BroadCast</string>
+    <string name="ro_emergency_alert_dialog_title">RO-ALERT</string>
     <string name="show_cmas_opt_out_summary">Arată o fereatră de dialog după afișarea primei alerte CMAS (alta decât Alerta Prezidențială).</string>
     <string name="show_cmas_opt_out_title">Arată o fereastră de dialog</string>
     <string name="sms_cb_settings">Setări Cell Broadcast</string>

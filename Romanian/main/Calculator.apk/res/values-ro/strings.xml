@@ -57,7 +57,7 @@
     <string name="description_title">Despre aplicația Calculator</string>
     <string name="devided_by_zero_reminder_message">"Nu se poate împărți la zero"</string>
     <string name="dialog_privacy_content">Înafara funcției de bază, aplicația Calculator vă permite să convertiți valute și unități de măsură, să calculați rambursările creditelor și multe altele. Unele caracteristici pot necesita conectarea la internet pentru a funcționa în mod normal. &lt;Data&gt;Înainte de a utiliza aplicația, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="dialog_privacy_title">Termenii și Condițiile</string>
+    <string name="dialog_privacy_title">Termeni și Condiții</string>
     <string name="dialog_rating_desc_ask">Ce părere aveți despre aplicația Calculator?</string>
     <string name="dialog_rating_desc_less">Ne puteți da și un feedback?</string>
     <string name="dialog_rating_desc_perfect">Super! Acordați o notă aplicației și în Magazinul de aplicații?</string>
