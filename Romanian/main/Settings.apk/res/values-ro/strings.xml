@@ -1703,6 +1703,8 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="copy">Copiați</string>
     <string name="copyable_slice_toast">%1$s copiat în clipboard.</string>
     <string name="copyright_title">Drepturi de autor</string>
+    <string name="corner_assistant_gesture_summary">Glisați în sus din colțul stânga-jos sau dreapta-jos pentru a porni Asistentul Google</string>
+    <string name="corner_assistant_gesture_title">Glisați în sus de la colțuri pentru Asistentul Google</string>
     <string name="country_name">%s (sistem)</string>
     <string name="create">Creaţi</string>
     <string name="credential_contains">Această intrare conține:</string>

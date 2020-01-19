@@ -437,7 +437,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="miui_install_source_unkown">Necunoscut</string>
     <string name="miui_install_success">Instalată cu succes</string>
     <string name="miui_install_version">Versiune: %1$s | Dimensiune: %2$s</string>
-    <string name="miui_install_version_3">Versiunea %1$s -&gt; %2$s | Dimensiune: %3$s</string>
+    <string name="miui_install_version_3">Versiunea: %1$s -&gt; %2$s | Dimensiune: %3$s</string>
     <string name="miui_installing">Se instalează…</string>
     <string name="miui_installing2">Se instalează…</string>
   <string name="miui_message_staging_0">Staging app   </string>
