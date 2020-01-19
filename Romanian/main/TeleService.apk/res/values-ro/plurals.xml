@@ -24,6 +24,14 @@
         <item quantity="other">%d numere vor fi șterse.</item>
         <item quantity="one">%d număr va fi șters.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s zile</item>
+        <item quantity="one">%s zi</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d încercări rămase."</item>

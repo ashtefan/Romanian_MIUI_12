@@ -189,11 +189,15 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 
 1.Atingeți butonul de calibrare de mai jos pentru a începe calibrarea OIS.
 2.Se va afișa o etichetă de calibrare finalizată atunci când calibrarea OIS va fi realizată"</string>
-  <string name="cit_camera_sdcard_error">"Nu se poate fotografia. Cardul SD este plin."</string>
+    <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
+    <string name="cit_charge_usb_dcp">Se încarcă：USB_DCP</string>
+    <string name="cit_charge_usb_hvdcp">Se încarcă：USB_HVDCP</string>
+    <string name="cit_charge_usb_pd">Se încarcă：USB_PD</string>
   <string name="cit_charger_plugin_check_summary">Când este conectat încărcătorul, textul \"Încărcare prin USB/AC\" ar trebui să fie afișat mai jos.</string>
   <string name="cit_charger_plugin_check_title">Încărcător (conectat)</string>
   <string name="cit_charger_plugout_check_summary">Când încărcătorul USB charger este deconectat, textul \"Încărcător USB/AC deconectat\" ar trebui să fie afișat mai jos.</string>
   <string name="cit_charger_plugout_check_title">Încărcător (deconectat)</string>
+    <string name="cit_charger_test_tips_pd">Dispozitivul curent trebuie să facă un test USB_PD</string>
   <string name="cit_charger_waiting_in">Conectați încărcătorul</string>
   <string name="cit_charger_waiting_out">Deconectați încărcătorul acum</string>
     <string name="cit_depth_camera_check_title">Adâncimea camerei</string>

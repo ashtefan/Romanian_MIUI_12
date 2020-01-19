@@ -193,6 +193,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_mode_view_event_title">Evenimente</string>
     <string name="power_mode_view_user_define_title">Eveniment nou</string>
     <string name="power_optimize_activity_profile_file_error">Eroare economisire acumulator</string>
+    <string name="power_tools_current">Curent</string>
+    <string name="power_tools_fps">FPS</string>
     <string name="power_usage">Utilizare energie</string>
     <string name="pref_config_title">Optimizarea Performanței</string>
     <string name="privacy">Politica de Confidențialitate</string>
