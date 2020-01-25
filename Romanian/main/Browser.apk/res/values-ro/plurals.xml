@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d răspunsuri</item>
+        <item quantity="one">%d răspuns</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">cu %d ore în urmă</item>
+        <item quantity="one">cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Vedeți %d comentarii</item>
+        <item quantity="one">Vedeți %d comentariu</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Au fost selectate %d motive</item>
+        <item quantity="one">A fost selectat %d motiv</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vizualizări</item>
         <item quantity="one">%d vizualizare</item>

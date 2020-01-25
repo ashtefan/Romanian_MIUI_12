@@ -90,6 +90,7 @@ pentru a adăuga carduri"</string>
     <string name="chart_no_data">Nu există date</string>
     <string name="chip_text">Fragment de text</string>
     <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string name="collect_diagnosis_log">Colectează un jurnal de diagnoză</string>
     <string name="complete_preference_basic_info">Completați-vă profilul</string>
     <string name="copy_done">Copiat cu succes</string>
     <string name="copyright_statement">Drepturi de autor © Xiaomi Inc. Toate drepturile rezervate.</string>
@@ -129,6 +130,8 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="day">Zi</string>
     <string name="deep_sleep">Somn profund</string>
     <string name="delete_all_data">Ștergeți toate datele</string>
+    <string name="delete_all_data_sources">Ștergeți toate sursele de date</string>
+    <string name="delete_all_data_sources_description">Ștergeți toate sursele de date adăugate?</string>
     <string name="delete_menstruation_record_confirm">Ștergeți această înregistrare?</string>
     <string name="delete_origin_data_description">Ștergeți toate datele generate de către %1$s?</string>
     <string name="detail_format">%1$.1f</string>
@@ -136,9 +139,13 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="device_data_sync">Sincronizați datele despre sănătate</string>
     <string name="device_list_origin_description">Aceste dispozitive sunt asociate contului Mi %1$s. Dacă nu puteți găsi aici dispozitivul de care aveți nevoie, asigurați-vă că l-ați adăugat în aplicația corespunzătoare.</string>
     <string name="device_off_sync_description">Datele despre sănătate generate de către acest dispozitiv nu vor fi sincronizate în Sănătate Mi</string>
+    <string name="diagnosis_log_send_failed">Trimiterea jurnalului de diagnoză a eșuat.</string>
+    <string name="diagnosis_log_sent_format">"Jurnalul de diagnoză a fost trimis.
+ID:%s
+Vă rugăm să comunicați acest cod tehnicianului."</string>
     <string name="dialog_abandon">Renunțați</string>
     <string name="dialog_abandon_sleep_edit">Renunțați la modificări?</string>
-    <string name="dialog_account_perm_desc">Pentru accesarea contului dvs. Mi</string>
+    <string name="dialog_account_perm_desc">Pentru accesarea și conectarea la contul sistemului</string>
     <string name="dialog_agree_and_continue">De acord</string>
     <string name="dialog_auto_start_detail">"Permiteți Mi Health să pornească în mod automat pentru a putea primi notificări.
 Mi Health vă va notifica doar despre lucrurile importante."</string>
@@ -174,7 +181,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Politica noastră de Confidențialitate&lt;/a &gt;&lt;/font&gt; pentru mai multe detalii."</string>
     <string name="dialog_privacy_policy_statement">Declarația Politicii de Confidențialitate</string>
     <string name="dialog_privacy_title">Termeni și condiții</string>
-    <string name="dialog_read_phone_perm_desc">Pentru identificarea dispozitivului dumneavoastră</string>
+    <string name="dialog_read_phone_perm_desc">Pentru identificarea caracteristicilor dispozitivului dumneavoastră utilizând OAID sau ID-ul Android</string>
     <string name="dialog_sleep_goal_setting">Setați ținta pentru durata somnului</string>
     <string name="dialog_sleep_goal_subtitle">Dormiți pentru 7–9 ore zilnic</string>
     <string name="dialog_sleep_goal_title">Ținta pentru durata somnului</string>
@@ -203,6 +210,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="feedback_need_permission_msg">Permiteți Mi Health să scrie în stocarea externă pentru a putea genera jurnale utilizate pentru.</string>
     <string name="feedback_permission_denied_msg">Mi Health nu poate salva jurnale în memoria externă. Acordați Mi Health permisiunile necesare din setări.</string>
     <string name="finish">Finalizați</string>
+    <string name="for_diagnosis_usage_only">Utilizați aceste informații doar pentru diagnoză.</string>
     <string name="gender_female">Femeie</string>
     <string name="gender_male">Bărbat</string>
     <string name="gender_other">Altul</string>
@@ -333,11 +341,14 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="no_records">Niciun element aici deocamdată.</string>
     <string name="not_open_auto_sync">Sincronizarea este dezactivată</string>
     <string name="not_support_step">Dispozitivul dvs nu poate număra pașii efectuați</string>
+    <string name="ok">OK</string>
     <string name="open_data_sync_description">Activați sincronizarea în cloud pentru a sincroniza datele despre sănătate din alte surse.</string>
     <string name="open_sync">Activați sincronizarea</string>
     <string name="open_unrestricted_permissions">Pentru a monitoriza somnul mai precis, permiteți Mi Health să ruleze în permanență în fundal.</string>
     <string name="other_can_add_data_source">Surse disponibile</string>
     <string name="page">%1$d/%2$d</string>
+    <string name="passport_oauth_actionbar_title">Contul Mi</string>
+    <string name="passport_oauth_sucess_tip">Autorizat cu succes</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="permission_check_result">Setată cu succes</string>
     <string name="permission_check_result_failed">Nu s-a putut seta</string>
@@ -390,6 +401,8 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="sedentary_toggle_content">Mi Health vă va aminti să vă ridicați și să faceți câțiva pași dacă nu vă mișcați pentru o perioadă lungă de timp.</string>
     <string name="select_menstruation_end_date">Selectați data de încheiere a acestui ciclu</string>
     <string name="select_null">Neselectat</string>
+    <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
+    <string name="sending">Se trimite…</string>
     <string name="setting">Setări</string>
     <string name="setting_data_cloud_sync_tip">Utilizați această caracteristică pentru a face o copie de rezervă a elementelor din acest dispozitiv și pentru a sincroniza date despre sănătate provenite de la alte dispozitive</string>
     <string name="setting_sedentary_off">OPRIT</string>
@@ -479,6 +492,7 @@ bazate pe informațiile personale."</string>
     <string name="sync_status_in_progress">Se sincronizează…</string>
     <string name="sync_status_network_failure">Nu s-a putut sincroniza. Conectați-vă la rețea și încercați din nou</string>
     <string name="sync_status_never_done">Nesincronizate</string>
+    <string name="temporary_not_available">indisponibil temporar</string>
     <string name="text_edit_exercise_goal">Modificați ținta</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Finalizat</string>

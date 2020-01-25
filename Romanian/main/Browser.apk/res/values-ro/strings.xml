@@ -216,14 +216,38 @@
     <string name="cloud_up_to_loading_tips">Eliberați pentru sincronizare</string>
     <string name="collect_diagnosis_log">Colectați un jurnal de diagnoză</string>
     <string name="collect_video">Colectați video</string>
+    <string name="comment_add_fail">Nu s-a putut adăuga comentariul</string>
+    <string name="comment_add_sucess">Comentariu adăugat cu succes</string>
+    <string name="comment_all_display">Asta este tot pentru acum</string>
     <string name="comment_app_menu">Comentariu</string>
+    <string name="comment_confirm_report">Raportați</string>
+    <string name="comment_copied">Copiat cu succes</string>
+    <string name="comment_delete">Ștergeți</string>
+    <string name="comment_delete_confirm_title">Ștergeți acum?</string>
+    <string name="comment_delete_fail">Nu s-a putut șterge comentariul</string>
+    <string name="comment_delete_sucess">Comentariu șters cu succes</string>
     <string name="comment_description">Comentariu</string>
+    <string name="comment_empty_hint">Niciun comentariu încă. Puteți lăsa primul comentariu!</string>
+    <string name="comment_error_hint">Nu s-au putut încărca comentariile. Atingeți pentru a încerca din nou.</string>
     <string name="comment_fail">Nu s-a putut adăuga comentariul. Încercați din nou.</string>
+    <string name="comment_flag_choice">Înrudite</string>
+    <string name="comment_flag_top">Fixat</string>
     <string name="comment_hint">Comentariu</string>
+    <string name="comment_just_now">Chiar acum</string>
     <string name="comment_max_length">Comentariul dvs. este prea lung.</string>
     <string name="comment_menu">Comentariu</string>
+    <string name="comment_no_net_hint">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="comment_num_description">Numărul comentariului</string>
     <string name="comment_publish_to_topic">Comentariile se sincronizează cu</string>
+    <string name="comment_reply">Răspundeți</string>
+    <string name="comment_reply_fail">Nu s-a putut răspunde</string>
+    <string name="comment_reply_sucess">Răspuns postat cu succes</string>
+    <string name="comment_report_advertising_marketing">Reclame de marketing sau subliminale</string>
+    <string name="comment_report_harassment_abuse">Hărțuire sau discurs defăimător</string>
+    <string name="comment_report_pornographic_violence">Conținut sexual explicit sau violent</string>
+    <string name="comment_report_reactionary_politics">Extremism politic</string>
+    <string name="comment_report_send">Trimis cu succes</string>
+    <string name="comment_select_report_reason">De ce raportați aceasta?</string>
     <string name="comment_success">Comentariu adăugat cu succes</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -389,6 +413,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exit_browser_confirmation">Atingeți din nou pentru a reveni pe desktop</string>
     <string name="exit_browser_warning">Ieşiţi din browser acum?</string>
     <string name="exit_fullscreen">Părăsiți modul ecran complet</string>
+    <string name="expand_article">Vedeți articolul complet</string>
     <string name="expand_button_title">Avansate</string>
     <string name="favorite">Adăugați la Favorite</string>
     <string name="feedback_not_interested_response">Veți vedea mai puține elemente de acest tip</string>
@@ -911,7 +936,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="removed_from_bookmarks">Eliminat din marcaje</string>
     <string name="reopen">Deschideți</string>
     <string name="replace">Înlocuiește</string>
-    <string name="reply_comment_title">Răspuns: %s</string>
+    <string name="reply_comment_title">Răspuns %s:</string>
     <string name="resume_download">Start</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea"</string>
     <string name="retry_download">Reîncercați</string>
@@ -990,6 +1015,15 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="share_video">Partajați videoclipul</string>
+    <string name="short_video_ad_download_app">Descărcați %s</string>
+    <string name="short_video_ad_download_immediately">Descărcați</string>
+    <string name="short_video_ad_downloading">Se descarcă %d%%</string>
+    <string name="short_video_ad_installing">Se instalează</string>
+    <string name="short_video_ad_open_app">Deschideți %s</string>
+    <string name="short_video_ad_open_immediately">Deschideți</string>
+    <string name="short_video_ad_resume_downloading">Reluați</string>
+    <string name="short_video_ad_see_details">Vedeți detalii</string>
+    <string name="short_video_ad_tag">Reclamă</string>
     <string name="short_video_comment_hint">Introduceți comentariul</string>
     <string name="short_video_description">Canal video</string>
     <string name="short_video_gesture_btn">Am înțeles</string>
@@ -1246,6 +1280,12 @@ item_style:
 feedsContentId:
 %s
 "</string>
+    <string name="vo_detail_feed_activity">详情页Flux流</string>
+    <string name="vo_fast_game_card_bottom_text">Jucați jocuri fără a le instala</string>
+    <string name="vo_fast_game_card_more_text">Mai multe jocuri</string>
+    <string name="vo_fast_game_card_title_text">V-ar putea atrage și aceste jocuri</string>
+    <string name="vo_feed_activity">Flux流测试</string>
+    <string name="vo_feed_back_dislike">Nu mă interesează</string>
     <string name="vo_feedback_back">Înapoi</string>
     <string name="vo_feedback_black">Blocați: %s</string>
     <string name="vo_feedback_content">Conținut cu calitate slabă</string>
@@ -1255,6 +1295,7 @@ feedsContentId:
     <string name="vo_feedback_shield">Listă de blocări</string>
     <string name="vo_feedback_sub_quality">Clickbait, profanare, etc.</string>
     <string name="vo_feedback_sub_shield">, etc.</string>
+    <string name="vo_home_feed_activity">首页Flux流</string>
     <string name="vo_info_flow_load_error_content">Încercați din nou</string>
     <string name="vo_info_flow_load_error_title">Nu s-a putut încărca informația. Verificați setările de rețea și încercați din nou.</string>
     <string name="vo_info_flow_load_more_content">Încărcați mai mult</string>
@@ -1272,6 +1313,7 @@ feedsContentId:
     <string name="vo_location_change_title">Locația s-a schimbat</string>
     <string name="vo_location_choose_city">Atingeți pentru a schimba orașul</string>
     <string name="vo_mi_ad_detail">Deschide în %s</string>
+    <string name="vo_search_tag_title_text">Elemente înrudite</string>
     <string name="vo_share_text">Partajați</string>
     <string name="vo_small_video_load_more_text">Glisați pentru a încărca mai mult</string>
     <string name="vo_small_video_title">Videoclipuri scurte</string>
