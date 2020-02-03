@@ -638,14 +638,6 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
-    <string name="mailbox_name_server_all_unread">Necitite</string>
-    <string name="mailbox_name_server_drafts">Schițe</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Nedorite</string>
-    <string name="mailbox_name_server_outbox">De trimis</string>
-    <string name="mailbox_name_server_sent">Trimise</string>
-    <string name="mailbox_name_server_starred">Marcate</string>
-    <string name="mailbox_name_server_trash">Gunoi</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
