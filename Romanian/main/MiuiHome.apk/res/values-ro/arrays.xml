@@ -81,9 +81,4 @@
         <item>Implicit</item>
         <item>Google</item>
     </string-array>
-    <string-array name="minus_screen_entries">
-        <item>Nimic</item>
-        <item>Asistent inteligent</item>
-        <item>Google</item>
-    </string-array>
 </resources>

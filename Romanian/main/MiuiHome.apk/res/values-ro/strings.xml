@@ -272,6 +272,7 @@
     <string name="guide_install_app_msg">"Aplicaţia nu este instalată pe telefonul dvs. Căutaţi şi descărcaţi aplicaţia acum?"</string>
     <string name="guide_install_app_title">Căutați și instalaţi aplicaţia?</string>
     <string name="guide_tips_editing_mode">Atingeți și mențineți apăsat pentru a plasa un widget pe ecran</string>
+    <string name="hide_apps_title">Ascunde pictogramele aplicațiilor</string>
     <string name="home_gesture_content_center">Centrul de Conținut</string>
     <string name="home_gesture_global_search">Căutați</string>
     <string name="home_gesture_no_action">Nimic</string>
@@ -279,6 +280,7 @@
     <string name="home_pull_down_action">Glisați în jos în Ecranul principal</string>
     <string name="home_screen">Ecranul principal</string>
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
+    <string name="home_switch_personal_assistant">ecran -1</string>
     <string name="icon_reorganize_channel">Aranjați pictogramele</string>
     <string name="icon_size">Dimensiunea pictogramelor</string>
     <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
@@ -400,6 +402,8 @@
     <string name="recents_empty_message">Niciun element recent</string>
     <string name="recents_empty_message_dismissed_all">Ați curățat tot</string>
     <string name="recents_empty_message_multi_window">Deschideți aplicații din Ecranul principal</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">Nu se poate utiliza funcția Ecran scindat pe durata proiectării</string>
+    <string name="recents_task_screening">Proiectare</string>
     <string name="recents_title_app_manager">Gestionați aplicațiile</string>
     <string name="recents_title_game">Jocuri</string>
     <string name="recents_title_garbage_cleanup">Curățare</string>
@@ -461,9 +465,13 @@
     <string name="status_installing">Instalare</string>
     <string name="status_paused">în pauză</string>
     <string name="status_pending">în aşteptare</string>
+    <string name="switch_personal_assistant_app_vault">Asistent inteligent</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
+    <string name="switch_personal_assistant_none">Niciunul</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>
     <string name="system_shortcuts_remove">Eliminați</string>
     <string name="system_text">Sistem</string>
+    <string name="task_access_locked_app_msg">A fost activată blocarea aplicațiilor</string>
     <string name="title_jeejen">Ecran principal Jeejen</string>
     <string name="title_select_live_folder">Selectaţi dosarul</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>

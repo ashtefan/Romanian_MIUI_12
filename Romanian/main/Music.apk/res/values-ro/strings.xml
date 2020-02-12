@@ -60,6 +60,7 @@
     <string name="action_item_multiple">Editaţi</string>
     <string name="action_item_play_all">Amestecați tot</string>
     <string name="action_item_play_next">Redați mai târziu</string>
+    <string name="action_item_play_video">Redați videoclipul muzical</string>
     <string name="action_item_remove">Eliminaţi</string>
     <string name="action_item_remove_from_favorite">Eliminaţi din Favorite</string>
     <string name="action_item_send">Trimiteţi</string>
@@ -181,6 +182,7 @@
     <string name="choose_download_quality">Selectaţi calitatea descărcării</string>
     <string name="choose_music_lang_pref">Limba preferată pentru melodii</string>
     <string name="choose_stream_quality">Selectaţi calitatea fluxului de redare</string>
+    <string name="click_and_watch_video_tip">Atingeți pentru a reda videoclipul muzical</string>
     <string name="click_to_add_album_cover_and_lyric">Atingeți pentru a adăuga coperta albumului și versurile</string>
     <string name="click_to_shuffle">Atingeţi pentru a amesteca</string>
     <string name="close_music_time">"Timp rămas: "</string>
@@ -505,6 +507,7 @@
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="feed_back">Feedback</string>
     <string name="file_not_found">"Fişierul nu există"</string>
+    <string name="filter_by_MP4">Afișează dosarele cu fișiere MP4</string>
     <string name="filter_by_duration">După durată</string>
     <string name="filter_by_duration_format">%2$d min. %5$2d sec.</string>
     <string name="filter_by_duration_max">%d min.</string>
@@ -587,6 +590,7 @@
     <string name="home_tab_local">Muzica mea</string>
     <string name="home_tab_more_music">Mai multă muzică</string>
     <string name="home_tab_online">Muzică online</string>
+    <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Căutați</string>
     <string name="home_tab_yandex">Yandex.Music</string>
     <string name="hot_icon_in_fast_indexer">H</string>
@@ -1037,6 +1041,8 @@ Be Happy"</string>
     <string name="set_id3_not_have_read_or_write_permission">"Nu aveți permisiunea de a edita acest fișier"</string>
     <string name="set_id3_not_support_format">"Nu se poate edita acest format de fișier"</string>
     <string name="set_id3_successful">Informaţii melodie salvată</string>
+    <string name="set_online_home_subtitle">Deschide recomandările online când se lansează aplicația</string>
+    <string name="set_online_home_title">Arată recomandările online la pornire</string>
     <string name="set_ringtones_failed">"Nu s-a putut seta tonul de apel"</string>
     <string name="set_ringtones_successful">%s setată ca ton de apel</string>
     <string name="setting_feature_setting">Setările caracteristicii</string>
@@ -1253,4 +1259,5 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
     <string name="you_can_switch_mode_in_settings">Puteți comuta între moduri în Setări</string>
     <string name="you_may_like">V-ar mai putea place</string>
+    <string name="youtube_play_history">Istoricul de redare</string>
 </resources>
