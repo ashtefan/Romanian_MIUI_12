@@ -936,7 +936,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="removed_from_bookmarks">Eliminat din marcaje</string>
     <string name="reopen">Deschideți</string>
     <string name="replace">Înlocuiește</string>
-    <string name="reply_comment_title">Răspuns %s:</string>
+    <string name="reply_comment_title">"Răspuns pentru %s: "</string>
     <string name="resume_download">Start</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea"</string>
     <string name="retry_download">Reîncercați</string>

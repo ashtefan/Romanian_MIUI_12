@@ -570,7 +570,7 @@ Actualizaţi acum?"</string>
     <string name="header_label_general_preferences">Generale</string>
     <string name="help_and_info">Ajutor</string>
     <string name="help_email_title">MI Mail</string>
-    <string name="help_me_get_qq_auth">Obțineți codul de autorizare QQ</string>
+    <string name="help_me_get_qq_auth">Obțineți codul de autorizare</string>
     <string name="help_weixin_title">"Dacă aveți întrebări, scrieți-ne în contul nostru oficial WeChat: "</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
     <string name="hide_password">Ascundeți parola</string>
@@ -609,7 +609,7 @@ Actualizaţi acum?"</string>
     <string name="login_failed_tip">"Contactați-ne prin WeChat pentru a primi ajutor: "</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="login_mail">Conectați-vă</string>
-    <string name="login_qq_psw">Conectați-vă utilizând parola/autentificatorul/codul QQ</string>
+    <string name="login_qq_psw">Conectați-vă utilizând codul de autorizare</string>
     <string name="login_support_tip_text">Suportă autentificarea în toate conturile de e-mail frecvent utilizate</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
     <string name="long_string">luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuung</string>
@@ -801,7 +801,7 @@ Actualizaţi acum?"</string>
     <string name="oauth_login_continue">Continuare</string>
     <string name="oauth_login_continue_qq">Obțineți codul de autorizare și conectați-vă &gt;</string>
     <string name="oauth_login_usr_proxy">Autentificare utilizând server proxy</string>
-    <string name="obtain_new_auth_code">Obțineți un nou cod</string>
+    <string name="obtain_new_auth_code">Obțineți un nou cod de autorizare</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
     <string name="one_day">O zi</string>
@@ -982,7 +982,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="qq_login_send_message">Apăsați \"Trimiteți SMS\" pentru a obține un cod de autorizare</string>
     <string name="qq_login_webview">Conectare la QQ Email din browser, atingeți conectare cu parolă.</string>
     <string name="qq_next_generation_auth_toast">Activați protecția prin parolă din browser</string>
-    <string name="qq_pwd_or_qq_auth_code">Introduceți codul de autorizare QQ sau parola căsuței de e-mail</string>
+    <string name="qq_pwd_or_qq_auth_code">Introduceți codul de autorizare</string>
     <string name="qq_uthentication_failed">"Nu s-a putut verifica contul; vă rugăm conectați-vă din nou"</string>
     <string name="qq_verify_code">(Este necesar codul de Verificare de la QQ)</string>
     <string name="qq_webview_loading">Doar o secundă…</string>
@@ -1265,7 +1265,7 @@ Eliminați contul?"</string>
     <string name="upload_logs">Trimiteți jurnalul de eroare</string>
     <string name="upload_logs_keywords">trimiteți jurnalul de eroare</string>
     <string name="uploading_logs">Doar o secundă…</string>
-    <string name="user_new_auth_code">Conectați-vă printr-un cod nou</string>
+    <string name="user_new_auth_code">Conectați-vă printr-un nou cod de autorizare</string>
     <string name="user_privacy_settings">Setări de Confidențialitate</string>
     <string name="user_privacy_settings_agreement_authorization">(Atingând butonul \"De acord\", acordați aplicației E-mail toate permisiunile necesare)</string>
     <string name="user_privacy_settings_path">Pentru a revoca autorizarea, mergeți la Setări>Setări de confidențialitate.</string>

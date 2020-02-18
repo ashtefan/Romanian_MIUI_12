@@ -69,6 +69,8 @@
     <string name="business_no_result">"Nu s-a putut recunoaște cartea de vizită. Încercați din nou."</string>
     <string name="calender">Calendar</string>
     <string name="call_anyone">Apelați</string>
+    <string name="calories_logo_text">Suport AI furnizat de Health Hope</string>
+    <string name="calories_request_interface_text">Suport AI</string>
     <string name="camera_error_title">Eroare de cameră</string>
     <string name="cancel">Renunțați</string>
     <string name="carsHome_title">Mașină</string>

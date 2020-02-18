@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">Arată scurtătura pentru bara de stare pe durata înregistrării</string>
     <string name="preference_tip_rename">Denumire înregistrare în mod manual</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
+    <string name="recognition_button_add_to_queue">Adăugați în lista de sarcini</string>
+    <string name="recognition_button_cancel">Nu acum</string>
+    <string name="recognition_button_start">Transcrieți</string>
+    <string name="recognition_confirm_dialog_body">Transcrierea poate dura ceva timp. Veți primi o notificare când sarcina s-a finalizat. Transcrieți acum?</string>
     <string name="recognition_error_cancel">Anulată</string>
     <string name="recognition_error_code">Codul erorii: %d</string>
     <string name="recognition_error_download_cancel">Mai târziu</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">Eroare internă</string>
     <string name="recognition_error_stopped">Transcrierea s-a oprit</string>
     <string name="recognition_error_unknown">A apărut o eroare necunoscută. Raportați-o și încercați din nou.</string>
+    <string name="recognition_interrupt_current_dialog_body">"Transcrierea poate dura ceva timp. Veți primi o notificare când sarcina s-a finalizat. \"%s\" este în curs de transcriere. O adăugați în lista sarcinilor de transcriere acum?</string>
+    <string name="recognition_notification_channel">Se transcrie</string>
+    <string name="recognition_notification_complete_success">\"%s\" s-a transcris cu succes. Atingeți pentru a vedea.</string>
+    <string name="recognition_notification_error">Nu s-a putut transcrie \"%s\"</string>
+    <string name="recognition_notification_running">Se transcrie \"%s\"…</string>
     <string name="recognition_process_dialog_body">Alte înregistrări (%s) sunt transcrise acum. Opriți sarcinile în curs și porniți o sarcină nouă?</string>
     <string name="recognition_process_dialog_cancel">Sarcină</string>
     <string name="recognition_process_dialog_confirm">Forțați pornirea</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">Motor de transcriere descărcat cu succes</string>
     <string name="recognition_status_downloading">"Se descarcă "</string>
     <string name="recognition_status_init">"Pregătire "</string>
+    <string name="recognition_stop_current">Opriți sarcina în curs</string>
     <string name="recognize_choose_dialog_offline">Transcrieți în mod gratuit</string>
     <string name="recognize_choose_dialog_offline_desp">Transcrieți înregistrări fără a vă conecta la internet</string>
     <string name="recognize_choose_dialog_online">Transcrieți în Cloud</string>

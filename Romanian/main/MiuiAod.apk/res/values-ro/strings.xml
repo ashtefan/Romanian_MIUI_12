@@ -51,8 +51,13 @@
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12_signature">d/M</string>
+    <string name="aod_lock_screen_date_12_smartcover">"EE
+d/M"</string>
     <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
     <string name="aod_lock_screen_date_signature">d/M</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+d/M"</string>
+    <string name="aod_lock_screen_date_smartcover_b">d/M EE</string>
     <string name="aod_mode_preview">Previzualizați</string>
     <string name="aod_mode_style">Stilul ceasului și fundalul</string>
     <string name="aod_mode_style_title">Mai multe opțiuni</string>
@@ -88,6 +93,7 @@
     <string name="letter_space">Litere spațiate</string>
     <string name="line_space">Linii spațiate</string>
     <string name="mini_time">Ceas mic</string>
+    <string name="minimalist_clock">Ceas simplu</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="notification_anim_pulse">Puls</string>
     <string name="notification_anim_rhythm">Ritm</string>
