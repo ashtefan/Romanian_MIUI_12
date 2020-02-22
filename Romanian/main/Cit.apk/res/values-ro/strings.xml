@@ -281,6 +281,7 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
   <string name="cit_headset_pull_finish">Headphones have been disconnected</string>
   <string name="cit_headset_pull_hint">Disconnect headphones now</string>
   <string name="cit_hide_menu">Hide menu</string>
+    <string name="cit_init_fp_fod_test_tip">Mediu de Testare Inițială pentru Amprentă</string>
   <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
   <string name="cit_kayboard_volume_up">Button: VOLUME UP</string>
   <string name="cit_keyboard_back">Button: BACK</string>
@@ -308,7 +309,9 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
   <string name="cit_name">Hardware tests</string>
-  <string name="cit_nfc_check_summary">Poziționați cardul în partea superioară a spatelui telefonului</string>
+    <string name="cit_nfc_check_enable_tip">Mediu de Testare Inițială pentru NFC</string>
+    <string name="cit_nfc_check_summary">Vă rugăm să apăsați butonul pentru a iniția NFC-ul și apoi poziționați cardul în partea superioară a spatelui telefonului</string>
+    <string name="cit_nfc_check_tip">poziționați cardul în partea superioară a spatelui telefonului</string>
   <string name="cit_nfc_check_title">Test NFC</string>
   <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
   <string name="cit_notificationlight">Notification light</string>

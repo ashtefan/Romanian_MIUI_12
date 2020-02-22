@@ -288,12 +288,19 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="increment_install_pause_for_wifi">Se așteaptă rețeaua</string>
     <string name="increment_preparing">Se pregătește…</string>
     <string name="install">Instalaţi</string>
+    <string name="install_app_progress_clear_apk">Ștergeți fișierul APK</string>
     <string name="install_confirm_question">Instalaţi această aplicaţie? Va avea acces la:</string>
     <string name="install_confirm_question_no_perms">Doriți să instalați această aplicație? Nu solicită permisiuni speciale.</string>
     <string name="install_confirm_question_update">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_no_perms">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
     <string name="install_confirm_question_update_system">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_system_no_perms">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
+    <string name="install_control_cancel_install">Nu instala</string>
+    <string name="install_control_continue_install">Instalează oricum</string>
+    <string name="install_control_lite_mode_explain_des">Această aplicație provine dintr-o sursă necunoscută și este posibil să nu funcționeze în modul Lite.</string>
+    <string name="install_control_lite_mode_solution_des">"Puteți alege să instalați această aplicație oricum.
+De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
+    <string name="install_control_normal_mode_explain_des">Nu se poate instala această aplicație datorită restricțiilor legale</string>
     <string name="install_done">Aplicaţie instalată</string>
     <string name="install_failed">Nu s-a putut instala aplicația</string>
     <string name="install_failed_blocked">Instalarea pachetului a fost blocată.</string>

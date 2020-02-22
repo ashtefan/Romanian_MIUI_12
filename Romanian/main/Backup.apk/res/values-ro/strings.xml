@@ -230,9 +230,37 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="list_footer_tip_title">Sfaturi:</string>
     <string name="loading_data">Se încarcă datele</string>
     <string name="local_app_name">Copie de rezervă</string>
+    <string name="local_back_up_detail_description">"Notă:
+1. Pentru a evita pierderea datelor, salvați copiile de rezervă locale pe computer.
+2. Salvați întotdeauna copiile de rezervă locale pe computer înainte de a face o revenire la setările din fabrică; în caz contrar, copiile de rezervă locale se vor pierde.
+3. Unde sunt stocate copiile de rezervă locale? %1$s"</string>
+    <string name="local_backup_select_activity">Creați o copie de rezervă</string>
     <string name="local_backup_window_title">Date copie de rezervă locală</string>
+    <string name="local_button_backup_data">Faceți o copie de rezervă</string>
+    <string name="local_button_backup_now">Faceți o copie de rezervă</string>
+    <string name="local_button_restore_data">Restaurați pe acest dispozitiv</string>
+    <string name="local_button_restore_now">Restaurați</string>
+    <string name="local_click_to_jump">Atingeți pentru a vedea</string>
+    <string name="local_config_off">Oprit</string>
+    <string name="local_config_on">Pornit</string>
     <string name="local_home_title">Copii de rezervă locale</string>
+    <string name="local_main_auto_backup_title">Faceți o copie de rezervă în mod automat</string>
+    <string name="local_main_backup">Copii de rezervă locale</string>
+    <string name="local_main_backup_and_restore">Pe acest dispozitiv</string>
+    <string name="local_main_backup_detail_title">Setări de sistem, conturi și datele aplicațiilor</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_main_backup_manager">Gestionați copiile de rezervă locale</string>
+    <string name="local_main_backup_manager_title">Gestionați copiile de rezervă</string>
+    <string name="local_main_backup_settings">Setări pentru copiile de rezervă locale</string>
+    <string name="local_main_backup_time">Cea mai recentă copie de rezervă: %1$s</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">Criptați elementele pentru care s-a făcut o copie de rezervă utilizând contul dvs. Mi</string>
+    <string name="local_main_encrypt_backup_title">Criptați copiile de rezervă</string>
+    <string name="local_main_latest_backup_time_loading">Doar o secundă…</string>
     <string name="local_no_backup">Nicio copie de rezervă locală</string>
+    <string name="local_no_backup_data">Nicio copie de rezervă deocamdată aici</string>
+    <string name="local_restore_select_activity">Gestionați copiile de rezervă</string>
+    <string name="local_restore_select_data_activity">Restaurați dintr-o copie de rezervă</string>
     <string name="local_restore_window_title">Restabilire locală</string>
     <string name="local_select_account_contact">Conturi / Contacte</string>
     <string name="local_select_audio">Fișiere audio</string>

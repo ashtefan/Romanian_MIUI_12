@@ -259,6 +259,7 @@ Pentru a comuta între servicii, glisați în sus cu 2 degete și mențineți."<
     <string name="account_sync_summary_all_on">Sincronizare pornită pentru toate elementele</string>
     <string name="account_sync_summary_some_on">Sincronizare pornită pentru %1$d din %2$d elemente</string>
     <string name="account_sync_title">Sincronizare cont</string>
+    <string name="acount_data">Conturi</string>
     <string name="action_drag_label_move_bottom">Mutați în partea de jos</string>
     <string name="action_drag_label_move_down">Mutați jos</string>
     <string name="action_drag_label_move_top">Mutați în partea de sus</string>
@@ -551,6 +552,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_usage_preference">Preferințe utilizare aplicație</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="application_data">Aplicații</string>
     <string name="application_forbid_auto_startup">Împiedicați %s să pornească în fundal</string>
     <string name="application_info_label">Informaţii despre aplicaţie</string>
     <string name="application_item_already_permission">Adăugată</string>
@@ -712,15 +714,26 @@ Pentru a restricționa aplicația, activați mai întâi optimizarea acumulatoru
     <string name="backtouch_enable_title">Ajustați volumul pentru partea posterioară</string>
     <string name="backup_configure_account_default_summary">În prezent, niciun cont nu stochează datele cu copii de rezervă</string>
     <string name="backup_configure_account_title">Cont de rezervă</string>
+    <string name="backup_data">Copii de rezervă</string>
     <string name="backup_data_management_title">Gestionați contul de rezervă</string>
     <string name="backup_data_summary">Creaţi o copie de rezervă pentru date, parolele Wi-Fi şi pentru alte setări pe serverele Google</string>
     <string name="backup_data_title">Creaţi o copie de rezervă pentru datele dvs.</string>
+    <string name="backup_difference_content">"Copii de rezervă locale:
+Copiile de rezervă locale pot include datele aplicațiilor și în mod normal conțin mai multe elemente. Fișierele de rezervă sunt stocate în MIUI-copii de rezervă-Toate copiile de rezervă și trebuie copiate pe un computer odată ce procesul de creare a copiei de rezervă s-a încheiat.
+
+Copiile de rezervă din Cloud:
+Copiile de rezervă sunt stocate în Xiaomi Cloud și pot fi accesate printr-o conexiune fără fir. Această metodă este mai rapidă și mai facilă decât copiile de rezervă locale, dar nu se pot rezerva datele aplicațiilor în Xiaomi Cloud.
+"</string>
+    <string name="backup_difference_title">4. Ce diferențe sunt între copiile de rezervă locale și cele din cloud?</string>
     <string name="backup_disabled">Creare copie de rezervă dezactivată</string>
     <string name="backup_erase_dialog_message">Opriţi crearea copiilor de rezervă pentru parolele Wi-Fi, marcaje, alte setări, datele aplicaţiilor şi ştergeţi toate copiile de pe serverele Google?</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">Serviciul de creare copii de rezervă nu este activ.</string>
     <string name="backup_pw_cancel_button_text">Anulaţi</string>
     <string name="backup_pw_set_button_text">Setaţi parola pentru copia de rezervă</string>
+    <string name="backup_restore_data_content">"Copiile dvs. de rezervă pot conține contacte, mesaje (SMS și MMS), istoricul de apelare, evenimentele din, fotografiile, fișierele audio, videoclipurile, documentele, aplicațiile, datele aplicațiilor și dispunerea Ecranului principal.
+"</string>
+    <string name="backup_restore_data_title">5. Ce elemente pot rezerva sau restaura?</string>
     <string name="backup_section_title">Creaţi şi restabiliţi copii de rezervă</string>
     <string name="backup_set_clear_success">Parola copiei de rezervă a fost dezactivată cu succes</string>
     <string name="backup_set_clear_title">Dezactivați parola copiei de rezervă</string>
@@ -1319,16 +1332,14 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Captarea tuturor pachetelor Bluetooth HCI într-un fişier</string>
     <string name="bt_ldac_declaration">Atunci când un dispozitiv Bluetooth suportă LDAC, el va fi conectat în mod implicit. LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie
-Această caracteristică poate fi dezactivată din [Setări]"</string>
+    <string name="bt_ldac_dialog_summary">LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Această caracteristică poate fi dezactivată din Setări.</string>
     <string name="bt_ldac_dialog_title">Dispozitivul curent suportă LDAC, care a fost conectat în mod implicit:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Activați LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Atribute</string>
     <string name="bt_lhdc_declaration">Atunci când un dispozitiv Bluetooth suportă LHDC, el va fi conectat în mod implicit. LDHC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie
-Această caracteristică poate fi dezactivată din Setări"</string>
+    <string name="bt_lhdc_dialog_summary">LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Această caracteristică poate fi dezactivată din Setări.</string>
     <string name="bt_lhdc_dialog_title">Dispozitivul curent suportă LHDC, care a fost conectat în mod implicit:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
     <string name="bt_lhdc_open_dialog_title">Activați LHDC?</string>
@@ -1508,12 +1519,14 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
     <string name="clear_activities_summary">Activaţi acest program pentru unele operaţiuni prestabilite</string>
     <string name="clear_adb_keys">Revoc autorizații depanare USB</string>
+    <string name="clear_all_data">Ștergeți toate datele</string>
     <string name="clear_cache_btn_text">Eliberare memorie cache</string>
     <string name="clear_data_dlg_text">Toate datele acestei aplicaţii vor fi şterse definitiv. Aici sunt incluse toate fişierele, setările, conturile, bazele de date, etc.</string>
     <string name="clear_data_dlg_title">Ştergeţi datele aplicaţiei?</string>
     <string name="clear_failed_dlg_text">Nu s-au putut şterge datele aplicaţiei.</string>
     <string name="clear_instant_app_confirmation">Doriți să eliminați această aplicație?</string>
     <string name="clear_instant_app_data">Eliminați aplicația</string>
+    <string name="clear_phone_data_category">Ștergeți următoarele elemente</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
@@ -1531,10 +1544,12 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="cloud_backup_section_title">Copie de rezervă în Xiaomi cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
     <string name="cloud_restore_section_summary">Restaurați setările de sistem, dispunerea Ecranului principal și aplicațiile</string>
+    <string name="cloud_restore_section_summary_new">Creați o copie de rezervă pentru dispunerea Ecranului principal, aplicații, setările de sistem și multe altele</string>
     <string name="cloud_restore_section_title">Restaurați din Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title_new">În Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
-    <string name="codec_low_latency_summary">Furnizează o experiență de latență scăzută pentru sincronizarea Audio/Video</string>
-    <string name="codec_low_latency_title">Latență scăzută</string>
+    <string name="codec_low_latency_summary">Minimizează latența pe durata sincronizării audio/video din jocuri</string>
+    <string name="codec_low_latency_title">Latență redusă</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
     <string name="color_calibration_none">Nativă</string>
@@ -1590,6 +1605,7 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="color_unspecified">Implicită</string>
     <string name="color_white">Alb</string>
     <string name="color_yellow">Galben</string>
+    <string name="common_issue">Întrebări frecvente</string>
     <string name="common_settings">Setări rapide</string>
     <string name="complete_parameters">Specificații complete</string>
     <string name="complete_settings">Toate setările</string>
@@ -1678,6 +1694,7 @@ Această caracteristică poate fi dezactivată din Setări"</string>
     <string name="connected_wifi">Conectat</string>
     <string name="connecting_to_vpn">Se conectează la VPN</string>
     <string name="connection_and_sharing">Conexiune și partajare</string>
+    <string name="contact_data">Contacte</string>
     <string name="content_capture">Conținutul aplicației</string>
     <string name="content_capture_summary">Permiteți aplicațiilor să trimită conținut sistemului Android</string>
     <string name="content_description_menu_button">Meniu</string>
@@ -1929,6 +1946,9 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="data_used_template">%1$s utilizate</string>
     <string name="data_warning">Avertisment utilizare date</string>
     <string name="data_warning_footnote">Avertismentul de utilizare date și limita de date sunt măsurate de către dispozitivul dumneavoastră. Acestea pot diferi de datele de la operator.</string>
+    <string name="datasize_decrease_content">"Contactele, mesajele și datele de sistem sunt comprimate în timp ce sunt rezervate, ceea ce rezultă în fișiere de dimensiune redusă.
+"</string>
+    <string name="datasize_decrease_title">6. De ce sunt unele fișiere ale copiilor de rezervă de dimensiune mai mică decât cele actuale?</string>
     <string name="date_and_time">Setări privind data şi ora</string>
     <string name="date_and_time_settings_summary">Setaţi data, ora, fusul orar şi formatul datei.</string>
     <string name="date_and_time_settings_title">Data şi ora</string>
@@ -2964,6 +2984,39 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="homepage_all_settings">Toate Setările</string>
     <string name="homepage_condition_footer_content_description">Restrângeți</string>
     <string name="homepage_personal_settings">Sugestii</string>
+    <string name="how_backup_content">"Există 3 tipuri de copii de rezervă pe care le puteți crea: locală, cloud și USB.
+
+Copiile de rezervă locale:
+Copiile de rezervă locale vă permit să salvați setările de sistem, conturile, datele aplicațiilor precum și alte elemente într-un fișier separat stocat pe dispozitiv (MIUI-copie de rezervă-Toate copiile de rezervă). După ce este creat fișierul, îl puteți transfera pe computer prin intermediul cablului USB.
+Notă:
+Puteți utiliza Mi PC Suite pentru a crea copii de rezervă și pentru a restaura elemente.
+Copiile de rezervă în Cloud:
+Puteți crea copii de rezervă pentru setările de sistem, dispunerea Ecranului principal, aplicații, precum și pentru alte elemente în Xiaomi Cloud printr-o conexiune fără fir.
+
+Copiile de rezervă USB:
+Această metodă vă permite să salvați setările de sistem, conturile, datele aplicațiilor, precum și alte elemente pe un dispozitiv de stocare USB extern.
+"</string>
+    <string name="how_backup_title">1. Cum pot face copii de rezervă pentru diverse elemente?</string>
+    <string name="how_encrypt_content">"Copiile de rezervă locale pot fi doar criptate. Există 2 metode pentru a face asta:
+a) Deschideți pagina care conține copiile de rezervă locale, atingeți butonul pentru a activa criptarea și conectați-vă la contul dvs. Mi. Copiile de rezervă vor fi criptate în mod automat după aceea. Țineți minte că va trebui să vă conectați la contul Mi pentru a restaura elementele din copiile de rezervă criptate.
+b) Dacă utilizați Mi PC Suite pentru a face o copie de rezervă, puteți folosi opțiunile de criptare de acolo.
+
+Notă:
+Țineți minte parola setată pentru copiile de rezervă criptate! Nu veți putea decripta copiile de rezervă dacă uitați parola.
+"</string>
+    <string name="how_encrypt_title">3. Cum pot cripta copiile de rezervă?</string>
+    <string name="how_restore_backup_content">"Iată cum puteți restaura elementele din copiile de rezervă realizate prin diverse metode:
+
+Copiile de rezervă locale:
+Copiați fișierul care conține copia de rezervă din computer pe telefon (MIUI-copii de rezervă-Toate copiile de rezervă). Mergeți la Setări>Creare copie de rezervă sau resetare>Pe acest dispozitiv și selectați fișierul respectiv.
+
+Copiile de rezervă în Cloud:
+Conectați-vă la contul dvs. Mi, mergeți la Setări>Copie de rezervă, restaurare sau resetare>În Xiaomi Cloud și selectați fișierul.
+
+Copiile de rezervă USB:
+Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rezervă-Toate copiile de rezervă). Mergeți la Setări>Copie de rezervă, restaurare sau resetare>Pe acest dispozitiv și selectați fișierul corespunzător.
+"</string>
+    <string name="how_restore_backup_title">2. Cum restaurez elementele din copiile de rezervă?</string>
     <string name="http_invoke_app">Aplicații web</string>
     <string name="http_invoke_app_summary">Deschideți aplicațiile mai rapid, fără a le instala</string>
     <string name="hwui_force_dark_summary">Suprascrie caracteristica întunecare forțată să fie activă întotdeauna</string>
@@ -3301,7 +3354,9 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="local_backup_password_toast_success">A fost setată o parolă de rezervă nouă</string>
     <string name="local_backup_password_toast_validation_failure">Nu s-a putut seta parola de rezervă</string>
     <string name="local_backup_section_summary">Creaţi o copie de rezervă pentru setările de sistem, cont şi aplicaţii</string>
+    <string name="local_backup_section_summary_new">Creați o copie de rezervă pentru conturi, datele aplicațiilor, setările de sistem și pentru alte elemente</string>
     <string name="local_backup_section_title">Copii de rezervă locale</string>
+    <string name="local_backup_section_title_new">Pe acest dispozitiv</string>
     <string name="locale_default">Prestabilit</string>
     <string name="locale_not_translated">Este posibil să nu fie disponibil în unele aplicații</string>
     <string name="locale_remove_menu">Eliminați</string>
@@ -3672,6 +3727,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="master_clear_progress_title">Ștergere</string>
     <string name="master_clear_short_title">Ștergeți toate datele (resetare la configurarea din fabrică)</string>
     <string name="master_clear_title">Ștergeți toate datele (resetare la configurarea din fabrică)</string>
+    <string name="master_clear_title_new">Ștergeți toate datele (resetare la configurarea din fabrică)</string>
     <string name="max_aspect_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="max_cpu10_info">"Deca-core Max "</string>
     <string name="max_cpu2_info">Dual-core Max</string>
@@ -4484,6 +4540,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
 OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="other">Altele</string>
     <string name="other_advanced_settings">Setări adiţionale</string>
+    <string name="other_data">Alte elemente de pe acest dispozitiv</string>
     <string name="other_device_info">Altele</string>
     <string name="other_input_settings">Setări suplimentare pentru tastatură</string>
     <string name="other_personal_settings">Setări personale</string>
@@ -4611,6 +4668,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="phone_info_label">Informaţii telefon</string>
     <string name="phone_language">Limba</string>
     <string name="phone_language_summary" />
+    <string name="photo_data">Fotografii și videoclipuri</string>
     <string name="physical_keyboard_title">Tastatură fizică</string>
     <string name="pick_up_gesture_wakeup_title">Trezire la ridicarea dispozitivului</string>
     <string name="picture_color_mode">Mod culoare</string>
@@ -4903,6 +4961,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="privacy_protection_title">Confidențialitate</string>
     <string name="privacy_relative">Legate de confidențialitate</string>
     <string name="privacy_settings">Creare copie de rezervă şi resetare</string>
+    <string name="privacy_settings_new">Creare copie de rezervă, restaurare sau resetare</string>
     <string name="privacy_settings_title">Creare copie de rezervă</string>
     <string name="privacy_thumbnail_blur_progress_message">Doar o secundă…</string>
     <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
@@ -5138,6 +5197,7 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="reset_second_space_passwd_detail">Introduceți parola contului Mi utilizată în Spațiul Principal</string>
     <string name="reset_shortcut_manager_throttling">Resetați rata limitării pentru ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Rata limită a ShortcutManager a fost resetată</string>
+    <string name="reset_title">Resetare</string>
     <string name="resetting_second_space_passwd">Resetarea parolei Spațiului Secundar</string>
     <string name="resident_timezone_summary">Al doilea ceas</string>
     <string name="resolver_settings_label">Aranjați</string>
@@ -5401,6 +5461,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screenshot_three_gesture">Glisați pe ecran 3 degete în jos pentru a realiza o captură de ecran</string>
     <string name="screenshot_three_gesture_summary">Celelalte gesturi cu 3 degete vor fi dezactivate</string>
     <string name="sd_card_settings_label">Stocare USB</string>
+    <string name="sd_data">Date pe cardul SD</string>
     <string name="sd_eject">Demontaţi stocarea partajată</string>
     <string name="sd_eject_summary">Demontaţi stocarea USB internă</string>
     <string name="sd_ejecting_summary">Demontare în curs</string>
@@ -6341,7 +6402,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="storageuse_settings_title">Utilizare stocare</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Ilum. intermit. la operaţiuni lungi pe firul princ.</string>
-    <string name="strong_suppression_summary">Telefonul dvs. nu va răspunde la atingerile accidentale; este posibil ca unele controale prin gesturi să nu funcționeze în zonele din apropierea marginilor</string>
+    <string name="strong_suppression_summary">Telefonul dvs. va răspunde mai greu la atingerile accidentale; este posibil ca unele controale prin gesturi să nu funcționeze în zonele din apropierea marginilor</string>
     <string name="strong_suppression_title">Arie mare</string>
     <string name="structure_add_facerecoginition_text">Adăugați date 3D ale chipului</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Nu se poate utiliza această caracteristică datorită nivelului redus al acumulatorului"</string>
@@ -6469,6 +6530,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_app_settings">Setări aplicaţii de sistem</string>
     <string name="system_apps_updater">Actualizare aplicații de sistem</string>
     <string name="system_backup_section_title">Copii de rezervă</string>
+    <string name="system_backup_section_title_new">Creare copie de rezervă sau restaurare</string>
     <string name="system_dashboard_summary">Limbă, oră, copie de rezervă, actualizări</string>
     <string name="system_default_app">(Implicit de sistem)</string>
     <string name="system_haptic_feedback">Feedback tactil</string>
@@ -6548,6 +6610,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="time_zone_auto_stub">Selectaţi fusul orar</string>
     <string name="timed_titlei">Temporizator %d</string>
     <string name="timezone_settings">Fus orar</string>
+    <string name="tip_remove_data">Revenirea la setările din fabrică va șterge aceste elemente de pe telefon</string>
     <string name="title_color_calibration">Presetare corecţie de culoare</string>
     <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier</string>
     <string name="title_font">Font</string>
@@ -7245,7 +7308,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vt_provisioned_switch_string">Apel Video furnizat</string>
     <string name="wait_for_debugger">Aşteptaţi depanatorul</string>
     <string name="wait_for_debugger_summary">Înaintea executării, aplicaţia aşteaptă ataşarea depanatorului</string>
-    <string name="wake_suppression_summary">Este posibil ca telefonul dvs. să nu răspundă la atingerile accidentale, dar va răspunde la controalele prin gesturi în zonele din apropierea marginilor</string>
+    <string name="wake_suppression_summary">Telefonul dvs. va răspunde mai prompt la atingerile accidentale și de asemenea va reacționa la majoritatea controalelor prin gesturi din zonele din apropierea marginilor ecranului</string>
     <string name="wake_suppression_title">Arie mică</string>
     <string name="wakeup_and_sleep_settings_category_name">Setări pentru Blocarea ecranului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
@@ -7361,12 +7424,13 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_api_test">API Wi-Fi</string>
     <string name="wifi_ask_disable">%s dorește să dezactiveze Wi-Fi-ul</string>
     <string name="wifi_ask_enable">%s dorește să activeze Wi-Fi-ul</string>
-    <string name="wifi_assistant">Asistent Wi-Fi</string>
+    <string name="wifi_assist">Asistent Wi-Fi</string>
+    <string name="wifi_assistant">Selectează cele mai bune rețele în mod automat</string>
     <string name="wifi_assistant_auto_confirm_data_message">Această rețea Wi-Fi nu are acces la internet. Telefonul va utiliza în schimb datele mobile. Puteți dezactiva asistentul Wi-Fi din Setări.</string>
     <string name="wifi_assistant_confirm_always">"Nu arăta din nou"</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmați</string>
     <string name="wifi_assistant_data_prompt">Afișează o avertizare pentru utilizarea datelor</string>
-    <string name="wifi_assistant_data_prompt_summary">Afișează o avertizare pentru utilizarea datelor când asistentul Wi-Fi comută la date mobile</string>
+    <string name="wifi_assistant_data_prompt_summary">Afișează o avertizare pentru utilizarea datelor când se comută la date mobile</string>
     <string name="wifi_assistant_description">"Iată cum funcționează asistentul Wi-Fi:
 1. Atunci când conexiunea Wi-Fi este slabă, asistentul Wi-Fi va încerca să conecteze telefonul la alte rețele Wi-Fi disponibile.
 2. Dacă toate conexiunile Wi-Fi sunt slabe iar datele mobile sunt activate, asistentul Wi-Fi va comuta la datele mobile."</string>
@@ -7595,9 +7659,14 @@ Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_link_turbo">Utilizați datele mobile pentru a crește viteza</string>
     <string name="wifi_link_turbo_app_settings_summary">Selectați aplicațiile care vor utiliza această funcție</string>
     <string name="wifi_link_turbo_app_settings_title">Selectați aplicațiile</string>
+    <string name="wifi_link_turbo_customize">Aplicații personalizate</string>
+    <string name="wifi_link_turbo_customize_summary">Selectați aplicațiile care vor funcționa cu asistentul Wi-Fi, după preferințele dumneavoastră</string>
+    <string name="wifi_link_turbo_list">Aplicații</string>
     <string name="wifi_link_turbo_no_app">Nu există nicio aplicație încă.</string>
     <string name="wifi_link_turbo_off">Oprit</string>
     <string name="wifi_link_turbo_on">Pornit</string>
+    <string name="wifi_link_turbo_recommendation">Aplicații recomandate</string>
+    <string name="wifi_link_turbo_recommendation_summary">Primiți recomandări în funcție de statisticile de utilizare a datelor</string>
     <string name="wifi_link_turbo_summary">Se amplifică viteză de conectare a aplicațiilor selectate utilizând datele mobile, atunci când conexiunea Wi-Fi este slabă</string>
     <string name="wifi_menu_advanced">Avansate</string>
     <string name="wifi_menu_configure">Configurați</string>

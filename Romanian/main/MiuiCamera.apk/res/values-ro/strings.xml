@@ -160,6 +160,7 @@
     <string name="color_effect_live_none">Normal</string>
     <string name="color_effect_live_solar">Cer albastru</string>
     <string name="color_effect_live_years">Sepia</string>
+    <string name="color_enhance_mode">Culori accentuate</string>
     <string name="config_name_group">Selfie de grup</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">Magic</string>
@@ -1083,11 +1084,11 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
 să înregistrați și să editați videoclipuri în timp real"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">O secundă…</string>
-    <string name="watermark_tab_city">oraș</string>
-    <string name="watermark_tab_festival">festival</string>
-    <string name="watermark_tab_general">general</string>
-    <string name="watermark_tab_scene">scenă</string>
-    <string name="watermark_tab_spots">locuri</string>
+    <string name="watermark_tab_city">Oraș</string>
+    <string name="watermark_tab_festival">Vacanță</string>
+    <string name="watermark_tab_general">General</string>
+    <string name="watermark_tab_scene">Scenă</string>
+    <string name="watermark_tab_spots">Loc</string>
     <string name="wideselfie_press_shoot_key_to_start">Atingeți butonul de declanșare</string>
     <string name="wideselfie_result_image_lossless">"Nu s-a putut salva panorama"</string>
     <string name="wideselfie_rotate_slowly">Rotiți încet telefonul în lateral</string>

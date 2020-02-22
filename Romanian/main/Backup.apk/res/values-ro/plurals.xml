@@ -16,6 +16,10 @@
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s copii de rezervă (%2$s)</item>
+        <item quantity="one">%1$s copie de rezervă (%2$s)</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"S-au importat %d elemente. "</item>
         <item quantity="one">"S-a importat %d element. "</item>

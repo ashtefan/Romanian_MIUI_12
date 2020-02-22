@@ -1229,6 +1229,7 @@ cardul de sănătate"</string>
     <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
     <string name="gb_dialog_record_way_setting_tips">Notă: Înregistrarea sesiunilor de joc necesită un consum crescut de energie care poate crea sincope în utilizare.</string>
     <string name="gb_dialog_record_way_title">Selectați metoda de înregistrare</string>
+    <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
     <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat modul Joc Turbo</string>
     <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați</string>
     <string name="gb_first_guide_handsfree_des">Răspundeți la apelurile din fundal</string>
@@ -2478,6 +2479,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_group_list_management">Gestionare blocări</string>
     <string name="st_hint_add_head_number">Introduceți prefixul</string>
     <string name="st_hint_add_phonenumber">Introduceți numărul de telefon</string>
+    <string name="st_hint_operatelist">Se pare că această regulă există deja</string>
     <string name="st_message_SMS_AntiSpam">Blocați mesaje</string>
     <string name="st_message_SMSpass">Permiteți SMS-uri</string>
     <string name="st_message_phone_AntiSpam">Blocați apeluri</string>

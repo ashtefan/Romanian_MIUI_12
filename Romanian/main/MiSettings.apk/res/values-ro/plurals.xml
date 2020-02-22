@@ -25,6 +25,14 @@
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
     </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s ore</item>
+        <item quantity="one">≈%s oră</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s mins</item>
+        <item quantity="one">≈%s min</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Deblocat de %d ori</item>
         <item quantity="one">Deblocat %d dată</item>
@@ -88,6 +96,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">În zilele lucrătoare: %d minute</item>
         <item quantity="one">În zilele lucrătoare: %d minut</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ore"</item>

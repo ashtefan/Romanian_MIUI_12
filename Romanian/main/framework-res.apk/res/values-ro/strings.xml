@@ -962,6 +962,8 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
     <string name="menu_shift_shortcut_label">Shift+</string>
      <string name="menu_space_shortcut_label">spaţiu</string>
     <string name="menu_sym_shortcut_label">Sim+</string>
+    <string name="miaudiovisual_notification_summary">Activați pentru a vedea efectele în Blocarea ecranului</string>
+    <string name="miaudiovisual_notification_title">Efecte audio și vizuale</string>
      <string name="midnight">miezul nopţii</string>
     <string name="mime_type_apk">Aplicație Android</string>
     <string name="mime_type_audio">Audio</string>
