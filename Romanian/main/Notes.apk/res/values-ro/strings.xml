@@ -147,6 +147,7 @@
     <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
+    <string name="notification_content_add_todo_from_other_app">Ați adăugat o nouă sarcină. Atingeți pentru a o vedea.</string>
     <string name="notify_alarm_title">Memento notă</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
     <string name="permission_get_account_desc">Sincronizarea notițelor în cloud</string>

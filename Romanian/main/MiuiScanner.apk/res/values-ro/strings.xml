@@ -106,7 +106,7 @@
     <string name="crop_title_translation">Selectați textul de tradus</string>
     <string name="document_color_picture">Color</string>
     <string name="document_color_picture_tip">Convertire la color…</string>
-    <string name="document_crop_title">Tăiați documentul</string>
+    <string name="document_crop_title">Decupați documentul</string>
     <string name="document_grayscale">Scală de gri</string>
     <string name="document_grayscale_tip_msg">Convertire la scală de gri…</string>
     <string name="document_ocr">OCR</string>
@@ -248,6 +248,7 @@
     <string name="see_app_details">Vizualizați detaliile aplicației</string>
     <string name="see_details">Atingeți pentru a vedea detaliile</string>
     <string name="select_dialog_confirm">OK</string>
+    <string name="select_from_album">Selectați din album</string>
     <string name="send_mail">Trimiteți un e-mail</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Întreabă întotdeauna</string>
@@ -275,6 +276,7 @@
     <string name="study_vendor_info">Susținut de Zuoyebang</string>
     <string name="suggested_submission_success">Feedback trimis cu succes</string>
     <string name="switch_open">Activați</string>
+    <string name="take_a_picture">Faceți o fotografie</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Titlu:</string>

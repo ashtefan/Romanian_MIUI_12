@@ -189,6 +189,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 
 1.Atingeți butonul de calibrare de mai jos pentru a începe calibrarea OIS.
 2.Se va afișa o etichetă de calibrare finalizată atunci când calibrarea OIS va fi realizată"</string>
+    <string name="cit_camera_rearsub">Test pentru camera secundară posterioară în curs; vă rog așteptați…</string>
     <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
     <string name="cit_charge_usb_dcp">Se încarcă：USB_DCP</string>
     <string name="cit_charge_usb_hvdcp">Se încarcă：USB_HVDCP</string>

@@ -15,11 +15,11 @@
     <string name="bluetooth_advanced_feat_description">Caracteristică avansată de browsing Bluetooth</string>
     <string name="bluetooth_connected">Bluetooth audio conectat</string>
     <string name="bluetooth_disconnected">Bluetooth audio deconectat</string>
-    <string name="bluetooth_map_remote_advance_feature_support">Caracteristică avansată de accesare a mesajelor suportată</string>
-    <string name="bluetooth_map_remote_message_access_feature_downgrade">Retrogradare caracteristică de acces al mesajelor de la distanță</string>
-    <string name="bluetooth_map_repair_for_adv_message_access_feature">Asociați din nou pentru Caracteristica avansată de accesare a mesajelor</string>
-    <string name="bluetooth_map_repair_for_message_access_version_comp">Asociați din nou pentru Versiunea Compatibilitate de accesare a mesajelor</string>
-    <string name="bluetooth_map_settings_app_icon">Miniatura aplicației</string>
+    <string name="bluetooth_map_remote_advance_feature_support">Caracteristici avansate de accesare a mesajelor suportate</string>
+    <string name="bluetooth_map_remote_message_access_feature_downgrade">Retrogradare caracteristici de acces al mesajelor de la distanță</string>
+    <string name="bluetooth_map_repair_for_adv_message_access_feature">Asociați din nou pentru a utiliza caracteristicile avansate de accesare a mesajelor</string>
+    <string name="bluetooth_map_repair_for_message_access_version_comp">Asociați din nou pentru a asigura compatibilitatea versiunii de accesare a mesajelor</string>
+    <string name="bluetooth_map_settings_app_icon">Pictograma aplicației</string>
     <string name="bluetooth_map_settings_cancel">Revocare</string>
     <string name="bluetooth_map_settings_count">Încercări rămase:</string>
     <string name="bluetooth_map_settings_intro">Selectați conturile de e-mail pe care doriți să le partajați prin Bluetooth. Va fi necesar să acceptați accesul la conturile de e-mail când vă conectați.</string>
