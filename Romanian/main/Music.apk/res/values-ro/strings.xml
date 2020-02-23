@@ -886,6 +886,7 @@
     <string name="play_mode_play_all">Redați toate</string>
     <string name="play_mode_shuffle_all">Amestecați</string>
     <string name="play_next">Redă următoarea piesă</string>
+    <string name="play_setting">Redare</string>
     <string name="play_video_with_traffic">CONTINUAȚI</string>
     <string name="play_video_with_traffic_toast">"Acum utilizați datele mobile."</string>
     <string name="playlist_deleted_message">Listă de redare ştearsă</string>
@@ -1100,6 +1101,7 @@ Be Happy"</string>
     <string name="songgroup_pick_playlist">Liste de redare</string>
     <string name="sort_by_name">Nume</string>
     <string name="sort_by_time">Dată</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">Încercați să creați o tranziție între melodii pe durata redării</string>
     <string name="source_from">Sursă: %1$s</string>
     <string name="start_download_music">Se descarcă pachetul de actualizare pentru aplicația Muzică.</string>
     <string name="start_to_check_new_version">Se caută actualizări…</string>

@@ -395,14 +395,14 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_pairing_dialog_message">Asociere…</string>
     <string name="device_pairing_dialog_title">Asociaţi dispozitivele</string>
     <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activați Bluetooth-ul pe celălalt dispozitiv.
+
 - Pe telefoanele cu Android funcția Bluetooth se găsește de regulă în secțiunea Rețele mobile.
-        
 - Pe telefoanele cu iOS funcția Bluetooth se găsește în Setări.
+
 %d. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea Mod Detectare.
-        
+
 %d. Apăsați \"Următorul\" și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
     <string name="device_transfer_by_sim_message" formatted="false">"%d. Salvați contactele de pe celălalt telefon pe cartela SIM;
-        
 
 %d. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați toate contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
     <string name="device_version_header_bluetooth">Importați contactele prin Bluetooth</string>
@@ -789,18 +789,18 @@ Motivul: \"%s\""</string>
     
 Pentru a adăuga un contact în lista de favorite:
 
-"&lt;li&gt;Apăsați fila &lt;b&gt;Contacte&lt;/b&gt;"
+        "&lt;li&gt;Apăsați fila &lt;b&gt;Contacte&lt;/b&gt;"
 "&lt;/li&gt;" 
 "&lt;li&gt;"Apăsați contactul pe care doriți să-l adăugați la Favorite
 "&lt;/li&gt;" 
 "&lt;li&gt;"Apăsați steluța din dreptul numelui contactului
 "&lt;/li&gt;"
-"</string>
+    "</string>
     <string name="noGroups">Niciun grup</string>
     <string name="noMatchingContacts">Nu a fost găsit niciun contact potrivit în agendă.</string>
     <string name="noRecentContacts">Nicio persoană contactată recent</string>
     <string name="no_account_prompt">"Aplicaţia Contacte funcţionează mai bine cu un Cont Google.
-    
+
 • Accesaţi aplicaţia din orice browser web.
 • Creaţi în siguranţă copii de rezervă pentru agendă."</string>
     <string name="no_contact_details">Nu există informaţii suplimentare pentru acest contact.</string>
@@ -1015,6 +1015,10 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Apelaţi înapoi</string>
+    <string name="return_call">Atingeți pentru a reveni la apel</string>
+    <string name="return_call_calling">Apel în curs</string>
+    <string name="return_call_dialing">Se apelează</string>
+    <string name="return_call_incoming">Apel primit</string>
     <string name="ringLabelsGroup">Ton de apel</string>
     <string name="save_photo_progress">Salvare fotografie…</string>
     <string name="savingContact">Se salvează contactul…</string>
@@ -1065,6 +1069,9 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="select_none">Niciun element selectat</string>
     <string name="select_show_contacts">Listă contacte</string>
     <string name="select_vcard_title">Alegeţi fişierul vCard</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Această scurtătură există deja</string>
+    <string name="send_contact_shortcut_todesktop_failed">Nu s-a putut adăuga scurtătura pe Ecranul principal</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Nu se mai pot adăuga scurtături pe Ecranul principal</string>
     <string name="send_contact_shortcut_todesktop_success">Adăugată pe Ecranul principal</string>
     <string name="send_to_voicemail_checkbox">Trimiteţi apelurile direct către mesageria vocală</string>
     <string name="separatorJoinAggregateAll">Toate contactele</string>
