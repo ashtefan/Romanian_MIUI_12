@@ -291,6 +291,10 @@
     <string name="custom_head_content_pull_down_text">glisați în jos</string>
     <string name="custom_head_pull_down_text">Accesați fluxul de informații</string>
     <string name="custom_head_weather">Vremea</string>
+    <string name="dark_mode_setting_dark">Mod Noapte (întunecat)</string>
+    <string name="dark_mode_setting_follow">Urmărește setările de sistem</string>
+    <string name="dark_mode_setting_light">Mod Zi (luminos)</string>
+    <string name="dark_mode_setting_title">Mod Noapte</string>
     <string name="data_monitor">Memento monitorizare trafic</string>
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
