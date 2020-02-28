@@ -80,6 +80,10 @@
     <string name="global_actions_reboot">Repornire</string>
     <string name="global_actions_shutdown">Închidere</string>
     <string name="global_actions_silent_mode">Modul Silenţios</string>
+    <string name="handset_text_unsupported_handset_insert">Atingeți pentru a vedea detaliile</string>
+    <string name="handset_text_usb_handset_insert">Atingeți pentru a accesa setările suplimentare</string>
+    <string name="handset_title_unsupported_handset_insert">Adaptoarele USB pentru căști nu sunt suportate</string>
+    <string name="handset_title_usb_handset_insert">Redare sunet prin USB</string>
     <string name="handy_mode_enter_dlg_msg">Intraţi în modul Operare cu o mână?</string>
     <string name="handy_mode_enter_dlg_title">Intrare în modul Operare cu o mână</string>
     <string name="handy_mode_summary">Pentru a închide, apăsați pe zona întunecată</string>
@@ -111,6 +115,8 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Partajare Mi</string>
+    <string name="miaudiovisual_notification_summary">Activați pentru a vedea efectele în Blocarea ecranului</string>
+    <string name="miaudiovisual_notification_title">Efecte audio și vizuale</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Nu se poate închide; telefonul este blocat."</string>
     <string name="miui_screen_ratio_hint">Probleme aspect ecran</string>

@@ -330,6 +330,9 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
   <string name="cit_power_check_title">Battery indicator</string>
   <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
   <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
+    <string name="cit_proximity_data_check_summary">"Senzorul de la distanță infraroșu: Acoperiți senzorul de distanță infraroșu cu mâna și apoi înlăturați mâna. 
+Senzorul de distanță ultrasonic: Vă rugăm să simulați ridicarea telefonului pentru a prelua un apel 
+Dacă zona de test cea mai joasă arată o valoare de 0,0 la apropiere și o valoare de 5,0 la îndepărtare atunci testul este încheiat cu succes, altfel testul nu este trecut."</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>

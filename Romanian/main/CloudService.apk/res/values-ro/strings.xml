@@ -412,6 +412,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_setting_phrase_summary">Fraze frecvente</string>
     <string name="micloud_setting_recorder_summary">Înregistrări audio și ale apelurilor</string>
     <string name="micloud_setting_sms_summary">Mesaje SMS şi MMS</string>
+    <string name="micloud_setting_sms_summary_for_google_csp">Mesaje text</string>
     <string name="micloud_setting_wifi_summary">Setări Wi-Fi</string>
     <string name="micloud_single_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_space_applist_detail">Gestionaţi aplicaţiile de pe ecranul de pornire</string>

@@ -1196,6 +1196,7 @@ cardul de sănătate"</string>
     <string name="gateway_exception_title">Testare router</string>
     <string name="gb_ad_game_size"> MB</string>
     <string name="gb_add_game_hint">Adăugați elemente din lista de aplicații</string>
+    <string name="gb_add_game_loading_tips">Doar o secundă…</string>
     <string name="gb_advance_settings_edge_gear1">Niciunul</string>
     <string name="gb_advance_settings_edge_gear2">Mic</string>
     <string name="gb_advance_settings_edge_gear3">Mediu</string>

@@ -77,6 +77,9 @@
     <string name="mi_band_vibrate_sms">Vibrează la primirea SMS</string>
     <string name="mi_band_vibrate_sms_in_contacts">Mesaje de la contacte</string>
     <string name="mi_band_vibrate_sms_no_contacts">Mesaje de la numere necunoscute</string>
+    <string name="mi_home_device_find">Descoperiți dispozitive</string>
+    <string name="mi_home_device_ignore">Ignorați</string>
+    <string name="mi_home_device_start_binding">Asociați acum</string>
     <string name="mi_key_alert_dialog_message">Apăsați OK pentru a opri alarma</string>
     <string name="mi_key_alert_dialog_title">Alarmă Mi Key</string>
     <string name="mi_key_find_mikey">Găsire Mi Key</string>
@@ -86,6 +89,16 @@
     <string name="mi_key_summary_open_camera">Apăsați de două ori butonul Mi Key pentru a deschide Camera</string>
     <string name="mi_key_summary_take_photo">Atingeți butonul Mi Key pentru a realiza o fotografie</string>
     <string name="mi_key_take_photo">Realizați o fotografie</string>
+    <string name="mihome_app_download">Instalați acum</string>
+    <string name="mihome_app_update">Actualizați acum</string>
+    <string name="mihome_download_tips">Instalați aplicația Mi Home, conectați-vă și mențineți telefonul în apropierea dispozitivului.</string>
+    <string name="mihome_download_title">Instalați Mi Home</string>
+    <string name="mihome_ignore">Renunțați</string>
+    <string name="mihome_ignore_query">Ignorați</string>
+    <string name="mihome_ignore_tips">Dacă ignorați acest dispozitiv, va trebui să îl adăugați în aplicația Mi Home în mod manual.</string>
+    <string name="mihome_ignore_title">Ignorați acest dispozitiv?</string>
+    <string name="mihome_update_tips">Actualizați aplicația Mi Home și apoi mențineți telefonul în apropierea dispozitivului.</string>
+    <string name="mihome_update_title">Actualizați Mi Home</string>
     <string name="not_set">Nesetat</string>
     <string name="notify_device_lose_connection_text">Atingeți pentru anularea asocierii cu %1$s</string>
     <string name="notify_device_lose_connection_title">S-a pierdut conexiunea cu %1$s</string>

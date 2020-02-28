@@ -66,6 +66,10 @@
     <string name="action_update_phone">Modificați numărul de telefon</string>
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în decurs de 24 de ore</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
+    <string name="ad_buy">Achiziționați</string>
+    <string name="ad_download">Descărcați</string>
+    <string name="ad_join">Alăturați-vă comunității</string>
+    <string name="ad_more">Mai multe</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
     <string name="agree">De acord</string>
     <string name="ai_animation_music_text">Sunet de fundal AI</string>
@@ -145,6 +149,9 @@
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="click_to_reload_more">Atingeţi pentru a încărca mai mult</string>
     <string name="click_to_retry">Încercați din nou</string>
+    <string name="cloud_online_switch">Recomandări personalizate</string>
+    <string name="cloud_online_switch_close_time">Puteți activa recomandările de conținut personalizat în %s</string>
+    <string name="cloud_online_switch_open_time">Afișează recomandările de conținut personalizat</string>
     <string name="collect_diagnosis_log">Colectați jurnale</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată pe durata descărcării unei imagini.</string>
@@ -179,6 +186,7 @@
     <string name="comment_model_add_comment">Adăugați un comentariu</string>
     <string name="comment_model_bg_add_comment">Partajați gândurile dvs. cu comunitatea noastră</string>
     <string name="comment_model_bg_deleted_comment">Acest comentariu a fost șters</string>
+    <string name="comment_model_close">Comentariile nu sunt disponibile acum. Stați conectați!</string>
     <string name="comment_model_comment">Comentarii</string>
     <string name="comment_model_confirm_delete">Ștergeți comentariul acum?</string>
     <string name="comment_model_copy">Copiați</string>
@@ -238,6 +246,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="empty_channels">Gestionați canalele</string>
     <string name="empty_subscribe">"Nu v-ați abonat la nimic încă."</string>
     <string name="enable_background_audio">Rulează în fundal</string>
+    <string name="error_details">Eroare neașteptată</string>
     <string name="error_drm_not_supported">Conținutul protejat nu este suportat în nivel API sub 18</string>
     <string name="error_drm_unknown">A apărut o eroare DRM necunoscută</string>
     <string name="error_drm_unsupported_scheme">Acest dispozitiv nu suportă schema DRM necesară</string>
@@ -288,6 +297,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
+    <string name="explore">Descoperiți</string>
     <string name="explore_on_mi_video">Descoperiți mai multe cu Mi Video</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="failed_to_fetch_data">Nu s-au putut încărca informațiile.</string>
@@ -344,6 +354,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="gallery_video_adjust_hint">Sunt suportate doar videoclipurile la 960fps</string>
     <string name="gallery_video_adjust_text">Ajustați</string>
     <string name="gallery_video_default_music_text">Auto</string>
+    <string name="gallery_video_icon_is_8k">8K</string>
+    <string name="gallery_video_icon_is_record_log">LOG</string>
     <string name="gallery_video_item3_default_text">Emoții</string>
     <string name="gallery_video_item4_default_text">Răsărit</string>
     <string name="gallery_video_item5_default_text">Amintiri</string>
@@ -368,6 +380,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="history">Istoric</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">Online</string>
+    <string name="hot">Populare</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
@@ -391,6 +404,7 @@ pentru videoclipuri"</string>
     <string name="lbl_url_alert">Informații</string>
     <string name="library_roundedimageview_author">Vince Mi</string>
   <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="live_tv_title">TV Live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="local_push_title">Populare astăzi</string>
     <string name="logging_normal">Normal</string>
@@ -560,6 +574,7 @@ pentru videoclipuri"</string>
     <string name="need_update_app">Actualizați Mi Video pentru a utiliza toate funcțiile</string>
     <string name="network_connect_info">Nu se poate conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="network_failed">Nu se poate conecta la rețea</string>
+    <string name="new_channel_tip">Aruncați o privire la noile canale!</string>
     <string name="next">Următorul</string>
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
@@ -568,6 +583,7 @@ pentru videoclipuri"</string>
     <string name="no_recommend_data">Niciun videoclip recomandat acum</string>
     <string name="no_subscriptions">Nimic aici</string>
     <string name="not_show">Nu mai afișa din nou</string>
+    <string name="not_support_share">Nu se poate partaja acest element în prezent</string>
     <string name="notice_comment_action">%s a comentat la postarea dumneavoastră</string>
     <string name="notice_comment_action_deleted">Acest comentariu a fost șters</string>
     <string name="notice_feedback_content">Există o actualizare referitoare la feedback-ul dumneavoastră. Atingeți pentru a o vedea.</string>
@@ -982,6 +998,8 @@ Verificați alte videoclipuri!"</string>
     <string name="restart_phone_bind_title">Modificați numărul de telefon pentru recuperare</string>
     <string name="restore_channel_list">Restaurați setările implicite acum?</string>
     <string name="retry">Încearcă din nou</string>
+    <string name="reveal">Rotiți</string>
+    <string name="reveal_tip">Rotiți dispozitivul pentru o experiență mai bună de vizualizare</string>
     <string name="revoke">Revocă</string>
     <string name="s1">Salvați imaginea</string>
     <string name="s2">Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
@@ -996,6 +1014,10 @@ Verificați alte videoclipuri!"</string>
     <string name="save_cancel_toast">Atingeți din nou butonul \"Înapoi\" pentru a anula salvarea videoclipului</string>
     <string name="screenrecord_cancel">Probleme de compatibilitate</string>
     <string name="screenrecord_nosupport_record">Înregistratorul ecranului nu este suportat pe acest dispozitiv.</string>
+    <string name="screenshot_8k">Captură de ecran 8K</string>
+    <string name="screenshot_8k_save_toast">Captură de ecran 8K salvată în %s</string>
+    <string name="screenshot_8k_saving">Se salvează captura de ecran 8K…</string>
+    <string name="screenshot_8k_share">Trimiteți fișierul la</string>
     <string name="search">Caută</string>
     <string name="search_choose_language">Selectați limba</string>
     <string name="search_choose_voice_language">Selectați limba utilizată pentru căutare vocală</string>
@@ -1108,6 +1130,7 @@ Verificați alte videoclipuri!"</string>
     <string name="ticket_sign_in">Conectați-vă prin SMS</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Abonamente</string>
+    <string name="toast_no_data">Acest element nu este disponibil acum. Reveniți mai târziu.</string>
     <string name="toast_share_failed">"Nu s-a putut partaja. Așteptați un minut sau două și încercați din nou."</string>
     <string name="today">Astăzi</string>
     <string name="tuesday">Marți</string>

@@ -1829,6 +1829,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dark_ui_settings_dark_summary">Aplicațiile suportate vor comuta de asemenea la tema întunecată</string>
     <string name="dark_ui_settings_dialog_acknowledge">Am înțeles</string>
     <string name="dark_ui_settings_light_summary">Aceste setări se vor aplica de asemenea și aplicațiilor</string>
+    <string name="dark_wallpaper_mode">Ajustați imaginea de fundal la modul Întunecat</string>
     <string name="dashboard_title">Setări</string>
     <string name="data_during_calls_summary">Permiteți utilizarea acestei cartele SIM pentru date mobile pe durata apelurilor</string>
     <string name="data_during_calls_title">Date mobile pe durata apelurilor</string>
@@ -2990,6 +2991,7 @@ Copiile de rezervă locale:
 Copiile de rezervă locale vă permit să salvați setările de sistem, conturile, datele aplicațiilor precum și alte elemente într-un fișier separat stocat pe dispozitiv (MIUI-copie de rezervă-Toate copiile de rezervă). După ce este creat fișierul, îl puteți transfera pe computer prin intermediul cablului USB.
 Notă:
 Puteți utiliza Mi PC Suite pentru a crea copii de rezervă și pentru a restaura elemente.
+
 Copiile de rezervă în Cloud:
 Puteți crea copii de rezervă pentru setările de sistem, dispunerea Ecranului principal, aplicații, precum și pentru alte elemente în Xiaomi Cloud printr-o conexiune fără fir.
 
@@ -6589,6 +6591,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
     <string name="tether_settings_title_wifi">Hotspot portabil</string>
     <string name="tether_share_qrcode_title">Partajați codul QR</string>
+    <string name="tether_use_wifi6_summary">Unele dispozitive pot fi incompatibile cu standardul 802.11ax. Dezactivați această caracteristică dacă întâmpinați probleme.</string>
+    <string name="tether_use_wifi6_title">Suportă standardul de generația a șasea</string>
     <string name="tethering_footer_info">Utilizați hotspot-ul și tethering-ul pentru a furniza Internet altor dispozitive prin intermediul conexiunii de date mobile.</string>
     <string name="tethering_hardware_offload">Tethering accelerare hardware</string>
     <string name="tethering_hardware_offload_summary">Se utilizează accelerarea hardware pentru tethering, dacă este disponibilă</string>

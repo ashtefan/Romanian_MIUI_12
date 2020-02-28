@@ -66,10 +66,19 @@
         <item>Noiembrie</item>
         <item>Decembrie</item>
     </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Este timpul pentru jocuri</item>
+        <item>Weekend-ul copiilor</item>
+        <item>Cel mic</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Weekend-urile mele</item>
         <item>Crâmpeie de viață</item>
         <item>Amintiri din weekend</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Prieteni noi și vechi</item>
+        <item>Întâlnirile de anul trecut</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Mutați</item>
@@ -131,6 +140,10 @@
         <item>Momente bune</item>
         <item>În uniune</item>
     </string-array>
+    <string-array name="recent_group_people">
+        <item>Împreună</item>
+        <item>Legături și prietenii</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Eu însumi</item>
         <item>Copil</item>
@@ -175,6 +188,10 @@
         <item>Trecere în revistă vară</item>
         <item>Trecere în revistă toamnă</item>
         <item>Trecere în revistă iarnă</item>
+    </string-array>
+        <string-array name="three_month_baby_title">
+        <item>Cresc atât de repede</item>
+        <item>Fotografiile copilului</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Weekendurile trecute</item>

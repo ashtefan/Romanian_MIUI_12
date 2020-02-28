@@ -1499,6 +1499,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="phone_in_ecm_call_notification_text">Conexiune de date dezactivată</string>
     <string name="phone_in_ecm_notification_complete_time">Nu există conexiune de date până %s</string>
     <string name="phone_in_ecm_notification_title">Mod de apelare inversă de urgenţă</string>
+    <string name="phone_report_title">Citește informațiile despre apelul primit</string>
     <string name="picture_color_mode">Mod culoare fotografiere</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
     <string name="pin2_attempts">"
@@ -1679,6 +1680,9 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="remove_sip_account">Eliminaţi contul</string>
     <string name="removing_account">Se elimină contul…</string>
     <string name="replace_4g_template">4G</string>
+    <string name="report_method_entries_item1">Doar atunci când sunt conectate căștile</string>
+    <string name="report_method_entries_item2">Întotdeauna</string>
+    <string name="report_method_entries_item3">Dezactivați</string>
     <string name="requesting_unlock">Se solicită deblocarea rețelei…</string>
     <string name="respond_via_sms_canned_response_1">Nu pot vorbi acum. Este ceva urgent?</string>
     <string name="respond_via_sms_canned_response_2">Vă sun imediat înapoi.</string>

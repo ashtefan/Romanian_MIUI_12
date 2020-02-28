@@ -283,16 +283,20 @@
         <item quantity="one">"Fotografia selectată (%d MB) nu este pe telefon; o descărcați utilizând datele mobile?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>
-        <item quantity="one">Renunțați la descărcarea ultimei fotografii?</item>
+        <item quantity="other">%d fișiere nu sunt încă descărcate. Renunțați oricum?</item>
+        <item quantity="one">%d fișier nu este descărcat încă. Renunțați oricum?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"Nu s-au putut descărca %1$d fotografii, conectați-vă la rețea și reîncercați"</item>
         <item quantity="one">"Nu s-a putut descărca fotografia, conectați-vă la rețea și reîncercați"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Nu s-au putut descărca %1$d fotografii (%2$d MB), conectați-vă la rețea și reîncercați"</item>
-        <item quantity="one">"Nu s-a putut descărca fotografia (%2$d MB), conectați-vă la rețea și reîncercați"</item>
+        <item quantity="other">Nu s-au putut descărca %1$d fotografii (%2$d MB). Conectați-vă la rețea și reîncercați</item>
+        <item quantity="one">Nu s-a putut descărca %1$d fișier (%2$d MB). Conectați-vă la rețea și reîncercați</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d fișiere (%2$dMB) nu sunt încă descărcate. Descărcați utilizând datele mobile?</item>
+        <item quantity="one">%1$d fișier (%2$dMB) nu este descărcat încă. Descărcați utilizând datele mobile?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"%1$d fotografii nu au putut fi descărcate; reîncercați?"</item>
