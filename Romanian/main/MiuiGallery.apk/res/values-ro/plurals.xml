@@ -308,7 +308,7 @@
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"S-au omis %d fotografii care nu există pe telefon."</item>
-        <item quantity="one">"S-a omis o fotografie care nu există pe telefon."</item>
+        <item quantity="one">"S-a omis %d fotografie care nu există pe telefon."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Au fost găsite %1$d fotografii noi</item>

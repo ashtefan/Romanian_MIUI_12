@@ -379,9 +379,11 @@ Actualizaţi acum?"</string>
     <string name="credit_limit_text">Limita de credit</string>
     <string name="cur_debt">Soldul contului</string>
     <string name="custom_from_account_label">Trimiteţi e-mailul ca:</string>
+    <string name="database_exception">Excepție de date; vă rugăm să vă conectați din nou</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Astăzi, %1$s</string>
+    <string name="db_error">Există o excepție în datele e-mailului. Vă rugăm să vă conectați din nou. Datele e-mailului pot fi recuperate după conectare.</string>
     <string name="debug_mode_preferencecategory">Setați ieșirea jurnalului</string>
     <string name="debug_mode_settings">Setări mod Depanare</string>
     <string name="default_">PRESTABILIT</string>

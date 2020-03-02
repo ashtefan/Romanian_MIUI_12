@@ -187,7 +187,7 @@ Mi Health vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_sleep_goal_title">Ținta pentru durata somnului</string>
     <string name="dialog_sleep_record_auto_start">Pentru a vă monitoriza somnul mai precis, permiteți Mi Health să pornească în mod automat.</string>
     <string name="dialog_sure">OK</string>
-    <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Mi Health! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza stadiile dvs. în cloud.</string>
+    <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Mi Health! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza realizările dvs. în cloud.</string>
     <string name="dot">.</string>
     <string name="drink_water">Beți puțină apă și faceți o plimbare.</string>
     <string name="edit_basic_info_desc">Informații de bază</string>

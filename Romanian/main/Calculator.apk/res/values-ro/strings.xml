@@ -130,6 +130,7 @@
     <string name="disallow">Nu sunt de acord</string>
     <string name="div">÷</string>
     <string name="divDesc">împărţire</string>
+    <string name="dob_selection_error">Data de naștere trebuie să fie anterioară datei curente:)</string>
     <string name="dot">.</string>
     <string name="dotDesc">punct</string>
     <string name="e">e</string>
@@ -232,6 +233,7 @@
     <string name="hint_annual_rate">Introduceți rata anuală</string>
     <string name="hint_enter_amount">Introduceți suma</string>
     <string name="hint_floatwindow_alpha_guide_text">Atingeți pentru a ajusta opacitatea</string>
+    <string name="history_delete_confirmation">Goliți istoricul acum?</string>
     <string name="home_loan">Credit ipotecar</string>
     <string name="home_title_calculator">Calculator</string>
     <string name="house_rent">Chirie</string>
@@ -264,14 +266,19 @@
     <string name="item_title_vel_conversion">Viteză</string>
     <string name="item_title_volume_conversion">Volum</string>
     <string name="item_title_weight_conversion">Masă</string>
+    <string name="label_about">Despre</string>
+    <string name="label_clear_history">Goliți tot</string>
     <string name="label_date_difference">Diferența</string>
     <string name="label_days">Zile</string>
+    <string name="label_delete">Goliți</string>
     <string name="label_emi">EMI</string>
     <string name="label_first_repayment">Prima rambursare</string>
     <string name="label_from_date">De la</string>
+    <string name="label_history">Istoric</string>
     <string name="label_interest">Dobânda</string>
     <string name="label_loan_tenure">Mandatul împrumutului</string>
     <string name="label_months">Luni</string>
+    <string name="label_no_history">Niciun element aici încă</string>
     <string name="label_principal">Principal</string>
     <string name="label_share">Partajați</string>
     <string name="label_start_date">Data de început</string>
