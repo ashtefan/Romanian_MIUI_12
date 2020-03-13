@@ -57,7 +57,7 @@
         <item quantity="one">Următorul ciclu în %1$d zi</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
+        <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">

@@ -18,7 +18,7 @@
         <item>Sincronizați contactele, mesajele, notițele, calendarul și multe altele</item>
         <item>Creați o copie de rezervă pentru aplicații, dispunerea Ecranului principal și imaginea de fundal</item>
         <item>Creați o copie de rezervă pentru setările importante, inclusiv Wi-Fi și ecran</item>
-        <item>"Blocați telefonul de la distanță dacă îl pierdeți"</item>
+        <item>Blocați telefonul de la distanță dacă îl pierdeți</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>

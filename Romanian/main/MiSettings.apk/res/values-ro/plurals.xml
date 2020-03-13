@@ -30,7 +30,7 @@
         <item quantity="one">≈%s oră</item>
     </plurals>
     <plurals name="usage_remain_about_miunte">
-        <item quantity="other">≈%s mins</item>
+        <item quantity="other">≈%s minute</item>
         <item quantity="one">≈%s min</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
@@ -102,7 +102,7 @@
         <item quantity="one">%s oră</item>
     </plurals>
     <plurals name="usage_stats_remain_miunte">
-        <item quantity="other">%s mins</item>
+        <item quantity="other">%s minute</item>
         <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">

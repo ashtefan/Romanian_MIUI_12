@@ -4,4 +4,12 @@
         <item quantity="other">" %1$sore %2$s"</item>
         <item quantity="one">" %1$soră %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Au fost selectate %d elemente</item>
+        <item quantity="one">A fost selectat %d element</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
 </resources>

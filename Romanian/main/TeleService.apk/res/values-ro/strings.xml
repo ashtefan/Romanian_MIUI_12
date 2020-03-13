@@ -735,7 +735,17 @@ Selecție"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (roșu-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
+    <string name="data_disable_warning_no_mms">Nu veți mai putea trimite și primi MMS-uri dacă dezactivați datele mobile (WCDMA/LTE). Oricum, veți putea face acest lucru când sunteți conectat la Wi-Fi.</string>
+    <string name="data_disable_warning_with_mms">Veți putea trimite sau primi MMS-uri dacă dezactivați datele mobile (WCDMA/LTE). Pentru a utiliza internetul, conectați-vă la Wi-Fi.</string>
+    <string name="data_disable_warning_with_mms_lgu">"Veți putea trimite sau primi în continuare MMS-uri dacă dezactivați datele mobile. Pentru a utiliza internetul, conectați-vă la Wi-Fi.
+
+Dezactivați datele mobile?"</string>
+    <string name="data_enable_always_warn">Întreabă dacă se utilizează datele mobile</string>
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
+    <string name="data_enable_warning">Permițând utilizarea în permanență a datelor mobile poate genera taxe suplimentare peste planul de la operator. Vă conectați oricum?</string>
+    <string name="data_enable_warning_lgu">"Exceptând cazul în care este stipulat altfel în planul de date de la operator, utilizarea datelor mobile poate genera taxe suplimentare de la operator.
+
+Utilizați datele mobile oricum?"</string>
     <string name="data_enabled">Date mobile</string>
     <string name="data_plan">Planuri de date mobile</string>
     <string name="data_usage_disable_mobile">Dezactivați datele mobile?</string>
@@ -881,6 +891,12 @@ Selecție"</string>
     <string name="emergency_information_confirm_hint">Atingeți din nou pentru a vedea informațiile</string>
     <string name="emergency_information_hint">Informații de urgență</string>
     <string name="emergency_information_owner_hint">Posesor</string>
+    <string name="emm_cause_11">Operatorul curent nu suportă acest serviciu.</string>
+    <string name="emm_cause_14">Operatorul curent nu suportă serviciile de date mobile.</string>
+    <string name="emm_cause_2">Nu s-a putut înregistra numărul de telefon. Închideți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="emm_cause_3">Nu s-a putut verifica utilizatorul. Închideți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="emm_cause_6">Nu s-a putut verifica dispozitivul. Închideți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">Nu puteți utiliza roaming-ul acum. Închideți și reporniți dispozitivul, apoi încercați din nou. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
     <string name="empty_alert">Câmpul %s este obligatoriu şi nu poate fi lăsat necompletat.</string>
     <string name="empty_networks_list">Nicio reţea găsită.</string>
     <string name="enable">Activaţi</string>
@@ -1075,6 +1091,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="international_disable">Știri internaţionale dezactivate</string>
     <string name="international_enable">Știri internaţionale activate</string>
     <string name="international_roaming_setting">Date mobile în roaming</string>
+    <string name="international_roaming_setting_kr">Roaming internațional</string>
+    <string name="international_roaming_setting_kr_skt">T roaming</string>
     <string name="internet_phone">Apel prin internet</string>
     <string name="invalidPin">Introduceţi un cod PIN alcătuit din 4 până la 8 cifre.</string>
     <string name="invalidPin2">Introduceţi un cod PIN2 format din 4-8 cifre.</string>
@@ -1101,6 +1119,16 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="keep_screen_on">Păstrează activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
     <string name="keywords_carrier_settings_euicc">operator, esim, sim, euicc, comutare operatori, adăugați un operator</string>
+    <string name="kt_lte_emm_cause_19_22">Se înregistrează în rețea… Așteptați un minut sau două și încercați din nou.</string>
+    <string name="kt_lte_emm_cause_3">Nu s-a putut verifica utilizatorul. Opriți și reporniți dispozitivul apoi încercați din nou. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_emm_cause_6">Nu s-a putut verifica dispozitivul. Reporniți dispozitivul de 2-3 ori după instalarea noii cartele USIM. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_emm_cause_8">Este necesară activarea. Vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_emm_cause_others">Nu s-a putut înregistra în rețea</string>
+    <string name="kt_lte_msim_emm_cause_19_22">Cartela SIM %d se înregistrează în rețea… Așteptați un minut sau două și încercați din nou.</string>
+    <string name="kt_lte_msim_emm_cause_3">Cartela SIM %d nu a putut verifica utilizatorul. Opriți și reporniți dispozitivul apoi încercați din nou. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_msim_emm_cause_6">Cartela SIM %d nu a putut verifica dispozitivul. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_msim_emm_cause_8">Cartela SIM %d necesită activarea. Vizitați un centru de suport pentru consumatori.</string>
+    <string name="kt_lte_msim_emm_cause_others">Cartela SIM %d nu s-a putut înregistra în rețea</string>
     <string name="labelCDMAMore">Setările apelului CDMA</string>
     <string name="labelCF">Redirecţionarea apelurilor</string>
     <string name="labelCFB">Redirecţionaţi când este ocupat</string>
@@ -1137,6 +1165,22 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="last_sim_callback_title">Reține SIM preferate</string>
     <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
     <string name="launch_defaults_some">Unele aplicații implicite setate</string>
+    <string name="lgu_emm_16_17_22">Se înregistrează în rețea… Așteptați un minut sau două și încercați din nou.</string>
+    <string name="lgu_emm_cause_11_12_13_15">Nu s-a putut înregistra în rețea</string>
+    <string name="lgu_emm_cause_2">Activarea este necesară. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_3">Nu s-a putut verifica utilizatorul. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_6">Nu s-a putut verifica dispozitivul. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_7_14">Rețeaua nu oferă servicii de date mobile</string>
+    <string name="lgu_emm_cause_8">Nu s-a putut înregistra în rețea. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_others">Nu s-a putut conecta la rețea. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_11_12_13_15">Cartela SIM %d nu s-a putut înregistra în rețea</string>
+    <string name="lgu_msim_emm_cause_16_17_22">Cartela SIM %d se înregistrează în rețea… Așteptați un minut sau două și încercați din nou.</string>
+    <string name="lgu_msim_emm_cause_2">Cartela SIM %d necesită activarea. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_3">Cartela SIM %d nu a putut verifica utilizatorul. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_6">Cartela SIM %d nu a putut verifica dispozitivul. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_7_14">Rețeaua cartelei SIM %d nu furnizează servicii de date mobile</string>
+    <string name="lgu_msim_emm_cause_8">Cartela SIM %d nu s-a putut înregistra în rețea. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_others">Cartela SIM %d nu se poate conecta la rețea. Vizitați un centru de suport pentru clienți (+82-2-3416-7010).</string>
     <string name="list_language_dtitle">Limbi</string>
     <string name="list_language_summary">Selectaţi limba pentru ştiri</string>
     <string name="list_language_title">Limbă</string>
@@ -1174,8 +1218,15 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="menu_edit">Modificaţi informaţiile despre persoana din agendă</string>
     <string name="messageCFB">Număr pentru redirecţionare dacă este ocupat</string>
     <string name="messageCFNRc">Număr de redirecţionare dacă telefonul nu este accesibil</string>
+    <string name="messageCFNRc_kr_kt">"Un serviciu de rețea care redirecționează toate apelurile primite și mesajele text către un anume număr de telefon atunci când nu puteți prelua apeluri (de exemplu, atunci când vorbiți la telefon sau când acesta este închis). Este nevoie să vă abonați la acest serviciu. Contactați centrul de suport pentru clienți (114+[Trimitere]) pentru a vă abona/dezabona de la acest serviciu. Introduceți *72+[numărul pentru redirecționare apeluri][Trimitere] pentru a activa, sau *720[Trimitere] pentru a dezactiva.
+
+Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="messageCFNRy">Număr pentru redirecţionare dacă nu se răspunde</string>
     <string name="messageCFU">Utilizaţi întotdeauna acest număr</string>
+    <string name="messageCFU_kr_kt">"Un serviciu de rețea care redirecționează toate apelurile primite și mesajele text către un anume număr de telefon. Este nevoie să vă abonați la acest serviciu. Veți fi taxat lunar pentru acest serviciu. Contactați centrul de suport pentru clienți (114+[Trimitere]) pentru a vă abona/dezabona de la acest serviciu. Introduceți *71+[numărul pentru redirecționare apeluri][Trimitere] pentru a activa, sau *710[Send] pentru a dezactiva.
+
+Utilizați întotdeauna acest număr de telefon"</string>
+    <string name="messageCW_kr_kt">Un serviciu de rețea gratuit care vă permite să răspundeți la un al doilea apel atunci când sunteți deja în cursul unui apel, trecând primul apel în așteptare. Introduceți *40+[Trimitere] pentru a activa, sau *400+[Trimitere] pentru a dezactiva.</string>
     <string name="messageCallBarring">Introduceți parola</string>
     <string name="message_decode_error">A apărut o eroare la decodificarea mesajului.</string>
     <string name="mhh_disable">Medicină, sănătate şi spitale dezactivate</string>
@@ -1268,6 +1319,12 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Este posibil să nu puteţi efectua apeluri sau să utilizaţi conexiunea de date mobile. Opriţi utilizarea cartelei SIM %s?</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Nu restricționați cartela SIM secundară în modul apelare de urgență emergency callback."</string>
     <string name="msim_disable_sim_card_title">Opriți utilizarea cartelei SIM</string>
+    <string name="msim_emm_cause_11">Operatorul cartelei SIM %d nu suportă acest serviciu.</string>
+    <string name="msim_emm_cause_14">Operatorul cartelei SIM %d nu suportă serviciile de date mobile.</string>
+    <string name="msim_emm_cause_2">Cartela SIM %d nu a putut înregistra numărul de telefon. Opriți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="msim_emm_cause_3">Cartela SIM %d nu a putut verifica utilizatorul. Opriți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="msim_emm_cause_6">Cartela SIM %d nu a putut verifica dispozitivul. Opriți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">Cartela SIM %d nu poate utiliza roamingul acum. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți al operatorului (SKT: +82-2-6346-9000).</string>
     <string name="msim_enable_sim">Activaţi</string>
     <string name="msim_general_setting">Setări</string>
     <string name="msim_has_been_disabled">(Dezactivată)</string>
@@ -1302,6 +1359,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="network_2G">2G</string>
     <string name="network_3G">3G</string>
     <string name="network_4G">4G (recomandat)</string>
+    <string name="network_active">Rețele active</string>
+    <string name="network_available">Rețele disponibile</string>
     <string name="network_connected">Conectat</string>
     <string name="network_connecting">Se conectează...</string>
     <string name="network_could_not_connect">Nu s-a putut conecta</string>
@@ -1331,6 +1390,8 @@ Se va utiliza rețeaua preferată."</string>
     <string name="network_settings_title">Rețele mobile</string>
     <string name="network_settings_turn_off">Oprit</string>
     <string name="network_settings_warn_message">Dispozitivul se va conecta numai la rețelele selectate manual.</string>
+    <string name="network_state_display">Afișează starea rețelei</string>
+    <string name="network_state_display_title">Setări pentru starea rețelei</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Deblocare</string>
@@ -1359,6 +1420,8 @@ Se va utiliza rețeaua preferată."</string>
     <string name="notification_demo_version_title">Acesta este un dispozitiv demo</string>
     <string name="notification_network_selection_text">Reţeaua selectată (%s) nu este disponibilă</string>
     <string name="notification_network_selection_title">Fără serviciu</string>
+    <string name="notification_switch_auto_text">Se pare că ați revenit. S-a comutat la rețelele locale.</string>
+    <string name="notification_switch_auto_title">Rețele mobile</string>
     <string name="notification_voicemail_no_vm_number">Număr mesagerie vocală necunoscut</string>
     <string name="notification_voicemail_text_format">Apelaţi %s</string>
     <string name="notification_voicemail_title">Mesaj vocal nou</string>
@@ -1613,7 +1676,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">De preferat 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Automat</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
-    <string name="preferred_network_type_pref_entries_only_2g">Numai 2G (economisiţi acumulatorul)</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Numai 2G</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Doar GSM</string>
     <string name="preferred_network_type_pref_entries_only_3g">Numai 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Doar WCDMA</string>
@@ -1684,6 +1747,10 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="report_method_entries_item2">Întotdeauna</string>
     <string name="report_method_entries_item3">Dezactivați</string>
     <string name="requesting_unlock">Se solicită deblocarea rețelei…</string>
+    <string name="reset_roaming_message">Dispozitivul va reporni pentru a reseta roamingul.</string>
+    <string name="reset_roaming_not_support">Această cartelă SIM nu poate inițializa roamingul.</string>
+    <string name="reset_roaming_tip">Se resetează roamingul…</string>
+    <string name="reset_roaming_title">Resetați roamingul</string>
     <string name="respond_via_sms_canned_response_1">Nu pot vorbi acum. Este ceva urgent?</string>
     <string name="respond_via_sms_canned_response_2">Vă sun imediat înapoi.</string>
     <string name="respond_via_sms_canned_response_3">Vă sun mai târziu.</string>
@@ -1709,11 +1776,17 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="roaming">Deconectat de la rețeaua de date mobile</string>
     <string name="roaming_alert_title">Permiteți traficul de date în roaming?</string>
     <string name="roaming_check_price_warning">Verificați costul la operatorul de rețea.</string>
+    <string name="roaming_customer_service_message_kr">Atingeți pentru a contacta serviciul de suport clienți pentru roaming (+82-2-2190-0901). Acest apel este gratuit în străinătate.</string>
+    <string name="roaming_customer_service_summary_kr">Apeluri gratuite în străinătate</string>
+    <string name="roaming_customer_service_title_kr">Serviciul de suport clienți pentru roaming</string>
     <string name="roaming_disable">Conectaţi-vă la serviciile de date în roaming</string>
+    <string name="roaming_disable_kr">Setări pentru roaming de date și roaming internațional</string>
     <string name="roaming_enable">Conectaţi-vă la serviciile de date în roaming</string>
     <string name="roaming_notification_content">Puteți adăuga codul țărilor în mod automat pentru a apela mai ușor.</string>
     <string name="roaming_notification_title">Se pare că roamingul este activat</string>
     <string name="roaming_reenable_message">Încercați utilizarea în roaming pentru a vă conecta din nou.</string>
+    <string name="roaming_user_package_summary_kr">Achiziționați, anulați sau editați pachetul pentru roaming. Nu veți fi taxat pentru utilizarea acestui meniu când sunteți în roaming.</string>
+    <string name="roaming_user_package_title_kr">Utilizați pachetul pentru roaming</string>
     <string name="roaming_warning">Permiteţi roamingul de date? Puteţi acumula taxe considerabile pentru roaming!</string>
     <string name="rtt_mode_more_information">RTT asistă persoanele surde, care aud greu, care au o dificultate de vorbire, sau care au nevoie de mai mult decât voce.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Aflați mai multe&lt;/a&gt; &lt;br&gt;&lt;br&gt; - Apelurile RTT sunt salvate ca și mesaje transcrise &lt;br&gt; - RTT nu este disponibil pentru apelurile video</string>
     <string name="rtt_mode_summary">Permiteți mesajele în interiorul apelurilor vocale</string>
@@ -1796,6 +1869,18 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="simulate_color_space">Simulați spațiul de culoare</string>
     <string name="singleContactImportedMsg">Contact importat</string>
     <string name="single_emergency_number_title">Număr de urgență</string>
+    <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Dezactivați</string>
+    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Selectați cartela SIM care să fie dezactivată</string>
+    <string name="single_fiveg_dialog_title_prompt">Atenție</string>
+    <string name="single_fiveg_dialog_title_remind">Atenție</string>
+    <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Am înțeles</string>
+    <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">O singură cartelă SIM poate fi activată pentru rețelele 5G. Selectați mai întâi un alt tip de rețea pentru SIM-ul de date.</string>
+    <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Dezactivați cartela SIM</string>
+    <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Utilizați Dual SIM</string>
+    <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Utilizarea rețelelor 5G necesită dezactivarea unei cartele SIM. Dacă doriți să utilizați în continuare Dual SIM, selectați un alt tip de rețea.</string>
+    <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Atenție</string>
+    <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">O singură cartelă SIM poate fi activată pentru rețelele 5G. Atingând butonul \"Activați\" de mai jos va dezactiva cealaltă cartelă SIM.</string>
+    <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Activați</string>
     <string name="sip_account_disable">"Acest cont nu este activ. Nu se pot prelua apeluri."</string>
     <string name="sip_account_list">Conturi SIP</string>
     <string name="sip_accounts">Conturi apelare prin internet(SIP)</string>
@@ -1820,6 +1905,16 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sip_save_register_error">"Nu s-a putut înregistra și salva un nou profil SIP"</string>
     <string name="sip_settings">Setări pentru apeluri prin internet</string>
     <string name="sip_system_decide">Automat</string>
+    <string name="skt_emm_cause_12_13_16_17_22">Nu s-a putut înregistra în rețea. Opriți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="skt_emm_cause_2">Nu s-a putut înregistra numărul de telefon. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
+    <string name="skt_emm_cause_3">Nu s-a putut verifica utilizatorul. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți  (1599-0011).</string>
+    <string name="skt_emm_cause_6">Nu s-a putut verifica dispozitivul. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți  (1599-0011).</string>
+    <string name="skt_emm_cause_7_8_15">Nu s-a putut înregistra în rețea. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți  (1599-0011).</string>
+    <string name="skt_msim_emm_cause_12_13_16_17_22">Cartela SIM %d nu s-a putut înregistra în rețea. Opriți și reporniți dispozitivul, apoi încercați din nou.</string>
+    <string name="skt_msim_emm_cause_2">Cartela SIM %d nu a putut înregistra numărul de telefon. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
+    <string name="skt_msim_emm_cause_3">Cartela SIM %d nu a putut verifica utilizatorul. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
+    <string name="skt_msim_emm_cause_6">Cartela SIM %d nu a putut verifica dispozitivul. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
+    <string name="skt_msim_emm_cause_7_8_15">Cartela SIM %d nu s-a putut înregistra în rețea. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
     <string name="smart_divert_summary">Setări CFNRc</string>
     <string name="smart_divert_title">Redirecționare inteligentă</string>
     <string name="smart_forwarding_settings_menu">Redirecționare Inteligentă</string>

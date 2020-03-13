@@ -113,6 +113,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="change_email_address">Schimbaţi adresa de e-mail</string>
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
@@ -196,25 +197,33 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="exit">Ieșiți</string>
     <string name="facebook">Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
+    <string name="find_device">Găsiți dispozitivul</string>
     <string name="find_device_access_denied">"Nu s-a putut verifica starea; nu este permis accesul"</string>
     <string name="find_device_account_error">"Nu s-a putut obține starea datorită unei erori de cont"</string>
     <string name="find_device_activate_account">Activați contul</string>
     <string name="find_device_bad_response_error">A apărut o eroare de server; așteptați un minut sau două și încercați din nou</string>
+    <string name="find_device_clear_data">Ștergeți datele</string>
+    <string name="find_device_close">Oprit</string>
     <string name="find_device_error_password_not_confirmed">"Nu s-a putut dezactiva Localizarea dispozitivului. Introduceți parola contului Mi din nou."</string>
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
     <string name="find_device_interrupted">Acțiunea a fost întreruptă; așteptați un minut sau două și încercați din nou</string>
     <string name="find_device_io_error">"Nu se poate conecta la rețea"</string>
+    <string name="find_device_location">Localizați</string>
     <string name="find_device_locked_account_email" formatted="false">%s, adresa de e-mail asociată: %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, numărul de telefon asociat: %s</string>
     <string name="find_device_message">Dispozitivul este blocat. Mesaj: %1$s. Apelați: %2$s.</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
+    <string name="find_device_open">Pornit</string>
     <string name="find_device_operation_failed_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
     <string name="find_device_owner_phone">Dispozitivul este blocat. Apelați %1$s.</string>
+    <string name="find_device_play_sound">Redă un sunet</string>
     <string name="find_device_prompt_message">Dispozitivul este blocat. Trimiteți un mesaj la: %1$s.</string>
     <string name="find_device_remote_exception">Eroare RPC</string>
     <string name="find_device_request_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
+    <string name="find_device_set_lost_model">Mod Pierdut</string>
+    <string name="find_device_title">Găsiți dispozitivul</string>
     <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
     <string name="for_diagnosis_usage_only">Utilizat doar pentru probleme legate de localizare.</string>
     <string name="get_back_pwd">Resetare parolă</string>
@@ -498,6 +507,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="passport_wx_bind_account_limit">"Nu se poate crea un cont nou acum. Încercați alte metode de conectare."</string>
     <string name="passport_yes">Da</string>
+    <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
     <string name="permission_group_contacts">Contacte</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>

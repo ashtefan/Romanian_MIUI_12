@@ -2343,6 +2343,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
 Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="dump_log_title">Despre această caracteristică</string>
   <string name="eab_provisioned_switch_string">EAB/Provizionare Prezență</string>
+    <string name="easymode_hint">Atingeți pentru a dezactiva modul Ușor</string>
     <string name="edge_mode_back">Înapoi</string>
     <string name="edge_mode_back_summary">Apăsați de două ori partea de sus a ecranului pentru a reveni</string>
     <string name="edge_mode_clean">Curăță cache-ul de sistem</string>
@@ -4508,6 +4509,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="oldman_installed_not_current_btn">Setați ca Ecran principal implicit</string>
     <string name="oldman_installed_not_current_des">Modul Simplificat este instalat pe telefonul dvs. Îl puteți utiliza drept Ecran principal implicit.</string>
     <string name="oldman_mode_entry_name">Modul Simplificat</string>
+    <string name="oldman_mode_settings">Modul Ușor</string>
     <string name="oldman_uninstalled_btn">Instalați</string>
     <string name="oldman_uninstalled_des">Modul Simplificat elimină dezordinea vizuală și menține Ecranul principal simplu și minimalist.</string>
     <string name="on">Pornit</string>
@@ -6627,7 +6629,6 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_font_current2">Fontul sistemului</string>
     <string name="title_font_size">Dimensiune text</string>
     <string name="title_hdmi_color_calibration">Presetare corecţie de culoare</string>
-    <string name="title_jeejen">Ecran principal Jeejen</string>
     <string name="title_layout_current">Dimensiunea textului</string>
     <string name="title_layout_current2">Dimensiunea textului</string>
     <string name="title_layout_current2_weight">Dimensiunea textului și grosimea fontului</string>

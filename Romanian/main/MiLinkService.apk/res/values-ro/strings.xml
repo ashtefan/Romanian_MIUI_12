@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="actionbar_button_up_description">Înapoi</string>
-    <string name="app_name">Serviciu UniPlay</string>
+    <string name="app_name">clientSDK</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">Se proiectează…</string>
@@ -39,10 +39,15 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="help_page_text_02">Ce se proiectează?</string>
     <string name="help_page_text_03">"Proiectarea înseamnă redarea elementelor din telefon pe un ecran extern mai mare. Aceasta vă permite să partajați imagini și videoclipuri cu prietenii și familia și chiar să jucați jocuri împreună. În mod normal, consumul de energie al telefonului nu se modifică atunci când folosiți această funcție."</string>
     <string name="help_page_text_04">Cum proiectez elemente pe un ecran mai mare?</string>
-    <string name="help_page_text_05">Pasul 1</string>
-    <string name="help_page_text_06">"1. Utilizați telefonul mic pentru a vă conecta la TV, puteți stabili o conexiune verticală a ecranului fără a avea nevoie de o rețea.
-2. La unele televizoare Xiaomi sau din alte mărci care nu suportă proiectarea inteligentă, trebuie să conectați televizorul (sau alt dispozitiv cu ecran mare) la telefonul mobil prin aceeași rețea wireless."</string>
-    <string name="help_page_text_08">Pasul 2</string>
+    <string name="help_page_text_05">Pasul 1: Verificați dispozitivele și mediul de rețea</string>
+    <string name="help_page_text_06">"1. Nu trebuie să vă conectați la internet dacă doriți să proiectați ceva de pe un telefon Mi pe un televizor Mi.
+2. Dacă nu puteți stabili o conexiune între cele 2 dispozitive, încercați să le conectați pe amândouă la aceeași rețea Wi-Fi."</string>
+    <string name="help_page_text_06_global">"1. Televizoare Mi, Playere multimedia Mi și proiectoare Mi:
+Conectați atât telefonul cât și monitorul extern la aceeași rețea Wi-Fi pentru a obține cele mai bune rezultate. Dacă acestea sunt conectate la rețele diferite, este posibil să dureze mai mult timp pentru a găsi monitorul extern și pentru conectare.
+Notă: Este posibil ca televizoarele Mi mai vechi să nu suporte partajarea prin rețele diferite.
+2. Dacă utilizați televizoare, playere multimedia sau proiectoare de alte mărci, conectați atât telefonul cât și monitorul extern la aceeași rețea Wi-Fi.
+Dacă cele două dispozitive nu pot fi conectate la aceeași rețea, activați funcția Miracast pe monitorul extern. Denumirea funcției Miracast poate diferi."</string>
+    <string name="help_page_text_08">Pasul 2: Porniți funcția de proiectare</string>
     <string name="help_page_text_09">"Atingeți comutatorul \"Proiectare\" din perdeaua de notificări a telefonului. Activați atât Wi-Fi-ul cât și Bluetooth-ul pentru a avea o conexiune mai stabilă."</string>
     <string name="help_page_text_10">Dacă doriți să proiectați elemente din Galerie sau din Videoclipuri Mi, puteți utiliza funcțiile integrate de proiectare.</string>
     <string name="help_page_text_11">Pasul 3</string>
@@ -88,7 +93,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_40">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți selecta Aplicații &gt; Oglindire ecran.</string>
     <string name="help_page_text_41">Numărul de telefon pentru suport Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți selecta Sistem &gt; Unelte Sistem &gt; Ecrane Multiple &gt; Oglindire ecran.</string>
+    <string name="help_page_text_43">Verificați setările televizorului dvs. pentru a vă asigura că monitorul extern suportă funcția Miracast.</string>
     <string name="help_page_text_44">Numărul de telefon pentru suport Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți selecta Aplicații &gt; Ecran Wireless.</string>
@@ -104,7 +109,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_55_global">"Dacă nu vă puteți conecta la rețea, asigurați-vă că dispozitivul extern (de ex. televizorul) suportă funcția Miracast și că aceasta este activă. La unele modele, această funcție este numită Wireless Display, Oglindire Ecran sau Ecrane multiple.
 4. În cazul în care întâmpinați probleme, le puteți raporta prin intermediul aplicației \"Servicii și feedback\"."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
-    <string name="notification_rc_desc">Cel mai bun Asistent TV pentru mobil pentru proiectarea videoclipurilor, fotografiilor și a aplicațiilor pe XiaoMi Box (sau TV); trebuie doar să-l încercați!</string>
+    <string name="nfc_connect_failed_toast">Nu s-a putut proiecta. Încercați din nou.</string>
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
     <string name="notification_show_more">Vedeți mai multe funcții</string>
     <string name="privacy_agree">De acord</string>
@@ -125,6 +130,7 @@ Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;
     <string name="sdk_name">lebo</string>
     <string name="service_name">Serviciul UniPlay</string>
     <string name="small_window">Minimizați fereastra</string>
+    <string name="small_window_not_supported">Nu se poate minimiza această aplicație în timp ce este proiectată</string>
     <string name="status_bar_in_casting">Proiectare</string>
     <string name="status_bar_in_casting_long">Atingeți pentru a afișa mai multe caracteristici</string>
     <string name="tile_label">Proiectați</string>
