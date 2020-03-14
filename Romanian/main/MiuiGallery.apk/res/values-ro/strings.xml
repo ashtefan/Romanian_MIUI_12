@@ -530,6 +530,8 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Puteți selecta calitatea imaginilor descărcate sau dezactiva descărcarea automată din Setări.</string>
     <string name="downloading_title">Se descarcă fotografiile din Xiaomi Cloud</string>
+    <string name="drag_view_tip_sub_title">Atingeți și mențineți apăsat un album pentru a-l reordona</string>
+    <string name="drag_view_tip_title">Reordonați albumele</string>
   <string name="dump_db_info">Informații despre baza de date de descărcare</string>
     <string name="edit_baby_info">Vedeți informaţiile despre copil</string>
     <string name="editor_cancel">Renunțați</string>
@@ -724,7 +726,7 @@ efecte pentru fotografii"</string>
     <string name="filter_people_sepia">Sepia</string>
     <string name="filter_people_story">Poveste</string>
     <string name="filter_people_tea">Ceai</string>
-    <string name="filter_portrait_hint">Explozie de culoare</string>
+    <string name="filter_portrait_hint">Focalizare culoare</string>
     <string name="filter_scene_city">Oraș</string>
     <string name="filter_scene_df">Ceață</string>
     <string name="filter_scene_koizora">Dragoste</string>
@@ -1215,7 +1217,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
     <string name="photo_portrait_color_download_fail">Nu s-a putut descărca extensia. Conectați-vă la rețea și încercați din nou.</string>
     <string name="photo_portrait_color_download_success">Filtre descărcate cu succes</string>
-    <string name="photo_portrait_color_no_face">Efectule de explozie de culoare funcționează doar pentru fotografiile în care există persoane</string>
+    <string name="photo_portrait_color_no_face">Focusul de culoare funcționează doar pentru fotografiile în care există persoane</string>
     <string name="photo_portrait_download_sdk_without_wifi_msg">Se pare că nu sunteți conectat la Wi-Fi acum. Puteți descărca filtrele (%1$d MB) utilizând datele mobile.</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">Descărcați filtrele</string>
     <string name="photo_print_menu_loading">Încărcare extensie…</string>
@@ -1882,6 +1884,7 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_caption_style">Formatul legendei</string>
     <string name="vlog_caption_title">Credite</string>
     <string name="vlog_clip_cut_fail">Clipurile trebuie să aibă cel puțin %1$d secunde</string>
+    <string name="vlog_clip_cut_fail_min_time">Clipurile trebuie să aibă cel puțin %1$s sec lungime</string>
     <string name="vlog_clip_delete_dialog_btn_cancel">Renunțați</string>
     <string name="vlog_clip_delete_dialog_btn_delete">Ștergeți</string>
     <string name="vlog_clip_delete_dialog_btn_msg">Ștergeți acest videoclip?</string>

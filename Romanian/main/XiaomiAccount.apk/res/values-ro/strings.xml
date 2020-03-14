@@ -20,6 +20,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
     <string name="abc_search_hint">Căutați…</string>
     <string name="abc_searchview_description_clear">Goliți solicitarea</string>
     <string name="abc_searchview_description_query">Interogare de căutare</string>
@@ -113,6 +123,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="change_email_address">Schimbaţi adresa de e-mail</string>
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
+    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
@@ -264,6 +275,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="mipay_indentity_done">Verificat</string>
     <string name="mipay_others">Altele</string>
     <string name="mipay_transit_card">Cartele de transport</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Se pare că utilizați contul Mi din spațiul principal."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"În acest caz, toate datele vor fi sincronizate cu cele din spațiul secundar. Pentru a evita acest lucru, nu activați sincronizarea cu Xiaomi Cloud"</string>
     <string name="multi_user_not_show_sync_activity_title">"Nu activați sincronizarea cu Xiaomi Cloud"</string>
@@ -290,7 +302,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_account_hint_text">Adresă de e-mail/Număr de telefon/ID cont Mi</string>
     <string name="passport_account_identity_title">Verificaţi identitatea dvs.</string>
     <string name="passport_account_label">Cont Mi</string>
-    <string name="passport_account_name">Cont: %1$s</string>
+    <string name="passport_account_name">"Cont: %1$s "</string>
     <string name="passport_account_not_activated">Contul nu a fost activat</string>
     <string name="passport_account_not_actived">Contul dvs. nu a fost activat</string>
     <string name="passport_account_set_password">Setați parola</string>
@@ -507,7 +519,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="passport_wx_bind_account_limit">"Nu se poate crea un cont nou acum. Încercați alte metode de conectare."</string>
     <string name="passport_yes">Da</string>
-    <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="permission_group_contacts">Contacte</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>
