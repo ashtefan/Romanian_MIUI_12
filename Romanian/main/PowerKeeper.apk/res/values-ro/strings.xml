@@ -31,6 +31,7 @@
     <string name="cloud_addr_info">Informații Cloud</string>
     <string name="cloud_china_addr">Actualizați datele serverului din China</string>
     <string name="cloud_international_addr">Actualizați datele serverului internațional</string>
+    <string name="cloud_russion_addr">Actualizați datele serverului din Rusia</string>
     <string name="cloud_staging_addr">Actualizați datele serverului de staționare</string>
     <string name="config_classify">Sortați după setările aplicației</string>
     <string name="config_description">"MIUI poate identifica aplicațiile cu procese specifice de fundal(de ex. aplicațiile de navigare și cele de mesagerie, media playere, etc.), și să aplice economisirea acumulatorului fără a le afecta activitățile importante din fundal."</string>

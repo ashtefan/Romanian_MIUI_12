@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aggregate_entries">
+        <item>Recomandate</item>
+        <item>Importante</item>
+        <item>Neimportante</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI va decide ce notificări ar trebui să fie afișate în mod direct</item>
+        <item>Notificările vor apărea în Perdeaua de notificări</item>
+        <item>Notificările vor apărea într-un dosar separat</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>

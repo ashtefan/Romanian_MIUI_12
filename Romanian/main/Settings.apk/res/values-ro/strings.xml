@@ -335,6 +335,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="advanced_security_title">Avansat</string>
     <string name="advanced_settings">Setări adiționale</string>
     <string name="advanced_settings_summary">Activaţi mai multe opţiuni pentru setări</string>
+    <string name="aggregate_title">Reguli pentru notificările grupate</string>
     <string name="agps_roaming">A-GPS în roaming</string>
     <string name="agps_roaming_dia">Utilizarea A-GPS în roaming poate crește utilizarea datelor mobile. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="agps_roaming_dia_title">Utilizaţi A-GPS în roaming</string>

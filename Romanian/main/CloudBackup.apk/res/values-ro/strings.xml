@@ -16,6 +16,7 @@
     <string name="backup_failed_reason_network_error">Eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
+    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_size">Dimensiune: %s</string>
     <string name="backup_stopped_msg">Copia de rezervă curentă o va suprascrie pe cea anterioară. Atingeți pentru a vedea.</string>
     <string name="backup_stopped_title">Crearea copiei de rezervă a fost oprită</string>
