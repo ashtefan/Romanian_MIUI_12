@@ -183,7 +183,7 @@
     <string name="dialog_sim_locked_confirm">OK</string>
     <string name="dialog_sim_locked_message">"Cartela dvs. SIM nu este complet operațională cu acest telefon întrucât nu respecta termenii și condițiile abonamentului dvs. Dacă aveți întrebări sau aveți nevoie de mai multe informații despre această situație, vă rugăm să contactați centrul de servicii Xiaomi sau magazinul de unde ați cumpărat produsul."</string>
     <string name="dialog_smart_message_privacy_tips">Serviciile de mesagerie inteligentă sunt furnizate parțial de Dianhuabang. Înainte de a utiliza mesageria inteligentă, trebuie să fiți de acord cu \"%1$s\". Mesageria inteligentă trebuie să se conecteze la internet și să acceseze locația pentru a funcționa normal. Sunteți de acord?</string>
-  <string name="dialog_smart_message_privacy_tips_title">Politica de confidențialitate Dianhuabang</string>
+    <string name="dialog_smart_message_privacy_tips_title">Politica de confidențialitate Dianhuabang</string>
     <string name="dialog_title_fake_cell_detect_error">Corectare</string>
     <string name="dialog_title_mx_rcs">Mesageria Mi</string>
     <string name="dialog_title_networking">Termenii și Condițiile</string>

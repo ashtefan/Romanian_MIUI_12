@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="access_deselect">Deselectate %s</string>
+    <string name="access_deselected">Deselectate %s</string>
     <string name="access_select">Selectate %s</string>
-    <string name="access_unselect">Deselectate %s</string>
+    <string name="access_selected">Selectate %s</string>
     <string name="accordingto_position">Recunoaște locurile frecventate utilizând GPS-ul</string>
     <string name="account_address">Adresă</string>
     <string name="add_stock">Adăugați</string>
@@ -78,6 +80,7 @@
     <string name="app_suggest_setting_brief">Primiți sugestii de aplicații și caracteristici pe care este posibil să le utilizați</string>
     <string name="app_suggest_setting_brief_detail">Primiți sugestii de aplicații și caracteristici pe care este posibil să le utilizați</string>
     <string name="app_suggest_setting_title">Sugestii inteligente</string>
+    <string name="app_version_name">"Versiunea Asistentului inteligent: "</string>
     <string name="apps">Recomandări aplicații</string>
     <string name="apps_label">Aplicații</string>
     <string name="arr_airport">Aeroportul de destinație</string>
@@ -290,6 +293,9 @@
     <string name="daily_greeting">Salutări zilnice</string>
     <string name="data_error">A apărut o eroare; așteptați un minut sau două și reîncercați</string>
     <string name="data_error_show">"Comanda este finalizată, nu se pot afișa detalii"</string>
+    <string name="debug_card_brief">Se depanează setările și uneltele</string>
+    <string name="debug_card_detail">Se depanează setările și uneltele</string>
+    <string name="debug_card_title">Se depanează</string>
     <string name="delete">Ștergeți</string>
     <string name="dep_airport">Aeroportul de decolare</string>
     <string name="dep_airport_example">De ex. Otopeni T3</string>
@@ -857,10 +863,12 @@ Verificați numărul de urmărire."</string>
     <string name="miot_device_cancel">Renunțați</string>
     <string name="miot_device_card_title">Dispozitive Mi home</string>
     <string name="miot_device_click_show_detail">Atingeți pentru a afla mai multe despre dispozitivele domestice inteligente.</string>
+    <string name="miot_device_closed">Dispozitivul este oprit</string>
     <string name="miot_device_cta_and"> și </string>
     <string name="miot_device_cta_message">"Adăugați dispozitivele inteligente pentru a le putea controla din Asistentul inteligent. Apăsând butonul \"De acord\" de mai jos, sunteți de acord cu "</string>
     <string name="miot_device_cta_priv">Politica de Confidențialitate.</string>
     <string name="miot_device_cta_use_info">Acordul Utilizatorului Mi Home</string>
+    <string name="miot_device_disabled">Nu se poate controla acest dispozitiv acum</string>
     <string name="miot_device_edit">Editați</string>
     <string name="miot_device_edit_device">Rearanjați dispozitivele</string>
     <string name="miot_device_empty_text">Adăugați un purificator de aer, o cameră video, un aspirator inteligent și alte dispozitive inteligente pentru a le controla după cum doriți.</string>
@@ -873,6 +881,7 @@ Verificați numărul de urmărire."</string>
     <string name="miot_device_mijia_uninstall_message">Aplicația Mi Home nu este instalată. Doriți să o descărcați din magazinul de aplicații?</string>
     <string name="miot_device_mijia_uninstall_title">Neinstalată</string>
     <string name="miot_device_network_error">Fără conexiune</string>
+    <string name="miot_device_opening">Dispozitivul este pornit</string>
     <string name="miot_more_device">Mai multe dispozitive</string>
     <string name="miot_nearby_device">Dispozitive conectate din apropiere</string>
     <string name="miot_not_warn">Ignorați acest avertisment</string>
@@ -1290,6 +1299,7 @@ Verificați numărul de urmărire."</string>
     <string name="trip_assistant_all_btn">Toate călătoriile</string>
     <string name="trip_profession">Mașină premium</string>
     <string name="trip_quick">Șofer</string>
+    <string name="trip_required_info">Obligatoriu</string>
     <string name="trip_taxi">Taxi</string>
     <string name="try_again">Încercați din nou</string>
     <string name="understandassistant">Despre Asistentul inteligent</string>

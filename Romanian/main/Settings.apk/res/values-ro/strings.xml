@@ -5265,6 +5265,8 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="retry">Încercați din nou</string>
     <string name="rgb_manage_facerecoginition_text">Gestionați datele faciale 2D</string>
     <string name="right_function_key">Scurtătura din dreapta</string>
+    <string name="ring_to_you">Sunet de apel personalizat</string>
+    <string name="ring_to_you_info">Setați un sunet de apel personalizat pe care alte persoane îl vor auzi înainte de a prelua apelul</string>
     <string name="ring_volume_option_title">Volum sonerie</string>
     <string name="ring_volume_title">Volum sonerie</string>
     <string name="ringtone_slot_setting_title">Setări SIM unic</string>

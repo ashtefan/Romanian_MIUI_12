@@ -223,6 +223,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">adăugare mesaje vocale</string>
     <string name="HIPS_Perm_background_start_activity">Afișează ferestre pop-up în timp ce rulează în fundal</string>
     <string name="HIPS_Perm_background_start_activity_Desc">afișare de ferestre pop-up în timp ce rulează în fundal</string>
+    <string name="HIPS_Perm_clipboard">Clipboard</string>
+    <string name="HIPS_Perm_clipboard_Desc">Accesare și modificare conținut din clipboard</string>
     <string name="HIPS_Perm_deamon_notification">Notificare permanentă</string>
     <string name="HIPS_Perm_deamon_notification_Desc">afișează notificările permanente</string>
     <string name="HIPS_Perm_get_accounts">Accesare conturi de pe telefon</string>
@@ -292,10 +294,11 @@
     <string name="grant_dialog_button_allow_always">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_background">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_foreground">Permiteți doar când se utilizează aplicația</string>
+    <string name="grant_dialog_button_allow_onetime">Permiteți data aceasta</string>
     <string name="grant_dialog_button_deny">Revoc</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Refuză și nu mai întreba din nou"</string>
     <string name="grant_dialog_button_deny_background">Doar pe durata utilizării aplicației</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Refuză și nu mai întreba din nou</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Permiteți doar când se utilizează aplicația și nu mai întreba din nou</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="never_ask_again">Nu mai întreba din nou după restricționare</string>
