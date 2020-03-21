@@ -185,6 +185,10 @@
     <string name="app_behavior_desc_deny_once">Restricționat la %1$s</string>
     <string name="app_behavior_door">Comportamentul aplicațiilor</string>
     <string name="app_behavior_header_time">dd MMMM</string>
+    <string name="app_behavior_key_audio">Înregistrare sunete audio</string>
+    <string name="app_behavior_key_camera">Cameră</string>
+    <string name="app_behavior_key_location">Locație</string>
+    <string name="app_behavior_key_protect">Protejare informații private</string>
     <string name="app_behavior_list_load_more">Se încarcă…</string>
     <string name="app_behavior_location">%1s v-a accesat locația</string>
     <string name="app_behavior_location_bg">%1s v-a accesat locația în fundal</string>
@@ -199,6 +203,12 @@
     <string name="app_behavior_monitor_tips_key">Notificări despre acțiunile senzitive</string>
     <string name="app_behavior_monitor_tips_summary">Puteți primi notificări când aplicațiile înregistrează sunete, vă accesează locația sau când realizează alte acțiuni senzitive în fundal.</string>
     <string name="app_behavior_no_recorder">Nu s-au găsit rezultate</string>
+    <string name="app_behavior_notification_audio_now_one">%1s înregistrează sunete audio</string>
+    <string name="app_behavior_notification_audio_now_two">%1s și încă o aplicație înregistrează sunete audio</string>
+    <string name="app_behavior_notification_camera_one">%1s utilizează camera foto</string>
+    <string name="app_behavior_notification_camera_two">%1s și încă o aplicație utilizează camera foto</string>
+    <string name="app_behavior_notification_location_one">%1s vă accesează locația</string>
+    <string name="app_behavior_notification_location_two">%1s și încă o aplicație vă accesează locația</string>
     <string name="app_behavior_notification_title_calllog_read">%1s a accesat istoricul de apelare în fundal</string>
     <string name="app_behavior_notification_title_calllog_write">%1s a editat istoricul de apelare în fundal</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s a accesat clipboardul în fundal</string>
@@ -228,6 +238,10 @@
     <string name="app_behavior_search">Căutați</string>
     <string name="app_behavior_sensor">%1s a accesat datele senzorilor</string>
     <string name="app_behavior_sensor_single">Această aplicație a accesat datele senzorilor</string>
+    <string name="app_behavior_settings_category_perm">Memento utilizare permisiuni</string>
+    <string name="app_behavior_settings_category_privacy">Protecție informații private</string>
+    <string name="app_behavior_settings_perm_tips">Afișează o notificare în bara de stare atunci când aplicația utilizează una din aceste permisiuni:</string>
+    <string name="app_behavior_settings_privacy_tips">Afișează o notificare atunci când aplicația citește/scrie informații sensibile în fundal (contactele, istoricul de apelare, etc.)</string>
     <string name="app_behavior_sms_read">%1s v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_read_single">Această aplicație v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_send">%1s a trimis un mesaj SMS</string>
@@ -1847,6 +1861,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_masked_subtitle">Utilizați Blocarea aplicațiilor pentru a ascunde conținutul notificărilor pentru aplicațiile selectate</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notify_channel_mipush">Mesaje push de securitate</string>
+    <string name="notify_channel_name_behavior">Comportamentul aplicației</string>
     <string name="notify_channel_name_security">Securitate sistem</string>
     <string name="notify_channel_optimize">Notificări de securitate</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
