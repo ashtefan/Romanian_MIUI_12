@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="action_folder_description">Vedeți dosarele</string>
     <string name="action_mode_switcher_grid_description">Vedere tip grilă</string>
     <string name="action_mode_switcher_list_description">Vedere tip listă</string>
@@ -36,11 +63,14 @@
     <string name="cloud_trash_bin_title">Notițe din cloud șterse</string>
     <string name="confirm_cancel">"Nu sunt de acord"</string>
     <string name="confirm_ok">De acord</string>
+    <string name="copy">Copiați</string>
     <string name="cta_confirm_cancel">"Nu permiteți"</string>
     <string name="cta_confirm_ok">Permiteți</string>
     <string name="cta_dialog_message">Aplicația de Notițe necesită permisiunile de conectare la internet, înregistrare audio și acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
     <string name="cta_dialog_title">Permisiuni necesare</string>
     <string name="cta_reminder">Aplicația de Notițe trebuie să aibă permisiunea de a se conecta la internet, de înregistrare audio și de acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
+    <string name="data_empty_note">Nicio notiță aici deocamdată</string>
+    <string name="data_empty_todo">Nicio sarcină aici deocamdată</string>
     <string name="date_calculate_today">0 zile</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
@@ -90,6 +120,7 @@
     <string name="error_unsupport_content">Această notă include conținut neacceptat; apăsați aici pentru actualizare</string>
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="exceed_todo_text_limitation">Descrierea sarcinii este prea lungă.</string>
+    <string name="expand_button_title">Avansate</string>
     <string name="first_enter_custom_folder_hint">Puteți redenumi sau șterge dosarele aici</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
@@ -137,6 +168,7 @@
     <string name="new_audio_create_guide_tip">Apăsați și mențineți apăsat pentru a crea o notiță vocală</string>
     <string name="new_audio_create_talkback_des">Atingeți pentru a crea o notiță text. Apăsați și mențineți apăsat pentru a crea o notiță vocală. Eliberați butonul pentru a opri înregistrarea și a crea o notiță sau glisați în sus pentru a anula.</string>
     <string name="not_now">Nu acum</string>
+    <string name="not_set">Nesetat</string>
     <string name="note_description_content">Aplicația Note este o unealtă utilă pentru a vă înregistra ideile. Incorporează funcția de memento și vă sincronizează elementele în cloud pentru a le putea accesa de oriunde, oricând. Asigurați-vă că puteți trăi fără aceste caracterisitici înainte de a șterge aplicația.</string>
     <string name="note_description_title">Despre aplicația Note</string>
     <string name="note_link_email">Trimiteţi e-mail</string>
@@ -172,6 +204,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Ștergere utilizând gesturi</string>
     <string name="pref_title_todo_float_mode">Utilizați setul de instrumente</string>
     <string name="pref_title_todo_shorcut">Set de instrumente</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_note_content_empty">Nu există elemente aici.</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
@@ -185,6 +218,9 @@
     <string name="repeat_mode_month">În fiecare lună</string>
     <string name="repeat_mode_normal_workday">De luni până vineri</string>
     <string name="repeat_mode_set_item_day">În fiecare zi</string>
+  <string name="repeat_mode_set_item_month">每月（%s）</string>
+  <string name="repeat_mode_set_item_month_detail">每月%s</string>
+  <string name="repeat_mode_set_item_month_detail_day">d日</string>
     <string name="repeat_mode_set_item_month_detail_lastday">În ultima zi a fiecărei luni</string>
     <string name="repeat_mode_set_item_month_global">În fiecare lună (aceeași dată)</string>
     <string name="repeat_mode_set_item_none">Niciodată</string>
@@ -212,6 +248,7 @@
     <string name="search_hint">Căutaţi note</string>
     <string name="search_keyword_notes">Note;Memento</string>
     <string name="search_label">Căutare…</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_path_notes">Aplicații de sistem/Note</string>
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
@@ -236,6 +273,7 @@
     <string name="sns_title_send">Trimiteţi mesaj</string>
     <string name="sns_toast_empty">"Nu se poate trimite o postare fără conținut"</string>
     <string name="sns_toast_over_limit">Trimis ca imagine</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele în cloud.</string>
     <string name="theme_blue_description">Albastru</string>
     <string name="theme_green_description">Verde</string>
@@ -347,6 +385,8 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="unclassfied_folder_name">Necategorisit</string>
     <string name="undo">Anulaţi</string>
     <string name="unknown_source">Sursă necunoscută</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="welcome_note_for_cm">"Și multe alte caracteristici!
   - Sincronizare cu Mi Cloud
  

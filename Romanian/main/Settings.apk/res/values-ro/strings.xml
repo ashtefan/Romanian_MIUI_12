@@ -1100,8 +1100,8 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Selectați numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_max_connected_audio_devices_string">Numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_menu_advanced">Avansate</string>
-    <string name="bluetooth_mi_fast_connect">Mi Link</string>
-    <string name="bluetooth_mi_fast_connect_summary">Conectați-vă la dispozitivele Bluetooth din apropiere</string>
+    <string name="bluetooth_mi_fast_connect">Asociați dispozitivele compatibile</string>
+    <string name="bluetooth_mi_fast_connect_summary">Conectați-vă la dispozitivele din apropiere utilizând un proces simplificat de asociere</string>
   <string name="bluetooth_middle_name">Caz</string>
     <string name="bluetooth_name_not_set">Nu a fost setat niciun nume, se utilizează numele contului</string>
     <string name="bluetooth_no_devices_found">Nu există disp. Bluetooth în apropiere.</string>

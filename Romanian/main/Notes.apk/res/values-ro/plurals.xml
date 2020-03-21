@@ -16,6 +16,10 @@
         <item quantity="other">Cu %1$d zile înainte</item>
         <item quantity="one">Cu %1$d zi înainte</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s dosare</item>
+        <item quantity="one">%1$s dosar</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">S-au eliminat %1$s notițe din dosar</item>
         <item quantity="one">S-a eliminat %1$s notiță din dosar</item>
@@ -23,6 +27,10 @@
     <plurals name="format_move_notes_to_folder">
         <item quantity="other">S-au mutat %1$s notițe în %2$s</item>
         <item quantity="one">S-a mutat %1$s notiță în %2$s</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notițe</item>
+        <item quantity="one">%1$s notiță</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d secunde rămase</item>
@@ -56,10 +64,6 @@
         <item quantity="other">În %1$d zile</item>
         <item quantity="one">În %1$d zi</item>
     </plurals>
-    <plurals name="word_count">
-        <item quantity="other">%d caractere</item>
-        <item quantity="one">%d caracter</item>
-    </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s dosare</item>
         <item quantity="one">%1$s dosar</item>
@@ -67,5 +71,9 @@
     <plurals name="note_terms">
         <item quantity="other">%1$s notițe</item>
         <item quantity="one">%1$s notiță</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d caractere</item>
+        <item quantity="one">%d caracter</item>
     </plurals>
 </resources>
