@@ -550,7 +550,6 @@ Pentru activarea contului, deschideți
     <string name="passport_no">Nu</string>
     <string name="passport_notification_title">Eroare de conectare la %1$s</string>
     <string name="passport_password_phone_login">Conectați-vă utilizând contul Mi</string>
-    <string name="passport_password_req_notice">Parola trebuie să conțină 8-16 caractere și să conțină atât litere cât și cifre (se face diferența între literele mici și cele mari).</string>
     <string name="passport_phone_num_hint_text">Numărul de telefon</string>
     <string name="passport_phone_ticket_login">Conectați-vă prin SMS</string>
     <string name="passport_prev">Înapoi</string>

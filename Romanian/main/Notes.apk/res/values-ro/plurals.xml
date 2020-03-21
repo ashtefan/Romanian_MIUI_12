@@ -64,14 +64,6 @@
         <item quantity="other">În %1$d zile</item>
         <item quantity="one">În %1$d zi</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s dosare</item>
-        <item quantity="one">%1$s dosar</item>
-    </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s notițe</item>
-        <item quantity="one">%1$s notiță</item>
-    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d caractere</item>
         <item quantity="one">%d caracter</item>

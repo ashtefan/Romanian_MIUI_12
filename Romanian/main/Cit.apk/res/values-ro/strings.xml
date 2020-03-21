@@ -316,7 +316,6 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
     <string name="cit_nfc_check_enable_tip">Mediu de Testare Inițială pentru NFC</string>
     <string name="cit_nfc_check_summary">"Vă rugăm să apăsați butonul pentru a iniția NFC-ul, iar apoi puneți cardul în partea de sus a spatelui telefonului. 
 Nu opriți ecranul pe durata testului"</string>
-    <string name="cit_nfc_check_summary">Vă rugăm să apăsați butonul pentru a iniția NFC-ul și apoi poziționați cardul în partea superioară a spatelui telefonului</string>
     <string name="cit_nfc_check_tip">poziționați cardul în partea superioară a spatelui telefonului</string>
   <string name="cit_nfc_check_title">Test NFC</string>
   <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
