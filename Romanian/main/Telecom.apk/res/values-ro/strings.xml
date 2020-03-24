@@ -397,6 +397,7 @@ Sample Rate"</string>
     <string name="voice_dial_out">Apel vocal</string>
     <string name="voice_report_incoming_call">Apelare</string>
     <string name="voice_report_unknown_num">Număr necunoscut</string>
+    <string name="volume_boost_text">Volum amplificat cu succes</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt disponibile pentru acest utilizator</string>
     <string name="wait_for_debugger">Așteaptă depanarea</string>
     <string name="wait_for_debugger_summary">Se așteaptă modulul de depanare înainte de lansarea aplicației</string>

@@ -530,6 +530,7 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Puteți selecta calitatea imaginilor descărcate sau dezactiva descărcarea automată din Setări.</string>
     <string name="downloading_title">Se descarcă fotografiile din Xiaomi Cloud</string>
+    <string name="downloading_title_file">Se descarcă fotografiile din Xiaomi Cloud…</string>
     <string name="drag_view_tip_sub_title">Atingeți și mențineți apăsat un album pentru a-l reordona</string>
     <string name="drag_view_tip_title">Reordonați albumele</string>
   <string name="dump_db_info">Informații despre baza de date de descărcare</string>
@@ -1862,6 +1863,7 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_back_dialog_exit_cancel">Renunțați</string>
     <string name="vlog_bottom_view_back">Înapoi</string>
     <string name="vlog_bottom_view_edit">Editați</string>
+    <string name="vlog_bottom_view_exit">Ieșiți</string>
     <string name="vlog_bottom_view_save">Salvați</string>
     <string name="vlog_cancel_download">Renunțați</string>
     <string name="vlog_caption">Text</string>

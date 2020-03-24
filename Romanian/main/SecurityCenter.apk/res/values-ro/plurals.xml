@@ -13,16 +13,16 @@
         <item quantity="one">Restricționată %3$d dată între %1$s și %2$s</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">%1$s și încă %2$d aplicații înregistrează sunete audio</item>
-        <item quantity="one">%1$s înregistrează sunete audio</item>
+        <item quantity="other">%2$d aplicații, inclusiv %1$1s înregistrează sunete audio</item>
+        <item quantity="one">%2$d aplicație, inclusiv %1$1s înregistrează sunete audio</item>
     </plurals>
     <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">%1$s și încă %2$d aplicații utilizează camera foto</item>
-        <item quantity="one">%1$s utilizează camera foto</item>
+        <item quantity="other">%2$d aplicații, inclusiv %1$1s realizează fotografii</item>
+        <item quantity="one">%2$d aplicație, inclusiv %1$1s realizează fotografii</item>
     </plurals>
     <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">%1$s și încă %2$d aplicații vă accesează locația</item>
-        <item quantity="one">%1$s vă accesează locația</item>
+        <item quantity="other">%2$d aplicații, inclusiv %1$1s vă accesează locația</item>
+        <item quantity="one">%2$d aplicație, inclusiv %1$1s vă accesează locația</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
         <item quantity="other">Nu veți fi notificat despre acțiunile senzitive realizate de %1$d aplicații</item>

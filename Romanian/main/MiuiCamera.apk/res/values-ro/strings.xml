@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="access_sd_fail">Nu s-a putut accesa cardul SD.</string>
     <string name="accessibility_ai_scene_off">AI camera este oprită</string>
     <string name="accessibility_ai_scene_on">AI camera este pornită</string>
@@ -31,6 +58,9 @@
     <string name="accessibility_camera_video_fps_30">30 fps</string>
     <string name="accessibility_closed">Dezactivat</string>
     <string name="accessibility_effect_mode_button">Buton efecte</string>
+    <string name="accessibility_eis_normal">EIS este pornit</string>
+    <string name="accessibility_eis_off">EIS este oprit</string>
+    <string name="accessibility_eis_pro">EIS Pro este pornit</string>
     <string name="accessibility_filter_close_panel">Meniul de filtrare închis</string>
     <string name="accessibility_filter_open_panel">Meniul de filtrare deschis</string>
     <string name="accessibility_filter_pad_close">Meniul de filtrare este ascuns</string>
@@ -90,6 +120,7 @@
     <string name="auxiliary_exposure_feedback_status">Verificarea expunerii este activă</string>
     <string name="auxiliary_focus_peak_status">Concentrarea focalizării este activă</string>
     <string name="back_bokeh_use_hint">Mențineți subiectul la mai puțin de 1,5 metri pentru a obține cele mai bune efecte</string>
+    <string name="background">Fundal</string>
     <string name="beauty_body">Siluetă</string>
     <string name="beauty_body_body">Subțire</string>
     <string name="beauty_body_head">Cap</string>
@@ -223,6 +254,7 @@ documentele scanate în mod automat"</string>
     <string name="edit_skin_white">Ton</string>
     <string name="edit_slim_nose">Nas</string>
     <string name="edit_smile">Zâmbet</string>
+    <string name="emoticon">Pachet de etichete</string>
     <string name="error_fail_to_start_audio_capture">Nu se poate porni înregistrarea vocală</string>
     <string name="eye_light">Scânteierea ochilor</string>
     <string name="eye_light_angel">Înger</string>
@@ -368,6 +400,9 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_check_no_face">Nu s-a putut detecta chipul</string>
     <string name="mimoji_check_normal">Atingeți butonul de declanșare</string>
     <string name="mimoji_confirm">OK</string>
+    <string name="mimoji_create_emoticon">Creați un pachet de etichete</string>
+    <string name="mimoji_create_emoticon_error">Nu s-a putut crea pachetul de etichete</string>
+    <string name="mimoji_create_emoticon_progress">Se crează pachetul de etichete…</string>
     <string name="mimoji_create_tips">Priviți drept în cameră pentru a vă crea un Mimoji</string>
     <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Ștergeți&lt;/font&gt;</string>
     <string name="mimoji_delete_dialog_title">Ștergeți Mimoji-ul?</string>
@@ -391,6 +426,8 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_edit_cancel_alert">Toate modificările vor fi anulate. Renunțați oricum?</string>
     <string name="mimoji_edit_mimoji">Editați Mimoji-ul</string>
     <string name="mimoji_editor">Editați</string>
+    <string name="mimoji_emoticon_save">Salvați pachetul de etichete</string>
+    <string name="mimoji_emoticon_with_jpeg_save">Salvați și imaginile, de asemenea</string>
     <string name="mimoji_eye">Ochi</string>
     <string name="mimoji_eye_shape">Forma ochilor</string>
     <string name="mimoji_eyebrow">Sprâncene</string>
@@ -400,6 +437,12 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_featured_face">Chip</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Pistrui</string>
+    <string name="mimoji_gif_accelerate">Viteză</string>
+    <string name="mimoji_gif_clear_bg">Eliminați fundalul</string>
+    <string name="mimoji_gif_edit_hint">Atingeți pentru a adăuga text</string>
+    <string name="mimoji_gif_edit_title">Editați GIF-ul</string>
+    <string name="mimoji_gif_record_time_short">Videoclipul înregistrat este prea scurt</string>
+    <string name="mimoji_gif_reverse">Inversați</string>
     <string name="mimoji_hairstyle">Păr</string>
     <string name="mimoji_headwear">Pălării</string>
     <string name="mimoji_mole">Alunițe</string>
@@ -413,7 +456,9 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_recapture_alert">Toate modificările vor fi anulate odată ce veți relua. Reluați oricum?</string>
     <string name="mimoji_reset">Resetați</string>
     <string name="mimoji_save">Salvați</string>
+    <string name="mimoji_save_finish">Finalizat</string>
     <string name="mimoji_save_success">Salvat cu succes</string>
+    <string name="mimoji_select_number_error">Selectați cel puțin %d element</string>
     <string name="mimoji_selected">Selectați</string>
     <string name="mimoji_start_create">Se crează Mimoji-ul…</string>
     <string name="mimoji_tips">Atingeți pentru a face o fotografie. Atingeți și mențineți apăsat pentru a înregistra un videoclip.</string>
@@ -442,6 +487,7 @@ să pară mai mari în fotografii"</string>
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Stocarea internă este plină</string>
     <string name="object_track_enable_toast">Pentru a selcta un obiect, apăsați simultan două puncte de pe diagonala conturului.</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">Această funcție nu poate fi utilizată în modul Ecrane multiple</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_prefix">PANO_</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Aliniați săgeata cu linia de referință</string>
@@ -533,6 +579,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Încercați modul Portret.
 Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_960_watermark_title">Amprentă 960fps</string>
+    <string name="pref_advance_settings">Setări adiționale</string>
     <string name="pref_ai_detect">Detecție AI</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
@@ -596,6 +643,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_device_watermark_title">Amprenta dispozitivului pe fotografie</string>
     <string name="pref_camera_dual_enable_title">Activați camera duală</string>
     <string name="pref_camera_dual_sat_enable_title">Activați camera duală SAT</string>
+    <string name="pref_camera_eis_entry_normal">EIS</string>
+    <string name="pref_camera_eis_entry_off">Oprit</string>
+    <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+    <string name="pref_camera_eis_title">EIS</string>
     <string name="pref_camera_exposuretime_entry_0_3">0,3s</string>
     <string name="pref_camera_exposuretime_entry_0_4">0,4s</string>
     <string name="pref_camera_exposuretime_entry_0_5">0,5s</string>
@@ -940,6 +991,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
     <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
@@ -968,6 +1020,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_watermark_on">Activ</string>
     <string name="pref_watermark_title">Amprentă fotografie</string>
     <string name="preparing_sd">Verificare card SD…</string>
+    <string name="preview_back_pressed_hint">Apăsați din nou pentru a reveni la previzualizare</string>
     <string name="pro_color_mode">Culori Pro</string>
     <string name="recommend_macro_mode">Încercați modul Macro</string>
     <string name="recommend_portrait">Încercați modul Portret</string>
@@ -978,8 +1031,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="reset_manually_parameter_hint">Resetați</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracteristică, apăsați simultan butoanele de creștere a volumului și Înapoi.</string>
     <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_settings">Setări cameră;Calitate;Calitatea imaginii;Localizare fotografie;Localizare imagine;Detectare față;Sunete cameră</string>
     <string name="see_qrcode_detals">Vizualizaţi detaliile codului QR</string>
+    <string name="share">Partajați</string>
     <string name="simple_mode_button_asd_flash">Dezactivaţi captarea cu bliţ</string>
     <string name="simple_mode_button_asd_hdr">Dezactivaţi captarea HDR</string>
     <string name="simple_mode_button_text_audio_capture">Dezactivaţi declanşarea prin voce</string>
@@ -1003,12 +1058,16 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="snap_confirmed">Înlocuiți</string>
     <string name="spaceIsLow_content_external_storage_priority">Nu mai există spațiu de stocare pe cardul SD</string>
     <string name="spaceIsLow_content_primary_storage_priority">Nu mai există spațiu liber pe stocarea USB</string>
+    <string name="speech_shutter_open_tip">Rostiți \"拍照\" sau \"茄子\" pentru a realiza o fotografie</string>
+    <string name="speech_shutter_tip">Declanșare vocală</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Drăguț</string>
     <string name="sticker_tab2">Comic</string>
     <string name="subtitle_network_exception_tips">Nu s-a putut conecta la rețea. Nu se poate transcrie acum.</string>
     <string name="super_eis">Videoclip stabilizat</string>
     <string name="super_eis_disabled_hint">Stabilizarea videoclipului este oprită</string>
+    <string name="super_eis_pro">Înregistrare video stabilă Pro</string>
+    <string name="super_eis_pro_disabled_hint">Înregistrarea video stabilă Pro este oprită</string>
     <string name="super_night_hint">Se optimizează imaginea… Mențineți telefonul nemișcat.</string>
     <string name="super_night_se_tip">Mod Noapte</string>
     <string name="super_night_toast">Mențineți telefonul drept cât timp fotografiați</string>
@@ -1016,6 +1075,13 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="tap_to_focus">Atingeţi pentru focusare</string>
     <string name="text_ai_scene_selector_text_off">CONTRA-LUMINII</string>
     <string name="text_ai_scene_selector_text_on">SILUETĂ</string>
+    <string name="timbre">Voce</string>
+    <string name="timbre_baby">Copil</string>
+    <string name="timbre_gentlemen">Domn</string>
+    <string name="timbre_girl">Fată</string>
+    <string name="timbre_lady">Doamnă</string>
+    <string name="timbre_normal">Original</string>
+    <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">"Nu se poate utiliza această dimensiune video pentru înregistrarea în intervale de timp"</string>
     <string name="title_snap_double_confirm">Confirmați din nou</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
@@ -1047,6 +1113,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="ultra_wide_open_tip_sat">0.6X unghi foarte larg</string>
     <string name="ultra_wide_recommend_tip_hint">Încercați modul unghi foarte larg</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Comutați la modul 0.6X unghi foarte larg</string>
+    <string name="unknow_error">Eroare necunoscută</string>
     <string name="user_agree">De acord</string>
     <string name="user_define_watermark_cancel">Renunțați</string>
     <string name="user_define_watermark_save">Salvați</string>

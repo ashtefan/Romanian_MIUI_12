@@ -49,6 +49,7 @@
     <string name="disconnect">Deconectați</string>
     <string name="expand_button_title">Avansat</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
+    <string name="fast_connect_bt_speaker2_name">Boxă portabilă bluetooth MI Speaker 2</string>
     <string name="fast_connect_device_battery">Acumulator</string>
     <string name="fast_connect_device_box">Decodor</string>
     <string name="fast_connect_device_box_name">Decodor %1$s</string>
