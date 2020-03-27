@@ -5340,6 +5340,9 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_confirm">Porniți</string>
     <string name="screen_dark_mode_advanced_title">Avansat</string>
     <string name="screen_dark_mode_select_time_error_summary">Ora de început și ora de sfârșit nu pot fi aceleași</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicații terțe părți</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Unele aplicații ar putea fi afișate incorect în modul Întunecat. Puteți restricționa utilizarea modului Întunecat pentru aplicații individuale aici.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicații individuale</string>
     <string name="screen_dark_mode_smart_dark_summary">Aplicați modul întunecat și aplicațiilor terțe. Unele aplicații ar putea fi afișate necorespunzător.</string>
     <string name="screen_dark_mode_smart_dark_title">Mod întunecat global</string>
     <string name="screen_dark_mode_time_title">Program</string>

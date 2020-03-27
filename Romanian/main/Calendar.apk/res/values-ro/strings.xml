@@ -76,7 +76,7 @@
     <string name="anniversary_event_title">Aniversare: %1$s</string>
     <string name="anniversary_secondary_tag">Aniversare</string>
     <string name="app_label">Calendar</string>
-    <string name="app_name">comun</string>
+  <string name="app_name">recyclerview-animator</string>
     <string name="birthday_born">Data nașterii</string>
     <string name="birthday_calendar_display_name">Memento zile de naştere</string>
     <string name="birthday_event_description_a_week_ago">Cu o săptămână în urmă</string>
@@ -389,6 +389,14 @@
     <string name="miuishare_wechat_timeline_title">Momente WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">nu există date</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">nu fă asta?</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">se reîmprospătează</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="modify_all">Modificaţi toate evenimentele din serie</string>
     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare</string>
     <string name="modify_event">Modificaţi doar acest eveniment</string>
@@ -408,6 +416,7 @@
     <string name="monthly">Lunar</string>
     <string name="monthly_on_day">Lunar (la aceeași dată)</string>
     <string name="monthly_on_day_count">Lunar (%1$s)</string>
+  <string name="more_events">+%d</string>
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$d</string>
     <string name="movie_event_delete_successfully">Bilet de film șters cu succes</string>
@@ -495,6 +504,12 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
+    <string name="productivity_add_event">Creați evenimentul</string>
+    <string name="productivity_cannot_move_event">Nu se poate muta acest eveniment</string>
+    <string name="productivity_move_event_failed">Nu se poate muta acest eveniment pe dd MMMM, yyyy</string>
+    <string name="productivity_move_event_hint">Apăsați și mențineți un eveniment pentru a-l muta în altă dată</string>
+    <string name="productivity_move_event_success">Acest eveniment a fost mutat pe dd MMMM, yyyy</string>
+    <string name="productivity_no_event">Niciun eveniment planificat pentru astăzi</string>
     <string name="pull_to_refresh_hint">Glisați în jos pentru a încărca evenimentele de la %1$d</string>
   <string name="recommend_card_add">Abonează-te acum</string>
   <string name="recommend_card_adding">abonamentele</string>

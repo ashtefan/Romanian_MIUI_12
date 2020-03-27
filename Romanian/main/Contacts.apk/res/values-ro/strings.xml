@@ -41,6 +41,7 @@
     <string name="all_list_empty">Niciun contact</string>
     <string name="antispam_mark_my_contribution">Se afişează altor utilizatori că am etichetat acest număr</string>
     <string name="antispam_provider_format">Marcat ca spam de către %s</string>
+  <string name="app_name">SpringBack</string>
     <string name="attach_photo_dialog_title">Fotografie de contact din agendă</string>
     <string name="audio_chat">Chat vocal</string>
     <string name="auto_nickname">Automat</string>
@@ -67,7 +68,7 @@
     <string name="callAgain">Apelaţi din nou</string>
     <string name="callBack">Apelaţi înapoi</string>
     <string name="callDetailTitle">Detaliile apelului</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min și %s sec</string>
+    <string name="callDetailsDurationFormat">%1$s min și %2$s sec</string>
     <string name="callShortcutActivityTitle">Selectaţi un număr pentru apelare</string>
     <string name="call_assistant">Apelaţi %s</string>
     <string name="call_callback">Apelaţi un număr cu apelare inversă</string>
@@ -394,17 +395,17 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_paired_dialog_title">Preluare contacte…</string>
     <string name="device_pairing_dialog_message">Asociere…</string>
     <string name="device_pairing_dialog_title">Asociaţi dispozitivele</string>
-    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activați Bluetooth-ul pe celălalt dispozitiv.
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Activați Bluetooth-ul pe celălalt dispozitiv.
 
 - Pe telefoanele cu Android funcția Bluetooth se găsește de regulă în secțiunea Rețele mobile.
 - Pe telefoanele cu iOS funcția Bluetooth se găsește în Setări.
 
-%d. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea Mod Detectare.
+%2$d. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea Mod Detectare.
 
-%d. Apăsați \"Următorul\" și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Salvați contactele de pe celălalt telefon pe cartela SIM;
+%3$d. Apăsați \"Următorul\" și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Salvați contactele de pe celălalt telefon pe cartela SIM;
 
-%d. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați toate contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
+%2$d. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați toate contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
     <string name="device_version_header_bluetooth">Importați contactele prin Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cartela SIM</string>
     <string name="dial">Apelaţi</string>
@@ -486,13 +487,13 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
 Motivul: \"%s\""</string>
     <string name="exporting_contact_failed_title">Nu s-a putut exporta</string>
     <string name="exporting_contact_list_message">Se exportă la %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s din %s contacte din agendă</string>
+    <string name="exporting_contact_list_progress">%1$s din %2$s contacte</string>
     <string name="exporting_contact_list_title">Se exportă datele contactelor din agendă</string>
     <string name="exporting_vcard_canceled_title">Exportul %s a fost anulat.</string>
     <string name="exporting_vcard_finished_title">S-a finalizat exportul %s.</string>
     <string name="external_profile_title">Profilul meu %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Nu s-a putut iniţializa instrumentul de export: \"%s\"</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Nu s-a putut deschide fişierul \"%s\": %s.</string>
+    <string name="fail_reason_could_not_open_file">Nu s-a putut deschide \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">A apărut o eroare în timpul exportului: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Nu s-au putut colecta metainformaţiile pentru fişierele vCard indicate.</string>
     <string name="fail_reason_failed_to_read_files">Unul sau mai multe fişiere nu s-au putut importa (%s).</string>
@@ -751,6 +752,14 @@ Motivul: \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_title">Actualizare fotografie de profil</string>
     <string name="missing_name">(Fără nume)</string>
     <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">nu există date</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">nu fă asta?</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">se reîmprospătează</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="mobile_equipment_identification">Identificare Echipament Mobil</string>
     <string name="more_call_logs">Ascultați toate înregistrările apelurilor accesând &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
     <string name="move_and_resize">Mutaţi şi redimensionaţi</string>
@@ -759,6 +768,7 @@ Motivul: \"%s\""</string>
     <string name="multi_number_menu_group">Grup nou</string>
     <string name="multi_number_menu_message">Mesaj</string>
     <string name="multi_number_title">Apel conferință</string>
+    <string name="multi_select">Selectați</string>
     <string name="multipleContactDeleteConfirmation">Ştergerea acestui contact din agendă va elimina informaţii din mai multe conturi.</string>
     <string name="my_phone_not_provider_bluetooth">Nu</string>
     <string name="my_phone_provider_bluetooth">Da</string>
@@ -1102,7 +1112,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="simContacts_title">Contactele de pe cartela SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Vizualizaţi capacitatea cartelei SIM</string>
-    <string name="sim_capacity_content" formatted="false">%d total | %d utilizat</string>
+    <string name="sim_capacity_content">%1$d total | %2$d utilizat</string>
     <string name="sim_card_no_free_space_message">Spaţiu insuficient</string>
     <string name="sim_card_no_free_space_title">Cartelă SIM plină</string>
     <string name="sim_contact_existing">Contact existent deja</string>
@@ -1129,8 +1139,8 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="smart_group_company_label">Companie</string>
     <string name="smart_group_company_unavailable">Nicio informație despre companie</string>
     <string name="smart_group_frequency_1">În ultima lună</string>
-    <string name="smart_group_frequency_2" formatted="false">Între %d și %d luni</string>
-    <string name="smart_group_frequency_3" formatted="false">Între %d și %d luni</string>
+    <string name="smart_group_frequency_2">între %1$d și %2$d luni</string>
+    <string name="smart_group_frequency_3">între %1$d și %2$d luni</string>
     <string name="smart_group_frequency_4">Cu mai mult de %d luni în urmă</string>
     <string name="smart_group_frequency_label">Recente</string>
     <string name="smart_group_label">Grupuri inteligente</string>
