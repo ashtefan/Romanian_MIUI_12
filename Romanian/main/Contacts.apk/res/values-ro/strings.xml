@@ -38,6 +38,7 @@
     <string name="aggregation_suggestion_edit_dialog_message">Comutaţi la funcţia de editare a contactului din agendă selectat? Informaţiile introduse până acum vor fi copiate.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Acelaşi nume</string>
     <string name="aggregation_suggestion_join_dialog_message">Asociaţi intrarea curentă din agendă cu intrarea selectată?</string>
+    <string name="ai_calllog_call_record_menu">Înregistrare apeluri AI</string>
     <string name="all_list_empty">Niciun contact</string>
     <string name="antispam_mark_my_contribution">Se afişează altor utilizatori că am etichetat acest număr</string>
     <string name="antispam_provider_format">Marcat ca spam de către %s</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choosed">
+        <item quantity="other">Au fost selectate %1$d elemente</item>
+        <item quantity="one">A fost selectat %1$d element</item>
+    </plurals>
+</resources>

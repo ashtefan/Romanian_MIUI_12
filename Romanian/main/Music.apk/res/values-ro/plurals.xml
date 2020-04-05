@@ -44,6 +44,35 @@ Doriți să vă ajutăm să-l reînnoiți?"</item>
         <item quantity="other">%d melodii similare</item>
         <item quantity="one">%d melodie similară</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comentarii</item>
         <item quantity="one">%d comentariu</item>
@@ -86,6 +115,25 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">%d descărcări gratuite rămase</item>
         <item quantity="one">%d descărcare gratuită rămasă</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
@@ -97,6 +145,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
     <plurals name="notification_download_failed_more">
         <item quantity="other">"Nu s-au putut descărca %1$d elemente"</item>
         <item quantity="one">"Nu s-a putut descărca %1$d element"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d urmăritori</item>

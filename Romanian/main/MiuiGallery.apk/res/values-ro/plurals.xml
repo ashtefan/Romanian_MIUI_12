@@ -27,8 +27,8 @@
         <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Ascundeți aceste fișiere?</item>
-        <item quantity="one">Ascundeți acest fișier?</item>
+        <item quantity="other">Adăugați aceste elemente în albumul privat?</item>
+        <item quantity="one">Adăugați acest element în albumul privat?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">S-au adăugat %d fotografii din Cloud, dezactivați \"Arată doar albumele locale\" pentru a le vedea.</item>
@@ -39,8 +39,8 @@
         <item quantity="one">"%2$d element nu a putut fi adăugat în album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elemente nu au putut fi adăugate în albumul ascuns. %1$s."</item>
-        <item quantity="one">"%2$d element nu a putut fi adăugat în albumul ascuns. %1$s."</item>
+        <item quantity="other">"%2$d elemente nu au putut fi adăugate în albumul privat. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi adăugat în albumul privat. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d zile</item>
@@ -286,6 +286,10 @@
         <item quantity="other">%d fișiere nu sunt încă descărcate. Renunțați oricum?</item>
         <item quantity="one">%d fișier nu este descărcat încă. Renunțați oricum?</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Se descarcă %d fișiere rămase</item>
+        <item quantity="one">Se descarcă %d fișier rămas</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"Nu s-au putut descărca %1$d fotografii, conectați-vă la rețea și reîncercați"</item>
         <item quantity="one">"Nu s-a putut descărca fotografia, conectați-vă la rețea și reîncercați"</item>
@@ -319,13 +323,13 @@
         <item quantity="one">%d fotografie în total</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elemente nu au putut fi eliminate din albumul ascuns. %1$s."</item>
-        <item quantity="one">"%2$d element nu a putut fi eliminat din albumul ascuns. %1$s."</item>
+        <item quantity="other">"%2$d elemente nu au putut fi eliminate din albumul privat. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi eliminat din albumul privat. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">S-au adăugat %1$d fotografii în \"%2$s\" și s-au adăugat în baza de date.</item>
         <item quantity="one">S-a adăugat %1$d fotografie în \"%2$s\" și s-a adăugat în baza de date.</item>
-   </plurals>    
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
         <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\" și s-au adăugat în baza de date.</item>
         <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\" și s-a adăugat în baza de date.</item>

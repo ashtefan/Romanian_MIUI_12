@@ -51,7 +51,6 @@
     <string name="agree_camera_permission">Pentru realizarea de fotografii și înregistrarea de videoclipuri</string>
     <string name="agree_storage_permission">Pentru accesarea fotografiilor și a fișierelor stocate în dispozitiv</string>
     <string name="always">Întotdeauna</string>
-    <string name="amazon_assistant_shopping_title">Căutați pe Amazon</string>
     <string name="app_description_content">Aplicația Scaner vă permite scanarea codurilor QR, a documentelor și a cărților de vizită, etc. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Scaner</string>
     <string name="app_details">Aplicația:</string>
@@ -86,6 +85,7 @@
     <string name="choose_open_code_app">Selectați o aplicație</string>
     <string name="choose_pay_title">Selectați metoda de plată</string>
     <string name="choose_picture">Selectați codul QR</string>
+    <string name="choosed_title">Selectate</string>
     <string name="classesNameNull_toast">Numele clasei nu poate rămâne necompletat</string>
     <string name="classes_canfirmTitle">Confirmați rezultatele și porniți importul</string>
     <string name="classes_company">Importați</string>
@@ -112,10 +112,16 @@
     <string name="copy_text">Copiați textul</string>
     <string name="copy_text_success">Text copiat</string>
     <string name="copy_tracknum">Copiați codul de urmărire</string>
+    <string name="create">Generați codul QR</string>
+    <string name="createFail">Nu s-a putut genera codul QR. Mesajul dvs. este prea lung.</string>
+    <string name="createQRCode_hint">Introduceți textul</string>
+    <string name="createQRCode_save">Salvați</string>
+    <string name="create_again">Reîmprospătați</string>
     <string name="crop_cancel_description">Renunțați</string>
     <string name="crop_done_description">Finalizat</string>
     <string name="crop_title_study">Decupați fotografia</string>
     <string name="crop_title_translation">Selectați textul de tradus</string>
+    <string name="delete">Ștergeți</string>
     <string name="document_color_picture">Color</string>
     <string name="document_color_picture_tip">Convertire la color…</string>
     <string name="document_crop_title">Decupați documentul</string>
@@ -170,7 +176,9 @@
     <string name="food_module_title_food">Calorii</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
+    <string name="history">Istoric</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
+    <string name="importFailed">Nu s-a putut importa</string>
     <string name="import_contact">Importați contactul</string>
     <string name="impunity_declaration_content">"Aplicația Scanner trebuie să poată accesa camera foto și să proceseze imaginile realizate cât timp folosiți aplicația. Nu folosiți aplicația pentru a face fotografii obiectelor care conțin datele dvs. personale. Atingând butonul \"De acord\", acceptați &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Politica de Confidențialitate&lt;/a&gt;&lt;/font&gt; și permiteți aplicației Scaner să se conecteze la internet."</string>
     <string name="impunity_declaration_negative_text">Ieșire</string>
@@ -252,6 +260,11 @@
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
     <string name="request_server_failed">Nu s-a putut conecta la server</string>
+    <string name="saveDone">Salvat cu succes</string>
+    <string name="scanHistory">Istoricul de scanare</string>
+    <string name="scanHistory_close">Dezactivați</string>
+    <string name="scanHistory_isOpen">Porniți salvarea istoricului elementelor scanate?</string>
+    <string name="scanHistory_open">Activați</string>
     <string name="scan_result">Rezultat</string>
     <string name="scan_support_type">WeChat, Alipay, Coduri QR, coduri de bare</string>
     <string name="sdk_not_ready">Pregătire SDK. Încercați din nou mai târziu.</string>
