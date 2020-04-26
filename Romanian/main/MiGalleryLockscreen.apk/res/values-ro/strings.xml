@@ -486,7 +486,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="password_toggle_content_description">Afișați parola</string>
     <string name="permission_account_tip">Accesarea informațiilor despre cont</string>
-    <string name="permission_storage_tip">Accesarea imaginilor din dispozitiv</string>
+    <string name="permission_storage_read_tip">Accesarea fotografiilor stocate în telefon</string>
     <string name="permission_storage_tip">Salvarea elementelor descărcate pe dispozitiv</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat câtorva conturi Mi într-o perioadă scurtă de timp. Încercați să folosiți alt număr de telefon.</string>
     <string name="phone_hint">Numărul de telefon</string>
