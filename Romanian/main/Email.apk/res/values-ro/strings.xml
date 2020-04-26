@@ -472,6 +472,7 @@ Actualizaţi acum?"</string>
     <string name="exchange_name">Corporaţie</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Extindeți detaliile destinatarului</string>
+    <string name="expand_slide">Extindeți bara laterală</string>
     <string name="fail_get_email_message">Nu s-a putut obține mesajul.</string>
     <string name="failed">Nu se poate încărca imaginea</string>
     <string name="failed_parse_eml_file">"Nu s-a putut deschide fișierul EML; vă rugăm încercați din nou"</string>
@@ -566,6 +567,7 @@ Actualizaţi acum?"</string>
     <string name="gmail_server_authorization_deleted">"Nu s-a putut autentifica. Încercați din nou să adăugați contul."</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Conectaţi-vă la Gmail</string>
+    <string name="go_to_mail_content">Vedeți e-mailurile</string>
     <string name="have_auth_code">Am un cod</string>
     <string name="header_category_account">Conturi</string>
     <string name="header_category_other">Feedback</string>
@@ -747,6 +749,7 @@ Actualizaţi acum?"</string>
     <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
     <string name="mibill_privacy_policy_title">Gestionarea facturilor în mod automat</string>
     <string name="min_payment_text">Suma minimă de plată</string>
+    <string name="modify_contact_address">Modificați adresa de e-mail de contact</string>
     <string name="more_context">Mai multe</string>
     <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
@@ -1152,6 +1155,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="share_choose">Selectaţi</string>
     <string name="sharing">Distribuiţi</string>
     <string name="shortcut_name_title">Denumiţi o comandă rapidă pentru dosar</string>
+    <string name="show_contact_address">Afișează adresa de e-mail de contact</string>
     <string name="show_elided">▶ Afişaţi textul citat</string>
     <string name="show_images">Afişaţi fotografiile</string>
     <string name="show_more_attachment">Mai multe atașamente</string>

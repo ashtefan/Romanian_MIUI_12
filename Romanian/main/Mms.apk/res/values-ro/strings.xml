@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="action_firewall_setting">Listă blocări</string>
     <string name="action_get_otp">Obțineți codul</string>
     <string name="action_sign_in">Autentificare</string>
@@ -156,6 +183,7 @@
     <string name="converting_to_picture_message">Se face conversia la mesaj multimedia…</string>
     <string name="converting_to_text_message">Se face conversia la mesaj text…</string>
     <string name="converting_vcard_failed">"Nu s-a putut converti contactul"</string>
+    <string name="copy">Copiați</string>
     <string name="copy_message_text">Copiaţi</string>
     <string name="copy_message_text_success">Copiat cu succes</string>
     <string name="copy_to_sdcard">Salvaţi ataşamentul</string>
@@ -175,7 +203,10 @@
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
+    <string name="dialog_choice_all_correct_as_normal">Toate mesajele de la %s</string>
     <string name="dialog_complain_tips">Permiteți aplicației de Mesagerie să se conecteze la rețea pentru a putea raporta elementele.</string>
+    <string name="dialog_message_correct_as_ad">Toate mesajele de la %s (exceptând codurile de verificare) vor fi mutate în dosarul de mesaje promoționale.</string>
+    <string name="dialog_message_correct_as_normal">Selectați mesajele pe care doriți să le mutați</string>
     <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
@@ -184,6 +215,8 @@
     <string name="dialog_sim_locked_message">"Cartela dvs. SIM nu este complet operațională cu acest telefon întrucât nu respecta termenii și condițiile abonamentului dvs. Dacă aveți întrebări sau aveți nevoie de mai multe informații despre această situație, vă rugăm să contactați centrul de servicii Xiaomi sau magazinul de unde ați cumpărat produsul."</string>
     <string name="dialog_smart_message_privacy_tips">Serviciile de mesagerie inteligentă sunt furnizate parțial de Dianhuabang. Înainte de a utiliza mesageria inteligentă, trebuie să fiți de acord cu \"%1$s\". Mesageria inteligentă trebuie să se conecteze la internet și să acceseze locația pentru a funcționa normal. Sunteți de acord?</string>
     <string name="dialog_smart_message_privacy_tips_title">Politica de confidențialitate Dianhuabang</string>
+    <string name="dialog_title_correct_as_ad">Mutați în mesaje promoționale</string>
+    <string name="dialog_title_correct_as_normal">Mutați în mesaje obișnuite</string>
     <string name="dialog_title_fake_cell_detect_error">Corectare</string>
     <string name="dialog_title_mx_rcs">Mesageria Mi</string>
     <string name="dialog_title_networking">Termenii și Condițiile</string>
@@ -226,6 +259,7 @@
     <string name="exceed_message_size_limitation">A fost atinsă limita de dimensiune a mesajului.</string>
     <string name="exceed_message_size_limitation_add_slide">Mărimea mesajului este prea mică pentru a adăuga un diapozitiv</string>
     <string name="exceed_message_text_limitation">Limita de text a mesajului a fost atinsă.</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="expire_on">Expiră la: %s</string>
     <string name="exporting_progress_private_message">Exportul mesajelor…</string>
     <string name="fail_to_add_attachment">"Nu s-a putut adăuga atașamentul"</string>
@@ -283,6 +317,8 @@
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
+    <string name="home_tab_ad">Promoționale</string>
+    <string name="home_tab_common">Obișnuite</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">"Nu vi s-a putut determina locația"</string>
@@ -317,6 +353,8 @@
     <string name="menu_call">Apel</string>
     <string name="menu_compose_new">Scrieţi</string>
     <string name="menu_contact">Vizualizare informaţii de contact</string>
+    <string name="menu_correct_as_ad">Mutați în promoționale</string>
+    <string name="menu_correct_as_normal">Mutați în obișnuite</string>
     <string name="menu_delete_messages">Ştergere mesaje</string>
     <string name="menu_edit">Modificaţi</string>
     <string name="menu_forward">Redirecţionaţi</string>
@@ -360,6 +398,14 @@
     <string name="messaging">Mesagerie</string>
     <string name="mi_message_title">Mesaje Mi</string>
     <string name="millionbyte">MB</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="mms">MMS</string>
     <string name="mms_block_alert_message">Toate MMS-urile, cu excepția mesajelor trimise de la expeditori autorizați, vor fi blocate. Expeditorii autorizați includ furnizorii de rețea, sistemele naționale de rezervare a căilor ferate etc.</string>
     <string name="mms_block_alert_ok">Blocare</string>
@@ -465,6 +511,8 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="non_english_subject_limit">Maxim 13 caractere</string>
     <string name="nosend_message">"Nu trimiteţi"</string>
     <string name="not_prepare_for_send">Niciun mesaj de trimis</string>
+    <string name="not_set">Nesetat</string>
+    <string name="notification_ad_content">Ați primit un mesaj promoțional de la %s</string>
     <string name="notification_add_todo">Amintește-mi</string>
     <string name="notification_add_todo_content">Codul de preluare: %s</string>
     <string name="notification_channel_msg_description">Notificări despre Mesaje</string>
@@ -527,6 +575,8 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_sms_theme_title">Afişare</string>
     <string name="pref_summary_allow_si_sl_push">Permiteţi încărcarea conținutului din site-urile web</string>
     <string name="pref_summary_auto_delete">Șterge mesajele vechi când se atinge limita</string>
+    <string name="pref_summary_collapse_ad_notification">Afișează toate mesajele promoționale într-un dosar separat din Perdeaua de notificări</string>
+    <string name="pref_summary_collapse_ad_notification_mms">Afișează toate mesajele promoționale într-o filă separată</string>
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
@@ -543,8 +593,9 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
-   <string name="pref_title_auto_delete">Șterge mesajele vechi</string>
+    <string name="pref_title_auto_delete">Șterge mesajele vechi</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
+    <string name="pref_title_collapse_ad_notification">Grupează notificările despre mesajele promoționale</string>
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
     <string name="pref_title_manage_sim_messages">Gestionaţi mesajele de pe cartela SIM</string>
@@ -570,6 +621,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_system_mms_priority">Setaţi ca prestabilit</string>
     <string name="pref_title_vcard">Trimiteţi prin vCard</string>
     <string name="pref_title_wake_up_screen">Trezire ecran</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preferences_title">Setări</string>
     <string name="prepare_send">Pregătire pentru trimitere…</string>
     <string name="preview">Previzualizaţi</string>
@@ -589,6 +641,8 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_term">Politica de Confidențialitate</string>
+    <string name="private_entry_available">Eliberați pentru a deschide dosarul privat</string>
+    <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
     <string name="private_message">Mesaje private</string>
     <string name="private_new_notification">Notificări mesaj</string>
     <string name="private_protect">Parole</string>
@@ -739,6 +793,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="rcs_wait_for_retry_text">Se așteaptă…</string>
     <string name="received_at_time">Primit la: %1s</string>
     <string name="received_label">"Primit: "</string>
+    <string name="recent_label">Contacte recente</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Destinatar: "</string>
     <string name="recipients_contain_sub_sim_number">"Se pare că există număr de pe cartela SIM secundară printre destinatari. Trimiteți acest mesaj utilizând cartela SIM secundară."</string>
@@ -761,6 +816,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="refill_now">Completaţi din nou acum</string>
     <string name="refreshing">Se actualizează…</string>
     <string name="release_cancel">Eliberați pentru a anula</string>
+    <string name="release_end">Eliberați pentru a opri</string>
     <string name="remove">Eliminaţi</string>
     <string name="remove_music">Eliminaţi muzica</string>
     <string name="remove_picture">Eliminaţi fotografia</string>
@@ -813,6 +869,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="search_hint">Căutaţi în mesagerie</string>
     <string name="search_keyword_mms">Mesagerie;SMS;MMS;Text;Mesaj;Mesaje</string>
     <string name="search_label">Mesagerie</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_path_mms">Setări/Aplicații de sistem/Mesaje</string>
     <string name="search_setting_description">Text în mesajele dvs.</string>
     <string name="search_show_more_results">Afişaţi mai multe</string>
@@ -859,7 +916,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="service_network_problem">Mesajul nu s-a putut trimite din cauza unei probleme de reţea</string>
     <string name="service_not_activated">Serviciul nu este activat în reţea</string>
     <string name="set">Setaţi</string>
-    <string name="share">partajați</string>
+    <string name="share">Partajați</string>
     <string name="share_img">Distribuiţi</string>
     <string name="shortcut_new_msg">Mesaj nou</string>
     <string name="shortcut_setting">Setări</string>
@@ -937,6 +994,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="subject_label">"Subiect: "</string>
     <string name="subscribe">Abonați-vă</string>
     <string name="success_login">Autentificat cu succes</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_pref_cm_smart_sms">Șabloane card, numere SMS de serviciu și multe altele.</string>
     <string name="switch_to_editor">Mod Editare</string>
     <string name="switch_to_menu">Mod Meniu</string>
@@ -947,6 +1005,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="system_permission_declare_no_say_no">"Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.
 Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
     <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
+    <string name="system_permission_declare_privacy_declare_new">Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a funcționa în mod normal:</string>
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizarea și să dezactivați serviciile din setările Mesageriei.</string>
     <string name="system_permission_declare_single_link">Citiți și acceptați %1s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Citiți și acceptați %1s, %2s și %3s înainte de a utiliza aceste caracteristici.</string>
@@ -1014,6 +1073,8 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="url_scanning">Verificare URL…</string>
     <string name="user_agreement">Acordul utilizatorului</string>
     <string name="user_term">Acordul utilizatorului</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
     <string name="view">Vizualizaţi</string>

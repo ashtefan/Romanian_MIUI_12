@@ -14,6 +14,11 @@
         <item>Notă</item>
         <item>Relație</item>
     </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Mesaje promoționale de la %s</item>
+        <item>Mesaje operator de servicii de la %s</item>
+        <item>Mesaje financiare de la %s</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximă</item>
         <item>2 zile</item>

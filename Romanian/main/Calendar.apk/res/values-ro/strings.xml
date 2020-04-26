@@ -509,7 +509,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="productivity_move_event_failed">Nu se poate muta acest eveniment pe dd MMMM, yyyy</string>
     <string name="productivity_move_event_hint">Apăsați și mențineți un eveniment pentru a-l muta în altă dată</string>
     <string name="productivity_move_event_success">Acest eveniment a fost mutat pe dd MMMM, yyyy</string>
-    <string name="productivity_no_event">Niciun eveniment planificat pentru astăzi</string>
+    <string name="productivity_no_event">Niciun eveniment încă aici</string>
     <string name="pull_to_refresh_hint">Glisați în jos pentru a încărca evenimentele de la %1$d</string>
   <string name="recommend_card_add">Abonează-te acum</string>
   <string name="recommend_card_adding">abonamentele</string>

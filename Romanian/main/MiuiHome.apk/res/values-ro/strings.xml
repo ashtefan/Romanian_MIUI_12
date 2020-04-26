@@ -41,6 +41,11 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="accessibility_menu_item_split_disable">Aplicația nu suportă modul Ecran scindat.</string>
     <string name="accessibility_menu_item_split_enable">Aplicația suportă modul Ecran scindat</string>
+    <string name="accessibility_recent_task_enter">S-a accesat fila Recente</string>
+    <string name="accessibility_recent_task_exit">S-a închis fila Recente</string>
+    <string name="accessibility_recent_task_locked_state">Blocat</string>
+    <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | RAM disponibil: %1$s. Atingeți de două ori pentru a goli.</string>
+    <string name="accessibility_recent_task_unlocked_state">Deblocat</string>
     <string name="accessibility_recents_item_open_app_info">Accesați informațiile despre aplicația %s.</string>
     <string name="accessibility_splite_screen_primary">Adăugată ca aplicație principală în Ecranul scindat</string>
     <string name="accessibility_splite_screen_secondary">Adăugată ca aplicație secundară în Ecranul scindat</string>
@@ -428,6 +433,7 @@
     <string name="recents_empty_message_multi_window">Deschideți aplicații din Ecranul principal</string>
     <string name="recents_exit_multi_window_mode">Ieșiți</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Nu se poate utiliza funcția Ecran scindat pe durata proiectării</string>
+    <string name="recents_incompatible_app_message">Această aplicație nu suportă modul Ecran scindat</string>
     <string name="recents_task_screening">Proiectare</string>
     <string name="recents_title_app_manager">Gestionați aplicațiile</string>
     <string name="recents_title_game">Jocuri</string>
@@ -481,6 +487,7 @@
     <string name="show_mem_info_title">Afișați starea memoriei</string>
     <string name="show_most_popular_apps_you_used">Afișează aplicațiile utilizate cel mai frecvent în sertar</string>
     <string name="show_recents_recommend_title">Se afișează sugestii</string>
+    <string name="slide_to_open_newhome">Glisați în sus pentru a deschide Centrul de Conținut</string>
     <string name="sort_by_abc">Sortare după nume</string>
     <string name="sort_by_frequency">Sortare după utilizare</string>
     <string name="sort_by_not_defined">Sortare automată</string>

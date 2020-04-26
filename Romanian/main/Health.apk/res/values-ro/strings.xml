@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="abnormal">Anormal</string>
+    <string name="achieve_goals">țintă atinsă</string>
+    <string name="achieve_stand_goals">Atingeți o țintă de activitate</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activity_title_basic_info">Informații de bază</string>
     <string name="activity_title_exercise">Activitate</string>
@@ -53,9 +55,13 @@ pentru a adăuga carduri"</string>
     <string name="added_data_source">Surse adăugate</string>
     <string name="afternoon">PM</string>
     <string name="all_records">Toate înregistrările</string>
+    <string name="allow_notice_periods">Permiteți perioade de memento</string>
     <string name="altitude">Altitudine</string>
     <string name="am">AM</string>
     <string name="app_name">TrackingTree</string>
+    <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
+    <string name="audio_permission_dialog_title">Acordați permisiunea de înregistrare audio</string>
+    <string name="audio_record_perm_description">Înregistrarea sforăitului și a viselor pe durata somnului</string>
     <string name="audio_record_permission_description">Pentru înregistrarea vorbelor și a sforăitului pe durata analizării ciclului de somn</string>
     <string name="auth_description">Permiteți %1$s să sincronizeze date de la următoarele dispozitive</string>
     <string name="auto_start_fail">Nu s-a putut acorda permisiunea</string>
@@ -65,6 +71,7 @@ pentru a adăuga carduri"</string>
     <string name="average_menstruation_days">Durata medie a ciclului</string>
     <string name="avg_altitude">Altitudinea medie</string>
     <string name="avg_day">Medie</string>
+  <string name="avg_finish_stand">Media zilnică pentru standing</string>
     <string name="avg_heart_rate">Ritmul cardiac mediu</string>
     <string name="avg_steps">Pași zilnici</string>
     <string name="awake_count">V-ați trezit</string>
@@ -131,13 +138,20 @@ pentru a adăuga carduri"</string>
     <string name="clear">Goliți</string>
     <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+  <string name="click_finish_stand">Atingeți pentru a finaliza standing</string>
     <string name="climb">Urcare trepte</string>
     <string name="climbing">Urcare</string>
     <string name="close">Dezactivați</string>
     <string name="close_once">Dezactivați o dată</string>
+  <string name="close_stand_detection_tip">Memento-ul permanent este dezactivat, nu ratați starea și înregistrarea după pornire</string>
+  <string name="close_stand_notice_and_detection_tip">Detectarea permanentă și memento-ul sunt oprite</string>
+  <string name="close_stand_notice_tip">Detectarea permanentă a fost oprită, detectarea automată după deschidere este mai lipsită de griji</string>
+    <string name="collapse">Ascundeți</string>
     <string name="collect_diagnosis_log">Colectează un jurnal de diagnoză</string>
     <string name="complete_preference_basic_info">Completați-vă profilul</string>
     <string name="completed">"Finalizat "</string>
+  <string name="completed_stand">Standing finalizat</string>
+    <string name="confirm_opening">confirmați deschiderea</string>
     <string name="copy">Copiați</string>
     <string name="copy_done">Copiat cu succes</string>
     <string name="copyright_statement">Drepturi de autor © Xiaomi Inc. Toate drepturile rezervate.</string>
@@ -152,6 +166,7 @@ pentru a adăuga carduri"</string>
     <string name="data">Date</string>
     <string name="data_account_info_loading">Se obțin informațiile contului…</string>
     <string name="data_delete_tip">Se șterg datele referitoare la sănătate din acest dispozitiv…</string>
+    <string name="data_details">Detaliile datelor</string>
     <string name="data_empty">Nu există date</string>
     <string name="data_safety_tip_details">Datele despre sănătate vor fi păstrate pe acest dispozitiv după ce vă veți deconecta. Puteți șterge aceste date din Sănătate>Surse de date.</string>
     <string name="data_safety_tip_details2">Unele date despre sănătate au fost încărcate în cloud. Puteți alege să păstrați datele pe acest dispozitiv sau să le ștergeți. Selectând opțiunea \"Șterge\" de mai jos vor fi eliminate doar datele din acest dispozitiv, dar elementele sincronizate vor fi păstrate în continuare în cloud.
@@ -162,6 +177,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="data_source_list_description">Aplicația Sănătate Xiaomi obține date (%1$s) din aceste surse. Dacă datele există în mai multe surse, veți vedea datele din sursele care apar mai întâi în listă în aplicația Sănătate Xiaomi.</string>
     <string name="data_source_manage">Gestionați sursele datelor</string>
     <string name="data_source_not_support_hm_description">"%1$s nu furnizează informații detaliate despre numărul de pași. Puteți comuta la alte surse de date din Mai mult>Surse de date.</string>
+    <string name="date">Data</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
     <string name="date_format_m_d">d/M</string>
@@ -199,6 +215,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="delete_all_data_sources_description">Ștergeți toate sursele de date adăugate?</string>
     <string name="delete_menstruation_record_confirm">Ștergeți această înregistrare?</string>
     <string name="delete_origin_data_description">Ștergeți toate datele generate de către %1$s?</string>
+    <string name="delete_record">Ștergeți înregistrarea</string>
     <string name="description">Detalii</string>
     <string name="detail_format">%1$.1f</string>
     <string name="detection_stop">Această sesiune se va încheia când vă veți ridica</string>
@@ -252,12 +269,14 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_privacy_policy_statement">Declarația Politicii de Confidențialitate</string>
     <string name="dialog_privacy_title">Termeni și condiții</string>
     <string name="dialog_read_phone_perm_desc">Pentru identificarea caracteristicilor dispozitivului dumneavoastră utilizând OAID sau ID-ul Android</string>
+  <string name="dialog_request_network">Vă rugăm să acceptați Application Networking.</string>
     <string name="dialog_sleep_goal_setting">Setați ținta pentru durata somnului</string>
     <string name="dialog_sleep_goal_subtitle">Dormiți pentru 7–9 ore zilnic</string>
     <string name="dialog_sleep_goal_title">Ținta pentru durata somnului</string>
     <string name="dialog_sleep_record_auto_start">Pentru a vă monitoriza somnul mai precis, permiteți Sănătate Xiaomi să pornească în mod automat.</string>
     <string name="dialog_sure">OK</string>
     <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Sănătate Xiaomi! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza realizările dvs. în cloud.</string>
+    <string name="dialog_user_agreement_purpose2">Bine ați venit în aplicația Sănătate Xiaomi. Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, serviciile Xiaomi Health Cloud și pentru alte funcții.</string>
     <string name="disable">Oprit</string>
     <string name="dot">.</string>
     <string name="drag_sort">Rearanjați</string>
@@ -272,6 +291,9 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="empty"/>
     <string name="empty_data">-</string>
     <string name="enable">Pornit</string>
+    <string name="enable_go_now">Pornit</string>
+    <string name="enable_not_now">Oprit</string>
+    <string name="enable_right_now">Pornit</string>
     <string name="enough">Îndeajuns</string>
     <string name="enter_mi_health">Deschideți Sănătate Xiaomi</string>
     <string name="equivalent_exercise">≈ plimbare de %1$s km (%2$s kcal)</string>
@@ -291,7 +313,7 @@ Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string
     <string name="exercise_detail_no_steps_hint">"Sursa de date selectată (%1$s) nu furnizează informații despre numărul pașilor.
 Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string>
     <string name="exercise_duration">Durata exercițiilor</string>
-    <string name="exercise_duration_consume">Durata: %1$s, %2$s</string>
+    <string name="exercise_duration_consume">Durata: %1$s | Arse: %2$s</string>
     <string name="exercise_goal">Ținta activităților</string>
     <string name="exercise_goal_accomplished">Țintă atinsă</string>
     <string name="exercise_goal_lack_exercise">Activitate insuficientă</string>
@@ -299,6 +321,8 @@ Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string
     <string name="exercise_info_tool_bar_title">Activitate</string>
     <string name="exercise_information_label">Introduceți informațiile dumneavoastră pentru a face statisticile mai acurate</string>
     <string name="exercise_intensity">Intensitatea</string>
+    <string name="exercise_motor_perception">Monitorizează exercițiile în mod automat</string>
+    <string name="exercise_motor_perception_description">Purtați telefonul asupra dumneavoastră pe durata zilei pentru a monitoriza exercițiile în mod automat</string>
     <string name="exercise_no_question">De ce nu puteți vedea statisticile?</string>
     <string name="exercise_notification_content">%1$d min(s) de exerciții (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">Pași făcuți astăzi: %d. Ați atins ținta!</string>
@@ -308,6 +332,7 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="exercise_question_answer_two">2. Ocazional, senzorii de mișcare pot să nu pornească monitorizarea. Reporniți telefonul și verificați dacă monitorizarea pornește în mod obișnuit în asemenea cazuri.</string>
     <string name="exercise_question_title">De ce nu puteți vedea statisticile?</string>
     <string name="exercise_record">Istoricul exercițiilor</string>
+    <string name="exercise_record_no_data">Niciun element aici încă</string>
     <string name="exercise_reminder_accomplished">Ați atins ținta de activități!</string>
     <string name="exercise_reminder_title">Memento activitate</string>
     <string name="exercise_reminder_unaccomplished">Nu ați atins ținta propusă. Continuați!</string>
@@ -316,6 +341,7 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="exercise_strokes">Numărul încercărilor</string>
     <string name="exercise_sum">Raportul exercițiilor</string>
     <string name="exercise_walk_description">În concordanță cu Ghidurile de nutriție a rezidenților chinezi, activitatea fizică activă ar trebui să dureze cel puțin 40 minute pe zi, ceea ce echivalează cu realizarea a 6000 de pași. Pașii făcuți zilnic pentru mers, alergare și urcarea scărilor sunt sumarizați aici.</string>
+    <string name="expand_all">Afișează tot</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="fall_sleep_hard">Probleme cu adormirea</string>
@@ -329,7 +355,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="feedback_permission_denied_msg">Sănătate Xiaomi nu poate salva jurnale în memoria externă. Acordați Sănătate Xiaomi permisiunile necesare din setări.</string>
     <string name="fewer">Redus</string>
     <string name="finish">Finalizați</string>
-  <string name="finish_stand">finish stand</string>
+  <string name="finish_stand">finalizați stand</string>
     <string name="finished_rate">Finalizat %1$d%%</string>
   <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -494,6 +520,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="manual_page_label_body_weight_select">Selectați greutatea</string>
     <string name="manual_page_label_measure_date">Data cântăririi</string>
     <string name="manual_page_measure_date_title">Data și ora</string>
+    <string name="manual_record">Înregistrare manuală</string>
     <string name="mark_end">Perioadă încheiată</string>
     <string name="mark_start">Start</string>
     <string name="max_altitude">Cea mai mare altitudine</string>
@@ -608,12 +635,14 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="no_data">Nu există date</string>
     <string name="no_records">Niciun element aici deocamdată.</string>
     <string name="no_snore">Nu ați sforăit și nici nu ați vorbit în somn</string>
+    <string name="no_snore_1">Nu ați sforăit sau vorbit în somn</string>
     <string name="noon">PM</string>
     <string name="normal">Normal</string>
     <string name="not_achieve_stand_goals">Obiectivul permanent nu a fost atins</string>
     <string name="not_added">Neadăugat</string>
     <string name="not_open_auto_sync">Sincronizarea este dezactivată</string>
     <string name="not_set">Nesetat</string>
+  <string name="not_standing">Not Stand</string>
     <string name="not_support_step">Dispozitivul dvs. nu poate număra pașii efectuați</string>
     <string name="not_up_to_standard">Sub standard</string>
     <string name="number_divided">%1$d/%2$d</string>
@@ -715,6 +744,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="sedentary_time_is_too_long">Este timpul pentru mișcare! Beți puțină apă și faceți o plimbare.</string>
     <string name="sedentary_title">Memento mișcare</string>
     <string name="sedentary_toggle_content">Sănătate Xiaomi vă va aminti să vă ridicați și să faceți câțiva pași dacă nu vă mișcați pentru o perioadă lungă de timp.</string>
+    <string name="sedentaty_hazard_description">Sedentarismul cauzează multe probleme de sănătate. Faceți mișcare cel puțin 1 minut pe oră și atingeți ținta pentru 12 ore pe zi pentru a vă păzi de pericolele sedentarismului.</string>
     <string name="select_menstruation_end_date">Selectați data de încheiere a acestui ciclu</string>
     <string name="select_null">Neselectat</string>
     <string name="select_target">Selectați Ținta</string>
@@ -746,7 +776,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="sleep_detection_guide_one_title">Monitorizați somnul</string>
     <string name="sleep_detection_guide_schedule_hint_one">Fără un program de somn, statisticile nu vor fi precise.</string>
     <string name="sleep_detection_guide_schedule_hint_two">Setați programul dvs. de somn.</string>
-    <string name="sleep_detection_guide_schedule_hint_two_details">Este recomandat să mergeți la servici și să vă odihniți după un program stabilit.</string>
+    <string name="sleep_detection_guide_schedule_hint_two_details">Setați programul de somn în aplicația Ceas.</string>
     <string name="sleep_detection_guide_three_description">Când programul de somn este setat, somnul dvs. va fi monitorizat în mod automat.</string>
     <string name="sleep_detection_guide_three_title">Generați statistici în mod automat</string>
     <string name="sleep_detection_guide_two_description">Pentru a obține statistici precise, plasați telefonul lângă sau sub pernă și asigurați-vă că se află la cel mult 50 cm de dvs.</string>
@@ -804,7 +834,14 @@ despre somn"</string>
     <string name="sleep_service">Serviciu de monitorizare a somnului</string>
     <string name="sleep_service_background_running">Serviciul de monitorizare a somnului rulează în fundal</string>
     <string name="sleep_setting_title">Setări somn</string>
+    <string name="sleep_snore_audio_auto">Înregistrați sunete audio</string>
+    <string name="sleep_snore_audio_auto_desc">Se înregistrează vorbirea pe durata somnului și se stochează fișierul în telefon pentru a vă proteja confidențialitatea.</string>
+    <string name="sleep_snore_audio_close_desc">Puteți să o dezactivați din setările pentru somn.</string>
+    <string name="sleep_snore_audio_enable">Detectarea este activată</string>
+    <string name="sleep_snore_audio_enable_desc">La noapte, somnul va fi monitorizat în mod automat.</string>
+    <string name="sleep_snore_audio_hight_power_desc">Asigurați-vă că acumulatorul este încărcat suficient înainte de a merge la culcare.</string>
     <string name="sleep_snore_detection">Detectează sforăitul și vorbitul în somn</string>
+    <string name="sleep_snore_detection_desc">Monitorizați-vă somnul</string>
     <string name="sleep_sober">Treaz</string>
     <string name="sleep_sober_times_title">Trezit</string>
     <string name="sleep_status">Stare somn</string>
@@ -829,7 +866,7 @@ despre somn"</string>
     <string name="snore_detection_guide_one_description">Pe durata somnului se vor înregistra sunete. Inteligența artificială permite aplicației Sănătate Xiaomi să detecteze sforăitul, vorbitul în somn și sunetele puternice și salvează înregistrările pe dispozitiv.</string>
     <string name="snore_detection_guide_one_title">Înregistrare sunete utilizând microfonul</string>
     <string name="snore_detection_guide_schedule_suggest">Microfonul va fi pornit și oprit în funcție de programul dvs. de somn. Setați programul de somn pentru a-l face să funcționeze.</string>
-    <string name="snore_detection_guide_schedule_suggest_details">Microfonul va fi pornit și oprit în funcție de programul dvs. de somn. Este recomandat să mergeți la servici și să vă odihniți respectând programul.</string>
+    <string name="snore_detection_guide_schedule_suggest_details">Microfonul va fi pornit pe durata somnului pentru a vă analiza ciclul de somn. Pentru a face statisticile mai precise, setați programul de somn în aplicația Ceas.</string>
     <string name="snore_detection_guide_three_description">Asigurați-vă că telefonul dvs. are acumulatorul încărcat înainte de a merge la somn. Acumulatorul descărcat poate întrerupe înregistrarea sunetelor.</string>
     <string name="snore_detection_guide_three_title">Mențineți acumulatorul încărcat</string>
     <string name="snore_detection_guide_two_description">Microfonul va fi pornit și oprit în funcție de programul dvs. de somn.</string>
@@ -844,6 +881,8 @@ despre somn"</string>
     <string name="snore_detection_stop_pop_title">Încheiați sesiunea acum?</string>
     <string name="snore_detection_stopped_notification_title">Detectarea sforăitului și a vorbitului în somn este oprită</string>
     <string name="snore_dream_talk">Sforăitul și vorbitul în somn</string>
+    <string name="snore_duration_label">Durata sforăitului</string>
+    <string name="snore_label">Sforăit</string>
     <string name="snore_record_audio_delete_message">Această înregistrare este stocată doar pe dispozitiv. Nu o veți putea restaura dacă o ștergeți. O ștegeți oricum?"</string>
     <string name="snore_record_audio_delete_title">Ștergeți înregistrarea?</string>
     <string name="snore_section">Ați sforăit %1$s</string>
@@ -889,6 +928,7 @@ despre somn"</string>
     <string name="stand_notice_title6">Ați stat în ultima oră?</string>
     <string name="stand_setting">Setări nemișcare</string>
     <string name="standard_format">(standard: %1s)</string>
+  <string name="standing_already">Deja Standing</string>
     <string name="state_agree">De acord</string>
     <string name="state_auto_run_disenable">Oprit</string>
     <string name="state_auto_run_enable">Pornit</string>
@@ -929,7 +969,7 @@ despre somn"</string>
     <string name="sync_status_never_done">Nesincronizate</string>
     <string name="tb_audio_progress_bar">Bară redare audio</string>
     <string name="tb_card_on_using_list">Adăugată</string>
-    <string name="tb_click_finish_stand">Staționare nefinalizată pentru circa o oră; atingeți pentru a finaliza staționarea</string>
+    <string name="tb_click_finish_stand">Mișcare nedetectată pentru circa o oră; atingeți pentru a finaliza mișcarea</string>
     <string name="tb_current_select">%1$s selectată în prezent</string>
     <string name="tb_date_label_info">%1$s selectată în prezent. Atingeți pentru a modifca data.</string>
     <string name="tb_deep_light_detection_main">Despre analiza ciclului de somn: %1$s. Glisați orizontal în partea de sus a ecranului pentru a trece la pagina următoare.</string>
@@ -960,7 +1000,7 @@ despre somn"</string>
     <string name="tb_exercise_exercise_duration">Durata exercițiilor în minute: %1$d. %2$s. Atingeți pentru a vedea detaliile.</string>
     <string name="tb_exercise_exercise_no_data">Nu există informații despre durata exercițiilor</string>
     <string name="tb_exercise_goal_info">Ținta zilnică a activităților: %1$s. %2$s</string>
-    <string name="tb_exercise_home_banner">Verificarea zilnică a stării de sănătate</string>
+    <string name="tb_exercise_home_banner">Verificare zilnică</string>
     <string name="tb_exercise_label_close">Închideți fereastra</string>
     <string name="tb_exercise_list_add">Adăugați statisticile despre exerciții</string>
     <string name="tb_exercise_list_consume">Calorii arse: %1$d. Ora de sfârșit: %2$s. Atingeți pentru a vedea detaliile.</string>
@@ -1022,6 +1062,8 @@ despre somn"</string>
     <string name="tb_picker_sleep_goal">Ținta de somn selectată: %1$s. Glisați vertical pentru a selecta ținta.</string>
     <string name="tb_picker_weight">Greutatea selectată: %1$s. Glisați vertical pentru a selecta greutatea.</string>
     <string name="tb_picker_year">Anul selectat: %1$d. Glisați vertical pentru a selecta anul.</string>
+    <string name="tb_play_next">Următoarea înregistrare audio</string>
+    <string name="tb_play_previous">Anterioara înregistrare audio</string>
     <string name="tb_select_a_column">Selectată %1$s</string>
     <string name="tb_show_sleep_info">Se afișează statisticile de somn pentru %1$s</string>
     <string name="tb_sleep_evaluation">Rezultatul estimat: %1$s</string>
@@ -1182,6 +1224,7 @@ Actualizați acum?"</string>
     <string name="weight_trend_offset_date">"De la %1$s la %2$s: "</string>
     <string name="weight_unit_kg">Kg</string>
     <string name="well">Bine</string>
+    <string name="write_strorage_perm_description">Înregistrați problemele pe care le întâmpinați în utilizare</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de Descărcare a eșuat; vă rugăm să verificați starea Managerului de Descărcare din Gestionarea Aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s

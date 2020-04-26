@@ -486,7 +486,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="password_toggle_content_description">Afișați parola</string>
     <string name="permission_account_tip">Accesarea informațiilor despre cont</string>
-    <string name="permission_storage_tip">Accesarea imaginilor din dispozitiv pentru a le utiliza ca imagini de fundal</string>
+    <string name="permission_storage_tip">Accesarea imaginilor din dispozitiv</string>
+    <string name="permission_storage_tip">Salvarea elementelor descărcate pe dispozitiv</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat câtorva conturi Mi într-o perioadă scurtă de timp. Încercați să folosiți alt număr de telefon.</string>
     <string name="phone_hint">Numărul de telefon</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
@@ -652,8 +653,10 @@ Trimiteți acest cod supervizorului."</string>
     <string name="status_wallpaper_loop_start">Pornit</string>
     <string name="subscribe_apply_wp">Imagine de fundal pentru Blocarea ecranului aplicată cu succes</string>
     <string name="subscribe_dlg_btn">Start</string>
+    <string name="subscribe_dlg_btn_txt">Abonați-vă</string>
     <string name="subscribe_dlg_content">Abonați-vă pentru a primi imagini de fundal noi livrate zilnic în Blocarea ecranului și salutări zilnice.</string>
     <string name="subscribe_dlg_content2">Abonați-vă la \"%1$s\"</string>
+    <string name="subscribe_dlg_desc">Abonați-vă pentru a vedea imagini derulante</string>
     <string name="subscribe_dlg_title">Adăugați imaginile dvs favorite în colaj</string>
     <string name="subscribe_free">Abonați-vă</string>
     <string name="subscribe_item_checked">Abonat</string>

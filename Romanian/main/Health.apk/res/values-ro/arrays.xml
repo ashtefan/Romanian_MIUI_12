@@ -146,6 +146,15 @@
         <item>Nu există date despre somn momentan</item>
         <item>Se deschide Mi Health</item>
     </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Sedentarismul cauzează multe probleme de sănătate. Dacă timpul total de sedentarism nu poate fi redus, activitățile permanente intermitente pot îmbunătăți problemele legate de sedentarism.</item>
+        <item>Asistentul permanent ajută persoanele sedentare să se ridice cel puțin un minut pe oră, să atingă ținta zilnică de activități permanente și să evite pericolul vieții sedentare.</item>
+        <item>Atingeți Continuați pentru a înțelege și a deschide asistentul permanent.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Asistentul permanent înregistrează în mod automat activitățile prin detectarea stării de utilizare a telefonului mobil. Când nu se detectează mișcare pe parcursul unei ore, vă va fi trimisă o notificare pentru a vă aminti să faceți mișcare sau să adăugați manual o înregistrare.</item>
+        <item>Confirmarea activării va porni simultan detectarea mișcării și memento-urile pentru realizarea de activități.</item>
+    </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
         <item>°F</item>
