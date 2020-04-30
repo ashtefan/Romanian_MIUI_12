@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="ai_assistant">Asistent AI Apelare</string>
+    <string name="ai_assistant_not_installed">Instalați mai întâi Asistentul AI de Apelare</string>
     <string name="antispam_local_marked">Marcat local</string>
     <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
@@ -135,6 +137,8 @@
     <string name="do_not_ask">Nu arăta din nou</string>
     <string name="do_not_support_video_calls_by_remote">"Apelurile video nu sunt suportate pe celălalt telefon"</string>
     <string name="emergency_call_dialog_number_for_display">Număr de urgenţă</string>
+    <string name="enter_ai_assistant">Utilizați</string>
+    <string name="enter_ai_assistant_tip">Asistentul AI de Apelare poate prelua acest apel și să transcrie vorbele celeilalte persoane pentru dumneavoastră. Permiteți AI să preia apelul?"</string>
     <string name="inCallLabel">Apelare</string>
     <string name="incall_bubble_hangup_click_hint">Atingeți din nou pentru a reveni la apel</string>
     <string name="incall_call_type_label_sip">Apel prin internet</string>
@@ -232,6 +236,7 @@
     <string name="unlock_phone">Deblocați telefonul</string>
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="user_locked_prompt">Deblocați telefonul pentru a accesa agenda.</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Insuficientă lățime de bandă; retrogradați la apel vocal</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
     <string name="video_crbt_title">"Se redă videoclipul de apel al apelantului"</string>
     <string name="voicemail">Căsuța vocală</string>
