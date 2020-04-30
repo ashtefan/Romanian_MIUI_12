@@ -8,10 +8,6 @@
         <item quantity="other">%s descărcări au fost șterse</item>
         <item quantity="one">%s descărcare a fost ștearsă</item>
     </plurals>
-    <plurals name="sniff_find_resource">
-        <item quantity="other">S-au găsit %d elemente</item>
-        <item quantity="one">S-a găsit 1 element</item>
-    </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d zile</item>
         <item quantity="one">%1$d zi</item>
@@ -31,6 +27,14 @@
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Ștergeți %d elemente?</item>
         <item quantity="one">Ștergeți acest element?</item>
+    </plurals>
+    <plurals name="number_items">
+        <item quantity="other">%s elemente</item>
+        <item quantity="one">%s element</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">S-au găsit %d elemente</item>
+        <item quantity="one">S-a găsit 1 element</item>
     </plurals>
     <plurals name="sniff_find_result">
         <item quantity="other">S-au găsit %d rezultate</item>
