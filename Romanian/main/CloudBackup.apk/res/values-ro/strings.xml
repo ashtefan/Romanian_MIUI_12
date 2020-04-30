@@ -139,6 +139,14 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
     <string name="miui_device_name">Android</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="msg_alert_cancel_restore">Se restaurează elementele. Opriți acum?</string>
     <string name="msg_alert_restore_error">"Nu s-au putut restaura elementele din Xiaomi Cloud. Încercați din nou."</string>
     <string name="msg_restore_start_with_metered_network">"Ecranul principal va fi repornit. Aplicațiile pentru care s-a făcut o copie de rezervă vor fi descărcate în mod automat. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s fișiere vor fi descărcate.&lt;/font&gt;&lt;/b&gt;"</string>

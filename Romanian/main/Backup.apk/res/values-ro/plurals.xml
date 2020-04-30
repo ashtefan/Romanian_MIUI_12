@@ -16,9 +16,21 @@
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d elemente</item>
+        <item quantity="one">%1$d/%2$d element</item>
+    </plurals>
     <plurals name="local_main_backup_manage_summary">
         <item quantity="other">%1$s copii de rezervă (%2$s)</item>
         <item quantity="one">%1$s copie de rezervă (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Copie de rezervă finalizată. Nu s-a putut crea copie de rezervă pentru %d elemente.</item>
+        <item quantity="one">Copie de rezervă finalizată. Nu s-a putut crea copie de rezervă pentru %d element.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Restaurare finalizată cu succes. Nu s-au putut restaura %d elemente.</item>
+        <item quantity="one">Restaurare finalizată cu succes. Nu s-a putut restaura %d element.</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"S-au importat %d elemente. "</item>

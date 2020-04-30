@@ -32,6 +32,35 @@
         <item quantity="other">cu %d săptămâni înainte de eveniment</item>
         <item quantity="one">cu %d săptămână înainte de eveniment</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s zile</item>
         <item quantity="one">%1$s zi</item>
@@ -88,16 +117,44 @@
         <item quantity="other">Se pot seta cel mult %d memento-uri</item>
         <item quantity="one">Se poate seta cel mult %d memento</item>
     </plurals>
-    <plurals name="feed_list_dislike_title">
-        <item quantity="other">已选%1$d个理由</item>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%d invitații</item>
+        <item quantity="one">%d invitație</item>
+    </plurals>
     <plurals name="n_weeks">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
     <plurals name="other_all_day_events">
         <item quantity="other">%d evenimente în plus</item>
@@ -139,9 +196,13 @@
         <item quantity="other">%1$d ani</item>
         <item quantity="one">%1$d an</item>
     </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s minute de condus până la %1$s.</item>
-        <item quantity="one">%2$s minut de condus până la %1$s.</item>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SĂPTĂMÂNA %d</item>

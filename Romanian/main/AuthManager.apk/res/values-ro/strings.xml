@@ -113,6 +113,22 @@
     <string name="HIPS_Perm_External_Storage">Accesare și modificare fișiere din memoria internă</string>
     <string name="HIPS_Perm_External_Storage_Desc">"adăugare și ștergere fișiere din memoria internă"</string>
     <string name="HIPS_Perm_GetCallState">accesare stare precisă a telefonului</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Înregistrare sunete audio și apelare</string>
+    <string name="HIPS_Perm_Intl_group_desc_auto_start">Lansare automată în fundal a aplicațiilor</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">Accesarea evenimentelor din calendar</string>
+    <string name="HIPS_Perm_Intl_group_desc_call_log">Accesarea și editarea istoricului de apelare</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">Realizarea de fotografii și crearea de videoclipuri</string>
+    <string name="HIPS_Perm_Intl_group_desc_contact">Editarea și ștergerea contactelor</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Accesarea precisă a locației (prin GPS și bazată pe rețea)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">Adăugarea și ștergerea fișierelor din stocarea internă a telefonului</string>
+    <string name="HIPS_Perm_Intl_group_name_audio_recorder">Microfon</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">Pornire automată</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">Calendar</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">Istoricul de apelare</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Camera foto</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">Contacte</string>
+    <string name="HIPS_Perm_Intl_group_name_location">Locația</string>
+    <string name="HIPS_Perm_Intl_group_name_storage">Stocarea</string>
     <string name="HIPS_Perm_ListenCallState">citire stare precisă a telefonului</string>
     <string name="HIPS_Perm_Location">Obținere informații despre locație</string>
     <string name="HIPS_Perm_Location_Access">obţinere poziţie precisă(bazat pe GPS și rețea)</string>
@@ -342,7 +358,10 @@
     <string name="permission_group_title_charges_related">Taxe</string>
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
+    <string name="permission_group_title_sensitive_privacy_related">Permisiuni senzitive</string>
     <string name="permission_group_title_settings_related">Setări</string>
+    <string name="permission_list_include">"Inclusiv următoarele:
+"</string>
     <string name="permission_reminders">Memento-uri permisiuni</string>
     <string name="permission_warning_template">Permiteți %1$s să %2$s ?</string>
     <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni?</string>

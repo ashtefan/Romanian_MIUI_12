@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Cu o oră în urmă</item>
     </plurals>
@@ -86,6 +89,9 @@
         <item quantity="other">%1$d numere</item>
         <item quantity="one">%1$d număr</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">S-au găsit %1$d contacte</item>
         <item quantity="one">S-a găsit %1$d contact</item>
@@ -102,14 +108,26 @@
         <item quantity="other">%1$d numere</item>
         <item quantity="one">%1$d număr</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
     <plurals name="label_duplicate_count_plurals">
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d găsite</item>
-        <item quantity="one">1 găsită</item>
-     </plurals>   
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contacte</item>
         <item quantity="one">%d contact</item>
@@ -142,6 +160,10 @@
     <plurals name="num_groups_in_account">
         <item quantity="other">%d  grupuri</item>
         <item quantity="one">%d grup</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu un minut în urmă</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elemente rămase</item>
