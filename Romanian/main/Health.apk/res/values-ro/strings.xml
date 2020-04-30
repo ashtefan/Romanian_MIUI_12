@@ -57,6 +57,7 @@ pentru a adăuga carduri"</string>
     <string name="all_records">Toate înregistrările</string>
     <string name="allow_notice_periods">Permiteți perioade de memento</string>
     <string name="altitude">Altitudine</string>
+    <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
     <string name="app_name">TrackingTree</string>
     <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
@@ -155,6 +156,7 @@ pentru a adăuga carduri"</string>
     <string name="copy">Copiați</string>
     <string name="copy_done">Copiat cu succes</string>
     <string name="copyright_statement">Drepturi de autor © Xiaomi Inc. Toate drepturile rezervate.</string>
+    <string name="cousume_unit_float_format">%1$.2f Cal</string>
     <string name="cross_hiking">Drumeție</string>
     <string name="cumulative_decline">Pierderea în altitudine</string>
     <string name="cumulative_rise">Câțtigul în altitudine</string>
@@ -183,6 +185,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="date_format_m_d">d/M</string>
     <string name="date_format_m_d_2">dd/MM</string>
     <string name="date_format_m_d_3">dd/MM</string>
+    <string name="date_format_m_d_h_m">dd-MM HH:mm</string>
     <string name="date_format_mm_dd">dd MMM</string>
     <string name="date_format_mm_dd_2">dd/MM</string>
     <string name="date_format_y">yyyy</string>
@@ -196,6 +199,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="date_format_y_m_d_h_m_4">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
+    <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -435,6 +439,9 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="goal_title">Păstrați-vă sănătatea</string>
     <string name="goto_setting_auto_start">Setări</string>
     <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări>Servicii Cloud.</string>
+    <string name="guide_exit">Părăsiți Sănătate Xiaomi</string>
+    <string name="guide_exit_description">Nu putem furniza servicii persoanelor care nu au împlinit 14 ani. Asigurați-vă că utilizați dispozitivul având acordul apărținătorului legal. Atingeți butonul de mai jos pentru a părăsi aplicația.</string>
+    <string name="guide_exit_title">Puteți începe să utilizați aplicația Sănătate Xiaomi după ce împliniți 14 ani</string>
     <string name="guide_local_data_sync_subtitle">Pașii, somnul, greutatea și ciclurile menstruale</string>
     <string name="guide_local_data_sync_title">Încărcați date din acest dispozitiv</string>
     <string name="guide_other_data_sync_subtitle">Telefoane, brățări, cântare și alte dispozitive</string>
@@ -565,6 +572,14 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="model_card_setting">Setări file</string>
     <string name="modify">Editați</string>
     <string name="modify_end_date">Modificați data de încheiere</string>
@@ -665,6 +680,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pause">Pauză</string>
     <string name="per_time_minutes">%d pe minut</string>
+    <string name="per_time_minutes1">" pe minut"</string>
     <string name="permission_check_result">Setată cu succes</string>
     <string name="permission_check_result_failed">Nu s-a putut seta</string>
     <string name="permission_manage">Gestionați permisiunile</string>
@@ -766,6 +782,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="sleep_deep">Somn profund</string>
     <string name="sleep_deep_light_analysis">Somn ușor și somn profund</string>
     <string name="sleep_deep_light_close_tip">Analiza somnului profund este oprită</string>
+    <string name="sleep_deep_light_no_data">Nu există înregistrări ale somnului profund</string>
+    <string name="sleep_deep_light_no_data_improvement">Nu sunt identificate caracteristici ale somnului profund; se fac eforturi pentru optimizarea algoritmului.</string>
     <string name="sleep_detection_enable">Analizați ciclul somnului</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">Monitorizarea somnului va consuma circa 1% din acumulator în fiecare zi.</string>
@@ -786,7 +804,11 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="sleep_detection_question_four_title">De ce diferite dispozitive consumă diferit energie pentru monitorizarea somnului?</string>
     <string name="sleep_detection_question_one_answer">Când dispozitivul dvs. este oprit, repornit sau atunci când acumulatorul este descărcat, monitorizarea somnului va fi întreruptă deoarece senzorii nu pot colecta și analiza datele. În asemenea cazuri, statisticile de somn vor fi incomplete.
 Dacă aceste probleme apar frecvent, verificați dispozitivul pentru sarcinile de oprire sau actualizările de sistem de peste noapte."</string>
+    <string name="sleep_detection_question_one_answer_1">"Analiza somnului profund se bazează pe datele mișcărilor corpului colectate de la senzorii telefonului mobil. Următoarele condiții pot împiedica analiza somnului profund:
+1. Eșuare colectare date. Colectarea datelor și calcularea acestora poate fi influențată de oprirea telefonului sau de energia insuficientă a acumulatorului pe durata somnului. 
+2. Eșuare analizare date. Poate apărea dacă telefonul este plasat departe de corp sau nemișcat, ceea ce rezultă în mișcări insesizabile ale corpului, iar caracteristicile somnului profund nu pot fi analizate temporar. Vom continua să optimizăm algoritmul."</string>
     <string name="sleep_detection_question_one_title">De ce sunt statisticile mele incomplete?</string>
+    <string name="sleep_detection_question_one_title_1">De ce nu se înregistrează somnul profund și cel ușor?</string>
     <string name="sleep_detection_question_three_answer">Dispozitivul dvs. monitorizează mișcările corpului pe durata somnului utilizând senzorii încorporați. Pentru a face statisticile mai precise, plasați dispozitivul pe o suprafață plată aproape de dvs. Evitați să-l plasați pe măsuțe de lângă pat sau prea departe de saltea.</string>
     <string name="sleep_detection_question_three_title">Cum pot îmbunătăți acuratețea statisticilor?</string>
     <string name="sleep_detection_question_two_answer">Ciclurile de somn sunt analizate local, pe dispozitiv. Monitorizarea somnului va funcționa chiar și când nu sunteți conectat la rețea sau când conexiunea curentă este întreruptă.</string>
@@ -1160,9 +1182,13 @@ despre somn"</string>
     <string name="title_no_record_menstruation">Nu v-ați înregistrat ciclurile încă.</string>
     <string name="title_run_in_background">Rulare în fundal</string>
     <string name="title_select_birthday">Selectați ziua de naștere</string>
+    <string name="title_select_birthday_description">Vom personaliza serviciile noastre în funcție de vârsta dvs.</string>
     <string name="title_select_gender">Selectați sexul</string>
+    <string name="title_select_gender_description">Vom personaliza serviciile noastre în funcție de sexul dvs.</string>
     <string name="title_select_height">Setați înălțimea</string>
+    <string name="title_select_height_description">Acest lucru va face statisticile mai precise</string>
     <string name="title_select_weight">Setați greutatea</string>
+    <string name="title_select_weight_description">Acest lucru va face statisticile mai precise</string>
     <string name="title_start_use">Începeți</string>
     <string name="title_start_use_menstruation_assistant">Înregistrați-vă ciclul menstrual</string>
     <string name="title_today_exercise_detail">Activitățile de astăzi</string>
@@ -1223,6 +1249,13 @@ Actualizați acum?"</string>
     <string name="weight_keep_up">Minunat! Continuați să vă mențineți o greutate optimă.</string>
     <string name="weight_trend_offset_date">"De la %1$s la %2$s: "</string>
     <string name="weight_unit_kg">Kg</string>
+    <string name="welcome_exercise">Monitorizați exercițiile</string>
+    <string name="welcome_exercise_description">Purtați telefonul cu dvs. pentru a vă monitoriza în mod automat exercițiile</string>
+    <string name="welcome_sedentary">Continuați să vă mișcați</string>
+    <string name="welcome_sedentary_description">Sănătate Xiaomi vă poate reaminti să vă ridicați după ce stați o perioadă lungă de timp</string>
+    <string name="welcome_sleep">Analizați ciclul de somn</string>
+    <string name="welcome_sleep_description">Puneți telefonul aproape de dvs. pentru a obține informații despre ciclul de somn dimineața</string>
+    <string name="welcome_start_use">Începeți</string>
     <string name="well">Bine</string>
     <string name="write_strorage_perm_description">Înregistrați problemele pe care le întâmpinați în utilizare</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>

@@ -33,6 +33,10 @@
         <item quantity="other">%1$d-%2$d ori</item>
         <item quantity="one">%1$d-%2$d dată</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Faceți cel puțin %1$d pași în fiecare zi</item>
         <item quantity="one">Faceți cel puțin %1$d pas în fiecare zi</item>
@@ -60,6 +64,18 @@
     <plurals name="dream_talk_segment_unit">
         <item quantity="other">înregistrări</item>
         <item quantity="one">înregistrare</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d oră</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d secunde</item>
+        <item quantity="one">%1$d secundă</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Țintă: %1$d pași</item>
@@ -100,6 +116,10 @@
     <plurals name="last_measure_day_body_weight">
         <item quantity="other">%1$d zile de la cântărirea anterioară</item>
         <item quantity="one">%1$d zi de la cântărirea anterioară</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metri</item>
+        <item quantity="one">%1$d metru</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>

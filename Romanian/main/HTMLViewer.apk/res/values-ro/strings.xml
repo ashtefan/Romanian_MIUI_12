@@ -11,6 +11,14 @@
 accesați %s de pe alt dispozitiv conectat"</string>
     <string name="loading">Doar o secundă…</string>
     <string name="mibi_license">Acordul utilizatorului pentru serviciul Mi Credit</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="open_wifi_connect_and_use_data_summary">Se utilizează datele mobile. Atingeți pentru a comuta la Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>
@@ -20,6 +28,7 @@ accesați %s de pe alt dispozitiv conectat"</string>
     <string name="poco_privacy_policy">Politica de Confidențialitate și Acordul de utilizare pentru lansatorul POCO</string>
     <string name="policy_name">Protocolul: %s</string>
     <string name="pre_installed_apps">Aplicații preinstalate</string>
+    <string name="privacy_station_title">Confidențialitatea Xiaomi</string>
     <string name="settings_ad_loading">Doar o secundă…</string>
     <string name="settings_ad_loading_unavailable">"Nu s-au putut încărca informațiile."</string>
     <string name="settings_license_activity_loading">Doar o secundă…</string>
