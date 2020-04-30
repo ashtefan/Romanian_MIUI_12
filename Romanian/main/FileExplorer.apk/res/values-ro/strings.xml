@@ -1,6 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="a_week_share_rank">Evaluări săptămânale</string>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
     <string name="activity_parse_video_title">Lipiți link-ul videoclipului</string>
@@ -8,7 +34,7 @@
     <string name="ad_downloading">Încărcare…</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
-    <string name="album_creator">Creat de %s</string>
+    <string name="aggree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare listate mai jos.</string>
     <string name="album_name">Selecția zilnică: %s</string>
     <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
@@ -107,6 +133,7 @@
     <string name="connection_error">Nu s-a putut conecta</string>
     <string name="connection_lost">Deconectat</string>
     <string name="copied">Copiat</string>
+    <string name="copy">Copiați</string>
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
@@ -193,8 +220,10 @@
     <string name="error_invalid_path">Cale incorectă</string>
     <string name="error_not_support">Nesuportat</string>
     <string name="error_open_file_failed_no_app_found">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
     <string name="extract">Extragere</string>
+    <string name="fab_menu_sort">Sortați</string>
     <string name="fail_to_create_folder_unknown">Imposibil de creat dosarul</string>
     <string name="failed_not_access_sd_card">Permiteți mai întâi accesarea cardului SD</string>
     <string name="failed_obtain_permissions">"Nu s-au putut obține permisiunile"</string>
@@ -247,8 +276,8 @@
     <string name="group_title_extra_backup">Copii de rezervă</string>
     <string name="group_title_extra_expire">Expiră în curând</string>
     <string name="group_title_extra_new">Nou</string>
-    <string name="handsome_boy">Masculin</string>
-    <string name="has_installed">Instalată</string>
+    <string name="guide_newfunc_content">Acum puteți filtra după formatul fișierului, rearanja elementele și comuta între modurile de vizualizare atingând scurtătura.</string>
+    <string name="guide_newfunc_title">Caracteristică nouă</string>
     <string name="hint_switch_to_grid_mode">S-a comutat la vederea tip grilă</string>
     <string name="hint_switch_to_list_mode">S-a comutat la vederea tip listă</string>
     <string name="home_action_up">Înapoi</string>
@@ -265,6 +294,7 @@
     <string name="hottest_sticker_str">Popular</string>
     <string name="if_cancel">Renunțați?</string>
     <string name="image_loading_error">"Nu s-a putut încărca imaginea"</string>
+    <string name="imm_str_storage">Stocare</string>
     <string name="input_memo_hint">Introduceți detalii suplimentare (opțional)</string>
     <string name="install_fail">"Nu s-a putut instala"</string>
     <string name="installing">Instalare…</string>
@@ -327,10 +357,17 @@
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>
     <string name="midrop_send_files">Selectați fișierele de trimis</string>
     <string name="mi_share">MiShare</string>
-    <string name="mobile_network_dialog_cancle">Renunțați</string>
-    <string name="mobile_network_dialog_confirm">OK</string>
-    <string name="mobile_network_dialog_tip">Utilizarea datelor mobile pentru vizionarea de videoclipuri poate genera costuri ridicate.</string>
-    <string name="mobile_network_dialog_title">Avertizare utilizare date mobile</string>
+    <string name="midrop_msg_1">Activați Mi Drop pe celălalt dispozitiv</string>
+    <string name="midrop_msg_2">Când Mi Drop este activ, puteți găsi dispozitivele din apropiere și trimite fișiere</string>
+    <string name="midrop_send_files">Selectați fișierele de trimis</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="month_day_format">dd MMMM</string>
     <string name="move_failed">"Nu s-au putut muta fișierele"</string>
     <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul de fișiere să administreze fișierele mai eficient.</string>
@@ -367,6 +404,7 @@
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
+    <string name="not_set">Nesetat</string>
     <string name="not_support_documentui">"DocumentUI nu este suportat pe acest dispozitiv"</string>
     <string name="notif_server_starting">Pornire server FTP…</string>
     <string name="notif_title">Serverul FTP rulează</string>
@@ -412,6 +450,7 @@
     <string name="operation_show_privacy_policy">Arată Politica de Confidențialitate</string>
     <string name="operation_show_sys">Se afişează fişierele ascunse</string>
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
+    <string name="optional_change_wifi">Pentru gestionarea de la distanță a fișierelor prin Wi-Fi</string>
     <string name="original_user_desc">Încărcați în mod regulat videoclipuri originale pentru a căștiga titlul de Creator</string>
     <string name="original_user_qq_group">Alăturați-vă grupului Talent team QQ</string>
     <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s-au alăturat comunității</string>
@@ -472,6 +511,7 @@
     <string name="popup_msg_wb">Vă place videoclipul? Partajați-l prietenilor de pe Weibo!</string>
     <string name="popup_msg_wx">Partajați acest videoclip prietenilor din WeChat.</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="private_files">Ascunse</string>
     <string name="private_folder">Dosare ascunse</string>
@@ -481,6 +521,7 @@
     <string name="prize_result_tip">Valorificați</string>
     <string name="prize_result_tip2">Bijuteriile merg în visteria dumneavoastră</string>
     <string name="promot_enctypt_password">Introduceți parola utilizată pentru deblocarea telefonului</string>
+    <string name="pull_to_enter_private">Glisați în jos pentru a deschide dosarul privat</string>
     <string name="qq_btn_bind">QQ</string>
     <string name="qq_login_btn_str">QQ</string>
     <string name="qq_not_installed">"QQ nu este instalată"</string>
@@ -489,6 +530,8 @@
     <string name="recommend">Recomandat</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
+    <string name="refresh_success">Reîmprospătare finalizată</string>
+    <string name="release_enter_private">Eliberați pentru a deschide dosarul privat</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
@@ -535,6 +578,7 @@
     <string name="search_history">Istoricul de căutare</string>
     <string name="search_keyword">Etichete</string>
     <string name="search_recent_file">Explorator fișiere;Explorator;Fișier;Fișiere;Gestionați fișierele;Gestionare fișiere</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_result">Rezultate</string>
     <string name="search_result_more">Mai multe</string>
     <string name="search_title">Căutare</string>
@@ -588,6 +632,9 @@
     <string name="shortcut_msg">Adăugați o scurtătură pe ecranul principal pentru videoclipurile populare</string>
     <string name="skip_file">Omiteți</string>
     <string name="smb_loading">Doar o secundă…</string>
+    <string name="sort_hint_name">Sortat după nume</string>
+    <string name="sort_hint_time">Sortat după dată</string>
+    <string name="sort_hint_type">Sortat după tip</string>
     <string name="sort_size_asc">De la mic la mare</string>
     <string name="sort_size_desc">De la mare la mic</string>
     <string name="start_doc">Fișiere</string>
@@ -730,6 +777,8 @@
     <string name="user_video_text">Videoclipurile mele</string>
     <string name="utf8_summary">Codare prestabilită</string>
     <string name="utf8_title">UTF-8</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="video_ad_download">Instalați</string>
     <string name="video_comment_hint">Selectați conținutul</string>
     <string name="video_comment_limit">%1$s caractere rămase</string>
@@ -773,6 +822,7 @@
     <string name="video_upload_title">Selectați videoclipul</string>
     <string name="video_upload_wechat_hint">Încărcați videoclipuri WeChat pentru a câștiga mai mulți fani.</string>
     <string name="video_uploaded">Încărcat</string>
+    <string name="view_type">Vedeți</string>
     <string name="view_master_rank">Vedeți topul Youliao</string>
     <string name="view_top_rank">Vedeți evaluările</string>
     <string name="wb_btn_bind">Weibo</string>
