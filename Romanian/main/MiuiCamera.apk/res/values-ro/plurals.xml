@@ -4,6 +4,10 @@
         <item quantity="other">Focalizat. %d chipuri detectate</item>
         <item quantity="one">Focalizat. %d chip detectat</item>
     </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Puteți crea maxim %d clone o dată.</item>
+        <item quantity="one">Puteți crea maxim %d clonă o dată.</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Fotografie în rafală efectuată, s-au făcut %1$s fotografii</item>
         <item quantity="one">Fotografie în rafală efectuată, s-a făcut %1$s fotografie</item>

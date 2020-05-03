@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="action_cancel">Anulaţi</string>
     <string name="action_submit">Trimiteţi</string>
     <string name="announcement">Atenţie</string>
@@ -49,6 +76,7 @@
     <string name="catch_full_log_start_dump_hprof">Se generează jurnalul pentru încetinire</string>
     <string name="catch_full_log_submit_directly">Trimiteți</string>
     <string name="close_feedback_main">Ascundeți</string>
+    <string name="copy">Copiați</string>
     <string name="cta_cancel">Anulaţi</string>
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
@@ -85,7 +113,16 @@
     <string name="err_type_xiaomi_family">Familia Mi</string>
     <string name="err_type_xiaomi_service">Serviciu clienți</string>
     <string name="error_no_connection">"Nu s-a putut conecta la rețea"</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="failed_to_fetch_fql">Nu s-au găsit informații despre întrebările frecvente; verificați conexiunea la rețea</string>
+    <string name="feedback_answer_detail_feedback_resolved">Da</string>
+    <string name="feedback_answer_detail_feedback_result">Vă mulțumim pentru feedback!</string>
+    <string name="feedback_answer_detail_feedback_title">V-a fost utilă această informație?</string>
+    <string name="feedback_answer_detail_feedback_unresolved">Nu</string>
+    <string name="feedback_answer_detail_relative_question">Acest lucru vă poate fi de ajutor</string>
+    <string name="feedback_answer_detail_submit_dialog_confirm">Trimiteți</string>
+    <string name="feedback_answer_detail_submit_dialog_content">Descrieți problema pe care o întâmpinați și noi vom încerca să o rezolvăm. Trimiteți feedback-ul?</string>
+    <string name="feedback_answer_detail_submit_dialog_title">Trimiteți feedback-ul?</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selectați problema</string>
     <string name="feedback_choose_module">Selectați elementul</string>
@@ -118,6 +155,7 @@
     <string name="feedback_detail_upload_local_log">Încărcați fișierul</string>
     <string name="feedback_detail_upload_log">Încărcați jurnalele</string>
     <string name="feedback_detail_waiting">Se generează…</string>
+    <string name="feedback_edit_popup_window_related_title">Acest lucru poate fi relevant</string>
     <string name="feedback_empty_report_list">Niciun raport încă</string>
     <string name="feedback_guess">Părerea noastră</string>
     <string name="feedback_hint_optional">Selectați</string>
@@ -288,6 +326,14 @@
     <string name="michat_wait_for_a_moment">Doar o secundă, rezolvarea e pe drum!</string>
     <string name="michat_webview_title">Vizualizați detaliile</string>
     <string name="min_error">%1$s dvs ar trebui să fie mai lung.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mobile_data_note_dialog_cancel">Așteaptă Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Încarcă</string>
     <string name="mobile_data_note_dialog_content">"Se pare că sunteți conectat la o rețea tarifată. Încărcarea rapoartelor poate genera taxe suplimentare."</string>
@@ -333,6 +379,7 @@
     <string name="network_unavailable_dialog_content">Mesajul dvs. va fi trimis atunci când veţi avea o conexiune de date</string>
     <string name="network_unavailable_dialog_title">"Nu s-a putut conecta la rețea"</string>
     <string name="non_system_app_select">Aplicaţii descărcate</string>
+    <string name="not_set">Nesetat</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">Mai multe</string>
     <string name="packaging_dialog_content">Creare raport…</string>
@@ -494,6 +541,7 @@ Pentru a vă activa contul, accesați
     <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_category_title">Confidențialitate</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a împrospăta</string>
@@ -512,6 +560,7 @@ Pentru a vă activa contul, accesați
     <string name="save_pic_fail">"Nu s-a putut salva imaginea; verificați cardul SD"</string>
     <string name="save_pic_success">Imagine salvată în %s</string>
     <string name="screen_lock">Blocare ecran</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="second_position">3#</string>
     <string name="section_description">Descriere</string>
     <string name="section_err_type">Tip de eroare</string>
@@ -525,6 +574,7 @@ Pentru a vă activa contul, accesați
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_app_select">Aplicații încorporate</string>
     <string name="systemui">Panou notificări</string>
     <string name="tab_title_chat">Întrebări frecvente</string>
@@ -576,6 +626,8 @@ Dimensiune: %2$s"</string>
     <string name="update_dialog_content_version">Puteți trece la versiunea %1$s acum.</string>
     <string name="update_dialog_title">Este disponibilă o actualizare</string>
     <string name="upload_log_failed">"Nu s-au putut trimite rapoartele cu erori"</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="warning_field_empty">Introduceți %1$s</string>
     <string name="warning_field_invalid">Selectați o %1$s validă</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
