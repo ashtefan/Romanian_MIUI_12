@@ -89,7 +89,7 @@
     <string name="all_album_count">Toate albumele (%d)</string>
     <string name="all_albums">Toate albumele</string>
     <string name="all_artists">Toţi artiştii</string>
-    <string name="all_downloads">Toate descărcările</string>
+    <string name="all_playlist_count">Toate listele de redare (%d)</string>
     <string name="all_playlists">Toate listele de redare</string>
     <string name="all_songs">Toate melodiile</string>
     <string name="all_tracks">Toate melodiile</string>
@@ -97,6 +97,7 @@
     <string name="already_download">Descărcare…</string>
     <string name="already_download_btn">Se descarcă…</string>
     <string name="already_favorited">Există deja în Favorite</string>
+    <string name="always_use_metered">Utilizează întotdeauna datele mobile</string>
     <string name="am">AM</string>
     <string name="android_sdk_too_low">Actualizați versiunea Android pentru a putea actualiza aplicația Muzică.</string>
     <string name="apk_filter">APK</string>
@@ -179,6 +180,7 @@
     <string name="cannot_download_to_sdcard_hint">Nu se pot descărca elemente pe cardul SD datorită restricțiilor legate de drepturile de autor. Elementele vor fi descărcate în schimb în memoria internă.</string>
     <string name="change_download_quality">Modificați calitatea descărcărilor</string>
     <string name="character_counter_content_description">Limita caracterelor depășeşte %1$d din %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chart_first_song">1.%s</string>
     <string name="chart_second_song">2.%s</string>
     <string name="chart_third_song">3.%s</string>
@@ -267,6 +269,9 @@
     <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica la o calitate superioară pot crește costurile de utilizare a datelor.</string>
     <string name="data_use_desc">Documente legale</string>
     <string name="date_format_str">dd-MM-yyyy</string>
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Calendarul Lunar</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_download">Ștergeți</string>
@@ -391,6 +396,8 @@
     <string name="download_paused_in_power_save_mode">Sarcinile de descărcare sunt oprite când modul Economisire energie este activ</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
     <string name="download_processing">Descărcare…</string>
+    <string name="download_progress">%d%%</string>
+    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_queued">Pusă în coada de așteptare</string>
@@ -431,6 +438,7 @@
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="early_morning">AM</string>
     <string name="edit_playlist_info">Editați informațiile listei de redare</string>
+    <string name="empty"/>
     <string name="empty_page_no_album">Niciun album.</string>
     <string name="empty_page_no_artist">Niciun artist.</string>
     <string name="empty_page_no_document">Niciun fişier audio.</string>
@@ -489,7 +497,9 @@
     <string name="exo_download_notification_channel_name">Descărcări</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciunul</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -502,7 +512,7 @@
     <string name="exo_track_unknown">Necunoscut</string>
     <string name="expand_button_title">Avansat</string>
     <string name="expired">Expirat</string>
-    <string name="expires">Expiră în această lună:</string>
+    <string name="facebook_not_installed">Instalați mai întâi aplicația Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">"Nu s-au putut obține informațiile despre plată"</string>
     <string name="fail_to_play">"Nu se poate reda melodia"</string>
     <string name="failed_not_access_sd_card">Permiteți mai întâi accesul la cardul SD</string>
@@ -1044,6 +1054,7 @@
     <string name="pulluprefreshrecyclerview_loading_error">"Nu s-a putut încărca"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Încărcată cu succes</string>
     <string name="pulluprefreshrecyclerview_loading_running">Se încarcă…</string>
+    <string name="queue_is_empty">Lista de așteptare este goală.</string>
     <string name="radar">ACRCloud</string>
     <string name="radar_click_to_retry">Apăsați pentru a reîncerca</string>
     <string name="radar_fail">Niciun rezultat</string>
@@ -1255,6 +1266,7 @@ Be Happy"</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">D</string>
@@ -1446,6 +1458,7 @@ Be Happy"</string>
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Nu s-a putut conecta Managerul de descărcare; vă rugăm să verificați starea Managerului de descărcare din meniul de Gestionare a aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>
@@ -1453,6 +1466,8 @@ Dimensiune: %2$s"</string>
 Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">Puteți comuta între moduri în Setări</string>
     <string name="you_may_like">V-ar mai putea place</string>

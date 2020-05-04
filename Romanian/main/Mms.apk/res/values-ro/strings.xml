@@ -123,6 +123,7 @@
     <string name="chatbox_main_title">Miniaplicații</string>
     <string name="check_all">Selectaţi tot</string>
     <string name="class_0_message_activity">Mesaje clasa 0</string>
+    <string name="classifing">Se grupează mesajele…</string>
     <string name="click_to_update">Atingeți pentru a căuta actualizări</string>
     <string name="click_to_view">Atingeți pentru a vizualiza</string>
     <string name="close">Închideţi</string>
@@ -648,6 +649,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="private_protect">Parole</string>
     <string name="private_settings">Setări</string>
     <string name="processing">Procesare…</string>
+    <string name="prompt_area_code">+40</string>
     <string name="prompt_otp">Cod</string>
     <string name="prompt_phone">Număr de telefon</string>
     <string name="prompt_summary">RCS vă permite să trimiteți mesaje, fotografii, videoclipuri și să creați chaturi de grup în mod gratuit.</string>
@@ -1014,6 +1016,9 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="system_permission_perm_read_mms">Citirea MMS-urilor</string>
     <string name="system_permission_perm_read_numbers">Citirea numerelor de telefon</string>
     <string name="system_permission_perm_send_mms">Trimiterea de MMS-uri</string>
+    <string name="tab_finance">Financiare</string>
+    <string name="tab_message">Mesaje</string>
+    <string name="tab_promotions">Promoționale</string>
     <string name="text_in_popup_saved_to_clipboard">Copiat în clipboard</string>
     <string name="text_message">Mesaj text</string>
     <string name="timed_message_expired_title_2">Le trimiteţi acum?</string>
