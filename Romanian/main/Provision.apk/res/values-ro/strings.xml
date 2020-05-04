@@ -44,6 +44,7 @@
     <string name="disageement_abnormal_download">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagree">Anulaţi</string>
     <string name="disagreement_abnormal_running">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_application">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_product">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest produs. Puteți alege să nu utilizați acest produs în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu în astfel de cazuri.</string>
@@ -57,6 +58,7 @@
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="fast_application_introduction">Quick Apps Framework vă permite să creați și să furnizați servicii în aplicații rapide.</string>
+    <string name="fast_pairing_introduction">Mi Link permite dispozitivului dvs. să se conecteze la dispozitivele Bluetooth din apropiere. Pentru a putea găsi dispozitivele din apropiere, permiteți Mi Link să se conecteze la internet.</string>
     <string name="font_hint_large">Dimensiunea implicită a textului</string>
     <string name="font_hint_normal">Măriți dimensiunea textului</string>
     <string name="framework_introduction">Mi Services Framework vă permite să utilizați Mi Account, Mi Push, Mi Stats și MIUI BI.</string>
@@ -76,6 +78,8 @@
     <string name="locale_picker_title">Selectați regiunea dvs.</string>
     <string name="location_introduction">Serviciile bazate pe locație găsesc produse și servicii în apropierea dvs.</string>
     <string name="lockscreen_introduction">Caruselul imaginilor de fundal vă permite să obțineți imagini noi livrate zilnic pe ecranul de blocare.</string>
+    <string name="mint_keyboard_oobe_checkbox">Am citit și acceptat Politica de Confidențialitate a tastaturii Mint</string>
+    <string name="mint_keyboard_oobe_terms">Politica de Confidențialitate a tastaturii Mint</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Acordul Utilizatorului la %s.</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
@@ -148,6 +152,8 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="permission_virusscan_introduction">Pentru efectuarea scanării antivirus și optimizarea dispozitivului</string>
     <string name="permission_xunlei_introduction">Pentru conectare și gestionarea conturilor de sistem în vederea furnizării serviciilor Xunlei</string>
     <string name="poco_agree_terms_other">(Inclusiv Politica de Confidențialitate a lansatorului POCO și Acordul Utilizatorului)</string>
+    <string name="poco_launcher_privacy_policy">Politica de confidențialitate a lansatorului POCO</string>
+    <string name="poco_launcher_user_agreement">Acordul Utilizatorului lansatorului POCO</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
@@ -172,6 +178,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_name_content_center">Centru de Conținut</string>
     <string name="service_name_download">Descărcări</string>
     <string name="service_name_fast_application">Quick apps Framework</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Supliment jocuri</string>
     <string name="service_name_google_service">Declarație privind serviciile Google</string>
     <string name="service_name_location">Servicii bazate pe locație</string>
@@ -182,6 +189,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_name_security">Securitate</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
     <string name="service_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+    <string name="service_policy_download">&lt;Data&gt;Înainte de a utiliza serviciile noastre, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate Xunlei&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Politica de Confidențialitate</string>
     <string name="servicestate_title">Declarație privind serviciile de bază</string>
     <string name="setting_locale">Setare regiune…</string>
@@ -225,6 +233,9 @@ Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a uti
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte de a utiliza această caracteristică."</string>
     <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>

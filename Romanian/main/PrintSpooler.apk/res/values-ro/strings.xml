@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">Conversia fișierelor este furnizată de către WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Se convertește fișierul înainte de tipărire…</string>
+    <string name="activity_jump_market_alert_install_message">Instalați WPS Office pentru a converti acest fișier și a-l pregăti pentru tipărire. Va trebui să porniți tipărirea din nou după ce se finalizează instalarea. Instalați acum?</string>
+    <string name="activity_jump_market_alert_install_positive_button">Instalați</string>
+    <string name="activity_jump_market_alert_title">Atenție</string>
+    <string name="activity_jump_market_alert_update_message">Actualizați WPS Office pentru a converti acest fișier și a-l pregăti pentru tipărire. Va trebui să porniți tipărirea din nou după ce se instalează noua versiune. Actualizați acum?"</string>
+    <string name="activity_jump_market_alert_update_positive_button">Actualizați</string>
     <string name="add_print_service_label">Adăugați un serviciu</string>
     <string name="all_printers">Toate imprimantele…</string>
     <string name="all_printers_label">Toate imprimantele</string>
@@ -19,6 +26,7 @@
     <string name="copies_decrease">Minus o copie</string>
     <string name="copies_increase">Plus o copie</string>
     <string name="could_not_create_file">Nu s-a putut crea fișierul</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Ștergeți imprimantele selectate acum?</string>
     <string name="destination_default_text">Selectați o imprimantă</string>
     <string name="disabled_services_title">Servicii dezactivate</string>
@@ -91,6 +99,7 @@
     <string name="printer_busy">Imprimanta este ocupată</string>
     <string name="printer_error">Eroare de imprimantă</string>
     <string name="printer_error_msg">Eroare de imprimantă: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Mai multe informații despre această imprimantă</string>
     <string name="printer_notification_error_title">"Nu s-a putut tipări %1$s"</string>
     <string name="printer_unavailable">Imprimanta nu este disponibilă</string>
@@ -114,4 +123,6 @@
     <string name="template_all_pages">Toate %1$s</string>
     <string name="template_page_range">Intervalul %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wps_convert_error_toast_text">Nu s-a putut converti fișierul datorită unei erori de format</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">Conversia poate dura mai mult datorită dimensiunii mari a fișierului. Se convertește…</string>
 </resources>

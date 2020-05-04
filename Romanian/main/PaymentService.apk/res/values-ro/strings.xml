@@ -96,6 +96,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
     <string name="goto_sign_up">Creați un cont</string>
     <string name="hybrid_provider">Furnizat de %1$s</string>
+    <string name="i_know">OK</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="input_email_address_notice">Vom utiliza această adresă de e-mail pentru a vă verifica contul</string>
@@ -325,6 +326,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
     <string name="mibi_paytool_wechat_return_cancel">Anulare revenire la WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
+    <string name="mibi_permanently_denied_perm_camera">Permiteți accesul la camera foto din Setări pentru a utiliza această funcție.</string>
+    <string name="mibi_permanently_denied_perm_send_sms">Permiteți trimiterea de mesaje SMS din Setări pentru a utiliza această funcție.</string>
     <string name="mibi_prepaid_card_order_info">%1$s card cadou: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selectați operatorul</string>
     <string name="mibi_prepaid_edit_limit">cifre</string>
@@ -440,6 +443,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="ok">OK</string>
+    <string name="open_settings">Mergeți la setări</string>
     <string name="passport_access_denied">Acces nepermis</string>
     <string name="passport_account_hint_text">Adresa de e-mail, numărul de telefon sau ID-ul contului Mi</string>
     <string name="passport_account_identity_title">Verificați-vă identitatea</string>
@@ -666,6 +670,7 @@ Pentru activarea contului, deschideți
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
     <string name="qq_application_id"/>
+    <string name="request_camera_permission_message">Acest serviciu trebuie să vă solicite permisiunea după cum urmează; vom respecta cu strictețe legile în vigoare pentru a vă proteja informațiile personale: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesarea Camerei foto: experimentați servicii de înregistrare în timp real pentru setarea Avatarului &lt;/b&gt;&lt;br&gt;&lt;br&gt; Dacă nu sunteți de acord să acordați permisiunile de mai sus, această funcție nu va funcționa corect, dar nu va afecta utilizarea funcțiilor de bază ale acestei aplicații. Puteți alege să dezactivați acordarea permisiunii de mai sus din setările sistemului pentru a vă retrage consimțământul.</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu a ajuns în dosarul Spam.</string>
     <string name="resend_email_reach_limit_title">Prea multe încercări</string>

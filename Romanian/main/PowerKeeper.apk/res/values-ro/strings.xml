@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_extreme_mode">Modul Extrem de economisire a acumulatorului</string>
     <string name="about_hide_mode">Despre Economisirea acumulatorului în aplicații</string>
     <string name="action_bar_delete">Ştergeţi</string>
@@ -49,15 +76,24 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="config_suggest_suffix_title">Economisire acumulator (recomandat)</string>
     <string name="config_suggest_title">Economisire acumulator</string>
     <string name="confirm">OK</string>
+    <string name="copy">Copiați</string>
     <string name="current_cloud_addr_is">Adresa serverului de control Cloud este:</string>
     <string name="disabled">Dezactivat</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
     <string name="enable_sleep_mode">Activați modul Somn pentru a optimiza utilizarea acumulatorului pe durata nopții</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
+    <string name="expand_button_title">Avansat</string>
+    <string name="extreme_add_white_list_summary">Adăugați maxim 4 aplicații</string>
+    <string name="extreme_add_white_list_title">Excepții pentru rularea în fundal</string>
     <string name="extreme_mode_max_item_alert">Puteți selecta maxim 4 aplicații pentru a rula în fundal în modul Extrem de economisire a acumulatorului</string>
-    <string name="extreme_power_config_mode_category">Mod extremde economisire a acumulatorului</string>
-    <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, pornirea ecranului pentru afișarea notificărilor în blocarea ecranului dar și luminile de notificare. MIUI va acționa pentru economisirea acumulatorului.</string>
+    <string name="extreme_power_config_mode_category">Mod extrem de economisire a acumulatorului</string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;"Modul extrem de economisire a acumulatorului oprește întreaga activitate din fundal a unei aplicații  după ce o părăsiți și reveniți la Ecranul principal. Această aplicație nu vă mai trimite notificări și nu va mai fi actualizată."&lt;/li&gt;"
+"&lt;li&gt;Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor pentru rularea în fundal de mai jos. Maxim 4 aplicații pot rula în fundal cât timp Modul extrem de economisire a acumulatorului este activ.&lt;/li&gt;"
+"&lt;li&gt;Modul extrem de economisire a acumulatorului dezactivează NFC-ul în mod implicit. Puteți modifica acest lucru din Setări.&lt;/li&gt;"
+"&lt;li&gt;Pentru a vă asigura că puteți utiliza toate funcțiile dispozitivului în mod normal, Modul extrem de economisire a acumulatorului va fi dezactivat în mod automat când acumulatorul are mai mult de 30% energie.&lt;/li&gt;</string>
+    <string name="extreme_power_config_mode_summary">Modul extrem de economisire a acumulatorului restricționează activitatea din fundal și oprește sincronizarea.</string>
     <string name="extreme_power_config_mode_title">Mod Extrem de economisire a acumulatorului</string>
+    <string name="extreme_power_settings_title">setări</string>
     <string name="failure">Eșuat</string>
     <string name="foreground_change">Aplicaţia rulează în prim-plan</string>
     <string name="fragment_nonesys_listempty">Nicio aplicație instalată</string>
@@ -88,6 +124,14 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="menu_text_power_configure">Setări acumulator</string>
     <string name="message_i_know">Am înțeles</string>
     <string name="middle">Echilibrat</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mode_delete">Ştergeţi</string>
     <string name="mode_export">Export</string>
     <string name="mode_import">Import</string>
@@ -98,9 +142,10 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="none">Niciun proces</string>
     <string name="nonui_mode_config_description">"Nu aprinde ecranul pentru notificări, dezactivează LED-ul pentru notificări, amprenta și controlul tactil pentru a economisi acumulatorul atunci când MIUI detectează că nu folosiți telefonul."</string>
     <string name="nonui_mode_config_title">Mod lipsă interacțiune</string>
-    <string name="normal">Mod Prestabilit</string>
-    <string name="operation_create_group">Nume</string>
-    <string name="operation_create_group_message">Introduceți numele noului grup</string>
+    <string name="not_set">Nesetat</string>
+    <string name="notification_exit_extreme_mode_text">Acumulatorul este încărcat peste %s</string>
+    <string name="notification_exit_extreme_mode_title">S-a dezactivat Modul Extrem de economisire a acumulatorului</string>
+    <string name="notification_open_extreme_mode_text">S-a activat Modul Extrem de economisire a acumulatorului</string>
     <string name="performance_category">Performanță</string>
     <string name="permstep_description">Permiteți acestei aplicații să acceseze numărul de pași</string>
     <string name="permstep_label">Accesare număr de pași</string>
@@ -166,6 +211,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_config_ultimate_title">Extrem</string>
     <string name="power_config_ultimate_unlock_already">Toate elementele au fost deblocate</string>
     <string name="power_configure_screen_brightness_enable">Setaţi luminozitatea ecranului</string>
+    <string name="power_consume_abnormal_night">Acumulatorul s-a descărcat peste noapte</string>
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_cpu_max_freq_title">Frecvenţă maximă a procesorului</string>
@@ -198,6 +244,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_tools_fps">FPS</string>
     <string name="power_usage">Utilizare energie</string>
     <string name="pref_config_title">Optimizarea Performanței</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy">Politica de Confidențialitate</string>
     <string name="scenario_policies_summary">Aplică diferite strategii de economisire a energiei pentru scenarii diferite</string>
     <string name="scenario_policies_title">Scenarii inteligente</string>
@@ -206,6 +253,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
     <string name="screen_on">Ecranul este pornit</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="set_brightness">Luminozitate maximă a ecranului</string>
     <string name="set_cpu_powermode">Utilizare procesor</string>
@@ -216,12 +264,17 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="sleep_config_enhance_description">"De câte ori MIUI detectează că dormiți,va închide aplicațiile din fundal, va restricționa NFC-ul, Bluetooth-ul, GPS-ul, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări.</string>
     <string name="sleep_config_enhance_description_non_nfc">"De fiecare dată când MIUI detectează că dormiți, va închide aplicațiile din fundal, va restricționa utilizarea Bluetooth-ului, a GPS-ului, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări."</string>
     <string name="sleep_config_enhance_title">Mod Somn</string>
-    <string name="still">Imagine</string>
+    <string name="sleepmode_disclaimer_agree">De acord</string>
+    <string name="sleepmode_disclaimer_cancel">Renunțați</string>
+    <string name="sleepmode_privacy_content">Această caracteristică va utiliza informații despre sistemul de operare al telefonului și despre dispozitiv. Aceste informații nu vor fi încărcate pe serverele noastre.</string>
+    <string name="sleepmode_privacy_link">Aflați mai multe despre confidențialitate și securitate</string>
+    <string name="sleepmode_privacy_title">Mod Somn</string>
     <string name="sucess">Finalizat</string>
-    <string name="ui">Standard</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="update_profile_failture_not_connect_wifi">"Nu s-a putut actualiza. Conectați-vă la Wi-Fi și reîncercați."</string>
     <string name="update_profile_sucess">Actualizat de la server cu succes</string>
-    <string name="user_define_mode">Nume</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="vip_feedback">Feedback VIP</string>
     <string name="vip_feedback_enable">Activați Feedback VIP</string>
     <string name="warm_configure">Setări control temperatură</string>
