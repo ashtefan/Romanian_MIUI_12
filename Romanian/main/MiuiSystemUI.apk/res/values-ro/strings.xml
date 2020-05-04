@@ -343,6 +343,8 @@
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_low_title_power_save">Economisirea acumulatorului</string>
     <string name="battery_low_why">Setări</string>
+    <string name="battery_meter_percent_sign">%</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilizarea acumulatorului</string>
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
     <string name="battery_saver_confirmation_ok">Activați</string>
@@ -494,14 +496,21 @@ Selecție"</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
     <string name="change_theme_reboot">Modificarea temei necesită o repornire a telefonului.</string>
+    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="charge_length_format">%1$s în urmă</string>
+  <string name="chip_text">Chip text</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
+    <string name="choose_clock_panel_title">Dispunerea blocării ecranului</string>
+    <string name="choose_clock_third_theme_hint_text">Blocarea ecranului din tema curentă aplicată</string>
     <string name="choose_clock_title_left_top">Aliniat la stânga</string>
     <string name="choose_clock_title_middle">Centrat</string>
     <string name="choose_clock_title_vertical">Vertical</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
     <string name="clear_all_notifications_text">Goliți tot</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="click_to_enter_text">Atingeți pentru a vedea</string>
     <string name="click_to_return_multi_window">Atingeți pentru a reveni la modul Ecran scindat</string>
     <string name="click_to_return_multi_window_of_notch">Înapoi la Ecran scindat</string>
@@ -654,7 +663,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enabled_by_admin">Activată de către administrator</string>
     <string name="ethernet_label">Ethernet</string>
-    <string name="expanded_confirm_disable_notification">Ascundeţi</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="expanded_header_battery_charged">Încărcat</string>
     <string name="expanded_header_battery_charging">Se încarcă</string>
     <string name="expanded_header_battery_charging_with_time">%s până la încărcarea completă</string>
@@ -860,6 +869,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="how_to_use_drawer">Cum să accesați meniul de glisare</string>
     <string name="how_to_use_drawer_summary">Glisați spre dreapta din partea de sus a ecranului</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>
+    <string name="icon_content_description">Pictogramă dialog</string>
     <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Utilizați această metodă de introducere?</string>
     <string name="ime_security_warning_global">Metodele de introducere pot colecta tot ceea ce scrieți, inclusiv date personale, cum ar fi parolele sau datele cardurilor de credit. Utilizați %1$s?</string>
     <string name="ime_security_warning_title_global">Activarea tastaturii</string>
@@ -1145,6 +1155,8 @@ d MMMM"</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Deschideţi</string>
     <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
     <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
+    <string name="lock_screen_signature_msg">Afișează semnătura în Blocarea ecranului</string>
+    <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Celula %1$s a fost adăugată</string>
@@ -1210,6 +1222,14 @@ o captură de ecran derulantă"</string>
     <string name="miui_toast_zen_to_dnd">S-a comutat la modul Nu deranjați. Sunetele sunt reduse la tăcere și vibrațiile dezactivate.</string>
     <string name="miui_toast_zen_to_standard">S-a comutat la modul Nu deranjați. Sunetele de apel și cele pentru notificări sunt reduse la tăcere</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S-a comutat la modul Nu deranjați. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi reduse la tăcere.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Date mobile</string>
     <string name="mobile_data_always_on">Date mobile active permanent</string>
@@ -1295,6 +1315,14 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="mr_dialog_transferable_header">Redați într-un grup</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_picker_cancel">Renunțați</string>
+    <string name="mtrl_picker_confirm">Salvați</string>
+    <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+    <string name="mtrl_picker_header_prompt">Selectați o Dată</string>
+    <string name="mtrl_picker_header_selected">%1$s</string>
+    <string name="mtrl_picker_range_header_prompt">Selectați un Interval de Date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="multi_face_delete_message">Atenție</string>
     <string name="multi_face_delete_show_message">Ștergeți datele faciale acum?</string>
     <string name="multi_face_input">Adăugați date faciale</string>
@@ -1325,6 +1353,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="not_set">Nesetat</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
     <string name="notch_sos_status_bar_title">SOS</string>
+    <string name="notification_aggregate_text">Marcați notificările de la %1$s ca și neimportante</string>
     <string name="notification_all_categories">Toate categoriile</string>
     <string name="notification_app_settings">Personalizați: %1$s</string>
     <string name="notification_channel_alerts">Alerte</string>
@@ -1359,6 +1388,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_manager">Gestionați notificările</string>
     <string name="notification_manager_des">Filtrați și gestionați notificările</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
+    <string name="notification_menu_aggregate_description">Opțiuni grupare</string>
     <string name="notification_menu_filter_description">Notificări neimportante</string>
     <string name="notification_menu_filter_secondary_text">Toate notificările %s vor apărea într-un dosar separat.</string>
     <string name="notification_menu_filter_title">Neimportante</string>
@@ -1404,6 +1434,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>
+    <string name="owner_info_settings_edit_text_hint">De ex. Androidul lui Cristi.</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="phone_hint">Glisați din pictograma Telefon</string>
     <string name="phone_label">Accesați Telefonul</string>
     <string name="phone_locked_foget_password">Ați uitat parola?</string>
@@ -1490,6 +1522,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="power_save_ps_freeze">Blocați aplicațiile care rulează în fundal</string>
     <string name="power_save_ps_limit">Restricționați activitatea aplicațiilor de sistem</string>
     <string name="power_suggestion_extend_battery">Extindeți durata de viață a acumulatorului cu %1$s</string>
+    <string name="pref_show_lunar_calendar_title">Afișează Calendarul Tradițional Chinezesc în Blocarea ecranului</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_mode_off">Oprit</string>
@@ -1503,6 +1536,21 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="prompt_detecting">Se detectează</string>
     <string name="prompt_safe">Sigur</string>
     <string name="prompt_unknown">Necunoscut</string>
+    <string name="qs_control_big_tile_state_closed">Oprit</string>
+    <string name="qs_control_big_tile_state_closing">Se oprește…</string>
+    <string name="qs_control_big_tile_state_connected">Conectat</string>
+    <string name="qs_control_big_tile_state_connecting">Se conectează…</string>
+    <string name="qs_control_big_tile_state_disconnected">Neconectat</string>
+    <string name="qs_control_big_tile_state_disconnecting">Se deconectează…</string>
+    <string name="qs_control_big_tile_state_opened">Pornit</string>
+    <string name="qs_control_big_tile_state_opening">Se pornește…</string>
+    <string name="qs_control_big_tile_state_unavailable">Indisponibil</string>
+    <string name="qs_control_customize_other_tiles_title">Butoane disponibile</string>
+    <string name="qs_control_customize_save_text">Finalizat</string>
+    <string name="qs_control_customize_sub_title">Trageți butoanele adăugate pentru a le rearanja</string>
+    <string name="qs_control_customize_title">Butoane adăugate</string>
+    <string name="qs_control_expand_detail_title">Datele mele</string>
+    <string name="qs_control_header_tiles_title">Centrul de control</string>
     <string name="qs_customize">Permiteți personalizarea apăsării lungi în Setările Rapide</string>
     <string name="qs_customize_info">Informații</string>
     <string name="qs_customize_remove">Eliminați</string>
@@ -1765,6 +1813,9 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="show_touches">Afișează atingerile</string>
     <string name="show_touches_summary">Arată atingerile ecranului</string>
     <string name="simulate_color_space">Simulează spațiul de culoare</string>
+    <string name="small_window_guide_title">Ferestre plutitoare</string>
+    <string name="small_window_notification_text">Atingeți pentru a afla mai multe despre această funcție din MIUI %d</string>
+    <string name="small_window_notification_title">Ferestre plutitoare</string>
     <string name="snooze_option_15_min">15 minute</string>
     <string name="snooze_option_1_hour">1 oră</string>
     <string name="snooze_option_2_hour">2 ore</string>
@@ -1794,6 +1845,8 @@ monitorizată"</string>
     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
+    <string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -2155,6 +2208,7 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_none">Niciuna</string>
+    <string name="wifi_security_none_owe">Nimic/Avansat Deschisă</string>
     <string name="wifi_security_owe">Deschis Avansat</string>
     <string name="wifi_security_passpoint">Punct de acces</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
@@ -2166,6 +2220,7 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
+    <string name="wifi_security_short_none_owe">Nimic/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>

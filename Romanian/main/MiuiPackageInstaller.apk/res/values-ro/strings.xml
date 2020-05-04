@@ -11,6 +11,16 @@
     <string name="abc_activitychooserview_choose_application">Selectaţi o aplicaţie</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
     <string name="abc_search_hint">Căutare…</string>
     <string name="abc_searchview_description_clear">Ştergere interogare</string>
     <string name="abc_searchview_description_query">Interogare căutare</string>
@@ -177,6 +187,7 @@ Sample Rate"</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe bază de fișier</string>
     <string name="convert_to_file_encryption_done">Fișier criptat deja</string>
     <string name="convert_to_file_encryption_enabled">Convertiți…</string>
+    <string name="copy">Copiați</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_button_text_cancel">Ieșiți</string>
     <string name="cta_dialog_msg">Aplicația de Securitate necesită conexiune la internet pentru a primi actualizări, dar și acces la locație pentru a funcționa în mod normal.</string>
@@ -225,7 +236,17 @@ Sample Rate"</string>
     <string name="dlg_app_replacement_statement">"Aplicația pe care o instalați va înlocui altă aplicație.
 
 Toate datele de utilizator vor fi păstrate."</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) va înlocui versiunea instalată în prezent (%3$s). Toate datele de utilizator vor fi păstrate.</string>
     <string name="dlg_app_replacement_title">Înlocuiți aplicația?</string>
+    <string name="dlg_appstore_notice">Nu putem verifica autenticitatea scurității aplicațiilor provenite din surse din afara &lt;u&gt;&lt;font color=#91c727&gt;Magazinului de Aplicații&lt;/font&gt;&lt;/u&gt;."</string>
+    <string name="dlg_game_center_intercept_game_center_install">Instalați din Jocuri Mi</string>
+    <string name="dlg_game_center_intercept_install">Instalați oricum</string>
+    <string name="dlg_game_center_intercept_msg">Instalarea jocurilor din surse terțe poate atrage riscuri de securitate. Descărcați și instalați Jocuri Mi pentru a accesa versiunile sigure ale aplicațiilor.</string>
+    <string name="dlg_game_center_intercept_title">Atenție</string>
+    <string name="dlg_mimarket_intercept_mimarket_install">Instalați din Magazinul de Aplicații Mi</string>
+    <string name="dlg_mimarket_intercept_msg">Instalarea aplicațiilor din surse terțe poate atrage riscuri de securitate. Descărcați și instalați Magazinul de Aplicații Mi pentru a accesa versiunile sigure ale aplicațiilor.</string>
+    <string name="dlg_msg_unoffical">Nu se pot instala aplicații de sistem provenite din surse neoficiale</string>
+    <string name="dlg_msg_unoffical_ok">OK</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_sys_app_replacement_statement">"Aceasta este o aplicaţie de sistem.
 
@@ -241,6 +262,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="enabled_by_admin">Activat de către admin</string>
     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
     <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="external_sources_settings">Setări</string>
     <string name="external_sources_settings_negative">Restricționați</string>
     <string name="external_sources_settings_positive">Permiteți o dată</string>
@@ -408,6 +430,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_app_virus">Această aplicație este un virus; nu o instalați.</string>
     <string name="miui_clean">Curățați</string>
     <string name="miui_clear_apk_desc">Pachet de instalare șters și date reziduale (%s)</string>
+    <string name="miui_clear_apks_summary">Total %s</string>
     <string name="miui_clear_apks">Ștergeți pachetul de instalare și datele reziduale (%s)</string>
     <string name="miui_compatibility_desc">Această aplicație nu este optimizată pentru dispozitivul dumneavoastră. Dacă o instalați, este posibil să nu funcționeze corespunzător. Așteptați până când dezvoltatorul rezolvă problemele existente de compatibilitate și instalați o nouă versiune a aplicației după o perioadă de timp.</string>
     <string name="miui_delete">Ștergeți</string>
@@ -473,6 +496,14 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_virus_scanning_2">Se scanează..</string>
     <string name="miui_virus_scanning_3">Se scanează...</string>
     <string name="miui_virus_title">Risc crescut</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="mobil_net_work_warning_cancel">Renunțați</string>
     <string name="mobil_net_work_warning_msg">Utilizați datele mobile în prezent. Instalarea acestei aplicații necesită %1$s date mobile. O instalați oricum?"</string>
     <string name="mobil_net_work_warning_ok">Instalez oricum</string>
@@ -485,6 +516,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="no_apps">Nicio aplicaţie</string>
     <string name="no_new_perms">Această actualizare nu necesită permisiuni noi.</string>
     <string name="no_permissions">Nicio permisiune</string>
+    <string name="not_set">Nesetat</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
@@ -547,6 +579,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="pref_key_antivirus_summary">Verificați aplicațiile pentru viruși înainte de instalare</string>
     <string name="pref_key_app_store_summary">Cere să se descarce aplicațiile din surse sigure înainte de instalare</string>
     <string name="pref_key_app_store_title">Recomandă versiuni sigure</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacyPerms">Confidențialitate</string>
     <string name="privacy_relative">Confidențialitate</string>
     <string name="reboot_time">Se pregătește pentru repornire… (%1$s)</string>
@@ -747,5 +780,5 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Nivel de diagnosticare Wi-Fi crescut, afișează SSID RSSI în lista rețelelor Wi-Fi</string>
-    <string name="window_animation_scale_title">Scară animație fereastră</string>
+    <string name="window_animation_scale_title">Scală animație fereastră</string>
 </resources>
