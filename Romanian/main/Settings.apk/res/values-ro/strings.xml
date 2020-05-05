@@ -2129,7 +2129,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
     <string name="device_oaid">Gestionați ID-ul virtual</string>
     <string name="device_oaid_desc">În loc de identificatorul dvs. real, MIUI va oferi un ID virtual (OAID) aplicațiilor terțe. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
-    <string name="device_oaid">ID-ul dispozitivului</string>
+    <string name="device_oaid_title">ID virtual</string>
     <string name="device_of_someone">%2$s lui %1$s</string>
     <string name="device_picker">Selectați dispozitivul Bluetooth</string>
     <string name="device_rear_camera">Camera posterioară</string>
