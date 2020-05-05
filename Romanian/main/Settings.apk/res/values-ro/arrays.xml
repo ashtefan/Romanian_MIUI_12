@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aggregate_entries">
-        <item>Recomandate</item>
-        <item>Importante</item>
-        <item>Neimportante</item>
+        <item>Grupează</item>
+        <item>Grupează și setează prioritate scăzută</item>
+        <item>Nu grupa</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>MIUI va decide ce notificări ar trebui să fie afișate în mod direct</item>
-        <item>Notificările vor apărea în Perdeaua de notificări</item>
-        <item>Notificările vor apărea într-un dosar separat</item>
+        <item>Notificările promoționale și notificările push legate de conținut vor fi grupate</item>
+        <item>Notificările push vor fi grupate și afișate sub alte notificări</item>
+        <item>Notificările push nu vor fi grupate</item>
     </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
@@ -35,7 +35,7 @@
         <item>Vorbiți cu Google Assistant</item>
         <item>Deschideți căutarea Google</item>
         <item>Porniți camera posterioară</item>
-        <item>Porniți camera frontală camera</item>
+        <item>Porniți camera frontală</item>
         <item>Deschideți aplicația anterioară</item>
         <item>Porniți lanterna</item>
         <item>Activați modul Citire</item>
@@ -1168,8 +1168,8 @@
         <item>Arată animațiile de sistem</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Crește performanța telefonului"</item>
-        <item>"Poate scădea performanța telefonului"</item>
+        <item>Crește performanța telefonului</item>
+        <item>Poate scădea performanța telefonului</item>
     </string-array>
     <string-array name="fold_entries">
         <item>Recomandate</item>
@@ -1207,7 +1207,7 @@
         <item>Verifică întotdeauna</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
-        <item>"Nu porni ecranul"</item>
+        <item>Nu porni ecranul</item>
         <item>Pornește ecranul</item>
         <item>Arată animațiile</item>    
     </string-array>
@@ -1283,12 +1283,12 @@
         <item>Vișiniu</item>
     </string-array>
     <string-array name="miui_entries_font_size">
+        <item>XS</item>
         <item>S</item>
         <item>M</item>
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
-        <item>XXXL</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP şi versiuni Windows mai vechi</item>
@@ -1309,7 +1309,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Unealtă de instalare: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crează un director: mkdir /media/mtp</item>
         <item>Confirmă permisiunile grupului de utilizatori în amalgamul curent de grupuri de utilizatori</item>
         <item>Reconectați-vă</item>
@@ -1836,6 +1836,9 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Niciunul</item>
         <item>Manual</item>
         <item>Configurare automată proxy</item>
+    </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Slab</item>

@@ -6,6 +6,7 @@
     <string name="android_ringtone_silent">Niciunul</string>
     <string name="android_ringtone_unknown">Ton de apel necunoscut</string>
     <string name="asend">Trimiteți</string>
+    <string name="atlantis">Atlantis (stereo)</string>
     <string name="beep">Beep</string>
     <string name="bells">Clopoței</string>
     <string name="birdcicada_preview">Sunete din natură 2</string>
@@ -50,6 +51,7 @@
     <string name="device_redmi">Redmi</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="dewdrops">Picuri de rouă</string>
+    <string name="digitaluniverse">Univers digital (stereo)</string>
     <string name="echo">Ecou</string>
     <string name="expect">Entuziasm</string>
     <string name="fadein">Estompare</string>
@@ -62,6 +64,7 @@
     <string name="frenchchic">Franțuzoaică</string>
     <string name="fresh">Fresh</string>
     <string name="frog">Broască</string>
+    <string name="game">Joc</string>
     <string name="glee">Bucurie</string>
     <string name="glockenspiel">Glockenspiel</string>
     <string name="glorious">Glorie</string>
@@ -86,7 +89,23 @@
     <string name="mihouse">Mi Electronic</string>
     <string name="mijazz">Mi Jazz</string>
     <string name="miremix">Mi (Remix)</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Ceas secundar</string>
     <string name="miui_device_name">Android</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="mix">MIX</string>
     <string name="moment">Moment</string>
   <string name="monet">Lilie de iaz</string>
@@ -103,6 +122,7 @@
     <string name="presentation_unknown">Număr necunoscut</string>
     <string name="radar">Radar</string>
     <string name="raindrops">Picături de ploaie</string>
+    <string name="reveries">Reverii (stereo)</string>
     <string name="robot">Robot</string>
     <string name="secretgarden">Grădina secretă</string>
     <string name="spaceage">Era spatiala</string>
@@ -117,11 +137,21 @@
     <string name="vip_login">Apăsați pentru a vă autentifica</string>
     <string name="vip_not_login">Neconectat</string>
     <string name="vip_sign">Semnătură:</string>
+    <string name="wallpaper_group_black_white_title">Alb-Negru</string>
+    <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+    <string name="wallpaper_group_dynamic_nebula_title">Nebula Dinamic</string>
+    <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+    <string name="wallpaper_group_geometric_title">Geometrie</string>
+    <string name="wallpaper_group_minimalist_scenery_title">Minimalism</string>
+    <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen și alții</string>
+    <string name="wallpaper_group_natural_texture_title">Modele din natură</string>
+    <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitatea din Arizona</string>
+    <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="waterdrop_preview">Sunete din natură 1</string>
     <string name="windchime">Adieri de vânt</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nu se pot trimite mesaje în modul Vizitator"</string>
     <string name="yellow_page_sms_send_failed">"Nu s-a putut trimite mesajul SMS"</string>
     <string name="yellow_page_sms_sending">Trimitere…</string>
-    <string name="yellow_page_unable_send_sms">"Nu se poate trimite mesajul SMS"</string>
+    <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
 </resources>

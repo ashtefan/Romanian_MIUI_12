@@ -48,6 +48,7 @@
     <string name="cloud_status_full_dialog_msg">Stocarea în cloud este plină, înregistrările nu se pot sincroniza. Actualizaţi contul dvs. pentru a obține mai mult spațiu de stocare.</string>
     <string name="cloud_status_full_dialog_ok">Actualizaţi</string>
     <string name="cloud_status_full_dialog_title">Stocarea Xiaomi Cloud este plină</string>
+    <string name="copy">Copiați</string>
     <string name="data_connection_body">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Avertizare utilizare date</string>
@@ -88,6 +89,7 @@
     <string name="error_filename_too_long">Numele fişierului este prea lung</string>
     <string name="error_sdcard_access">"Nu se poate accesa cardul SD"</string>
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="export_to_note">Exportați</string>
     <string name="head_set_tip_dialog_msg">Deconectați căștile pentru a putea înregistra sunetul cu presetările specifice (de ex. Muzică, Voce).</string>
     <string name="head_set_tip_dialog_ok">Am înțeles</string>
@@ -115,6 +117,14 @@
     <string name="mi_account_msg">Conectați-vă utilizând contul Mi pentru a transcrie fișiere în Cloud și a obține primele 60 de minute gratuit.</string>
     <string name="mi_account_ok">Conectați-vă</string>
     <string name="mi_account_title">Conectați-vă utilizând contul Mi</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
     <string name="network_tip_dialog_cancel">"Nu sunt de acord"</string>
     <string name="network_tip_dialog_content">Aplicația de Înregistrare trebuie să se conecteze la internet pentru a funcționa în mod normal. Sunteți de acord?</string>
     <string name="network_tip_dialog_ok">De acord</string>
@@ -122,6 +132,7 @@
     <string name="network_unavailable_tip">Conectați-vă la rețea și încercați din nou.</string>
     <string name="new_record_name">Înregistrare nouă</string>
     <string name="no_file">Nicio înregistrare</string>
+    <string name="not_set">Nesetat</string>
     <string name="notification_message_all_paused">Se așteaptă conectarea la Wi-Fi.</string>
     <string name="notification_playback">Redare…</string>
     <string name="notification_recording">Înregistrare…</string>
@@ -164,6 +175,7 @@
     <string name="pay_error_unknown">Eroare necunoscută</string>
     <string name="playback_delete_records">Ștergeți înregistrarea</string>
     <string name="playback_share_records">Partajați înregistrarea</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_enable_earpiece_summary">Utilizați difuzorul frontal pentru redare audio</string>
     <string name="preference_enable_earpiece_title">Utilizați difuzorul frontal</string>
     <string name="preference_led_indicator">Înregistrare în blocarea ecranului</string>
@@ -313,6 +325,8 @@
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
     <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="webview_check_network">Setări de rețea</string>
     <string name="webview_data_error">A apărut o eroare</string>
     <string name="webview_locating_fail">"Nu v-am putut determina locația"</string>

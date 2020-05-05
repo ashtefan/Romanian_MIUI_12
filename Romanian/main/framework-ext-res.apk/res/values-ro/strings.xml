@@ -53,6 +53,11 @@
     <string name="default_device_name">Dispozitiv necunoscut</string>
     <string name="default_name">Implicit</string>
     <string name="description_title">Silențios</string>
+    <string name="device_name_with_ellipsize">%1$s…</string>
+    <string name="device_status_failed">Nu s-a putut trimite</string>
+    <string name="device_status_sending">Se trimite…</string>
+    <string name="device_status_success">Trimis cu succes</string>
+    <string name="device_status_waiting">Se așteaptă…</string>
     <string name="device_type_pc">Computer</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">0.05 lei/minut pentru apelurile locale</string>
@@ -145,6 +150,8 @@
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="onehour">30 de minute</string>
+    <string name="open_close_tip_action">Am înțeles</string>
+    <string name="open_close_tip_content">Pentru a închide fereastra plutitoare, apăsați și mențineți apăsat pe bara de acțiune, apoi glisați în sus</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
@@ -214,6 +221,7 @@
     <string name="security_permission_validate_warning">Vă mulțumim că ne ajutați să facem MIUI mai bun!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi și datele mobile pornite</string>
     <string name="security_permission_xiaomi_account_missed_text">Introduceți Mi Account ID</string>
+    <string name="security_share_text">Protejarea confidențialității</string>
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="send_files_to">Trimiteți elementele către</string>

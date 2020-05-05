@@ -88,6 +88,10 @@
         <item quantity="other">%d zile rămase</item>
         <item quantity="one">%d zi rămasă</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dispozitive disponibile</item>
+        <item quantity="one">%d dispozitiv disponibil</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispozitive</item>
         <item quantity="one">%d dispozitiv</item>
@@ -233,7 +237,7 @@
         <item quantity="one">%d adăugat</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
-        <item quantity="other">%1$d SIMs</item>
+        <item quantity="other">%1$d SIM-uri</item>
         <item quantity="one">%1$d SIM</item>
     </plurals>
     <plurals name="network_restrictions_summary">
@@ -304,6 +308,10 @@
         <item quantity="other">%1$d din %2$d permisiuni acordate</item>
         <item quantity="one">%1$d din %2$d permisiuni acordată</item>
     </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">S-au selectat %d elemente</item>
+        <item quantity="one">S-a selectat %d element</item>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s secunde</item>
         <item quantity="one">1 secundă</item>
@@ -329,8 +337,8 @@
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
     </plurals>
     <plurals name="show_number_hearingaid_count">
-        <item quantity="other">%1$d saved hearing aids</item>
-        <item quantity="one">%1$d saved hearing aid</item>
+        <item quantity="other">%1$d ajutoare de auz salvate</item>
+        <item quantity="one">%1$d ajutor de auz salvat</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon."</item>

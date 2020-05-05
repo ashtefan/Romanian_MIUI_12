@@ -40,8 +40,7 @@
     <string-array name="app_ops_labels">
         <item>Încearcă să activeze Wi-Fi-ul</item>
         <item>Încearcă să activeze BT</item>
-    </string-array>
-   
+    </string-array>   
     <string-array name="config_system_condition_providers">
         <item>numărătoare inversă</item>
         <item>program</item>
@@ -61,7 +60,7 @@
         <item></item>
         <item>Acoperiți complet senzorul cu degetul și apăsați</item>
         <item>Acoperiți complet senzorul cu degetul și apăsați</item>
-        <item>"Prea rapid! Nu s-a putut recunoaște amprenta"</item>
+        <item>Prea rapid! Nu s-a putut recunoaște amprenta</item>
         <item>Mișcați puțin degetul și reîncercați</item>
         <item>Ridicați și reașezați degetul pe senzor</item>
         <item>Mențineți degetul mai mult timp pe senzor</item>

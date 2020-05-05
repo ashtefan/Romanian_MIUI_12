@@ -6,6 +6,33 @@
 Mesajele vor apărea doar în spațiul secundar."</string>
     <string name="PrivacyContactDes2">"Dacă ați utilizat mesajele private în spațiul principal,
 această opțiune va fi activată în mod automat în spațiul secundar."</string>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_ent_mode">Despre Modul Servici</string>
     <string name="activate_ent_mode">Activați Modul Servici</string>
     <string name="add_finger_print">Adăugați o amprentă</string>
@@ -61,6 +88,7 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
 pentru a le putea vedea în orice moment"</string>
     <string name="contact_us">Contactați-ne</string>
     <string name="continueButton">Continuați</string>
+    <string name="copy">Copiați</string>
     <string name="createANewSpace">Creați în telefon un spațiu de lucru separat.</string>
     <string name="createUserFail">"Nu s-a putut crea"</string>
     <string name="create_app_icon_failed">"Nu s-a putut crea pictograma"</string>
@@ -149,6 +177,7 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="err_unknown">Eroare necunoscută</string>
     <string name="err_volume_not_enough">Spațiu de stocare insuficient</string>
     <string name="exit_private_space">Comutați</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="experience_more_features">Adăugați un dispozitiv pentru a vedea toate caracteristicile</string>
     <string name="facebook_login">Conectați-vă utilizând Facebook</string>
     <string name="facebook_send">Partajați prin Facebook</string>
@@ -223,8 +252,17 @@ Le puteți de asemenea descărca separat."</string>
     <string name="master_clear_apply_step_2">Asigurați-vă că ați făcut o copie de rezervă pentru toate elementele importante pe computer. După ce apăsați butonul \"OK\", se va realiza o revenire a dispozitivului la setările din fabrică și se vor șterge permanent toate datele și fișierele, inclusiv conturile, contactele, fotografiile și aplicațiile.</string>
     <string name="master_clear_apply_title">Atenție</string>
     <string name="master_clear_not_available">Resetarea la valorile din fabrică este restricționată de către compania dvs.</string>
+    <string name="master_clear_not_available_ep">Nu aveți permisiunea de a reveni la setările din fabrică sau să revocați autorizarea acum. Contactați supervizorul.</string>
     <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
     <string name="mess ageData">Mesaje</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="more_settings">Mai multe</string>
     <string name="msg_switch_file">Ștergeți aceste fișiere din Spațiul Principal după ce vor fi mutate?</string>
     <string name="msg_switch_file_second">Ștergeți aceste fișiere din Spațiul Secundar după ce sunt mutate?</string>
@@ -240,6 +278,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="next_setp">Mai departe</string>
     <string name="no_match_repate_scanner">"Amprentele nu corespund; scanați din nou"</string>
     <string name="normal_app">Spațiul Principal</string>
+    <string name="not_set">Nesetat</string>
     <string name="not_support_air_space">"Această caracteristică nu este suportată de telefonul dvs."</string>
     <string name="not_support_multiple_users">"Nu sunt suportate spații de lucru multiple"</string>
     <string name="notificationSetPassword">Setați parola</string>
@@ -262,6 +301,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="passwordProtect">Parola</string>
     <string name="please_diff_finger_print">"Asigurați-vă că utilizați amprente diferite pentru cele 2 spații de lucru.
 Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacyContactsSummary">Arată elementele private în Spațiul Secundar</string>
     <string name="privacyContactsTitle">Mesaje și contacte private</string>
     <string name="privacy_password_fingerprint_dialog_message">Puneți degetul pe senzorul de amprentă</string>
@@ -312,6 +352,7 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
 Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespunzător, de asemenea."</string>
     <string name="sdcradfs_dialog_in_sec_title">Actualizare importantă</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="secondSpace">Spațiul Secundar</string>
     <string name="second_owner_finger_print">Amprenta pentru Spațiul secundar</string>
@@ -320,6 +361,8 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
     <string name="second_space_desktop_tips_dialog_title">Actualizare importantă</string>
     <string name="second_space_finger_printf_desc">Adăugați amprenta utilizată pentru accesarea Spațiului secundar</string>
     <string name="second_space_finger_printf_title">Amprenta pentru Spațiul secundar</string>
+    <string name="secondspace_homepage">"Setați un model de blocare separat pentru Spațiul secundar.
+Separați și securizați-vă datele."</string>
     <string name="select_existed_fingerprint">Selectați amprenta</string>
     <string name="serNameSummary">Spațiul Secundar</string>
     <string name="setSecondSpacePassword">Setați parola pentru Spațiul Secundar</string>
@@ -391,6 +434,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_setting_guide_desc_title">Sunt câteva lucruri de setat</string>
     <string name="stop_xspace_alert_content">Ștergeți toate aplicațiile clonate precum și conturile și datele acestora? Telefonul va reporni pentru a aplica această modificare.</string>
     <string name="stop_xspace_alert_title">"Ștergeți conturile aplicațiilor clonate"</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul curent</string>
     <string name="support_desc">Servicii de securitate oferite de Spaces Mobile</string>
     <string name="sure_to_use">Confirmați</string>
@@ -440,6 +484,8 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="undo_success">Revocată cu succes</string>
     <string name="use_google_open">Treziți utilizând asistentul Google</string>
     <string name="use_xiaoai_open">Treziți utilizând Mi AI</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="wating">Doar o secundă…</string>
     <string name="weibo_send">Trimiteți în Weibo</string>
     <string name="weixin_pay">Plată WeChat</string>
