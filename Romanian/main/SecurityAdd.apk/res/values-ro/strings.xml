@@ -34,6 +34,7 @@
     <string name="app_select_title">Adăugați aplicații utilizate frecvent</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_button">Renunțați</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="cta_main_purpose">Bine ați venit la Jocuri Turbo!</string>
     <string name="dialog_market_score_cancel">Renunțați</string>
     <string name="dialog_market_score_dislike">Comentați</string>

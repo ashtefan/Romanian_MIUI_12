@@ -25,6 +25,12 @@
         <item>Cod PIN</item>
         <item>Parolă</item>
     </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizat</item>
+        <item>Cartelă Mi Fan</item>
+        <item>Cartelă Xiao Tiansheng</item>
+        <item>Cartelă Tencent King</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>"Ieri (date mobile) "</item>
         <item>"Astăzi (date mobile) "</item>
@@ -57,6 +63,12 @@
         <item>"Astăzi: "</item>
         <item>"Această lună: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Va fi posibil să acceseze și să editeze fișierele de pe dispozitiv utilizând un computer.</item>
+        <item>Instalarea aplicațiilor pe dispozitiv fără permisiunea dvs. explicită va fi permisă.</item>
+        <item>Veți putea să monitorizați și să înregistrați conținutul de pe ecran de la distanță.</item>
+        <item>Se vor putea accesa informații detaliate despre dispozitivul dvs.</item>
+    </string-array>
     <string-array name="ew_emergency_blood_type_arrays">
         <item>A</item>
         <item>B</item>
@@ -76,6 +88,10 @@
         <item>"Utilizare date mobile "</item>
         <item>"Utilizare Wi-Fi "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Important: Este posibil ca mai multe aplicații de sistem să nu mai funcționeze corect.</item>
+        <item>Dispunerea textului, conturile și conținutul pot fi afișate necorespunzător.</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Arată atenționare</item>
         <item>Atenționează și oprește datele mobile</item>
@@ -87,6 +103,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>Se utilizează modul implicit de control al temperaturii</item>
         <item>Se prioritizează performanța</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Citirea tuturor notificărilor, inclusiv conținutul mesajelor text și a altor elemente ce pot conține informații personale</item>
+        <item>Restricționarea permisiunii de accesare a notificărilor pentru unele aplicații</item>
+        <item>Simularea atingerii notificărilor și deschiderea aplicațiilor</item>
+        <item>Activarea și dezactivarea modului Nu deranjați</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Colectarea datelor despre interesele și comportamentul dvs. prin învățarea aplicațiilor pe care le utilizați și a frecvenței de utilizare a lor</item>
+        <item>Accesarea setărilor legate de limbă și operator, ca și a altor detalii</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Aplicațiile terțe care nu sunt verificate de către GetApps pot cauza diverse probleme și scădea stabilitatea sistemului.</item>
+        <item>Unele aplicații terțe pot conține malware care supun la risc datele dvs. personale.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Stocarea internă</item>
+        <item>Stocarea externă</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Întotdeauna</item>

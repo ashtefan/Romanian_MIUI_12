@@ -6,6 +6,7 @@
     <string name="appindex_search_label">Funcțiile aplicațiilor</string>
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>
+    <string name="apps_search_activity"/>
     <string name="barcode_install_back">Înapoi</string>
     <string name="barcode_install_cancel">Renunțați</string>
     <string name="barcode_install_confirm">Instalați</string>
