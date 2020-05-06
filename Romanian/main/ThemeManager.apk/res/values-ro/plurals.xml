@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Sunt disponibile actualizări pentru %1$d teme</item>
+        <item quantity="one">Este disponibilă o actualizare pentru %1$d temă</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">Se actualizează %1$d teme</item>
+        <item quantity="one">Se actualizează %1$d temă</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fani</item>
+        <item quantity="one">%1$d fan</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d pictograme</item>
+        <item quantity="one">%1$d pictogramă</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">%1$d comentarii în plus</item>
+        <item quantity="one">%1$d comentariu în plus</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">Cu %d ore în urmă</item>
         <item quantity="one">Cu %d oră în urmă</item>
@@ -11,6 +64,41 @@
     <plurals name="guide_used_number">
         <item quantity="other">Aplicat pe %1$d dispozitive</item>
         <item quantity="one">Aplicat pe %1$d dispozitiv</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Sunt disponibile actualizări pentru %1$d pictograme</item>
+        <item quantity="one">Sunt disponibile actualizări pentru  %1$d pictogramă</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Se actualizează %1$d pictograme…</item>
+        <item quantity="one">Se actualizează %1$d pictogramă…</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentarii</item>

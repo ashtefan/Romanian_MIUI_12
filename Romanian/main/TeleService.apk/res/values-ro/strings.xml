@@ -169,6 +169,8 @@
     <string name="advanced_settings_show">▷ Atingeţi pentru a le afişa pe toate</string>
     <string name="advertisements_disable">Publicitate dezactivată</string>
     <string name="advertisements_enable">Publicitate activată</string>
+    <string name="ai_assistant_not_installed">Instalați mai întâi asistentul de apelare AI</string>
+    <string name="ai_assistant_setting_title">Asistentul de apelare AI</string>
     <string name="alarm_template">la %1$s</string>
     <string name="alarm_template_far">pe %1$s</string>
     <string name="alert_dialog_close">Închideţi profilul</string>
@@ -194,6 +196,7 @@
     <string name="antispam_setting">Lista blocărilor</string>
     <string name="apn_settings">Numele punctelor de acces</string>
     <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
+  <string name="app_name">Preference</string>
     <string name="app_process_limit_title">Limita proceselor de fundal</string>
     <string name="atr_disable">Informaţii locale de trafic dezactivate</string>
     <string name="atr_enable">Informaţii locale de trafic activate</string>
@@ -1010,6 +1013,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenție</string>
     <string name="fiveg_sa_switch_summary">Permiteți conectarea la rețelele 5G în modul de sine stătător</string>
     <string name="fiveg_sa_switch_title">Mod SA</string>
+    <string name="fiveg_sa_switch_warning_toast">Vă rugăm să reporniți telefonul pentru a aplica modificările.</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G :</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>
     <string name="fiveg_switch_status1">Stare comutare 5G :</string>
@@ -1217,7 +1221,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="menu_add">Adăugaţi o persoană în agendă</string>
     <string name="menu_delete">Ștergeţi persoana din agendă</string>
     <string name="menu_dial">Apelați un contact</string>
-    <string name="menu_edit">Modificaţi informaţiile despre persoana din agendă</string>
+    <string name="menu_edit">Editați contactul</string>
     <string name="messageCFB">Număr pentru redirecţionare dacă este ocupat</string>
     <string name="messageCFNRc">Număr de redirecţionare dacă telefonul nu este accesibil</string>
     <string name="messageCFNRc_kr_kt">"Un serviciu de rețea care redirecționează toate apelurile primite și mesajele text către un anume număr de telefon atunci când nu puteți prelua apeluri (de exemplu, atunci când vorbiți la telefon sau când acesta este închis). Este nevoie să vă abonați la acest serviciu. Contactați centrul de suport pentru clienți (114+[Trimitere]) pentru a vă abona/dezabona de la acest serviciu. Introduceți *72+[numărul pentru redirecționare apeluri][Trimitere] pentru a activa, sau *720[Trimitere] pentru a dezactiva.
@@ -1225,10 +1229,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
 Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="messageCFNRy">Număr pentru redirecţionare dacă nu se răspunde</string>
     <string name="messageCFU">Utilizaţi întotdeauna acest număr</string>
-    <string name="messageCFU_kr_kt">"Un serviciu de rețea care redirecționează toate apelurile primite și mesajele text către un anume număr de telefon. Este nevoie să vă abonați la acest serviciu. Veți fi taxat lunar pentru acest serviciu. Contactați centrul de suport pentru clienți (114+[Trimitere]) pentru a vă abona/dezabona de la acest serviciu. Introduceți *71+[numărul pentru redirecționare apeluri][Trimitere] pentru a activa, sau *710[Send] pentru a dezactiva.
-
-Utilizați întotdeauna acest număr de telefon"</string>
-    <string name="messageCW_kr_kt">Un serviciu de rețea gratuit care vă permite să răspundeți la un al doilea apel atunci când sunteți deja în cursul unui apel, trecând primul apel în așteptare. Introduceți *40+[Trimitere] pentru a activa, sau *400+[Trimitere] pentru a dezactiva.</string>
+    <string name="messageCFU_kr" formatted="false">Un serviciu de rețea care redirecționează toate apelurile primite și mesajele text către un anume număr de telefon. Este nevoie să vă abonați la acest serviciu. Veți fi taxat lunar pentru acest serviciu. Contactați centrul de suport pentru clienți (114+[Trimitere]) pentru a vă abona/dezabona de la acest serviciu. Introduceți %s+[numărul pentru redirecționare apeluri][Trimitere] pentru a activa, sau %s[Send] pentru a dezactiva.</string>
+    <string name="messageCW_kr" formatted="false">Un serviciu de rețea gratuit care vă permite să răspundeți la un al doilea apel atunci când sunteți deja în cursul unui apel, trecând primul apel în așteptare. Introduceți %s[Trimitere] pentru a activa, sau %s[Trimitere] pentru a dezactiva.</string>
     <string name="messageCallBarring">Introduceți parola</string>
     <string name="message_decode_error">A apărut o eroare la decodificarea mesajului.</string>
     <string name="mhh_disable">Medicină, sănătate şi spitale dezactivate</string>
@@ -1251,6 +1253,14 @@ Utilizați întotdeauna acest număr de telefon"</string>
     <string name="miui_network_selection_reset_text">Resetați</string>
     <string name="miui_notification_network_selection_title">SIM: Fără serviciu</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM-ul %s: Fără serviciu</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mmiCancelled">Cod MMI anulat</string>
     <string name="mmiStarted">Cod MMI pornit</string>
     <string name="mobile_advanced_dns_server_title">Adresa serverului DNS</string>
@@ -1343,9 +1353,18 @@ Utilizați întotdeauna acest număr de telefon"</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta în timpul unui apel</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>
     <string name="msim_setting_categery_title">Setările cartelei SIM</string>
+    <string name="msim_setting_default_data">Cartelă pentru date</string>
+    <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+    <string name="msim_setting_install_virtual_sim_install">Instalați</string>
+    <string name="msim_setting_install_virtual_sim_message">Instalați Serviciile de Operator Mi pentru a cumpăra cartele SIM și pentru a gestiona abonamentul de la operator.</string>
+    <string name="msim_setting_install_virtual_sim_tip">Servicii de Operator Mi</string>
     <string name="msim_setting_no_sim_indicator">Nicio cartelă SIM</string>
+    <string name="msim_setting_no_sim_number">Nesetat</string>
+    <string name="msim_setting_no_sim_package_info">Nu există informații despre balanță</string>
     <string name="msim_setting_operator_network_title">Reţea celulară</string>
+    <string name="msim_setting_pop_text">Selectați cartela SIM pentru apelare</string>
     <string name="msim_setting_screen_title">Cartelă SIM şi reţele celulare</string>
+    <string name="msim_setting_set_package">Selectați planul</string>
     <string name="msim_setting_sim_info_editor_title">Editaţi informaţiile cartelei SIM</string>
     <string name="msim_sim_lock">Blocat</string>
     <string name="msim_sim_radio_off">Dezactivat</string>
@@ -1388,7 +1407,7 @@ Utilizați întotdeauna acest număr de telefon"</string>
     <string name="network_settings_next">Înainte</string>
     <string name="network_settings_query_failed_message">Nu au putut fi căutate rețelele celulare.</string>
     <string name="network_settings_select_automatic_hint">"Nu se poate înregistra în rețeaua pe care ați selectat-o.
-Se va utiliza rețeaua preferată."</string>
+Se va utiliza în schimb rețeaua preferată."</string>
     <string name="network_settings_title">Rețele mobile</string>
     <string name="network_settings_turn_off">Oprit</string>
     <string name="network_settings_warn_message">Dispozitivul se va conecta numai la rețelele selectate manual.</string>
