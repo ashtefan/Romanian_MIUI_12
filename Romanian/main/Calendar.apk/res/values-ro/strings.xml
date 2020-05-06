@@ -123,7 +123,7 @@
     <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
-  <string name="chip_text">Chip text</string>
+  <string name="chip_text">Fragment de text</string>
     <string name="chips_action_cancel">Renunțați</string>
     <string name="chips_action_copy">Copiați</string>
     <string name="chips_permission_text">Permiteți sugerarea de contacte</string>

@@ -48,6 +48,10 @@
         <item>&lt;3.7 mph</item>
         <item>&lt;3.2 kn</item>
     </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>neinteresat</item>
+        <item>calitate slabă a conținutului</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Bucharest</item>
         <item>Iasi</item>

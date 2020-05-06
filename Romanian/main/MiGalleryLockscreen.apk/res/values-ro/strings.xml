@@ -8,18 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">șterge</string>
@@ -141,11 +129,14 @@
     <string name="change_activate_email">Modificați adresa de e-mail</string>
     <string name="change_password">Modificați parola</string>
     <string name="change_time">Schimbați imaginile de fundal</string>
-    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+  <string name="chip_text">Fragment de text</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">"Nu, voi crea unul"</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_search_edittext">Goliți</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="close_gallery">Dezactivați</string>
     <string name="collect_diagnosis_log">Colectați jurnale de diagnoză</string>
     <string name="comment_pop_cancel">Nu acum</string>
@@ -253,9 +244,11 @@ Trimiteți acest cod supervizorului."</string>
     <string name="enable_toast_cwo">S-a activat Caruselul de imagini de fundal și s-a pornit colajul</string>
     <string name="enable_toast_subscribe">S-a activat Caruselul de imagini de fundal și s-au activat abonamentele.</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este asociată deja altui cont Mi.</string>
+    <string name="error_icon_content_description">Eroare</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă nu este validă.</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja altui cont Mi.</string>
     <string name="explorer_activity_title">Caruselul de imagini de fundal</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="facebook_application_id"/>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="favor_list_no_data">Niciun element aici.</string>
@@ -274,6 +267,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="history_list_no_data">Niciun element aici</string>
     <string name="hour_1">În fiecare oră</string>
     <string name="hour_3">La fiecare 3 ore</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
     <string name="idbct_desc">Personalizați Caruselul de imagini de fundal în funcție de tipul rețelei</string>
     <string name="idbct_opt_auto_select_desc_text">Descărcați imaginile standard utilizând datele mobile și imaginile HD prin Wi-Fi</string>
     <string name="idbct_opt_auto_select_main_text">Auto</string>
@@ -346,6 +340,32 @@ Trimiteți acest cod supervizorului."</string>
     <string name="manage">Gestionați</string>
     <string name="minutes_15">La fiecare 15 minute</string>
     <string name="minutes_5">La fiecare 5 minute</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Ceas secundar</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mode_auto_desc">Activați Caruselul de imagini de fundal pentru a primi imagini noi în mod automat</string>
     <string name="mode_auto_desc_open">Primiți imagini noi în mod automat</string>
     <string name="mode_auto_desc_selected">Se primesc imagini noi în mod automat</string>
@@ -363,7 +383,38 @@ Trimiteți acest cod supervizorului."</string>
     <string name="morning_greet_mark">" Salutări matinale Mi"</string>
     <string name="morning_greet_title">Salutări matinale</string>
     <string name="morning_picture_tab">Imagine</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați o Dată</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana zilelor: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilizați: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Înafara intervalului: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de start – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de sfârșit</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați un interval de Date</string>
+    <string name="mtrl_picker_range_header_unselected">Data de start – Data de sfârșit</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de sfârșit</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de start</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul de introducere calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="need_open_gallery">Activați Caruselul de imagini de fundal</string>
     <string name="new_feature_title">"Ce este nou"</string>
     <string name="nick_name">Pseudonim</string>
@@ -565,6 +616,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="share_today_morning">Partajați</string>
     <string name="shield">"Blocați: "</string>
     <string name="shield_failed">"Nu s-a putut bloca elementul"</string>
+    <string name="shield_tag_ceil">Ne mai pot bloca alte elemente</string>
     <string name="shield_tag_dislike_desc">Selectați pentru a face ca astfel de imagini să apară mai rar</string>
     <string name="shield_tag_dislike_title">Nu mă interesează</string>
     <string name="shield_tag_entrance_desc">Selectați pentru a bloca toate fotografiile din această categorie</string>
@@ -675,6 +727,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
     <string name="system_default">Implicit</string>
     <string name="tab_user_title_bar_text">Setări</string>
+    <string name="tb_collapse_desc">Ascunde meniul \"Partajați\"</string>
     <string name="temporary_not_available">Această caracteristică nu este disponibilă încă</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica; încercați din nou mai târziu"</string>
     <string name="theme_apply_lockscreen_apply">Se activează Caruselul de imagini de fundal…</string>

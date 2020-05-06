@@ -500,7 +500,7 @@ Selecție"</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="charge_length_format">%1$s în urmă</string>
-  <string name="chip_text">Chip text</string>
+  <string name="chip_text">Fragment de text</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
     <string name="choose_clock_panel_title">Dispunerea blocării ecranului</string>
     <string name="choose_clock_third_theme_hint_text">Blocarea ecranului din tema curentă aplicată</string>

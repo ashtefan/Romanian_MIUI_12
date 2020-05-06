@@ -140,6 +140,7 @@
     <string name="document_title">Fotografiați documentul</string>
     <string name="document_top_panel_title">Fotografie a documentului</string>
     <string name="done">Terminat</string>
+    <string name="downloadAiVison">Instalați o extensie pentru a utiliza această caracteristică</string>
     <string name="download_stable_version">Utilizați versiunea stabilă</string>
     <string name="download_use_stable_version">Descărcați versiunea stabilă</string>
     <string name="drag_barcode_into_frame">Aranjați rama astfel încât să acopere codul</string>
@@ -252,11 +253,13 @@
     <string name="previous">Înapoi</string>
     <string name="prompt">Atenție</string>
     <string name="qr_code_details">Detalii cod QR:</string>
+    <string name="queryGoodsFailed">Nu s-au găsit informațiile despre produs</string>
     <string name="queryNum">Verificați comanda</string>
     <string name="query_faile">Starea comenzii și detaliile acesteia nu au fost sincronizate încă. Verificați manual comanda.</string>
     <string name="query_inai">Permiteți Mi AI să vă ajute</string>
     <string name="query_more">Mai multe informații</string>
     <string name="query_tracknum">Verificați comanda cu livrare expres</string>
+    <string name="qureyGoods">Căutați produse</string>
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
     <string name="request_server_failed">Nu s-a putut conecta la server</string>
@@ -336,6 +339,7 @@
     <string name="translation_prompt_translating">Traducere în curs…</string>
     <string name="translation_prompt_word">Plasați cuvântul în interiorul cadrului</string>
     <string name="translation_see_more">Vizualizați definiția</string>
+    <string name="translation_type_chat">Mesagerie</string>
     <string name="translation_type_sentence">Frază</string>
     <string name="translation_type_word">Cuvânt</string>
     <string name="uninstall_prompt">Dacă apar probleme pe durata instalării, mergeți la Setări &gt; Aplicații &gt; Gestionați aplicațiile &gt; Scaner, apăsați \"Dezinstalați\" și încercați să instalați aplicația din nou.</string>

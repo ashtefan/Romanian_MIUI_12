@@ -24,6 +24,14 @@
         <item quantity="other">%1$s imagini de fundal</item>
         <item quantity="one">%1$s imagine de fundal</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotografii</item>
+        <item quantity="one">%s fotografie</item>
+    </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">Cu %d zile în urmă</item>
         <item quantity="one">Cu %d zi în urmă</item>

@@ -62,6 +62,7 @@
     <string name="check_update_policy">Setări</string>
     <string name="check_update_when_wifi_available">Utilizaţi doar Wi-Fi pentru verificarea actualizărilor</string>
     <string name="check_update_when_wifi_available_sum">"Se verifică pentru actualizări doar atunci când este conexiune la internet prin Wi-Fi"</string>
+    <string name="chengelog">%1$s</string>
     <string name="clean_up_button">Curăţare</string>
     <string name="comment_invalid">Daţi o notă acestei actualizări (atingeţi steluțele)</string>
     <string name="comment_publish">Trimiteţi</string>
@@ -125,7 +126,7 @@
     <string name="install">Instalaţi</string>
     <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: <b>%1$s</b>.
 Partiția de date nu va fi ștearsă."</string>
-  <string name="install_title">Sunteți sigur că doriți să continuați?</string>
+    <string name="install_title">Sunteți sigur că doriți să continuați?</string>
     <string name="install_failed">Actualizare eşuată</string>
     <string name="install_file_explorer">Instalaţi mai întâi un Explorer de Fişiere</string>
     <string name="install_local">Instalaţi fişier local</string>
@@ -140,7 +141,9 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
+    <string name="message">%1$s</string>
     <string name="message_checkbox">Ascundeți mesajele viitoare de la echipa Xiaomi.eu</string>
+    <string name="message_checkbox_device">Nu arăta din nou</string>
     <string name="message_title">NOTĂ!</string>    
     <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Accesaţi forumul MIUI&lt;/a&gt;" "</string>
     <string name="miui_summary_has_new_version">" Actualizare disponibilă "</string>
@@ -249,7 +252,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="root_acquired">Permiteți acces root</string>
     <string name="root_agree_check_box_title">Înțeleg riscurile accesului root</string>
     <string name="root_dangerous_msg">Permisiunea de acces root este extrem de riscantă și vă poate expune dispozitivul și datele personale atacurilor provenite de la aplicațiile rău-intenționate. Acceptați că sunteți singurul responsabil pentru orice daune aduse dispozitivului sau pentru pierderea datelor ca urmare a permisiunii acces root.</string>
-  <string name="server_error">Serverul nu răspunde; este posibil ca aplicația să nu funcționeze corespunzător!</string>
+    <string name="server_error">Serverul nu răspunde; este posibil ca aplicația să nu funcționeze corespunzător!</string>
     <string name="set_auto">Se verifică pentru actualizări în mod automat</string>
     <string name="set_auto_msg">Descărcați actualizările când sunteți conectat la Wi-Fi și le instalați peste noapte?</string>
     <string name="set_auto_update_title">Activați actualizarea automată?</string>
@@ -280,7 +283,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="sogou_uninstall_positive_button">Alegeți altă tastatură</string>
     <string name="sogou_uninstall_title">Compatibilitatea tastaturii</string>
     <string name="space_not_enough_msg">Nu există spaţiu pe dispozitivul dvs. pentru a descărca această actualizare. Verificați stocarea dispozitivului și încercați din nou.</string>
-  <string name="stable">stabil</string>
+    <string name="stable">stabil</string>
     <string name="space_not_enough_title">Nu există suficient spațiu de stocare</string>
     <string name="stable_build">Stabil</string>
     <string name="submit">Trimiteţi</string>
@@ -330,7 +333,7 @@ Participaţi la sondaj lunea viitoare"</string>
     <string name="user_intertup_download_title">Descărcare în pauză</string>
     <string name="validate_pkg_failed_msg">Nu s-a putut verifica sursa acestei actualizări. Încercați să descărcați din nou.</string>
     <string name="validate_pkg_failed_title">Nu se poate verifica actualizarea</string>
-  <string name="version">Versiunea curentă:</string>
+    <string name="version">Versiunea curentă:</string>
     <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
     <string name="vote_beta">Programul Feedback Beta</string>
     <string name="vote_error1">"Se pare că nu sunteți un membru
@@ -349,7 +352,7 @@ Nu se poate trimite feedback-ul"</string>
     <string name="vote_not_recommend">Nu se recomandă</string>
     <string name="vote_recommend">Se recomandă această actualizare</string>
     <string name="vote_submit">Trimiteţi</string>
-  <string name="weekly">săptămânală</string>
+    <string name="weekly">săptămânală</string>
     <string name="weekly_build">Săptămânal</string>
     <string name="welcom_button">OK</string>
     <string name="welcom_message">Sunteţi pregătit de petrecere</string>

@@ -72,7 +72,7 @@ dd/MM"</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-  <string name="chip_text">Chip text</string>
+  <string name="chip_text">Fragment de text</string>
     <string name="choose_aod_style">Selectați tema</string>
     <string name="chosen_picture">Selectați fundalul</string>
     <string name="clear_text_end_icon_content_description">Ștergeți textul</string>

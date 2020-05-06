@@ -28,6 +28,10 @@
         <item quantity="other">Conținutul dumneavoastră conține elemente (%1$s) care încalcă standardele comunității noastre. Contul dvs. este suspendat pentru %2$d zile până la %3$s.</item>
         <item quantity="one">Conținutul dumneavoastră conține elemente (%1$s) care încalcă standardele comunității noastre. Contul dvs. este suspendat pentru %2$d zi până la %3$s.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Această caracteristică va fi dezactivată pentru %s zile</item>
+        <item quantity="one">Această caracteristică va fi dezactivată pentru %s zi</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
