@@ -188,6 +188,7 @@
     <string name="clone_offset_is_too_large">Prea multă mișcare. Încercați să reluați.</string>
     <string name="clone_photo_mode">Fotografie</string>
     <string name="clone_put_phone_back_in_place">Întoarceți dispozitivul în poziția inițială</string>
+    <string name="clone_recapture_alert">Reluați?</string>
     <string name="clone_start_capture">Începeți clonarea</string>
     <string name="clone_too_much_movement_stop">Ați mutat dispozitivul prea departe. S-a oprit captarea deocamdată.</string>
     <string name="clone_video_mode">Video</string>

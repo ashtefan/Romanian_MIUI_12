@@ -2484,6 +2484,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_look_all_permission_status">Toate permisiunile</string>
     <string name="privacy_look_all_permission_times">Toate aplicațiile</string>
     <string name="privacy_manage_title">Gestionați</string>
+    <string name="privacy_mask_summary">În loc de identificatorul dvs. real, MIUI va oferi un ID virtual (OAID) aplicațiilor terțe. Acest lucru împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
+    <string name="privacy_mask_title">ID-ul virtual este activ</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
     <string name="privacy_more_info_title">Aflați mai multe despre caracteristicile de protejare a confidențialității</string>
     <string name="privacy_notification_subtitle">Atingeți pentru a gestiona permisiunile</string>
