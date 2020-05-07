@@ -344,7 +344,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_pc_backup_restore_link">Dispozitiv mobil</string>
     <string name="new_pc_backup_summary1">Selectați elementele și apăsați \"Creați o copie de rezervă\".</string>
     <string name="new_pc_backup_summary2">Conectați telefonul la computer printr-un cablu USB.</string>
-    <string name="new_pc_backup_summary4">Notă: puteți de asemenea copia fotografiile și videoclipurile din /DCIM.</string>
+    <string name="new_pc_backup_summary4">Notă: puteți de asemenea copia fotografiile și videoclipurile din MIUI-DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conectați dispozitivul mobil la computer printr-un cablu USB.</string>
     <string name="new_pc_restore_content2">%d. Copiați copia de rezervă din computer în MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Deschideți \"%2$s\" și selectați elementele de restaurat.</string>
