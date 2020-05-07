@@ -384,9 +384,9 @@
     <string name="open_personal_assistant_title">Asistent inteligent</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
     <string name="permdesc_install_shortcut">Permite unei aplicaţii să adauge comenzi rapide fără intervenţia utilizatorului.</string>
-    <string name="permdesc_install_widget">Permite aplicaţiei adăugarea obiectelor widget fără intervenţia utilizatorului.</string>
+    <string name="permdesc_install_widget">Permite aplicaţiei adăugarea obiectelor widget fără acțiuni suplimentare din partea utilizatorului.</string>
     <string name="permdesc_read_settings">Permite aplicaţiei să citească setările şi comenzile rapide din ecranul de pornire.</string>
-    <string name="permdesc_uninstall_shortcut">Permite aplicaţiei să elimine comenzile rapide fără intervenţia utilizatorului.</string>
+    <string name="permdesc_uninstall_shortcut">Permite aplicaţiei să elimine comenzile rapide fără acțiuni suplimentare din partea utilizatorului.</string>
     <string name="permdesc_uninstall_widget">Permite unei aplicații să elimine widgeturi fără intervenția utilizatorului.</string>
     <string name="permdesc_write_settings">Permite aplicaţiei să modifice setările şi comenzile rapide din ecranul de pornire.</string>
     <string name="permlab_install_shortcut">Instalează comenzi rapide</string>

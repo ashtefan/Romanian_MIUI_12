@@ -11,14 +11,14 @@
 accesați %s de pe alt dispozitiv conectat"</string>
     <string name="loading">Doar o secundă…</string>
     <string name="mibi_license">Acordul utilizatorului pentru serviciul Mi Credit</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="open_wifi_connect_and_use_data_summary">Se utilizează datele mobile. Atingeți pentru a comuta la Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>

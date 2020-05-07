@@ -52,7 +52,7 @@
     <string name="disagreement_function">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această caracteristică. Puteți alege să nu utilizați această caracteristică în astfel de cazuri.</string>
     <string name="disagreement_location_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagreement_terminate_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
-    <string name="download_introduction">Această aplicație gestionează toate descărcările dvs., inclusiv cele efectuate în Magazin Play, Mi Video, Actualizări, Teme și Browser.</string>
+    <string name="download_introduction">\"Descărcări\" utilizează Xunlei pentru a descărca elemente în dispozitiv. Această unealtă funcționează pentru GetApps, actualizările de sistem, teme, videoclipuri și descărcările din browser.</string>
     <string name="enable_accessibility_canceled">Accesibilitate dezactivată.</string>
     <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>

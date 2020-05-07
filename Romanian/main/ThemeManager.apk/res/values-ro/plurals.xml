@@ -70,7 +70,7 @@
     </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="other">Sunt disponibile actualizări pentru %1$d pictograme</item>
-        <item quantity="one">Sunt disponibile actualizări pentru  %1$d pictogramă</item>
+        <item quantity="one">Sunt disponibile actualizări pentru %1$d pictogramă</item>
     </plurals>
     <plurals name="icon_batch_updating_text">
         <item quantity="other">Se actualizează %1$d pictograme…</item>

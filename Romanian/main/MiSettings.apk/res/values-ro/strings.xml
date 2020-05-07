@@ -47,6 +47,7 @@
     <string name="contact_title">Scurtături ale contactelor</string>
     <string name="contrast_ratio">Contrast</string>
     <string name="control_center_title">Timpul de utilizare a ecranului azi</string>
+    <string name="control_center_title_new">Utilizat azi</string>
     <string name="copy">Copiați</string>
     <string name="create">Creați</string>
     <string name="create_failed">Nu s-a putut crea</string>
@@ -120,6 +121,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="focus_mode_custom_time">Durată personalizată</string>
     <string name="focus_mode_timer_add_limit">Puteți adăuga maxim %d temporizatoare personalizate</string>
     <string name="focus_mode_timer_delete">Ștergeți</string>
     <string name="focus_mode_timer_exist">Această sesiune există deja</string>

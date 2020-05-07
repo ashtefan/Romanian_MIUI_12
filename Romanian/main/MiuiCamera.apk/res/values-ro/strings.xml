@@ -110,7 +110,7 @@
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="ai_watermark_title">Amprentă AI</string>
-    <string name="app_name">Gestionare efecte</string>
+  <string name="app_name">Preference</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
     <string name="autozoom_disabled_hint">S-a oprit urmărirea obiectelor în mișcare</string>

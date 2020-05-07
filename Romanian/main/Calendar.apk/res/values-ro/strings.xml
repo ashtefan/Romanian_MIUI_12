@@ -52,6 +52,7 @@
     <string name="account_and_calendar">Cont şi calendar</string>
     <string name="action_bar_return">Înapoi</string>
     <string name="action_label">Reveniți</string>
+    <string name="action_text_card_manager">Canal</string>
     <string name="actionbar_button_up_description">Înapoi</string>
   <string name="ad_card_connecting">conexiune</string>
   <string name="ad_card_download_count">utilizatorii descarcă %1$s</string>
@@ -67,7 +68,7 @@
     <string name="add_event">Adăugați un eveniment</string>
     <string name="address">Adresă</string>
     <string name="afternoon">PM</string>
-    <string name="agenda_month_empty_hint">Niciun eveniment pentru azi</string>
+    <string name="agenda_month_empty_hint">Niciun eveniment programat pentru azi. Atingeți pentru a crea unul.</string>
     <string name="agenda_not_today_empty_hint">Niciun eveniment aici încă. Atingeți pentru a crea unul.</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
     <string name="agenda_view">Evenimente</string>
@@ -475,7 +476,7 @@
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -488,13 +489,13 @@
     <string name="miuix_search_history_clear">Goliți istoricul de căutare</string>
     <string name="miuix_search_history_default_title">Istoric de căutare</string>
     <string name="miuix_search_recommendation_default_title">V-ar putea interesa astea</string>
+    <string name="miuix_search_recommendation_item_del_des">ștergeți</string>
     <string name="modify_all">Modificaţi toate evenimentele din serie</string>
     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare</string>
     <string name="modify_event">Modificaţi doar acest eveniment</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>
-    <string name="month"/>
     <string name="month_april">Aprilie</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">A</string>
