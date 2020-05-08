@@ -64,7 +64,7 @@
     <string name="catch_full_log_item_title_gps">Servicii de localizare</string>
     <string name="catch_full_log_item_title_sensor">Senzori</string>
     <string name="catch_full_log_item_title_signal">Telefon, semnal și rețele mobile</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi și ShareMi</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi și Partajare Mi</string>
     <string name="catch_full_log_notification_content">Atingeți pentru a reveni la jurnale</string>
     <string name="catch_full_log_notification_title">Se generează jurnalul…</string>
     <string name="catch_full_log_privacy_content_audio">"Generați jurnale și le salvați în telefon. Jurnalele pot conține informații despre sistemul audio al dispozitivului, inclusiv istoricul de redare și cel al înregistrărilor. Tratați-le cu atenție și nu le trimiteți altor persoane. Atingând butonul \"De acord\" de mai jos, acceptați să colectăm datele de mai sus pe durata generării rapoartelor și apoi să le încărcăm pe serverele noastre pentru a putea localiza și remedia problemele pe care le-ați raportat."</string>

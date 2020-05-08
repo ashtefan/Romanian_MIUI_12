@@ -147,9 +147,9 @@
         <item>Se deschide Mi Health</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>Sedentarismul cauzează multe probleme de sănătate. Dacă timpul total de sedentarism nu poate fi redus, activitățile permanente intermitente pot îmbunătăți problemele legate de sedentarism.</item>
-        <item>Asistentul permanent ajută persoanele sedentare să se ridice cel puțin un minut pe oră, să atingă ținta zilnică de activități permanente și să evite pericolul vieții sedentare.</item>
-        <item>Atingeți Continuați pentru a înțelege și a deschide asistentul permanent.</item>
+        <item>Sedentarismul cauzează multe probleme de sănătate. Dacă timpul total de ședere nu poate fi redus, ridicarea de pe scaun din când în când este o idee bună.</item>
+        <item>Această caracteristică vă va aminti să vă ridicați cel puțin un minut la fiecare oră de ședere pe scaun. O perioadă de 12 ore în care aveți pauze în care vă ridicați, vă va ajuta să evitați riscul unei vieți sedentare.</item>
+        <item>Atingeți \"Continuați\" pentru a afla mai multe și pentru a activa această caracteristică.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
         <item>Asistentul permanent înregistrează în mod automat activitățile prin detectarea stării de utilizare a telefonului mobil. Când nu se detectează mișcare pe parcursul unei ore, vă va fi trimisă o notificare pentru a vă aminti să faceți mișcare sau să adăugați manual o înregistrare.</item>

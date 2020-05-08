@@ -744,7 +744,7 @@ Selecție"</string>
 
 Dezactivați datele mobile?"</string>
     <string name="data_enable_always_warn">Întreabă dacă se utilizează datele mobile</string>
-    <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
+    <string name="data_enable_summary">Activaţi accesul la date prin reţeaua mobilă</string>
     <string name="data_enable_warning">Permițând utilizarea în permanență a datelor mobile poate genera taxe suplimentare peste planul de la operator. Vă conectați oricum?</string>
     <string name="data_enable_warning_lgu">"Exceptând cazul în care este stipulat altfel în planul de date de la operator, utilizarea datelor mobile poate genera taxe suplimentare de la operator.
 
@@ -1363,7 +1363,7 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="msim_setting_no_sim_package_info">Nu există informații despre balanță</string>
     <string name="msim_setting_operator_network_title">Reţea celulară</string>
     <string name="msim_setting_pop_text">Selectați cartela SIM pentru apelare</string>
-    <string name="msim_setting_screen_title">Cartelă SIM şi reţele celulare</string>
+    <string name="msim_setting_screen_title">Cartelă SIM şi reţele mobile</string>
     <string name="msim_setting_set_package">Selectați planul</string>
     <string name="msim_setting_sim_info_editor_title">Editaţi informaţiile cartelei SIM</string>
     <string name="msim_sim_lock">Blocat</string>

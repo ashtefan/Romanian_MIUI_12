@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_to_recover">Doar o secundă…</string>
     <string name="app_is_running">Aplicația rulează…</string>
     <string name="app_name">Copie de rezervă în cloud</string>
@@ -91,6 +118,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="confirm_restore">Restaurați</string>
     <string name="confirm_restore_summary">Ecranul principal va reporni. Aplicațiile pentru care s-a făcut o copie de rezervă vor fi descărcate în mod automat.</string>
     <string name="confirm_restore_title">Restaurați</string>
+    <string name="copy">Copiați</string>
     <string name="customization"><u>Personalizaţi</u></string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="deskclock_backup">Alarmă</string>
@@ -123,6 +151,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">"Nu s-a putut finaliza acțiunea. Așteptați un minut sau două și încercați din nou…"</string>
     <string name="error_unknown">Ceva a mers prost</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="get_device_id_error">"Nu s-a putut obține ID-ul dispozitivului"</string>
     <string name="hint_restore_cross_space">Dispunerea Ecranului principal ar putea fi afișată incorect dacă transferați elemente între cele 2 spații.</string>
     <string name="home_hint_global_launcher">Lansator POCO</string>
@@ -139,14 +168,14 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
     <string name="miui_device_name">Android</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="msg_alert_cancel_restore">Se restaurează elementele. Opriți acum?</string>
     <string name="msg_alert_restore_error">"Nu s-au putut restaura elementele din Xiaomi Cloud. Încercați din nou."</string>
     <string name="msg_restore_start_with_metered_network">"Ecranul principal va fi repornit. Aplicațiile pentru care s-a făcut o copie de rezervă vor fi descărcate în mod automat. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s fișiere vor fi descărcate.&lt;/font&gt;&lt;/b&gt;"</string>
@@ -155,6 +184,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="network_error">Conectați-vă la rețea</string>
     <string name="no_account">Neconectat la contul Mi.</string>
     <string name="no_backup">Nicio copie de rezervă în Xiaomi Cloud.</string>
+    <string name="not_set">Nesetat</string>
     <string name="notification_channel_remind">Memento</string>
     <string name="notification_channel_service">Serviciu</string>
     <string name="open_backup_switch">Glisați comutatorul pentru copia de rezervă</string>
@@ -163,6 +193,9 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="open_wifi_setting">Setări Wi-Fi</string>
     <string name="other_device_main_space">Spațiul principal</string>
     <string name="other_device_second_space">Spațiul secundar</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
     <string name="provision_background_restore_more_data">Restaurați mai multe elemente în fundal</string>
     <string name="provision_error_connect_msg">"Testați rețeaua și încercați din nou. Copiile de rezervă nu sunt disponibile când telefonul este offline."</string>
@@ -218,6 +251,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="restoring_home_screen_apps">Restaurare din Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurare Setări…</string>
     <string name="retry">Reîncercaţi</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="selected">Selectate</string>
     <string name="self_device_main_space">"Spațiul Principal al acestui telefon"</string>
     <string name="self_device_second_space">"Spațiul Secundar al acestui telefon"</string>
@@ -236,5 +270,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="try_continue">Atingeți pentru a continua</string>
     <string name="unselected">Neselectate</string>
     <string name="unsupported_home">Actualizați MIUI la cea mai recentă versiune.</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="wait_icon_download">Se descarcă pictogramele aplicațiilor</string>
 </resources>

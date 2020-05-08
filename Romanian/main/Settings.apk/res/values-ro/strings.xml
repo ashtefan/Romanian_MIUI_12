@@ -577,7 +577,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="apply_now_button_text">Actualizaţi</string>
     <string name="apply_password_to_category_title">Necesită deblocare</string>
     <string name="apply_update_fail">Actualizare eşuată</string>
-    <string name="approve_title">Certificare</string>
+    <string name="approve_title">Certificări</string>
     <string name="apps_storage">Stocare aplicații</string>
     <string name="apps_summary">%1$d aplicații instalate</string>
     <string name="apps_summary_example">24 aplicații instalate</string>
@@ -1730,6 +1730,7 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="contextual_card_undo_dismissal_text">Anulați</string>
     <string name="continue_reset_factory">Resetare la valorile din fabrică</string>
     <string name="contributors_title">Colaboratori</string>
+    <string name="control_panel_switch_side">Modificați poziția Centrului de control</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
     <string name="convenience_key_category_title">Control sistem</string>
@@ -5865,7 +5866,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_wifi_setting_sleep_policy_title">Mențineți Wi-Fi activat în modul Inactiv</string>
     <string name="search_wifi_settings_title">Wi-Fi;WLAN;Setări avansate;WiFi;Rețele Wi-Fi;Wireless</string>
     <string name="search_wifi_tether_checkbox">Hotspot Wi-Fi portabil</string>
-    <string name="search_wifi_tether_configure_ap_text">Configurați hotspotul Wi-Fi</string>
+    <string name="search_wifi_tether_configure_ap_text">Configurați hotspot-ul Wi-Fi</string>
     <string name="search_wifi_tether_settings_title">Tethering;Hotspot personal;Hotspot Wi-Fi portabil;Tether;partajare internet;hotspot Wi-Fi;hotspot Wifi;hotspot WLAN</string>
     <string name="search_wifi_wapi_cert_install">Instalați certificat WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Dezinstalați certificat WAPI</string>

@@ -170,6 +170,9 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Aplicația clonată va fi dezinstalată împreună cu aceasta.</string>
     <string name="confirm_uninstall_dialog_title">Aplicațiile clonate vor fi dezinstalate.</string>
+    <string name="content_description_button_add">Atingeți pentru a adăuga la aplicațiile curente</string>
+    <string name="content_description_button_disable">Nu se mai pot adăuga aplicații curente</string>
+    <string name="content_description_button_remove">Atingeți pentru a elimina din aplicațiile curente</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s,verificat</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, neverificat</string>
     <string name="content_description_workspace_thumbnail_item">Previzualizarea ecranului, pagina %1$s</string>
