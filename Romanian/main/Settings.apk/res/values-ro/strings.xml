@@ -1104,8 +1104,8 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_lock_voice_dialing">Blocaţi apelarea vocală</string>
     <string name="bluetooth_lock_voice_dialing_summary">Împiedicaţi apelarea prin Bluetooth atunci când este blocat ecranul</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s dorește să acceseze mesajele dvs. Oferiți acces pentru %2$s?</string>
-    <string name="bluetooth_map_profile_summary_connected">Conectat la map</string>
-    <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru map</string>
+    <string name="bluetooth_map_profile_summary_connected">Conectat la MAP</string>
+    <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru MAP</string>
     <string name="bluetooth_map_request">Solicitarea accesului la mesaje</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Selectați numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_max_connected_audio_devices_string">Numărul maxim de dispozitive audio Bluetooth conectate</string>

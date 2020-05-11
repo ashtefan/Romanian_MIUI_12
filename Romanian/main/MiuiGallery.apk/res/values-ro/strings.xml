@@ -137,6 +137,8 @@
     <string name="album_sort_type_custom">Personalizat</string>
     <string name="album_sort_type_name_asc">De la A la Z</string>
     <string name="album_sort_type_name_desc">De la Z la A</string>
+    <string name="album_tab_page_switch_view_style_to_grid">Vizualizare tip grilă</string>
+    <string name="album_tab_page_switch_view_style_to_linear">Vizualizare tip listă</string>
     <string name="album_type_baby">Albume partajate</string>
     <string name="album_type_share">Albumul copilului</string>
     <string name="album_type_system">Albume de sistem</string>
@@ -334,7 +336,7 @@
     <string name="chooser_fragment_mishare_title">Partajați prin</string>
     <string name="cleaner_empty_value_description">Totul arată bine</string>
     <string name="cleaner_photo_pick_delete_selected">Ștergeți fotografiile selectate</string>
-    <string name="cleaner_raw_action">Ștergeți</string>
+    <string name="cleaner_raw_action">Vizualizați</string>
     <string name="cleaner_raw_description">Eliberați spațiul de stocare ștergând imaginile RAW mari</string>
     <string name="cleaner_raw_title">Ștergeți fișierele RAW</string>
     <string name="cleaner_scan_description">Optimizarea elementelor eliberează spațiu de stocare din telefon</string>
@@ -345,10 +347,10 @@
     <string name="cleaner_scan_no_result">"Nu se poate elibera spațiu de stocare suplimentar acum"</string>
     <string name="cleaner_scan_ok">Am înțeles</string>
     <string name="cleaner_scan_title">Scanare albume…</string>
-    <string name="cleaner_screen_shot_action">Goliți</string>
+    <string name="cleaner_screen_shot_action">Vizualizați</string>
     <string name="cleaner_screen_shot_description">Ștergeți capturile de ecran de care nu mai aveți nevoie.</string>
     <string name="cleaner_screen_shot_title">Ștergeți capturile de ecran</string>
-    <string name="cleaner_similar_action">Ștergeți acum</string>
+    <string name="cleaner_similar_action">Vizualizați</string>
     <string name="cleaner_similar_description">Ștergeți fotografiile duplicate</string>
     <string name="cleaner_similar_title">Fotografii duplicate</string>
     <string name="cleaner_slim_action">Porniți optimizarea</string>
@@ -359,7 +361,7 @@
     <string name="cleaner_space_detail_description">Goliți fotografiile din Galerie pentru a elibera spațiu</string>
     <string name="cleaner_stop_scan">Opriți scanarea</string>
     <string name="cleaner_title">eliberați spațiu</string>
-    <string name="cleaner_video_action">Ștergeți acum</string>
+    <string name="cleaner_video_action">Vizualizați</string>
     <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
     <string name="cleaner_video_pick_delete_selected">Ștergeți videoclipurile selectate</string>
     <string name="cleaner_video_title">Ștergeți videoclipurile</string>
@@ -452,6 +454,7 @@
     <string name="context_menu_add_contact">Adăugaţi la contacte</string>
     <string name="context_menu_copy">Copiaţi</string>
     <string name="context_menu_copy_notice">Selecția copiată în clipboard</string>
+    <string name="continue_feedback">Feedback adițional</string>
     <string name="copy">Copiați</string>
     <string name="correct_photo_time">Corectați data și ora din fotografii</string>
     <string name="correct_time_success">Corectate cu succes</string>
@@ -998,8 +1001,13 @@ efecte pentru fotografii"</string>
     <string name="macarons_download_dialog_title">Descarcă modulul</string>
     <string name="macarons_download_dialog_without_wifi_confirm">Descarcă</string>
     <string name="macarons_download_dialog_without_wifi_message">Nu s-a putut conecta la Wi-Fi. Puteți utiliza datele mobile pentru a descărca modulul de vinietă magică.</string>
-    <string name="macarons_download_fail">Nu s-a putut descărca modulul. Verificați setările de rețea și încercați din nou.</string>
+    <string name="macarons_download_later">Așteptați un minut sau două și încercați din nou</string>
+    <string name="macarons_download_network_fail">Nu s-a putut descărca extensia. Verificați setările de rețea și încercați din nou.</string>
+    <string name="macarons_download_other_fail">Nu s-a putut descărca datorită unei erori</string>
+    <string name="macarons_download_sdscard_fail">Nu s-a putut descărca. Cardul SD nu este disponibil.</string>
+    <string name="macarons_download_storage_fail">Nu s-a putut descărca. Nu există suficient spațiu de stocare.</string>
     <string name="macarons_download_success">Modulul a fost descărcat cu succes</string>
+    <string name="macarons_downloading">Se descarcă extensia…</string>
     <string name="macarons_select_image_range">Nu se pot utiliza imagini multiple pentru a crea o vinietă magică</string>
     <string name="macarons_select_video">Nu se pot utiliza videoclipuri pentru a crea viniete magice</string>
     <string name="main_discard_confirm_message">Există modificări nesalvate</string>
@@ -1419,6 +1427,7 @@ pentru a personaliza Galeria"</string>
     <string name="privacy_permission_request_title">Sunt necesare permisiuni</string>
     <string name="private_entry_lock_state_activated_text">Eliberați pentru a deschide dosarul privat</string>
     <string name="private_entry_lock_state_enterd_text">Glisați în jos pentru a deschide dosarul privat</string>
+    <string name="problem_feedback">Feedback</string>
     <string name="projection_cancel">Renunțați</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
     <string name="projection_device_connection_failed">"Nu s-a putut conecta la proiector"</string>
@@ -1621,8 +1630,8 @@ pentru a personaliza Galeria"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send_file_beautify_failed">"Nu s-a putut partaja"</string>
     <string name="send_files_to">Trimiteți elementele către</string>
-    <string name="send_heif_summary">Convertiți imaginile înainte de a le trimite pentru a asigura compatibilitatea</string>
-    <string name="send_heif_title">Convertiți imaginile .heif în .jpg înainte de a le trimite</string>
+    <string name="send_heif_summary">Convertiți imaginile .heif în .jpeg pentru a asigura compatibilitatea</string>
+    <string name="send_heif_title">Convertiți imaginile .heif în .jpeg înainte de a le trimite</string>
     <string name="send_multiple_files_hint_format">Trimiteţi (%s)</string>
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="send_secret_file_failed">"Nu s-a putut partaja"</string>
@@ -2100,6 +2109,7 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_clip_is_reversed">Inversat</string>
     <string name="vlog_clip_select_trans">Selectați tipul tranziției</string>
     <string name="vlog_clip_sort">Reordonați videoclipurile</string>
+    <string name="vlog_clip_zoom">Utilizați două degete pentru a crește sau descrește numărul cadrelor din previzualizare</string>
     <string name="vlog_cloud_file_download">Elemente din cloud</string>
     <string name="vlog_download">Descărcați</string>
     <string name="vlog_download_btn">Descărcați</string>
@@ -2115,6 +2125,8 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_end_of_film">Se închide</string>
     <string name="vlog_exit_ddit_message">Toate modificările vor fi pierdute dacă renunțați acum. Renunțați oricum?</string>
     <string name="vlog_exit_edit_title">Se părășește editorul</string>
+    <string name="vlog_exit_message">Toate modificările nesalvate vor fi pierdute. Mergeți înapoi oricum?</string>
+    <string name="vlog_exit_title">Se renunță la modificări</string>
     <string name="vlog_film_title">Se deschide</string>
     <string name="vlog_filter_changfeng">Vânt</string>
     <string name="vlog_filter_chujing">Calm</string>
@@ -2130,7 +2142,9 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_filter_xiayang">Solstițiu de vară</string>
     <string name="vlog_filter_zhaomu">Zori de zi</string>
     <string name="vlog_float_view_change_audio">Înlocuiți coloana sonoră</string>
+    <string name="vlog_float_view_original_ratio">Original</string>
     <string name="vlog_float_view_ratio">Rația aspectului</string>
+    <string name="vlog_improt_encode_video_error">A apărut o eroare de codare. Încercați din nou.</string>
     <string name="vlog_load_data_fail">Nu s-au putut încărca datele</string>
     <string name="vlog_mi_clip">Editor video</string>
     <string name="vlog_mi_clip_cn">Editor video</string>
@@ -2141,6 +2155,7 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_nav_title_ratio">Rația aspectului</string>
     <string name="vlog_nav_title_template">Șabloane</string>
     <string name="vlog_none">Nimic</string>
+    <string name="vlog_photo_edit_not_support">Nu se pot edita imaginile</string>
     <string name="vlog_photo_not_support">Nu se pot edita imaginile</string>
     <string name="vlog_ratio_choose">Selectați rația aspectului</string>
     <string name="vlog_ratio_fullsize">Ecran complet</string>
@@ -2186,6 +2201,7 @@ pentru a personaliza Galeria"</string>
     <string name="vlog_video_importing">Se importă videoclipul…</string>
     <string name="vlog_video_saved_in_my_create">Videoclip salvat cu succes</string>
     <string name="vlog_video_selected_not_support">Nu se poate edita videoclipul selectat</string>
+    <string name="vlog_video_trans_code_cons">Se procesează un fișier cu rezoluție înaltă…</string>
     <string name="voice_assistant">Introducere vocală</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

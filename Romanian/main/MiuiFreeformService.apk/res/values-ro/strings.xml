@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Ferestre plutitoare</string>
+    <string name="contentDescription">Mutarea ferestrei</string>
+    <string name="freeform_demo_back">Înapoi</string>
+    <string name="freeform_demo_final_over">Finalizat</string>
+    <string name="freeform_demo_final_restart">Reluați</string>
+    <string name="freeform_demo_final_title">Sunteți gata de start!</string>
+    <string name="freeform_demo_go_on">Următorul</string>
+    <string name="freeform_demo_title_finish">Drăguț!</string>
+    <string name="freeform_demo_title_skip">Omiteți</string>
+    <string name="how_to_close_or_fullscreen_freeform">Închiderea ferestrelor plutitoare sau comutarea la modul Ecran complet</string>
+    <string name="how_to_drop_down_to_fullscreen">Comutați la modul Ecran complet</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">Atingeți și mențineți apăsat, iar apoi glisați în jos bara de acțiune a unei ferestre plutitoare</string>
+    <string name="how_to_hang_freeform">Minimizarea ferestrelor plutitoare</string>
+    <string name="how_to_hang_to_small_freeform">Minimizați fereastra plutitoare</string>
+    <string name="how_to_hang_to_small_freeform_summary">Trageți fereastra plutitoare către marginea ecranului</string>
+    <string name="how_to_move_freeform">Mutarea ferestrei plutitoare pe ecran</string>
+    <string name="how_to_move_freeform_window">Mutarea ferestrei plutitoare pe ecran</string>
+    <string name="how_to_move_freeform_window_summary">Atingeți și mențineți apăsată bara de acțiune a unei ferestre plutitoare pentru a o muta</string>
+    <string name="how_to_notification_drop_down">Deschideți o fereastră plutitoare</string>
+    <string name="how_to_notification_drop_down_summary">Atingeți și mențineți apăsat, iar apoi glisați în jos bara de acțiune a unei ferestre plutitoare</string>
+    <string name="how_to_open_freeform">Deschiderea notificărilor într-o fereastră plutitoare</string>
+    <string name="how_to_slide_up_to_close">Închideți fereastra plutitoare</string>
+    <string name="how_to_slide_up_to_close_summary">Glisați în sus bara de acțiune a unei ferestre plutitoare</string>
+    <string name="how_to_use_freeform">Modul de utilizare al ferestrelor plutitoare</string>
+</resources>

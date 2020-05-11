@@ -43,10 +43,10 @@
     </string-array>
     <string-array name="breeze">
         <item>&lt;Forța 2</item>
-        <item>&lt;6.0 km/h</item>
-        <item>&lt;1.7 m/s</item>
-        <item>&lt;3.7 mph</item>
-        <item>&lt;3.2 kn</item>
+        <item>&lt;6 km/h</item>
+        <item>&lt;1,7 m/s</item>
+        <item>&lt;3,7 mph</item>
+        <item>&lt;3,2 kn</item>
     </string-array>
     <string-array name="dislike_alert_dialog_selectitems">
         <item>neinteresat</item>
