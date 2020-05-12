@@ -225,6 +225,7 @@
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="send_files_to">Trimiteți elementele către</string>
+    <string name="serviceEnabled">Serviciul a fost activat.</string>
     <string name="service_not_subscribed">FĂRĂ ABONAMENT LA SERVICIU -33-</string>
     <string name="set_password_action">Stabiliți parola</string>
     <string name="set_password_message">Stabiliți o parolă pentru a putea utiliza această caracteristică</string>

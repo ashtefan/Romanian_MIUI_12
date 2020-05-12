@@ -464,8 +464,8 @@
     <string-array name="year_view_week_header_name">
         <item>D</item>
         <item>L</item>
-        <item>M</item>
-        <item>M</item>
+        <item>Ma</item>
+        <item>Mi</item>
         <item>J</item>
         <item>V</item>
         <item>S</item>

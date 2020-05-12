@@ -497,8 +497,8 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_web_discription_02">pentru a stoca și accesa fișierele de oriunde</string>
     <string name="micloud_web_discription_place_holder">Vizitați %1$s</string>
     <string name="micloud_website">Elemente în Mi Cloud</string>
-    <string name="micloud_wipe_data_confirm_label">Ștergeți datele din cloud</string>
-    <string name="micloud_wipe_data_confirm_title">Eliminați de pe telefon elementele sincronizate din Xiaomi Cloud după ce vă deconectați?</string>
+    <string name="micloud_wipe_data_confirm_label">Ștergeți datele sincronizate de pe acest dispozitiv?</string>
+    <string name="micloud_wipe_data_confirm_title">Unele elemente din următoarele aplicații sunt sincronizate în Xiaomi Cloud. Puteți șterge datele din acest dispozitiv și să le păstrați în cloud.</string>
     <string name="micloud_wipe_data_remove">Ștergeți</string>
     <string name="micloud_wipe_data_retain">Păstrați</string>
     <string name="microsoft_cloud">Servicii Microsoft Cloud</string>
