@@ -8,6 +8,10 @@
         <item quantity="other">Atingeți și mențineți apăsat pe orice suprafață senzitivă a căștilor timp de %1$d secunde</item>
         <item quantity="one">Atingeți și mențineți apăsat pe orice suprafață senzitivă a căștilor timp de %1$d secundă</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Mențineți apăsat butonul superior pentru %1$s secunde pe durata opririi</item>
+        <item quantity="one">Mențineți apăsat butonul superior pentru %1$s secundă pe durata opririi</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispozitive conectate</item>
         <item quantity="one">%1$d dispozitiv conectat</item>

@@ -110,6 +110,22 @@
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="ai_watermark_title">Amprentă AI</string>
+    <string name="ambilight_description_title">Despre expunerea prelungită</string>
+    <string name="ambilight_intro_crowd_moving_part1">Când filmați pe o stradă aglomerată, cereți subiectului să stea nemișcat. Ceilalți oameni vor apărea ca trasee încețoșate.</string>
+    <string name="ambilight_intro_crowd_moving_part2">Puteți face, de asemenea, poze cu traficul ocupat și mulțimile în mișcare. Expunerea îndelungată va menține clădirile bine definite, dar toate obiectele în mișcare vor fi încețoșate.</string>
+    <string name="ambilight_intro_light_track">Utilizați o sursă de lumină pentru a „picta” pe o scenă întunecată pentru a reuni toate piesele luminate într-o singură imagine.</string>
+    <string name="ambilight_intro_magic_star">Utilizați acest mod în locuri cu poluare luminoasă redusă. Expunerea va fi setată la %d secunde, deci folosirea unui trepied este o idee minunată.</string>
+    <string name="ambilight_intro_silky_water_part1">Utilizați acest mod când fotografiați nori în mișcare. Acesta va oferi cerului un efect de „pictură în ulei”.</string>
+    <string name="ambilight_intro_silky_water_part2">Acest mod face ca apa în mișcare (râuri, cascade și lacuri) să pară satinată.</string>
+    <string name="ambilight_intro_star_track">Fotografierea cerului înstelat pentru o lungă perioadă de timp poate surprinde traiectoriile stelelor. Nu uitați să folosiți un trepied și să fotografiați continuu timp de cel puțin %d minute.</string>
+    <string name="ambilight_intro_traffic_light">Noaptea, puteți surprinde traiectoria luminilor în mișcare strălucitoare (pe mașini și nave, de exemplu). Acest mod permite previzualizarea rezultatului final pe ecran în timp real.</string>
+    <string name="ambilight_scene_crowd_moving">Mulțime în mișcare</string>
+    <string name="ambilight_scene_light_track">Pictură cu lumină</string>
+    <string name="ambilight_scene_magic_star">Cer înstelat</string>
+    <string name="ambilight_scene_silky_water">Apă mătăsoasă</string>
+    <string name="ambilight_scene_star_track">Urme de stele</string>
+    <string name="ambilight_scene_traffic_light">Trasee de neon</string>
+    <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
   <string name="app_name">Preference</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
@@ -543,6 +559,9 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_video">Videoclip</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moive_frame">Ramă video</string>
+    <string name="more_mode_style">Selectați cum doriți să rearanjați toate modurile camerei</string>
+    <string name="more_mode_style_popup">Panou \"Mai multe\"</string>
+    <string name="more_mode_style_tab">Filă \"Mai multe\"</string>
     <string name="multi_window_mode_not_supported">Camera nu funcționează în modul Ecran scindat</string>
     <string name="network_access_user_notice_agree">De acord</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Aplicația Cameră trebuie să se conecteze la internet pentru a furniza efecte, muzică și alte caracteristici pentru videoclipuri scurte.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atingând butonul \"De acord\" de mai jos, acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;, și permiteți conectarea la internet a aplicației."&lt;/Data&gt;</string>
@@ -562,6 +581,7 @@ să pară mai mari în fotografii"</string>
     <string name="pano_how_to_use_prompt_slow_down">Mișcați-vă mai încet…</string>
     <string name="pano_how_to_use_prompt_start">Atingeți săgeata pentru a comuta direcția și începeți să mișcați telefonul încet.</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
+    <string name="parameter_ambilight_title">Expunere prelungită</string>
     <string name="parameter_description_pro_capture_title">Caracteristici pro pentru realizarea de fotografii</string>
     <string name="parameter_description_pro_video_title">Caracteristici pro pentru realizarea de videoclipuri</string>
     <string name="parameter_description_sub_title">Controlați mai creativ fotografiile și videoclipurile dvs.</string>
@@ -1023,6 +1043,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_manual_exposure_title_abbr">T Exp</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+    <string name="pref_more_mode_style_title">Moduri Cameră</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720p cu 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Puteți înregistra doar videoclipuri 720p cu 960fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>

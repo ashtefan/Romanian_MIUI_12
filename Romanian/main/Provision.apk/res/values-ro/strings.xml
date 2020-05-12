@@ -19,6 +19,7 @@
     <string name="application_package_introduction">Această aplicație vă permite să instalați aplicații terțe, să le scanați înainte de instalare și să primiți recomandări ulterior.</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
+    <string name="backup_introduction">Puteți utiliza această aplicație pentru a crea copii de rezervă și restaura elemente pe dispozitiv.</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
@@ -113,6 +114,8 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="permission_account">Accesare conturi din dispozitiv:</string>
     <string name="permission_account_introduction">Pentru conectarea la contul Mi</string>
     <string name="permission_application_package_introduction">Pentru accesarea stocării ce va permite analizarea și scanarea pachetelor de instalare</string>
+    <string name="permission_backup">Accesarea stocării</string>
+    <string name="permission_backup_introduction">Pentru accesarea și salvarea copiilor de rezervă pe dispozitiv</string>
     <string name="permission_call_records">Accesare istoric apeluri:</string>
     <string name="permission_call_records_introduction">Pentru accesarea istoricului apelurilor ce va permite afișarea elementelor blocate</string>
     <string name="permission_call_state_introduction">Pentru accesarea stării telefonului, înregistrarea apelurilor și întreruperea înregistrărilor în timpul apelurilor primite</string>
@@ -170,6 +173,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_agreement">Am citit și am acceptat termenii și condițiile.</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Instalator de pachete</string>
+    <string name="service_name_backup">Copii de rezervă</string>
     <string name="service_name_calculator">Calculator</string>
     <string name="service_name_camera">Cameră</string>
     <string name="service_name_carrier">Declarație privind serviciile operatorului</string>

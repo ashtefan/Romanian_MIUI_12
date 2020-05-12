@@ -311,7 +311,7 @@
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
     <string name="app_manager_advanced_setting">Setări avansate</string>
     <string name="app_manager_allow">Da</string>
-    <string name="app_manager_anomaly_analysis">Analiza anormalităților aplicației</string>
+    <string name="app_manager_anomaly_analysis">Analizează problemele aplicațiilor terțe</string>
     <string name="app_manager_app_ifno_version">Versiunea aplicației</string>
     <string name="app_manager_app_info_label">Informații despre aplicație</string>
     <string name="app_manager_app_info_name">Numele aplicației</string>
@@ -1972,6 +1972,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="numeric_recording_intro_header">Introduceți parola</string>
     <string name="numeric_retry_button_text">Renunțați</string>
     <string name="numeric_settings_help_how_to_record">Cum setez codul PIN</string>
+    <string name="oaid_reset_content_tip">Dacă dezactivați ID-ul virtual acum, unele aplicații ar putea înceta să funcționeze corect, o parte din datele aplicației dvs. ar putea fi pierdute sau să devină inutilizabile.</string>
+    <string name="oaid_reset_final_tip">Dezactivați oricum ID-ul virtual?</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">"Această aplicație nu este compatibilă cu cele mai recente cerințe Android privind permisiunile. Permisiunile neacordate pot afecta modul în care funcționează aplicația."</string>

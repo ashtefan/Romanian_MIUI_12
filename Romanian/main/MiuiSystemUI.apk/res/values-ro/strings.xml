@@ -397,6 +397,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Conectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Neconectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_use_for">Utilizat pentru transferul de fișiere</string>
+    <string name="bluetooth_paired">Salvat</string>
     <string name="bluetooth_pairing">Asociere…</string>
     <string name="bluetooth_pairing_accept">Asociați</string>
     <string name="bluetooth_pairing_accept_all_caps">ASOCIAȚI</string>

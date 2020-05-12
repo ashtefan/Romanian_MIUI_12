@@ -108,6 +108,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Conectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Neconectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_use_for">Utilizat pentru transferul de fișiere</string>
+    <string name="bluetooth_paired">Salvat</string>
     <string name="bluetooth_pairing">Asociere…</string>
     <string name="bluetooth_pairing_accept">Asociați</string>
     <string name="bluetooth_pairing_accept_all_caps">ASOCIAȚI</string>
@@ -248,7 +249,7 @@ Selecție"</string>
     <string name="external_source_untrusted">Nepermis</string>
     <string name="failed_to_open_app_settings_toast">Nu s-au putut accesa setările pentru %1$s</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
-    <string name="fast_connect_bt_speaker2_name">Boxă portabilă bluetooth MI Speaker 2</string>
+    <string name="fast_connect_bt_speaker2_name">Boxă portabilă MI</string>
     <string name="fast_connect_device_battery">Acumulator</string>
     <string name="fast_connect_device_box">Decodor</string>
     <string name="fast_connect_device_box_name">Decodor %1$s</string>
@@ -663,4 +664,5 @@ Stocarea credențialelor poate fi inactivă"</string>
     <string name="zen_mode_settings_summary_off">Niciodată</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activați modul Nu deranjați</string>
     <string name="zhiyun_name">SMOOTH Q2</string>
+    <string name="zhiyun_smooth_x_name">SMOOTH-X</string>
 </resources>
