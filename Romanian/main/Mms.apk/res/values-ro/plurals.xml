@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu un minut în urmă</item>
+    </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Ștergeți %1$s mesaje?</item>
         <item quantity="one">Ștergeți %1$s mesaj?</item>
@@ -30,10 +59,29 @@
         <item quantity="other">"Nu s-a putut trimite la %d persoane"</item>
         <item quantity="one">"Nu s-a putut trimite la %d contact"</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d mesaje</item>
         <item quantity="zero">%d mesaje</item>
         <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Marcat ca %2$s de către %1$d persoane</item>
@@ -46,6 +94,10 @@
     <plurals name="notification_multiple">
         <item quantity="other">"%s mesaje | "</item>
         <item quantity="one">"%s mesaj | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu un minut în urmă</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Ați primit %d invitații pentru conversații în grup</item>

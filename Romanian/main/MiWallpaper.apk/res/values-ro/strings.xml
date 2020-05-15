@@ -109,18 +109,16 @@
     <string name="mars_position_content_0">"Această regiune conține stânci, terase stâncoase și văi plate largi, despre care se crede că au fost create de ghețarii acoperiți cu resturi. Minerale de argilă au fost, de asemenea, depistate aici, care prezintă un interes deosebit în căutarea dovezilor de viață din vechime pe Marte.
 
 NASA/JPL/Universitatea din Arizona"</string>
-    <string name="mars_position_content_1">"Linia recurentă a pantelor (RSL) sunt fluxuri active pe versanții călduți marțieni, care ar putea fi create prin scurgerea apei. RSL în Hale Crater are o culoare neobișnuit de „roșiatică” în comparație cu majoritatea RSL, probabil datorită compușilor de oxizi de fier, precum rugina.
+    <string name="mars_position_content_1">"Captată când Mars rover Curiosity explorează Pahrump Hills din Gale Crater. Regiunea conține roci sedimentare despre care oamenii de știință cred că s-au format în prezența apei, iar zonele întunecate sunt formate din nisip.
 
 NASA/JPL/Universitatea din Arizona"</string>
     <string name="mars_position_content_2">"Mawrth Vallis este un vechi canal de ieșire a apei, cu roci luminoase bogate în argilă. Mineralele din argilă păstrează cu ușurință viața microscopică pe Pământ, astfel că poate fi găsite urme de viață străveche la Mawrth.
 
 NASA/JPL/Universitatea din Arizona"</string>
-  <string name="mars_position_title_0">"Regiunea
+    <string name="mars_position_title_0">"Regiunea
 Nilosyrtis Mensae"</string>
-  <string name="mars_position_title_1">"Central
-Mountains of
-Hale Crater"</string>
-  <string name="mars_position_title_2">"Crater în
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater în
 Mawrth Vallis"</string>
     <string name="mars_summary">Vastele deșerturi de pe Marte au stârnit mereu uluirea umanității</string>
     <string name="mars_super_wallpaper_label">marte</string>

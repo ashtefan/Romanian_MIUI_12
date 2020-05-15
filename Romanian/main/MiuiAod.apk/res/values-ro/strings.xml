@@ -262,7 +262,7 @@ dd/MM"</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="scheduled_mode_dialog_msg">Elementele vor fi afișate în Ecranul activ permanent în acest interval: %s.</string>
-    <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Perioada activă: %s</string>
     <string name="scheduled_style">Programat</string>
@@ -312,7 +312,7 @@ minunat urmează să se întâmple"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="super_wallpaper_date">"EE a
+    <string name="super_wallpaper_date">"EE aa
 dd/MM"</string>
     <string name="super_wallpaper_date_lunar">"YY年
 N月e"</string>
