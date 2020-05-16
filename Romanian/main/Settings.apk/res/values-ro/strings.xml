@@ -379,7 +379,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_mock_location">Permiteţi locaţiile fictive</string>
     <string name="allow_mock_location_summary">Permiteţi locaţiile fictive</string>
     <string name="allow_oaid_used">Utilizați ID-ul virtual</string>
-    <string name="allow_oaid_used_desc">Aplicațiile nu vor putea accesa niciun ID decât dacă le permiteți explicit să facă asta. Este posibil ca unele funcții personale de recomandare să nu funcționeze corect atunci când această caracteristică este activată.</string>
+    <string name="allow_oaid_used_desc">MIUI nu va furniza un ID virtual (OAID) pentru aplicațiile instalate. Este posibil ca unele funcții personale de recomandare să nu funcționeze corect din această cauză.</string>
     <string name="allow_overlay_description">Această permisiune face ca o aplicație să fie afișată peste alte aplicații pe care le utilizați și poate interfera cu utilizarea acelor aplicații sau poate modifica modul în care acestea sunt afișate sau se comportă.</string>
     <string name="allow_sound_title">Permiteți sunete</string>
     <string name="allow_vibrate_title">Permiteți vibrații</string>
@@ -2130,7 +2130,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_name_input_overlength">Ați depășit limita de caractere</string>
     <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
     <string name="device_oaid">Gestionați ID-ul virtual</string>
-    <string name="device_oaid_desc">În loc de identificatorul dvs. real, MIUI va oferi un ID virtual (OAID) aplicațiilor terțe. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
+    <string name="device_oaid_desc">În loc de identificatorul dvs. unic, MIUI va oferi un ID virtual (OAID) aplicațiilor instalate. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
     <string name="device_oaid_title">ID virtual</string>
     <string name="device_of_someone">%2$s lui %1$s</string>
     <string name="device_picker">Selectați dispozitivul Bluetooth</string>
@@ -4045,6 +4045,8 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_sos_msg_call_log_prefix">"Acesta este istoricul meu de apelare din ultima oră:"</string>
     <string name="miui_sos_play_voice">Redați mesajul SOS</string>
     <string name="miui_sos_remind_add">Adăugați</string>
+    <string name="miui_sos_remind_close">Modul Urgență SOS este activ. Îl opriți împreună cu toate funcționalitățile aferente?</string>
+    <string name="miui_sos_remind_close_confirm">Dezactivați</string>
     <string name="miui_sos_remind_infocontent">"V-am adăugat ca persoană de contact de urgență. Veți primi un mesaj cu locația mea în caz că sunt în pericol. [Mesaj de urgență Mi]"</string>
     <string name="miui_sos_remind_open">Este necesar cel puțin un contact de urgență pentru ca Mesajele SOS să funcționeze în mod normal.</string>
     <string name="miui_sos_remind_sendinfo">"Nu uitați să le spuneți acestor persoane că sunt persoanele de contact în caz de urgență acum. Astfel, ele vă vor putea ajuta mai rapid în caz de urgență."</string>

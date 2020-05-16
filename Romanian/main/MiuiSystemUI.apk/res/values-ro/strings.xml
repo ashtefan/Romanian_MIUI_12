@@ -1584,6 +1584,11 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cellular_detail_data_usage">Utilizare date</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizați</string>
     <string name="quick_settings_cellular_detail_data_warning">%s avertisment</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Datele mobile(WCDMA/LTE) vor fi dezactivate. Dacă nu utilizați Wi-Fi, nu veți mai putea utiliza aplicații care necesită o conexiune de date. Trimiterea sau primirea de mesaje multimedia va fi restricționată.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Datele mobile vor fi activate. Conectarea la rețelele mobile poate duce la taxe suplimentare în funcție de abonamentul dvs.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Renunțați</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Dezactivați</string>
     <string name="quick_settings_cellular_detail_over_limit">Peste limită</string>
     <string name="quick_settings_cellular_detail_remaining_data">Date disponibile</string>
     <string name="quick_settings_cellular_detail_title">Date mobile</string>

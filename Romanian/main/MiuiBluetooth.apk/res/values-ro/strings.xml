@@ -267,6 +267,7 @@ Selecție"</string>
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Mențineți apăsat butonul superior pentru %1$s secunde în timp ce îl închideți</string>
+    <string name="fast_connect_reset_common">Resetați acest dispozitiv pentru a-l putea asocia</string>
     <string name="fast_connect_wbs_name">Difuzor pentru încărcător wireless Mi</string>
     <string name="fast_connect_wbs_reset">Mențineți apăsat butonul superior timp de %1$s secunde în timp ce îl închideți</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>

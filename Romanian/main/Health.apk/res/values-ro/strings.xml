@@ -44,8 +44,7 @@
     <string name="add_body_weight_button">Adăugați date despre greutate</string>
     <string name="add_body_weight_record_button">Adăugați date despre greutate</string>
     <string name="add_data_source">Se adaugă sursele datelor</string>
-    <string name="add_data_source_description">Adăugați date despre sănătate generate de către alte dispozitive în aplicația Sănătate Xiaomi pentru a crește acuratețea statusului și pentru a obține sfaturi mai relevante pentru sănătate.
-Aplicația Sănătate Xiaomi suportă dispozitivele adăugate anterior în aplicația Mi Home. Dacă nu puteți găsi dispozitivul pe care doriți să-l adăugați, verificați mai întâi dacă l-ați adăugat în aplicația Mi Home.</string>
+    <string name="add_data_source_description">Adăugați date despre sănătate generate de către alte dispozitive în aplicația Sănătate Xiaomi pentru a crește acuratețea statisticilor și pentru a obține sfaturi mai relevante pentru sănătate.</string>
     <string name="add_data_source_login_and_open_sync">Conectați-vă la contul Mi și activați sincronizarea în cloud pentru a putea adăuga sursele datelor.</string>
     <string name="add_data_source_open_sync">Activați sincronizarea în cloud pentru a putea adăuga sursele datelor.</string>
     <string name="add_data_source_support_step">Acest dispozitiv nu generează date despre numărul pașilor efectuați. Puteți încerca să comutați la alte surse de date.</string>
@@ -572,14 +571,14 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">eliberați pentru a reîmprospăta</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">nu există date</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">reîmprospătare</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">eșuat</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="model_card_setting">Setări file</string>
     <string name="modify">Editați</string>
     <string name="modify_end_date">Modificați data de încheiere</string>
@@ -749,6 +748,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="save">Salvați</string>
     <string name="search_menu_title">Căutați</string>
     <string name="sedentary_detail_title">Șederea pe perioade îndelungate este dăunătoare</string>
     <string name="sedentary_enhance_remind">Vibrează, de asemenea</string>
@@ -857,7 +857,7 @@ despre somn"</string>
     <string name="sleep_service_background_running">Serviciul de monitorizare a somnului rulează în fundal</string>
     <string name="sleep_setting_title">Setări somn</string>
     <string name="sleep_snore_audio_auto">Înregistrați sforăitul și vorbirea în timpul somnului în mod automat</string>
-    <string name="sleep_snore_audio_auto_desc">Sănătate Xiaomi poate înregistra sforăitul și vorbirea în timpul somnului bazat pe programul dvs. de somn. Înregistrarea se va opri când vă treziți. Pentru a vă proteja confidențialitatea, toate fișierele înregistrate vor fi salvate local pe dispozitiv utilizând un algoritm încorporat.</string>
+    <string name="sleep_snore_audio_auto_desc">Sănătate Xiaomi poate înregistra sforăitul și vorbirea în timpul somnului bazat pe programul dvs. de somn. Înregistrarea se va opri când vă treziți.</string>
     <string name="sleep_snore_audio_close_desc">Puteți să dezactivați această caracteristică din Setări în orice moment.</string>
     <string name="sleep_snore_audio_enable">Detectarea automată este activată</string>
     <string name="sleep_snore_audio_enable_desc">Sforăitul și vorbirea în timpul somnului vor fi înregistrate în mod automat atunci când mergeți la culcare.</string>
@@ -991,7 +991,7 @@ despre somn"</string>
     <string name="sync_status_in_progress">Se sincronizează…</string>
     <string name="sync_status_network_failure">Nu s-a putut sincroniza. Conectați-vă la rețea și încercați din nou</string>
     <string name="sync_status_never_done">Nesincronizate</string>
-    <string name="sync_status_oauth_error">Sincronizarea sursei de date a eșuat; vă rugăm să autorizați din nou</string>
+    <string name="sync_status_oauth_error">Nu s-au putut sincroniza datele. Acordați permisiunile necesare mai întâi</string>
     <string name="tb_audio_progress_bar">Bară redare audio</string>
     <string name="tb_card_on_using_list">Adăugată</string>
     <string name="tb_click_finish_stand">Mișcare nedetectată pentru circa o oră; atingeți pentru a finaliza mișcarea</string>
@@ -1076,6 +1076,7 @@ despre somn"</string>
     <string name="tb_month_dialog_go_today">Selectat azi</string>
     <string name="tb_month_dialog_select_date">Selectat %1$s</string>
     <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selectat %1$s, %s</string>
+    <string name="tb_multiple_selecte_all">Selectați tot</string>
     <string name="tb_not_add_list">Neadăugat</string>
     <string name="tb_pause_detection">Pauză</string>
     <string name="tb_picker_day">Ziua selectată: %1$d. Glisați vertical pentru a selecta ziua.</string>
@@ -1105,6 +1106,7 @@ despre somn"</string>
     <string name="tb_stand_day_ring">Astăzi, %1$s a acumulat have been accumulated to complete standing, ținta este să finalizați nemișcarea în 12 ore</string>
     <string name="tb_stand_wm_column_chart">%1$s-%2$s，Statisticile de finalizare a nemișcării, trageți spre stânga sau spre dreapta pentru a modifica intervalul de timp, atingeți coloana pentru a vedea detaliile</string>
     <string name="tb_stand_wm_column_click">%1$s，nemișcare %2$d，%3$s</string>
+    <string name="tb_unmultiple_selecte_all">Deselectați tot</string>
     <string name="tb_user_account_signed">Cont Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Atingeți pentru a vă conecta la contul Mi</string>
     <string name="tb_user_sleep_card_info">Ținta zilnică pentru somn: %1$s.</string>

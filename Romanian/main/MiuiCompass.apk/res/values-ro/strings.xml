@@ -52,8 +52,10 @@
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Setări</string>
     <string name="copy">Copiați</string>
+    <string name="cta_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile opționale pentru a-i putea folosi toate funcțiile sale.</string>
     <string name="cta_v2_app_purpose">se indică direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă</string>
     <string name="dialog_body_no_network">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
+    <string name="dialog_body_no_network_global">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
     <string name="dialog_calibrat_altitude">Calibrare…</string>
     <string name="dialog_title_no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="direction_east">E</string>
@@ -83,6 +85,14 @@
     <string name="location_south">Sud</string>
     <string name="location_west">Vest</string>
     <string name="longitude">Longitudine</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mobiledata_alert_dialog_message">Vă conectați la Internet pentru a calibra altitudinea?</string>
     <string name="mobiledata_alert_dialog_title">Avertizare utilizare date</string>
     <string name="not_set">Nesetat</string>
