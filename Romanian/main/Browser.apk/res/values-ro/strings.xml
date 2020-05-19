@@ -116,6 +116,7 @@
     <string name="agree">De acord</string>
     <string name="agree_permissions_request">Permiteți</string>
     <string name="allow">Permiteţi</string>
+  <string name="app__shared__build_name">DkReader</string>
     <string name="app_continue_downloading_text">Reluați</string>
     <string name="app_download_market_text">Utilizați Mi Market pentru a descărca, mai rapid și mai sigur</string>
     <string name="app_download_now_text">Descărcați</string>
@@ -123,7 +124,7 @@
     <string name="app_downloading_ratio_text">Se descarcă %s</string>
     <string name="app_downloading_text">Se descarcă</string>
     <string name="app_installing_text">Se instalează</string>
-    <string name="app_name">CrashLib</string>
+  <string name="app_name">mediation-mi</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_open_text">Deschideți</string>
     <string name="app_task_download_exists_text">Sarcina de descărcare există</string>
@@ -192,13 +193,12 @@
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="check_security_tip_privacy_policy">Politica de confidențialitate</string>
     <string name="check_security_tip_user_agreement">Acordul utilizatorului</string>
-    <string name="checking_now">Se verifică...</string>
-    <string name="choosertitle_sharevia">Distribuiţi prin</string>
+    <string name="clear_clipboard">Goliți</string>
+    <string name="clear_clipboard_confirm">Sunteți sigur că doriți să goliți complet clipboardul?</string>
     <string name="clear_history">Ştergeţi istoricul</string>
-    <string name="clear_search_history">Ştergeţi istoricul</string>
-    <string name="clear_video_download">Eliminați videoclipurile</string>
-    <string name="clip_dialog_title">Deschideţi URL-ul copiat?</string>
-    <string name="close">Închideți</string>
+    <string name="clear_input_history_confirm">Sunteți sigur că doriți să goliți complet istoricul?</string>
+    <string name="clear_input_history_confirm_bt_text">Confirm</string>
+    <string name="clipboard">Clipboard</string>
     <string name="close_ads_choice_no">Permiteţi</string>
     <string name="close_ads_choice_yes">Blocaţi</string>
     <string name="close_ads_message">"Blocaţi conținutul de pe acest site? Puteți vizualiza site-urile pe care le-ați blocat în Setări > Avansat > Site-uri blocate."</string>
@@ -417,6 +417,38 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exit_browser_confirmation">Atingeți din nou pentru a reveni pe desktop</string>
     <string name="exit_browser_warning">Ieşiţi din browser acum?</string>
     <string name="exit_fullscreen">Părăsiți modul ecran complet</string>
+    <string name="exo_controls_fastforward_description">Repede înainte</string>
+    <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_next_description">Piesa următoare</string>
+    <string name="exo_controls_pause_description">Pauză</string>
+    <string name="exo_controls_play_description">Redă</string>
+    <string name="exo_controls_previous_description">Piesa anterioară</string>
+    <string name="exo_controls_repeat_all_description">Repetă tot</string>
+    <string name="exo_controls_repeat_off_description">Nu repeta nimic</string>
+    <string name="exo_controls_repeat_one_description">Repetă una</string>
+    <string name="exo_controls_rewind_description">Derulează înapoi</string>
+    <string name="exo_controls_shuffle_description">Amestecă</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_download_completed">Descărcare finalizată</string>
+    <string name="exo_download_description">Descărcați</string>
+    <string name="exo_download_downloading">Se descarcă</string>
+    <string name="exo_download_failed">Descărcarea a eșuat</string>
+    <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_removing">Se elimină descărcările</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">Niciunul</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Sunet spațial</string>
+    <string name="exo_track_surround_5_point_1">Sunet spațial 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sunet spațial 7.1</string>
+    <string name="exo_track_unknown">Necunoscut</string>
     <string name="expand_article">Vedeți articolul complet</string>
     <string name="expand_button_title">Avansate</string>
     <string name="favorite">Adăugați la Favorite</string>
@@ -478,7 +510,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="hybrid_application_no_data_text">Niciun Mini Program</string>
     <string name="hybrid_popup_window_delete_button">Ștergeți</string>
     <string name="ignore_add_pwa_dialog_today">"Nu arăta astăzi"</string>
-    <string name="in_secureaccess">Browser comutat la modul sigur</string>
+    <string name="incognito">Incognito</string>
     <string name="info_flow_description">Info canal</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
     <string name="keep_queued_download">Păstrați</string>
@@ -738,6 +770,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
     <string name="next_button_label">Înainte</string>
     <string name="no_app_open_document">Nu a fost găsită nicio aplicație pentru a finaliza această acțiune</string>
+    <string name="no_content">Fără conținut încă</string>
     <string name="no_memory_space">memorie insuficientă</string>
     <string name="no_space_alert_cancel">Mai târziu</string>
     <string name="no_space_alert_clean">Obțineți spațiu suplimentar</string>
@@ -980,6 +1013,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Căutaţi</string>
+    <string name="search_history">Căutaţi în istoric</string>
     <string name="search_keyword_browser">Browser</string>
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Căutați</string>
@@ -1071,6 +1105,25 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="snapshot_successed">Deschideți Semne de carte &amp; Istoric -&gt;LOCAL pentru a vedea pagina</string>
     <string name="soft_toast_see_view">Vedeți</string>
     <string name="speech_engine_not_install">Motorul de căutare vocală nu este instalat</string>
+    <string name="srl_component_falsify" formatted="false">"%s falsifică zona,
+ Reprezintă înălțimea[%.1fdp] de glisare la timpul de rulare,
+ Nu afișează nimic."</string>
+    <string name="srl_content_empty">Vizualizarea conținutului din SmartRefreshLayout este goală. Ați uitați să o adăugați în fișierul de format .xml?</string>
+    <string name="srl_footer_failed">Încărcarea a eșuat</string>
+    <string name="srl_footer_finish">Încărcat cu succes</string>
+    <string name="srl_footer_loading">Se încarcă…</string>
+    <string name="srl_footer_nothing">Nu mai există date</string>
+    <string name="srl_footer_pulling">Glisați în sus pentru a încărca mai multe</string>
+    <string name="srl_footer_refreshing">Așteptați Reîncărcarea…</string>
+    <string name="srl_footer_release">Eliberați pentru a încărca mai multe</string>
+    <string name="srl_header_failed">Reîmprospătarea a eșuat</string>
+    <string name="srl_header_finish">Reîmprospătată cu Succes</string>
+    <string name="srl_header_loading">Așteptați Reîmprospătarea…</string>
+    <string name="srl_header_pulling">Glisați în jos pentru a reîmprospăta</string>
+    <string name="srl_header_refreshing">Se reîmprospătează…</string>
+    <string name="srl_header_release">Eliberați pentru a reîmprospăta</string>
+    <string name="srl_header_secondary">Eliberați la Etajul Secundar</string>
+    <string name="srl_header_update">"'Ultima actualizare' d-M HH:mm"</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>

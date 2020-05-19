@@ -76,6 +76,14 @@
         <item quantity="other">Amânaţi pentru %d minute</item>
         <item quantity="one">Amânaţi pentru %d minut</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Cronometrul a funcționat timp de %s zile. Atingeți pentru a vedea.</item>
+        <item quantity="one">Cronometrul a funcționat timp de %s zi. Atingeți pentru a vedea.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Cronometrul a funcționat timp de %s ore. Atingeți pentru a vedea.</item>
+        <item quantity="one">Cronometrul a funcționat timp de %s oră. Atingeți pentru a vedea.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ore "</item>
         <item quantity="one">"%1$d oră "</item>

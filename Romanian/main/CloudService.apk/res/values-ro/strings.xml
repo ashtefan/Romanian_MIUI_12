@@ -167,7 +167,8 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_success_title">Localizare dispozitiv</string>
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
-    <string name="forget_password"><u>Parolă uitată</u></string>
+    <string name="forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="help_and_feedback">Ajutor și Feedback</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_network_access_denied">Accesul la rețea a fost refuzat</string>
@@ -295,6 +296,8 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_alert_title">Rețineți parola</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
     <string name="micloud_find_device_guide_content">"Când schimbați cartela SIM, un mesaj SMS va fi trimis în mod automat pentru reactivarea acestei caracteristici!"</string>
+    <string name="micloud_find_device_guide_desc_pad">"Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge dispozitivul. Acest lucru vă poate ajuta să vă găsiți dispozitivul în cazul în care îl pierdeți. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;"</string>
+    <string name="micloud_find_device_guide_desc_phone">"Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge dispozitivul. Acest lucru vă poate ajuta să vă găsiți dispozitivul în cazul în care îl pierdeți. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;"</string>
     <string name="micloud_find_device_guide_fail_reopen">Puteți activa Localizarea dispozitivului în Contul Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verificați conexiunea la rețea și reîncercați.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Conexiunea a expirat. Încercați din nou mai târziu.</string>
@@ -309,7 +312,6 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
-    <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge datele de pe telefonul dumneavoastră. Acest lucru vă poate ajuta să vă recuperați telefonul în caz că îl pierdeți..</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>

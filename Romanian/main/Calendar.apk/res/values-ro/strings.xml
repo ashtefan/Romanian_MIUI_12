@@ -484,7 +484,7 @@
     <string name="miuix_search_history_clear">Goliți istoricul de căutare</string>
     <string name="miuix_search_history_default_title">Istoric de căutare</string>
     <string name="miuix_search_recommendation_default_title">V-ar putea interesa astea</string>
-    <string name="miuix_search_recommendation_item_del_des">ștergeți</string>
+    <string name="miuix_search_recommendation_item_del_des">Ștergeți</string>
     <string name="modify_all">Modificaţi toate evenimentele din serie</string>
     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare</string>
     <string name="modify_event">Modificaţi doar acest eveniment</string>

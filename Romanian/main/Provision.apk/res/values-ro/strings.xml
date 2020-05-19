@@ -83,6 +83,12 @@
     <string name="mint_keyboard_oobe_terms">Politica de Confidențialitate a tastaturii Mint</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Acordul Utilizatorului la %s.</string>
+    <string name="mobile_network">Se utilizează datele mobile</string>
+    <string name="move_data_dialog_box_le">Aceasta vă permite să utilizați conexiunea de date mobile și GPS bazat pe solicitarea utilizatorului. Sincronizarea conturilor și a altor elemente poate necesita utilizarea datelor mobile în funcție de specificațiile telefonului.</string>
+    <string name="move_data_dialog_box_title">Cu excepția cazului în care aveți un abonamnet de date nelimitat, utilizarea de date mobile poate genera taxe suplimentare de la operator. Utilizați oricum datele mobile?</string>
+    <string name="move_data_dialog_cancel">Renunțați</string>
+    <string name="move_data_dialog_title">Puteți restricționa conexiunea de date mobile mai târziu din Setări</string>
+    <string name="move_data_dialog_use">Utilizați</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
     <string name="navigation_picker_gesture_guide">Ghidare prin gesturi</string>

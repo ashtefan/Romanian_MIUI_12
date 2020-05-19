@@ -1414,6 +1414,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_otg_trackball_out">Trackball deconnectat</string>
     <string name="notification_otg_unknow_in">Dispozitiv OTG conectat</string>
     <string name="notification_otg_unknow_out">Dispozitiv OTG deconectat</string>
+    <string name="notification_storage_float">Stocarea externă</string>
     <string name="notification_tap_again">Atingeți din nou pentru a deschide</string>
     <string name="notification_template_text">" are o notificare nouă. Atingeți pentru a vizualiza.</string>
     <string name="np_mcc">429</string>
@@ -1898,6 +1899,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_volte_label">HD</string>
     <string name="status_bar_work">Profil de Servici</string>
     <string name="status_unavailable">Indisponibil</string>
+    <string name="storage_is_connecting">%1$s este conectat</string>
     <string name="stream_accessibility">Accesibilitate</string>
     <string name="stream_alarm">Alarmă</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>

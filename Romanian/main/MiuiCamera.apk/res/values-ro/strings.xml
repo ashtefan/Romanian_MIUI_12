@@ -1043,6 +1043,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_manual_exposure_title_abbr">T Exp</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+    <string name="pref_module_settings">Moduri</string>
     <string name="pref_more_mode_style_title">Moduri Cameră</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720p cu 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Puteți înregistra doar videoclipuri 720p cu 960fps</string>

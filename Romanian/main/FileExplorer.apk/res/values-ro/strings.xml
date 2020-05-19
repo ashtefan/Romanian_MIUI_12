@@ -454,6 +454,8 @@
     <string name="original_user_signal">Talent team</string>
     <string name="original_user_title">Felicitări pentru că ați devenit membru al echipei Talent team!</string>
     <string name="original_user_verify">• Vă mulțumim pentru că sunteți alături de noi!</string>
+    <string name="otg_data_transfer_success">Transferate cu succes</string>
+    <string name="otg_data_transferring">Se transferă fișierele… Nu deconectați stocarea externă.</string>
     <string name="otg_file_security_confirm">copiați în telefon</string>
     <string name="otg_file_security_details">Vă rugăm copiați în telefon</string>
     <string name="otg_file_security_note">Securitate OGT</string>

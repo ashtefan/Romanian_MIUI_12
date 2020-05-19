@@ -1722,6 +1722,7 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="content_capture">Conținutul aplicației</string>
     <string name="content_capture_summary">Permiteți aplicațiilor să trimită conținut sistemului Android</string>
     <string name="content_description_menu_button">Meniu</string>
+    <string name="content_miui_music_mute_by_user">Se redau sunete media când modul Silențios este activ?</string>
     <string name="contextual_card_dismiss_confirm_message">Eliminați această sugestie?</string>
     <string name="contextual_card_dismiss_keep">Păstrați</string>
     <string name="contextual_card_dismiss_remove">Eliminați</string>
@@ -6885,6 +6886,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_layout_current">Dimensiunea textului</string>
     <string name="title_layout_current2">Dimensiunea textului</string>
     <string name="title_layout_current2_weight">Dimensiunea textului și grosimea fontului</string>
+    <string name="title_miui_music_mute_by_user">Modul Silențios</string>
     <string name="title_of_auto_launch_manage">Pornire automată</string>
     <string name="to_close">Dezactivați</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>

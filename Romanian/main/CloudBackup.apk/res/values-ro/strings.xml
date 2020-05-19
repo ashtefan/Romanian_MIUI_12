@@ -153,6 +153,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="error_unknown">Ceva a mers prost</string>
     <string name="expand_button_title">Avansat</string>
     <string name="get_device_id_error">"Nu s-a putut obține ID-ul dispozitivului"</string>
+    <string name="help_and_feedback">Ajutor și Feedback</string>
     <string name="hint_restore_cross_space">Dispunerea Ecranului principal ar putea fi afișată incorect dacă transferați elemente între cele 2 spații.</string>
     <string name="home_hint_global_launcher">Lansator POCO</string>
     <string name="home_hint_other_launcher">Alt lansator</string>

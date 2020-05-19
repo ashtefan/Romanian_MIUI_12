@@ -1282,10 +1282,9 @@ cardul de sănătate"</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
     <string name="function_close">Oprit</string>
     <string name="function_gwsd_detail">"Despre această caracteristică:
- 1. Apelurile primite prin cartela SIM de date nu vor întrerupe conexiunea de date. Conexiunea va fi întreruptă doar când preluați un apel.
- 2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare. Apelurile primite vor fi încheiate dacă nu răspundeți în 6 secunde.
- 3. Această caracteristică funcționează doar pentru cartelele SIM de date. Apelurile de pe cartela principală vor întrerupe conexiunea de date mobile.
- 4. Această funcție este suportată doar de către China Mobile și China Unicom."</string>
+ 1. Atunci când utilizați datele mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite decât atunci când preluați apelul.
+ 2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse în mod automat după 7-10 secunde de inactivitate.
+ 3. Sunt suportate cartele SIM de date furnizate de către China Mobile și China Unicom. Sunt suportate cartele obișnuite furnizate de către China Mobile, China Unicom și China Telecom."</string>
     <string name="function_gwsd_title">"Nu permiteți apelurilor primite să întrerupă datele mobile"</string>
     <string name="function_shield_auto_bright">Dezactivați iluminarea automată</string>
     <string name="function_shield_eye_shield">Dezactivați Modul Lectură</string>
@@ -2180,6 +2179,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_auto_start_by_system">Aplicații pornire</string>
     <string name="pm_auto_start_by_system_event">Permite aplicațiilor să pornească automat</string>
     <string name="pm_auto_start_proc_is_running">Rulează</string>
+    <string name="pm_newfeature_sub_text">NOU</string>
     <string name="pm_remember_choice">Memorează preferințele</string>
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
