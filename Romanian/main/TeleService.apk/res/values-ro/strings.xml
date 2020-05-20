@@ -269,15 +269,15 @@
     <string name="bluetooth_active_no_battery_level">Activ</string>
     <string name="bluetooth_battery_level">%1$s acumulator</string>
     <string name="bluetooth_battery_level_untethered">S: %1$s acumulator, D: %2$s acumulator</string>
-    <string name="bluetooth_connected">Conectat</string>
+    <string name="bluetooth_connected">Conectat%1$s</string>
     <string name="bluetooth_connected_battery_level">Conectat, acumulator %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Conectat (niciun mediu multimedia)</string>
+    <string name="bluetooth_connected_no_a2dp">Conectat (niciun mediu multimedia)%1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Conectat (niciun mediu multimedia), acumulator %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Conectat (niciun telefon)</string>
+    <string name="bluetooth_connected_no_headset">Conectat (niciun telefon)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Conectat (niciun telefon), acumulator %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Conectat (niciun telefon sau dispozitiv multimedia)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Conectat (niciun telefon sau dispozitiv multimedia)%1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectat (niciun telefon sau mediu multimedia), acumulator %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Conectat (fără acces la mesaje)</string>
+    <string name="bluetooth_connected_no_map">Conectat (fără acces la mesaje)%1$s</string>
     <string name="bluetooth_connecting">Conectare…</string>
     <string name="bluetooth_disable_absolute_volume">Dezactivați volumul absolut</string>
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica de volum absolut Bluetooth în cazul unor probleme cu dispozitivele de la distanță cum ar fi sunet inacceptabil de tare sau pierderea controlului.</string>
@@ -295,8 +295,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Se asociază Ajutorul Ascultare dreapta…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectat la dispozitivul de intrare</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizat ca sunet de intrare</string>
-    <string name="bluetooth_map_profile_summary_connected">Conectat la MAP</string>
-    <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru MAP</string>
+    <string name="bluetooth_map_profile_summary_connected">Conectat la map</string>
+    <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru map</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Neconectat la serverul de transfer de fișiere</string>
     <string name="bluetooth_opp_profile_summary_use_for">Utilizat pentru transferul de fișiere</string>
@@ -329,20 +329,20 @@
     <string name="bluetooth_sap_profile_summary_connected">Conectat la SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizat pentru accesul la cartela SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selectați codecul Bluetooth Audio:
-Biți per eșantion"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Mod canal Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selectați codecul Bluetooth Audio:
-Mod canal"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Declanșare Bluetooth Codec Audio
+Selecție: Biți Per Eșantion"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Mod canal audio Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Declanșare Bluetooth Codec Audio
+Selecție: Mod Canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec Bluetooth Audio LDAC: Calitate redare</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selectați codecul Bluetooth Audio LDAC:
-Calitate redare"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selectați codecul Bluetooth Audio:
-Sample Rate"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Declanșare Bluetooth Codec Audio LDAC
+Selecție: Calitate Redare"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Rata de eșantionare audio Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Declanșare Bluetooth Codec Audio
+Selecție: Rată Eșantionare"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Redare online: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec Bluetooth Audio</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Selectați codecul Bluetooth Audio
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Declanșare Bluetooth Codec Audio
 Selecție"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selectați versiunea Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versiunea Bluetooth AVRCP</string>
@@ -512,7 +512,7 @@ Selecție"</string>
     <string name="call_recording_notification_title_error">Apelul nu a putut fi înregistrat</string>
     <string name="call_recording_notification_toggle_title">Notificare înregistrare apel</string>
     <string name="call_recording_setting">Înregistrare apel</string>
-    <string name="call_settings">Telefon</string>
+    <string name="call_settings">Setări apel</string>
     <string name="call_settings_admin_user_only">Setările de apelare pot fi modificate doar de către administrator.</string>
     <string name="call_settings_primary_user_only">Setările pentru apeluri pot fi modificate doar de către utilizatorul principal.</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
@@ -532,7 +532,7 @@ Selecție"</string>
     <string name="card_title_MOcall_forwarding">Apel efectuat redirecționat</string>
     <string name="card_title_MTcall_forwarding">Apelul primit este redirecționat</string>
     <string name="card_title_call_deflected">Apel deviat</string>
-    <string name="card_title_call_ended">"Apel încheiat "</string>
+    <string name="card_title_call_ended">Apel încheiat</string>
     <string name="card_title_callconnectedect">Apel conectat prin transfer explicit de apel</string>
     <string name="card_title_callconnectingect">Conectare apel prin transfer explicit de apel</string>
     <string name="card_title_calliswaiting">Apel în așteptare</string>
@@ -547,14 +547,14 @@ Selecție"</string>
     <string name="card_title_dialing">Se apelează</string>
     <string name="card_title_forwardcheckreceived">Verificare redirecționare recepționată</string>
     <string name="card_title_forwarded_MTcall">Apel primit redirecționat</string>
-    <string name="card_title_hanging_up">"Se încheie apelul "</string>
+    <string name="card_title_hanging_up">Se încheie apelul</string>
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_incoming_barred">Apelurile primite sunt restricționate</string>
     <string name="card_title_incoming_call">Apel de intrare</string>
     <string name="card_title_multipartycall">Apel Multiparty</string>
-    <string name="card_title_on_hold">"În aşteptare "</string>
+    <string name="card_title_on_hold">În aşteptare</string>
     <string name="card_title_outgoing_barred">Apelurile efectuate sunt restricționate</string>
-    <string name="card_title_redialing">Se încearcă din nou</string>
+    <string name="card_title_redialing">Se apelează din nou</string>
     <string name="card_title_unconditionalCF">Redirecționarea necondiționată a apelurilor este activată</string>
     <string name="carrier_info">Informații operator</string>
     <string name="carrier_settings" />
@@ -602,12 +602,12 @@ Selecție"</string>
     <string name="change_default_data_card">Cartelă SIM implicită pentru date</string>
     <string name="change_default_data_card_summary">Se pare că ați schimbat cartelele SIM. Stabiliți această cartelă SIM ca implicită pentru date mobile?</string>
     <string name="change_num">Actualizaţi</string>
-    <string name="change_password">Modificare parolă de barare</string>
+    <string name="change_password">Modificați parola de restricționare</string>
     <string name="change_pin">Schimbaţi codul PIN pentru SIM</string>
     <string name="change_pin2">Schimbaţi codul PIN2</string>
     <string name="change_pin_cancel_label">Renunțați</string>
     <string name="change_pin_confirm_pin_header">Confirmați codul PIN</string>
-    <string name="change_pin_confirm_pins_dont_match">"Codurile PIN nu se potrivesc"</string>
+    <string name="change_pin_confirm_pins_dont_match">Codurile PIN nu se potrivesc</string>
     <string name="change_pin_continue_label">Continuați</string>
     <string name="change_pin_enter_new_pin_header">Setați un nou cod PIN</string>
     <string name="change_pin_enter_new_pin_hint">Codul PIN trebuie să conțină %1$d-%2$d cifre.</string>
@@ -697,7 +697,7 @@ Selecție"</string>
     <string name="confirmPinLabel">Confirmaţi noul cod PIN</string>
     <string name="confirm_enable_oem_unlock_text">AVERTISMENT: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest dispozitiv cât timp această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
-    <string name="confirm_password_label">Confirmare parolă nouă</string>
+    <string name="confirm_password_label">Confirmați noua parolă</string>
     <string name="confirm_pin2_label">Confirmați noul cod PIN2</string>
     <string name="confirm_pin_label">Confirmați noul cod PIN</string>
     <string name="connect_disconnect_vibrate_none">Fără vibrare</string>
@@ -955,10 +955,11 @@ Utilizați datele mobile oricum?"</string>
     <string name="enhanced_4g_lte_mode_off_failed">"Nu s-a putut opri serviciul VoLTE."</string>
     <string name="enhanced_4g_lte_mode_on_failed">"Nu s-a putut porni serviciul VoLTE."</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizați serviciile LTE pentru a îmbunătăți comunicațiile vocale(recomandat)</string>
+  <string name="enhanced_4g_lte_mode_summary_o2">Utilizați serviciile 4G pentru a îmbunătăți comunicațiile vocale(recomandat)</string>
     <string name="enhanced_4g_lte_mode_title">Mod 4G LTE avansat</string>
     <string name="enhanced_4g_lte_mode_title_variant">Apelare avanasată</string>
-    <string name="enter_callbarring_password">Introducere parolă de barare apeluri (%d cifre)</string>
-    <string name="enter_input" formatted="false">Mesajul USSD trebuie să aibă între %d și %d caractere. Încercați din nou.</string>
+    <string name="enter_callbarring_password">Introducere parolă de restricționare apeluri (%d cifre)</string>
+    <string name="enter_input">Mesajul USSD trebuie să aibă între %1$d and %2$d caractere. Încercați din nou.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">Codul PIN pentru cartela SIM:</string>
     <string name="entertainment_news_settings">Știri de divertisment</string>
@@ -976,21 +977,21 @@ Utilizați datele mobile oricum?"</string>
     <string name="fake_phone_activity_infoText_text">Număr de telefon primit</string>
     <string name="fake_phone_activity_phoneNumber_text">(021) 555-1234</string>
     <string name="fake_phone_activity_placeCall_text">Apel fals primit</string>
-    <string name="fdn">Numere cu apelări restricţionate</string>
+    <string name="fdn">Numere de apelare fixe</string>
     <string name="fdnListLabel">Listă FDN</string>
     <string name="fdn_activation">Activare FDN</string>
-    <string name="fdn_check_failure">Setarea Numere cu apelări restricţionate din aplicaţia Telefon este activată. Ca rezultat, unele funcţii legate de apelare nu pot fi utilizate.</string>
-    <string name="fdn_contact_added">Număr cu apelări restricţionate adăugat.</string>
-    <string name="fdn_contact_deleted">Numărul cu apelări restricţionate a fost şters.</string>
-    <string name="fdn_contact_updated">Număr cu apelări restricţionate actualizat.</string>
-    <string name="fdn_disabled">Numerele cu apelări restricţionate sunt dezactivate</string>
+    <string name="fdn_check_failure">Setarea Numere de apelare fixe din aplicaţia Telefon este activată. Ca rezultat, unele funcţii legate de apelare nu pot fi utilizate.</string>
+    <string name="fdn_contact_added">Număr cu apelare fixă adăugat.</string>
+    <string name="fdn_contact_deleted">Număr cu apelare fixă a fost şters.</string>
+    <string name="fdn_contact_updated">Număr cu apelare fixă actualizat.</string>
+    <string name="fdn_disabled">Numerele cu apelări fixe sunt dezactivate</string>
     <string name="fdn_enable_puk2_requested">Parolă incorectă, codul PIN2 a fost blocat. Schimbați codul PIN2 și încercați din nou!</string>
-    <string name="fdn_enabled">Numerele cu apelări restricţionate sunt activate</string>
+    <string name="fdn_enabled">Numerele cu apelări fixe sunt activate</string>
     <string name="fdn_failed">Operațiunea FDN nu a reușit.</string>
     <string name="fdn_full">"FDN nu a fost actualizat deoarece lista este plină."</string>
     <string name="fdn_invalid_number">FDN nu a fost actualizat deoarece numărul depăşește %d cifre.</string>
     <string name="fdn_list_with_label">Listă FDN (%s)</string>
-    <string name="fdn_summary">Restricționați apelarea numerelor din lista FDN sau a numerelor cu anumite prefixe</string>
+    <string name="fdn_summary">Restricționați apelarea la numerele din lista FDN sau a numerelor cu anumite prefixe</string>
     <string name="fdn_with_label">Numere cu apelare fixată (%s)</string>
     <string name="fire_type_description">Incendiu</string>
     <string name="fiveg_bearer_status1">Stare purtător 5G :</string>
@@ -1041,7 +1042,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="general_news_settings">Știri generale</string>
     <string name="general_setting">Setări</string>
     <string name="get_pin2">Introduceţi codul PIN2</string>
-    <string name="get_smsc_address_error">Imposibil de conectat la rețea.</string>
+    <string name="get_smsc_address_error">Nu se poate conecta la rețea.</string>
     <string name="get_smsc_address_timeout">Conexiune expirată</string>
     <string name="goPrivate">trecerea la modul privat</string>
     <string name="go_to_virtual_sim_title">SIM virtual</string>
@@ -1078,6 +1079,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="incall_error_missing_voicemail_number">Număr necunoscut al mesageriei locale.</string>
     <string name="incall_error_no_phone_number_supplied">Apelul nu s-a trimis; niciun număr valid introdus.</string>
     <string name="incall_error_out_of_service">Reţeaua mobilă nu este disponibilă.</string>
+    <string name="incall_error_out_of_service_kr">Sunt disponibile doar apeluri de urgență.</string>
     <string name="incall_error_out_of_service_wfc">Rețeaua mobilă nu este disponibilă. Conectați-vă la o rețea wireless pentru a efectua un apel.</string>
     <string name="incall_error_outgoing_call_failed">Nu s-a putut efectua apelul</string>
     <string name="incall_error_power_off">Pentru a efectua un apel, dezactivaţi mai întâi modul Avion.</string>
@@ -1093,6 +1095,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="incall_error_supp_service_transfer">Apelul nu poate fi transferat.</string>
     <string name="incall_error_supp_service_unknown">Serviciu neacceptat.</string>
     <string name="incall_error_wfc_only_no_wireless_network">Conectați-vă la o rețea wireless pentru a efectua un apel.</string>
+    <string name="incall_number_anonymous">Număr necunoscut</string>
     <string name="incall_status_dialed_mmi">Se porneşte secvenţa MMI…</string>
     <string name="install_other_apps">Instalați aplicații necunoscute</string>
     <string name="international_disable">Știri internaţionale dezactivate</string>
@@ -1355,7 +1358,9 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>
     <string name="msim_setting_categery_title">Setările cartelei SIM</string>
     <string name="msim_setting_default_data">Cartelă pentru date</string>
+    <string name="msim_setting_default_data_description">SIM date %d</string>
     <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+    <string name="msim_setting_default_voice_description">SIM %d</string>
     <string name="msim_setting_install_virtual_sim_install">Instalați</string>
     <string name="msim_setting_install_virtual_sim_message">Instalați Serviciile de Operator Mi pentru a cumpăra cartele SIM și pentru a gestiona abonamentul de la operator.</string>
     <string name="msim_setting_install_virtual_sim_tip">Servicii de Operator Mi</string>
@@ -1714,6 +1719,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="private_dns_mode_provider_failure">"Nu s-a putut conecta"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduceți numele gazdă al furnizorului privat DNS</string>
     <string name="private_num">Număr privat</string>
+    <string name="private_num_kr">ID-ul apelantului este restricționat</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
     <string name="prompt_to_suggest_no_call_service_notification_content">Nu se pot realiza sau primi apeluri. Serviciul VoLTE este oprit pentru cartela dvs. SIM (China Telecom) acum.</string>
@@ -2080,8 +2086,8 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="time_end_minute">minutul de sfârșit</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
-    <string name="time_next_day">" ziua următoare "</string>
-    <string name="time_start">"  De la  "</string>
+    <string name="time_next_day">ziua următoare</string>
+    <string name="time_start">De la</string>
     <string name="time_start_hour">ora de început</string>
     <string name="time_start_minute">minutul de început</string>
     <string name="time_unit_just_now">Chiar acum</string>

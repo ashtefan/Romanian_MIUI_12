@@ -316,6 +316,8 @@
     <string name="audio_effect_custom">Configuraţi</string>
     <string name="audio_effect_info">Optimizaţi sunetul</string>
     <string name="audio_effect_settings">Selectaţi tipul căştilor</string>
+    <string name="auto_brightness_off">Iluminare automată dezactivată</string>
+    <string name="auto_brightness_on">Iluminare automată activată</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Butoanele de navigare sunt dezactivate; atingeți de două ori orice buton pentru a le reactiva.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Butoanele de navigare activate</string>
     <string name="available_via_carrier">Disponibil via %1$s</string>

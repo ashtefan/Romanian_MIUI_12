@@ -4510,7 +4510,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="not_battery_optimizing">Nu se utilizează optimizarea acumulatorului</string>
     <string name="not_installed">Neinstalată</string>
     <string name="not_set">Nesetat</string>
-    <string name="notch_and_status_bar_settings">Breton și bara de stare</string>
+    <string name="notch_and_status_bar_settings">Centrul de control și bara de stare</string>
     <string name="notch_force_black_desc">Activați pentru a întuneca zona din jurul canelurii</string>
     <string name="notch_force_black_title">Ascunde canelura</string>
     <string name="notch_settings">Breton</string>
