@@ -68,6 +68,8 @@
     <string name="app_debug_settings_oaid_summary">(Atingeți pentru a copia OAID)</string>
     <string name="app_debug_settings_online_title">Online</string>
     <string name="app_debug_settings_preview_title">Previzualizare</string>
+  <string name="app_debug_settings_staging2_title">Staging2</string>
+  <string name="app_debug_settings_staging3_title">Staging3</string>
     <string name="app_debug_settings_staging_title">Staging</string>
     <string name="app_debug_settings_toast_switch_error">Comutare mediu eroare</string>
     <string name="app_debug_settings_vaid">VAID</string>
@@ -925,6 +927,14 @@ Verificați numărul de urmărire."</string>
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="month_day_format">dd/MM</string>
     <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
     <string name="month_format_en">dd/MM</string>
@@ -936,6 +946,9 @@ Verificați numărul de urmărire."</string>
     <string name="monthly_report_entry_text">Vedeți raportul lunar</string>
     <string name="monthly_report_lable">Raport lunar</string>
     <string name="more_express_numbers">Mai multe numere de la curier</string>
+    <string name="mru_setting_brief">Aplicațiile rapide și scurtăturile care apar după ce glisați în jos în Asistentul inteligent</string>
+    <string name="mru_setting_brief_detail">"Aplicații rapide și scurtături utilizate recent. "</string>
+    <string name="mru_title">Elemente recente</string>
   <string name="msp_memo_user_cancel">操作已经Renunțați。</string>
     <string name="music">Muzică și radio</string>
     <string name="music_card_error_str">A apărut o eroare; deschideți aplicația de Muzică pentru a reda</string>

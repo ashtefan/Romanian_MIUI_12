@@ -959,7 +959,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="enhanced_4g_lte_mode_title">Mod 4G LTE avansat</string>
     <string name="enhanced_4g_lte_mode_title_variant">Apelare avanasată</string>
     <string name="enter_callbarring_password">Introducere parolă de restricționare apeluri (%d cifre)</string>
-    <string name="enter_input">Mesajul USSD trebuie să aibă între %1$d and %2$d caractere. Încercați din nou.</string>
+    <string name="enter_input">Mesajul USSD trebuie să aibă între %1$d și %2$d caractere. Încercați din nou.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">Codul PIN pentru cartela SIM:</string>
     <string name="entertainment_news_settings">Știri de divertisment</string>

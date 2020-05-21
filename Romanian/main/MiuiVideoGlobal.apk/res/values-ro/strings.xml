@@ -12,6 +12,18 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">ștergere</string>
@@ -433,6 +445,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="input_size_tips">Puteți introduce maxim 1000 caractere</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="issue">Problemă</string>
+    <string name="just_a_second">Doar o secundă…</string>
     <string name="language_later_setting_tips">Puteți modifica preferințele pentru limbă din Profil>Limbă.</string>
     <string name="language_select_tips">"Selectați limba preferată
 pentru videoclipuri"</string>
@@ -485,6 +498,7 @@ pentru videoclipuri"</string>
     <string name="lv_audio_track">Piesă audio</string>
     <string name="lv_auto_update">Actualizează mai târziu</string>
     <string name="lv_brightness">Luminozitate</string>
+    <string name="lv_cast">Proiectați</string>
     <string name="lv_check_delete_file">Selectați elemente pentru a fi șterse</string>
     <string name="lv_check_send_file">Puteți trimite 1 fișier la un moment dat</string>
     <string name="lv_confirm_delete_history">Ștergeți articolul selectat?</string>
@@ -598,6 +612,7 @@ pentru videoclipuri"</string>
     <string name="mr_cast_button_connected">Butonul de proiecție. Conectat</string>
     <string name="mr_cast_button_connecting">Butonul de proiecție. Se conectează</string>
     <string name="mr_cast_button_disconnected">Butonul de proiecție. Deconectat</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Nu există informații disponibile</string>
     <string name="mr_chooser_searching">Se caută dispozitive</string>
     <string name="mr_chooser_title">Proiectați pe</string>
     <string name="mr_controller_album_art">Grafica albumului</string>
@@ -613,6 +628,8 @@ pentru videoclipuri"</string>
     <string name="mr_controller_stop">Opriți</string>
     <string name="mr_controller_stop_casting">Nu mai proiectați</string>
     <string name="mr_controller_volume_slider">Glisor pentru volum</string>
+    <string name="mr_dialog_device_header">Proiectați pe un dispozitiv</string>
+    <string name="mr_dialog_route_header">Redați într-un grup</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
@@ -625,6 +642,7 @@ pentru videoclipuri"</string>
     <string name="next">Următorul</string>
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
+    <string name="no_more_content">Asta e tot pentru acum</string>
     <string name="no_network_tips">"Nu se poate utiliza această funcție acum. Accesul la rețea este restricționat."</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="no_recommend_data">Niciun videoclip recomandat acum</string>
