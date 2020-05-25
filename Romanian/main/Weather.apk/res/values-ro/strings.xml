@@ -67,7 +67,10 @@
     <string name="alert_weather_enable_settings_title">Avertizări despre starea vremii</string>
     <string name="already_voted_toast">Ați votat deja astăzi</string>
     <string name="app_name">Meteo</string>
-    <string name="aqi_alert_channel_name">Alerte ICA</string>
+    <string name="aqi_15_days_desc">Prognoza ICA pe 15 zile</string>
+    <string name="aqi_24_hours_desc">Prognoza ICA pe 24 de ore</string>
+    <string name="aqi_48_hours_desc">Prognoza ICA pe 48 de ore</string>
+    <string name="aqi_5_days_desc">Prognoza ICA pe 5 zile</string>
     <string name="aqi_data_source">Oferit de Colorful Clouds</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
     <string name="aqi_detail_24_hours">Prognoza pe 24 de ore</string>
@@ -218,6 +221,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="feedback_sunny">Însorit</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
     <string name="global_aqi">ICA: %1$s %2$s</string>
+    <string name="global_not_enable_warning">Nu se poate utiliza această aplicație. Nu a fost instalată din surse oficiale.</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_date">d/M</string>
@@ -440,6 +444,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="warning_weather_day_and_night_settings_title">Rapoarte zilnice</string>
     <string name="weather_alert_channel_name">Alerte</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
+    <string name="weather_main_aqi_desc">ICA</string>
+    <string name="weather_main_minute_hour">Precipitații pe 2 ore</string>
     <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>
     <string name="widget_cta_not_agree">Atingeți pentru a obține informații despre starea vremii</string>

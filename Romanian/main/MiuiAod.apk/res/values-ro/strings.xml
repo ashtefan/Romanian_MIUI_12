@@ -87,6 +87,7 @@ dd/MM"</string>
     <string name="deep_space_planet_des">Această temă reflectă modificarea luminii înconjurătoare pe parcursul zilei. De asemenea apusul și răsăritul sunt sincronizate cu locația dvs.</string>
     <string name="delete">Ștergeți</string>
     <string name="digital_clock">Digital</string>
+    <string name="disable_aod_in_dark_room">Dezactivează când se află în întuneric</string>
     <string name="disable_aod_in_power_save_mode">Dezactivați când Economisirea acumulatorului este activă</string>
     <string name="disable_aod_in_power_save_mode_summary">Nu afișa elementele pentru a economisi energia</string>
     <string name="error_icon_content_description">Eroare</string>

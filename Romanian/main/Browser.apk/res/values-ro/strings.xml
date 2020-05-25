@@ -249,7 +249,7 @@
     <string name="comment_report_send">Trimis cu succes</string>
     <string name="comment_select_report_reason">De ce raportați aceasta?</string>
     <string name="comment_success">Comentariu adăugat cu succes</string>
-    <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.ro</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
     <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
