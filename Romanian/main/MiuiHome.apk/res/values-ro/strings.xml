@@ -386,6 +386,8 @@
     <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
     <string name="open_personal_assistant_title">Asistent inteligent</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
+    <string name="perfect_icons_switch_summary">Redați animații pe pictogramele aplicațiilor terțe</string>
+    <string name="perfect_icons_switch_title">Animații pictograme globale</string>
     <string name="permdesc_install_shortcut">Permite unei aplicaţii să adauge comenzi rapide fără intervenţia utilizatorului.</string>
     <string name="permdesc_install_widget">Permite aplicaţiei adăugarea obiectelor widget fără acțiuni suplimentare din partea utilizatorului.</string>
     <string name="permdesc_read_settings">Permite aplicaţiei să citească setările şi comenzile rapide din ecranul de pornire.</string>

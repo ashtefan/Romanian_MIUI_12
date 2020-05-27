@@ -51,6 +51,7 @@
     <string name="action_menu_text_fullscreen_enter">Intrați în modul Ecran complet</string>
     <string name="action_menu_text_fullscreen_exit">Părăsiți modul Ecran complet</string>
     <string name="action_menu_text_history">Marcaje şi istoric</string>
+  <string name="action_menu_text_like">Like</string>
     <string name="action_menu_text_nightmode">Mod nocturn</string>
     <string name="action_menu_text_readmode">Mod citire</string>
     <string name="action_menu_text_refresh">Reîncărcare</string>

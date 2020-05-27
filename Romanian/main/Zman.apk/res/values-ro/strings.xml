@@ -37,6 +37,7 @@
     <string name="first_settings_share_enable_subtitle">Elementele pe care le partajați prin WeChat vor avea o amprentă cu MIUI</string>
     <string name="first_settings_subtitle">Aici sunt disponibile opțiunile de partajare securizată disponibile pentru dumneavoastră:</string>
     <string name="first_settings_title">Protejați-vă confidențialitatea</string>
+    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii (%d/%d)…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">glisați pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">reîmprospătare finalizată</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">se reîmprospătează</string>

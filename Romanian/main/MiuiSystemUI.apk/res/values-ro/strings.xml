@@ -104,6 +104,10 @@
     <string name="accessibility_desc_recent_apps">Vedere generală.</string>
     <string name="accessibility_desc_settings">Setări</string>
     <string name="accessibility_desc_work_lock">Blocare Ecran servici</string>
+    <string name="accessibility_detail_switch">Comutați butoanele</string>
+    <string name="accessibility_detail_switch_disable">Indisponibil</string>
+    <string name="accessibility_detail_switch_off">Dezactivați</string>
+    <string name="accessibility_detail_switch_on">Activați</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_divider">Delimitare ecran scindat</string>
@@ -111,6 +115,7 @@
     <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide Caruselul de imagini de fundal	</string>
     <string name="accessibility_ethernet_connected">Ethernet conectat.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet deconectat.</string>
+    <string name="accessibility_expand_button">Afișați mai multe</string>
     <string name="accessibility_face_dialog_face_icon">Pictogramă chip</string>
     <string name="accessibility_fingerprint_dialog_app_icon">Pictograma aplicației</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Pictograma amprentei</string>
@@ -1439,6 +1444,11 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>
     <string name="owner_info_settings_edit_text_hint">De ex. Androidul lui Cristi.</string>
+    <string name="partial_screenshot_edit">Editați</string>
+    <string name="partial_screenshot_repaint">Reluați</string>
+    <string name="partial_screenshot_save">Salvați</string>
+    <string name="partial_screenshot_save_successful">Salvată cu succes</string>
+    <string name="partial_screenshot_share">Partajați</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="phone_hint">Glisați din pictograma Telefon</string>
     <string name="phone_label">Accesați Telefonul</string>
@@ -1587,10 +1597,10 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cellular_detail_data_usage">Utilizare date</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizați</string>
     <string name="quick_settings_cellular_detail_data_warning">%s avertisment</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Datele mobile(WCDMA/LTE) vor fi dezactivate. Dacă nu utilizați Wi-Fi, nu veți mai putea utiliza aplicații care necesită o conexiune de date. Trimiterea sau primirea de mesaje multimedia va fi restricționată.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Datele mobile vor fi activate. Conectarea la rețelele mobile poate duce la taxe suplimentare în funcție de abonamentul dvs.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dacă dezactivați datele mobile, nu veți mai putea utiliza internetul decât dacă vă conectați la Wi-Fi. Veți putea trimite în continuare mesaje MMS. Dezactivați datele mobile oricum?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Utilizarea datelor mobile poate duce la taxe suplimentare, în funcție de abonamentul dvs. Permiteți utilizarea datelor mobile oricum?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Renunțați</string>
-    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Permiteți</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Dezactivați</string>
     <string name="quick_settings_cellular_detail_over_limit">Peste limită</string>
     <string name="quick_settings_cellular_detail_remaining_data">Date disponibile</string>

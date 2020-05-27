@@ -58,6 +58,7 @@
     <string name="btn_restore_resume">Reluați</string>
     <string name="btn_restore_retry">Încercați din nou</string>
     <string name="btn_restore_wait">Așteptați Wi-Fi</string>
+    <string name="btn_restore_wait_china">Așteptați Wi-Fi</string>
     <string name="btn_retry">Verificați din nou</string>
     <string name="btn_skip">Omiteți acest pas</string>
     <string name="button_cancel">Anulaţi</string>
@@ -87,6 +88,12 @@
 *  Setările notificărilor 
 *  Setările MIUI și ale sistemului 
 Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</string>
+    <string name="cloud_back_up_detail_discription_china">"Se va face o copie de rezervă în Xiaomi Cloud pentru aceste elemente atunci când telefonul este conectat la Wi-Fi:
+*  Aplicații, dispunerea iconițelor pe ecranul principal și imaginile de fundal
+*  Alarmă, ceas și setările pentru oră 
+*  Setările notificărilor 
+* Setările MIUI și ale sistemului 
+Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</string>
     <string name="cloud_back_up_frequence_choice_title">Program creare copie de rezervă</string>
     <string name="cloud_back_up_frequence_long">La fiecare 7 zile</string>
     <string name="cloud_back_up_frequence_short">În fiecare zi</string>
@@ -103,6 +110,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="cloud_backup_detail_manage">Administrare copii de rezervă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automate</string>
     <string name="cloud_backup_detail_state_summary">Creați copii de rezervă în Xiaomi Cloud în mod automat atunci când sunteți conectat la Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary_china">Creați copii de rezervă în Xiaomi Cloud în mod automat atunci când sunteți conectat la Wi-Fi.</string>
     <string name="cloud_backup_detail_time">Data ultimei copii de rezervă: %1$s</string>
     <string name="cloud_backup_detail_title">Ecranul principal, aplicații și setări.</string>
     <string name="cloud_backup_have_data">A fost găsită o copie de rezervă în Xiaomi Cloud</string>
@@ -138,7 +146,9 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="dialog_cancel_backup_title">Renunțați la crearea copiilor de rezervă în curs?</string>
     <string name="dialog_msg_overwrite_backup">Copia de rezervă locală este diferită de cea din Xiaomi Cloud. Dacă veți continua, copia de rezervă curentă o va suprascrie pe cea anterioară.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Conectați-vă la Wi-Fi</string>
+    <string name="dialog_title_require_wlan_china">Conectați-vă la Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Se calculează dimensiunea…</string>
     <string name="doing_restore_home">Restaurare Ecran principal și setări…</string>
@@ -153,7 +163,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="error_unknown">Ceva a mers prost</string>
     <string name="expand_button_title">Avansat</string>
     <string name="get_device_id_error">"Nu s-a putut obține ID-ul dispozitivului"</string>
-    <string name="help_and_feedback">Ajutor și Feedback</string>
+    <string name="help_and_feedback">Ajutor și feedback</string>
     <string name="hint_restore_cross_space">Dispunerea Ecranului principal ar putea fi afișată incorect dacă transferați elemente între cele 2 spații.</string>
     <string name="home_hint_global_launcher">Lansator POCO</string>
     <string name="home_hint_other_launcher">Alt lansator</string>

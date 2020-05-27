@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="access_sd_fail">Nu s-a putut accesa cardul SD.</string>
+  <string name="accessibility_8k_off">AI 8K,关闭状态</string>
+  <string name="accessibility_8k_on">AI 8K,开启状态</string>
     <string name="accessibility_ai_scene_off">AI camera este oprită</string>
     <string name="accessibility_ai_scene_on">AI camera este pornită</string>
     <string name="accessibility_back_preview_status">Previzualizare cameră posterioară</string>
@@ -110,6 +112,7 @@
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="ai_watermark_title">Amprentă AI</string>
+  <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">Despre expunerea prelungită</string>
     <string name="ambilight_intro_crowd_moving_part1">Când filmați pe o stradă aglomerată, cereți subiectului să stea nemișcat. Ceilalți oameni vor apărea ca trasee încețoșate.</string>
     <string name="ambilight_intro_crowd_moving_part2">Puteți face, de asemenea, poze cu traficul ocupat și mulțimile în mișcare. Expunerea îndelungată va menține clădirile bine definite, dar toate obiectele în mișcare vor fi încețoșate.</string>
@@ -826,6 +829,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hdr_entry_off">Oprit</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Fotografiile în formatul de înaltă eficiență ocupă mai puțin spațiu de stocare dar nu sunt suportate de către unele aplicații</string>
+    <string name="pref_camera_heic_image_format_description2">Formatul de înaltă eficiență a imaginilor ocupă mai puțin spațiu de stocare, dar nu este suportat de către unele aplicații. Nu puteți face imagini live și nici elimina amprenta în formatul HEIF</string>
     <string name="pref_camera_heic_image_format_title">Format HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>

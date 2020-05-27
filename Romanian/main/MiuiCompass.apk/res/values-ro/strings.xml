@@ -55,7 +55,7 @@
     <string name="cta_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile opționale pentru a-i putea folosi toate funcțiile sale.</string>
     <string name="cta_v2_app_purpose">se indică direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă</string>
     <string name="dialog_body_no_network">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
-    <string name="dialog_body_no_network_global">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
+    <string name="dialog_body_no_network_china">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
     <string name="dialog_calibrat_altitude">Calibrare…</string>
     <string name="dialog_title_no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="direction_east">E</string>

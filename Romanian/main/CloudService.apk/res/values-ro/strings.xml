@@ -168,7 +168,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
     <string name="forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
-    <string name="help_and_feedback">Ajutor și Feedback</string>
+    <string name="help_and_feedback">Ajutor și feedback</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_network_access_denied">Accesul la rețea a fost refuzat</string>
@@ -281,7 +281,9 @@ la contul dvs. Mi pentru a reactiva Xiaomi Cloud."</string>
     <string name="micloud_dspt">"Sincronizați-vă contactele, mesajele, istoricul de apelare și alte elemente între toate dispozitivele.
 Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_dspt_provision">Utilizaţi Xiaomi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
+    <string name="micloud_dspt_provision_china">Utilizaţi Xiaomi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_dspt_provision_xms">Utilizaţi Xiaomi Cloud pentru a sincroniza datele.</string>
+    <string name="micloud_dspt_provision_xms_china">Utilizaţi Xiaomi Cloud pentru a sincroniza datele.</string>
     <string name="micloud_find_device_close_alert_content">"Dacă dezactivați Localizarea dispozitivului, nu veți mai putea localiza telefonul utilizând această funcție. Dacă telefonul dvs. suportă funcționalitatea NFC, toate cardurile bancare și cartelele vor fi șterse din Mi Pay."</string>
     <string name="micloud_find_device_close_alert_negtive">Dezactivați oricum</string>
     <string name="micloud_find_device_close_alert_positive">Păstrați activă</string>
@@ -296,8 +298,8 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_alert_title">Rețineți parola</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
     <string name="micloud_find_device_guide_content">"Când schimbați cartela SIM, un mesaj SMS va fi trimis în mod automat pentru reactivarea acestei caracteristici!"</string>
-    <string name="micloud_find_device_guide_desc_pad">"Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge dispozitivul. Acest lucru vă poate ajuta să vă găsiți dispozitivul în cazul în care îl pierdeți. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;"</string>
-    <string name="micloud_find_device_guide_desc_phone">"Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge dispozitivul. Acest lucru vă poate ajuta să vă găsiți dispozitivul în cazul în care îl pierdeți. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;"</string>
+    <string name="micloud_find_device_guide_desc_pad">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;</string>
+    <string name="micloud_find_device_guide_desc_phone">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;</string>
     <string name="micloud_find_device_guide_fail_reopen">Puteți activa Localizarea dispozitivului în Contul Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verificați conexiunea la rețea și reîncercați.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Conexiunea a expirat. Încercați din nou mai târziu.</string>
@@ -400,6 +402,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_notif_content_battery_low">Acumulatorul este descărcat.</string>
     <string name="micloud_notif_content_clipboard_push">Puteți lipi conținutul oriunde.</string>
     <string name="micloud_notif_content_depend_wifi">Conectaţi-vă la rețeaua Wi-Fi pentru a sincroniza.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Conectaţi-vă la rețeaua Wi-Fi pentru a sincroniza.</string>
     <string name="micloud_notif_content_dirty_data">Detalii</string>
     <string name="micloud_notif_content_master_depend_wifi">Conectați-vă la Wi-Fi sau modificați setările. Atingeți pentru a modifica.</string>
     <string name="micloud_notif_content_memory_low">Nu există spațiu suficient de stocare.</string>
@@ -450,7 +453,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_setting_sms_summary">Mesaje SMS şi MMS</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Mesaje text</string>
     <string name="micloud_setting_wifi_summary">Setări Wi-Fi</string>
-    <string name="micloud_single_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
+    <string name="micloud_setting_wifi_summary_china">Setări Wi-Fi</string>
     <string name="micloud_space_applist_detail">Gestionaţi aplicaţiile de pe ecranul de pornire</string>
     <string name="micloud_space_applist_title">Gestionați aplicațiile</string>
     <string name="micloud_space_duokan_detail">Descărcați și gestionaţi cărţile electronice cu aplicația Duokan.</string>
@@ -487,6 +490,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_sync_result_secure_space_limit">"Nu sincroniza datele din Spațiul secundar"</string>
     <string name="micloud_sync_result_sim_activated_error">Nu s-a putut activa cartela SIM</string>
     <string name="micloud_sync_result_wifi_only">Acest element este prea mare. Sincronizați când sunteți conectat la Wi-Fi</string>
+    <string name="micloud_sync_result_wifi_only_china">Acest element este prea mare. Sincronizați când sunteți conectat la Wi-Fi.</string>
     <string name="micloud_upgrade_member">Obțineți spațiu</string>
     <string name="micloud_upgrade_space">Obțineți spațiu de stocare</string>
     <string name="micloud_user_space_title">Spațiu de stocare</string>
@@ -557,6 +561,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi"</string>
     <string name="pref_title_sync_contacts_title">Sincronizați contactele</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="priv_dialog_finddevice_all_purpose_pad">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">"Bine ați venit în aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitivul dumneavoastră dacă îl pierdeți."</string>
@@ -653,7 +658,9 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="sina_token_invalid_warning">Cont Weibo nevalid; adăugați contul din nou.</string>
     <string name="sms">Mesaje</string>
     <string name="soundrecorder_sync_only_in_wifi">Utilizați doar Wi-Fi pentru sincronizare</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Utilizați doar Wi-Fi pentru sincronizare</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Aplicația Înregistrare nu va utiliza datele mobile pentru a descărca sau încărca înregistrări</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Aplicația Înregistrare nu va utiliza datele mobile pentru a descărca sau încărca înregistrări</string>
     <string name="soundrecorder_sync_records">Sincronizare cu Xiaomi Cloud</string>
     <string name="special_func_title">Caracteristici speciale</string>
     <string name="starred_contact">Favorite</string>
@@ -669,6 +676,7 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="sub_alert_notif_title">Sincronizați cu Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Sincronizați mesajele care conțin fotografii, fişierele audio sau alte fişiere multimedia doar atunci când sunteți conectat la o rețea Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">Utilizaţi doar Wi-Fi pentru sincronizarea MMS</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Utilizaţi doar Wi-Fi pentru sincronizarea MMS</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Sincronizarea este oprită</string>
     <string name="sync_detail_summary_off">Sincronizarea este oprită</string>
@@ -681,6 +689,7 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="sync_dspt_entrance_provision_confirm_open">Utilizaţi Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Nu utilizaţi Xiaomi Cloud?</string>
     <string name="sync_dspt_entrance_provision_network">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor poate necesita conectarea la rețeaua de date mobile și activarea Wi-Fi.</string>
+    <string name="sync_dspt_entrance_provision_network_china">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor poate necesita conectarea la rețeaua de date mobile și activarea Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
     <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări.

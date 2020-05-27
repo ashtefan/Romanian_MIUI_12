@@ -4510,7 +4510,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="not_battery_optimizing">Nu se utilizează optimizarea acumulatorului</string>
     <string name="not_installed">Neinstalată</string>
     <string name="not_set">Nesetat</string>
-    <string name="notch_and_status_bar_settings">Centrul de control și bara de stare</string>
+    <string name="notch_and_status_bar_settings">Centrul de control și Perdeaua de notificări</string>
     <string name="notch_force_black_desc">Activați pentru a întuneca zona din jurul canelurii</string>
     <string name="notch_force_black_title">Ascunde canelura</string>
     <string name="notch_settings">Breton</string>
@@ -7279,7 +7279,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="usb_use_photo_transfers_desc">Transferați fotografii sau fișiere dacă MTP nu este suportat (PTP)</string>
     <string name="usb_use_power_only">Încarcă dispozitivul conectat</string>
     <string name="usb_use_tethering">Tethering prin USB</string>
-    <string name="use_control_panel">Utilizați Centrul de Control</string>
+    <string name="use_control_panel">Utilizați noul Centru de Control</string>
     <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pt. îmbunăt. rezultatelor căutării şi a serviciilor</string>
     <string name="use_location_title">Locaţie şi căutare Google</string>
     <string name="use_open_wifi_automatically_summary">Se conectează în mod automat la rețelele publice de calitate ridicată</string>

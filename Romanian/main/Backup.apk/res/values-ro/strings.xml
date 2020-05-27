@@ -333,8 +333,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_local_detail_description">"Notă:
 %1$d. Copiați copiile de rezervă pe computer pentru a evita pierderea datelor. %2$s.
 %3$d. Copiile de rezervă vor fi salvate în MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Faceți o copie de rezervă pe telefon</string>
-    <string name="new_local_tab_restore">Restaurați din telefon</string>
+    <string name="new_local_tab_backup">Faceți o copie de rezervă</string>
+    <string name="new_local_tab_restore">Restaurați</string>
     <string name="new_low_storage_title">Nu aveți suficient spațiu de stocare</string>
     <string name="new_more_settings_label">Setări suplimentare</string>
     <string name="new_pc_backup_content1">%1$d. Deschideți \"%2$s\".</string>
@@ -357,8 +357,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_select_third">Aplicații terțe și datele aplicațiilor</string>
     <string name="new_select_third_apk">Aplicații terțe</string>
     <string name="new_select_third_data">Datele aplicațiilor terțe</string>
-    <string name="new_tab_pc_backup">Faceți o copie de rezervă pe computer</string>
-    <string name="new_tab_pc_restore">Restaurați din computer</string>
+    <string name="new_tab_pc_backup">Faceți o copie de rezervă</string>
+    <string name="new_tab_pc_restore">Restaurați</string>
     <string name="new_task_finished">Finalizat</string>
     <string name="new_usb_detail_description">"Notă:
 %1$d. Această metodă vă permite să faceți o copie de rezervă pentru aplicațiile terțe și datele aplicațiilor.
@@ -366,8 +366,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_usb_disconnect_dialog_message">Conectați mai întâi stocarea USB.</string>
     <string name="new_usb_disconnect_dialog_title">Nu s-a găsit niciun mediu de stocare USB</string>
     <string name="new_usb_select_data_no_space">Aveți doar %s spațiu de stocare disponibil în stocarea USB. Eliberați spațiu de stocare.</string>
-    <string name="new_usb_tab_backup">Faceți o copie de rezervă pe USB</string>
-    <string name="new_usb_tab_restore">Restaurați de pe USB</string>
+    <string name="new_usb_tab_backup">Faceți o copie de rezervă</string>
+    <string name="new_usb_tab_restore">Restaurați</string>
     <string name="no_encrypt_password">Nicio parolă</string>
     <string name="no_network">"Nu se poate conecta la reţea"</string>
     <string name="not_set">Nesetat</string>

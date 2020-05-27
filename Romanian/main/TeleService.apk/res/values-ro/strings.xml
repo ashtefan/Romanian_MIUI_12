@@ -1129,6 +1129,16 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="keep_screen_on">Păstrează activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
     <string name="keywords_carrier_settings_euicc">operator, esim, sim, euicc, comutare operatori, adăugați un operator</string>
+    <string name="kr_emergency_111">Securitatea națională (111)</string>
+    <string name="kr_emergency_112">Poliția (112)</string>
+    <string name="kr_emergency_113">Raportarea spionilor (113)</string>
+    <string name="kr_emergency_117">Linia pentru violență școlară (117)</string>
+    <string name="kr_emergency_118">Raportare terorism cibernetic (118)</string>
+    <string name="kr_emergency_119">Pompieri, ambulanță (119)</string>
+    <string name="kr_emergency_122">Urgență gardă de coastă (122)</string>
+    <string name="kr_emergency_125">Raport de contrabandă (125)</string>
+    <string name="kr_emergency_message">Confirmați apelarea %s. Apelați acum?</string>
+    <string name="kr_emergency_with_number">Introduceți numărul de telefon de apelat</string>
     <string name="kt_lte_emm_cause_19_22">Se înregistrează în rețea… Așteptați un minut sau două și încercați din nou.</string>
     <string name="kt_lte_emm_cause_3">Nu s-a putut verifica utilizatorul. Opriți și reporniți dispozitivul apoi încercați din nou. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
     <string name="kt_lte_emm_cause_6">Nu s-a putut verifica dispozitivul. Reporniți dispozitivul de 2-3 ori după instalarea noii cartele USIM. Dacă întâmpinați în continuare această problemă, vizitați un centru de suport pentru consumatori.</string>
@@ -1360,7 +1370,7 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="msim_setting_default_data">Cartelă pentru date</string>
     <string name="msim_setting_default_data_description">SIM date %d</string>
     <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
-    <string name="msim_setting_default_voice_description">SIM %d</string>
+    <string name="msim_setting_default_voice_description">SIM %d pentru apeluri</string>
     <string name="msim_setting_install_virtual_sim_install">Instalați</string>
     <string name="msim_setting_install_virtual_sim_message">Instalați Serviciile de Operator Mi pentru a cumpăra cartele SIM și pentru a gestiona abonamentul de la operator.</string>
     <string name="msim_setting_install_virtual_sim_tip">Servicii de Operator Mi</string>

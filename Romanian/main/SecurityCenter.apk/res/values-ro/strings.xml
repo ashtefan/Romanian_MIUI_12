@@ -289,6 +289,8 @@
     <string name="app_behavior_start_from_notification_single">Această aplicație a fost lansată de către o notificare</string>
     <string name="app_behavior_start_from_recent">%1s a fost lansată din aplicațiile Recente</string>
     <string name="app_behavior_start_from_recent_single">Această aplicație a fost lansată din aplicațiile Recente</string>
+    <string name="app_behavior_start_from_widget">%1s a fost lansată de către un widget</string>
+    <string name="app_behavior_start_from_widget_single">Această aplicație a fost lansată de către un widget</string>
     <string name="app_behavior_storage">%1s a accesat sau a salvat fișiere</string>
     <string name="app_behavior_storage_bg">%1s a a accesat sau a salvat fișiere în fundal</string>
     <string name="app_behavior_storage_bg_single">Această aplicație a accesat sau a salvat fișiere în fundal</string>
