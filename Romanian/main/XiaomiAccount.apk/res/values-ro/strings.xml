@@ -231,6 +231,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="for_diagnosis_usage_only">Utilizat doar pentru probleme legate de localizare.</string>
     <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_device_list_failed">"Nu se poate obține lista dispozitivelor"</string>
+    <string name="get_identity_auth_url_failed">Nu s-a putut verifica ID-ul</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="google">Google</string>

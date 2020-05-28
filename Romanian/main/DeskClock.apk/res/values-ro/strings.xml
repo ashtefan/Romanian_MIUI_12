@@ -98,6 +98,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="channel_name_alarm">Alarmă</string>
     <string name="channel_name_sleep">Somn</string>
+    <string name="channel_name_stopwatch">Cronometru</string>
     <string name="channel_name_timer">Temporizator</string>
     <string name="check_theme_app_install">Asigurați-vă că aplicația Teme este instalată.</string>
     <string name="check_voice_assist_app_version">Actualizați Mi AI la cea mai recentă versiune.</string>

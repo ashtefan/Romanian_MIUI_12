@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Această aplicație nu suportă ferestre plutitoare</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Această aplicație suportă ferestre plutitoare</string>
     <string name="accessibility_menu_item_split_disable">Aplicația nu suportă modul Ecran scindat.</string>
     <string name="accessibility_menu_item_split_enable">Aplicația suportă modul Ecran scindat</string>
     <string name="accessibility_recent_task_enter">S-a accesat fila Recente</string>
