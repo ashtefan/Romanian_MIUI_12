@@ -290,7 +290,6 @@ Trimiteți acest cod supervizorului."</string>
     <string name="floor">%1$s#</string>
     <string name="for_diagnosis_usage_only">Jurnalele sunt folosite doar pentru diagnoză.</string>
     <string name="from">de la %1$s</string>
-    <string name="goon_feedback_main">Continuați</string>
     <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
@@ -584,7 +583,6 @@ Pentru a vă activa contul, accesați
     <string name="passport_reg_using_other_phone_number_prompt">"Creați un cont nou utilizând "</string>
     <string name="passport_reg_using_phone_number_prompt">Creați un cont utilizând numărul de telefon</string>
     <string name="passport_reg_via_sms_alert">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru activarea acestui serviciului.</string>
-    <string name="passport_reging">Se crează contul…</string>
     <string name="passport_register">Creați un cont</string>
     <string name="passport_register_account_goto_email">Accesați căsuța de e-mail</string>
     <string name="passport_register_account_verified_confirm">Cont verificat</string>
