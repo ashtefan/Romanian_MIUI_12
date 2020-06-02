@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
+    </plurals>
     <plurals name="comment_detail_title">
         <item quantity="other">%d răspunsuri</item>
         <item quantity="one">%d răspuns</item>
@@ -20,13 +49,32 @@
         <item quantity="other">Au fost selectate %d motive</item>
         <item quantity="one">A fost selectat %d motiv</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vizualizări</item>
         <item quantity="one">%d vizualizare</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
     <plurals name="info_flow_tips">
         <item quantity="other">S-au găsit %d elemente noi pentru dvs</item>
         <item quantity="one">S-a găsit %d element nou pentru dvs</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Ultimele %d zile</item>
@@ -38,6 +86,10 @@
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>
         <item quantity="one">După %d secundă se va crea în mod automat o nouă pagină</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Redă videoclipul în %1$d secunde</item>

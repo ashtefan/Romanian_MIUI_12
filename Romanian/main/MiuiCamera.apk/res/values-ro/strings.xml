@@ -829,7 +829,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hdr_entry_off">Oprit</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Fotografiile în formatul de înaltă eficiență ocupă mai puțin spațiu de stocare dar nu sunt suportate de către unele aplicații</string>
-    <string name="pref_camera_heic_image_format_description2">Formatul de înaltă eficiență a imaginilor ocupă mai puțin spațiu de stocare, dar nu este suportat de către unele aplicații. Nu puteți face imagini live și nici elimina amprenta în formatul HEIF</string>
+    <string name="pref_camera_heic_image_format_description2">Formatul de înaltă eficiență a imaginilor ocupă mai puțin spațiu de stocare, dar nu este suportat de către unele aplicații. Nu puteți face imagini live și nici elimina amprenta în formatul HEIF.</string>
     <string name="pref_camera_heic_image_format_title">Format HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>

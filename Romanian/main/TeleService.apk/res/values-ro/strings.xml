@@ -1005,7 +1005,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_icon_type2">Tip pictogramă Nr[Slot 2] :</string>
     <string name="fiveg_infos">Informații 5G</string>
     <string name="fiveg_network_config_type1">Tip Configurare Rețea :</string>
-    <string name="fiveg_network_config_type2">Tip Configurare Rețea[Slot 2] :</string>
+    <string name="fiveg_network_title">Rețele 5G</string>
     <string name="fiveg_plmn_info_list1">Listă informații PLMN :</string>
     <string name="fiveg_plmn_info_list2">Listă informații PLMN[Slot 2] :</string>
     <string name="fiveg_power_secret_code_tip">operați aceasta prin aplicația de Securitate - Acumulator - Economisire 5G</string>
@@ -1020,7 +1020,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>
     <string name="fiveg_switch_status1">Stare comutare 5G :</string>
     <string name="fiveg_switch_status2">Stare comutare 5G[Slot 2] :</string>
-    <string name="fiveg_switch_title">Rețea 5G</string>
+    <string name="fiveg_switch_title">Utilizați rețelele 5G</string>
     <string name="fiveg_upperlayer_indication1">Stare Indicator Strat Superior :</string>
     <string name="fiveg_upperlayer_indication2">Stare Indicator Strat Superior[Slot 2] :</string>
     <string name="flash_when_ring_summary">Utilizați lanterna pentru a notifica despre apelurile primite</string>
@@ -2031,6 +2031,8 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Pentru a utiliza %1$s, asigurați-vă că datele mobile și datele în roaming sunt activate pentru SIM-ul %2$d. Puteți modifica acest lucru din setările rețelei mobile.</string>
     <string name="switch_dds_to_sub_alert">Vă rugăm comutați datele mobile la SIM</string>
     <string name="switch_dds_to_sub_alert_msg">Vă rugăm comutați datele mobile la CT SIM</string>
+    <string name="switch_off">Oprit</string>
+    <string name="switch_on">Pornit</string>
     <string name="system_visual_voicemail_client"/>
     <string name="t9_indexing_method_pinyin">Alfabetul latin</string>
     <string name="t9_indexing_method_title">Căutare T9</string>
