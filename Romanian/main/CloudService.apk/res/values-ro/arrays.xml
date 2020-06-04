@@ -20,6 +20,12 @@
         <item>Creați o copie de rezervă pentru setările importante, inclusiv Wi-Fi și ecran</item>
         <item>Blocați telefonul de la distanță dacă îl pierdeți</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sincronizați contactele, mesajele, notițele, calendarul și multe altele</item>
+        <item>Creați o copie de rezervă pentru aplicații, dispunerea Ecranului principal și imaginea de fundal</item>
+        <item>Creați o copie de rezervă pentru setările importante, inclusiv Wi-Fi și ecran</item>
+        <item>Blocați telefonul de la distanță dacă îl pierdeți</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>
         <item>Salvați dispunerea ecranului Acasă</item>
@@ -134,7 +140,12 @@
         <item>Spațiu de stocare insuficient;Statut de membru;Stocare;Spațiu de stocare;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud;Gunoi;Elemente șterse;Securitate</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sincronizați setările Wi-Fi cu Xiaomi Cloud</item>
+        <item>Sincronizați setările Wi-Fi în Xiaomi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Wi-Fi;wi-fi;WiFi;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sincronizați setările Wi-Fi în Xiaomi Cloud</item>
         <item>Activați sincronizarea</item>
         <item>Wi-Fi;wi-fi;WiFi;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
     </string-array>

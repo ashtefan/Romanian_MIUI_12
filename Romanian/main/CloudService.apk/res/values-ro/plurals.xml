@@ -64,6 +64,10 @@
         <item quantity="other">%d rețele Wi-Fi</item>
         <item quantity="one">%d rețea Wi-Fi</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d rețele Wi-Fi</item>
+        <item quantity="one">%d rețea Wi-Fi</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Elemente ce așteaptă sincronizarea: %d</item>
         <item quantity="one">Elementul care așteaptă sincronizarea: %d</item>
