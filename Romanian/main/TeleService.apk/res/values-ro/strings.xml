@@ -820,6 +820,11 @@ Utilizați datele mobile oricum?"</string>
     <string name="dialog_alert_title">Atenție</string>
     <string name="dialog_cancel">Renunțați</string>
     <string name="dialog_network_priority_title">Prioritate</string>
+    <string name="dialog_ota_change_number_fail">Nu s-a putut modifica numărul de telefon. Dacă această eroare și după ce reîncercați, contactați vânzătorul.</string>
+    <string name="dialog_ota_change_number_lgu">Descărcați USIM acum?</string>
+    <string name="dialog_ota_change_number_lgu_roaming">Nu se poate modifica numărul de telefon în timp ce vă aflați peste graniță.</string>
+    <string name="dialog_ota_change_number_processing">Se descarcă USIM…</string>
+    <string name="dialog_ota_change_number_success">Numărul a fost modificat cu succes</string>
     <string name="dialog_report">Raportați</string>
     <string name="dialpad_0_letters">+</string>
     <string name="dialpad_1_letters"/>

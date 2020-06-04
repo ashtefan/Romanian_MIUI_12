@@ -394,7 +394,7 @@ Actualizaţi acum?"</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">SETĂRI PRESTABILITE</string>
     <string name="default_signature">Trimis de pe Mi</string>
-    <string name="default_signature_2">Trimis de pe %s-ul meu</string>
+    <string name="default_signature_2">Trimis de pe %s</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_contact_content">Ștergeți acest contact acum?</string>
@@ -656,7 +656,7 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
     <string name="mailbox_name_display_junk">Mesaje nedorite</string>
     <string name="mailbox_name_display_outbox">Mesaje de trimis</string>
-    <string name="mailbox_name_display_sent">Trimis</string>
+    <string name="mailbox_name_display_sent">Trimise</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
