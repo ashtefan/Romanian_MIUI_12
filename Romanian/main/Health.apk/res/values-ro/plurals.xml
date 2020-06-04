@@ -29,6 +29,9 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">(%1$d ani)</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d ori</item>
         <item quantity="one">%1$d-%2$d dată</item>

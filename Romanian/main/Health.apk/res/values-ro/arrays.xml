@@ -78,14 +78,58 @@
         <item>1 oră</item>
         <item>2 ore</item>
     </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(+)</item>
+        <item>A(-)</item>
+        <item>B(+)</item>
+        <item>B(-)</item>
+        <item>AB(+)</item>
+        <item>AB(-)</item>
+        <item>O(+)</item>
+        <item>O(-)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Nesetat</item>
+        <item>Părinți</item>
+        <item>Surori</item>
+        <item>Frați</item>
+        <item>Cuplu</item>
+        <item>Iubiți</item>
+        <item>Prieteni</item>
+        <item>Colegi</item>
+        <item>Colegi de clasă</item>
+    </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>nesetat</item>
+        <item>Bărbat</item>
+        <item>Femeie</item>
     </string-array>
     <string-array name="length_unit">
         <item>" cm"</item>
         <item>" m"</item>
         <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>nesetat</item>
+        <item>Grupa A</item>
+        <item>Grupa B</item>
+        <item>Grupa AB</item>
+        <item>Grupa O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Nesetat</item>
+        <item>Grupa A</item>
+        <item>Grupa B</item>
+        <item>Grupa AB</item>
+        <item>Grupa O</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Zi</item>
@@ -126,6 +170,11 @@
         <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
         <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
         <item>2018 Physical Activity Guidelines Advisory Committee Submits Scientific Report</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Nesetat</item>
+        <item>Negativ</item>
+        <item>Pozitiv</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Nicio restricție</item>
@@ -184,5 +233,10 @@
         <item>" liang"</item>
         <item>" jin"</item>
         <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>nesetat</item>
+        <item>da</item>
+        <item>nu</item>
     </string-array>
 </resources>

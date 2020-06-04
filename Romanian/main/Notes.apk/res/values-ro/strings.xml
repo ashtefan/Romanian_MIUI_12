@@ -138,8 +138,11 @@
     <string name="first_enter_custom_folder_hint">Puteți redenumi sau șterge dosarele aici</string>
     <string name="float_todo_guide_cancel">Renunțați</string>
     <string name="float_todo_guide_message">Scurtătura pentru Ecranul principal vă permite să glisați dinspre marginea ecranului pentru a vedea și pentru a crea sarcini. Creați scurtătura acum?</string>
+    <string name="float_todo_guide_message_v2">Scurtătura prin gesturi vă pemite să vedeți și să creți sarcini glisând de la marginea ecranului. Puteți activa sau dezactiva această caracteristică din Setări.</string>
     <string name="float_todo_guide_ok">Crează</string>
+    <string name="float_todo_guide_ok_v2">Activați</string>
     <string name="float_todo_guide_title">Scurtătura pentru Ecranul principal</string>
+    <string name="float_todo_guide_title_v2">Scurtătură prin gesturi</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -336,7 +339,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Glisați în sus cu 2 degete pentru a șterge notițele fără confirmare</string>
     <string name="pref_desc_todo_float_mode">Glisați de la marginea ecranului pentru a deschide setul cu instrumente</string>
     <string name="pref_remind_type_summary">Redă sunet de memento în modul Silențios</string>
+    <string name="pref_remind_type_summary_new">Ignoră modul Silențios și continuă redarea sunetelor până când alarma este dezactivată</string>
     <string name="pref_remind_type_title">Ignoră modul Silențios</string>
+    <string name="pref_remind_type_title_new">Memento-uri cu prioritate înaltă</string>
     <string name="pref_title_cloud_trash_bin">Notițe șterse din cloud</string>
     <string name="pref_title_common">Setări adiţionale</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
@@ -522,6 +527,7 @@
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_refuse_to_record_when_in_call">"Nu se poate utiliza această caracteristică în timpul unui apel"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">"Nu se poate utiliza această caracteristică în modul Ecran scindat"</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Nu se poate utiliza această caracteristică în modurile Ecran scindat sau ferestre plutitoare</string>
     <string name="toast_refuse_to_use_contact">"Permisiunile de accesare a Contactelor sunt restricționate.
 Permiteți aplicației Note să vă citească contactele și să caute conturile de pe dispozitiv."</string>
     <string name="toast_refuse_to_use_external_storage">"Permisiunile de accesare a stocării sunt restricționate.

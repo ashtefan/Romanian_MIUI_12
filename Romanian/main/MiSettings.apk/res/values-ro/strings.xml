@@ -365,7 +365,9 @@
     <string name="usage_app_limit_alter_title">Verificați limita de timp pentru ecran</string>
     <string name="usage_app_limit_prelong">Măriți durata</string>
     <string name="usage_app_limit_reach_summay">%s rămas</string>
+    <string name="usage_app_limit_reach_summay_new">Atingeți pentru a adăuga %d minute</string>
     <string name="usage_app_limit_reach_title">%s a atins limita de utilizare a ecranului</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Timp de utilizare ecran rămas pentru %1s: %2s</string>
     <string name="usage_app_limit_summary">"Aplicațiile selectate nu vor mai fi disponibile când se atinge limita setată"</string>
     <string name="usage_app_limit_title">Limitați timpul de utilizare a ecranului</string>
     <string name="usage_app_other_settings">Setări suplimentare</string>
@@ -430,8 +432,10 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_new_home_dashboard">Tablou</string>
     <string name="usage_new_home_date_day_title">%s | Durata de utilizare</string>
     <string name="usage_new_home_day_category_title">Categorii aplicație</string>
+    <string name="usage_new_home_day_category_title_new">Timp de ecran pentru categoriile de aplicații pe %s</string>
     <string name="usage_new_home_day_title">Zi</string>
     <string name="usage_new_home_day_usage_title">Aplicații individuale</string>
+    <string name="usage_new_home_day_usage_title_new">Durată ecran pornit %s</string>
     <string name="usage_new_home_first_unlock">Prima deblocare: %s</string>
     <string name="usage_new_home_name">Nume</string>
     <string name="usage_new_home_show_more_data_summary">Puteți limita durata de utilizare a ecranului pentru aplicații individuale</string>
@@ -461,7 +465,7 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_reach_device_limit">Timpul s-a scurs! Ați atins limita setată.</string>
     <string name="usage_reach_device_limit_warning_text">Ați atins limita de timp pentru utilizarea ecranului</string>
     <string name="usage_refresh">Încercați din nou</string>
-    <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+    <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">A apărut o eroare necunoscută</string>
     <string name="usage_request_timeout_summary">Timpul de rezolvare a solicitării a expirat</string>
@@ -576,6 +580,8 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_stats_week_day">În zilele nelucrătoare</string>
     <string name="usage_total_days">Total zile</string>
     <string name="usage_total_times">Total sesiuni</string>
+    <string name="usage_week_avg_usage_title">Media acestei săptămâni</string>
+    <string name="usage_week_avg_usage_title2">Durata medie</string>
     <string name="usage_weekly_report_summary">Aflați cât timp petreceți folosind telefonul</string>
     <string name="usage_weekly_report_title">Raport săptămânal</string>
     <string name="usagestats_app_category_miui_education">Educație</string>

@@ -2562,7 +2562,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="erase_sd_data_description">Formatarea va șterge toate datele de pe cardul SD</string>
     <string name="erase_sure">Obligatoriu</string>
     <string name="error_adding_apn_type">Operatorul nu permite adăugarea de APN-uri de tipul %s.</string>
-    <string name="error_apn_empty">"Numele APN nu poate fi necompletat."</string>
+    <string name="error_apn_empty">Numele APN nu poate fi necompletat.</string>
+    <string name="error_apn_restrict_string">Câmpul APN nu poate conține %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Nu s-a putut capta jurnalul de sistem</string>
     <string name="error_mcc_not3">Câmpul MCC trebuie să conţină 3 cifre.</string>
     <string name="error_mnc_not23">Câmpul MNC trebuie să conţină 2 sau 3 cifre.</string>

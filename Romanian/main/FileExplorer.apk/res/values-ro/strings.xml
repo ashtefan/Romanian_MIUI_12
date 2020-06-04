@@ -32,6 +32,7 @@
     <string name="activity_parse_video_title">Lipiți link-ul videoclipului</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
     <string name="aggree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare listate mai jos.</string>
@@ -81,6 +82,7 @@
     <string name="can_not_send_with_too_many">Nu se pot trimite aşa multe elemente odată</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_error">"Nu s-a putut elimina, reîncercați"</string>
+    <string name="cancel_msg">Deselectați tot?</string>
     <string name="cancel_operation">Revocare</string>
     <string name="cancel_success">Eliminat, toate fișierele au fost mutate în %s</string>
     <string name="cancelled_by_user">Operațiune întreruptă</string>
@@ -238,10 +240,11 @@
     <string name="file_info_modified">Ultima modificare: </string>
     <string name="file_info_size">Dimensiune: </string>
     <string name="file_loading">Încărcare…</string>
+    <string name="file_name_existed">Numele de fișier este luat deja</string>
     <string name="file_name_invalid">"Numele fișierelor nu pot conține următoarele caractere: /\\:*?&lt;&gt;"</string>
-    <string name="file_not_exist">Nu există</string>
-    <string name="folder_name_empty">"Numele dosarului nu poate fi gol"</string>
-    <string name="folder_name_illegal">Nume dosar greşit</string>
+    <string name="file_not_exist">Fișierul nu există</string>
+    <string name="folder_name_empty">Numele dosarului nu poate fi lăsat necompletat</string>
+    <string name="folder_name_illegal">Nume dosar nevalid</string>
     <string name="follow_fail">"Nu s-a putut urmări, încercați din nou mai târziu"</string>
     <string name="follow_tip_1">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="follow_tip_2">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
@@ -536,9 +539,11 @@
     <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
     <string name="rename_failed">"Nu se poate redenumi %1$s"</string>
     <string name="rename_input_null">Introduceți noul nume de fișier</string>
+    <string name="rename_msg">Un fișier cu numele \"%s\" există deja.</string>
     <string name="repair_done">Restaurate</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
     <string name="repair_file">Restaurați fișierele criptate</string>
+    <string name="replace">Înlocuiți</string>
     <string name="reply_success">Comentariul a fost postat.</string>
     <string name="report_abuse">Abuz</string>
     <string name="report_advertisement">Reclame</string>
@@ -629,6 +634,7 @@
     <string name="shortcut_exists">Scurtătura există deja</string>
     <string name="shortcut_hotvideos">Videoclipuri populare</string>
     <string name="shortcut_msg">Adăugați o scurtătură pe ecranul principal pentru videoclipurile populare</string>
+    <string name="skip">Omiteți</string>
     <string name="skip_file">Omiteți</string>
     <string name="smb_loading">Doar o secundă…</string>
     <string name="sort_hint_name">Sortat după nume</string>
@@ -728,6 +734,7 @@
     <string name="upload_video_success_progress">Încărcat cu succes</string>
     <string name="uploading_video">Se încarcă videoclipul…</string>
     <string name="usb_label">USB</string>
+    <string name="use_to_all">Aplicați tuturor</string>
     <string name="used">Utilizat</string>
     <string name="user_cancel">Renunțare</string>
     <string name="user_center_title">Acasă</string>

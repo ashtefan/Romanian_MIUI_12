@@ -33,6 +33,8 @@
     <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Xiaomi Cloud. Ştergeți înregistrările selectate oricum?</string>
     <string name="alert_message_delete_record_title">Ştergeţi înregistrarea?</string>
     <string name="app_name">Înregistrare sunete</string>
+    <string name="app_record">Înregistrări aplicație</string>
+    <string name="app_record_preference_title">Înregistrări aplicație</string>
     <string name="back">Înapoi</string>
     <string name="button_queue_for_wifi">În coadă</string>
     <string name="button_start_now">Descărcaţi</string>
@@ -245,6 +247,7 @@
     <string name="record_downloading_notification_count">descărcat %d</string>
     <string name="record_format_preference_title">Formatul înregistrării</string>
     <string name="record_list">Înregistrări</string>
+    <string name="record_list_app">Înregistrări aplicație</string>
     <string name="record_list_call">Înregistrări apeluri</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Înregistrări în Cloud</string>

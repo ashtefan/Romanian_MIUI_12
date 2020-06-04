@@ -8,18 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">ștergere</string>
@@ -127,7 +115,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">Nu</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Obțineți ajutor online</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Apelați serviciul clienți</string>
-    <string name="miui_feedback_answer_detail_relative_tip">Acest lucru vă poate fi de ajutor:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Informații adiționale</string>
     <string name="miui_feedback_answer_detail_title">Detalii</string>
     <string name="miui_feedback_edit_action_submit">Trimiteți</string>
     <string name="miui_feedback_edit_add_original_images">Adăugați o fotografie</string>
@@ -195,12 +183,14 @@
     <string name="miui_feedback_main_menu_catch_full_log">Generați jurnalele</string>
     <string name="miui_feedback_main_menu_feedback_list">Vedeți istoricul feedback-ului</string>
     <string name="miui_feedback_main_search_footer">"Nu sunt acestea întrebările pe care doriți să le adresați?"</string>
+    <string name="miui_feedback_main_search_footer_submit">Trimiteți feedback-ul</string>
     <string name="miui_feedback_main_search_issue">Introduceți cuvinte cheie pentru căutare</string>
     <string name="miui_feedback_main_start_submit">Trimiteți feedback-ul</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Trimiteți</string>
     <string name="miui_feedback_main_submit_dialog_content">"Se pare că nu am putut găsi o soluție pentru problema dvs. Ne puteți trimite feedback-ul dumneavoastră."</string>
     <string name="miui_feedback_main_submit_dialog_title">Trimiteți feedback-ul</string>
     <string name="miui_feedback_main_title">Feedback</string>
+    <string name="miui_guide_accessibility_image_desc">Imagine</string>
     <string name="miui_guide_clear_db_service">\"Servicii și feedback\" golește memoria cache pentru limbă…</string>
     <string name="miui_guide_footer_desc">"Ghidul începătorului este destinat să vă ajute să aflați mai multe despre dispozitivul dumneavoastră și despre MIUI. Unele imagini și videoclipuri din ghid au fost create doar în scop de referință și pot diferi față de produsul actual. Funcțiile descrise în ghid pot varia în funcție de modelul dispozitivului, versiunea MIUI și mediul de utilizare."</string>
     <string name="miui_guide_item_complete">Finalizat</string>
@@ -282,7 +272,11 @@
     <string name="permission_device_info">Acces la informațiile despre dispozitiv</string>
     <string name="permission_device_introduce">Pentru determinarea perioadei limitate de garanție</string>
     <string name="permission_exit">Ieșiți</string>
+    <string name="permission_external_storage_introduce">Pentru salvarea și încărcarea feedback-ului dvs.</string>
     <string name="permission_first_start_network_title">Termeni și condiții</string>
+    <string name="permission_imei_disable_desc">Permiteți acestei aplicații să se conecteze la internet.</string>
+    <string name="permission_imei_enable_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare listate mai jos.</string>
+    <string name="permission_location_introduce">Pentru afișarea punctelor de servicii din apropiere</string>
     <string name="permission_main_purpose">Afișarea prezentărilor funcțiilor MIUI, trimiterea de feedback și aplicarea la servicii post vânzare.</string>
     <string name="permission_privacy">Politica de Confidențialitate (obligatoriu)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

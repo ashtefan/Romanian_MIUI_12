@@ -93,6 +93,10 @@
         <item quantity="other">Deblocat de %d ori</item>
         <item quantity="one">Deblocat %d dată</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Deblocat de %1$d ori pe %2$s</item>
+        <item quantity="one">Deblocat %1$d dată pe %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Deblocat de %d ori</item>
         <item quantity="one">Deblocat %d dată</item>

@@ -350,6 +350,7 @@
     <string name="deselect_all">Deselectaţi</string>
     <string name="deselect_all_description">Deselectați tot</string>
     <string name="do_not_restore_temporarily">Nu acum</string>
+    <string name="download_right_now">Descărcați</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -442,6 +443,8 @@
     <string name="instruction">Informații importante de securitate</string>
     <string name="label">MIUI SDK</string>
     <string name="midnight">AM</string>
+    <string name="mobile_data_consume">Descărcarea elementelor acum necesită %1$s MB date mobile. Descărcați oricum?</string>
+    <string name="mobile_data_remind">Avertisment utilizare date</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>

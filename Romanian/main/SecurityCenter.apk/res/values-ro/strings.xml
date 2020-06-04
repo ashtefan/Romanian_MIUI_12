@@ -1395,6 +1395,11 @@ cardul de sănătate"</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
+    <string name="gb_dialog_game_uninstall_deleting">Se dezinstalează…</string>
+    <string name="gb_dialog_game_uninstall_loading">Se încarcă jocurile…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Toate datele jocului vor fi șterse, de asemenea.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Aplicația duală asociată va fi de asemenea dezinstalată, împreună cu datele jocului.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Dezinstalați "%s"</string>
     <string name="gb_dialog_record_way_ai">Înregistrările AI sunt salvate în cutia de jocuri pentru 7 zile.</string>
     <string name="gb_dialog_record_way_finish">Finalizat</string>
     <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
@@ -1448,6 +1453,9 @@ cardul de sănătate"</string>
     <string name="gb_signed_gift_loading_summary">Doar o secundă…</string>
     <string name="gb_signed_title">Verificat luna aceasta</string>
     <string name="gb_sound_audition">Încercați</string>
+    <string name="gb_storage_game_uninstall">Dezinstalați jocuri</string>
+    <string name="gb_storage_summary">Stochează pictogramele jocurilor în cutia cu jocuri. Pictogramele jocurilor nu vor mai apărea pe Ecranul principal.</string>
+    <string name="gb_storage_title">Stochează pictogramele jocurilor de pe Ecranul principal</string>
     <string name="gb_voice_change_settinged">Modificarea vocii este activă</string>
     <string name="gb_voice_changer_cartoon">Desen animat</string>
     <string name="gb_voice_changer_dlg_button_agree">Permiteți</string>
@@ -1528,8 +1536,15 @@ Videoclipurile vor fi salvate în Jocuri Turbo >Momente cheie."</string>
     <string name="gs_show_way_vertical">Vertical</string>
     <string name="gs_sign_notification">Amintește-mi să verific în fiecare zi la ora 20.00</string>
     <string name="gs_slip_gamebox_detail">Utilizați cursorul sau glisați din partea de sus a ecranului pentru a afișa panoul cu scurtături</string>
+    <string name="gtb_dialog_btn_close">Dezactivați</string>
+    <string name="gtb_dialog_btn_open">Activați</string>
+    <string name="gtb_dialog_hint_smart_5g">Puteți activa sau dezactiva această caracteristică din Jocuri Turbo>Setări.</string>
+    <string name="gtb_dialog_summary_smart_5g">Atunci când aplicația Jocuri Turbo detectează o rețea 5G, aceasta poate conecta dispozitivul la cea mai bună rețea disponibilă, pentru a reduce încetinirea rețelei. Activați această caracteristică acum?</string>
+    <string name="gtb_dialog_title_smart_5g">Optimizarea rețea 5G</string>
     <string name="gtb_exit_game_to_gtb">Deschideți cutia cu jocuri</string>
     <string name="gtb_exit_game_to_home">Înapoi la Ecranul principal</string>
+    <string name="gtb_setting_item_summary_smart_5g">Atunci când aplicația Jocuri Turbo detectează o rețea 5G, aceasta poate conecta dispozitivul la cea mai bună rețea disponibilă, pentru a reduce încetinirea rețelei</string>
+    <string name="gtb_setting_item_title_smart_5g">Optimizarea rețea 5G</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
