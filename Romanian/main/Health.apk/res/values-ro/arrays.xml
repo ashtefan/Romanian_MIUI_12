@@ -83,32 +83,32 @@
         <item>B</item>
         <item>AB</item>
         <item>O</item>
-        <item>A(+)</item>
         <item>A(-)</item>
-        <item>B(+)</item>
+        <item>A(+)</item>
         <item>B(-)</item>
-        <item>AB(+)</item>
+        <item>B(+)</item>
         <item>AB(-)</item>
-        <item>O(+)</item>
+        <item>AB(+)</item>
         <item>O(-)</item>
+        <item>O(+)</item>
     </string-array>
     <string-array name="contact_relation_array">
         <item>Nesetat</item>
-        <item>Părinți</item>
-        <item>Surori</item>
-        <item>Frați</item>
-        <item>Cuplu</item>
-        <item>Iubiți</item>
-        <item>Prieteni</item>
-        <item>Colegi</item>
-        <item>Colegi de clasă</item>
+        <item>Părinte</item>
+        <item>Soră</item>
+        <item>Frate</item>
+        <item>Soț</item>
+        <item>Partener</item>
+        <item>Prieten</item>
+        <item>Coleg</item>
+        <item>Coleg de clasă</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
     </string-array>
     <string-array name="gender_array">
-        <item>nesetat</item>
+        <item>Nesetat</item>
         <item>Bărbat</item>
         <item>Femeie</item>
     </string-array>
@@ -126,10 +126,10 @@
     </string-array>
     <string-array name="normal_blood_types">
         <item>Nesetat</item>
-        <item>Grupa A</item>
-        <item>Grupa B</item>
-        <item>Grupa AB</item>
-        <item>Grupa O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Zi</item>
@@ -235,8 +235,8 @@
         <item>" lb"</item>
     </string-array>
     <string-array name="yes_no_array">
-        <item>nesetat</item>
-        <item>da</item>
-        <item>nu</item>
+        <item>Nesetat</item>
+        <item>Da</item>
+        <item>Nu</item>
     </string-array>
 </resources>

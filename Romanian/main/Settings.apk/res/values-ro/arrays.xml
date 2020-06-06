@@ -1910,4 +1910,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Sunet de apel</item>
         <item>Media</item>
     </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Oprită</item>
+        <item>Curgere</item>
+        <item>Strălucire</item>
+        <item>Val</item>
+    </string-array>
 </resources>

@@ -29,8 +29,10 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
+    <string name="already_newest_version">Versiunea curentă este cea mai recentă</string>
     <string name="am">AM</string>
     <string name="app_name">Imagini de fundal</string>
+    <string name="cancel_download">Descărcare anulată</string>
     <string name="character_counter_content_description">Limita caracterelor a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
@@ -39,6 +41,7 @@
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="download_failed">Nu s-a putut descărca</string>
     <string name="early_morning">Dimineață</string>
     <string name="earth_id">pământ</string>
     <string name="earth_summary">Pământul este leagănul civilizației umane</string>
@@ -103,6 +106,7 @@
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="game_view_content_description">Vizualizare joc</string>
+    <string name="install_failed">Nu s-a putut instala</string>
     <string name="mars_id">marte</string>
     <string name="mars_position_content_0">"Această regiune conține stânci, terase stâncoase și văi plate largi, despre care se crede că au fost create de ghețarii acoperiți cu resturi. Minerale de argilă au fost, de asemenea, depistate aici, care prezintă un interes deosebit în căutarea dovezilor de viață din vechime pe Marte.
 
@@ -195,6 +199,8 @@ mm"</string>
     <string name="morning">Dimineață</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="night">Seară</string>
+    <string name="no_cta_agreed">GetApps nu are permisiuni CTA</string>
+    <string name="no_install_permission">Nu aveți permisiunea pentru a instala acest element</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="password_toggle_content_description">Afișează parola</string>
@@ -242,6 +248,7 @@ mm"</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Selectați locația</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordonate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
+    <string name="task_already_exist">Această sarcină există deja</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -293,6 +300,7 @@ mm"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="update">Actualizați</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AAP</string>

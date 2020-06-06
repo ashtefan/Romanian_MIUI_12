@@ -1514,6 +1514,8 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="charge_animation_style_summary">Selectați stilul de animație preferat pentru blocarea ecranului pe durata încărcării</string>
+    <string name="charge_animation_style_title">Animație pe durata încărcării</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
     <string name="charging_sounds_title">Sunete la încărcarea acumulatorului</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
@@ -2742,7 +2744,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_usage_category_title">Utilizați amprenta pentru</string>
     <string name="fingerprint_wakeup_summary">Se deschide ecranul când nu au fost înregistrate amprente digitale.</string>
     <string name="fingerprint_wakeup_title">Atingeți senzorul de amprentă pentru a porni ecranul</string>
-    <string name="finish_application">Opriţi</string>
+    <string name="finish_application">Opriţi forțat</string>
     <string name="finish_button">Finalizați</string>
     <string name="finish_button_label">Finalizaţi</string>
     <string name="firewall_allow_all">Permiteți tuturor aplicațiilor să se conecteze utilizând metoda următoare</string>
@@ -2959,7 +2961,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gps_description">Sunt suportate multiple sisteme de sateliți de navigare (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gps_description_global">Dispozitivele Xiaomi sunt compatibile cu multiple sisteme de sateliți de navigare, inclusiv GPS, NavIC, BeiDou, GLONASS și Galileo.</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
-    <string name="gxzw_add_fingerprint_area">Scanner pentru amprentă</string>
+    <string name="gxzw_add_fingerprint_area">Scaner pentru amprentă</string>
     <string name="gxzw_add_fingerprint_continue">Continuați</string>
     <string name="gxzw_add_fingerprint_edge_message">Mișcați degetul pentru a înregistra toate particularitățile amprentei.</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajustați modul de atingere</string>
@@ -2992,7 +2994,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_quick_open_fast_title">Glisare rapidă (avansat)</string>
     <string name="gxzw_quick_open_slow_summary">Atingeți și mențineți apăsată pictograma amprentei pentru a deschide meniul de scurtături. Glisați pentru a utiliza o scurtătură.</string>
     <string name="gxzw_quick_open_slow_title">Atingeți și mențineți apăsat</string>
-    <string name="gxzw_quick_open_title"/>
+    <string name="gxzw_quick_open_title">Scurtături</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>

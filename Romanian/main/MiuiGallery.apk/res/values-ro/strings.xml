@@ -336,7 +336,7 @@
     <string name="chooser_fragment_mishare_title">Partajați prin</string>
     <string name="cleaner_empty_value_description">Totul arată bine</string>
     <string name="cleaner_photo_pick_delete_selected">Ștergeți fotografiile selectate</string>
-    <string name="cleaner_raw_action">Vizualizați</string>
+    <string name="cleaner_raw_action">Vedeți detalii</string>
     <string name="cleaner_raw_description">Eliberați spațiul de stocare ștergând imaginile RAW mari</string>
     <string name="cleaner_raw_title">Ștergeți fișierele RAW</string>
     <string name="cleaner_scan_description">Optimizarea elementelor eliberează spațiu de stocare din telefon</string>
@@ -350,7 +350,7 @@
     <string name="cleaner_screen_shot_action">Vizualizați</string>
     <string name="cleaner_screen_shot_description">Ștergeți capturile de ecran de care nu mai aveți nevoie.</string>
     <string name="cleaner_screen_shot_title">Ștergeți capturile de ecran</string>
-    <string name="cleaner_similar_action">Vizualizați</string>
+    <string name="cleaner_similar_action">Vedeți detalii</string>
     <string name="cleaner_similar_description">Ștergeți fotografiile duplicate</string>
     <string name="cleaner_similar_title">Fotografii duplicate</string>
     <string name="cleaner_slim_action">Porniți optimizarea</string>
@@ -361,7 +361,7 @@
     <string name="cleaner_space_detail_description">Goliți fotografiile din Galerie pentru a elibera spațiu</string>
     <string name="cleaner_stop_scan">Opriți scanarea</string>
     <string name="cleaner_title">eliberați spațiu</string>
-    <string name="cleaner_video_action">Vizualizați</string>
+    <string name="cleaner_video_action">Vedeți detalii</string>
     <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
     <string name="cleaner_video_pick_delete_selected">Ștergeți videoclipurile selectate</string>
     <string name="cleaner_video_title">Ștergeți videoclipurile</string>
@@ -740,12 +740,15 @@ efecte pentru fotografii"</string>
     <string name="filter_food_latte">Lapte</string>
     <string name="filter_food_softdrink">Sifon</string>
     <string name="filter_food_wholemeal">Grâne</string>
+    <string name="filter_general_blackice">Gheață neagră</string>
     <string name="filter_general_blackwhite">A/N</string>
     <string name="filter_general_delicious">Mâncare</string>
     <string name="filter_general_df">Claritate</string>
     <string name="filter_general_fairytale">Poveste</string>
+    <string name="filter_general_greenorange">Lime</string>
     <string name="filter_general_japanese">Pastel</string>
     <string name="filter_general_lilt">Vioi</string>
+    <string name="filter_general_movie">Film</string>
     <string name="filter_general_nature">Natură</string>
     <string name="filter_general_pink">Roz</string>
     <string name="filter_general_portrait">Portret</string>
@@ -768,6 +771,7 @@ efecte pentru fotografii"</string>
     <string name="filter_movie_koizora">Manga</string>
     <string name="filter_movie_lost">Pierdut</string>
     <string name="filter_movie_nordic">Nordic</string>
+    <string name="filter_movie_portrait">Focalizare culoare</string>
     <string name="filter_movie_rome">Roma</string>
     <string name="filter_movie_summer">Vară</string>
     <string name="filter_movie_travel">Călătorie</string>
@@ -899,7 +903,7 @@ efecte pentru fotografii"</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Țineți aproape!</string>
     <string name="gallery_setting">Setări</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
-    <string name="generate_story_summary">MIUI va analiza fotografiile și va crea albume cu amintiri. Dezactivați această caracteristică pentru a opri crearea de albume cu amintiri.</string>
+    <string name="generate_story_summary">Faceți destule fotografii, conectați încărcătorul și opriți ecranul pentru a face să apară albumul cu amintiri</string>
     <string name="generate_story_title">Amintiri</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
     <string name="gif_tip">GIF</string>
@@ -1207,10 +1211,15 @@ pentru a personaliza Galeria"</string>
     <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Portret</string>
     <string name="onekey_scene">Peisaj</string>
+    <string name="online_video_normal_transcoding">Acest videoclip este decodat acum. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="online_video_vip_tip">Deveniți membru VIP pentru a transmite videoclipuri fără a le preîncărca complet</string>
+    <string name="online_video_vip_transcoding">"Urmează să înceapă streaming-ul VIP…
+Decodarea ar putea dura ceva timp când utilizați această caracteristică pentru prima dată."</string>
     <string name="open">Activaţi</string>
     <string name="open_public_message">Generaţi un URL pentru a-l distribui prietenilor</string>
     <string name="open_public_title">Distribuiţi public</string>
     <string name="operate_processing_file_error">Așteptați până când toate fotografiile sunt procesate.</string>
+    <string name="operate_with_metered_network_msg">Dispozitivul dvs. este conectat la o rețea cu plată. Continuați oricum?</string>
     <string name="operation_add_album">Adăugați în album</string>
     <string name="operation_add_picture">Adăugaţi elemente</string>
     <string name="operation_add_secret">Adăugați în albumul privat</string>
@@ -1364,7 +1373,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_talkback_recently">Utilizat recent</string>
     <string name="photo_editor_talkback_redo">Fă din nou</string>
     <string name="photo_editor_talkback_undo">Refă</string>
-    <string name="photo_editor_text">Text</string>
+    <string name="photo_editor_text">Text peste imagine</string>
     <string name="photo_font_cancel_download">Renunțați</string>
     <string name="photo_font_download">Descărcați</string>
     <string name="photo_font_download_failed_for_notwork">"Nu s-a putut descărca. Conectați-vă la rețea și încercați din nou."</string>
@@ -1737,6 +1746,7 @@ pentru a personaliza Galeria"</string>
     <string name="sticker_fit">Pui sănătos</string>
     <string name="sticker_girl">Fete simpatice</string>
     <string name="sticker_girly">Accesorii</string>
+    <string name="sticker_graduation">Absolvire</string>
     <string name="sticker_head">Zi proastă pentru freză</string>
     <string name="sticker_pupil">Școlăriță</string>
     <string name="sticker_rock">Boom!</string>
@@ -1805,7 +1815,11 @@ pentru a personaliza Galeria"</string>
     <string name="text_edit_dialog_style_transparent">Opacitate</string>
     <string name="text_edit_sub_menu_text">Baloane</string>
     <string name="text_tab_bubble">Bule</string>
-    <string name="text_tab_watermark">Filigrane</string>
+    <string name="text_tab_city">Oraș</string>
+    <string name="text_tab_festival">Vacanță</string>
+    <string name="text_tab_scene">Scenă</string>
+    <string name="text_tab_spot">Scenariu</string>
+    <string name="text_tab_watermark">Text</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
