@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" pași"</item>
+        <item quantity="one">" pas"</item>
+    </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">Au fost actualizate %s contacte</item>
         <item quantity="one">A fost actualizat %s contact</item>

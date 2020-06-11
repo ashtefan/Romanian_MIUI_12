@@ -27,6 +27,11 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_all_app_custom_category_finish">Finalizat</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Eliminați \"%1$s\" din categorii</string>
+    <string name="accessibility_clear_search_bar_text">Goliți bara de căutare</string>
+    <string name="accessibility_enter_all_app_mode">Deschideți sertarul cu Aplicații</string>
+    <string name="accessibility_enter_all_app_settings">Setări deschidere sertar cu Aplicații</string>
     <string name="accessibility_menu_item_smallwindow_disable">Această aplicație nu suportă ferestre plutitoare</string>
     <string name="accessibility_menu_item_smallwindow_enable">Această aplicație suportă ferestre plutitoare</string>
     <string name="accessibility_menu_item_split_disable">Aplicația nu suportă modul Ecran scindat.</string>
@@ -62,6 +67,7 @@
     <string name="all_apps_no_search_results">Nu s-au găsit rezultate</string>
     <string name="all_apps_search_app">Căutați aplicații</string>
     <string name="all_apps_search_market_message">Căutați online</string>
+    <string name="all_apps_setting_classic_title">Clasic</string>
     <string name="all_apps_setting_desktop_desc">"Afișează toate aplicațiile instalate pe Ecranul principal. Atingeți și mențineți apăsată pictograma unei aplicații pentru a vedea scurtăturile disponibile, gestionați sau dezinstalați aplicația."</string>
     <string name="all_apps_setting_desktop_title">Obișnuit</string>
     <string name="all_apps_setting_drawer_desc">"Plasați toate aplicațiile instalate în Sertarul de aplicații care poate fi deschis glisând în sus pe Ecranul principal. Veți putea găsi în continuare aplicațiile pe care le-ați mutat pe ecranul principal în Sertarul de aplicații."</string>
@@ -143,6 +149,7 @@
     <string name="auto_add_app_shortcut">Plasați aplicațiile noi pe Ecranul principal</string>
     <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
     <string name="auto_delete_category_dialog_title">Se șterge categoria</string>
+    <string name="back">Înapoi</string>
     <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
     <string name="bad_wallpaper_source_prompt">"Imposibil de încărcat imaginea de fundal"</string>
     <string name="buffering">Încărcare memorie tampon…</string>
@@ -167,6 +174,10 @@
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
     <string name="cloud_app_restore_title">În așteptare</string>
+    <string name="common_home_search_delete">Se șterge bara de căutare din Ecranul principal</string>
+    <string name="common_home_search_delete_cancle">Renunțați</string>
+    <string name="common_home_search_delete_confirm">Ștergeți</string>
+    <string name="common_home_search_delete_content">Nu veți putea căuta articole folosind bara de căutare de pe ecranul de start după ce ați șters-o. Ștergeți oricum?</string>
     <string name="configure_wallpaper">Setări</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
@@ -509,8 +520,10 @@
     <string name="sort_by_not_defined">Sortare automată</string>
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
     <string name="starting_preset_app">Pornire…</string>
+    <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$sB din %2$sB disponibili</string>
     <string name="status_bar_recent_memory_info2"/>
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Descărcate</string>
     <string name="status_downloading">Descărcare</string>
     <string name="status_installing">Instalare</string>

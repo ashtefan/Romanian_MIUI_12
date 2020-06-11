@@ -608,7 +608,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="banner_optimizemanage_summary">Eliberați memoria</string>
     <string name="banner_red_money_assist_button">Activați</string>
     <string name="banner_red_money_assist_summary">Deschideți plicurile roșii mai rapid</string>
-    <string name="battery_and_property">Acumulator și performanță</string>
+    <string name="battery_and_property">Acumulator</string>
     <string name="battery_can_use_time">%s disponibil</string>
     <string name="battery_capacity_title">Capacitatea acumulatorului</string>
     <string name="battery_charge_estimating">Se calculează</string>
@@ -1311,7 +1311,7 @@ cardul de sănătate"</string>
     <string name="game_booster_title">Accelerați</string>
     <string name="game_bootser_tab_settings">Setări pentru creșterea vitezei</string>
     <string name="game_else_function">Altele</string>
-    <string name="game_manual_record_setting_setting">Despre această caracteristică</string>
+    <string name="game_manual_record_setting_setting">Setări</string>
     <string name="game_manual_record_setting_title">Momente cheie</string>
     <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
     <string name="game_setting">Setări pentru jocuri</string>
@@ -1397,9 +1397,9 @@ cardul de sănătate"</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
     <string name="gb_dialog_game_uninstall_deleting">Se dezinstalează…</string>
     <string name="gb_dialog_game_uninstall_loading">Se încarcă jocurile…</string>
-    <string name="gb_dialog_game_uninstall_tips_message">Toate datele jocului vor fi șterse, de asemenea.</string>
-    <string name="gb_dialog_game_uninstall_tips_message_xspace">Aplicația duală asociată va fi de asemenea dezinstalată, împreună cu datele jocului.</string>
-    <string name="gb_dialog_game_uninstall_tips_title">Dezinstalați "%s"</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Toate datele aplicației vor fi șterse.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Toate datele aplicației și aplicațiile duale asociate vor fi șterse.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Dezinstalați %s</string>
     <string name="gb_dialog_record_way_ai">Înregistrările AI sunt salvate în cutia de jocuri pentru 7 zile.</string>
     <string name="gb_dialog_record_way_finish">Finalizat</string>
     <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
@@ -1422,14 +1422,16 @@ cardul de sănătate"</string>
     <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_title">Jocuri Turbo</string>
     <string name="gb_game_end_toast">Revedeți momentele cheie din jocurile dvs.</string>
-    <string name="gb_game_video_bottom_tips">Vedeți înregistrările sesiunilor dvs. în cutia de jocuri. Videoclipurile sunt stocate în mod implicit 7 zile.</string>
+    <string name="gb_game_video_bottom_tips">Revizitați momentele cheie din sesiunile dvs. de jocuri din Jocuri Turbo. Videoclipurile vor fi șterse automat după 7 zile.</string>
     <string name="gb_game_video_item_tag">Moment cheie</string>
     <string name="gb_game_video_page_delete_success">Șters cu succes</string>
     <string name="gb_game_video_page_null">Înregistrați momentele cheie din sesiunile de joc</string>
-    <string name="gb_game_video_record_finish_tips">Videoclip salvat cu succes</string>
+    <string name="gb_game_video_record_finish_tips">Videoclip înregistrat salvat manual în Jocuri Turbo</string>
     <string name="gb_game_video_save">Salvați</string>
     <string name="gb_game_video_type_ai">AI</string>
+    <string name="gb_game_video_type_ai_record">Înregistrați utilizând AI</string>
     <string name="gb_game_video_type_manual">Manual</string>
+    <string name="gb_game_video_type_manual_record">Înregistrați manual</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
     <string name="gb_global_settings">Setări generale</string>
     <string name="gb_have_signed">Verificat astăzi</string>
@@ -1454,8 +1456,8 @@ cardul de sănătate"</string>
     <string name="gb_signed_title">Verificat luna aceasta</string>
     <string name="gb_sound_audition">Încercați</string>
     <string name="gb_storage_game_uninstall">Dezinstalați jocuri</string>
-    <string name="gb_storage_summary">Stochează pictogramele jocurilor în cutia cu jocuri. Pictogramele jocurilor nu vor mai apărea pe Ecranul principal.</string>
-    <string name="gb_storage_title">Stochează pictogramele jocurilor de pe Ecranul principal</string>
+    <string name="gb_storage_summary">Nu afișați jocurile care au fost adăugate în caseta de joc pe ecranul de pornire.</string>
+    <string name="gb_storage_title">Elimină jocurile adăugate de pe Ecranul principal</string>
     <string name="gb_voice_change_settinged">Modificarea vocii este activă</string>
     <string name="gb_voice_changer_cartoon">Desen animat</string>
     <string name="gb_voice_changer_dlg_button_agree">Permiteți</string>
@@ -1468,12 +1470,15 @@ cardul de sănătate"</string>
     <string name="gb_voice_changer_permission_dlg_msg">Funcția de modificare a vocii trebuie să poată înegistra sunete pentru a funcționa în mod normal.</string>
     <string name="gb_voice_changer_permission_dlg_title">Sunt necesare unele permisiuni</string>
     <string name="gb_voice_changer_robot">Robot</string>
+    <string name="gb_wonderful_moment_toast_window_new_pop">"Înregistrați momentele cheie
+din sesiunile dvs. de joc"</string>
     <string name="gb_wonderful_video_cancel">Renunțați</string>
     <string name="gb_wonderful_video_checkall">Selectați tot</string>
     <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
     <string name="gb_wonderful_video_delete">Ștergeți</string>
+    <string name="gb_wonderful_video_goto_box">Deschideți Jocuri Turbo</string>
     <string name="gb_wonderful_video_header_title">Astăzi</string>
-    <string name="gb_wonderful_video_save_suc">Salvat cu succces</string>
+    <string name="gb_wonderful_video_save_suc">Salvat</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
@@ -1509,12 +1514,11 @@ cardul de sănătate"</string>
     <string name="gs_dialog_confirm_close_title">Dezactivați</string>
     <string name="gs_forbid_autosync">Restricționați sincronizarea în fundal</string>
     <string name="gs_game_ai_record">Înregistrați utilizând AI</string>
-    <string name="gs_game_ai_record_subtitle">Puteți începe să înregistrați în cutia de jocuri în timp ce vă jucați. Videoclipurile cu momente cheie vor fi generate în mod automat și șterse după 7 zile în mod implicit. Puteți de asemenea să salvați videoclipurile permanent.</string>
+    <string name="gs_game_ai_record_subtitle">Înregistrați momentele cheie în mod automat și generați videoclipuri cu evidențierea sesiunilor. Videoclipurile vor fi șterse automat după 7 zile. Puteți alege să le salvați permanent după fiecare sesiune de joc.</string>
     <string name="gs_game_disturb_msg">Nu deranjați</string>
     <string name="gs_game_duration">Timp</string>
     <string name="gs_game_manual_record">Înregistrați manual</string>
-     <string name="gs_game_manual_record_subtitle">Puteți înregistra în cutia de jocuri în timp ce vă jucați. Se pot înregistra până la 30 de secunde video după ce apăsați butonul \"Înregistrați\".
-Videoclipurile vor fi salvate în Jocuri Turbo >Momente cheie."</string>
+    <string name="gs_game_manual_record_subtitle">Utilizați comanda rapidă plutitoare pentru a înregistra până la 30 de secunde de videoclip simultan. Videoclipurile vor fi șterse automat după 7 zile</string>
     <string name="gs_game_manual_record_subtitle_child">Este posibil să întâmpinați unele probleme în timp ce utilizați această caracteristică:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Înregistrarea sesiun ilor de joc necesită un consum crescut de energie care poate afecta viteza de lucru a dispozitivului.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Alte funcții de înregistrare a imaginilor de pe ecran pot funcționa necorespunzător.</string>
@@ -1605,9 +1609,21 @@ Videoclipurile vor fi salvate în Jocuri Turbo >Momente cheie."</string>
     <string name="installing">Se instalează</string>
     <string name="international_Ad">Reclamă</string>
     <string name="international_roaming_setting">Roaming internaţional</string>
+    <string name="intl_app_manager_card_permission_title">Confidențialitate și permisiuni</string>
     <string name="intl_perm_intro_message">Atingeți pentru a ajusta setările permisiunilor pentru a evita pierderea de date</string>
     <string name="intl_perm_notification_content">Ajustează setările permisiunilor</string>
     <string name="intl_perm_notification_title">Protejați-vă confidențialitate</string>
+  <string name="intl_perm_privacy_control_calendar">"The app can access or edit calendar items only while you're using it"</string>
+  <string name="intl_perm_privacy_control_calllog">"The app can access or edit call history only while you're using it"</string>
+  <string name="intl_perm_privacy_control_camera">"The app can take photos or record video only while you're using it"</string>
+  <string name="intl_perm_privacy_control_contact">"The app can access or edit contacts only while you're using it"</string>
+  <string name="intl_perm_privacy_control_data">Control privacy</string>
+  <string name="intl_perm_privacy_control_message">Control what private data the apps are allowed to use</string>
+  <string name="intl_perm_privacy_control_microphone">"The app can record audio only while you're using it"</string>
+  <string name="intl_perm_privacy_control_notification_message">Control what private data the apps are allowed to use</string>
+  <string name="intl_perm_privacy_control_notification_title">Protect your privacy</string>
+  <string name="intl_perm_privacy_control_storage">"The app can access or edit items from internal storage only while you're using it"</string>
+  <string name="intl_perm_privacy_control_title">Control privacy</string>
     <string name="invalid_charger">Nu se poate încărca prin USB. Utilizați încărcătorul cu care a venit dispozitivul.</string>
     <string name="ip_address_exception_summary">"Nu s-a putut obține adresa IP. Dacă această problemă persistă, încercați să utilizați o adresă IP statică.</string>
     <string name="item_app_permission">Permisiuni aplicaţie</string>
@@ -1826,7 +1842,7 @@ răspunsul operatorului"</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
-    <string name="menu_text_power_manager">Acumulator și performanță</string>
+    <string name="menu_text_power_manager">Acumulator</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
     <string name="menu_white">Adăugați în lista excepțiilor</string>
@@ -2120,7 +2136,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
-    <string name="pc_settings_title">Setări acumulator și performanță</string>
+    <string name="pc_settings_title">Acumulator</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
     <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare completă</string>
@@ -2261,7 +2277,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_super_save_title_text">Ultra economisire acumulator</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
-    <string name="power_center_title">Acumulator și performanță</string>
+    <string name="power_center_title">Acumulator</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Alte aplicaţii</string>
     <string name="power_consume_rank_hardware">Hardware</string>
@@ -3485,6 +3501,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="warningcenter_alert_source">Centrul de Avertizare MIUI | Sursa de date: %s</string>
     <string name="warningcenter_alert_time">Ora</string>
     <string name="warningcenter_alert_warning_time">Ora primirii: %s</string>
+    <string name="warningcenter_disaster_search_keywords">Avertizări meteo</string>
     <string name="warningcenter_earthquake_info">Avertizări timpurii de cutremur</string>
     <string name="warningcenter_mijia_alert_close">Închideți</string>
     <string name="warningcenter_mijia_alert_settings">Modificați setările din Securitate>Alerte de la dispozitive domestice inteligente</string>
@@ -3505,6 +3522,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="warningcenter_mijia_open_desc">Veți primi alerte pe acest telefon și pe alte dispozitive partajate atunci când sunt declanșate de către dispozitivele adăugate în aplicația Mi Home</string>
     <string name="warningcenter_mijia_open_title">Primiți alerte de la dispozitivele inteligente</string>
     <string name="warningcenter_mijia_page_title">Alerte</string>
+    <string name="warningcenter_mijia_search_keywords">Alerte Mi Home</string>
     <string name="warningcenter_mijia_title">Alerte de la dispozitivele inteligente domestice</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Centrul de avertizare MIUI</string>

@@ -160,6 +160,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%1$d persoane joacă</item>
         <item quantity="one">%1$d persoană joacă</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Dezinstalați %2$d jocuri (inclusiv %1$s)</item>
+        <item quantity="one">Dezinstalați %2$d joc (inclusiv %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">S-au salvat %d înregistrări AI în Jocuri Turbo</item>
+        <item quantity="one">S-a salvat %d înregistrare AI în Jocuri Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d secunde</item>
         <item quantity="one">%d secundă</item>
@@ -231,6 +239,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="install_game_count_title">
         <item quantity="other">Au fost adăugated %d jocuri</item>
         <item quantity="one">A fost adăugat %d joc</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Puteți proteja %d elemente</item>
+        <item quantity="one">Puteți proteja %d element</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ore</item>
