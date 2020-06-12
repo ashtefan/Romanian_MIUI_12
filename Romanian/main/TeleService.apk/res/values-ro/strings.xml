@@ -1711,11 +1711,14 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">De preferat 3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">De preferat 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM automat</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (De preferat 3G)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">De preferat LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">De preferat 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">De preferat 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM automat</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (De preferat 4G)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">De preferat 5G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (De preferat 5G/4G)</string>
     <string name="preferred_network_type_pref_entries_auto">Automat</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">Numai 2G</string>
@@ -1960,6 +1963,9 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="skt_msim_emm_cause_7_8_15">Cartela SIM %d nu s-a putut înregistra în rețea. Opriți și reporniți dispozitivul, apoi încercați din nou. Dacă întâmpinați în continuare această problemă, contactați centrul de suport clienți (1599-0011).</string>
     <string name="smart_divert_summary">Setări CFNRc</string>
     <string name="smart_divert_title">Redirecționare inteligentă</string>
+    <string name="smart_dual_sim_prompt">Dispozitivul dvs. se va conecta la o rețea de date mobile folosind SIM-ul secundar atunci când conexiunea curentă este slabă. Acest lucru poate genera taxe de date suplimentare. Contactați operatorul local pentru detalii despre planul dvs. de date.</string>
+    <string name="smart_dual_sim_summary">Comutați la cartela SIM secundară și utilizați datele sale mobile automat atunci când conectivitatea curentă este slabă. Când conexiunea se îmbunătățește, reveniți la cartela SIM originală.</string>
+    <string name="smart_dual_sim_title">Dual SIM inteligent</string>
     <string name="smart_forwarding_settings_menu">Redirecționare Inteligentă</string>
     <string name="smart_forwarding_settings_menu_summary">"Când un număr nu este disponibil, redirecționează întotdeauna apelurile pe celălalt număr"</string>
     <string name="sms_messages_title">SMS</string>

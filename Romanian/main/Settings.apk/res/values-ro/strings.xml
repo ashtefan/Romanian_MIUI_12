@@ -2565,6 +2565,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="erase_sure">Obligatoriu</string>
     <string name="error_adding_apn_type">Operatorul nu permite adăugarea de APN-uri de tipul %s.</string>
     <string name="error_apn_empty">Numele APN nu poate fi necompletat.</string>
+    <string name="error_apn_not_allowed">Acest APN nu este permis pe acest dispozitiv. Încercați altul.</string>
     <string name="error_apn_restrict_string">Câmpul APN nu poate conține %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Nu s-a putut capta jurnalul de sistem</string>
     <string name="error_mcc_not3">Câmpul MCC trebuie să conţină 3 cifre.</string>
@@ -3957,6 +3958,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="mi_pay">Portofel Mi</string>
     <string name="mi_pay_indonesia">Cont Mi Pay</string>
     <string name="mi_pay_summary">Emulator Card autobus/Plată Mi/Card</string>
+    <string name="mi_pay_summary_without_nfc">Plăți Mi</string>
     <string name="mi_service">Servici Mi</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_shopping_mall">Magazin Mi</string>
@@ -4027,9 +4029,9 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_sos_contacts_category">Contacte de urgență</string>
     <string name="miui_sos_emergency_contacts">Contacte de urgență</string>
     <string name="miui_sos_emergency_delete">Ștergeți</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) a acceptat deja.</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1s a acceptat deja</string>
-    <string name="miui_sos_emergency_failed_sms" formatted="false">"Nu s-a putut trimite mesajul către %1s (%2s)."</string>
+    <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) a primit mesajul</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1$s a primit mesajul</string>
+    <string name="miui_sos_emergency_failed_sms">Nu s-a putut trimite mesajul la %1$s (%2$s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">"Nu s-a putut trimite mesajul către %1s."</string>
     <string name="miui_sos_enable_switch_summary">Apăsați rapid de 5 ori butonul de Pornire pentru a trimite un mesaj SOS cu locația dvs. către contactele de urgență</string>
     <string name="miui_sos_enable_switch_title">Mesaj SOS</string>
