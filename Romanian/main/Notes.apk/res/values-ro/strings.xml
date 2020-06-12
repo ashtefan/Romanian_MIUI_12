@@ -612,6 +612,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toolbar_voice_description">Voce</string>
     <string name="trash_folder_name">Gunoi</string>
     <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în 30 de zile.</string>
+    <string name="trash_folder_reminder_new">Notițele sunt păstrate în coșul de gunoi timp de 30 de zile înainte de a fi șterse definitiv</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
