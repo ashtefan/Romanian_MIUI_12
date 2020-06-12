@@ -282,6 +282,7 @@
     <string name="switch_desc_tv">Două spații de lucru. Un singur telefon.</string>
     <string name="switching_tv">Comutare…</string>
     <string name="takeback_camera_front_failed">"Nu s-a putut închide camera frontală. Încercați din nou."</string>
+    <string name="talk_back_conflict_with_handy_mode">Nu se poate utiliza modul Operare cu o mână cât timp TalkBack este activ</string>
     <string name="talk_back_water_mark_string1">TalkBack este activat</string>
     <string name="talk_back_water_mark_string2">Apăsați și mențineți apăsate butoanele \"Volum+\" și \"Volum-\" timp de 3 secunde pentru a dezactiva</string>
     <string name="throwing_print">Tipăriți</string>

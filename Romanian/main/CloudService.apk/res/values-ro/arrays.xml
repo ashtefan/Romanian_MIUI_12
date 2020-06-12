@@ -104,6 +104,11 @@
         <item>Activați sincronizarea</item>
         <item>Asistent inteligent;Carduri;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sincronizați răspunsurile rapide</item>
+        <item>Activați sincronizarea</item>
+        <item>Răspunsuri rapide;Clipboard;Editor;Cloud;Sincronizare;Servicii Cloud</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronizați înregistrările cu Xiaomi Cloud</item>
         <item>Activați/setați sincronizarea</item>
@@ -120,9 +125,9 @@
         <item>Cloud;Creați o copie de rezervă;Backup;Restaurați;Servicii Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizați Securitatea cu Xiaomi Cloud</item>
+        <item>Sincronizare Securitate în Cloud</item>
         <item>Activați sincronizarea</item>
-        <item>Securitate;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
+        <item>Securitate;Cloud;Xiaomi Cloud;Sincronizare;Servicii Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronizați mesajele cu Xiaomi Cloud</item>

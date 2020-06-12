@@ -701,7 +701,7 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="resource_exchange_share_code_content">"Ați primit un cod cadou (%2$s) pentru tema %1$s din Temele MIUI. Atingeţi %3$s pentru a-l utiliza.</string>
     <string name="resource_exchange_share_code_dlg_content">Codul cadou achiziționat pentru tema %1$s este: %2$s. Dacă îl trimiteţi unui alt utilizator MIUI, el sau ea îl poate folosi pentru a descărca această temă.</string>
     <string name="resource_exchange_share_code_dlg_title">Trimitere</string>
-    <string name="resource_exchange_success">Savuraţi!</string>
+    <string name="resource_exchange_success">Achiziționată cu succes</string>
     <string name="resource_exchange_unavailable">Tema asociată codului introdus nu este disponibilă</string>
     <string name="resource_exchange_universal_finish">Utilizaţi acest cod pentru a descărca elemente din Magazinul de Teme.</string>
     <string name="resource_exchange_universal_goon">Acest cod poate fi utilizat pentru a descărca orice temă din Magazin.</string>

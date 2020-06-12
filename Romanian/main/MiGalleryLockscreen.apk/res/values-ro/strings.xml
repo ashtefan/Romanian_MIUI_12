@@ -289,6 +289,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="lks_left_top_notice">Atingeți aici pentru a reveni în partea de sus</string>
     <string name="lks_left_top_notice_refresh">Atingeți pentru a vedea elementele noi</string>
     <string name="lks_logo_desc2">Imagini de fundal noi, în fiecare zi</string>
+    <string name="lks_logo_desc_search">Imagini de fundal noi, în fiecare zi</string>
     <string name="lks_subscription_toast">Imagine de fundal schimbată cu succes</string>
     <string name="llks_add_cate">Abonați-vă la %s</string>
     <string name="llks_auto_switch_wp">Abonați-vă la categoriile preferate</string>
