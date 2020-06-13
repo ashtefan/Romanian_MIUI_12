@@ -32,6 +32,10 @@
         <item quantity="other">%d luni</item>
         <item quantity="one">%d lună</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d ani</item>
+        <item quantity="one">%d an</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">cu o oră în urmă</item>
     </plurals>

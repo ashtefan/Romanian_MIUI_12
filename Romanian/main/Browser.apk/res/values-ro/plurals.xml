@@ -134,8 +134,8 @@ Se va reda următorul în %d secundă…"</item>
         <item quantity="one">%d imagine</item>
     </plurals>
     <plurals name="vo_short_video_play_count">
-        <item quantity="other">%s vizualizări</item>
-        <item quantity="one">%s vizualizare</item>
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
     </plurals>
     <plurals name="vo_source_comment">
         <item quantity="other">%1$s | %2$s comentarii</item>
