@@ -194,6 +194,7 @@
     <string name="copy_to_sdcard">Salvaţi ataşamentul</string>
     <string name="copy_to_sdcard_fail">Ataşamentul nu a fost salvat</string>
     <string name="copy_to_sdcard_success">Ataşamentul a fost salvat ca %s</string>
+    <string name="copy_verification_code_tip">Copiat cu succes</string>
     <string name="current_data_version">Versiunea Mesageriei Mi</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="delete">Ştergeţi</string>
@@ -426,6 +427,7 @@
     <string name="menu_make_call">Apelați</string>
     <string name="menu_mark">Marcaţi</string>
     <string name="menu_more">Mai multe</string>
+    <string name="menu_multi_select">Selectați</string>
     <string name="menu_new_contact">Contact nou</string>
     <string name="menu_new_manual">Introduceţi numărul de telefon</string>
     <string name="menu_pick_from_contact">Selectaţi din contacte</string>
@@ -622,6 +624,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="nosend_message">"Nu trimiteţi"</string>
     <string name="not_prepare_for_send">Niciun mesaj de trimis</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_support_audio_forward">Nu se pot redirecționa mesajele vocale</string>
     <string name="notification_ad_content">Ați primit un mesaj promoțional de la %s</string>
     <string name="notification_add_todo">Amintește-mi</string>
     <string name="notification_add_todo_content">Codul de preluare: %s</string>
@@ -700,6 +703,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_summary_on_system_mms_priority">Utilizaţi aplicaţia Mesagerie Mi ca aplicaţie prestabilită pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_privacy_authority">Comutați această opțiune pentru a acorda sau revoca autorizația</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
+    <string name="pref_summary_voice_report">Activați pentru ca mesajele primite să fie rostite cu voce tare. Apăsați butonul Volum- sau butonul de oprire pentru a înceta redarea.</string>
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
@@ -731,6 +735,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_storage_status">Starea stocării mesajelor</string>
     <string name="pref_title_system_mms_priority">Setaţi ca prestabilit</string>
     <string name="pref_title_vcard">Trimiteţi prin vCard</string>
+    <string name="pref_title_voice_report">Citiți mesajele cu voce tare</string>
     <string name="pref_title_wake_up_screen">Trezire ecran</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preferences_title">Setări</string>
@@ -1232,7 +1237,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
-    <string name="train_edit_destination">Adăugați</string>
+    <string name="top_conversation">Conversație fixată</string>
     <string name="try_to_send">Încercaţi să trimiteţi</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
@@ -1272,9 +1277,13 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="v7_preference_on">PORNIT</string>
     <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
+    <string name="verification_code_safety_warning">Nu furnizați aceste coduri altor persoane</string>
     <string name="view">Vizualizaţi</string>
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
     <string name="view_message_details">Afişaţi detaliile</string>
+    <string name="voice_report_anytime">Întotdeauna</string>
+    <string name="voice_report_off">Oprit</string>
+    <string name="voice_report_wiredon">Prin căști</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Trimitere în %ds</string>
     <string name="wednesday">Miercuri</string>

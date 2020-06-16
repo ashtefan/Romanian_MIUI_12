@@ -168,10 +168,12 @@
     <string name="food_module_thumbs_up">Îmi place</string>
     <string name="food_module_tip">Plasați mâncarea în interiorul ramei</string>
     <string name="food_module_title_food">Calorii</string>
+    <string name="function">Caracteristici</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
     <string name="history">Istoric</string>
     <string name="history_empty">Niciun element aici încă</string>
+    <string name="if_open_result">Afișează rezultatul scanării când reveniți în aplicație</string>
     <string name="if_to_open_milogo_scanning">Recunoaște logo-ul Xiaomi</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">Nu s-a putut importa</string>
@@ -198,6 +200,8 @@
     <string name="language_entry_spanish">Spaniolă</string>
     <string name="logistics">Livrare expres</string>
     <string name="low_version_tip">Actualizați MIUI la cea mai recentă versiune pentru a utiliza aplicația Scaner.</string>
+    <string name="mipayin_dialog_more">Mai multe</string>
+    <string name="mipayin_dialog_title">Deschideți cu</string>
     <string name="miracast_connect">Proiectați</string>
     <string name="miracast_connect_fail">"Nu s-a putut proiecta; încercați din nou"</string>
     <string name="miracast_connecting">Se proiectează…</string>

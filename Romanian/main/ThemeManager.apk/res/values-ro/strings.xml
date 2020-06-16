@@ -49,14 +49,17 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="ad_begin_to_download_tip">Începe descărcarea…</string>
     <string name="ad_begin_to_install_tip">Se instalează…</string>
     <string name="ad_closed_tip">"Veți vedea mai puține reclame de acest gen"</string>
+    <string name="ad_details">Detalii</string>
     <string name="ad_download_download">Descărcați</string>
     <string name="ad_download_download_now">Descărcați</string>
     <string name="ad_download_install">Instalați</string>
+    <string name="ad_download_now">Descărcați</string>
     <string name="ad_download_open">Deschideți</string>
     <string name="ad_download_pause">Pauză</string>
     <string name="ad_download_pending">În curs</string>
     <string name="ad_download_resume">Reluați</string>
     <string name="ad_downloading_tip">Acest element este în curs de descărcare. Puteți vedea progresul în perdeaua de Notificări.</string>
+    <string name="ad_experience_now">Deschideți</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="afternoon">PM</string>
     <string name="all_resources">Toate</string>
@@ -115,10 +118,17 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="common_downloading">Se descarcă…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Omiteți</string>
-    <string name="community_cta_dialog_cancel">Renunțați</string>
-    <string name="community_cta_dialog_des">Această temă conține o scurtătură pentru ceas care afișează starea ID-ul contului dvs. Mi și starea Comunității Mi. Puteți dezactiva această caracteristică schimbând tema sau eliminând widgetul Ceas.</string>
-    <string name="community_cta_dialog_ok">Am înțeles</string>
-    <string name="community_cta_dialog_title">Scurtătură pentru Ceas</string>
+    <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Mi</string>
+    <string name="community_community_message_trigger_title">Notifică despre activitate</string>
+    <string name="community_cta_dialog_cancel">Nu, mulțumesc</string>
+    <string name="community_cta_dialog_des">"Temele terțe suportă acum widgetul Comunitate Mi. Acesta funcționează ca și scurtătură care vă ghidează către subforumul Teme din Comunitatea Mi. Puteți dezactiva această caracteristică din Setări.
+Permiteți aplicației Teme să vă acceseze ID-ul contului Mi și statusurile Comunității Mi asociate contului pentru a le putea vedea aici. De asemenea puteți activa sau dezactiva notificările despre activitatea Comunității Mi din Setări."</string>
+    <string name="community_cta_dialog_ok">Permiteți</string>
+    <string name="community_cta_dialog_title">Sunt necesare permisiuni</string>
+    <string name="community_entrance_summary">Găsiți conținut asociat temelor în Comunitatea Mi. Această caracteristică este suportată de către temele selectate.</string>
+    <string name="community_entrance_title">Widget ceas Comunitate Mi</string>
+    <string name="community_message_trigger_disabled">Oprit</string>
+    <string name="community_message_trigger_triggered">Pornit</string>
     <string name="component_backup_preference_title">Faceți o copie de rezervă a temei</string>
     <string name="component_category_finest_title">Recomandate</string>
     <string name="component_category_more_title">Altele</string>
@@ -301,6 +311,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="forbid_transparent_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal transparentă în Spațiul principal.</string>
+    <string name="forbid_video_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal dinamică în Spațiul principal.</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -367,6 +379,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="hide_pull_down_positive">Ascunde</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
+    <string name="i_know">Am înțeles</string>
     <string name="icon_content_description">Pictogramă de Dialog</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>
     <string name="incall_show_apply">Profil video pentru apelurile efectuate</string>
@@ -422,6 +435,24 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="mine_tab_title_like">Apreciate</string>
     <string name="mine_tab_title_local">Locale</string>
     <string name="mine_tab_title_purchase">Comenzi</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Ceas secundar</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuishare_account_activate_confirmation">Activați Contul Mi</string>
     <string name="miuishare_account_activate_ok">Activați</string>
     <string name="miuishare_account_login_cancel">Renunțați</string>
@@ -685,7 +716,7 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="resource_detail_window_title">Detalii %1$s</string>
     <string name="resource_download">Descărcaţi</string>
     <string name="resource_download_notification_title_many">%1$s teme descărcate</string>
-    <string name="resource_download_notification_title_one">Temă descărcată</string>
+    <string name="resource_download_notification_title_one">%1$s descărcată cu succes</string>
     <string name="resource_download_trial">Încercați</string>
     <string name="resource_downloaded_title">Resurse descărcate</string>
     <string name="resource_downloading">Descărcare…</string>
@@ -894,7 +925,7 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="super_wallpaper">Super imagini de fundal</string>
+    <string name="super_wallpaper">Super Imagini de fundal</string>
     <string name="support_theme_store_des">Temele bune sunt întotdeauna create de designeri talentați. Aplicația noastră conține o cantitate mică de anunțuri care ne permite să susținem activitatea lor.</string>
     <string name="support_theme_store_supported">Mulțumim pentru sprijin!</string>
     <string name="support_theme_store_title">Susțineți designerii noștri</string>
@@ -1003,6 +1034,7 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="theme_current_using_has_update">Este disponibilă o actualizare</string>
     <string name="theme_description_title_customized">Personalizat</string>
     <string name="theme_description_title_default">Prestabilit</string>
+    <string name="theme_designer_products">Designer teme</string>
     <string name="theme_detail_tab_comment">Comentarii</string>
     <string name="theme_detail_tab_recommend">Recomandate</string>
     <string name="theme_detail_tab_theme">Detalii</string>
@@ -1043,7 +1075,7 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="theme_user_agreement_remind_never">Nu se afişează din nou</string>
     <string name="theme_user_agreement_remind_summary">Se afişează Condițiile de utilizare de fiecare dată când se deschide aplicația Teme. Această setare va avea efect după ce reporniți dispozitivul.</string>
     <string name="theme_user_agreement_title">Condiții de utilizare</string>
-    <string name="theme_wallpaper">Categoria imaginii de fundal</string>
+    <string name="theme_wallpaper">Categorii imagini de fundal</string>
     <string name="theme_yes">Da</string>
     <string name="third_party_pickers_activity_title">Adăugați %1$s</string>
     <string name="thursday">Joi</string>
@@ -1115,6 +1147,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="update_latest">Aplicația dvs. este la zi</string>
     <string name="update_no_net">A apărut o eroare de rețea. Încercați din nou.</string>
     <string name="update_title">ESTE DISPONIBILĂ O NOUĂ ACTUALIZARE</string>
+    <string name="use_hint">Atenție</string>
     <string name="using_theme_has_update_tips">Este disponibilă o actualizare a acestei teme.</string>
     <string name="using_theme_next_automatic_update">Actualizări automate</string>
     <string name="using_theme_next_automatic_update_summary">Actualizați temele descărcate utilizând Wi-Fi când ecranul este blocat</string>

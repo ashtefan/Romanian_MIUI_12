@@ -76,21 +76,39 @@
     <string name="battery_reverse_wireless_charge_summary">test încărcare wireless inversată</string>
     <string name="battery_reverse_wireless_charge_time_out">timp încărcare wireless inversată expirat</string>
     <string name="battery_reverse_wireless_charge_title">încărcare wireless inversată</string>
+    <string name="battery_value">Energie</string>
+    <string name="begin_to_save_finger_data">Începeți pentru a salva datele amprentei</string>
+    <string name="bt_address">Adresa:</string>
+    <string name="bt_name">Numele:</string>
     <string name="button_ok">OK</string>
+    <string name="camera_capture">Captați</string>
+    <string name="camera_done">Finalizat</string>
     <string name="camerainfo">Informații despre cameră</string>
+    <string name="cancel">Renunțați</string>
+    <string name="cancel_test">TEST ANULAT</string>
+    <string name="capacitance_test">TEST DE CAPACITATE</string>
+    <string name="charger_test_end">"
+Testul de încărcare s-a finalizat; deconectați încărcătorul"</string>
+    <string name="cit_OTG_plug_check_summary">Pe durata testului, conectați și inversați conectorul dispozitivului USB_OTG</string>
+    <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_plugin_check_summary">Când este conectat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG detectat\".</string>
     <string name="cit_OTG_plugin_check_title">OTG (detectare)</string>
     <string name="cit_OTG_plugout_check_summary">Când este eliminat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG eliminat\".</string>
     <string name="cit_OTG_plugout_check_title">OTG (eliminare)</string>
     <string name="cit_OTG_waiting_in">Conectați dispozitivul USB OTG acum</string>
-    <string name="cit_OTG_waiting_out">Deconectați dispozitivul USB OTG acum</string>
+    <string name="cit_OTG_waiting_in_charge">Conectați dispozitivul USB OTG acum</string>
+    <string name="cit_OTG_waiting_out">Deconectați dispozitivul USB OTG și inversați conectorul</string>
+    <string name="cit_Reserse_charge_check_title">Test încărcare inversată</string>
     <string name="cit_abnormal_reboot_summary">Așteptați...Se citesc datele despre stabilitatea sistemului.</string>
     <string name="cit_abnormal_reboot_title">Date despre stabilitatea sistemului</string>
     <string name="cit_ac_charger_in">Încărcare AC</string>
     <string name="cit_ac_charger_out">Încărcător AC deconectat</string>
+    <string name="cit_accdata_sensor_check_summary">Valorile coordonatelor X, Y, Z, trebuie să apară mai jos</string>
+    <string name="cit_accdata_sensor_check_title">Accelerometru</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mutați telefonul rapid într-o direcție. Coordonatele X，Y，Z sunt afișate dedesubt.(când telefonul este în mișcare: X reprezintă stânga/dreapta, y reprezintă înainte/înapoi, z reprezintă în sus/în jos).
 Înainte de a începe calibrarea, așezați telefonul pe o suprafață plană."</string>
     <string name="cit_accelermeter_sensor_check_title">Accelerometru</string>
+    <string name="cit_analog_headset_plug_hint">Conectați căștile analogice acum</string>
     <string name="cit_apk_signature_failed">semnătură apk EȘUATĂ</string>
     <string name="cit_apk_signature_passed">semnătură apk TESTATĂ</string>
     <string name="cit_aud_current_state">Starea curentă:</string>
@@ -102,6 +120,7 @@
     <string name="cit_audio_cali_TEMP">Temp:</string>
     <string name="cit_audio_cali_done">Calibrare efectuată!</string>
     <string name="cit_audio_cali_failed">Calibrarea a eșuat; vă rugăm să reîncercați!</string>
+    <string name="cit_audio_cali_fast_test_title">Test rapid calibrare amplificator difuzor</string>
     <string name="cit_audio_cali_file_existed">Fișierul audio nu există; nu se poate efectua calibrarea!</string>
     <string name="cit_audio_cali_playing">Verificați datele calibrate</string>
     <string name="cit_audio_cali_q">Q:</string>
@@ -154,6 +173,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 "</string>
     <string name="cit_audio_right_calfail">Calibrarea PA dreapta a eșuat!</string>
     <string name="cit_back_light_sensor_check_title">Senzor de lumină posterior</string>
+    <string name="cit_back_pointer_location_title">Senzor tactil posterior</string>
     <string name="cit_battery_check_summary">Statistici acumulator telefon</string>
     <string name="cit_battery_check_title">Informații despre acumulator</string>
     <string name="cit_battery_temp_fail">Temperatura acumulatorului este anormală (valoarea=%d)</string>
@@ -162,6 +182,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_batterylight_green">Verde</string>
     <string name="cit_batterylight_red">Roșu</string>
     <string name="cit_batterylight_rgb">Indicator acumulator</string>
+    <string name="cit_batterylight_white">Alb</string>
     <string name="cit_blue_tooth_address_check_summary">Adresa Bluetooth a telefonului ar trebui să fie afișată mai jos.</string>
     <string name="cit_blue_tooth_address_check_title">Obțineți adresa Bluetooth</string>
     <string name="cit_blue_tooth_scan_check_summary">Mai jos sunt informațiile dispozitivelor Bluetooth detectate în apropiere.</string>
@@ -189,11 +210,15 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 
 1.Atingeți butonul de calibrare de mai jos pentru a începe calibrarea OIS.
 2.Se va afișa o etichetă de calibrare finalizată atunci când calibrarea OIS va fi realizată"</string>
+    <string name="cit_camera_fast_check_title">Test rapid cameră</string>
     <string name="cit_camera_rearsub">Test pentru camera secundară posterioară în curs; vă rog așteptați…</string>
     <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
-    <string name="cit_charge_usb_dcp">Se încarcă：USB_DCP</string>
-    <string name="cit_charge_usb_hvdcp">Se încarcă：USB_HVDCP</string>
-    <string name="cit_charge_usb_pd">Se încarcă：USB_PD</string>
+    <string name="cit_charge_usb_dcp">Se încarcă： USB_DCP</string>
+    <string name="cit_charge_usb_hvdcp">Se încarcă： USB_HVDCP</string>
+    <string name="cit_charge_usb_pd">Se încarcă： USB_PD</string>
+    <string name="cit_charger_check_title">Test încărcare</string>
+    <string name="cit_charger_in">Încărcător conectat</string>
+    <string name="cit_charger_in_check_title">Test inserare încărcător</string>
   <string name="cit_charger_plugin_check_summary">Când este conectat încărcătorul, textul \"Încărcare prin USB/AC\" ar trebui să fie afișat mai jos.</string>
   <string name="cit_charger_plugin_check_title">Încărcător (conectat)</string>
   <string name="cit_charger_plugout_check_summary">Când încărcătorul USB charger este deconectat, textul \"Încărcător USB/AC deconectat\" ar trebui să fie afișat mai jos.</string>
@@ -201,7 +226,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_charger_test_tips_pd">Dispozitivul curent trebuie să facă un test USB_PD</string>
   <string name="cit_charger_waiting_in">Conectați încărcătorul</string>
   <string name="cit_charger_waiting_out">Deconectați încărcătorul acum</string>
-    <string name="cit_depth_camera_check_title">Adâncimea camerei</string>
+    <string name="cit_depth_camera_check_title">Camera pentru adâncime</string>
     <string name="cit_diag_signal_summary">Copiați fișierele conținând jurnalul de stabilitate a semnalului pe cardul SD</string>
     <string name="cit_diag_signal_title">Citiți jurnalul de stabilitate a semnalului</string>
     <string name="cit_dial_emergencycall">Apelați 112</string>
@@ -210,6 +235,10 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
   <string name="cit_display_continue">Atingeți ecranul pentru a începe testul</string>
   <string name="cit_exit_test_summary">Atunci când ieșiți, toate datele text vor fi șterse.</string>
   <string name="cit_exit_test_title">Părăsiți testul</string>
+    <string name="cit_f2_cali">Calibrare</string>
+    <string name="cit_f2_cali_done">Calibrare Finalizată!</string>
+    <string name="cit_f2_cali_failed">Calibrarea a eșuat, vă rugăm Reîncercați!</string>
+    <string name="cit_f2_cali_title">Calibrare Cameră</string>
   <string name="cit_fail">Eșuat</string>
   <string name="cit_finger_check_title">Test amprentă (FPC)</string>
   <string name="cit_flash_life_check_summary">Estimare flash life time</string>
@@ -344,6 +373,7 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
     <string name="cit_rear_dual_camera_check_title">Camera Bokeh</string>
     <string name="cit_rear_dual_second_camera_check_title">Camera 2 Bokeh</string>
+  <string name="cit_rear_dual_third_camera_check_title">Bokeh3 camera</string>
   <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
   <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
   <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
@@ -638,7 +668,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_wifi_ap_scan_retry">Scanning again…</string>
   <string name="cit_wifi_ap_scanning">Scanning…</string>
   <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
-  <string name="cit_wifi_state_refresh">Refresh</string>
+    <string name="cit_wifi_state_refresh">Reîmprospătați</string>
+    <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
   <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Unsupported format</string>

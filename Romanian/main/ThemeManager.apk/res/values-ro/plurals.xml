@@ -104,6 +104,10 @@
         <item quantity="other">%d comentarii</item>
         <item quantity="one">%d comentariu</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">S-au descărcat cu succes %1$d elemente</item>
+        <item quantity="one">S-a descărcat cu succes %1$d element</item>
+    </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f puncte</item>
         <item quantity="one">%1$.1f punct</item>

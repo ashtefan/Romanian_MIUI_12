@@ -1734,6 +1734,7 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="contextual_card_undo_dismissal_text">Anulați</string>
     <string name="continue_reset_factory">Resetare la valorile din fabrică</string>
     <string name="contributors_title">Colaboratori</string>
+    <string name="control_center">Centrul de control</string>
     <string name="control_panel_switch_side">Modificați poziția Centrului de control</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
@@ -2329,6 +2330,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="done">Finalizat</string>
     <string name="done_button">Terminat</string>
     <string name="double_click_power_key">Atingere dublă a butonului de pornire</string>
+    <string name="double_knock">Atingere dublă</string>
     <string name="double_tap_power_for_camera_suggestion_title">Porniți rapid camera</string>
     <string name="double_tap_power_for_camera_summary">Pentru a porni rapid camera, apăsați de două ori butonul de pornire. Acest lucru este posibil din orice ecran.</string>
     <string name="double_tap_power_for_camera_title">Mergeți la Cameră</string>
@@ -3180,11 +3182,11 @@ Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rez
     <string name="input_method_bottom_open">Pornit</string>
     <string name="input_method_clipboard_settings">Setările clipboardului</string>
     <string name="input_method_cloud_data_title">Clipboard în cloud</string>
-    <string name="input_method_cloud_paste_mode_bubble_des">Veți vedea o bulă apărând de câte ori apare conținut nou în clipboardul din cloud. Atingeți balonul pentru a introduce textul copiat.</string>
-    <string name="input_method_cloud_paste_mode_bubble_title">Balon</string>
-    <string name="input_method_cloud_paste_mode_no_des">Nu veți mai vedea notificările atunci când apare conținut nou în clipboardul din cloud. Totuși, veți putea utiliza în continuare clipboardul atingând pictograma.</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">Veți vedea o bulă apărând. Atingeți-o pentru a introduce textul copiat.</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">Bulă</string>
+    <string name="input_method_cloud_paste_mode_no_des">Nu veți mai vedea notificările. Totuși, veți putea utiliza în continuare clipboardul atingând pictograma.</string>
     <string name="input_method_cloud_paste_mode_no_title">Nimic</string>
-    <string name="input_method_cloud_paste_mode_red_point_des">Veți vedea un punct roșu în partea de jos a tastaturii atunci când apare conținut nou în clipboardul din cloud. Atingeți pictograma pentru a activa clipboardul și pentru a utiliza conținutul copiat.</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">Veți vedea un punct roșu în partea de jos a tastaturii. Atingeți pictograma pentru a activa clipboardul și pentru a utiliza conținutul copiat.</string>
     <string name="input_method_cloud_paste_mode_red_point_title">Punct roșu</string>
     <string name="input_method_function_clipboard">Clipboard și fraze frecvente</string>
     <string name="input_method_function_clipboard_des">Atingeți pentru a vizualiza conținutul clipboard-ului și expresiile frecvente</string>
@@ -3200,6 +3202,7 @@ Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rez
     <string name="input_method_quick_access">Acces rapid</string>
     <string name="input_method_quick_cloud_mode_title">Notificări despre conținut nou în clipboard</string>
     <string name="input_method_quick_cloud_summary">Copiați elementele pe computerele compatibile și lipiți-le în dispozitivul dumneavoastră</string>
+    <string name="input_method_quick_cloud_tips">Tipul notificării</string>
     <string name="input_method_quick_cloud_title">Clipboard în cloud</string>
     <string name="input_method_quick_paste_summary">Vedeți elementele copiate atingând pictograma tastaturii</string>
     <string name="input_method_quick_paste_title">Lipire rapidă</string>
@@ -3414,6 +3417,7 @@ Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rez
     <string name="last_synced">Ultima sincronizare %1$s</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
+    <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
     <string name="launch_by_default">Deschide ca implicit</string>
     <string name="launch_camera">Pornire cameră foto</string>
     <string name="launch_defaults_none">Niciun lansator implicit setat</string>
@@ -7698,10 +7702,11 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_ask_enable">%s dorește să activeze Wi-Fi-ul</string>
     <string name="wifi_assist">Asistent Wi-Fi</string>
     <string name="wifi_assistant">Selectează cele mai bune rețele în mod automat</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Această rețea Wi-Fi nu are acces la internet. Telefonul va utiliza în schimb datele mobile. Puteți dezactiva asistentul Wi-Fi din Setări.</string>
-    <string name="wifi_assistant_confirm_always">"Nu arăta din nou"</string>
-    <string name="wifi_assistant_confirm_connection_title">Confirmați</string>
-    <string name="wifi_assistant_data_prompt">Afișează o avertizare pentru utilizarea datelor</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Puteți dezactiva această caracteristică din Setări>Wi-Fi>Asistent Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Utilizați rețelele mobile atunci când dispozitivul dvs. nu se poate conecta la internet prin Wi-Fi.</string>
+    <string name="wifi_assistant_confirm_always">Nu arăta din nou</string>
+    <string name="wifi_assistant_confirm_connection_title">Selectează cele mai bune rețele în mod automat</string>
+    <string name="wifi_assistant_data_prompt">Afișează o avertizare</string>
     <string name="wifi_assistant_data_prompt_summary">Afișează o avertizare pentru utilizarea datelor când se comută la date mobile</string>
     <string name="wifi_assistant_description">"Iată cum funcționează asistentul Wi-Fi:
 1. Atunci când conexiunea Wi-Fi este slabă, asistentul Wi-Fi va încerca să conecteze telefonul la alte rețele Wi-Fi disponibile.

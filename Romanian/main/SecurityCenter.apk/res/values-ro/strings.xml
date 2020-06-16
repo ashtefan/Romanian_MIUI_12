@@ -1780,6 +1780,7 @@ răspunsul operatorului"</string>
     <string name="memory_check_content">Eliberați %s</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">S-au eliberat %s. Dispozitivul dvs. este cu %d%% mai rapid acum.</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Adăugați</string>
@@ -1825,6 +1826,8 @@ răspunsul operatorului"</string>
     <string name="menu_summary_networkassistants_2">Ați depășit limita</string>
     <string name="menu_summary_networkassistants_3">Suficiente date rămase</string>
     <string name="menu_summary_networkassistants_4">Ați rămas fără date</string>
+    <string name="menu_summary_optimize_manage">Goliți memoria</string>
+    <string name="menu_summary_optimize_manage_1">Faceți ca telefonul să fie cu %d%% mai rapid</string>
     <string name="menu_summary_power_manager">Economisirea acumulatorului vă asigură mai mult timp între încărcări</string>
     <string name="menu_summary_power_manager_1">Acumulatorul este încărcat complet</string>
     <string name="menu_summary_power_manager_2">%s rămas</string>
@@ -1842,6 +1845,7 @@ răspunsul operatorului"</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
+    <string name="menu_text_optimize_manage_1">Creșteți viteza telefonului</string>
     <string name="menu_text_power_manager">Acumulator</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
@@ -2014,6 +2018,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="om_locked_apps_summary">Aplicațiile blocate vor fi ignorate de către creșterea vitezei.</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Creșterea vitezei este necesară</string>
+    <string name="om_optimzing_big_button_text">Creșteți viteza</string>
+    <string name="om_running_app_info_summary">Eliberați %s</string>
     <string name="om_running_locked_apps">Aplicații cu rulare blocată</string>
     <string name="om_running_system_apps">Aplicații de sistem care rulează</string>
     <string name="om_running_third_apps">Aplicații terțe care rulează</string>
@@ -2028,6 +2034,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="om_settings_notify_manage">Notificări</string>
     <string name="om_settings_speed_up_auto">Creștere automată a vitezei de reacție</string>
     <string name="om_settings_title">Setări optimizare</string>
+    <string name="om_shortcut_added_toast_text">Adăugată cu succes</string>
+    <string name="om_shortcut_dialog_summary">RAM Jet vă permite să goliți memoria și să creșteți viteza dispozitivului printr-o simplă apăsare. Adăugați RAM Jet pe Ecranul principal?</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Nu s-a găsit aplicația</string>
     <string name="open_app">Deschideți</string>
@@ -2701,8 +2710,12 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_clear_acc">Goliți cache-ul</string>
     <string name="section_title_security_defend">Securitate</string>
     <string name="section_title_system">Securitatea sistemului</string>
+    <string name="security_bottom_guide_to_pm_text">Se deschide Kitul Utilitar…</string>
     <string name="security_center_slogan">Mențineți telefonul sigur și rapid în execuție</string>
-    <string name="security_scan_optimizing">Optimizare…</string>
+    <string name="security_guide_bubble_text">Deschideți</string>
+    <string name="security_guide_summary">Un singur punct de oprire pentru unelte și servicii</string>
+    <string name="security_guide_title">Kit Utilitar MIUI</string>
+    <string name="security_scan_optimizing">Se optimizează…</string>
     <string name="securityadd_install_fail">"Nu s-a putut actualiza extensia. Încercați din nou."</string>
     <string name="securityadd_update_tips_cancle">Nu acum</string>
     <string name="securityadd_update_tips_message">Actualizați extensia serviciului de Securitate pentru a avea acces la cele mai recente caracteristici pentru jocuri. %1$dMB will be downloaded.</string>

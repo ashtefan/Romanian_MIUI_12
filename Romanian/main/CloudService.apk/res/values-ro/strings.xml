@@ -164,9 +164,9 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_service_summary">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_summary_international">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_title">Localizare telefon</string>
-    <string name="find_device_status_ok">Găsiți dispozitivul de oriunde accesând i.mi.com</string>
-    <string name="find_device_status_ok_international">Localizați dispozitivul dvs. accesând www.mi.com/micloud</string>
-    <string name="find_device_success_title">Localizare dispozitiv</string>
+    <string name="find_device_status_summary">Localizați și blocați dispozitivul, dar și ștergeți datele acestuia de la distanță</string>
+    <string name="find_device_status_title_pad">Găsiți dispozitivul</string>
+    <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
     <string name="forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
@@ -316,6 +316,7 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
+    <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; utilizând contul dvs. Mi pentru a localiza dispozitivul, pentru a-l marca drept pierdut sau pentru a șterge datele acestuia de la distanță. Vedeți detalii &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
@@ -645,9 +646,8 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="search_finddevice_pref_key_words">localizare dispozitiv, găsire telefon</string>
     <string name="search_finddevice_pref_path">Contul Mi/Xiaomi Cloud/Localizare telefon</string>
     <string name="search_menu_title">Căutați</string>
-    <string name="secret_photo">Fotografii ascunse</string>
-    <string name="setting">Setări</string>
-    <string name="settings_backup_title">Creare copie de rezervă pentru setările de sistem</string>
+    <string name="send_last_location_summary">Sincronizează informațiile despre locație în timp ce dispozitivul este oprit</string>
+    <string name="send_last_location_title">Localizați înainte de închidere</string>
     <string name="share_cancel">Partajare anulată</string>
     <string name="share_failed">Imposibil de partajat</string>
     <string name="share_miliao_not_installed">"MiTalk nu este instalată."</string>

@@ -1045,7 +1045,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_content_simple_homepage">Pagină de pornire simplificată</string>
     <string name="pref_debug_mode">Mod depanare</string>
     <string name="pref_download_setting">Setări descărcare</string>
-    <string name="pref_enable_adblock_notification">Afişare notificări despre anunțurile blocate</string>
+    <string name="pref_enable_adblock_notification">Notificări despre anunțurile blocate</string>
     <string name="pref_enable_news">Ştiri</string>
     <string name="pref_enable_novels">Cărţi</string>
     <string name="pref_enable_videos">Videoclipuri</string>
