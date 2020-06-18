@@ -26,6 +26,7 @@
         <item></item>
         <item>Mi Fit</item>
         <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
     </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Vibrează când sună</item>

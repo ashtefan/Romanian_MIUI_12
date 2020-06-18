@@ -1254,11 +1254,13 @@ Selecție"</string>
     <string name="bluetooth_unlock_change_matched_device">Selectaţi alt dispozitiv</string>
     <string name="bluetooth_unlock_confirm_device_text">Atingeți dispozitivul Bluetooth pentru a confirma.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Atingeți butonul de pe ceasul inteligent pentru a debloca.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">confirmați pe dispozitive</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Atingeți butonul de pe dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_delete_device">Ştergeţi acest dispozitiv</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Ştergeţi acest dispozitiv?</string>
     <string name="bluetooth_unlock_device_matched_text">Utilizați acest dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Niciun dispozitiv detectat</string>
+    <string name="bluetooth_unlock_reject">dispozitivul de la distanță a respins solicitarea de deblocare</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispozitiv</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicaţi la</string>
     <string name="bluetooth_unlock_settings_unlock_device">Deblocare dispozitiv</string>
@@ -1270,6 +1272,7 @@ Selecție"</string>
     <string name="bluetooth_unlock_title">Deblocaţi cu un dispozitiv Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Oprit</string>
     <string name="bluetooth_unlock_turned_on">Pornit</string>
+    <string name="bluetooth_unlock_unsupport">versiune nesuportată</string>
     <string name="bluetooth_unpair_dialog_body">Telefonul dvs nu va mai fi asociat cu %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Uitați dispozitivul</string>
     <string name="bluetooth_unpair_dialog_title">Uitați dispozitivul?</string>

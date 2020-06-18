@@ -37,7 +37,7 @@
     <string name="always_style">Întotdeauna</string>
     <string name="am">AM</string>
     <string name="animation_clock_panel">Tastatură în valuri</string>
-    <string name="aod_close_color_inversion">"Această caracteristică nu se poate combina cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi."</string>
+    <string name="aod_close_color_inversion">Această caracteristică nu se poate combina cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi.</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
@@ -49,7 +49,7 @@ d/M"</string>
     <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
-    <string name="aod_lock_screen_date_smartcover_b">dd/MM EE</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
     <string name="aod_mode_preview">Previzualizați</string>
     <string name="aod_mode_style">Stilul ceasului și fundalul</string>
     <string name="aod_mode_style_title">Mai multe opțiuni</string>
@@ -232,9 +232,9 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_hint">Dată</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de sfârșit</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de start</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Treceți la modul de introducere calendar</string>
     <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei date</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Treceți la modul de introducere text</string>
@@ -315,6 +315,8 @@ minunat urmează să se întâmple"</string>
     <string name="sunday_shortest">Du</string>
     <string name="super_wallpaper_date">"EE aa
 dd/MM"</string>
+    <string name="super_wallpaper_date_inter">"EEEE
+dd/M"</string>
     <string name="super_wallpaper_date_lunar">"YY年
 N月e"</string>
     <string name="temporary_style">Pentru 10 secunde după atingere</string>
