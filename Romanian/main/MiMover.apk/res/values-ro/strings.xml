@@ -67,6 +67,8 @@
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_restore">Restaurați elementele de sistem pentru a putea utiliza MIUI în mod normal după o revenire la setările din fabrică. Atingeți pentru a începe.</string>
     <string name="close">Închideți</string>
+    <string name="close_cellular_summary">Dispozitivul dvs. utilizează acum datele mobile datorită restricțiilor de sistem. Dezactivați datele mobile și conectați-vă la noul dispozitiv din nou.</string>
+    <string name="close_cellular_title">Nu s-a putut conecta</string>
     <string name="close_twice_auth_btn">Dezactivați autentificarea în doi pași</string>
     <string name="close_twice_auth_note">"Notă:
 După crearea unei noi întrebări de securitate și confirmarea datei dvs. de naștere, autentificarea dvs. cu doi factori Apple ID va fi dezactivată. Dacă nu vedeți opțiunea de a dezactiva autentificarea în doi factori în pagina contului ID Apple, nu o puteți dezactiva. "</string>
@@ -512,6 +514,8 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="prompt_before_transmission_message3_title">Utilizați spațiul secundar</string>
     <string name="prompt_before_transmission_message4_summary">Nu opriți Wi-Fi-ul și nu comutați rețelele până când transferul nu este finalizat.</string>
     <string name="prompt_before_transmission_message4_title">Rămâneți conectat pe tot parcursul transferului</string>
+    <string name="prompt_before_transmission_message5_summary">Transferul unor cantități mari de date prin wireless poate duce la o ușoară supraîncălzire, lucru care nu este anormal. Dispozitivul se va răci curând după ce transferul se va finaliza.</string>
+    <string name="prompt_before_transmission_message5_title">Este posibil ca telefonul să se încălzească pe durata transferurilor.</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Nu s-a putut primi QQ</string>
     <string name="qq_app_send_fail">Nu s-a putut trimite QQ</string>

@@ -278,6 +278,7 @@
     <string name="contextmenu_openlink_in_browser">Deschideți în Browser</string>
     <string name="contextmenu_openlink_newwindow">Deschideţi într-o filă nouă</string>
     <string name="contextmenu_openlink_newwindow_background">Deschideţi într-o filă în fundal</string>
+    <string name="contextmenu_orignal_webpage">Pagina orignală</string>
     <string name="contextmenu_recognise_qr_code">Scanare cod QR</string>
     <string name="contextmenu_send_mail">Trimiteţi un e-mail</string>
     <string name="contextmenu_set_wallpaper">Setaţi ca imagine de fundal</string>
@@ -286,6 +287,8 @@
     <string name="contextmenu_webpage_capture">Captură de ecran</string>
     <string name="contextmenu_webpage_html">Salvați ca fișier HTML</string>
     <string name="contextmenu_webpage_snapshot">Salvați pagina</string>
+    <string name="contextmenu_webpage_translate">Traducere web</string>
+    <string name="contextmenu_webpage_translation_tips">O nouă funcție de traducere în cutia cu unelte</string>
     <string name="copy">Copiați</string>
     <string name="copy_url">Copiaţi URL</string>
     <string name="create_qr_code">Cod QR</string>
@@ -576,6 +579,9 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="info_flow_description">Info canal</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
     <string name="keep_queued_download">Păstrați</string>
+    <string name="leto_permission_rationale_ask">Este posibil ca această aplicație să nu funcționeze corect fără permisiunile necesare.</string>
+    <string name="leto_permission_rationale_ask_again">Este posibil ca această aplicație să nu funcționeze corect fără permisiunile necesare. Deschideți ecranul cu setările aplicației pentru a modifica permisiunile aplicației.</string>
+    <string name="leto_permission_title_settings_dialog">Permisiuni Necesare</string>
     <string name="load_error_tip">Nu s-au putut încărca elementele. Atingeți pentru a încerca din nou.</string>
     <string name="load_more_footer_status_msg_error_load">Nu s-a putut încărca. Încercați din nou.</string>
     <string name="load_more_footer_status_msg_error_no_network">Nu s-a putut conecta la rețea.</string>

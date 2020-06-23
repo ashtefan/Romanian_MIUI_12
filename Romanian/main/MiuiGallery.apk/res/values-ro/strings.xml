@@ -84,6 +84,7 @@
     <string name="album_camera_name">Cameră</string>
     <string name="album_cloud_list_page_title">Gestionați albumele sincronizate</string>
     <string name="album_creative">Fotografiile mele editate</string>
+    <string name="album_detail_default_sort_tip">S-a comutat la ordonare cronologică</string>
     <string name="album_detail_page_empty">Nu există fotografii sau videoclipuri</string>
     <string name="album_download">Descărcări</string>
     <string name="album_faces_name">Persoane</string>
@@ -267,6 +268,8 @@
     <string name="blur_refocus_enter"/>
     <string name="browse_category_title">Răsfoiți</string>
     <string name="btn_cancel">Renunțați</string>
+    <string name="btn_cancel_send">Anulați acest transfer</string>
+    <string name="btn_exit_send">Ieșiți</string>
     <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
     <string name="burst_photo_enter"/>
@@ -1037,6 +1040,10 @@ pentru a personaliza Galeria"</string>
     <string name="member_menu_vipname_premium">Premium</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_album_new_album">Album nou</string>
+    <string name="menu_detail_sort_create_date">Data creării</string>
+    <string name="menu_detail_sort_name">Numele fișierului</string>
+    <string name="menu_detail_sort_size">Dimensiunea fișierului</string>
+    <string name="menu_detail_sort_update_date">Ultima actualizare</string>
     <string name="menu_item_sort_date">Dată</string>
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
@@ -1238,6 +1245,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_favorites">Favorite</string>
     <string name="operation_force_top">Fixați</string>
     <string name="operation_hide">Ascundeți</string>
+    <string name="operation_hide_time">Ascundeți datele</string>
     <string name="operation_in_process">Procesare…</string>
     <string name="operation_move">Mutați</string>
     <string name="operation_move_to_other_albums">Mutați în Alte albume</string>
@@ -1262,7 +1270,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_share_manage">Gestionați elementele partajate</string>
     <string name="operation_show_in_photos_tab">Arată în Fotografii</string>
     <string name="operation_show_on_map">Arată pe hartă</string>
+    <string name="operation_show_time">Afișează datele</string>
     <string name="operation_slide_show">Porniți slideshow</string>
+    <string name="operation_sort">Sortați</string>
     <string name="operation_successful">Finalizată</string>
     <string name="operation_too_often">Operațiunea dvs. depășește limita, încercați după un minut.</string>
     <string name="operation_unforce_top">Anulați fixarea</string>
@@ -1667,6 +1677,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_needs_auto_upload_tip">Nu se poate dezactiva sincronizarea în cloud pentru albumele partajate</string>
     <string name="share_album_qr_code">"Codul QR al albumului"</string>
+    <string name="share_and_delete_screenshot">Șterge după partajare</string>
     <string name="share_by_email_start">Distribuiţi %1$s în fundal</string>
     <string name="share_by_email_successfully">Distribuit prin %1$s</string>
     <string name="share_public_url_text">Am distribuit albumul %1$s. Îl poţi vedea la %2$s</string>
@@ -1726,6 +1737,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="sort">Sortați</string>
     <string name="special_type_8k">AI 8K</string>
+    <string name="special_type_ai_audio">AI Audio</string>
     <string name="special_type_eye_repair">S-au remediat ochii închiși utilizând AI</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_log">LOG</string>

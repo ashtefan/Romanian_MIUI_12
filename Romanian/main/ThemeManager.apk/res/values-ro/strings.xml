@@ -121,8 +121,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Mi</string>
     <string name="community_community_message_trigger_title">Notifică despre activitate</string>
     <string name="community_cta_dialog_cancel">Nu, mulțumesc</string>
-    <string name="community_cta_dialog_des">"Temele terțe suportă acum widgetul Comunitate Mi. Acesta funcționează ca și scurtătură care vă ghidează către subforumul Teme din Comunitatea Mi. Puteți dezactiva această caracteristică din Setări.
-Permiteți aplicației Teme să vă acceseze ID-ul contului Mi și statusurile Comunității Mi asociate contului pentru a le putea vedea aici. De asemenea puteți activa sau dezactiva notificările despre activitatea Comunității Mi din Setări."</string>
+    <string name="community_cta_dialog_des">Temele terțe suportă acum widgetul Comunitate Mi. Permiteți aplicației Teme să vă acceseze ID-ul contului Mi și statusurile Comunității Mi asociate contului pentru a le putea vedea aici.</string>
     <string name="community_cta_dialog_ok">Permiteți</string>
     <string name="community_cta_dialog_title">Sunt necesare permisiuni</string>
     <string name="community_entrance_summary">Găsiți conținut asociat temelor în Comunitatea Mi. Această caracteristică este suportată de către temele selectate.</string>

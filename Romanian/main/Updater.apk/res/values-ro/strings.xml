@@ -49,6 +49,7 @@
     <string name="cancel_download">Opriţi descărcarea actualizării?</string>
     <string name="cancel_download_buton_text">Anulaţi</string>
     <string name="channel_downloading">Progresul descărcării</string>
+    <string name="channel_service">Serviciu de Actualizare în fundal</string>
     <string name="channel_update">Este disponibilă o nouă versiune</string>
     <string name="check_local_package_update_btn">Reporniți și actualizați</string>
     <string name="check_local_package_update_msg">"Telefonul va reporni în mod automat în timpul actualizării la versiunea MIUI %s"</string>
@@ -203,6 +204,8 @@ Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
     <string name="notification_update_new_version">Actualizare disponibilă</string>
     <string name="notification_update_now">Actualizați acum</string>
     <string name="notification_updating">Actualizare…</string>
+    <string name="notif_service_summary">Mențineți apăsat pentru a dezactiva notificarea \"Serviciu în fundal\"!</string>
+    <string name="notif_service_title">Aplicația rulează în fundal…</string>
     <string name="notifications_switch">Afișează notificări</string>
     <string name="on_checking">Verificare…</string>
     <string name="open_now">Da</string>

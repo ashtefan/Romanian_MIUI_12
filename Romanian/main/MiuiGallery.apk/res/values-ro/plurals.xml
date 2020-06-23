@@ -372,9 +372,105 @@
         <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\".</item>
         <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\".</item>
     </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d pachete de instalare (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d pachet de instalare (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d pachete de instalare (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d pachet de instalare (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d pachete de instalare (%3$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d pachet de instalare (%3$s) de la %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d fișiere audio (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d fișier audio (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d fișiere audio (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d fișier audio (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d fișiere audio (%3$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d fișier audio (%3$s) de la %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fișiere (%4$s) de la %1$s</item>
+        <item quantity="one">%2$d %3$s fișier (%4$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d %3$s fișiere (%4$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d %3$s fișier (%4$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d %3$s fișiere (%4$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d %3$s fișier (%4$s) de la %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d imagini de la %1$s</item>
+        <item quantity="one">%2$d imagine de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d imagini de la %1$s</item>
+        <item quantity="one">S-a primit %2$d imagine de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d imagini de la %1$s…</item>
+        <item quantity="one">Se primește %2$d imagine de la %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d imagini și videoclipuri de la %1$s</item>
+        <item quantity="one">%2$d imagine sau videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d imagini și videoclipuri de la %1$s</item>
+        <item quantity="one">S-a primit %2$d imagine sau videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d imagini și videoclipuri de la %1$s…</item>
+        <item quantity="one">Se primește %2$d imagine sau videoclip de la %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d fișiere de la %1$s</item>
+        <item quantity="one">%2$d fișier de la %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d fișiere de la %1$s</item>
+        <item quantity="one">S-a primit %2$d fișier de la %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d fișiere de la %1$s…</item>
+        <item quantity="one">Se primește %2$d fișier de la %1$s…</item>
+    </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"Nu s-a putut partaja. Încă se procesează %d fotografii…"</item>
         <item quantity="one">"Nu s-a putut partaja. Încă se procesează %d fotografie…"</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videoclipuri de la %1$s</item>
+        <item quantity="one">%2$d videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d videoclipuri de la %1$s</item>
+        <item quantity="one">S-a primit %2$d videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d videoclipuri de la %1$s…</item>
+        <item quantity="one">Se primește %2$d videoclip de la %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arhive (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d arhivă (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d arhive (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d arhivă (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d arhive (%3$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d arhivă (%3$s) de la %1$s…</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d secunde</item>

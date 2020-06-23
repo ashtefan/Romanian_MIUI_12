@@ -59,10 +59,12 @@
     <string name="all_app_category_knowledge_education">Cunoaștere și educație</string>
     <string name="all_app_category_lifestyle">Stil de viață</string>
     <string name="all_app_category_news_reading">Știri și Lecturi</string>
+    <string name="all_app_category_personal">Personal</string>
     <string name="all_app_category_personalization">Personalizare</string>
     <string name="all_app_category_photography">Fotografie</string>
     <string name="all_app_category_shopping">Cumpărături</string>
     <string name="all_app_category_tools">Unelte</string>
+    <string name="all_app_category_work">Servici</string>
     <string name="all_apps">Toate aplicațiile</string>
     <string name="all_apps_no_search_results">Nu s-au găsit rezultate</string>
     <string name="all_apps_search_app">Căutați aplicații</string>
@@ -174,10 +176,10 @@
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
     <string name="cloud_app_restore_title">În așteptare</string>
-    <string name="common_home_search_delete">Se șterge bara de căutare din Ecranul principal</string>
+    <string name="common_home_search_delete">Se elimină bara de căutare</string>
     <string name="common_home_search_delete_cancle">Renunțați</string>
-    <string name="common_home_search_delete_confirm">Ștergeți</string>
-    <string name="common_home_search_delete_content">Nu veți putea căuta articole folosind bara de căutare de pe ecranul de start după ce ați șters-o. Ștergeți oricum?</string>
+    <string name="common_home_search_delete_confirm">Eliminați</string>
+    <string name="common_home_search_delete_content">Nu veți mai putea utiliza căutarea rapidă după ce eliminați bara de căutare de pe Ecranul principal. O eliminați oricum?</string>
     <string name="configure_wallpaper">Setări</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
@@ -563,6 +565,8 @@
     <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
+    <string name="unstable_dialog_message">Acest dispozitiv este înscris în Programul de previzualizare a dezvoltatorilor Android 11. Programul permite dezvoltatorilor și entuziaștilor Android să încerce versiunile de pre-lansare ale Android 11. Această versiune pre-lansare poate conține erori și defecte care pot afecta funcționarea normală a dispozitivului dvs.</string>
+    <string name="unstable_dialog_title">Programul de previzualizare a dezvoltatorilor Android</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="wallpaper">Imagine de fundal</string>
@@ -579,4 +583,7 @@
     <string name="widget_global_search">Căutare</string>
     <string name="widget_quick_function">Funcții rapide</string>
     <string name="widgets_preview_title">Adăugați un widget</string>
+    <string name="work_mode_off_label">Notificările sunt oprite și aplicațiile nu sunt disponibile acum</string>
+    <string name="work_mode_on_label">Gestionat de către organizația dvs.</string>
+    <string name="work_profile_toggle_label">Profil de servici</string>
 </resources>
