@@ -197,6 +197,13 @@
     <string name="copy_verification_code_tip">Copiat cu succes</string>
     <string name="current_data_version">Versiunea Mesageriei Mi</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="debug_about_mms">Despre Mms</string>
+    <string name="debug_category_db">Baza de date</string>
+    <string name="debug_category_others">Altele</string>
+    <string name="debug_close_success">Depanator indisponibil</string>
+    <string name="debug_enable_success">Depanator disponibil</string>
+    <string name="debug_export_db">Exportați baza de date</string>
+    <string name="debug_title">Depanator</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_block_conversation">Ștergeți această conversație</string>
     <string name="delete_bookmark">Eliminaţi din Favorite</string>

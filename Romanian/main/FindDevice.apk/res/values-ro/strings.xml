@@ -46,8 +46,8 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="passport_trust_device">Am încredere în acest dispozitiv</string>
     <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
     <string name="passport_verify">Verificați</string>
-    <string name="password">Parola</string>
-    <string name="phone_locked">Acest dispozitiv poate fi asociat cu un cont Mi existent (%s). Autentificați-vă pentru a activa acest dispozitiv.</string>
+    <string name="password">Introduceți parola</string>
+    <string name="phone_locked">Acest dispozitiv este asociat unui cont Mi (%s). Introduceți parola pentru a activa dispozitivul.</string>
     <string name="phone_locked_account_email">, e-mail asociat: %s</string>
     <string name="phone_locked_account_phone">, număr de telefon asociat: %s</string>
     <string name="return_to_call">Reveniți la apel</string>
@@ -73,14 +73,14 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="unlock_error_unknown">"Nu se poate autentifica"</string>
     <string name="unlock_error_user_name">Nume utilizator incorect</string>
     <string name="unlock_error_wrong_vcode">Codul introdus este incorect</string>
-    <string name="unlock_help">"Rămâneți conectat la rețea
-Asigurați-vă că aveți o cartelă SIM validă introdusă și că telefonul este conectat la o rețea Wi-Fi activă
+    <string name="unlock_help">"Conectați-vă la rețea.
+Introduceți o cartelă SIM funcțională și nu vă conectați la rețele Wi-Fi nevalide.
 
 Ați uitat parola?
-Mergeți la id.mi.com pentru a vă reseta parola
+Mergeți la id.mi.com, selectați \"Ați uitat parola?\" și urmați instrucțiunile.
 
-Alte motive
-Autentificați-vă la i.mi.com și încercați să vă deblocați telefonul de acolo"</string>
+Nu puteți activa dispozitivul?
+Mergeți la i.mi.com/ss și aplicați pentru deblocarea dispozitivului."</string>
     <string name="unlock_help_title">Ajutor pentru deblocare:</string>
     <string name="unlock_number">Codul de deblocare: %s</string>
     <string name="unlock_wrong_captcha">Codul introdus este incorect</string>

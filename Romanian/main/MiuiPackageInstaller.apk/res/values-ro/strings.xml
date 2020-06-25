@@ -53,6 +53,7 @@
     <string name="ads_install_button_isInstalling">Se instalează</string>
     <string name="ads_install_button_waiting">Se așteaptă</string>
     <string name="ads_summary">Persoanele care au instalat %1$s au apreciat și</string>
+    <string name="ads_summary_default_value">Persoanele care au instalat această aplicație au apreciat și</string>
     <string name="allPerms">Toate</string>
     <string name="all_permissions">Toate permisiunile</string>
     <string name="allow_mock_location">Permiteți locații fictive</string>

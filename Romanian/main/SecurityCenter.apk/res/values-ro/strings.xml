@@ -166,6 +166,9 @@
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary">"Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele Avast, AVL şi Tencent (%s)."</string>
     <string name="antivirus_privacy_dialog_summary_link">Politica de confidențialitate</string>
+    <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast, AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
+    <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
+    <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast și AVL. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_title">Politica de confidențialitate</string>
     <string name="antivirus_sec_network_unavailable">"Aplicația de Securitate nu se poate actualiza deoarece ați restricționat accesul la internet. Permiteți aplicației de Securitate să se conecteze la internet?"</string>
     <string name="antivirus_toast_already_update">La zi</string>
