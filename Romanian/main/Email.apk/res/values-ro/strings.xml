@@ -182,7 +182,7 @@ Actualizaţi acum?"</string>
     <string name="add_pre_message_attachments_no">Nu se adaugă</string>
     <string name="add_pre_message_attachments_yes">Da</string>
     <string name="add_star">Cu stea</string>
-    <string name="all_purpose">Bine ați venit la aplicația E-mail! Acest client de e-mail a fost creat de către Kingsoft pentru Xiaomi. Puteți folosi această aplicație pentru a trimite și primi e-mailuri.</string>
+    <string name="all_purpose">Bine ați venit la aplicația E-mail! Acest client de e-mail a fost creat de către Kingsoft pentru Xiaomi. Puteți folosi această aplicație pentru a trimite și primi e-mailuri. </string>
     <string name="allread">Citiți tot</string>
     <string name="always_bcc_myself">Mi se trimite întotdeauna copie CCI</string>
     <string name="always_show_images">Afișați întotdeauna imaginile de la acest expeditor</string>
@@ -767,7 +767,7 @@ Actualizaţi acum?"</string>
     <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
     <string name="mibill_privacy_policy_title">Gestionarea facturilor în mod automat</string>
     <string name="min_payment_text">Suma minimă de plată</string>
-    <string name="modify_contact_address">Modificați adresa de e-mail de contact</string>
+    <string name="modify_contact_address">Modificarea adreselor de e-mail ale contactelor</string>
     <string name="more_context">Mai multe</string>
     <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
@@ -1174,7 +1174,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="share_choose">Selectaţi</string>
     <string name="sharing">Distribuiţi</string>
     <string name="shortcut_name_title">Denumiţi o comandă rapidă pentru dosar</string>
-    <string name="show_contact_address">Afișează adresa de e-mail de contact</string>
+    <string name="show_contact_address">Afișarea adreselor de e-mail ale contactelor</string>
     <string name="show_elided">▶ Afişaţi textul citat</string>
     <string name="show_images">Afişaţi fotografiile</string>
     <string name="show_more_attachment">Mai multe atașamente</string>

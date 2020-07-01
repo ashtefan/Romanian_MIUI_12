@@ -642,6 +642,8 @@ Selecție"</string>
     <string name="wifi_status_no_internet">Fără internet</string>
     <string name="wifi_status_sign_in_required">Conectare necesară</string>
     <string name="wifi_unmetered_label">Nemonitorizată</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging - conexiune automată</string>
+  <string name="wifi_unsaved_network_linking_summary">Activați încercările de conectare automată la un nou SSID WPA / WPA2-PSK de 5 GHz cu WPA / WPA2-PSK 2 credite SSID conectate SSID și BSSID potrivit parțial</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, afișează per SSID RSSI în lista Wi‑Fi</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
@@ -653,6 +655,8 @@ Vă rugăm verificați validitatea certificatelor"</string>
 Stocarea credențialelor poate fi inactivă"</string>
     <string name="wifi_wapi_psk_type">Tipul parolei</string>
     <string name="wifi_wapi_user_certificate">Certificat utilizator</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging - Comutare rapidă</string>
+  <string name="wifi_whitelist_roaming_summary">Activați roaming-ul între diferite AP-uri SSID WPA / WPA2-PSK cu aceeași adresă MAC de gateway</string>
     <string name="window_animation_scale_title">Scală animație fereastră</string>
     <string name="zen_alarm_warning">Nu veți mai auzi următoarea alarmă %1$s</string>
     <string name="zen_alarm_warning_indef">Nu veți mai auzi următoarea alarmă %1$s decât dacă dezactivați asta până atunci</string>

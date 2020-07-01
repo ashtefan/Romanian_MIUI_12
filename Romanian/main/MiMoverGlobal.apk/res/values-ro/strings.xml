@@ -349,7 +349,7 @@ Vă vom proteja informațiile personale în conformitate cu legile, reglementăr
     <string name="new_trans_intro_desc_new_click">Descărcați</string>
     <string name="new_trans_intro_desc_old">2. Dacă hotspotul încă nu apare în Mi Mover, deschideți setările Wi-Fi și verificați dacă îl puteți vedea acolo. Dacă da, mergeți înapoi la Mi Mover și atingeți numele hotspot-ului.</string>
     <string name="new_trans_intro_question_1">1. De ce nu pot vedea hotspot-ul noului dispozitiv pe cel vechi?</string>
-    <string name="new_trans_intro_question_2">2.Care este parola hotspot-ului?</string>
+    <string name="new_trans_intro_question_2">2. Care este parola hotspot-ului?</string>
     <string name="new_trans_intro_question_3">3. De ce spune că nu există suficient spațiu de stocare pe dispozitivul vechi?</string>
     <string name="new_trans_intro_question_4">4. De ce nu toate aplicațiile sunt transferate cu succes?</string>
     <string name="new_trans_intro_question_5">5. De ce parolele unor conturi ale aplicațiilor terțe nu sunt transferate cu succes?</string>
@@ -586,8 +586,8 @@ Descărcați și instalați Mi Mover."</string>
 2. Descărcați și instalați Mi Mover.
 3. Atingeți butonul de mai jos odată ce instalarea este completă."</string>
     <string name="trans_intro_title">Întrebări frecvente</string>
-    <string name="trans_main_activity_tutor_first">"Mutați fotografiile, contactele, mesajele, istoricul apelurilor,
-audio, video, documentele și aplicațiile pe un dispozitiv nou"</string>
+    <string name="trans_main_activity_tutor_first">"Transferați fotografiile, contactele, mesajele, istoricul apelurilor,
+fișierele audio, video, documentele și aplicațiile pe un dispozitiv nou"</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_receive_time_remained">Primit: %1$s | Rămas: %2$s</string>
     <string name="trans_send_time_remained">Trimis: %1$s | Rămas: %2$s</string>

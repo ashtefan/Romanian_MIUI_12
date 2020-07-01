@@ -795,6 +795,10 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="choose">Selectaţi</string>
     <string name="choose_gs_show_way">Selectați orientarea paginii inițiale</string>
     <string name="clean_immediately">Goliți</string>
+    <string name="clean_master_icon_recall_button_text">Adăugați</string>
+    <string name="clean_master_icon_recall_summary">Adăugați o scurtătură pe Ecranul principal pentru a goli coșul de gunoi ori de câte ori aveți nevoie.</string>
+    <string name="clean_master_icon_recall_title">Goliți mai rapid coșul de gunoi</string>
+    <string name="clean_master_icon_recall_toast_text">S-a adăugat cu succes o scurtătură pe Ecranul principal pentru funcția Curățare</string>
     <string name="cleaned">Golit</string>
     <string name="clear_garbage">Goliți Coșul de gunoi pentru a elibera spațiu</string>
     <string name="clear_immediately">Curățați acum</string>
@@ -2713,7 +2717,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_clear_acc">Goliți cache-ul</string>
     <string name="section_title_security_defend">Securitate</string>
     <string name="section_title_system">Securitatea sistemului</string>
-    <string name="security_bottom_guide_to_pm_text">Se deschide Kitul Utilitar…</string>
+    <string name="security_bottom_guide_to_pm_text">Eliberați pentru a deschide utilitarul…</string>
     <string name="security_center_slogan">Mențineți telefonul sigur și rapid în execuție</string>
     <string name="security_guide_bubble_text">Deschideți</string>
     <string name="security_guide_summary">Un singur punct de oprire pentru unelte și servicii</string>

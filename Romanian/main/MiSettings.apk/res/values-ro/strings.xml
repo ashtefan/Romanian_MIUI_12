@@ -465,7 +465,7 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_reach_device_limit">Timpul s-a scurs! Ați atins limita setată.</string>
     <string name="usage_reach_device_limit_warning_text">Ați atins limita de timp pentru utilizarea ecranului</string>
     <string name="usage_refresh">Încercați din nou</string>
-    <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
+    <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">A apărut o eroare necunoscută</string>
     <string name="usage_request_timeout_summary">Timpul de rezolvare a solicitării a expirat</string>

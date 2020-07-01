@@ -152,12 +152,12 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="deselect_all">Deselectaţi tot</string>
     <string name="dialog_app_upgrade_download">Actualizați</string>
     <string name="dialog_app_upgrade_exit">Ieșiți</string>
-    <string name="dialog_app_upgrade_message">Este disponibilă o nouă versiune a Mi Mover. Actualizați Mi Mover acum?</string>
+    <string name="dialog_app_upgrade_message">Este disponibilă o nouă versiune a Mutare Mi. Actualizați Mutare Mi acum?</string>
     <string name="dialog_backup_password_auto_backup_tips">"Nu se pot face copii de rezervă în mod automat cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola."</string>
     <string name="dialog_backup_password_backup_tips">"Nu se pot face copii de rezervă cât timp parola pentru copiile de rezervă este activă. Dezactivați parola."</string>
     <string name="dialog_backup_password_cancel">Renunțați</string>
-    <string name="dialog_backup_password_change_device_restore_tips">"Nu se poate utiliza Mi Mover cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola."</string>
-    <string name="dialog_backup_password_change_machine_tips">"Nu veți putea transfera copiile de rezervă protejate cu parolă. Dezactivați parola înainte de a utiliza Mi Mover."</string>
+    <string name="dialog_backup_password_change_device_restore_tips">"Nu se poate utiliza Mutare Mi cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola."</string>
+    <string name="dialog_backup_password_change_machine_tips">"Nu veți putea transfera copiile de rezervă protejate cu parolă. Dezactivați parola înainte de a utiliza Mutare Mi."</string>
     <string name="dialog_backup_password_restore_tips">"Nu se pot restaura elementele cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola.."</string>
     <string name="dialog_backup_password_to_settings">Setări</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
@@ -214,7 +214,7 @@ Nu modificați și nu redenumiți fișierele."</string>
     <string name="gallery_summary">Setări pentru Galerie (nu include fotografile)</string>
     <string name="guarded_mode_dialog_backup_message">"Nu se pot crea copii de rezervă în modul Vizitator."</string>
     <string name="guarded_mode_dialog_title">"Modul Vizitator este activat"</string>
-    <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mi Mover în modul Vizitator."</string>
+    <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mutare Mi în modul Vizitator."</string>
     <string name="hide_password_description">Ascundeți parola</string>
     <string name="hsa_code_null">"Codul de verificare nu poate fi necompletat"</string>
     <string name="hsa_input_hint">Introduceți codul de verificare</string>
@@ -254,7 +254,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
     <string name="import_tip_summary">Datorită problemelor de compatibilitate, puteți transfera doar parțial date de pe dispozitivele iOS. Asigurați-vă că ați creat o copie de rezervă în iCloud înainte de a începe transferul.</string>
-    <string name="lack_perm_msg">Mi Mover solicită următoarele permisiuni: &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_msg">Mutare Mi solicită următoarele permisiuni: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisiuni necesare</string>
     <string name="list_footer_tip_title">Sfaturi:</string>
     <string name="loading_data">Se încarcă datele</string>
@@ -315,7 +315,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="mms_title">MMS</string>
     <string name="multi_select_title">%1$s selectate</string>
     <string name="multi_user_mode_backup_message">"Nu se poate utiliza aplicația de Creare copie de siguranță în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
-    <string name="multi_user_mode_dialog_message">"Nu se poate utiliza Mi Mover în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
+    <string name="multi_user_mode_dialog_message">"Nu se poate utiliza Mutare Mi în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_title">"Sunteți în modul Multi-user"</string>
     <string name="name_password_not_consistent">Numele de utilizator sau parola sunt incorecte</string>
     <string name="never">Niciodată</string>
@@ -546,12 +546,12 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_calculating_media_description">Fișiere media</string>
     <string name="trans_calculating_tip">Calculare %s…</string>
     <string name="trans_cancel_confirm">Transfer în desfășurare; opriți acum?</string>
-    <string name="trans_cancel_selection_message">Dacă părăsiți Mi Mover, transferul în derulare va fi întrerupt. Așteptați până la încheierea transferului.</string>
-    <string name="trans_cancel_selection_title">Rămâneți în Mi Mover</string>
+    <string name="trans_cancel_selection_message">Dacă părăsiți Mutare Mi, transferul în derulare va fi întrerupt. Așteptați până la încheierea transferului.</string>
+    <string name="trans_cancel_selection_title">Rămâneți în Mutare Mi</string>
     <string name="trans_cancelling">Oprire transfer…</string>
     <string name="trans_complete_restoring">Transfer încheiat cu succes. Se restaurează datele aplicațiilor…</string>
     <string name="trans_connect_failed_device_incompatible">"Dispozitivul nu este compatibil. Opriți transferul și încercați din nou."</string>
-    <string name="trans_connect_failed_message">"Nu s-a putut conecta; reîncercați mai târziu sau reporniți telefonul. Pe celălalt telefon accesați Setări &gt; Setări adiționale &gt; Mi Mover, apăsați [Sunt expeditor] sau lansați aplicația Mi Mover după repornirea telefonului"</string>
+    <string name="trans_connect_failed_message">"Nu s-a putut conecta; reîncercați mai târziu sau reporniți telefonul. Pe celălalt telefon accesați Setări &gt; Setări adiționale &gt; Mutare Mi, apăsați [Sunt expeditor] sau lansați aplicația Mi Mover după repornirea telefonului"</string>
     <string name="trans_connect_failed_title">"Nu s-a putut conecta"</string>
     <string name="trans_connect_failed_toast">"Nu s-a putut conecta"</string>
     <string name="trans_connecting_toast">Conectare…</string>
@@ -596,16 +596,16 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_install_guide_button_start">Start</string>
     <string name="trans_install_guide_page_title">Instalați Mi Mover pe vechiul telefon</string>
     <string name="trans_install_guide_scan_install_tip">"Scanați acest cod QR cu vechiul telefon
-pentru a descărca și instala Mi Mover."</string>
+pentru a descărca și instala Mutare Mi."</string>
     <string name="trans_install_guide_step1_content">Scanați codul QR cu vechiul telefon pentru a descărca și instala \"Mi Mover\".</string>
     <string name="trans_install_guide_step1_title">Pasul 1</string>
     <string name="trans_install_guide_step2_content">După ce instalarea este finalizată, atingeți butonul \"Start\" de mai jos.</string>
     <string name="trans_install_guide_step2_title">Pasul 2</string>
     <string name="trans_intro_desc_1">"Pe telefonul Xiaomi, conectați-vă la Wi-Fi și atingeți \"Sunt destinatar\". Selectați dispozitivul iOS, conectați-vă la iCloud și importați datele."</string>
     <string name="trans_intro_desc_10">Atingeți \"Conectare prin cod QR\" pe noul dispozitiv și scanați codul QR pentru a stabili conexiunea.</string>
-    <string name="trans_intro_desc_3">Opriți transferul, părăsiți Mi Mover și reluați procesul. Fișierele duplicate vor fi suprascrise pe durata noului transfer.</string>
+    <string name="trans_intro_desc_3">Opriți transferul, părăsiți Mutare Mi și reluați procesul. Fișierele duplicate vor fi suprascrise pe durata noului transfer.</string>
     <string name="trans_intro_desc_4">"Mi Mover utilizează Wi-Fi pentru a transfera fișierele. De aceea nu vă veți putea conecta la internet prin Wi-Fi pe niciunul dintre dispozitive pe durata transferului. Puteți utiliza totuși datele mobile. Unele telefoane mai noi(de exemplu Mi 6) se pot conecta la internet prin Wi-Fi pe durata transferului."</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover utilizează Wi-Fi pentru transferul fișierelor. De aceea nu vă puteți conecta la internet prin Wi-Fi de pe niciun dispozitiv pe durata transferului. Veți putea utiliza totuși datele mobile."</string>
+    <string name="trans_intro_desc_4_market">"Mutare Mi utilizează Wi-Fi pentru transferul fișierelor. De aceea nu vă puteți conecta la internet prin Wi-Fi de pe niciun dispozitiv pe durata transferului. Veți putea utiliza totuși datele mobile."</string>
     <string name="trans_intro_desc_5">Spațiul de stocare al vechiului telefon este utilizat pentru crearea pachetelor de transfer. Asigurați-vă că aveți cel puțin 500 MB - 1 GB spațiu disponibil pe vechiul telefon înainte de a începe transferul.</string>
     <string name="trans_intro_desc_6">Există unele motive pentru care acest lucru se poate întâmpla: probleme de compatibilitate a versiunii și a sistemului aplicaței, probleme de rețea, probleme de compatibilitate specifice unui dispozitiv, etc.</string>
     <string name="trans_intro_desc_7">Unele profiluri ale aplicațiilor (e-banking, financiare, etc.) sunt asociate cu unele dispozitive specifice din motive de securitate. Încercați să goliți datele aplicației sau să o reinstalați pe noul telefon.</string>
@@ -614,22 +614,22 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_intro_desc_9_method_1_title">1. Trimiteți feedback-ul dumneavoastră utilizând aplicația \"Raportare probleme\" .</string>
     <string name="trans_intro_desc_9_method_2_dec">Trimiteți feedback-ul pe adresa miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Trimiteți-ne un e-mail</string>
-    <string name="trans_intro_desc_9_method_3_dec">"Grupul QQ Mi Mover: 687338378"</string>
+    <string name="trans_intro_desc_9_method_3_dec">"Grupul QQ Mutare Mi: 687338378"</string>
     <string name="trans_intro_desc_9_method_3_title">3. Raportați problemele prin QQ</string>
     <string name="trans_intro_desc_account">Trebuie să vă conectați din nou la conturile dvs.(de ex. Contul Mi, Exchange, Google, etc.) pe un nou dispozitiv din motive de securitate.</string>
-    <string name="trans_intro_desc_gms">"Datorită probabilității ridicate de eșec al transferurilor cauzat de problemele de compatibilitate, Mi Mover nu suportă transferul datelor generate de către aplicațiile Google."</string>
-    <string name="trans_intro_desc_multiapp">"Mi Mover nu transferă datele Aplicațiilor clonate pentru a evita conflictele dintre fișiere."</string>
-    <string name="trans_intro_desc_multiuser">"Mi Mover nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul principal și lansați Mi Mover de acolo."</string>
+    <string name="trans_intro_desc_gms">"Datorită probabilității ridicate de eșec al transferurilor cauzat de problemele de compatibilitate, Mutare Mi nu suportă transferul datelor generate de către aplicațiile Google."</string>
+    <string name="trans_intro_desc_multiapp">"Mutare Mi nu transferă datele Aplicațiilor clonate pentru a evita conflictele dintre fișiere."</string>
+    <string name="trans_intro_desc_multiuser">"Mutare Mi nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul principal și lansați Mutare Mi de acolo."</string>
     <string name="trans_intro_desc_new">"Atingeți \"Sunt destinatar\". Va fi generat un cod QR."</string>
-    <string name="trans_intro_desc_old">"Atingeți \"Sunt expeditor\". Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege ce fișiere să trimită și apăsați \"Trimiteți\"."</string>
-    <string name="trans_intro_desc_old_market">Atingeți \"Start\". Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege fișierele de trimis și apăsați \"Trimiteți\".</string>
+    <string name="trans_intro_desc_old">"Atingeți \"Sunt expeditor\". Scanați codul QR cu noul telefon, așteptați până când Mutare Mi alege ce fișiere să trimită și apăsați \"Trimiteți\"."</string>
+    <string name="trans_intro_desc_old_market">Atingeți \"Start\". Scanați codul QR cu noul telefon, așteptați până când Mutare Mi alege fișierele de trimis și apăsați \"Trimiteți\".</string>
     <string name="trans_intro_desc_private">"Mi Mover nu poate accesa fotografiile din albumele ascunse deoarece sunt criptate. Puteți restaura aceste fotografii din Mi Cloud pe un nou dispozitiv."</string>
-    <string name="trans_intro_question_1">%d. Cum utilizez Mi Mover pentru a muta date de pe un dispozitiv iOS?</string>
+    <string name="trans_intro_question_1">%d. Cum utilizez Mutare Mi pentru a muta date de pe un dispozitiv iOS?</string>
     <string name="trans_intro_question_10">"%d. Nu ați reperat hotspotul pe vechiul dispozitiv?"</string>
     <string name="trans_intro_question_2">%d. Cum utilizez Mi Mover pentru a transfera date de pe un dispozitiv Android?</string>
-    <string name="trans_intro_question_3">%d. Ce trebuie să fac dacă Mi Mover se blochează la un anumit pas?</string>
+    <string name="trans_intro_question_3">%d. Ce trebuie să fac dacă Mutare Mi se blochează la un anumit pas?</string>
     <string name="trans_intro_question_4">"%d. De ce nu pot utiliza Wi-Fi-ul pe durata transferului?"</string>
-    <string name="trans_intro_question_5">"%d. De ce îmi spune Mi Mover că nu este spațiu de stocare suficient pe vechiul telefon?"</string>
+    <string name="trans_intro_question_5">"%d. De ce îmi spune Mutare Mi că nu este spațiu de stocare suficient pe vechiul telefon?"</string>
     <string name="trans_intro_question_6">"%d. De ce unele aplicații nu sunt transferate cu succes?"</string>
     <string name="trans_intro_question_7">"%d. De ce unele aplicații nu se pot lansa pe noul dispozitiv?"</string>
     <string name="trans_intro_question_8">"%d. De ce istoricul WeChat nu este transferat în totalitate?"</string>
@@ -647,19 +647,19 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_my_device">Dispozitivul meu</string>
     <string name="trans_native_no_space">"Nu există spațiu suficient pe vechiul telefon (%s disponibil).
 Eliberați spațiu de stocare sau transferați doar elementele importante"</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover are nevoie de spațiu de stocare pentru a împacheta datele transferate, dar se pare că nu există suficient spațiu disponibil pe vechiul telefon. Eliberați spațiu din \"Securitate\" sau transferați doar elementele importante."</string>
+    <string name="trans_old_phone_low_space_msg">"Mutare Mi are nevoie de spațiu de stocare pentru a împacheta datele transferate, dar se pare că nu există suficient spațiu disponibil pe vechiul telefon. Eliberați spațiu din \"Securitate\" sau transferați doar elementele importante."</string>
     <string name="trans_old_phone_low_space_title">Nu există suficient spațiu de stocare</string>
-    <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_open_camera_failed_message">Reporniți telefonul sau verificați dacă Mi Mover are permisiunea de a utiliza &lt;b&gt;Camera&lt;/b&gt;.</string>
+    <string name="trans_one_key_migrate">Mutare Mi</string>
+    <string name="trans_open_camera_failed_message">Reporniți telefonul sau verificați dacă Mutare Mi are permisiunea de a utiliza &lt;b&gt;Camera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Nu s-a putut conecta la Camera foto"</string>
     <string name="trans_open_location_button">Activați</string>
     <string name="trans_open_location_message">Activați serviciile de localizare pentru a obține lista rețelelor Wi-Fi disponibile.</string>
     <string name="trans_open_location_title">Activați serviciile de localizare</string>
     <string name="trans_operate_func_one">Metoda A</string>
     <string name="trans_operate_func_two">Metoda B</string>
-    <string name="trans_operate_new_phone_tips">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover
+    <string name="trans_operate_new_phone_tips">"Mergeți la Setări &gt; Setări adiționale &gt; Mutare Mi
 Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
-    <string name="trans_operate_old_phone_tips1">"1. Instalați aplicația Mi Mover pe vechiul dispozitiv
+    <string name="trans_operate_old_phone_tips1">"1. Instalați aplicația Mutare Mi pe vechiul dispozitiv
 2. Deschideți aplicația și apăsați Start
 3. Scanați codul QR cu vechiul telefon"</string>
     <string name="trans_operate_old_phone_tips2">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover, Apăsați [Sunt expeditor]"</string>
@@ -667,7 +667,7 @@ Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
 Apoi atingeți \"Reconectare\" pentru a crea codul QR."</string>
     <string name="trans_operate_reconnect_old_tips">"Așteptați până când vechiul telefon afișează \"Conexiunea a fost întreruptă\".
 Apoi atingeți \"Reconectare\" pentru a scana codul QR."</string>
-    <string name="trans_operate_tip_for_other_android">Deschideți Mi Mover pe vechiul telefon, atingeți \"Start\" și scanați codul QR de mai jos.</string>
+    <string name="trans_operate_tip_for_other_android">Deschideți Mutare Mi pe vechiul telefon, atingeți \"Start\" și scanați codul QR de mai jos.</string>
     <string name="trans_pausing">Oprire…</string>
     <string name="trans_please_waiting">Doar o secundă…</string>
     <string name="trans_progress_subdescript_br_receiver">Restabilire %1$s, %2$s completat</string>
@@ -691,8 +691,8 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_retry">Încercați din nou</string>
     <string name="trans_scan_invalid_qrcode">Cod QR incorect</string>
     <string name="trans_scan_qr_code_tips">Scanați codul QR utilizând noul dispozitiv</string>
-    <string name="trans_security_tips_message">"Este posibil ca unele aplicații să nu fie suportate de către Mi Mover."</string>
-    <string name="trans_security_tips_title">Compatibilitate Mi Mover</string>
+    <string name="trans_security_tips_message">"Este posibil ca unele aplicații să nu fie suportate de către Mutare Mi."</string>
+    <string name="trans_security_tips_title">Compatibilitate Mutare Mi</string>
     <string name="trans_select_data">Selectați datele de transferat</string>
     <string name="trans_select_data_no_space">"Nu există spațiu de stocare suficient pe noul dispozitiv
 Modificați fișierele selectate sau eliberați %s spațiu de stocare"</string>
@@ -704,7 +704,7 @@ Selectați doar elementele importante pentru a realiza transferul mai rapid."</s
     <string name="trans_select_device_receive">Selectați dispozitivul destinatar.</string>
     <string name="trans_select_device_send">Selectați dispozitivul de pe care doriți să transferați datele.</string>
     <string name="trans_select_notification_message">Atingeți pentru a vedea</string>
-    <string name="trans_select_notification_title">Mi Mover rulează…</string>
+    <string name="trans_select_notification_title">Mutare Mi rulează…</string>
     <string name="trans_sender">"Sunt expeditor"</string>
     <string name="trans_sender_connectting">Confirmați pe noul dispozitiv</string>
     <string name="trans_sender_searching">Căutare dispozitive noi</string>
@@ -721,9 +721,9 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_success_dialog_button_market_comment">Comentați</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Evaluați Mi Mover</string>
     <string name="trans_success_dialog_button_survey">Sondaj</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">"Sunteți gata de start! Spuneți-ne ce credeți despre Mi Mover."</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">"Sunteți gata de start! Spuneți-ne ce credeți despre Mutare Mi."</string>
     <string name="trans_success_dialog_market_comment_title">"Noul dumneavoastră telefon se simte ca acasă acum.
-V-a plăcut aplicația Mi Mover?"</string>
+V-a plăcut aplicația Mutare Mi?"</string>
     <string name="trans_success_dialog_survey_title">Apreciem feedback-ul dvs.</string>
     <string name="trans_success_survey_hint">Completați mai întâi toate câmpurile.</string>
     <string name="trans_switching_5g">Se comută la rețeaua Wi-Fi de 5GHz…</string>
@@ -733,9 +733,9 @@ Durată: %s"</string>
     <string name="trans_wait_trans_data">"Conectat la telefonul vechi.
 Se așteaptă transferul…"</string>
     <string name="trans_waiting_ensurance">"Asigurați-vă că vechiul dispozitiv este pornit
-și că aplicația Mi Mover rulează"</string>
+și că aplicația Mutare Mi rulează"</string>
     <string name="trans_waiting_for_sender">Se așteaptă conectarea vechiului dispozitiv…</string>
-    <string name="trans_wlan_tips_message">"Vă rugăm să nu opriți sau să comutați rețeaua Wi-Fi pe durata transferului. În caz contrar, Mi Mover nu va putea transfera datele."</string>
+    <string name="trans_wlan_tips_message">"Vă rugăm să nu opriți sau să comutați rețeaua Wi-Fi pe durata transferului. În caz contrar, Mutare Mi nu va putea transfera datele."</string>
     <string name="trans_wlan_tips_title">"Nu opriți Wi-Fi-ul"</string>
     <string name="unit_byte"> B</string>
     <string name="unknown_hint">Necunoscut</string>
@@ -758,7 +758,7 @@ Eliberați spațiu sau transferați doar elementele importante."</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_password_description">Afișează parola</string>
-    <string name="wait_link">"Deschideți aplicația Mi Mover pe vechiul telefon,
+    <string name="wait_link">"Deschideți aplicația Mutare Mi pe vechiul telefon,
 atingeți \"Sunt expeditor\" și selectați un hotspot la care să vă conectați.
 Nu părăsiți această pagină până nu se stabilește conexiunea."</string>
     <string name="waiting">Doar o secundă…</string>

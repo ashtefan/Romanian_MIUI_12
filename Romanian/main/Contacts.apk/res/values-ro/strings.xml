@@ -161,7 +161,7 @@
     <string name="callrecordview_menu_batch_delete">Ştergere în serie</string>
     <string name="callrecordview_menu_blocklist">Lista blocărilor</string>
     <string name="callrecordview_menu_conference">Conferință</string>
-    <string name="callrecordview_menu_delete">Ştergeţi istoricul apelurilor</string>
+    <string name="callrecordview_menu_delete">Ştergeţi</string>
     <string name="callrecordview_menu_delete_accepted">Ştergeţi apelurile preluate</string>
     <string name="callrecordview_menu_delete_all">Ştergeţi istoricul apelurilor</string>
     <string name="callrecordview_menu_delete_called">Ştergeţi apelurile efectuate</string>

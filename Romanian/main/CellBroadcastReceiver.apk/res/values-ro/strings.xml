@@ -26,8 +26,8 @@
     <string name="cb_menu_edit">Editați</string>
     <string name="cb_menu_tile">Operare canal</string>
     <string name="cb_other_message_identifiers">Mesaj de Alertă</string>
-    <string name="cell_broadcast_setting">Setări Cell Broadcast</string>
-    <string name="cell_broadcast_settings_not_available">Setările Cell Broadcast nu sunt disponibile pentru acest utilizator</string>
+    <string name="cell_broadcast_setting">Setări Transmisii Celulare</string>
+    <string name="cell_broadcast_settings_not_available">Setările pentru Transmisiile Celulare nu sunt disponibile pentru acest utilizator</string>
     <string name="channel_list">Listă canale</string>
     <string name="close_dialog">OK</string>
     <string name="cmas_amber_alert">Alertă de Urgență</string>
@@ -145,7 +145,7 @@
     <string name="ro_emergency_alert_dialog_title">RO-ALERT</string>
     <string name="show_cmas_opt_out_summary">Arată o fereatră de dialog după afișarea primei alerte CMAS (alta decât Alerta Prezidențială).</string>
     <string name="show_cmas_opt_out_title">Arată o fereastră de dialog</string>
-    <string name="sms_cb_settings">Setări Cell Broadcast</string>
+    <string name="sms_cb_settings">Setări Transmisii Celulare</string>
     <string name="test_alert">Test Alertă</string>
     <string name="test_alerts">Test Alerte</string>
     <string name="tw_alert_message">Mesaj Alertă</string>

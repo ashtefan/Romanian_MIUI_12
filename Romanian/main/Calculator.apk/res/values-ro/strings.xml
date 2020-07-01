@@ -260,7 +260,7 @@
     <string name="item_title_radix">Sistemul numeral</string>
     <string name="item_title_relationship">Grade de rudenie</string>
     <string name="item_title_scientific_calculator">Științific</string>
-    <string name="item_title_spilt_bill">Factură împărțită</string>
+    <string name="item_title_spilt_bill">Împărțire factură</string>
     <string name="item_title_tax">Taxe</string>
     <string name="item_title_temprature_conversion">Temperatură</string>
     <string name="item_title_time_conversion">Timp</string>
@@ -426,7 +426,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="name_is">Rezultat</string>
     <string name="name_of">Total</string>
     <string name="name_original">Prețul inițial</string>
-    <string name="name_people">Persoană</string>
+    <string name="name_people">Persoane</string>
     <string name="name_percentage">Procent (%)</string>
     <string name="name_price">Prețul final</string>
     <string name="name_save">"Ați economisit "</string>

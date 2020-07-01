@@ -265,7 +265,25 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="notification_show_more">Vedeți mai multe funcții</string>
     <string name="pm">PM</string>
     <string name="privacy_agree">De acord</string>
+    <string name="privacy_detail">&lt;Data&gt;Această aplicație trebuie să se conecteze la internet și să colecteze date personale solicitate pentru a putea funcționa în mod normal. Pentru a înțelege pe deplin drepturile dvs. în calitate de utilizator precum și modul în care utilizăm aceste date, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;Unele caracteristici sunt furnizate de către un furnizor de servicii terță parte HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de confidențialitate HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Declarația legală HappyCast&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="privacy_explain">"Bine ați venit în aplicația Proiectare! Aceasta vă permite să proiectați elementele de pe ecranul telefonului pe un monitor extern mai mare. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa în mod normal:"</string>
+    <string name="privacy_negative">Ieșiți</string>
+    <string name="privacy_permission_ble">Activarea și dezactivarea Bluetooth-ului</string>
+    <string name="privacy_permission_ble_desc">Pentru găsirea dispozitivelor disponibile din apropiere</string>
+    <string name="privacy_permission_location">Accesarea locației</string>
+    <string name="privacy_permission_location_desc">Pentru găsirea dispozitivelor disponibile din apropiere</string>
+    <string name="privacy_permission_necessary">Permisiuni necesare</string>
+    <string name="privacy_permission_necessary_desc">Aceste permisiuni sunt necesare pentru a face disponibile funcțiile și serviciile de bază ale acestei aplicații.</string>
     <string name="privacy_permission_nfc">NFC</string>
+    <string name="privacy_permission_nfc_desc">Pentru asocierea dispozitivelor prin NFC</string>
+    <string name="privacy_permission_optional">Permisiuni opționale</string>
+    <string name="privacy_permission_optional_desc">"Utilizate pentru caracteristicile adiționale în timp ce le folosiți"</string>
+    <string name="privacy_permission_wlan">Activarea și dezactivarea Wi-Fi</string>
+    <string name="privacy_permission_wlan_china">Activarea și dezactivarea Wi-Fi</string>
+    <string name="privacy_permission_wlan_desc">Pentru găsirea dispozitivelor disponibile din apropiere</string>
+    <string name="privacy_permission_wlan_desc_china">Pentru găsirea dispozitivelor disponibile din apropiere</string>
+    <string name="privacy_positive">De acord</string>
     <string name="privacy_text_1">&lt;Data&gt;Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern.
 Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%2$s&amp;gt;Declarația Legală HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate HappyCast&amp;lt;/a&amp;gt;.
 Pentru a putea funcționa în mod normal, această aplicație trebuie să se conecteze la internet și necesită acordarea următoarelor permisiuni pentru a colecta informațiile personale:"&lt;/Data&gt;</string>
@@ -275,6 +293,7 @@ Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;
 　　•Înregistrarea apelurilor și audio pentru a le putea proiecta pe dispozitive externe
 　　•Acces la numărul de telefon, IMEI și IMSI pentru a vă identifica dispozitivul
 　　•Acces la locație pentru a găsi dispozitivele din apropiere"</string>
+    <string name="privacy_title">Atenție</string>
     <string name="private_protect">Protejarea confidențialității</string>
     <string name="san_wait_msg_1">Activați proiectarea wireless pe dispozitivul țintă</string>
     <string name="san_wait_msg_2">Căutarea dispozitivelor poate dura ceva timp…</string>

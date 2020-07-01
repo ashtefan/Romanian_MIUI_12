@@ -322,6 +322,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="additional_system_update_menu" />
     <string name="additional_system_update_settings_list_item_title">Actualizări de sistem suplimentare</string>
     <string name="adjust_3d_depth_title">Ajustaţi adâncimea 3D în jocuri</string>
+    <string name="adjust_temperature_title">Temperatura de culoare</string>
     <string name="admin_device_owner_message">"Administratorul poate monitoriza și gestiona aplicațiile și datele asociate acestui dispozitiv, inclusiv setări, permisiuni, acces corporate, activitate în rețea și informații despre localizarea dispozitivului."</string>
     <string name="admin_disabled_other_options">Alte opțiuni sunt dezactivate de către administrator.</string>
     <string name="admin_more_details">Mai multe detalii</string>
@@ -331,6 +332,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="advanced_apps">Avansat</string>
     <string name="advanced_battery_graph_subtext">Nivelul disponibil al acumulatorului este o estimare bazată pe modul dvs. de utilizare a dispozitivului</string>
     <string name="advanced_battery_title">Utilizare avansată a acumulatorului</string>
+    <string name="advanced_screen_paper_mode_title">Mod Citire</string>
     <string name="advanced_section_header">Avansat</string>
     <string name="advanced_security_title">Avansat</string>
     <string name="advanced_settings">Setări adiționale</string>
@@ -612,6 +614,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="audio_files_title">Fișiere audio</string>
     <string name="audio_profile_settings_title">Profiluri audio</string>
     <string name="audio_record_proc_title">Anulare zgomot</string>
+    <string name="auto_adjst_effect_summary">Reglați automat temperatura culorilor în funcție de lumina ambientală pentru a menține un nivel optim de confort</string>
+    <string name="auto_adjust_effect_title">Reglați automat temperatura culorilor</string>
     <string name="auto_brightness_default_title">Implicit</string>
     <string name="auto_brightness_description">Iluminarea ecranului va fi ajustată în mod automat în funcție de mediul înconjurător și activități. Puteți muta manual cursorul pentru a ajuta iluminarea adaptivă să vă învețe preferințele.</string>
     <string name="auto_brightness_disclaimer">Optimizați nivelul de iluminare pentru lumina ambientă. Când această caracteristică este activată, puteți totuși ajusta temporar iluminarea.</string>
@@ -946,6 +950,9 @@ Aplicații:
     <string name="battery_used_by">%1$s utilizat de către %2$s</string>
     <string name="battery_used_for">Utilizat pentru ^1</string>
     <string name="bearer">Purtător</string>
+    <string name="beauty_camera">Înfrumusețare pentru apelurile video</string>
+    <string name="beauty_camera_summary">Utilizați Înfrumusețarea pentru apelurile video WeChat</string>
+    <string name="beauty_camera_switch">Înfrumusețare</string>
     <string name="billing_cycle">Ciclu plată</string>
     <string name="billing_cycle_fragment_summary">Lunar începând de %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Mai puțin de o zi rămas</string>
@@ -1254,13 +1261,13 @@ Selecție"</string>
     <string name="bluetooth_unlock_change_matched_device">Selectaţi alt dispozitiv</string>
     <string name="bluetooth_unlock_confirm_device_text">Atingeți dispozitivul Bluetooth pentru a confirma.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Atingeți butonul de pe ceasul inteligent pentru a debloca.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">confirmați pe dispozitive</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmați pe dispozitiv</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Atingeți butonul de pe dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_delete_device">Ştergeţi acest dispozitiv</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Ştergeţi acest dispozitiv?</string>
     <string name="bluetooth_unlock_device_matched_text">Utilizați acest dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Niciun dispozitiv detectat</string>
-    <string name="bluetooth_unlock_reject">dispozitivul de la distanță a respins solicitarea de deblocare</string>
+    <string name="bluetooth_unlock_reject">Solicitarea de deblocare a acestui dispozitiv a fost respinsă</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispozitiv</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicaţi la</string>
     <string name="bluetooth_unlock_settings_unlock_device">Deblocare dispozitiv</string>
@@ -1272,7 +1279,7 @@ Selecție"</string>
     <string name="bluetooth_unlock_title">Deblocaţi cu un dispozitiv Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Oprit</string>
     <string name="bluetooth_unlock_turned_on">Pornit</string>
-    <string name="bluetooth_unlock_unsupport">versiune nesuportată</string>
+    <string name="bluetooth_unlock_unsupport">Versiunea de firmware a acestui dispozitiv nu este suportată în prezent</string>
     <string name="bluetooth_unpair_dialog_body">Telefonul dvs nu va mai fi asociat cu %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Uitați dispozitivul</string>
     <string name="bluetooth_unpair_dialog_title">Uitați dispozitivul?</string>
@@ -1540,6 +1547,8 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="choose_unlock_face_msg">Setați o metodă de blocare a ecranului înainte de a înregistra datele faciale.</string>
     <string name="choose_unlock_fingerprint_msg">Setați o metodă de blocare a ecranului înainte de a adăuga amprenta.</string>
     <string name="choose_voice_input_title">Selectați intrarea vocală</string>
+    <string name="classic_mode_summary">Treceți la culori mai calde pentru a reduce cantitatea de lumină albastră</string>
+    <string name="classic_mode_title">Clasic</string>
     <string name="cleaner">Curăţare</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
     <string name="clear_activities_summary">Activaţi acest program pentru unele operaţiuni prestabilite</string>
@@ -2401,6 +2410,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="edge_to_edge_navigation_title">Navigare utilizând gesturi</string>
     <string name="edit_rule">Editați regulile</string>
     <string name="edit_rules">Editați</string>
+    <string name="effect_preview">Previzualizați</string>
     <string name="eighthours">8 ore</string>
     <string name="emergency_address_summary">Adresa utilizată de către serviciile de urgență ca și locație a dumneavoastră dacă apelați 112 prin Wi-Fi</string>
     <string name="emergency_address_title">Actualizați Adresa pentru Urgențe</string>
@@ -2585,7 +2595,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="ethernet_data_usage">Utilizare date ethernet</string>
     <string name="every_day">În fiecare zi</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="expandable_under_keyguard_title">Expandabilă în Blocarea securizată a ecranului</string>
+    <string name="expandable_under_keyguard_title">Expandabil în Blocarea securizată a ecranului</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="extended_power_menu">Meniu extins de repornire</string>
@@ -3096,6 +3106,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
 Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări."</string>
     <string name="high_power_prompt_title">Permiteți aplicației să ruleze în fundal?</string>
     <string name="high_power_system">Optimizarea acumulatorului nu este disponibilă</string>
+    <string name="hint_unadjustable_text">Nu se poate ajusta manual. Temperatura de culoare este acum ajustată în mod automat.</string>
     <string name="history_details_title">Detalii istoric</string>
     <string name="home">Setări Acasă</string>
     <string name="home_app">Lansator</string>
@@ -4808,6 +4819,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="page_layout_small_title">Foarte mic</string>
     <string name="page_tab_title_summary">Toate</string>
     <string name="page_tab_title_support">Suport</string>
+    <string name="paper_color_title">Culori</string>
     <string name="paper_mode_auto_twilight_summary">Comută la modul Lectură la apus în mod automat</string>
     <string name="paper_mode_auto_twilight_title">"Mod de citire seara"</string>
     <string name="paper_mode_customize_time_summary">Comută la modul Lectură pentru o anumită perioadă</string>
@@ -4817,8 +4829,12 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Renunțați</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Mergeți la Setări</string>
     <string name="paper_mode_get_location_dlg_title">Setați locația</string>
+    <string name="paper_mode_reset">Restaurați setările implicite</string>
     <string name="paper_mode_side_effect_hint">Intensitatea ridicată poate afecta modul în care este afișat conținutul.</string>
     <string name="paper_mode_start_time_title">Activați</string>
+    <string name="paper_mode_summary">Treceți la culori mai calde și adăugați textura hârtiei pe fundaluri pentru a reduce solicitarea ochilor</string>
+    <string name="paper_mode_title">Hârtie</string>
+    <string name="papger_effect_category">Mod</string>
     <string name="partial_connectivity_text">Unele aplicații și servicii pot să nu funcționeze datorită conectivității limitate. Utilizați oricum?</string>
     <string name="passpoint_content">%1$s credențiale</string>
     <string name="passpoint_label">Salvat prin</string>
@@ -5507,7 +5523,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen">Ecran</string>
     <string name="screen_cancel">Renunțați</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
-    <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Lectură"</string>
+    <string name="screen_color_and_optimize_disabled">Nu se poate ajusta schema și temperatura de culoare în modul Lectură</string>
     <string name="screen_color_temperature">Temperatură de culoare</string>
     <string name="screen_color_temperature_and_saturation">Temperatură de culoare şi saturaţie</string>
     <string name="screen_compatibility_label">Compatibilitate ecran</string>
@@ -5552,10 +5568,11 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_on_proximity_sensor_summary">Blocarea automată a telefonului atunci când este plasat în buzunar</string>
     <string name="screen_on_proximity_sensor_title">Prevenirea apelării în buzunar/poșetă</string>
     <string name="screen_optimize">Contrast</string>
-    <string name="screen_optimize_disabled">Nu se poate ajusta contrastul când modul Lectură este pornit</string>
+    <string name="screen_optimize_disabled">Nu se poate ajusta schema de culori în modul Lectură</string>
     <string name="screen_paper_mode_adjust_level">Ajustați</string>
     <string name="screen_paper_mode_apps_loading">Încărcare…</string>
     <string name="screen_paper_mode_apps_title">Utilizați Modul Lectură</string>
+    <string name="screen_paper_mode_description">Modul Lectură ajustează culorile și texturile articolelor de pe ecran, permițând ochilor să se relaxeze</string>
     <string name="screen_paper_mode_global_summary">Utilizați modul lectură pentru toate aplicaţiile</string>
     <string name="screen_paper_mode_global_title">Toate aplicaţiile</string>
     <string name="screen_paper_mode_hdr_toast">"Modul Citire va fi dezactivat când redați videoclipuri HDR. El se va reactiva în mod automat după încheierea redării."</string>
@@ -5577,6 +5594,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Conexiune internet</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizați lista aplicațiilor ce utilizează Modul Lectură în mod automat</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizare automată</string>
+    <string name="screen_paper_texture">Textură</string>
     <string name="screen_pinning_description">"Când este activată, puteți utiliza fixarea ecranului pentru a menține ecranul actual până la anularea fixării.
 
 Pentru a utiliza fixarea ecranului:
@@ -6062,6 +6080,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="set_data_warning">Setați avertizarea pentru date</string>
     <string name="set_jeejen_prompt_message">Jeejen va fi setat ca lansator implicit. Puteți modifica lansatorul implicit în Setări &gt; Setări de sistem &gt; Ecran principal și Recente &gt; Lansator implicit.</string>
     <string name="set_jeejen_prompt_title">Confirmați modificările</string>
+    <string name="set_screen_paper_mode">Mod Lectură</string>
     <string name="setting_privacy_password">Setați parola de protejare a confidențialității</string>
     <string name="settings_ad_loading">Încărcare…</string>
     <string name="settings_ad_loading_unavailable">A apărut o problemă în timpul încărcării.</string>
@@ -6869,6 +6888,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tethering_hardware_offload_summary">Se utilizează accelerarea hardware pentru tethering, dacă este disponibilă</string>
     <string name="tethering_help_button_text">Ajutor</string>
     <string name="tethering_settings_not_available">Modificați setările pentru tethering în Spațiul Principal</string>
+    <string name="texture_adjust_temperature_title">Temperatura de culoare</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Treziți Asistentul vocal în modul Ecran complet (fără butoane virtuale)</string>
     <string name="theme_customization_accent_color_title">Accentuare culori</string>
     <string name="theme_customization_category">Teme</string>
@@ -8220,6 +8240,8 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_type_approval_title">Omologare tip</string>
     <string name="wifi_unchanged">(neschimbate)</string>
     <string name="wifi_unmetered_label">Necontorizată</string>
+    <string name="wifi_unsaved_network_linking">SSID Bridging - Conectare automată</string>
+    <string name="wifi_unsaved_network_linking_summary">Activați încercările de conectare automată la un nou SSID WPA / WPA2-PSK de 5 GHz cu WPA / WPA2-PSK 2 credite SSID conectate SSID și BSSID parțial potrivite</string>
     <string name="wifi_unspecified">Vă rugăm selectați</string>
     <string name="wifi_update">Actualizare statistici</string>
     <string name="wifi_use_system_certs">Utilizați certificatele de sistem</string>
@@ -8258,6 +8280,8 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifi_wapi_psk_type">Tipul parolei</string>
     <string name="wifi_wapi_user_cert">Certificat utilizator</string>
     <string name="wifi_wapi_user_certificate">Certificat utilizator</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging - Comutare rapidă</string>
+    <string name="wifi_whitelist_roaming_summary">Activați roaming-ul între diferite AP-uri SSID WPA / WPA2-PSK cu aceeași adresă MAC de gateway</string>
     <string name="wifi_wps_available_first_item">WPS disponibil</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibil)"</string>
     <string name="wifi_wps_complete">Configurare WPS finalizată. Se conectează la reţea…</string>

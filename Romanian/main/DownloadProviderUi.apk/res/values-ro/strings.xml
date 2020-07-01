@@ -296,8 +296,8 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="period_of_validity">Perioada de valabilitate:</string>
     <string name="petabyteShort">PB</string>
     <string name="pref_download_revert_default">Salvați în locația prestabilită</string>
-    <string name="pref_download_settings_title">Descărcarea prin date mobile este restricționată</string>
-    <string name="pref_download_storage_path">Salvați într-o locație personalizată</string>
+    <string name="pref_download_settings_title">Restricții descărcare prin date mobile</string>
+    <string name="pref_download_storage_path">Locație personalizată</string>
     <string name="pref_sniff_shortcut">Crează o comandă rapidă pe ecranul principal pentru căutare web</string>
     <string name="pref_summary_any_bytes_popup">Se aşteaptă mereu conexiunea Wi-Fi pentru a descărca fişiere</string>
     <string name="pref_summary_enable_max_bytes_popup">Se afişează o notificare atunci când se utilizează conexiunea de date mobile pentru descărcarea conținutului</string>
