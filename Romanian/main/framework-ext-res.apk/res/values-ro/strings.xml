@@ -47,7 +47,7 @@
     <string name="confirm_cancel_task_images">Anulați trimiterea imaginilor către %1$s?</string>
     <string name="content_description_dial">Apel</string>
     <string name="content_description_next">Următorul</string>
-    <string name="content_description_previous">Anteriorul</string>
+    <string name="content_description_previous">Înapoi</string>
     <string name="content_description_search">Căutare</string>
     <string name="content_description_share">Partajare</string>
     <string name="content_description_translate">Traducere</string>

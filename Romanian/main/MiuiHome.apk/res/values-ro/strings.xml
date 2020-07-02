@@ -525,7 +525,7 @@
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
     <string name="starting_preset_app">Pornire…</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
-    <string name="status_bar_recent_memory_info1">%1$sB din %2$sB disponibili</string>
+    <string name="status_bar_recent_memory_info1">%1$s din %2$s disponibili</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Descărcate</string>

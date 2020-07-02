@@ -53,6 +53,14 @@
         <item quantity="other">%1$d comentarii în plus</item>
         <item quantity="one">%1$d comentariu în plus</item>
     </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s recompense</item>
+        <item quantity="one">%s recompensă</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s recompense</item>
+        <item quantity="one">%s recompensă</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">Cu %d ore în urmă</item>
         <item quantity="one">Cu %d oră în urmă</item>

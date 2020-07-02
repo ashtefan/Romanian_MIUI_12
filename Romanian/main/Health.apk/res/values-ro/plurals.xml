@@ -82,8 +82,8 @@
         <item quantity="one">%1$d secundă</item>
     </plurals>
     <plurals name="goal_format_with_unit">
-        <item quantity="other">Țintă: %1$d pași</item>
-        <item quantity="one">Țintă: %1$d pas</item>
+        <item quantity="other">Ținta: %1$d pași</item>
+        <item quantity="one">Ținta: %1$d pas</item>
     </plurals>
     <plurals name="goal_unit">
         <item quantity="other">" pași"</item>
