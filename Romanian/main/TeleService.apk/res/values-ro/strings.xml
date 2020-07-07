@@ -1372,7 +1372,7 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta în timpul unui apel</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>
     <string name="msim_setting_categery_title">Setările cartelei SIM</string>
-    <string name="msim_setting_default_data">Cartelă pentru date</string>
+    <string name="msim_setting_default_data">SIM pentru date</string>
     <string name="msim_setting_default_data_description">SIM date %d</string>
     <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
     <string name="msim_setting_default_voice_description">SIM %d pentru apeluri</string>
@@ -2184,7 +2184,7 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="vice_card_data_in_use_alert">Se pot genera taxe suplimentare pentru date.</string>
     <string name="vice_slot_volte_data_switch_prompt">Dispozitivul dumneavoastră se va conecta la o rețea de date mobile utilizând al doilea SIM pe durata apelurilor VoLTE efectuate. Acest lucru poate genera costuri suplimentare. Contactați operatorul local pentru a afla detalii despre planul dumneavoastră de date.</string>
     <string name="vice_slot_volte_data_switch_summary">În timpul apelurilor VoLTE, telefonul se va conecta la o rețea de date mobile utilizând al doilea SIM</string>
-    <string name="vice_slot_volte_data_switch_title">Utilizați datele mobile de pe al doilea SIM pe durata apelurilor VoLTE</string>
+    <string name="vice_slot_volte_data_switch_title">Utilizați datele mobile de pe SIM 2 pe durata apelurilor VoLTE</string>
     <string name="video_calling_settings_title">Apel video operator</string>
     <string name="vm_change_failed">"Nu s-a putut schimba numărul de mesagerie vocală.
 Contactaţi operatorul în cazul în care această problemă persistă."</string>

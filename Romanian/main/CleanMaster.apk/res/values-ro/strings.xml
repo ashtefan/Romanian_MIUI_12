@@ -563,7 +563,7 @@
     <string name="pref_category_title_other_clean_settings">Setări adiţionale</string>
     <string name="pref_content_cleanup_white_list_none">Nimic</string>
     <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
-    <string name="pref_summary_auto_update_cleanup_db">Actualizat %s</string>
+    <string name="pref_summary_auto_update_cleanup_db">Actualizat pe %s</string>
     <string name="pref_summary_cleanup_white_list">Se împiedică curățarea fișierelor selectate</string>
     <string name="pref_summary_expand_cache_group">Se afișează detaliile cache-ului în mod automat</string>
     <string name="pref_summary_garbage_auto_clean_content">Selectați ce elemente se vor curăța automat</string>
@@ -575,7 +575,7 @@
     <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
     <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>
     <string name="pref_title_choose_engine">Definiții</string>
-    <string name="pref_title_clean_alert">Memento cleaner</string>
+    <string name="pref_title_clean_alert">Memento curățare</string>
     <string name="pref_title_cleanup_white_list">Excepţii</string>
     <string name="pref_title_create_onekeyclean_shortcut">Afișează o scurtătură pe Ecranul principal</string>
     <string name="pref_title_expand_cache_group">Afişare elemente din memoria cache</string>

@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_confirm_text">
         <item quantity="other">Ștergeți %1$d înregistrări de ecran?</item>
-        <item quantity="one">Ștergeți %1$d această înregistrare de ecran?</item>
+        <item quantity="one">Ștergeți această înregistrare de ecran?</item>
     </plurals>
     <plurals name="home_title_selected">
         <item quantity="other">%1$d elemente selectate</item>

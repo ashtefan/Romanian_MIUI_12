@@ -1145,7 +1145,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="send_failed">Mesajul nu a fost trimis.</string>
     <string name="send_feed_back">Trimiteţi feedback</string>
     <string name="send_feed_back_keywords">trimiteţi feedback</string>
-    <string name="send_mail">Trimiteți</string>
+    <string name="send_mail">Trimit</string>
     <string name="sender_whitelist_cleared">Imaginile nu vor fi afișate în mod automat.</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Se trimite…</string>
