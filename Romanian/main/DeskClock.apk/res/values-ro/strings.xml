@@ -57,6 +57,7 @@
     <string name="alarmclock_silent_hint">Alarma este în modul silențios</string>
     <string name="alert">Ton de apel</string>
     <string name="alert_ringtone">Tonul alarmei</string>
+    <string name="alert_vibrate_enable_summary">Vibrează la declanșarea alarmei</string>
     <string name="alert_volume">Volumul alarmei</string>
     <string name="alert_volume_summary">Setați volumul tonului pentru alarme și temporizatoare</string>
     <string name="already_exist">Acest temporizator există deja</string>
@@ -312,6 +313,7 @@
     <string name="ringtone_digital_timer">Temporizator</string>
     <string name="ringtone_dream">Fantezie</string>
     <string name="ringtone_firefly">Licurici</string>
+    <string name="ringtone_more">Altul</string>
     <string name="ringtone_other">Mai multe sunete de apel</string>
     <string name="ringtone_weather">Alarma meteo</string>
     <string name="ringtone_week">Alarma naturală</string>

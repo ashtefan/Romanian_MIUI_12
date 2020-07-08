@@ -321,6 +321,10 @@
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="never_ask_again">Nu mai întreba din nou după restricționare</string>
     <string name="ok">OK</string>    
+    <string name="perm_action_allow">Permiteți</string>
+    <string name="perm_action_deny">Nu permiteți niciodată</string>
+    <string name="perm_modem_location">Accesul la locație</string>
+    <string name="perm_modem_location_desc">Operatorul dvs. încearcă să vă acceseze locația. Partajați informațiile despre localizare cu operatorul?</string>
     <string name="permdesc_camera">Realizarea de fotografii și înregistrarea de videoclipuri</string>
     <string name="permdesc_in_calls">Monitorizarea apelurilor primite</string>
     <string name="permdesc_location">Accesarea informațiilor despre locație</string>
