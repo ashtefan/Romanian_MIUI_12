@@ -386,6 +386,9 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
+    <string name="navigation_type_full_screen">Gesturi</string>
+    <string name="navigation_type_title">Navigare în sistem</string>
+    <string name="navigation_type_virtual_key">Butoane</string>
     <string name="no_detail_page">Nicio pagină cu detalii</string>
     <string name="no_space_toast">Spațiu insuficient</string>
     <string name="no_space_toast_when_click_widget">Nu există spațiu suficient pe această pagină. Încercați să trageți acest element pe altă pagină.</string>

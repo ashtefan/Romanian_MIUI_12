@@ -60,7 +60,7 @@ pentru a adăuga carduri"</string>
     <string name="altitude">Altitudine</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
-  <string name="app_name">SnailSleepSDK</string>
+  <string name="app_name">plugin.health.analyze</string>
     <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
     <string name="audio_permission_dialog_title">Acordați permisiunea de înregistrare audio</string>
     <string name="audio_record_perm_description">Înregistrarea sforăitului și a viselor pe durata somnului</string>
@@ -77,6 +77,8 @@ pentru a adăuga carduri"</string>
     <string name="avg_day">Medie</string>
     <string name="avg_finish_stand">Media zilnică</string>
     <string name="avg_heart_rate">Ritmul cardiac mediu</string>
+    <string name="avg_high_pressure">Media sistolică (superioară)</string>
+    <string name="avg_low_pressure">Media diasistolică (inferioară)</string>
     <string name="avg_steps">Pași zilnici</string>
     <string name="awake_count">V-ați trezit</string>
     <string name="awake_count_abnormal_description">V-ați trezit de multe ori peste noapte.</string>
@@ -105,6 +107,19 @@ pentru a adăuga carduri"</string>
     <string name="bg_control_dialog_msg">Economisirea acumulatorului va restricționa activitatea în fundal a aplicației Sănătate Xiaomi. Permiteți aplicației Sănătate Xiaomi să ruleze în fundal în permanență pentru a obține statistici precise.</string>
     <string name="bg_control_dialog_title">Restricții în fundal</string>
     <string name="birthday">Data nașterii</string>
+    <string name="blood_pressure">Presiunea arterială</string>
+    <string name="blood_pressure_format">%1$d-%2$d mmHg</string>
+    <string name="blood_pressure_high_tip">Presiune arterială ridicată: %1$s mmHg sistolică, %2$s mmHg diasistolică</string>
+    <string name="blood_pressure_low_tip">Presiune arterială scăzută: %1$s mmHg sistolică, %2$s mmHg diasistolică</string>
+    <string name="blood_pressure_measure_remind">Memento măsurare</string>
+    <string name="blood_pressure_measure_remind_tip">Primiți memento de măsurare a presiunii arteriale și nu uitați să notați rezultatele</string>
+    <string name="blood_pressure_noraml_tip">Presiune arterială normală: %1$s mmHg sistolică, %2$s mmHg diasistolică</string>
+    <string name="blood_pressure_notice_subtitle1">Nu uitați să înregistrați această măsurătoare</string>
+    <string name="blood_pressure_notice_subtitle2">Nu uitați să înregistrați această măsurătoare</string>
+    <string name="blood_pressure_notice_title1">Este timpul să vă măsurați presiunea arterială</string>
+    <string name="blood_pressure_notice_title2">Măsurați-vă presiunea arterială</string>
+    <string name="blood_pressure_unit">Milimetri coloană de mercur</string>
+    <string name="blood_pressure_unit_short">mmHg</string>
     <string name="blood_type">Grupa sanguină</string>
     <string name="blood_type_rh">Tipul Rh-ului</string>
     <string name="blood_type_select">%1$s</string>
@@ -114,6 +129,7 @@ pentru a adăuga carduri"</string>
     <string name="body_water">Apă</string>
     <string name="body_water_descripe_content">Procentul de apă din corp se referă la proporția apei din totalul greutății corpului uman. În mod normal, țesutul muscular conține mai multă apă decât alte părți ale corpului.</string>
     <string name="body_weight">Greutate</string>
+    <string name="body_weight_2fkg">%1$.2f Kg</string>
     <string name="body_weight_descripe_content">Indicele de masă corporală (IMC) înseamnă greutatea corpului împărțită la pătratul înălțimii (kg/㎡).</string>
     <string name="body_weight_extremely_obesity">Obezitate morbidă</string>
     <string name="body_weight_fkg">%1$.1f kg</string>
@@ -167,7 +183,7 @@ pentru a adăuga carduri"</string>
     <string name="confirm_opening">Activați</string>
     <string name="contact_format">%1$s | %2$s</string>
     <string name="contact_format2">"%1$s
-%2$s| %3$s"</string>
+%2$s | %3$s"</string>
     <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Pentru setarea contactelor de urgență</string>
     <string name="copy">Copiați</string>
@@ -178,9 +194,12 @@ pentru a adăuga carduri"</string>
     <string name="cumulative_decline">Pierderea în altitudine</string>
     <string name="cumulative_rise">Câștigul în altitudine</string>
     <string name="current_phone">Acest dispozitiv</string>
+    <string name="custom_scheme">Personalizată</string>
+    <string name="custom_scheme_tip">Setați ora și frecvența personalizată</string>
     <string name="cycle">Ciclism</string>
     <string name="daily_consumption_label">Calorii</string>
     <string name="daily_distance_label">Distanță</string>
+    <string name="daily_reminders">Memento zilnic</string>
     <string name="daily_steps">Pași</string>
     <string name="daily_time_label">Ora</string>
     <string name="data">Date</string>
@@ -317,13 +336,20 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_sure">OK</string>
     <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Sănătate Xiaomi! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza realizările dvs. în cloud.</string>
     <string name="dialog_user_agreement_purpose2">Bine ați venit în aplicația Sănătate Xiaomi. Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, serviciile Xiaomi Health Cloud și pentru alte funcții.</string>
+    <string name="diastolic_pressure">Diasistolică</string>
     <string name="disable">Oprit</string>
+    <string name="divider_format1">%1$s/%2$s</string>
+    <string name="divider_format2">%1$s-%2$s</string>
+    <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
     <string name="drag_sort">Rearanjați</string>
     <string name="dream_talk">Vorbire %1$s</string>
     <string name="dream_talk_record">Ați fost înregistrat vorbind în timp ce dormeați</string>
     <string name="dream_talk_title">Vorbire</string>
     <string name="drink_water">Beți puțină apă și faceți o plimbare.</string>
+    <string name="each_week_day_format1">În fiecare %1$s</string>
+    <string name="each_week_day_format2">În fiecare %1$s, %2$s și %3$s</string>
+    <string name="each_week_day_format3">În fiecare %1$s până %2$s</string>
     <string name="early">Devreme</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_aid_file">Editați</string>
@@ -341,6 +367,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="enter_mi_health">Deschideți Sănătate Xiaomi</string>
     <string name="equivalent_exercise">≈ plimbare de %1$s km (%2$s kcal)</string>
     <string name="evening">După amiază</string>
+    <string name="every_day">În fiecare zi</string>
     <string name="excessive">Prea mult</string>
     <string name="exercise">Activități</string>
     <string name="exercise_consume">%1$d Cal arse</string>
@@ -510,8 +537,10 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="health_score_tips">Scorul de sănătate este calculat pe baza IMC (indicele de masă corporală), dar și pe somn și pașii efectuați. Cu cât sunteți mai aproape de țintele propuse, cu atât scorul de sănătate este mai ridicat.</string>
     <string name="health_setting">Setări sănătate</string>
     <string name="high">Ridicat</string>
+    <string name="high2">Ridicată</string>
     <string name="high_intensity">Ridicat</string>
     <string name="high_intensity_description">Viteza respiratorie rapidă care vă permite să terminați fraze scurte</string>
+    <string name="high_pressure">Sistolică (superioară)</string>
     <string name="history_statistics">Statistici</string>
     <string name="home_page_card_setting">Carduri din pagina de pornire</string>
     <string name="home_tip_open_data_sync">Activați sincronizarea în cloud</string>
@@ -580,6 +609,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="low">Scăzut</string>
     <string name="low_intensity">Redus</string>
     <string name="low_intensity_description">Frecvența respiratorie regulată care vă permite să mențineți conversația</string>
+    <string name="low_pressure">Diasistolică (inferioară)</string>
     <string name="manage_home">Gestionați pagina de start</string>
     <string name="manual_add">Adăugați manual</string>
     <string name="manual_adjust">Ajustați</string>
@@ -592,9 +622,12 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="mark_start">Start</string>
     <string name="max_altitude">Cea mai mare altitudine</string>
     <string name="max_heart_rate">Cel mai mare ritm cardiac</string>
+    <string name="max_high_pressure">Max sistolică (superioară)</string>
+    <string name="max_low_pressure">Max diasistolică (inferioară)</string>
     <string name="maximum">Maxim</string>
     <string name="maximum_pace">Cel mai mare ritm</string>
     <string name="measure_date">Data măsurării</string>
+    <string name="measure_time">Ora măsurării</string>
     <string name="medical_file_desc1">Informații medicale importante esențiale pentru situațiile de urgență</string>
     <string name="medical_file_desc2">Înregistrați informațiile de bază despre sănătatea dvs. pentru a le putea prezenta furnizorilor de servicii medicale în caz de urgență.</string>
     <string name="medical_file_desc3">Sănătate Xiaomi vă respectă confidențialitatea și va stoca toate informațiile la nivel local fără a le colecta, depozita sau încărca în altă parte.</string>
@@ -632,8 +665,12 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="middle">Mediu</string>
     <string name="middle_intensity_description">Rata respiratorie mai rapidă care vă permite să terminați propozițiile</string>
     <string name="midnight">Noapte</string>
+    <string name="mild_abnormal">Stadiul 1 de hipertensiune</string>
+    <string name="mild_abnormal_tip">3 zile într-o săptămână după trezire și înainte de a merge la culcare</string>
     <string name="min_altitude">Cea mai mică altitudine</string>
     <string name="min_heart_rate">Cel mai mic ritm cardiac</string>
+    <string name="min_high_pressure">Min sistolică (superioară)</string>
+    <string name="min_low_pressure">Min diasistolică (inferioară)</string>
     <string name="min_pace">Cel mai mic ritm</string>
     <string name="minimum">Minim</string>
     <string name="minute">M</string>
@@ -649,6 +686,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="model_card_setting">Setări file</string>
+    <string name="moderately_abnormal">Stadiul 2 de hipertensiune</string>
+    <string name="moderately_abnormal_tip">În fiecare zi după trezire și înainte de culcare</string>
     <string name="modify">Editați</string>
     <string name="modify_contact">Editați</string>
     <string name="modify_end_date">Modificați data de încheiere</string>
@@ -724,6 +763,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="no_sport_delete">Ștergeți înregistrarea incorectă</string>
     <string name="noon">Amiază</string>
     <string name="normal">Normal</string>
+    <string name="normal2">Normală</string>
     <string name="not_achieve_stand_goals">Nu ați atins ținta propusă</string>
     <string name="not_added">Neadăugat</string>
     <string name="not_edit">Nesetat</string>
@@ -801,6 +841,9 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="reach_standard">Respectă standardele</string>
     <string name="recommand_body_weight_msg">Ținta recomandată pentru greutate: %1$.1f kg. Ajungeți la IMC %2$.1f pentru a reduce riscul de accident cardiovascular și boli de ficat.</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
+    <string name="record_blood_pressure">Înregistrați măsurătoarea</string>
+    <string name="record_blood_pressure_exception1">Nu s-a putut salva. Presiunea sistolică nu poate fi mai mică decât presiunea diasistolică.</string>
+    <string name="record_blood_pressure_exception2">Nu s-a putut salva. Parametri incorecți.</string>
     <string name="record_body_weight_button">Înregistrați greutatea</string>
     <string name="record_detail_page_title">Detalii</string>
     <string name="record_more">Înregistrați mai multe</string>
@@ -824,9 +867,14 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="remind_sleep_report_title">Statisticile despre somn sunt gata</string>
     <string name="remind_subtitle_menstruation_start">Primiți un memento cu 2 zile înainte de data preconizată de începere a ciclului următor</string>
     <string name="remind_subtitle_record">Primiți memento-uri când trebuie să înregistrați datele de început și de sfârșit ale ciclurilor</string>
+    <string name="remind_time">Amintește-mi la</string>
+    <string name="remind_time_index">Amintește-mi la (%1$d)</string>
     <string name="remind_title_menstruation_start">Memento despre data de început a ciclului</string>
     <string name="remind_title_record">Memento pentru înregistrare</string>
+    <string name="remind_weight_content">Vedeți cum a evoluat greutatea de la ultima cântărire</string>
+    <string name="remind_weight_title">Cântărire</string>
     <string name="remove">Eliminați</string>
+    <string name="repeat_mode">Repetați</string>
     <string name="retry">Încercați din nou</string>
     <string name="revert_to_default">Restaurați setările implicite</string>
     <string name="run">Alergare</string>
@@ -846,10 +894,12 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="sedentary_title">Memento mișcare</string>
     <string name="sedentary_toggle_content">Sănătate Xiaomi vă va aminti să vă ridicați și să faceți câțiva pași dacă nu vă mișcați pentru o perioadă lungă de timp.</string>
     <string name="sedentaty_hazard_description">Sedentarismul cauzează multe probleme de sănătate. O perioadă de 12 ore în care aveți pauze în care vă ridicați, vă va ajuta să evitați riscul unei vieți sedentare.</string>
+    <string name="select_exercise_intensity">Selectați intensitatea</string>
     <string name="select_exercise_type">Selectați tipul exercițiului</string>
     <string name="select_menstruation_end_date">Selectați data de încheiere a acestui ciclu</string>
     <string name="select_null">Neselectat</string>
     <string name="select_recog_question">Selectați acțiunea</string>
+    <string name="select_swim_posture">Selectați stilul</string>
     <string name="select_target">Selectați Ținta</string>
     <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
     <string name="sending">Se trimite…</string>
@@ -863,6 +913,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="setting_sedentary_off">OPRIT</string>
     <string name="setting_sedentary_on">PORNIT</string>
     <string name="setting_sedentary_title">Memento mișcare</string>
+    <string name="severe_abnormal">Crize hipertensive</string>
+    <string name="severe_abnormal_tip">În fiecare zi după trezire, după masă și înainte de a merge la culcare</string>
     <string name="share">Partajați</string>
     <string name="skip">Omiteți</string>
     <string name="sleep">Somn</string>
@@ -976,6 +1028,7 @@ despre somn"</string>
     <string name="sleep_turn_over_times_title">Activat</string>
     <string name="sleep_week">Săptămână</string>
     <string name="slow">Încet</string>
+    <string name="slow2">Înceată</string>
     <string name="snore">Sforăit</string>
     <string name="snore_detection_abnormal_notification_button">Reluați</string>
     <string name="snore_detection_abnormal_notification_content">Nu se poate utiliza microfonul</string>
@@ -1094,6 +1147,7 @@ despre somn"</string>
     <string name="sync_status_network_failure">Nu s-a putut sincroniza. Conectați-vă la rețea și încercați din nou</string>
     <string name="sync_status_never_done">Nesincronizate</string>
     <string name="sync_status_oauth_error">Nu s-au putut sincroniza datele. Acordați permisiunile necesare mai întâi</string>
+    <string name="systolic_pressure">Sistolică</string>
     <string name="tb_audio_progress_bar">Bară redare audio</string>
     <string name="tb_card_on_using_list">Adăugată</string>
     <string name="tb_click_finish_stand">Se pare că nu v-ați ridicat în ultima oră. Dacă v-ați ridicat, adăugați manual o înregistrare.</string>
@@ -1152,6 +1206,8 @@ despre somn"</string>
     <string name="tb_go_next_a_day">Ziua anterioară</string>
     <string name="tb_go_on_detection">Reluați</string>
     <string name="tb_has_snore_dream_talk">S-a detectat sforâit și vorbit în somn</string>
+    <string name="tb_home_blood_pressure_card">Presiunea arterială. Sistolică: %1$d. Diasistolică: %2$d. Înregistrată: %3$s. Starea: %4$s.</string>
+    <string name="tb_home_blood_pressure_card_no_data">Presiunea arterială. Nu există date.</string>
     <string name="tb_home_exercise_card_finish">Exerciții. %1$s. Finalizat: %2$s. Ținta: %3$s. Finalizat: %4$s.</string>
     <string name="tb_home_exercise_card_not_set_goal">Exerciții. %1$s. Finalizat: %2$s. Deschideți ținta.</string>
     <string name="tb_home_exercise_card_not_supported_step">Exerciții. Acest dispozitiv nu poate număra pașii.</string>
@@ -1351,7 +1407,10 @@ Actualizați acum?"</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="weight_height_weight_bmi">Indexul masei corporale</string>
-    <string name="weight_keep_up">Minunat! Continuați să vă mențineți o greutate optimă.</string>
+    <string name="weight_keep_up">Minunat! Continuați să vă mențineți greutatea optimă.</string>
+    <string name="weight_notice">Notificări greutate</string>
+    <string name="weight_remind">Memento-uri cântărire</string>
+    <string name="weight_setting">Setări pentru greutatea corporală</string>
     <string name="weight_trend_offset_date">"De la %1$s la %2$s: "</string>
     <string name="weight_unit_kg">Kg</string>
     <string name="welcome_exercise">Monitorizați exercițiile</string>

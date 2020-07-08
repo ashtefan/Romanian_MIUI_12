@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="account_other">Altul</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
@@ -34,6 +35,9 @@
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">Se proiectează…</string>
+    <string name="close_hotspot_hint">Dezactivați hotspot-ul portabil înainte de proiectare</string>
+    <string name="close_slave_wifi_hint">Deconectați-vă de la rețelele Wi-Fi auxiliare înainte de proiectare</string>
+    <string name="close_slave_wifi_hint_china">Deconectați-vă de la rețelele Wi-Fi auxiliare înainte de proiectare</string>
     <string name="console_guide_btn_got_it">Am înțeles</string>
     <string name="console_guide_subtitle_hang_up">Nu se întrerupe proiectarea când se închide ecranul telefonului. Această funcție poate crește consumul de energie.</string>
     <string name="console_guide_subtitle_private">Nu se proiectează notificări plutitoare, notificări pentru apelurile primite și alte elemente care pot conține informații personale</string>
@@ -70,6 +74,7 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="dialog_show_help">Ajutor</string>
     <string name="disconnect">Opriți proiectarea</string>
     <string name="early_morning">AM</string>
+    <string name="enable_screen_projection_summary">Proiectați conținutul de pe ecran pe un monitor extern</string>
     <string name="evening">PM</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -205,6 +210,8 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_55_global">"Dacă nu vă puteți conecta la rețea, asigurați-vă că dispozitivul extern (de ex. televizorul) suportă funcția Miracast și că aceasta este activă. La unele modele, această funcție este numită Wireless Display, Oglindire Ecran sau Ecrane multiple.
 4. În cazul în care întâmpinați probleme, le puteți raporta prin intermediul aplicației \"Servicii și feedback\"."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
+    <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
+  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="midnight">AM</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
@@ -263,6 +270,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="noon">PM</string>
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
     <string name="notification_show_more">Vedeți mai multe funcții</string>
+    <string name="open_game_accelerate">Activați Jocuri Turbo</string>
     <string name="pm">PM</string>
     <string name="privacy_agree">De acord</string>
     <string name="privacy_detail">&lt;Data&gt;Această aplicație trebuie să se conecteze la internet și să colecteze date personale solicitate pentru a putea funcționa în mod normal. Pentru a înțelege pe deplin drepturile dvs. în calitate de utilizator precum și modul în care utilizăm aceste date, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -302,6 +310,24 @@ Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="screen_projection">Proiectați</string>
+    <string name="screen_projection_characteristics">Funcții speciale</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puteți continua să proiectați când ecranul telefonului este închis. Această caracteristică crește consumul de energie.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Proiectare cu ecranul oprit</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">Nu afișa notificările plutitoare, apelurile primite și alte elemente private pe monitoarele externe.</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Ascunde elementele private</string>
+    <string name="screen_projection_characteristics_small_window_summary">Minimizează fereastra care se proiectează pentru a putea utiliza celelalte funcții ale telefonului.</string>
+    <string name="screen_projection_characteristics_small_window_title">Minimizează fereastra</string>
+    <string name="screen_projection_example_document_summary">Afișează prezentările pe un monitor extern în timp ce utilizați telefonul pentru a comuta slidurile și pentru a vedea notițele. Mergeți la Gestionare fișiere>Documente pentru a încerca această funcție.</string>
+    <string name="screen_projection_example_document_title">Documente</string>
+    <string name="screen_projection_example_gallery_summary">Atingeți butonul Partajare de sub un element din aplicația Galerie pentru a-l afișa pe un monitor extern.</string>
+    <string name="screen_projection_example_gallery_title">Fotografii și videoclipuri</string>
+    <string name="screen_projection_example_game_summary">Jocuri Turbo vă permite să proiectați jocurile pe un monitor extern. Utilizați scurtătura din cutia cu unelte din Jocuri Turbo pentru a activa această funcție.</string>
+    <string name="screen_projection_example_game_title">Jocuri</string>
+    <string name="screen_projection_help">Ajutor</string>
+    <string name="screen_projection_sample_summary">Proiectarea documentelor, a jocurilor, fotografiilor și a videoclipurilor</string>
+    <string name="screen_projection_sample_title">Demonstrații</string>
+    <string name="screen_projection_title">Proiectați</string>
     <string name="sdk_name">lebo</string>
     <string name="search_menu_title">Căutați</string>
     <string name="small_window">Minimizați fereastra</string>

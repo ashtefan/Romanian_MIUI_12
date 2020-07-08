@@ -2,7 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
-    <string name="abc_action_menu_overflow_description">Mai multe</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
     <string name="abc_action_mode_done">Finalizat</string>
     <string name="abc_action_mode_select_all">Selectați tot</string>
     <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
@@ -431,6 +431,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exit_fullscreen">Părăsiți modul ecran complet</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
     <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_hide">Ascundeți controalele player-ului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
     <string name="exo_controls_pause_description">Pauză</string>
     <string name="exo_controls_play_description">Redă</string>
@@ -439,8 +440,11 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exo_controls_repeat_off_description">Nu repeta nimic</string>
     <string name="exo_controls_repeat_one_description">Repetă una</string>
     <string name="exo_controls_rewind_description">Derulează înapoi</string>
-    <string name="exo_controls_shuffle_description">Amestecă</string>
+    <string name="exo_controls_show">Afișează controalele player-ului</string>
+    <string name="exo_controls_shuffle_off_description">Amestecare oprită</string>
+    <string name="exo_controls_shuffle_on_description">Amestecare pornită</string>
     <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_vr_description">Mod VR</string>
     <string name="exo_download_completed">Descărcare finalizată</string>
     <string name="exo_download_description">Descărcați</string>
     <string name="exo_download_downloading">Se descarcă</string>
@@ -451,6 +455,10 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternează</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentariu</string>
+    <string name="exo_track_role_supplementary">Suplimentar</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciunul</string>
     <string name="exo_track_selection_title_audio">Audio</string>

@@ -171,6 +171,20 @@
         <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
         <item>2018 Physical Activity Guidelines Advisory Committee Submits Scientific Report</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Lun, Mie, Vin</item>
+        <item>Mar, Joi, Sâm</item>
+        <item>Mie, Vin, Dum</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>În fiecare Luni</item>
+        <item>În fiecare Marți</item>
+        <item>În fiecare Miercuri</item>
+        <item>În fiecare Joi</item>
+        <item>În fiecare Vineri</item>
+        <item>În fiecare Sâmbătă</item>
+        <item>În fiecare Duminică</item>
+    </string-array>
     <string-array name="rh_blood_array">
         <item>Nesetat</item>
         <item>Negativ</item>

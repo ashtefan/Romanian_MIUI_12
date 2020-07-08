@@ -116,6 +116,10 @@
         <item quantity="other">În %1$d zile</item>
         <item quantity="one">În %1$d zi</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s sarcini</item>
+        <item quantity="one">%1$s sarcină</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d caractere</item>
         <item quantity="one">%d caracter</item>

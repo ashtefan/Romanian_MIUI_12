@@ -67,6 +67,7 @@
     <string name="check_in_todo_app">Vedeți sarcinile</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="cloud_service_state_open_reminder">Activați sincronizarea în cloud pentru a sincroniza notițele.</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Activați sincronizarea în cloud</string>
     <string name="cloud_trash_bin_title">Notițe din cloud șterse</string>
     <string name="confirm_cancel">"Nu sunt de acord"</string>
     <string name="confirm_ok">De acord</string>
@@ -77,6 +78,7 @@
     <string name="cta_dialog_message">Aplicația de Notițe necesită permisiunile de conectare la internet, înregistrare audio și acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
     <string name="cta_dialog_title">Permisiuni necesare</string>
     <string name="cta_reminder">Aplicația de Notițe trebuie să aibă permisiunea de a se conecta la internet, de înregistrare audio și de acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
+    <string name="cta_v2_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare menționate mai jos.</string>
     <string name="cta_v2_app_purpose">Crearea, vizualizarea și gestionarea notițelor</string>
     <string name="cta_v2_app_purpose_v12">Bine ați venit în aplicația Note! Puteți utiliza această aplicație pentru a crea sarcini și notițe ce conțin text, imagini și elemente audio.</string>
     <string name="data_empty_note">Nicio notiță aici deocamdată</string>
@@ -452,6 +454,10 @@
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="sync_all_terms">%1$s, %2$s și %3$s</string>
+    <string name="sync_folder_todo">%1$s și %2$s</string>
+    <string name="sync_note_folder">%1$s și %2$s</string>
+    <string name="sync_note_todo">%1$s și %2$s</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele în cloud.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
