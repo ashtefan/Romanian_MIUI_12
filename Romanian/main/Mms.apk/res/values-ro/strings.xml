@@ -34,6 +34,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activity_not_found">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
     <string name="activity_not_found_uri">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
+    <string name="ad_close_button_text">Promoțional</string>
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>

@@ -212,6 +212,7 @@
     <string name="info_flow_only_load_wifi">Încarcă sursele recomandate doar în Wi-Fi</string>
     <string name="info_flow_setting">Setări conținut</string>
     <string name="info_flow_show">Arată conținutul recomandat</string>
+    <string name="info_rank_show">Recomandă elemente populare</string>
     <string name="input_valid_address">Introduceţi calea fişierului</string>
     <string name="install">Instalaţi</string>
     <string name="install_failed">"Nu s-a putut instala %1$s"</string>

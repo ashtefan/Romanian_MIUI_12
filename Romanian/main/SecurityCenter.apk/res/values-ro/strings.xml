@@ -230,6 +230,10 @@
     <string name="app_behavior_location_bg">%1s v-a accesat locația în fundal</string>
     <string name="app_behavior_location_bg_single">Această aplicație v-a accesat locația în fundal</string>
     <string name="app_behavior_location_single">Această aplicație v-a accesat locația</string>
+    <string name="app_behavior_media_volume">%1s a ajustat volumul multimedia</string>
+    <string name="app_behavior_media_volume_bg">%1s a ajustat volumul multimedia în fundal</string>
+    <string name="app_behavior_media_volume_bg_single">Această aplicație a ajustat volumul multimedia în fundal</string>
+    <string name="app_behavior_media_volume_single">Această aplicație a ajustat volumul multimedia</string>
     <string name="app_behavior_menu_about">Despre înregistrarea comportamentului aplicațiilor</string>
     <string name="app_behavior_monitor_off">Se opresc notificările</string>
     <string name="app_behavior_monitor_off_content">Nu veți putea primi notificări despre acțiunile senzitive realizate de către această aplicație. Dezactivați notificările oricum?</string>
