@@ -56,11 +56,11 @@
     <string-array name="animator_duration_scale_entries">
         <item>Animație oprită</item>
         <item>Animație la scara 0,5x</item>
-        <item>Animație la scara  1x</item>
-        <item>Animație la scara  1,5x</item>
-        <item>Animație la scara  2x</item>
-        <item>Animație la scara  5x</item>
-        <item>Animație la scara  10x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
     </string-array>
     <string-array name="ap_identify">
         <item>Implicit</item>
@@ -323,9 +323,9 @@
         <item>Latență lungă</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Latență scurtă (50~100ms)</item>
-        <item>Latență medie (150~200ms)</item>
-        <item>Latență lungă (300~500ms)</item>
+        <item>Latență scurtă (50~100 ms)</item>
+        <item>Latență medie (150~200 ms)</item>
+        <item>Latență lungă (300~500 ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>Optimizat pentru latență redusă</item>
@@ -335,10 +335,10 @@
         <item>Cea mai bună (Bit Rate automat)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimizat pentru latență redusă (256kbps)</item>
-        <item>Optimizat pentru calitate conexiune (400kbps)</item>
-        <item>Calitate echilibrată audio și conexiune (500/560kbps)</item>
-        <item>Optimizat pentru calitate audio (900kbps)</item>
+        <item>Optimizat pentru latență redusă (256 kbps)</item>
+        <item>Optimizat pentru calitate conexiune (400 kbps)</item>
+        <item>Calitate echilibrată audio și conexiune (500/560 kbps)</item>
+        <item>Optimizat pentru calitate audio (900 kbps)</item>
         <item>Cea mai bună (Bit Rate automat)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
@@ -457,8 +457,8 @@
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Prestabilit</item>
-        <item>Sans Serif</item>
-        <item>Sans Serif condensat</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensat</item>
         <item>Sans-serif monospace</item>
         <item>Serif</item>
         <item>Serif monospace</item>
@@ -1589,7 +1589,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>简体中文</item>
         <item>繁體中文 (台灣)</item>
         <item>繁體中文 (香港)</item>
-        <item>Spaniolă (América)</item>
+        <item>Spaniolă (America)</item>
         <item>Portugheză (Brazilia)</item>
     </string-array>
     <string-array name="startup_hips_action">
@@ -1635,7 +1635,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
         <item>Se ajustează culorile în funcție de iluminarea curentă</item>
-        <item>Se intensifică culorile întotdeauna</item>
+        <item>Se intensifică întotdeauna culorile</item>
         <item>Se restaurează culoarea standard a conținutului ecranului cu calibrarea culorii</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
@@ -1677,7 +1677,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="usb_configuration_titles">
         <item>Încărcare</item>
         <item>MTP (Protocol de Transfer Multimedia)</item>
-        <item>PTP (Protocol de Transfer Fotografiil)</item>
+        <item>PTP (Protocol de Transfer Fotografii)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Sursă Audio</item>
         <item>MIDI</item>

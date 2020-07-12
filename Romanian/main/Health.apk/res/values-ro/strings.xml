@@ -404,7 +404,7 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="exercise_recog_confirm_ridding">Unde ați mers cu bicicleta între %1$s și %2$s?</string>
     <string name="exercise_recog_confirm_run">Unde ați alergat între %1$s și %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">Unde ați urcat trepte între %1$s și %2$s?</string>
-    <string name="exercise_recog_confirm_walk">Pe unde v-ați plimbat între %1$s și %2$s?</string>
+    <string name="exercise_recog_confirm_walk">V-ați plimbat între %1$s și %2$s?</string>
     <string name="exercise_record">Istoricul exercițiilor</string>
     <string name="exercise_record_no_data">Niciun element aici încă</string>
     <string name="exercise_reminder_accomplished">Ați atins ținta de activități!</string>
@@ -436,7 +436,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="fewer">Redus</string>
     <string name="finish">Finalizați</string>
     <string name="finish_stand">Da</string>
-    <string name="finished_rate">Finalizat %1$d%%</string>
+    <string name="finished_rate">Realizat %1$d%%</string>
   <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -454,8 +454,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="fmt_date_short_month_day">dd.MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
+    <string name="fmt_date_time">T D</string>
+    <string name="fmt_date_time_timezone">T zD</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
@@ -481,12 +481,12 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
+    <string name="fmt_weekday_date_time">T DW</string>
+    <string name="fmt_weekday_date_time_timezone">T zDW</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time">T W</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">Utilizați aceste informații doar pentru diagnoză.</string>
@@ -673,7 +673,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="min_low_pressure">Min diasistolică (inferioară)</string>
     <string name="min_pace">Cel mai mic ritm</string>
     <string name="minimum">Minim</string>
-    <string name="minute">M</string>
+    <string name="minute">m</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
@@ -1134,7 +1134,7 @@ despre somn"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="sustain_title">"Nu v-ați mișcat de "</string>
+    <string name="sustain_title">"Nu v-ați mișcat timp de "</string>
     <string name="swim">Înot</string>
     <string name="swim_type">Stil</string>
     <string name="sync_immediately">Sincronizați</string>
@@ -1401,7 +1401,7 @@ Actualizați acum?"</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="value_error_correct">Editați înregistrarea</string>
     <string name="visceral_fat">Grăsime viscerală</string>
-    <string name="visceral_fat_descripe_content">GrăsimeA viscerală este esențială pentru stabilizarea și protejarea organelor interne. Totuși, grăsimea viscerală ridicată crește riscul bolilor cardiovasculare și metabolice.</string>
+    <string name="visceral_fat_descripe_content">Grăsimead viscerală este esențială pentru stabilizarea și protejarea organelor interne. Totuși, grăsimea viscerală ridicată crește riscul bolilor cardiovasculare și metabolice.</string>
     <string name="walk">Mers</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

@@ -30,8 +30,8 @@
         <item quantity="one">cu un minut în urmă</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sore %2$s"</item>
-        <item quantity="one">" %1$soră %2$s"</item>
+        <item quantity="other">" %1$s ore %2$s"</item>
+        <item quantity="one">" %1$s oră %2$s"</item>
     </plurals>
     <plurals name="count_selected">
         <item quantity="other">Au fost selectate %d elemente</item>

@@ -20,7 +20,7 @@
     <string-array name="battery_options">
         <item>Arată întotdeauna procentul</item>
         <item>Arată procentajul când se încarcă (implicit)</item>
-        <item>"Nu afișa această pictogramă"</item>
+        <item>Nu afișa această pictogramă</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
@@ -58,17 +58,17 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
@@ -134,7 +134,7 @@
     <string-array name="clock_options">
         <item>Afișează ora, minutul și secundele</item>
         <item>Afișează ora și minutul (implicit)</item>
-        <item>"Nu afișa această pictogramă"</item>
+        <item>Nu afișa această pictogramă</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Culori accentuate</item>
@@ -230,13 +230,13 @@
         <item>4 MB per jurnal tampon</item>
         <item>16 MB per jurnal tampon</item>
     </string-array>
-    <string-array name="select_logd_system_levels">
+    <string-array name="select_logd_size_titles">
         <item>Oprit</item>
-        <item>Eroare</item>
-        <item>Avertizare</item>
-        <item>Info</item>
-        <item>Depanare</item>
-        <item>Prolix</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Oprit</item>

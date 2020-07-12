@@ -149,6 +149,10 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="dialog_tip_upgrade_title">Actualizați Mi Mover</string>
     <string name="dialog_version_summary_tip">Ce este nou:</string>
     <string name="dialog_version_title_tip">Este disponibilă o actualizare</string>
+    <string name="dialog_wechat_data_transfer_fail_button">Am înțeles</string>
+    <string name="dialog_wechat_data_transfer_fail_message">"Nu s-au putut transfera datele aplicației și istoricul conversațiilor WeChat datorită restricțiilor aplicației. Încercați să utilizați funcția încorporată de creare a unei copii de rezervă.
+Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă și transfer conversații."</string>
+    <string name="dialog_wechat_data_transfer_fail_title">Nu s-au putut transfera datele aplicației WeChat</string>
     <string name="do_not_restore_temporarily">Nu acum</string>
     <string name="document">Documente</string>
     <string name="early_morning">AM</string>
@@ -541,6 +545,7 @@ Datele care nu au fost importate trebuie să fie importate din nou."</string>
 Eliberați cel puțin %s."</string>
     <string name="scan_soft_ap_label">Conectați-vă la noul dispozitiv</string>
     <string name="scanner_bottom_tip">Selectați numai elemente importante pentru a face transferul mai rapid.</string>
+    <string name="scanner_not_support_data_transfer_tip">Nu se pot transfera datele aplicației (inclusiv istoricul conversațiilor WeChat și QQ) de pe dispozitive non-Xiaomi.</string>
     <string name="scanner_permission_alert_cancel">Am înțeles</string>
     <string name="scanner_permission_alert_ok">Setări</string>
     <string name="scanner_quit_alert_btn_negative">Părăsiți</string>

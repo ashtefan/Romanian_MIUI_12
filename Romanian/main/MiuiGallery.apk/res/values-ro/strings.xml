@@ -278,6 +278,13 @@
     <string name="burst_save_choice_title" formatted="false">S-au selectat %d din %d</string>
     <string name="burst_save_error_msg">"Nu s-au putut salva"</string>
     <string name="burst_save_processing">Se procesează…</string>
+    <string name="burst_save_video">Salvați ca videoclip</string>
+    <string name="burst_save_video_choice_1080">%dp</string>
+    <string name="burst_save_video_choice_4k">%dK</string>
+    <string name="burst_save_video_choice_720">%dp</string>
+    <string name="burst_save_video_fail">Nu s-a putut salva</string>
+    <string name="burst_save_video_progerss">Se crează videoclipul…</string>
+    <string name="burst_save_video_title">Rezoluție videoclip</string>
     <string name="buy_member_tip">Deveniți membru</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altele</string>
@@ -718,11 +725,13 @@ efecte pentru fotografii"</string>
     <string name="filter_bi_sunny">Însorit</string>
     <string name="filter_bi_tea">Ceai</string>
     <string name="filter_bi_warm">Cald</string>
+    <string name="filter_category_classic">Clasic</string>
     <string name="filter_category_film">Film</string>
     <string name="filter_category_food">Mâncare</string>
     <string name="filter_category_general">General</string>
     <string name="filter_category_master">Master</string>
     <string name="filter_category_movie">Film</string>
+    <string name="filter_category_popular">Popular</string>
     <string name="filter_category_portrait">Portret</string>
     <string name="filter_category_scene">Peisaj</string>
     <string name="filter_category_sky">Cer</string>
@@ -792,7 +801,12 @@ efecte pentru fotografii"</string>
     <string name="filter_people_sepia">Sepia</string>
     <string name="filter_people_story">Poveste</string>
     <string name="filter_people_tea">Ceai</string>
+    <string name="filter_popular_humanity">Documentar</string>
+    <string name="filter_popular_lnk">Cerneală</string>
+    <string name="filter_popular_purple">Violet</string>
     <string name="filter_portrait_hint">Focalizare culoare</string>
+    <string name="filter_portrait_mist">Ceață</string>
+    <string name="filter_portrait_painting">Pictură</string>
     <string name="filter_scene_city">Oraș</string>
     <string name="filter_scene_df">Ceață</string>
     <string name="filter_scene_koizora">Dragoste</string>
@@ -996,6 +1010,7 @@ efecte pentru fotografii"</string>
     <string name="loading_members">Încărcare membri…</string>
     <string name="loading_processing_tip">Se procesează fotografia…</string>
     <string name="loading_suspend">Descărcare întreruptă. Acţiunea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
+    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii (%d/%d)…</string>
     <string name="loading_video">Descărcare videoclip…</string>
     <string name="loading_video_compress_lib">Se descarcă extensia de compresie video…</string>
     <string name="loading_video_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
@@ -1218,7 +1233,9 @@ pentru a personaliza Galeria"</string>
     <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Portret</string>
     <string name="onekey_scene">Peisaj</string>
-    <string name="online_video_normal_transcoding">Acest videoclip este decodat acum. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="online_video_error_unknown">A apărut o eroare de redare online. S-a descărcat în schimb videoclipul.</string>
+    <string name="online_video_error_unsupported_type">Playerul online nu suportă acest format. S-a descărcat în schimb videoclipul.</string>
+    <string name="online_video_normal_transcoding">Playerul online nu este pregătit încă. S-a descărcat în schimb videoclipul.</string>
     <string name="online_video_vip_tip">Deveniți membru VIP pentru a transmite videoclipuri fără a le preîncărca complet</string>
     <string name="online_video_vip_transcoding">"Urmează să înceapă streaming-ul VIP…
 Decodarea ar putea dura ceva timp când utilizați această caracteristică pentru prima dată."</string>
@@ -1560,8 +1577,15 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="screen_doodle_talkback_size">Lățimea liniei mâzgăliturii</string>
     <string name="screen_editor_btn_delete">Ștergeți</string>
     <string name="screen_editor_btn_save">Salvați</string>
+    <string name="screen_editor_btn_shell_off">Eliminați rama dispozitivului</string>
+    <string name="screen_editor_btn_shell_on">Adăugați rama dispozitivului</string>
+    <string name="screen_editor_crop_disallowed_with_shell">Nu se pot decupa capturile de ecran cu rama dispozitivului</string>
     <string name="screen_editor_delete_dialog_msg">Ștergeți această captură de ecran?</string>
     <string name="screen_editor_finish">Finalizat</string>
+    <string name="screen_editor_shell_disallowed_with_crop">Nu se poate adăuga rama dispozitivului la capturile de ecran decupate</string>
+    <string name="screen_editor_shell_net_error">Conectați-vă la rețea pentru a descărca rama dispozitivului</string>
+    <string name="screen_editor_shell_res_downloading">Se descarcă rama dispozitivului…</string>
+    <string name="screen_editor_shell_storage_insufficient">Nu se poate descărca rama dispozitivului datorită spațiului de stocare insuficient</string>
     <string name="screen_save_dialog_btn_cancel">Renunțați</string>
     <string name="screen_save_dialog_btn_delete">Ștergeți captura de ecran</string>
     <string name="screen_save_dialog_btn_save">Salvați în Galerie</string>
@@ -1745,6 +1769,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="special_type_night_mode">Mod noapte AI</string>
     <string name="special_type_portrait">Portret pictură AI</string>
     <string name="special_type_raw">RAW</string>
+    <string name="special_type_real_8k">8K</string>
     <string name="special_type_wide_angle">Unghi foarte larg AI</string>
     <string name="start_debug">Reparare Galerie</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
@@ -1881,6 +1906,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
+    <string name="time_burst_photo_enter">Fotografiere în rafală cronometrată</string>
+    <string name="time_burst_preview_title">Fotografiere în rafală cronometrată</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>

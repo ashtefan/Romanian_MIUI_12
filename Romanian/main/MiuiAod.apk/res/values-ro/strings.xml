@@ -40,7 +40,7 @@
     <string name="aod_close_color_inversion">Această caracteristică nu se poate combina cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi.</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">hh:mm aa</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date">EE, dd MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12_signature">dd/MM</string>
     <string name="aod_lock_screen_date_12_smartcover">"EE
@@ -314,9 +314,9 @@ minunat urmează să se întâmple"</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="super_wallpaper_date">"EE aa
-dd/MM"</string>
+dd.MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
-dd/M"</string>
+dd.MM"</string>
     <string name="super_wallpaper_date_lunar">"YY年
 N月e"</string>
     <string name="temporary_style">Pentru 10 secunde după atingere</string>

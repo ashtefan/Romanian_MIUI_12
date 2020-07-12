@@ -61,8 +61,8 @@
         <item quantity="one">Restricționați aplicația?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">"Aceste aplicații nu pot rula în fundal"</item>
-        <item quantity="one">"Această aplicație nu poate rula în fundal"</item>
+        <item quantity="other">Aceste aplicații nu pot rula în fundal</item>
+        <item quantity="one">Această aplicație nu poate rula în fundal</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">%2$d aplicații restricționate recent</item>
@@ -206,7 +206,7 @@
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Conectați cel puțin %d puncte. Încercați din nou.</item>
-        <item quantity="one"> Conectați cel puțin %d punct. Încercați din nou.</item>
+        <item quantity="one">Conectați cel puțin %d punct. Încercați din nou.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">Prea multe încercări incorecte. Încercați din nou în %d secunde.</item>
@@ -265,7 +265,7 @@
         <item quantity="one">~%d notificare pe zi</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d notificări pe săprămână</item>
+        <item quantity="other">~%d notificări pe săptămână</item>
         <item quantity="one">~%d notificare pe săptămână</item>
     </plurals>
     <plurals name="number_of_device_admins">
@@ -285,7 +285,7 @@
         <item quantity="one">%1$s se comportă anormal</item>
     </plurals>
     <plurals name="power_high_usage_title">
-        <item quantity="other">Aplicații descarcă acumulatorul</item>
+        <item quantity="other">Aplicații care descarcă acumulatorul</item>
         <item quantity="one">%1$s descarcă acumulatorul</item>
     </plurals>
     <plurals name="print_jobs_summary">
@@ -329,8 +329,8 @@
         <item quantity="one">%1$d dispozitiv conectat</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a porni CIT."</item>
-        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a porni CIT."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a porni CIT.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a porni CIT.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
@@ -341,20 +341,20 @@
         <item quantity="one">%1$d ajutor de auz salvat</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon."</item>
-        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a raporta o problemă."</item>
-        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a raporta o problemă."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a raporta o problemă.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a raporta o problemă.</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d aplicații pot utiliza date fără restricții</item>
         <item quantity="one">1 aplicație poate utiliza date fără restricții</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
-        <item quantity="other">Setați ca de încredere sau eliminați certificatele</item>
-        <item quantity="one">Setați ca de încredere sau eliminați certificatul</item>
+        <item quantity="other">Setați ca fiind de încredere sau eliminați certificatele</item>
+        <item quantity="one">Setați ca fiind de încredere sau eliminați certificatul</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
         <item quantity="other">"%s a instalat autorizații de certificate pentru profilul de servici, care le pot permite monitorizarea activității în rețea, inclusiv e-mailuri, aplicații și site-uri securizatehas installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
@@ -377,8 +377,8 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="one">Verificați certificatul</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%d aplicații nu pot afișa notificări"</item>
-        <item quantity="one">"%d aplicație nu poate afișa notificări"</item>
+        <item quantity="other">%d aplicații nu pot afișa notificări</item>
+        <item quantity="one">%d aplicație nu poate afișa notificări</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicații pot afișa notificări</item>
