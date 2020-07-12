@@ -6324,10 +6324,10 @@ Codul PIN poate fi incorect."</string>
     <string name="sms_access_restriction_enabled">Restricționați accesul la SMS-uri și istoricul de apelare</string>
     <string name="sms_access_restriction_enabled_summary">Doar aplicațiile implicite de Telefon și mesagerie au permisiuni de accesare a SMS-urilor și a istoricului de apelare</string>
     <string name="sms_application_title">Mesagerie</string>
-    <string name="sms_change_default_dialog_text">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
+    <string name="sms_change_default_dialog_text">Utilizaţi %1$s în loc de %2$s ca aplicaţie pentru SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia pentru SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie pentru SMS-uri?</string>
-    <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>
+    <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pentru SMS livrat</string>
     <string name="sms_delivered_sound_title">SMS livrat</string>
     <string name="sms_messages_title">Mesaje SMS</string>
     <string name="sms_preference">Preferințe SMS-uri</string>
