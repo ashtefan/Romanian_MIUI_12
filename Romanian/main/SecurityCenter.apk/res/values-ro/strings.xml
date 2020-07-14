@@ -698,7 +698,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="btn_text_goto_setup">Mergeți la Setări</string>
     <string name="btn_text_network_speed_detail">Conexiune</string>
     <string name="btn_text_open_now">Activați</string>
-    <string name="btn_text_optimize_extend_battery_time">Suplimentați %s</string>
+    <string name="btn_text_optimize_extend_battery_time">Suplimentați cu %s</string>
     <string name="btn_text_optimize_manually">Optimizați manual</string>
     <string name="btn_text_optimize_now">Optimizați</string>
     <string name="btn_text_power_cleanup">Curăţare profundă</string>

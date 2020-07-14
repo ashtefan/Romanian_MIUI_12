@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="days_ago">
+        <item quantity="other">cu %1$d zile în urmă</item>
+        <item quantity="one">cu %1$d zi în urmă</item>
+    </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">Ștergeți %1$d fișiere</item>
         <item quantity="zero">Ștergeți %1$d fișiere</item>
@@ -23,6 +27,30 @@
         <item quantity="two">%d elemente</item>
         <item quantity="few">%d elemente</item>
         <item quantity="many">%d elemente</item>
+    </plurals>
+    <plurals name="download_done_info_for_sys_content">
+        <item quantity="other">%1$d elemente descărcate cu succes</item>
+        <item quantity="one">%1$d element descărcat cu succes</item>
+    </plurals>
+    <plurals name="download_fail_info_for_sys_content">
+        <item quantity="other">Nu s-au putut descărca %1$d elemente</item>
+        <item quantity="one">Nu s-a putut descărca %1$d element</item>
+    </plurals>
+    <plurals name="downloading_info_for_sys_title">
+        <item quantity="other">Se descarcă… %1$d elemente rămase (%2$s%%)</item>
+        <item quantity="one">Se descarcă… %1$d element rămas (%2$s%%)</item>
+    </plurals>
+    <plurals name="exception_copy_delete">
+        <item quantity="other">Unele elemente lipsesc. Nu s-au putut copia %1$d elemente.</item>
+        <item quantity="one">Unele elemente lipsesc. Nu s-a putut copia  %1$d element.</item>
+    </plurals>
+    <plurals name="exception_move_delete">
+        <item quantity="other">Unele elemente lipsesc. Nu s-au putut muta %1$d elemente.</item>
+        <item quantity="one">Unele elemente lipsesc. Nu s-a putut muta %1$d element.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">cu %1$d ore în urmă</item>
+        <item quantity="one">cu %1$d oră în urmă</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d fișiere rămase de descărcat</item>
@@ -147,5 +175,33 @@
     <plurals name="delete_files">
         <item quantity="other">Ștergeți %1$d fișiere?</item>
         <item quantity="one">Ștergeți acest fișier?</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%2$d elemente ce conțin \"%1$s\"</item>
+        <item quantity="one">%2$d element ce conține \"%1$s\"</item>
+    </plurals>
+    <plurals name="setting_file_list_item_desc">
+        <item quantity="other">%1$d elemente | %2$s | %3$s</item>
+        <item quantity="one">%1$d element | %2$s | %3$s</item>
+    </plurals>
+    <plurals name="setting_list_folder_item_desc">
+        <item quantity="other">%1$d elemente | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="upload_done_info_for_sys_content">
+        <item quantity="other">%1$d elemente încărcate cu succes</item>
+        <item quantity="one">%1$d element încărcat cu succes</item>
+    </plurals>
+    <plurals name="upload_fail_info_for_sys_content">
+        <item quantity="other">Nu s-au putut încărca %1$d elemente</item>
+        <item quantity="one">Nu s-a putut încărca %1$d element</item>
+    </plurals>
+    <plurals name="uploading_info_for_sys_title">
+        <item quantity="other">Se încarcă… %1$d elemente rămase (%2$s%%)</item>
+        <item quantity="one">Se încarcă… %1$d element rămas (%2$s%%)</item>
     </plurals>
 </resources>

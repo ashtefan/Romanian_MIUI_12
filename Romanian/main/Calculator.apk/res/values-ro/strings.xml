@@ -1041,6 +1041,8 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="word_figure_zheng">întreg</string>
     <string name="xiaomi_connect_download_manager_fail">"Conectarea la Managerul de Descărcare a eșuat. Vă rugăm să verificați dacă această aplicație are toate permisiunile acordate în Setări &gt; Aplicații instalate.</string>
     <string name="xiaomi_external_storage_unavailable">"Mediul de stocare nu este disponibil; verificați cardul SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Vă prezentăm versiunea %1$s
 Mărime: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Vă prezentăm versiunea %1$s

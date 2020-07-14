@@ -566,7 +566,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="label_average_daily_sleep_time">Ora medie de adormire</string>
     <string name="label_average_daily_sleep_time2">Ora medie de adormire</string>
     <string name="label_average_daily_wake_up_time">Ora medie de trezire</string>
-    <string name="label_average_sleep_time">Duarata medie de somn</string>
+    <string name="label_average_sleep_time">Ora medie de adormire</string>
     <string name="label_body_weight_evaluation">Evaluarea greutății</string>
     <string name="label_body_weight_recent">Recent</string>
     <string name="label_body_weight_trend">Progres</string>

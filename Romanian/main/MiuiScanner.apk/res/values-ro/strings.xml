@@ -426,6 +426,7 @@
     <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
     <string name="xiaoai_dialog">"Încercați să spuneți Mi AI ceea ce
 doriți să scanați"</string>
+    <string name="xiaoai_text">Micuțul buton dragoste</string>
     <string name="you_have_permission_to_download">Atingeți pentru a descărca versiunea Beta</string>
     <string name="you_id">"ID-ul dvs: "</string>
     <string name="your_application_is_under_review">" (Aplicarea dvs este revizuită.)"</string>

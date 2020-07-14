@@ -45,7 +45,7 @@
     <string name="bt_error_btn_ok">OK</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="bt_sm_2_1_default">"Nu există suficient spaţiu pe cardul SD pentru a salva fişierul de la \"%1$s\""</string>
-    <string name="bt_sm_2_1_nosdcard">"Nu există suficient spaţiu în stocarea USB SD pentru a salva fişierul de la \"%1$s\""</string>
+    <string name="bt_sm_2_1_nosdcard">"Nu există suficient spaţiu în stocarea USB pentru a salva fişierul de la \"%1$s\""</string>
     <string name="bt_sm_2_2">Spaţiu necesar: %1$s</string>
     <string name="bt_toast_1">Se va primi fişierul. Verificaţi progresul în panoul de notificări.</string>
     <string name="bt_toast_2">"Fişierul nu poate fi primit."</string>

@@ -239,7 +239,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_diag_signal_summary">Copiați fișierele conținând jurnalul de stabilitate a semnalului pe cardul SD</string>
     <string name="cit_diag_signal_title">Citiți jurnalul de stabilitate a semnalului</string>
     <string name="cit_dial_emergencycall">Apelați 112</string>
-  <string name="cit_display_check_summary">Confirmați că fișierul .bmp solicitat se află pe cardul SD. Confirmați că nuanțele sunt afișate consistent pe tot ecranul. Asigurați-vă că nu există puncte neregulate mai deschise sau mai închise la culoare.</string>
+    <string name="cit_display_check_summary">Confirmați că nuanțele sunt afișate consistent pe tot ecranul. Asigurați-vă că nu există puncte neregulate mai deschise sau mai închise la culoare.</string>
   <string name="cit_display_check_title">Afișaj</string>
   <string name="cit_display_continue">Atingeți ecranul pentru a începe testul</string>
   <string name="cit_exit_test_summary">Atunci când ieșiți, toate datele text vor fi șterse.</string>
@@ -363,11 +363,11 @@ Nu opriți ecranul pe durata testului"</string>
   <string name="cit_notificationlight_on">Notification light on</string>
   <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
   <string name="cit_pass">Pass</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
-  <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
-  <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
-  <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Confirmați că există un fișier numit \"music.mp3\" pe cardul SD. Fișierul \"music.mp3\" ar trebui să fie redat prin calea HIFI a dispozitivului atunci când rulați acest test.</string>
+    <string name="cit_play_sd_mp3_hifi_title">Redați MP3(HIFI) stocat pe cardul SD</string>
+    <string name="cit_play_sd_mp3_summary">Confirmați că există un fișier numit \"music.mp3\" pe cardul SD. Fișierul \"music.mp3\" ar trebui să fie redat prin difuzoarele externe ale dispozitivului atunci când rulați acest test.</string>
+    <string name="cit_play_sd_mp3_title">Redați MP3 stocat pe cardul SD</string>
+    <string name="cit_playing_sd_mp3">Se redă fișierul music.mp3…</string>
   <string name="cit_pointer_location_title">Touch sensor</string>
   <string name="cit_power_check_summary">The amount of battery charge should be expressed as a percentage below.</string>
   <string name="cit_power_check_title">Battery indicator</string>
@@ -390,11 +390,11 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
-  <string name="cit_sd_fail">An error occurred.</string>
-  <string name="cit_sd_mount">Mount SD card</string>
-  <string name="cit_sd_mount_sucess">SD card mounted</string>
-  <string name="cit_sd_mp3_not_existed">"There is no file on the SD card called \"music.mp3\"
-After you place \"music.mp3\" in the SD card's directory, tap the display to play."</string>
+    <string name="cit_sd_fail">A apărut o eroare.</string>
+    <string name="cit_sd_mount">Montați cardul SD</string>
+    <string name="cit_sd_mount_sucess">Card SD montat</string>
+    <string name="cit_sd_mp3_not_existed">Nu există niciun fișier pe cardul SD numit \"music.mp3\"
+După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți ecranul pentru a-l reda."</string>
   <string name="cit_sd_plugged_in">SD card detected, remove SD card now</string>
   <string name="cit_sd_plugged_out">SD card has been removed, insert SD card now</string>
   <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>

@@ -1166,10 +1166,10 @@ d MMMM"</string>
     <string name="lockscreen_access_pattern_start">Pornire model</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="lockscreen_charging_msg">Se încarcă</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Ați încercat fără succes să deblocați telefonul de %d ori. După încă %d încercări nereușite, telefonul va fi reveni la setările din fabrică iar toate datele de utilizator vor fi pierdute.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ați introdus incorect parola de %d ori. După încă %d încercări nereușite, veți fi solicitat să deblocați telefonul utilizând autentificarea la contul Mi.
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Ați încercat fără succes să deblocați telefonul de %1$d ori. După încă %2$d încercări nereușite, telefonul va fi reveni la setările din fabrică iar toate datele de utilizator vor fi pierdute.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Ați introdus incorect parola de %1$d ori. După încă %2$d încercări nereușite, va trebui să deblocați telefonul utilizând autentificarea la contul Mi.
 
- Încercați din nou în %d secunde."</string>
+ Încercați din nou în %3$d secunde."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Ați încercat fără succes să deblocați telefonul de %d ori. Telefonul va reveni acum la setările din fabrică.</string>
     <string name="lockscreen_none">Niciunul</string>
     <string name="lockscreen_shortcut_left">Scurtătura din stânga</string>

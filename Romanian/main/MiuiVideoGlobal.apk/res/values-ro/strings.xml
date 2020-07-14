@@ -84,6 +84,7 @@
     <string name="ad_more">Mai multe</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
     <string name="agree">De acord</string>
+    <string name="agree_and_continue">De acord</string>
     <string name="ai_animation_music_text">Sunet de fundal AI</string>
     <string name="ai_music_save_cancel">Renunțați</string>
     <string name="ai_music_save_dialog_title">Salvați</string>
@@ -121,6 +122,7 @@
     <string name="cast_expanded_controller_ad_image_description">Imagine afișată în timp ce receptorul redă un anunț</string>
     <string name="cast_expanded_controller_ad_in_progress">Anunț în desfășurare…</string>
     <string name="cast_expanded_controller_background_image">Grafica albumului</string>
+    <string name="cast_expanded_controller_live_head_description">Poziția curentă este la capătul fluxului live</string>
     <string name="cast_expanded_controller_live_stream_indicator">Flux live</string>
     <string name="cast_expanded_controller_loading">Se încarcă…</string>
     <string name="cast_expanded_controller_skip_ad_label">Închideți anunțul</string>
@@ -128,6 +130,7 @@
     <string name="cast_forward">Derulați înainte</string>
     <string name="cast_forward_10">Derulați înainte 10 secunde</string>
     <string name="cast_forward_30">Derulați înainte 30 de secunde</string>
+    <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dezactivați sunetul</string>
     <string name="cast_notification_connected_message">Conectat la %1$s</string>
     <string name="cast_notification_connecting_message">Se conectează la %1$s</string>
@@ -165,6 +168,12 @@
     <string name="cloud_online_switch_close_time">Puteți activa recomandările de conținut personalizat în %s</string>
     <string name="cloud_online_switch_open_time">Afișează recomandările de conținut personalizat</string>
     <string name="collect_diagnosis_log">Colectați jurnale</string>
+    <string name="columbus_player_close_desc">Veți pierde recompensa</string>
+    <string name="columbus_player_close_resume">RELUAȚI VIDEOCLIPUL</string>
+    <string name="columbus_player_close_title">Închideți Videoclipul?</string>
+    <string name="columbus_player_close_video">ÎNCHIDEȚI VIDEOCLIPUL</string>
+    <string name="columbus_player_install_now">INSTALAȚI ACUM</string>
+    <string name="columbus_player_learn_more">Aflați mai multe</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată pe durata descărcării unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView login necesită permisiunea de accesare a INTERNETULUI</string>
@@ -242,6 +251,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Acest număr de telefon a fost asociat contului Mi %2$s pe %1$s. Acesta nu va mai fi asociat contului Mi %3$s în cazul în care continuați. Continuați?</string>
     <string name="content">Conținut</string>
     <string name="content_can_not_null">"Nu s-a putut trimite feedback-ul fără descriere."</string>
+    <string name="continue_play">Reluați</string>
     <string name="data_empty">Nu există elemente aici</string>
     <string name="day">zi</string>
     <string name="default_filedownloader_notification_content">Descărcarea fișierelor rulează.</string>
@@ -251,13 +261,15 @@
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
 ID:%s
 Trimiteți acest cod supervizorului."</string>
-    <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=\"%2$s\"&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
+    <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=%2$s&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
+    <string name="dialog_privacy_info_new3">Pentru a putea utiliza acest serviciu, trebuie să permiteți %1$s să colecteze, să proceseze și să utilizeze informațiile dvs. personale în concordanță cu Politica de Confidențialitate. Atingând butonul \"De acord\" de mai jos, acceptați &lt;a href=%2$s&gt;Politica de Confidențialitate&lt;/a&gt; și &lt;a href=%3$s&gt;Acordul Utilizatorului Xiaomi&lt;/a&gt;."</string>
     <string name="dialog_privacy_title">Autorizaţie</string>
     <string name="dialog_revoke_privacy_info_new2">După revocarea autorizației, aplicația va opri colectarea datelor și toate datele asociate vor fi șterse de pe serverele noastre. Acest lucru poate face aplicația practic inutilizabilă. Anulați oricum autorizația?</string>
     <string name="dialog_revoke_privacy_title">Revocarea autorizației</string>
     <string name="diy_channels_tips">Acum puteți personaliza lista canalelor.</string>
     <string name="do_not_show_again">"Nu afișa din nou"</string>
     <string name="download">Descărcați</string>
+    <string name="download_checking_tip">Se pregătește descărcarea…</string>
     <string name="download_complete">Descărcat</string>
     <string name="download_delete_tip">Ștergeți elementele selectate?</string>
     <string name="download_delete_title">Ștergeți</string>
@@ -267,6 +279,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">Încercați din nou</string>
     <string name="download_space_info" formatted="false">%s, %s</string>
+    <string name="download_unable_tip">Nu se poate descărca acest element</string>
     <string name="download_video">Se descarcă videoclipul</string>
     <string name="downloading">Se descarcă…</string>
     <string name="empty_channels">Gestionați canalele</string>
@@ -351,6 +364,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_success_toast">Trimis cu succes. Vă mulțumim pentru feedback!</string>
     <string name="feedback_tag_title">Categorie</string>
     <string name="feedback_text_empty_toast">Introduceți mai întâi feedback-ul.</string>
+    <string name="file_cant_rename">Fișierul cu numele %1$s există deja. Vă rog să-l redenumiți</string>
     <string name="find_psw">Am uitat parola</string>
     <string name="finish">Efectuat</string>
     <string name="for_diagnosis_usage_only">Jurnalele sunt utilizate doar pentru diagnoză.</string>
@@ -378,11 +392,14 @@ Trimiteți acest cod supervizorului."</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Toate</string>
     <string name="gallery_tab_videos">Videoclipuri</string>
+    <string name="galleryplus_already_cloud_member">Se utilizează apartenența VIP pentru a reda</string>
+    <string name="galleryplus_check_network">Setări</string>
     <string name="galleryplus_chose_play_speed">Se redă la viteza %1$.1fX</string>
     <string name="galleryplus_chose_play_speed_failure">Nu s-a putut ajusta viteza de redare</string>
     <string name="galleryplus_click_to_higher_definition">Atingeți de două ori pentru a deschide previzualizarea HD</string>
     <string name="galleryplus_cta_tips">Ne puteți ajuta să ne îmbunătățim serviciile înrolându-vă în Programul de Experiența Utilizatorului și permițând Mi Video să se conecteze la internet. Sunteți de acord?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Atingeți de două ori din nou pentru a deschide previzualizarea HD</string>
+    <string name="galleryplus_fr_unsupport_restore_speed">Rată de cadre nesuportată. S-a comutat la viteza obișnuită.</string>
     <string name="galleryplus_gallery_fold_tags">Ascunde marcajele</string>
     <string name="galleryplus_gallery_video_adjust_hint">Sunt suportate doar videoclipurile la 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Ajustați</string>
@@ -402,6 +419,15 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_gallery_video_slow_edit">Mișcare lentă</string>
     <string name="galleryplus_gallery_view_tags">Afișează marcajele</string>
     <string name="galleryplus_is_higher_definition">S-a deschis previzualizarea HD</string>
+    <string name="galleryplus_network_connect_check">Nu s-a putut conecta la rețea</string>
+    <string name="galleryplus_network_connect_confirm">Conectați-vă la Wi-Fi sau activați datele mobile din setările de rețea.</string>
+    <string name="galleryplus_network_error">Nu s-a putut conecta la rețea</string>
+    <string name="galleryplus_network_not_wifi">Utilizarea datelor mobile pentru a reda videoclipuri online poate genera taxe suplimentare de la operator</string>
+    <string name="galleryplus_online_cta">Mi Video trebuie să se conecteze la internet pentru a funcționa în mod normal. Acceptați?</string>
+    <string name="galleryplus_online_cta_agree">Accept</string>
+    <string name="galleryplus_online_cta_disagree">Nu sunt de acord</string>
+    <string name="galleryplus_online_cta_title">Termeni și condiții</string>
+    <string name="galleryplus_online_video_loading">Doar o secundă…</string>
     <string name="galleryplus_permission_content">Acordați Mi Video permisiunile necesare pentru a putea utiliza această caracteristică.</string>
     <string name="galleryplus_permission_content2">"Pentru a putea utiliza această caracteristică, mergeți la Setări>Aplicații>Mi Video>Permisiunile aplicației și permiteți Mi Video următoarele:
 
@@ -446,6 +472,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi."</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și reîncercați.</string>
+    <string name="got_it">Am înțeles</string>
     <string name="goto_sign_up">Creați un cont</string>
     <string name="grant_write_settings_permission">Vă rugăm să acordați permisiunea de a controla iluminarea playerului</string>
     <string name="have_learned">Am înțeles</string>
@@ -592,7 +619,7 @@ pentru videoclipuri"</string>
     <string name="lv_subtitle_onlinesub_loading">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Act de renunțare</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/&gt;&lt;br/&gt;de la &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Toate subtitrările online sunt furnizate de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/&gt;&lt;br/&gt;de la &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Toate subtitrările online sunt furnizate de &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Nu s-a putut adăuga subtitrarea</string>
     <string name="lv_subtitle_onlinesub_save_success">Au fost adăugate subtitrările cu succes</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Introduceți cuvinte cheie pentru a căuta</string>
@@ -614,6 +641,7 @@ pentru videoclipuri"</string>
     <string name="lv_video_null">Nu sunt videoclipuri</string>
     <string name="lv_volume">Volum</string>
     <string name="manage">Gestionați</string>
+    <string name="mediation_ad_can_not_share">Nu se poate partaja acest videoclip</string>
     <string name="mi_video">Mi Video</string>
     <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">Utilizați gesturi pentru mărire și micșorare</string>
@@ -663,6 +691,7 @@ pentru videoclipuri"</string>
     <string name="neverthink_player_loading">Se încarcă videoclipul Neverthink…</string>
     <string name="new_channel_tip">Aruncați o privire la noile canale!</string>
     <string name="next">Următorul</string>
+    <string name="next_step">Următorul</string>
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
     <string name="no_longer_prompt">Nu arăta din nou</string>
@@ -681,6 +710,8 @@ pentru videoclipuri"</string>
     <string name="notice_message_title">Notificări</string>
     <string name="notice_title">Mesaje</string>
     <string name="notification_bar">Perdeaua de notificări</string>
+    <string name="notification_bar_player_subtitle">Afișează player-ul minimizat în Perdeaua de Notificări</string>
+    <string name="notification_bar_player_title">Minimizează player-ul</string>
     <string name="notification_open_tip">Activați pentru a primi notificări</string>
     <string name="notify_apk_installed">Descărcată cu succes</string>
     <string name="off">[oprit]</string>
@@ -856,8 +887,8 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="passport_unknow_error">Ne pare rău, a apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">Ne pare rău, a apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Am citit și sunt de acord cu &lt;a href=\"%1$s\"&gt;Acordul Utilizatorului&lt;/a&gt; și lt;a href=\"%2$s\"&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și sunt de acord cu următoarele documente: &lt;a href=\"%1$s\"&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=\"%4$s\"&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;Am citit și sunt de acord cu &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%2$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link_more">&lt;Data&gt;Am citit și sunt de acord cu următoarele documente: &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%4$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării este incompletă</string>
@@ -964,7 +995,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_player_subtitle_local_add_success">Subtitrări adăugate cu succes</string>
     <string name="plus_player_subtitle_no_file">Nicio subtitrare aici.</string>
     <string name="plus_player_subtitle_online">Subtitrări online</string>
-    <string name="plus_player_subtitle_online_declare_content">Sunteți pe cale să căutați &lt;br/&gt;subtitrări în baza de date &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; database. &lt;br/&gt;Toate subtitrările sunt furnizate de către &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="plus_player_subtitle_online_declare_content">Sunteți pe cale să căutați &lt;br/&gt;subtitrări în baza de date &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Toate subtitrările sunt furnizate de către &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="plus_player_subtitle_online_declare_title">Act de renunțare</string>
     <string name="plus_player_subtitle_online_download_fail">"Nu s-au putut descărca subtitrările"</string>
     <string name="plus_player_subtitle_online_download_start">Se descarcă subtitrările…</string>
@@ -1155,6 +1186,8 @@ Verificați alte videoclipuri!"</string>
     <string name="sns_bind_limit">Prea multe încercări. Încercați alte metode de conectare.</string>
     <string name="sns_sign_in">Alte moduri de conectare</string>
     <string name="source">"Sursă: "</string>
+    <string name="special_type_8k">AI 8K</string>
+    <string name="special_type_log">LOG</string>
     <string name="srl_component_falsify" formatted="false">"%s falsifică aria,
  Reprezintă înălțimea[%.1fdp] of drag at run time,
  Nu arată nimic."</string>
@@ -1237,6 +1270,8 @@ Verificați alte videoclipuri!"</string>
     <string name="ticket_hint">Cod de verificare</string>
     <string name="ticket_invalid">Codul introdus este incorect</string>
     <string name="ticket_sign_in">Conectați-vă prin SMS</string>
+    <string name="tip_author_click">Atingeți pentru a vedea mai multe videoclipuri de la acest cont</string>
+    <string name="tip_topic_click">Atingeți pentru a găsi mai multe videoclipuri pe acest topic</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Abonamente</string>
     <string name="toast_no_data">Acest element nu este disponibil acum. Reveniți mai târziu.</string>
@@ -1323,6 +1358,7 @@ Verificați alte videoclipuri!"</string>
     <string name="video_resolution_kb_size_suffix">%.2f KB</string>
     <string name="video_resolution_mb_size_suffix">%.2f MB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="view">Vedeți</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_text_unknown">A apărut o eroare</string>
     <string name="vp_VideoView_error_title">Eroare necunoscută</string>

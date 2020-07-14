@@ -8,6 +8,10 @@
         <item quantity="other">Se revine la pagina de start în %1$d secunde…</item>
         <item quantity="one">Se revine la pagina de start în %1$d secundă…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d urmăritori</item>
+        <item quantity="one">%d urmăritor</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
         <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
@@ -23,6 +27,10 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s secunde rămase</item>
+        <item quantity="one">%s secundă rămas</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Conținutul dumneavoastră conține elemente (%1$s) care încalcă standardele comunității noastre. Contul dvs. este suspendat pentru %2$d zile până la %3$s.</item>

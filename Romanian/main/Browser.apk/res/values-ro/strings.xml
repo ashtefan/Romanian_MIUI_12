@@ -340,8 +340,8 @@
     <string name="dialog_file_missing_body">"Nu se poate localiza fișierul. L-ați mutat sau l-ați șters cumva?"</string>
     <string name="dialog_file_missing_title">"Nu s-a putut deschide fișierul"</string>
     <string name="dialog_insufficient_space_on_cache">"Nu s-a putut descărca"</string>
-    <string name="dialog_insufficient_space_on_external">Nu există spațiu suficient pe cardul SD</string>
-    <string name="dialog_media_not_found">"Nu se poate descărca: Nu s-a găsit niciun card SD"</string>
+    <string name="dialog_insufficient_space_on_external">Nu există spațiu suficient în stocarea amovibilă</string>
+    <string name="dialog_media_not_found">Nu se poate descărca: Nu s-a găsit niciun mediu amovibil de stocare</string>
     <string name="dialog_nps_comment_cancel_text">Nu, mulțumesc</string>
     <string name="dialog_nps_comment_confirm_text">Evaluați</string>
     <string name="dialog_nps_comment_slogan_text">"Evaluați aplicația
@@ -976,7 +976,8 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="network_not_available_comment">Fără conexiune la internet; nu se poate adăuga un comentariu</string>
     <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
-    <string name="next_button_label">Înainte</string>
+    <string name="new_copy_address">Ultimul URL copiat</string>
+    <string name="new_copy_content">Ultimul conținut copiat</string>
     <string name="night">Seară</string>
     <string name="no_app_open_document">Nu a fost găsită nicio aplicație pentru a finaliza această acțiune</string>
     <string name="no_content">Fără conținut încă</string>
@@ -1420,7 +1421,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggestion_more_news">MAI MULTE ȘTIRI</string>
     <string name="suggestion_more_news_start_title_text">Știri înrudite</string>
     <string name="suggestion_sliding_ads_info_mark_text">RECLAME</string>
-    <string name="suggestion_sliding_item_more_text">MAI MULTE</string>
+    <string name="suggestion_sliding_item_more_text">VEDEȚI MAI MULTE</string>
     <string name="suggestion_topic_subtitle_hyphen">Focus</string>
     <string name="suggestion_translation_more">VEDEȚI MAI MULTE</string>
     <string name="sunday">Duminică</string>
@@ -1596,6 +1597,8 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="video_subtitle_prefix1">Urmărit</string>
     <string name="video_subtitle_prefix2">"Urmărit "</string>
     <string name="video_title_prefix_message">"Offline: "</string>
+    <string name="view_certificate">Vedeți certificatul</string>
+    <string name="view_document_downloaded_files">Vedeți fișierele descărcate în Descărcări</string>
     <string name="vo_ad_detail">%s · Reclamă</string>
     <string name="vo_choose_activity_cancel">Renunțați</string>
     <string name="vo_choose_activity_content">Nu s-a putut obține locația. Selectați manual un oraș.</string>
@@ -1661,6 +1664,7 @@ feedsContentId:
     <string name="vo_info_flow_load_more_title">Încercați să încărcați mai multe elemente manual</string>
     <string name="vo_info_flow_refresh_empty">Nu mai există actualizări deocamdată. Verificați alte canale!</string>
     <string name="vo_info_flow_refresh_error">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="vo_info_flow_rs_hint">Căutați</string>
     <string name="vo_like_text">Apreciați</string>
     <string name="vo_location_change_cancel">Nu acum</string>
     <string name="vo_location_change_content">Se pare că s-a modificat locația dvs. Comutați la orașul curent?</string>

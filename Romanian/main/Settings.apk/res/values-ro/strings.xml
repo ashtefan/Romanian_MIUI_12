@@ -6010,13 +6010,13 @@ Puteți insă utiliza amprenta pentru a autoriza plăți și acces la aplicații
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Timpul limită pentru înrolarea amprentei a expirat. Încercați din nou.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustrație cu localizarea senzorului de amprentă pe telefon</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Localizați senzorul de amprentă în partea din spate? a telefonului.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_title">Localizați senzorul</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_title">Atingeți senzorul</string>
     <string name="security_settings_fingerprint_enroll_finish_message">Oriunde vedeți acest simbol, puteți utilliza amprenta pentru identificare sau pentru a autoriza o plată.</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Amprentă adăugată!</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Renunțați</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Omiteți</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Continuați</string>
-    <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Adăugați o amprentă</string>
+    <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Următorul</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">"Deblocați telefonul cu o simplă atingere, autorizați plăți sau conectați-vă în aplicații. Aveți grijă ale cui amprente adăugați. Chiar și o singură amprentă adăugată se poate folosi pentru următoarele acțiuni.
 
 Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unui model de deblocare sau cod PIN puternice."</string>
@@ -6030,10 +6030,10 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utilizați amprenta</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Ridicați degetul apoi atingeți senzorul din nou</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Mișcați încet degetul pentru a adăuga toate particularitățile degetului</string>
-    <string name="security_settings_fingerprint_enroll_repeat_title">Bravo! Acum repetați</string>
+    <string name="security_settings_fingerprint_enroll_repeat_title">Ridicați, apoi atingeți din nou</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Setați metoda de deblocare a ecranului</string>
     <string name="security_settings_fingerprint_enroll_start_message">Puneți degetul pe senzorul de amprentă și ridicați-l după ce simțiți o vibrație</string>
-    <string name="security_settings_fingerprint_enroll_start_title">Să începem</string>
+    <string name="security_settings_fingerprint_enroll_start_title">Atingeți senzorul</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Utilizați senzorul de amprentă de pe telefon.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Auuuu, ăla nu este senzorul</string>
     <string name="security_settings_fingerprint_preference_summary_none"/>
@@ -6716,7 +6716,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="sud_next_button_label">Următorul</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Aceste aplicații funcționează mai bine în modul Ecran complet</string>
     <string name="suggested_fingerprint_lock_settings_summary"/>
-    <string name="suggested_fingerprint_lock_settings_title">Utilizați amprenta</string>
+    <string name="suggested_fingerprint_lock_settings_title">Adăugați amprenta pentru a debloca</string>
     <string name="suggested_lock_settings_summary">Setați blocarea ecranului pentru a vă proteja dispozitivul</string>
     <string name="suggested_lock_settings_title">Protejați-vă telefonul</string>
     <string name="suggestion_additional_fingerprints">Adăugați altă amprentă</string>
@@ -7018,7 +7018,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_off_keyguard_password_title">Dezactivați blocarea ecranului</string>
     <string name="turn_off_keyguard_password_wait_dialog">Dezactivare parolă…</string>
     <string name="turn_off_keyguard_password_with_face_confirm_msg">"După ce dezactivați parola pentru Blocarea ecranului, datele faciale înregistrate vor fi șterse. Nu veți mai putea debloca telefonul utilizând datele faciale."</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Nu veți mai putea debloca telefonul utiizând amprenta după ce veți dezactiva parola pentru Blocarea ecranului"</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Nu veți mai putea debloca telefonul utilizând amprenta după ce veți dezactiva parola pentru Blocarea ecranului"</string>
     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"După ce veți dezactiva parola de blocare a ecranului, amprentele înregistrate și datele faciale vor fi șterse. Nu veți mai putea debloca telefonul utilizând amprenta sau datele faciale."</string>
     <string name="turn_off_security_lock">Dezactivaţi blocarea</string>
     <string name="turn_on_keyguard_password">Activați parola pentru Blocarea ecranului</string>
@@ -7128,7 +7128,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_pin_summary" formatted="false">Introduceți %d-%d cifre pentru a debloca telefonul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta din Setări>Securitate.</string>
     <string name="unlock_type_category_title">Metoda de recunoaștere</string>
     <string name="unlogin_account_summary">Toate serviciile Mi. Un singur cont Mi.</string>
     <string name="unlogin_account_title">Conectați-vă la contul Mi</string>

@@ -121,6 +121,7 @@
     <string name="ambilight_intro_silky_water_part1">Utilizați acest mod când fotografiați nori în mișcare. Acesta va oferi cerului un efect de „pictură în ulei”.</string>
     <string name="ambilight_intro_silky_water_part2">Acest mod face ca apa în mișcare (râuri, cascade și lacuri) să pară satinată.</string>
     <string name="ambilight_intro_star_track">Fotografierea cerului înstelat pentru o lungă perioadă de timp poate surprinde traiectoriile stelelor. Nu uitați să folosiți un trepied și să fotografiați continuu timp de cel puțin %d minute.</string>
+    <string name="ambilight_intro_star_track_2">Fotografierea cerului înstelat pentru o lungă perioadă de timp poate surprinde traiectoriile stelelor. Nu uitați să folosiți un trepied! Filmați continuu cel puțin %d minute pentru a putea obține atât fotografii cât și videoclipuri.</string>
     <string name="ambilight_intro_traffic_light">Noaptea, puteți surprinde traiectoria luminilor în mișcare strălucitoare (pe mașini și nave, de exemplu). Acest mod permite previzualizarea rezultatului final pe ecran în timp real.</string>
     <string name="ambilight_scene_crowd_moving">Mulțime în mișcare</string>
     <string name="ambilight_scene_light_track">Pictură cu lumină</string>
@@ -269,6 +270,11 @@
     <string name="confirm_restore_message">Restabiliţi setările prestabilite ale camerei?</string>
     <string name="confirm_restore_title">Restabiliţi setările prestabilite</string>
     <string name="copy">Copiați</string>
+    <string name="cta_msg">Bine ați venit în aplicația Cameră! Puteți utiliza această aplicație pentru a face fotografii și pentru a filma videoclipuri. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni opționale:</string>
+    <string name="cta_perm_dec">Pentru adăugarea informațiilor despre locație în fotografii și videoclipuri</string>
+    <string name="cta_perm_loc">Locație</string>
+    <string name="cta_perm_type">Permisiuni opționale (Utilizate pentru funcțiile adiționale atunci când le utilizați)</string>
+    <string name="cta_user_tips">&lt;Data&gt;Pentru a înțelege pe deplin drepturile dvs. ca și utilizator dar și modurile în care utilizăm datele, citiți și acceptați &amp;lt;a href =%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href =%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Implicit</string>
     <string name="custom_sound_modern">Modern</string>
@@ -277,6 +283,7 @@
     <string name="custom_tint_color_select">Personalizați culorile</string>
     <string name="custom_watermark_contains_senstive_words">"Amprentele din fotografii nu pot conține elemente interzise (%1$s)"</string>
     <string name="custom_watermark_tips">Acest text va apărea ca o a doua linie a amprentei de pe fotografie. Poate conține maxim 18 litere sau 14 caractere chinezești.</string>
+    <string name="custom_watermark_tips_gen2" formatted="false">Până la %d caractere chinezești sau %d litere.</string>
     <string name="custom_watermark_too_many_words">Textul introdus este prea lung</string>
     <string name="custom_watermark_words">Amprentă personalizată în fotografie</string>
     <string name="custom_watermark_words_input_hint">Introduceți textul</string>
@@ -689,6 +696,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Setări cameră</string>
     <string name="pref_camera_ai_scene_title">AI Camera</string>
+    <string name="pref_camera_ai_shutter_description">Selectați în mod automat cel mai bun moment atunci când apăsați butonul de declanșare</string>
+    <string name="pref_camera_ai_shutter_title">Declanșator AI</string>
     <string name="pref_camera_antibanding_entry_0">Dezactivată</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -1078,6 +1087,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Moduri</string>
     <string name="pref_more_mode_style_title">Moduri Cameră</string>
+    <string name="pref_multi_camera_dual_video_front">Camera frontală</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720p cu 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Puteți înregistra doar videoclipuri 720p cu 960fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
@@ -1258,9 +1268,12 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="ultra_wide_recommend_tip_hint">Încercați modul unghi foarte larg</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Comutați la modul 0.6X unghi foarte larg</string>
     <string name="unknow_error">Eroare necunoscută</string>
+    <string name="unsupported_microphones_3d_record_tips">Sunetul 3D nu suportă microfoane externe</string>
+    <string name="unsupported_microphones_audio_zoom_tips">Amplificarea audio nu suportă microfoane externe</string>
     <string name="user_agree">De acord</string>
     <string name="user_define_watermark_cancel">Renunțați</string>
     <string name="user_define_watermark_save">Salvați</string>
+    <string name="user_disagree">Nu accept</string>
     <string name="user_notice_identify_summary_format">"Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Acceptați să vă conectați la internet?"</string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="v7_preference_off">OPRIT</string>
