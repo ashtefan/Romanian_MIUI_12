@@ -265,6 +265,11 @@
     <string name="recording_quality_low">Calitate scăzută</string>
     <string name="recording_quality_standard">Calitate standard</string>
     <string name="recording_stopped">Înregistrare oprită</string>
+    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+    <string name="recovery">Restaurați</string>
+    <string name="recovery_failed_dialog_button">Am înțeles</string>
+    <string name="recovery_failed_dialog_title">Atenție</string>
     <string name="reg_error_audio_exist">Acest fișier există deja.</string>
     <string name="reg_error_audio_large">"Fișierele audio nu pot depăși 500 MB."</string>
     <string name="reg_error_audio_short">Fișierul audio este prea mic.</string>
@@ -283,6 +288,7 @@
     <string name="rename_no_more_tip">Nu se afişează din nou</string>
     <string name="retry">Reîncercaţi</string>
     <string name="runtime_permission_ungranted">"Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacordate</string>
+    <string name="save_record_dialog_title">Salvați înregistrarea</string>
     <string name="search_app">Înregistrare</string>
     <string name="search_empty">Nu s-au găsit rezultate</string>
     <string name="search_enable_earpiece_title">Utilizare receptor pentru redarea fișierelor audio</string>
@@ -328,6 +334,9 @@
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
+    <string name="trash_box">Elemente șterse recent</string>
+    <string name="trash_box_close_tip">Închideți fereastra de dialog</string>
+    <string name="trash_box_delete_all">Ștergeți toate elementele din coșul de gunoi permanent?</string>
     <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>

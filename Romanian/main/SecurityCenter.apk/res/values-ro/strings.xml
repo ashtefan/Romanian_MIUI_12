@@ -1269,6 +1269,13 @@ cardul de sănătate"</string>
     <string name="first_aid_scanning_item4">Se caută probleme ale acumulatorului…</string>
     <string name="first_aid_scanning_item5">Se caută alte probleme…</string>
     <string name="first_aid_stop_scan">Opriți scanarea</string>
+    <string name="first_settings_default_camera_title">Partajați în mod implicit fără metadate</string>
+    <string name="first_settings_default_location_subtitle">Elimină informațiile despre locație din fotografiile partajate</string>
+    <string name="first_settings_default_location_title">Partajați în mod implicit fără informațiile despre locație</string>
+    <string name="first_settings_share_enable">Adăugați insigna \"Partajare securizată\"</string>
+    <string name="first_settings_share_enable_subtitle">Elementele pe care le partajați prin WeChat vor avea o insignă cu MIUI</string>
+    <string name="first_settings_subtitle">Iată opțiunile de partajare securizată disponibile:</string>
+    <string name="first_settings_title">Protejați-vă confidențialitatea</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="fod_authentication_shift_button">Renunțați</string>
     <string name="fod_button_finger">Utilizați amprenta</string>
@@ -1662,6 +1669,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="list_empty_text">Gol</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii (%d/%d)…</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="lock_all_title">Blocați toate aplicațiile</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
@@ -1984,6 +1992,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_channel_battery">Acumulator</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
+    <string name="notification_garbage_clean_botton_text">Goliți</string>
+    <string name="notification_garbage_clean_hint">Eliberați spațiul de stocare</string>
+    <string name="notification_garbage_clean_size">Eliberați %s</string>
     <string name="notification_garbage_cleanup_summary">Goliți coșul de gunoi (%s) pentru a crește viteza de lucru a dispozitivului</string>
     <string name="notification_garbage_cleanup_title">Ștergeți fișierele inutile</string>
     <string name="notification_low_battery_action_btn">Activați</string>
@@ -1995,6 +2006,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_masked_item">Cum să ascundeți conținutul notificărilor?</string>
     <string name="notification_masked_subtitle">Utilizați Blocarea aplicațiilor pentru a ascunde conținutul notificărilor pentru aplicațiile selectate</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
+    <string name="notification_whatsapp_clean_button_text">Goliți</string>
+    <string name="notification_whatsapp_clean_size">Memoria cache a WhatsApp a atins %s</string>
     <string name="notify_channel_mipush">Mesaje push de securitate</string>
     <string name="notify_channel_name_behavior">Istoricul comportamentului</string>
     <string name="notify_channel_name_security">Securitate sistem</string>
@@ -2048,6 +2061,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="om_shortcut_added_toast_text">Adăugată cu succes</string>
     <string name="om_shortcut_dialog_summary">RAM Jet vă permite să goliți memoria și să creșteți viteza dispozitivului printr-o simplă apăsare. Adăugați RAM Jet pe Ecranul principal?</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">Partajați fără metadate</string>
+    <string name="once_settings_location_title">Partajați fără informațiile despre locație</string>
+    <string name="once_settings_subtitle">Cum doriți să partajați elementele selectate?</string>
+    <string name="once_settings_title">Protejarea confidențialității</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Nu s-a găsit aplicația</string>
     <string name="open_app">Deschideți</string>
@@ -2744,10 +2761,18 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
+    <string name="settings_camera_subtitle_no">Fără metadate</string>
     <string name="settings_category_other">Alte setări</string>
     <string name="settings_category_overheat">Supraîncălzire</string>
     <string name="settings_choice_no_notification">Dezactivat</string>
+    <string name="settings_image_camera_summary">Modelul dispozitivului, metadate, etc.</string>
+    <string name="settings_location_subtitle_no">Fără informații despre locație</string>
     <string name="settings_power_save_ontime_title">Program</string>
+    <string name="settings_share_enable_summary">Elementele pe care le partajați prin WeChat vor avea o insignă cu MIUI</string>
+    <string name="settings_share_info">Iată opțiunile de partajare securizată disponibile pentru elementele partajate din Galerie sau din Managerul de Fișiere:</string>
+    <string name="settings_show_detail">Vedeți detaliile</string>
+    <string name="settings_tip">Mergeți la Galerie>Setări pentru a vedea mai multe opțiuni</string>
+    <string name="settings_title">Partajare securizată</string>
     <string name="shield_keyboard_detail">Atingeți de două ori butoanele pentru a le reactiva</string>
     <string name="shield_keyboard_summary">Restricționați funcțiile butoanelor și gesturile ecran complet pe durata jocurilor</string>
     <string name="shield_keyboard_title">Restricționați funcțiile butoanelor și gesturile</string>
@@ -3242,6 +3267,8 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="text_button">Am înțeles</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day"/>
+    <string name="text_done">OK</string>
+    <string name="text_security">Confidențialitate</string>
     <string name="thermal_tips_message">Dacă jucați jocuri în modul Performanță telefonul se poate supraîncălzi.</string>
     <string name="thermal_tips_title">Atenție</string>
     <string name="third_application">Aplicații instalate</string>
@@ -3471,6 +3498,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_advanced_settings_after_open">După</string>
     <string name="vb_advanced_settings_before_open">Înainte</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Faceți obiectele în mișcare mai clare prin îmbunătățirea animațiilor. Această caracteristică necesită un consum mai mare de energie.</string>
+    <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
     <string name="vb_quick_func_hangup_listening">Redați sunetul video cu ecranul dezactivat</string>
     <string name="vb_quick_func_screen_capture">Captură de ecran</string>
     <string name="vb_quick_func_screen_record">Înregistrați</string>

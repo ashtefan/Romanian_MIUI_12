@@ -3680,7 +3680,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru Spațiul secundar"</string>
     <string name="lockpassword_choose_your_pin_message">Pentru securitate, setați codul PIN</string>
-    <string name="lockpassword_choose_your_pin_title" formatted="false">Introduceți %d-%d cifre</string>
+    <string name="lockpassword_choose_your_pin_title">Introduceți între %1$d și %2$d cifre</string>
     <string name="lockpassword_choose_your_screen_lock_header">Setați metoda de blocare a ecranului</string>
     <string name="lockpassword_clear_label">Goliți</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
@@ -6577,7 +6577,7 @@ După formatare, acest ^1 va funcționa doar în acest dispozitiv.
     <string name="storage_wizard_format_confirm_third_body">^1 este formatat</string>
     <string name="storage_wizard_format_confirm_title">Formatați ca mediu intern de stocare</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatați ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">"Această ^1 trebuie să fie formatată pentru a stoca aplicații, fișiere și multimedia. 
+    <string name="storage_wizard_format_confirm_v2_body">"Această ^1 trebuie să fie formatată pentru a stoca aplicații, fișiere și multimedia.
 
 Formatarea va șterge conținutul existent de pe ^2. Pentru a împiedica pierderea conținutului, faceți o copie de rezervă pe alt ^3 sau dispozitiv."</string>
     <string name="storage_wizard_format_confirm_v2_title">Formatați acest ^1?</string>
@@ -7125,7 +7125,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_password_title">Parolă complexă</string>
     <string name="unlock_set_unlock_pattern_summary">Desenați cu degetul un model simplu pentru a debloca telefonul</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Introduceți %d-%d cifre pentru a debloca telefonul</string>
+    <string name="unlock_set_unlock_pin_summary">Introduceți între %1$d și %2$d cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta din Setări>Securitate.</string>
