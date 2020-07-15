@@ -173,7 +173,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="confirm_unbundled_phone_dialog_message">Numărul de telefon %1$s este asociat contului Mi %2$s. Nu va mai fi asociat contului %3$s dacă veți continua. Sunteți sigur că doriți să continuați?</string>
     <string name="continue_action">Continuaţi</string>
     <string name="copy">Copiați</string>
-    <string name="current_location_title">Locația curentă</string>
+    <string name="copy_to_clipboard_successful">Copiat cu succes</string>
     <string name="delete_action">Ştergeţi</string>
     <string name="delete_app">Ștergeți aplicația</string>
     <string name="delete_bank_card_message">Cardurile Mi Pay bank și NFC vor fi șterse după ce vă veți deconecta</string>

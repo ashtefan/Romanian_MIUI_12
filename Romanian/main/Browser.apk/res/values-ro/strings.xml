@@ -150,8 +150,8 @@
     <string name="block_ads_choice_continue">Continuaţi</string>
     <string name="block_ads_message">Doriți să blocați mesajele de pe acest site?</string>
     <string name="block_ads_title">Conținutul poate cuprinde anunțuri</string>
-    <string name="book_mark_input_title_hint">Vă rugăm să introduceți un nume</string>
-    <string name="book_mark_input_url_hint">Vă rugăm să introduceți URL-ul</string>
+    <string name="book_mark_input_title_hint">Introduceți un nume</string>
+    <string name="book_mark_input_url_hint">Introduceți URL-ul</string>
     <string name="book_mark_search_hint">Căutați %1$s</string>
     <string name="book_mark_spinner_name">Grupare</string>
     <string name="bookmark">Semn de carte</string>

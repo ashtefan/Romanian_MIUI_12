@@ -252,7 +252,7 @@
     <string name="monitor_low_miui">Versiunea MIUI este prea veche</string>
     <string name="monitor_unsupport_device">Dispozitivul nu este suportat deocamdată</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
-    <string name="my_document">documentul meu</string>
+    <string name="my_document">Documente scanate</string>
     <string name="name">Nume:</string>
     <string name="new_schedule">Creați un eveniment</string>
     <string name="newbuildfile">creați un nou fișier</string>

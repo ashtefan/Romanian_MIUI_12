@@ -59,7 +59,7 @@
     <string name="check_local_package_wipe_btn">Ștergeți și actualizați</string>
     <string name="check_local_package_wipe_msg">"Sunteți pe cale să reveniți la versiunea MIUI %s. Datele personale vor fi șterse. Asigurați-vă că ați făcut copii de rezervă pentru elementele importante înainte de a porni procesul."</string>
     <string name="check_local_package_wipe_title">Ștergeți datele</string>
-    <string name="check_new_version">Verificaţi</string>
+    <string name="check_new_version">Căutați actualizări</string>
     <string name="check_update_policy">Setări</string>
     <string name="check_update_when_wifi_available">Utilizaţi doar Wi-Fi pentru verificarea actualizărilor</string>
     <string name="check_update_when_wifi_available_sum">"Se verifică pentru actualizări doar atunci când este conexiune la internet prin Wi-Fi"</string>
@@ -78,8 +78,8 @@
     <string name="continue_update_negative_btn">Continuați</string>
     <string name="continue_update_positive_btn">Stop</string>
     <string name="daily_build">Zilnic</string>
-    <string name="default_filedownloader_notification_content">DescărcareaFișierelor rulează.</string>
-    <string name="default_filedownloader_notification_title">DescărcareaFișierelor</string>
+    <string name="default_filedownloader_notification_content">Descărcarea Fișierelor rulează.</string>
+    <string name="default_filedownloader_notification_title">Descărcarea Fișierelor</string>
     <string name="delay_update_text">Actualizați mai târziu</string>
     <string name="dialog_3g_desc">Luați aminte că descărcarea actualizării utilizând datele mobile va conduce la un trafic de date important.</string>
     <string name="dialog_3g_title">Avertizare!</string>
@@ -97,7 +97,7 @@
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>
     <string name="download_done">Descărcat cu succes!</string>
     <string name="download_fail">Eroare survenită în timpul descărcării!</string>
-    <string name="download_fail_desc">Codul MD5 Sum nu se potrivește…</string>
+    <string name="download_fail_desc">Cheia MD5 Sum nu se potrivește…</string>
     <string name="downloading">Se descarcă:</string>
     <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
     <string name="fetching_data">Se obține linkul de descărcare; așteptați…</string>
@@ -125,7 +125,8 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
-    <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: <b>%1$s</b>.
+    <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: &lt;b&gt;%1$s&lt;/b&gt;"
+    
 Partiția de date nu va fi ștearsă."</string>
     <string name="install_title">Sunteți sigur că doriți să continuați?</string>
     <string name="install_failed">Actualizare eşuată</string>
@@ -138,7 +139,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="log_share">Partajaţi</string>
     <string name="menu_more_button">Meniu</string>
     <string name="menu_title_apply_for_alpha">Înscrieți-vă în programul Beta testing</string>
-    <string name="menu_title_current_version_log">Ce este nou</string>
+    <string name="menu_title_current_version_log">Ce este nou?</string>
     <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
@@ -211,12 +212,12 @@ Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
     <string name="open_now">Da</string>
     <string name="particular_build">Particular</string>
     <string name="pause">Pauză</string>
-  <string name="permdesc_cache_filesystem">Permite aplicației să scrie fișiere în /cache.</string>
-  <string name="permdesc_reboot">Permite aplicației să repornească telefonul.</string>
-  <string name="permlab_cache_filesystem">Acces la Cache</string>
-  <string name="permlab_reboot">Acces Repornire</string>
-  <string name="pick_not_found">Nu s-a găsit niciun manager de fișiere corespunzător.</string>
-  <string name="pick_title">Pick utilizând:</string>
+    <string name="permdesc_cache_filesystem">Permite aplicației să scrie fișiere în /cache.</string>
+    <string name="permdesc_reboot">Permite aplicației să repornească telefonul.</string>
+    <string name="permlab_cache_filesystem">Acces la Cache</string>
+    <string name="permlab_reboot">Acces Repornire</string>
+    <string name="pick_not_found">Nu s-a găsit niciun manager de fișiere corespunzător.</string>
+    <string name="pick_title">Gestionați utilizând:</string>
     <string name="pm_root_acquired_button">Acces root</string>
     <string name="pm_root_acquired_notification_title">Obținere acces root</string>
     <string name="pm_root_acquired_rooting">Obținere acces root %s</string>
@@ -241,7 +242,7 @@ Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
     <string name="provision_toast_server_error">Nu s-a putut conecta la server. Așteptați un minut sau două și reîncercați.</string>
     <string name="provision_toast_timeout">Timpul de conectare a expirat. Verificați setările de rețea.</string>
     <string name="reboot">Reporniţi</string>
-  <string name="recovery_desc">Telefonul va reporni în modul Recuperare. Dacă nu vă este familiar acest mod, NU continuați. Continuați?</string>
+    <string name="recovery_desc">Telefonul va reporni în modul Recuperare. Dacă nu vă este familiar acest mod, NU continuați. Continuați?</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_msg">"Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
@@ -271,7 +272,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s; verificați noutățile la: %2$s</string>
     <string name="share_qq">Postaţi pe Tencent Weibo</string>
     <string name="share_sina">Postaţi pe Sina Weibo</string>
-  <string name="share_title">Partajați cu</string>
+    <string name="share_title">Partajați prin</string>
     <string name="share_update">Distribuiţi informaţia despre actualizare</string>
     <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul detaliat al modificărilor, accesaţi %3$s</string>
     <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul detaliat al modificărilor, accesaţi %2$s</string>

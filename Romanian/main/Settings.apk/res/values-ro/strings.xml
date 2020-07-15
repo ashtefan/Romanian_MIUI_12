@@ -175,6 +175,10 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="accessibility_setting_item_control_timeout_title">Timpul de realizare a unei acțiuni (Timp limită accesibilitate)</string>
     <string name="accessibility_settings">Accesibilitate</string>
     <string name="accessibility_settings_summary">Cititor ecran, afișaj, controale de interacțiune</string>
+    <string name="accessibility_settings_tabs_general">General</string>
+    <string name="accessibility_settings_tabs_hearing">Auz</string>
+    <string name="accessibility_settings_tabs_physical">Fizic</string>
+    <string name="accessibility_settings_tabs_visual">Vedere</string>
     <string name="accessibility_settings_title">Setări de accesibilitate</string>
     <string name="accessibility_shortcut_description">Când scurtătura este activată, puteți apăsa ambele butoane de volum pentru 3 secunde pentru a porni o caracteristică de accesibilitate.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Permiteți din blocarea ecranului</string>
@@ -344,6 +348,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="agps_roaming_summary">Utilizaţi datele mobile pentru A-GPS în roaming</string>
     <string name="ai_button_title">Buton Mi AI</string>
     <string name="ai_button_title_global">Buton AI</string>
+    <string name="ai_call_assistant">Apeluri AI</string>
     <string name="ai_key">Buton AI</string>
     <string name="ai_key_double_click">Apăsare dublă</string>
     <string name="ai_key_long_press">Apăsare și menținere</string>
@@ -2891,7 +2896,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="freeform_vedio_description">"·Apăsați și mențineți apăsat, și apoi glisați în jos o notificare pentru a o deschide într-o fereastră plutitoare.
 ·Atingeți \"Ferestre plutitoare\" în Recente pentru a selecta aplicațiile."</string>
     <string name="frequently_fragment_delete">Eliminaţi</string>
-    <string name="frequently_fragment_tempty">Aplicaţiile utilizate frecvent vor fi enumerate aici</string>
+    <string name="frequently_fragment_tempty">Aplicaţiile utilizate frecvent vor fi listate aici</string>
     <string name="fsg_mistake_touch_summary">În unele situații, cum ar fi jocuri sau videoclipuri în ecran complet, gesturile trebuie dublate pentru a avea efect</string>
     <string name="fsg_mistake_touch_title">Verificare dublă pentru gesturi</string>
     <string name="full_screen_display">Mod ecran complet</string>
@@ -2926,13 +2931,13 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="game_controller_settings_category">Controler de jocuri</string>
     <string name="game_driver_all_apps_preference_title">Activați pentru toate aplicațiile</string>
     <string name="game_driver_app_preference_default">Implicit</string>
-  <string name="game_driver_app_preference_game_driver">Game Driver</string>
-  <string name="game_driver_app_preference_prerelease_driver">Prerelease Driver</string>
-  <string name="game_driver_app_preference_system">System Graphics Driver</string>
-  <string name="game_driver_app_preference_title">Select Graphics Driver</string>
-  <string name="game_driver_dashboard_summary">Modify Game Driver settings</string>
-  <string name="game_driver_dashboard_title">Game Driver Preferences</string>
-  <string name="game_driver_footer_text">When Game Driver is turned on, you can pick to use the updated graphics driver for Apps installed on the device.</string>
+  <string name="game_driver_app_preference_game_driver">Driver Jocuri</string>
+  <string name="game_driver_app_preference_prerelease_driver">Driver prelansare</string>
+  <string name="game_driver_app_preference_system">Driver de grafică de sistem</string>
+  <string name="game_driver_app_preference_title">Selectați Driverul grafic</string>
+  <string name="game_driver_dashboard_summary">Modificați setările Driverului de joc</string>
+  <string name="game_driver_dashboard_title">Preferințe Driver Jocuri</string>
+  <string name="game_driver_footer_text">Când Game Driver este pornit, puteți alege să utilizați driverul grafic actualizat pentru aplicațiile instalate pe dispozitiv.</string>
     <string name="game_storage_settings">Jocuri</string>
     <string name="gentle_notifications_also_display">Afișează de asemenea și în</string>
     <string name="gentle_notifications_display_lock">Blocarea ecranului</string>
@@ -3051,6 +3056,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
     <string name="headset_settings_title">Efecte sunet</string>
+    <string name="hearing_aids_category">Instrumente de asistență auditivă</string>
     <string name="heavy_weight_stop_description">Această aplicaţie nu poate fi oprită în siguranţă. Oprirea aplicaţiei ar putea duce la pierderea datelor curente.</string>
     <string name="help_and_feedback_title">Ajutor și feedback</string>
     <string name="help_feedback_label">Ajutor și feedback</string>
@@ -3117,39 +3123,39 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="homepage_all_settings">Toate Setările</string>
     <string name="homepage_condition_footer_content_description">Restrângeți</string>
     <string name="homepage_personal_settings">Sugestii</string>
-    <string name="how_backup_content">"Există 3 tipuri de copii de rezervă pe care le puteți crea: locală, cloud și USB.
+    <string name="how_backup_content">"Puteți salva copiile de rezervă pe dispozitiv sau în cloud. Copiile de rezervă locale pot fi stocate pe telefonul mobil, pe computer sau pe un dispozitiv USB.
 
-Copiile de rezervă locale:
-Copiile de rezervă locale vă permit să salvați setările de sistem, conturile, datele aplicațiilor precum și alte elemente într-un fișier separat stocat pe dispozitiv (MIUI-copie de rezervă-Toate copiile de rezervă). După ce este creat fișierul, îl puteți transfera pe computer prin intermediul cablului USB.
-Notă:
-Puteți utiliza Mi PC Suite pentru a crea copii de rezervă și pentru a restaura elemente.
+Telefon mobil
+Salvați setările de sistem, conturile, datele aplicațiilor precum și alte elemente într-un fișier separat stocat pe dispozitiv (MIUI-backup-AllBackup). Notă: Dacă reveniți la setările din fabrică, aceste copii de rezervă vor fi șterse definitiv. Nu uitați minte să copiați aceste fișiere pe computer.
 
-Copiile de rezervă în Cloud:
-Puteți crea copii de rezervă pentru setările de sistem, dispunerea Ecranului principal, aplicații, precum și pentru alte elemente în Xiaomi Cloud printr-o conexiune fără fir.
+Computer
+Creați o copie de rezervă pe acest dispozitiv, apoi mergeți la MIUI-backup-AllBackup și copiați copia de rezervă pe computer utilizând cablul USB.
 
-Copiile de rezervă USB:
-Această metodă vă permite să salvați setările de sistem, conturile, datele aplicațiilor, precum și alte elemente pe un dispozitiv de stocare USB extern.
-"</string>
+Dispozitiv USB
+Salvați setările de sistem, conturile, datele aplicațiilor și alte elemente pe un dispozitiv USB.
+
+Xiaomi Cloud
+Sincronizați contactele, fotografiile, videoclipurile, lista aplicațiilor, setările de sistem și dispunerea Ecranului principal în cloud."</string>
     <string name="how_backup_title">1. Cum pot face copii de rezervă pentru diverse elemente?</string>
-    <string name="how_encrypt_content">"Copiile de rezervă locale pot fi doar criptate. Există 2 metode pentru a face asta:
-a) Deschideți pagina care conține copiile de rezervă locale, atingeți butonul pentru a activa criptarea și conectați-vă la contul dvs. Mi. Copiile de rezervă vor fi criptate în mod automat după aceea. Țineți minte că va trebui să vă conectați la contul Mi pentru a restaura elementele din copiile de rezervă criptate.
+    <string name="how_encrypt_content">"Copiile de rezervă locale pot fi doar criptate. Iată câteva metode pe care le puteți utiliza:
+a) Mergeți la Setări>Setări adiționale din pagina care conține copiile de rezervă locale, atingeți butonul pentru a activa criptarea și conectați-vă la contul dvs. Mi. Copiile de rezervă vor fi criptate în mod automat după aceea. Țineți minte că va trebui să vă conectați la contul Mi pentru a restaura elementele din copiile de rezervă criptate.
 b) Dacă utilizați Mi PC Suite pentru a face o copie de rezervă, puteți folosi opțiunile de criptare de acolo.
 
-Notă:
-Țineți minte parola setată pentru copiile de rezervă criptate! Nu veți putea decripta copiile de rezervă dacă uitați parola.
-"</string>
+Notă: Țineți minte parola setată pentru copiile de rezervă criptate! Nu veți putea decripta copiile de rezervă dacă uitați parola."</string>
     <string name="how_encrypt_title">3. Cum pot cripta copiile de rezervă?</string>
     <string name="how_restore_backup_content">"Iată cum puteți restaura elementele din copiile de rezervă realizate prin diverse metode:
 
-Copiile de rezervă locale:
-Copiați fișierul care conține copia de rezervă din computer pe telefon (MIUI-copii de rezervă-Toate copiile de rezervă). Mergeți la Setări>Creare copie de rezervă sau resetare>Pe acest dispozitiv și selectați fișierul respectiv.
+Dispozitiv mobil
+Atingeți \"Dispozitiv mobil\", găsiți opțiunea de restaurare elemente și selectați copia de rezervă pentru a continua.
 
-Copiile de rezervă în Cloud:
-Conectați-vă la contul dvs. Mi, mergeți la Setări>Copie de rezervă, restaurare sau resetare>În Xiaomi Cloud și selectați fișierul.
+Computer
+Copiați copia de rezervă din computer în MIUI-backup-AllBackup prin intermediul cablului USB și restaurați elementele de pe dispozitivul mobil.
 
-Copiile de rezervă USB:
-Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rezervă-Toate copiile de rezervă). Mergeți la Setări>Copie de rezervă, restaurare sau resetare>Pe acest dispozitiv și selectați fișierul corespunzător.
-"</string>
+Dispozitiv USB
+Copiați copia de rezervă de pe dispozitivul USB în MIUI-backup-AllBackup și selectați opțiunea de restaurare de pe un dispozitiv USB pentru a continua.
+
+Xiaomi Cloud
+Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="how_restore_backup_title">2. Cum restaurez elementele din copiile de rezervă?</string>
     <string name="http_invoke_app">Aplicații web</string>
     <string name="http_invoke_app_summary">Deschideți aplicațiile mai rapid, fără a le instala</string>
@@ -3190,8 +3196,8 @@ Copiați fișierul care conține copia de rezervă pe telefon (MIUI-copii de rez
     <string name="infinity_display_title">Afișare ecran complet</string>
     <string name="information_dialog_button_text">Am înțeles</string>
     <string name="information_label">Informație</string>
-    <string name="input_assistance">Asistență introducere</string>
-    <string name="input_hint_prefix">Introduceți %1$s</string>
+    <string name="input_assistance">Unelte</string>
+    <string name="input_device_category">Dispozitiv de introducere</string>
     <string name="input_method">Tastatură</string>
     <string name="input_method_bottom_close">Oprit</string>
     <string name="input_method_bottom_open">Pornit</string>
@@ -5945,7 +5951,11 @@ Pentru a utiliza fixarea ecranului:
     <string name="security_encryption_rejected_via_home_manager">"Această caracteristică nu este suportată în versiunea demo."</string>
     <string name="security_encryption_title">Criptați telefonul utilizând parola de Blocare a ecranului</string>
     <string name="security_input">Tastatură securizată</string>
+    <string name="security_input_enable">Tastatură securizată</string>
     <string name="security_input_hint">Utilizați tastatura securizată când introduceți parole</string>
+    <string name="security_input_num_order">Fixat</string>
+    <string name="security_input_num_random_order">Randomizat</string>
+    <string name="security_input_num_setting_title">Tastatură numerică</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Confidențialitate</string>
@@ -6548,7 +6558,7 @@ Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8
     <string name="storage_settings_summary">Demontaţi stocarea USB, vedeți spațiul disponibil</string>
     <string name="storage_settings_title">Setări de stocare</string>
     <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
-    <string name="storage_size_large_alternate">^1&lt;small&gt; ^2&lt;/small&gt;</string>
+    <string name="storage_size_large_alternate">^1&lt;small&gt; &lt;font size="20"&gt;^2&lt;/font&gt;&lt;/small&gt;</string>
     <string name="storage_summary">%1$s utilizat - %2$s disponibil</string>
     <string name="storage_summary_format">%1$s utilizat în %2$s</string>
     <string name="storage_summary_with_sdcard">Stocare internă: %1$s utilizat - %2$s disponibil</string>
@@ -6737,13 +6747,13 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
  "</string>
     <string name="sunlight_mode">Mod Răsărit</string>
     <string name="sunlight_mode_summary">Ajustează iluminarea la lumina ambientală puternică când iluminarea automată este oprită</string>
-   <string name="super_resolution_access_title">Aplicații accesibile</string>
+    <string name="super_resolution_access_title">Aplicații accesibile</string>
     <string name="super_resolution_desc">Face imaginile mai clare utilizând un algoritm AI</string>
     <string name="super_resolution_maintain">"Super rezoluția nu este disponibilă încă."</string>
     <string name="super_resolution_no_app_tips">Descărcați mai întâi WeChat și Toutiao.</string>
     <string name="super_resolution_reboot_tips">Această caracteristică permite ca imaginile blurate din WeChat și Toutiao să fie mai clare. Lansați din nou aplicațiile după ce activați această funcție.</string>
     <string name="super_resolution_title">Super rezoluție</string>
-    <string name="supl_not_set">&lt;Nu este setat&gt;</string>
+    <string name="supl_not_set">&lt;Nesetat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="support_account_picker_add_account">Adăugați un cont</string>
     <string name="support_account_request_prefix">Se solicită ca</string>
@@ -7308,7 +7318,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="usb_use">Folosiți conexiunea USB ca să</string>
     <string name="usb_use_MIDI">Folosiți dispozitivul ca MIDI</string>
     <string name="usb_use_MIDI_desc">Utilizați acest dispozitiv ca MIDI</string>
-    <string name="usb_use_charging_only">Încărcați acest dispozitiv</string>
+    <string name="usb_use_charging_only">Fără transfer de fișiere</string>
     <string name="usb_use_charging_only_desc">Doar încarcă acest dispozitiv</string>
     <string name="usb_use_file_transfers">Transferați fișiere</string>
     <string name="usb_use_file_transfers_desc">Transferați fișiere pe alt dispozitiv</string>
@@ -7317,7 +7327,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="usb_use_power_only">Încarcă dispozitivul conectat</string>
     <string name="usb_use_tethering">Tethering prin USB</string>
     <string name="use_control_panel">Utilizați noul Centru de Control</string>
-    <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pt. îmbunăt. rezultatelor căutării şi a serviciilor</string>
+    <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pentru îmbunătățirea rezultatelor căutării şi a altor serviciilor</string>
     <string name="use_location_title">Locaţie şi căutare Google</string>
     <string name="use_open_wifi_automatically_summary">Se conectează în mod automat la rețelele publice de calitate ridicată</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Pentru a o utiliza, selectați un furnizor de rating de rețea compatibil</string>
@@ -7496,7 +7506,8 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="visibility_override_title">În Blocarea ecranului</string>
     <string name="vision_settings_description">Puteți personaliza acest dispozitiv pentru a vă satisface nevoile. Aceste caracteristici de accesibilitate pot fi modificate mai târziu în Setări.</string>
     <string name="vision_settings_suggestion_title">Modificați dimensiunea fontului</string>
-    <string name="vision_settings_title">Setări Vision?</string>
+    <string name="vision_settings_title">Setări Vedere</string>
+    <string name="voice_access">Control vocal</string>
     <string name="voice_assist">Mi Ai</string>
     <string name="voice_category">Rostire</string>
     <string name="voice_helper_title">Asistent vocal</string>
