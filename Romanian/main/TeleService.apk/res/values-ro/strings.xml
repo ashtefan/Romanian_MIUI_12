@@ -1020,6 +1020,8 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenție</string>
     <string name="fiveg_sa_switch_summary">Permiteți conectarea la rețelele 5G în modul de sine stătător</string>
     <string name="fiveg_sa_switch_title">Mod SA</string>
+    <string name="fiveg_sa_switch_title_slot0">Mod SA SIM 1</string>
+    <string name="fiveg_sa_switch_title_slot1">Mod SA SIM 2</string>
     <string name="fiveg_sa_switch_warning_toast">Vă rugăm să reporniți telefonul pentru a aplica modificările.</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G :</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>

@@ -65,7 +65,7 @@
         <item quantity="one">La fiecare %1$s min, s-a declanșat %2$s dată</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">La fiecare %1$s min</item>
+        <item quantity="other">La fiecare %1$s minute</item>
         <item quantity="one">La fiecare %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">

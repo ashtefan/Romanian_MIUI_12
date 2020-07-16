@@ -574,7 +574,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_notify_task_cancel_count_down">Acțiunea automată va fi anulată în 5 secunde</string>
     <string name="auto_task_notify_task_cancel_do">Opriți sarcina</string>
     <string name="auto_task_notify_task_canceled_summary">Veți putea efectua și primi apeluri</string>
-    <string name="auto_task_notify_task_canceled_summary2">"Se pare că jucați un joc acum."</string>
+    <string name="auto_task_notify_task_canceled_summary2">Se pare că jucați un joc acum.</string>
     <string name="auto_task_notify_task_canceled_summary3">Anulată de Spațiul Secundar</string>
     <string name="auto_task_notify_task_canceled_summary4">Anulată de Spațiul Principal</string>
     <string name="auto_task_notify_task_canceled_title">Acțiunea este anulată</string>
@@ -592,7 +592,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_operation_mobile_data">Accesul la date mobile</string>
     <string name="auto_task_operation_modify_string">Editați %s</string>
     <string name="auto_task_operation_mute">Modul Silențios</string>
-    <string name="auto_task_operation_no_op">"Nu selecta această acțiune"</string>
+    <string name="auto_task_operation_no_op">Nu selecta această acțiune</string>
     <string name="auto_task_operation_open">Activ</string>
     <string name="auto_task_operation_open_string">Activează %s</string>
     <string name="auto_task_operation_string_comma">, </string>
@@ -638,7 +638,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_health_title_text">Starea acumulatorului</string>
     <string name="battery_health_voltage_text">Tensiunea acumulatorului</string>
     <string name="battery_history_activity_title">Istoric</string>
-    <string name="battery_history_days">%1$dz %2$dh %3$dm şi %4$d s</string>
+    <string name="battery_history_days">%1$dz %2$dh %3$dm şi %4$ds</string>
     <string name="battery_history_hours">%1$dh %2$dm şi %3$ds</string>
     <string name="battery_history_minutes">%1$dm şi %2$ds</string>
     <string name="battery_history_seconds">%1$d sec.</string>
@@ -800,6 +800,11 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="choose_gs_show_way">Selectați orientarea paginii inițiale</string>
     <string name="clean_immediately">Goliți</string>
     <string name="clean_master_icon_recall_button_text">Adăugați</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Nu, mulțumesc</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">Adăugați</string>
+    <string name="clean_master_icon_recall_dialog_summary">Adăugați o scurtătură pe Ecranul principal pentru a putea goli coșul de gunoi oricând aveți nevoie.</string>
+    <string name="clean_master_icon_recall_dialog_title">Goliți mai rapid coșul de gunoi</string>
+    <string name="clean_master_icon_recall_hint">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="clean_master_icon_recall_summary">Adăugați o scurtătură pe Ecranul principal pentru a goli coșul de gunoi ori de câte ori aveți nevoie.</string>
     <string name="clean_master_icon_recall_title">Goliți mai rapid coșul de gunoi</string>
     <string name="clean_master_icon_recall_toast_text">S-a adăugat cu succes o scurtătură pe Ecranul principal pentru funcția Curățare</string>
@@ -1452,6 +1457,10 @@ cardul de sănătate"</string>
     <string name="gb_game_video_type_manual_record">Înregistrați manual</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
     <string name="gb_global_settings">Setări generale</string>
+    <string name="gb_gpu_driver_btn_update">Căutați actualizări</string>
+    <string name="gb_gpu_driver_update">Actualizare drivere GPU</string>
+    <string name="gb_gpu_driver_update_app">Actualizați</string>
+    <string name="gb_gpu_driver_update_app_tips">Versiunea curentă este cea mai recentă</string>
     <string name="gb_have_signed">Verificat astăzi</string>
     <string name="gb_manual_record_dialog_del_video_message">Ștergeți definitiv videoclipurile selectate?</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
@@ -1500,7 +1509,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
-    <string name="gdpr_msg">&lt;Data&gt;"Pentru a utiliza caracteristicile de bază ale aplicației de Securitate, trebuie să fiți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv informații despre modul în care utilizați caracteristicile aplicației(e.g., utilizarea datelor, informații despre viruși, ca și informațiile de bază despre dispozitivul dvs.) și alte tipuri de informații stipulate în &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile. "&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
@@ -2253,7 +2262,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_remember_choice">Memorează preferințele</string>
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
-    <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
+    <string name="power_20s_shutdown">Dispozitivul se va închide peste %d de secunde</string>
     <string name="power_ambient_display">Afișaj activ permanent</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
     <string name="power_analysis_suggestion_need_optimize">Au fost găsite probleme legate de utilizarea acumulatorului.</string>
@@ -2800,6 +2809,13 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sim_not_ready_toast">"Cartela SIM nu este pregătită"</string>
     <string name="sim_state_exception_summary">Starea cartelei SIM indică că ceva poate fi în neregulă cu aceasta.</string>
     <string name="sip_phone">Telefon SIP</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skin_change_close_toast">Modificările se vor aplica data viitoare când lansați aplicația Securitate</string>
     <string name="sms_address">Blocare după zonă</string>
     <string name="sms_blacklist">Blocare SMS-uri</string>
@@ -3255,7 +3271,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
     <string name="tc_web_correct_error">"Nu s-a putut calibra"</string>
-    <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
+    <string name="ten_percent_total_pkg">%s (10% din datele lunare)</string>
     <string name="tether_custom_dialog_title">Limită date mobile</string>
     <string name="tether_limit_dialog_title">Limită date mobile</string>
     <string name="tether_limit_value_custom">Personalizat</string>
@@ -3544,6 +3560,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vtb_func_frc_title">Fluidizarea mișcării</string>
     <string name="vtb_func_vpp_desc4">Această caracteristică nu va funcționa când rezoluția videoclipului este mai mare de 4K."</string>
     <string name="vtb_func_vpp_title">Contururi accentuate</string>
+    <string name="vtb_function_video_translation">Traducere în timp real</string>
     <string name="vtb_other_milink_connect">Nu se poate proiecta videoclipul acum. Pe cale să se proiceteze alte elemente…</string>
     <string name="vtb_stop_milink_connect">S-a oprit proiectarea videoclipului</string>
     <string name="wakepath_confirm_start_activity">Permiteți %1$s să deschidă %2$s?</string>
