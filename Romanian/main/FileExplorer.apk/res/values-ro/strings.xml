@@ -652,6 +652,7 @@
     <string name="storage_cloned_app">Stocare pentru aplicațiile clonate</string>
     <string name="storage_info_detail">Disponibil: %1$s Total: %2$s</string>
     <string name="storage_internal">Stocare internă</string>
+    <string name="storage_maintenance_mode">Stocare pentru modul întreținere</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="storage_warning">Imposibil de utilizat stocarea externă</string>

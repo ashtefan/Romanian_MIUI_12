@@ -1419,6 +1419,9 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="theme_dialog_confirm_button">Am înțeles</string>
+    <string name="theme_dialog_confirm_content">Această versiune a aplicației Contacte nu suportă tema care este aplicată în prezent.</string>
+    <string name="theme_dialog_confirm_title">Nu s-a putut aplica tema</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>

@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
-    <string name="app_name">app_main</string>
+    <string name="app_name">aplicație principală</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
@@ -196,6 +196,7 @@
     <string name="miui_guide_item_complete">Finalizat</string>
     <string name="miui_guide_item_new">Nou</string>
     <string name="miui_guide_item_progress">Finalizat %1$d/%2$d</string>
+    <string name="miui_guide_menu_privacy">Politica de Confidențialitate</string>
     <string name="miui_guide_top_bar_sub_title">Aflați ce poate face MIUI</string>
     <string name="miui_guide_top_bar_title">"Ghidul începătorului"</string>
     <string name="miui_main_bottom_bar_feedback">Feedback</string>

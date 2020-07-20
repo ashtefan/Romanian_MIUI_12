@@ -99,6 +99,8 @@
     <string name="music_delete">Ștergeți</string>
     <string name="music_delete_sound_title">Se șterg presetările</string>
     <string name="music_dirac_control">Optimizați calitatea audio</string>
+    <string name="music_dirac_mode_bluetooth_collar">Căști Mi Bluetooth Collar</string>
+    <string name="music_dirac_mode_bluetooth_linefree">Căști Mi Bluetooth Linefree (Type-C)</string>
     <string name="music_dirac_mode_cancelling">Reducere Zgomot Mi 3,5mm</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -193,6 +195,8 @@
     <string name="personal_sound">Redați aplicând presetarea</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="retry_test">Reluați</string>
+    <string name="ringtone_output_device_summary">Atunci când un echipament periferic (set căști cu fir sau dispozitiv Bluetooth) este conectat, sunetul de apel sau notificările se vor auzi și în difuzor</string>
+    <string name="ringtone_output_device_title">Permiteți redarea sunetului prin difuzor</string>
     <string name="save_and_apply">Salvați și aplicați</string>
     <string name="search_menu_title">Căutați</string>
     <string name="second_note">Puneți căștile la urechi.</string>

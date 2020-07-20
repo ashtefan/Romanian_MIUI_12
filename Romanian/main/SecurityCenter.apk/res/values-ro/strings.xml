@@ -1808,7 +1808,8 @@ răspunsul operatorului"</string>
     <string name="memory_check_content">Eliberați %s</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">S-au eliberat %s. Dispozitivul dvs. este cu %d%% mai rapid acum.</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">"S-au eliberat %s.
+Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Adăugați</string>
@@ -2158,7 +2159,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_battery_detail_menu_item">Detalii</string>
     <string name="pc_battery_history_consume_rank_menu_item">Evaluare</string>
     <string name="pc_battery_history_consumption_percent_title">Procentul consumului de energie</string>
-    <string name="pc_battery_history_idletime_title">Așteptare</string>
+    <string name="pc_battery_history_idletime_title">În așteptare</string>
     <string name="pc_battery_history_item_chart">Graficul consumului de energie</string>
     <string name="pc_battery_history_item_histogram">Detalii despre consumul de energie</string>
     <string name="pc_battery_history_rank_mha_menu_item">Miliamperi oră</string>
@@ -2379,18 +2380,18 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
-    <string name="power_save_ps_close_setting_3">Dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s)</string>
-    <string name="power_save_ps_close_setting_4">Dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s)</string>
-    <string name="power_save_ps_close_setting_5">Dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+    <string name="power_save_ps_close_setting_3">Se dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s)</string>
+    <string name="power_save_ps_close_setting_4">Se dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s)</string>
+    <string name="power_save_ps_close_setting_5">Se dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
     <string name="power_save_ps_close_setting_5gnet">Conectivitatea de rețea 5G</string>
-    <string name="power_save_ps_close_setting_6">Dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-    <string name="power_save_ps_close_setting_7">Dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+    <string name="power_save_ps_close_setting_6">Se dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+    <string name="power_save_ps_close_setting_7">Se dezactivează serviciile și caracteristicile energofage (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"Atinge de două ori pentru a trezi sau pentru a închide ecranul\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"Arată pictograma amprentei când ecranul este închis\"</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">feedback tactil</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Ridicare pentru a trezi\"</string>
-    <string name="power_save_ps_close_setting_sync">sincronizare</string>
+    <string name="power_save_ps_close_setting_sync">Sincronizarea</string>
     <string name="power_save_ps_description_title">Economisirea acumulatorului activează următoarele restricții:</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
@@ -2913,9 +2914,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_call_other_group">Altele</string>
     <string name="st_call_settings">Blocare apeluri</string>
     <string name="st_call_stranger_group">Blocare apeluri de la necunoscuți</string>
-    <string name="st_confirm_dialog_btn_open">Deschideți</string>
+    <string name="st_confirm_dialog_btn_open">Blocați</string>
     <string name="st_confirm_dialog_summary_contact_call">Toate apelurile de la contacte vor fi blocate.</string>
-    <string name="st_confirm_dialog_summary_oversea_call">Activați blocarea tuturor apelurilor de la numere de telefon străine.</string>
+    <string name="st_confirm_dialog_summary_oversea_call">Toate apelurile de la numere de telefon străine vor fi blocate.</string>
     <string name="st_confirm_dialog_summary_stranger_call">Toate apelurile de la persoane necunoscute vor fi blocate.</string>
     <string name="st_filter_keywords_setting_summary1">Mesajele de la numere necunoscute care conțin cuvintele din această listă vor fi blocate.</string>
     <string name="st_filter_keywords_setting_summary2">(Folosiți virgula pentru a separa cuvinte cheie multiple)</string>
@@ -3138,16 +3139,16 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_progress_turnoff_process">Restricționați activitatea în fundal</string>
     <string name="superpower_savemode_description_title">Ultra economisirea acumulatorului activează următoarele restricții:</string>
     <string name="superpower_savemode_limit1">Tema întunecată</string>
-    <string name="superpower_savemode_limit2">Restricționați activitatea în fundal</string>
-    <string name="superpower_savemode_limit3">Se resticționează activitățile consumatoare de energie (sincronizarea, GPS-ul, vibrațiile, afișajul activ permanent, etc.)</string>
-    <string name="superpower_savemode_limit4">Permiteți aplicațiilor selectate să funcționeze în mod normal</string>
+    <string name="superpower_savemode_limit2">Restricționarea activității în fundal</string>
+    <string name="superpower_savemode_limit3">Se restricționează activitățile consumatoare de energie (sincronizarea, GPS-ul, vibrațiile, afișajul activ permanent, etc.)</string>
+    <string name="superpower_savemode_limit4">Se permite aplicațiilor selectate să funcționeze în mod normal</string>
     <string name="superpower_settings">Ultra economisirea acumulatorului</string>
-    <string name="superpower_settins_autoenter_summary">Activați Ultra economisirea acumulatorului în mod automaty atunci când nivelul acumulatorului scade sub 10%</string>
+    <string name="superpower_settins_autoenter_summary">Activați Ultra economisirea acumulatorului în mod automat atunci când nivelul acumulatorului scade sub 10%</string>
     <string name="superpower_settins_autoenter_title">Activați în mod automat</string>
     <string name="superpower_settins_autoleave_summary">Dezactivați Ultra economisirea acumulatorului în mod automat atunci când acumulatorul are 50% energie</string>
     <string name="superpower_settins_autoleave_title">Dezactivați în mod automat</string>
     <string name="superpower_settins_other">Setări adiționale</string>
-    <string name="superpower_settins_switch_summary">Se resticționează activitățile intens consumatoare de energie pentru a menține funcțiile de bază (de ex. apelurile, SMS-urile și aplicațiile selectate) cât mai mult timp posibil</string>
+    <string name="superpower_settins_switch_summary">Se restricționează activitățile intens consumatoare de energie pentru a menține funcțiile de bază (de ex. apelurile, SMS-urile și aplicațiile selectate) active cât mai mult timp posibil.</string>
     <string name="support_game_booster_tips">Creștere viteză de reacție și îmbunătățire experiență în jocuri</string>
     <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
     <string name="sys_cpu_title">Utilizare procesor</string>

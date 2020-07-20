@@ -502,6 +502,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_floating_window_dlg_disable">"Dezactivarea setărilor ferestrei plutitoare pt. %1$s necesită repornirea aplicației"</string>
     <string name="app_floating_window_dlg_enable">"Activarea setărilor ferestrei plutitoare pt. %1$s necesită repornirea aplicaţiei."</string>
     <string name="app_forward_locked">Aplicaţia este protejată la copiere.</string>
+    <string name="app_function">Funcțiile aplicației</string>
     <string name="app_info_storage_title">Spațiul utiizat</string>
     <string name="app_install_details_group_title">Magazin</string>
     <string name="app_install_details_summary">Aplicație instalată din %1$s</string>
@@ -1426,8 +1427,8 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="call_records_name_2">Marius Coman</string>
     <string name="call_records_name_3">Radu Nicoară</string>
     <string name="call_records_summary_1">9:35 AM | 26 de secunde | Digi Mobil</string>
-    <string name="call_records_summary_2">16 August | 1min și 16sec | Orange</string>
-    <string name="call_records_summary_3">16 August | 2min și 24sec | Vodafone</string>
+    <string name="call_records_summary_2">16 August | 1 min și 16 sec | Orange</string>
+    <string name="call_records_summary_3">16 August | 2 min și 24 sec | Vodafone</string>
     <string name="call_settings_primary_user_only">Modificați setările apelurilor în spațiul principal</string>
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
     <string name="call_settings_title">Setări apel</string>
@@ -2025,7 +2026,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="day_of_week">Ziua din săptămână</string>
     <string name="dc_light_dialog_summary">Calitatea imaginii poate fi afectată când modul Anti-pâlpâire este activ. Activați oricum?</string>
     <string name="dc_light_summary">Aplicați întunecarea DC pentru a reduce încordarea ochilor</string>
-    <string name="dc_light_summary_new">Reducerea continuă previne pâlpâirea intensă și reduce tensiunea ochilor în condiții de lumină scăzută. Cu toate acestea, calitatea imaginii ar putea fi afectată atunci când această funcție este activată.</string>
+    <string name="dc_light_summary_new">Previne pâlpâirea intensă și reduce tensiunea ochilor în condiții de lumină scăzută</string>
     <string name="dc_light_title">Mod Anti-pâlpâire</string>
     <string name="debug_app">Selectaţi aplicaţia de depanare</string>
     <string name="debug_app_not_set">Nu aţi setat o aplicaţie de depanare</string>
@@ -2846,6 +2847,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="foreground_traffic">În prim plan %s</string>
     <string name="forget">Renunțați</string>
     <string name="forget_passpoint_dialog_message">Este posibil să pierdeți accesul la orice durată sau date rămase. Verificați împreună cu operatorul înainte de a elimina.</string>
+    <string name="forget_passpoint_wifi_message">Telefonul dvs. nu se va mai conecta în mod automat la această rețea.</string>
     <string name="forget_password_button_text">&lt;u&gt;Parolă uitată&lt;/u&gt;</string>
     <string name="forget_password_dialog_button_text">Înapoi</string>
     <string name="forget_password_dialog_content_four">2. Selectați [Ștergere date] și așteptați până când telefonul repornește.</string>
@@ -4848,6 +4850,13 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="partial_connectivity_text">Unele aplicații și servicii pot să nu funcționeze datorită conectivității limitate. Utilizați oricum?</string>
     <string name="passpoint_content">%1$s credențiale</string>
     <string name="passpoint_label">Salvat prin</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Punctul de acces este o tehnologie de încredere, sigură și automată de conexiune la Wi-Fi lansată de către Alianța Wi-Fi. Configurați automat conturile pentru a realiza o conexiune perfectă între rețeaua configurată Wi-Fi și dispozitivele mobile
+
+Această funcție doar obține adresa MAC Wi-Fi pentru înregistrarea inițială a contului. Vom procesa datele dvs. în concordanță cu %s. Vă rugăm să citiți această politică cu atenție și să o acceptați pentru a continua."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Renunțați</string>
+    <string name="passpoint_r1_privacy_dialog_title">Atenție</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">Politica de Confidențialitate</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Accept și continui</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_and_security">Parole și securitate</string>
     <string name="password_entrance_title">Setați metoda de Blocare a ecranului</string>

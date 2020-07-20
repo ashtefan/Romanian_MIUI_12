@@ -330,6 +330,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="font_trial_end_purchase">Cumpărați fontul</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal transparentă în Spațiul principal.</string>
     <string name="forbid_video_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal dinamică în Spațiul principal.</string>
     <string name="friday">Vineri</string>
@@ -425,7 +426,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="kuyin_user_agreement_content_href">Politica de Confidențialitate iFlytek</string>
     <string name="lab">Laborator Teme</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
-    <string name="live_wallpaper">Imagini de fundal live</string>
+    <string name="live_wallpaper">Imagine de fundal dinamică</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
@@ -996,6 +997,8 @@ mm"</string>
     <string name="the_night_of_sevens">Noaptea de șeptari</string>
     <string name="the_partys_day">Ziua partidului</string>
     <string name="the_peace_day">Ziua Păcii</string>
+    <string name="the_picture_is_not_support">Imaginea nu este suportată</string>
+    <string name="the_picture_is_too_small">Imaginea este prea mică</string>
     <string name="the_retrocession_day">Ziua Retrocedării</string>
     <string name="the_second_day">Ziua a doua</string>
     <string name="the_seventh_day">Ziua a șaptea</string>
@@ -1039,8 +1042,8 @@ mm"</string>
     <string name="theme_component_title_all">Teme</string>
     <string name="theme_component_title_aod">Afișaj activ permanent</string>
     <string name="theme_component_title_audio_effect">Sunet</string>
-    <string name="theme_component_title_boot_animation">Animaţie Boot</string>
-    <string name="theme_component_title_boot_audio">Sunet de Boot</string>
+    <string name="theme_component_title_boot_animation">Animaţie la pornire</string>
+    <string name="theme_component_title_boot_audio">Sunet pornire dispozitiv</string>
     <string name="theme_component_title_clock">Ceas</string>
     <string name="theme_component_title_contact">Tastatură numerică</string>
     <string name="theme_component_title_font">Fonturi</string>
@@ -1116,7 +1119,7 @@ mm"</string>
     <string name="title_component">Personalizați tema</string>
     <string name="title_my_audio_resource">Sunetele mele de apel</string>
     <string name="title_my_miwallpaper_desktop_effects">Efecte Ecran principal</string>
-    <string name="title_my_miwallpaper_resource">Imaginile mele de fundal live</string>
+    <string name="title_my_miwallpaper_resource">Imaginile mele de fundal dinamice</string>
     <string name="title_my_miwallpaper_video_file_resource">Clipurile mele de fundal</string>
     <string name="title_my_wallpaper">Imaginile mele de fundal</string>
     <string name="title_my_wallpaper_resource">Imaginile mele de fundal</string>

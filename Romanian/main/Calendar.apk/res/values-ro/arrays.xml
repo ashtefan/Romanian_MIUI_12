@@ -192,37 +192,37 @@
         <item>Luni</item>
     </string-array>
     <string-array name="repeat_choose_day">
-        <item>pe întâi</item>
-        <item>pe doi</item>
-        <item>pe trei</item>
-        <item>pe patru</item>
-        <item>pe cinci</item>
-        <item>pe șase</item>
-        <item>pe șapte</item>
-        <item>pe opt</item>
-        <item>pe nouă</item>
-        <item>pe zece</item>
-        <item>pe unsprezece</item>
-        <item>pe doisprezece</item>
-        <item>pe treisprezece</item>
-        <item>pe paisprezece</item>
-        <item>pe cincisprezece</item>
-        <item>pe șaisprezece</item>
-        <item>pe șaptesprezece</item>
-        <item>pe optsprezece</item>
-        <item>pe nouăsprezece</item>
-        <item>pe douăzeci</item>
-        <item>pe douăzecișiunu</item>
-        <item>pe douăzecișidoi</item>
-        <item>pe douăzecișitrei</item>
-        <item>pe douăzecișipatru</item>
-        <item>pe douăzecișicinci</item>
-        <item>pe douăzecișișase</item>
-        <item>pe douăzecișișapte</item>
-        <item>pe douăzecișiopt</item>
-        <item>pe douăzecișinouă</item>
-        <item>pe treizeci</item>
-        <item>pe treizecișiunu</item>
+        <item>pe 1</item>
+        <item>pe 2</item>
+        <item>pe 3</item>
+        <item>pe 4</item>
+        <item>pe 5</item>
+        <item>pe 6</item>
+        <item>pe 7</item>
+        <item>pe 8</item>
+        <item>pe 9</item>
+        <item>pe 10</item>
+        <item>pe 11</item>
+        <item>pe 12</item>
+        <item>pe 13</item>
+        <item>pe 14</item>
+        <item>pe 15</item>
+        <item>pe 16</item>
+        <item>pe 17</item>
+        <item>pe 18</item>
+        <item>pe 19</item>
+        <item>pe 20</item>
+        <item>pe 21</item>
+        <item>pe 22</item>
+        <item>pe 23</item>
+        <item>pe 24</item>
+        <item>pe 25</item>
+        <item>pe 26</item>
+        <item>pe 27</item>
+        <item>pe 28</item>
+        <item>pe 29</item>
+        <item>pe 30</item>
+        <item>pe 31</item>
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Niciodată</item>

@@ -81,7 +81,7 @@
     <string name="aqi_detail_no2">NO₂</string>
     <string name="aqi_detail_o3">O₃</string>
     <string name="aqi_detail_pm10">PM10</string>
-    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm25">PM2,5</string>
     <string name="aqi_detail_so2">SO₂</string>
     <string name="aqi_detail_title">Indicele de Calitate a Aerului</string>
     <string name="aqi_detail_unit">Unitatea de măsură: µg/m³</string>
@@ -172,9 +172,9 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="dislike_alert_dialog_title">De ce nu doriți să vedeți acest conținut?</string>
     <string name="edit_city">Gestionați locațiile</string>
     <string name="empty_view_net_loading">Se actualizează…</string>
-    <string name="empty_view_net_unavailable">"Nu s-a putut conecta la rețea"</string>
+    <string name="empty_view_net_unavailable">Nu s-a putut conecta la rețea</string>
     <string name="empty_view_refresh">Încercați din nou</string>
-    <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca acesta să se conecteze la rețea, să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
+    <string name="eu_region_version_first_start_network_msg">Utilizând acest produs, sunteți de acord ca acesta să se conecteze la rețea, să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s ale Xiaomi.</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
     <string name="exo_controls_fullscreen_description">Mod ecran complet</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
@@ -194,7 +194,9 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="exo_download_notification_channel_name">Descărcări</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciunul</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -216,7 +218,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="feedback_report_privacy_msg">Raportul va conține date despre locație</string>
     <string name="feedback_result_fail_no_choice">Selectați condițiile meteo curente</string>
     <string name="feedback_result_fail_no_reason">Vă mulțumim pentru feedback!</string>
-    <string name="feedback_result_fail_same_type">"Se pare că raportul dvs. nu este diferit de starea curentă a vremii. Încercați din nou."</string>
+    <string name="feedback_result_fail_same_type">Se pare că raportul dvs. nu este diferit de starea curentă a vremii. Încercați din nou.</string>
     <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback</string>
     <string name="feedback_sandy">Furtună de nisip</string>
     <string name="feedback_sunny">Însorit</string>
@@ -237,11 +239,13 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="index_item_installing2">Se instalează</string>
     <string name="indices_desc_humidity">Umiditate %1$s%%</string>
     <string name="indices_desc_pressure">%1$s mb</string>
-    <string name="indices_title_feel">Temperatură resimțită</string>
-    <string name="indices_title_pressure">Presiune</string>
+    <string name="indices_title_feel">Temperatura resimțită</string>
+    <string name="indices_title_pressure">Pres. atm.</string>
     <string name="information_settings_title">Informații meteo</string>
     <string name="install">Instalați</string>
+    <string name="international_details_humidity_title">UMIDITATE</string>
     <string name="international_details_pressure_title">PRESIUNE</string>
+    <string name="international_details_real_feel_title">TEMPERATURA RESIMȚITĂ®</string>
     <string name="international_details_title">Detalii</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>
@@ -285,7 +289,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
     <string name="night_not_disturb_settings_summary">Blochează alertele între 23:00 și 07:00</string>
-    <string name="night_not_disturb_settings_title">"Nu deranja peste noapte"</string>
+    <string name="night_not_disturb_settings_title">Nu deranja peste noapte</string>
     <string name="no_data">Nu există date</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
@@ -430,7 +434,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="update_night_setting_summary_text">Actualizează datele meteo între 23:00 și 07:00</string>
     <string name="update_night_setting_title_text">Actualizare automată peste noapte</string>
     <string name="update_notification_info">Se actualizează datele în fundal…</string>
-    <string name="update_setting_title_text">Actualizează Informațiile meteo</string>
+    <string name="update_setting_title_text">Actualizează informațiile meteo</string>
     <string name="updated_a_moment_ago">Actualizată chiar acum</string>
     <string name="updating">Actualizare…</string>
     <string name="user_agreement">Acordul Utilizatorului</string>

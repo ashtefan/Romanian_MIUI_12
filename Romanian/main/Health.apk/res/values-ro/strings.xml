@@ -60,7 +60,7 @@ pentru a adăuga carduri"</string>
     <string name="altitude">Altitudine</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
-  <string name="app_name">plugin.health.analyze</string>
+    <string name="app_setting">Aplicații</string>
     <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
     <string name="audio_permission_dialog_title">Acordați permisiunea de înregistrare audio</string>
     <string name="audio_record_perm_description">Înregistrarea sforăitului și a viselor pe durata somnului</string>
@@ -533,6 +533,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="health_cloud_service">Servicii Cloud</string>
     <string name="health_data_cloud_sync_subtitle">Sincronizați în cloud datele despre sănătate și accesați-le de pe orice dispozitiv</string>
     <string name="health_data_cloud_sync_title">Sincronizați în cloud</string>
+    <string name="health_data_sync">Sincronizați datele despre Sănătate</string>
     <string name="health_score">Scor sănătate</string>
     <string name="health_score_tips">Scorul de sănătate este calculat pe baza IMC (indicele de masă corporală), dar și pe somn și pașii efectuați. Cu cât sunteți mai aproape de țintele propuse, cu atât scorul de sănătate este mai ridicat.</string>
     <string name="health_setting">Setări sănătate</string>
@@ -677,6 +678,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
+    <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1137,6 +1139,7 @@ despre somn"</string>
     <string name="sustain_title">"Nu v-ați mișcat timp de "</string>
     <string name="swim">Înot</string>
     <string name="swim_type">Stil</string>
+    <string name="sync_health_data">Sincronizați datele despre Sănătate</string>
     <string name="sync_immediately">Sincronizați</string>
     <string name="sync_is_not_closed">Sincronizarea este acum activă</string>
     <string name="sync_is_off">Sincronizarea este dezactivată</string>
@@ -1147,8 +1150,12 @@ despre somn"</string>
     <string name="sync_status_network_failure">Nu s-a putut sincroniza. Conectați-vă la rețea și încercați din nou</string>
     <string name="sync_status_never_done">Nesincronizate</string>
     <string name="sync_status_oauth_error">Nu s-au putut sincroniza datele. Acordați permisiunile necesare mai întâi</string>
+    <string name="system_app_setting">Setări aplicație de sistem</string>
     <string name="systolic_pressure">Sistolică</string>
     <string name="tb_audio_progress_bar">Bară redare audio</string>
+    <string name="tb_blood_pressure_day_chart">%1$s. Cea mai ridicată presiune sistolică: %2$d milimetri coloană de mercur. Cea mai mică presiune diasistolică: %3$d milimetri coloană de mercur.</string>
+    <string name="tb_blood_pressure_item">%1$s. Presiunea sistolică: %2$d milimetri coloană de mercur. Presiunea diasistolică: %3$d milimetri coloană de mercur.</string>
+    <string name="tb_blood_pressure_wm_card">Media presiunii sistolice: %1$d milimetri coloană de mercur. Media presiunii diasistolice: %2$d milimetri coloană de mercur. Cea mai ridicată presiune sistolică: %3$d milimetri coloană de mercur. Cea mai ridicată presiune diasistolică: %4$d milimetri coloană de mercur. Cea mai redusă presiune sistolică: %5$d milimetri coloană de mercur. Cea mai scăzută presiune diasistolică: %6$d milimetri coloană de mercur.</string>
     <string name="tb_card_on_using_list">Adăugată</string>
     <string name="tb_click_finish_stand">Se pare că nu v-ați ridicat în ultima oră. Dacă v-ați ridicat, adăugați manual o înregistrare.</string>
     <string name="tb_current_select">%1$s selectată în prezent</string>
@@ -1379,6 +1386,7 @@ despre somn"</string>
     <string name="unit_metre">" m"</string>
     <string name="unit_min">" m"</string>
     <string name="unit_number_format">%1$d</string>
+    <string name="unit_percent">%</string>
     <string name="unit_second">" s"</string>
     <string name="unit_thousand_format">%1$sK</string>
     <string name="unknown">Necunoscut</string>

@@ -142,9 +142,8 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
     <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF&gt;%s&lt;/font&gt; pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări."</string>
-    <string name="find_device_dspt_provision_3">. Puteți activa sau dezactiva această caracteristică oricând în Setări.</string>
-    <string name="find_device_dspt_provision_4">Dacă veţi schimba cartela SIM, un mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
-    <string name="find_device_enabling">Activare…</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Verificați conexiunea de date și încercați din nou.</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>
@@ -188,6 +187,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="ks_fingerprint_status">Stare plată</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_passpoint">Punct de acces Wi-Fi</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Disponibil</string>
@@ -505,7 +505,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_warn_low_title">Spaţiu aproape epuizat</string>
     <string name="micloud_web_discription_01">Conectaţi-vă la i.mi.com</string>
     <string name="micloud_web_discription_02">pentru a stoca și accesa fișierele de oriunde</string>
-    <string name="micloud_web_discription_place_holder">Vizitați %1$s</string>
+    <string name="micloud_web_discription_place_holder">Accesați %1$s de pe computer pentru a vă gestiona datele.</string>
     <string name="micloud_website">Elemente în Mi Cloud</string>
     <string name="micloud_wipe_data_confirm_label">Ștergeți datele sincronizate de pe acest dispozitiv?</string>
     <string name="micloud_wipe_data_confirm_title">Unele elemente din următoarele aplicații sunt sincronizate în Xiaomi Cloud. Puteți șterge datele din acest dispozitiv și să le păstrați în cloud.</string>
@@ -543,7 +543,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="next">Înainte</string>
     <string name="noRemind">Nu-mi reaminti</string>
-    <string name="no_sim">Nu s-a detectat cartela SIM</string>
+    <string name="no_sim">Nu s-a detectat nicio cartelă SIM</string>
     <string name="not_set">Nesetat</string>
     <string name="open_micloud_sync">Porniți sincronizarea cu Mi Cloud</string>
     <string name="other_settings">Alte setări</string>

@@ -51,6 +51,7 @@
     <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="app_process_limit_title">Limita proceselor de fundal</string>
+    <string name="audio_relay_default_device_name">Difuzoare XiaoAi</string>
     <string name="available_via_carrier">Disponibil via %1$s</string>
     <string name="available_via_passpoint">Disponibil prin %1$s</string>
     <string name="band_24G">" (Banda de 2,4 GHz)"</string>
@@ -141,7 +142,7 @@
     <string name="bluetooth_sap_profile_summary_connected">Conectat la SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizat pentru accesul la cartela SIM</string>
     <string name="bluetooth_search_for_devices">Căutați dispozitive</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Biți per Mostră Bluetooth Audio</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selectați codecul Bluetooth Audio:
 Biți per eșantion"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Mod canal Bluetooth</string>
@@ -311,6 +312,11 @@ Selecție"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="media_category">Multimedia</string>
     <string name="media_transfer_this_device_name">Acest dispozitiv</string>
+    <string name="mi_audio_relay_cancel">ok</string>
+    <string name="mi_audio_relay_connect_failed">eșuat</string>
+    <string name="mi_audio_relay_localphone">telefon</string>
+    <string name="mi_audio_relay_phone_name">telefon xiaomi</string>
+    <string name="mi_audio_relay_title">selectați dispozitivele de redare</string>
     <string name="mi_band_vibrate_alarm">Vibrrează când sună alarma</string>
     <string name="mi_band_vibrate_incall">Vibrează la primirea unui apel</string>
     <string name="mi_band_vibrate_incall_in_contacts">Apeluri de la contacte</string>

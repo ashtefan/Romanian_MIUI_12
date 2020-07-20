@@ -155,7 +155,7 @@
     <string name="date_calculate_today">0 zile</string>
     <string name="date_calculate_when">Început</string>
     <string name="date_interval_description">Aflați numărul de zile dintre 2 date</string>
-    <string name="date_interval_end">Sfârșit</string>
+    <string name="date_interval_end">Până la</string>
     <string name="date_interval_start">De la</string>
     <string name="date_interval_tab">Interval</string>
     <string name="date_interval_text_to">Până la %1$s</string>

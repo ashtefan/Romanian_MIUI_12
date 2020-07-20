@@ -17,12 +17,12 @@
         <item quantity="one">%d element</item>
     </plurals>
     <plurals name="loan_repayment_detail">
-        <item quantity="other">Rambursare detaliată (%d ani)</item>
-        <item quantity="one">Rambursare detaliată (%d an)</item>
+        <item quantity="other">Detaliere rambursare (%d ani)</item>
+        <item quantity="one">Detaliere rambursare (%d an)</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Rambursare detaliată (%d ani), CNY</item>
-        <item quantity="one">Rambursare detaliată (%d an), CNY</item>
+        <item quantity="other">Detaliere rambursare (%d ani), CNY</item>
+        <item quantity="one">Detaliere rambursare (%d an), CNY</item>
     </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d ani (%2$d luni)</item>
