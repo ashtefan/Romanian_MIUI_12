@@ -572,12 +572,12 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="label_body_weight_recent">Recent</string>
     <string name="label_body_weight_trend">Progres</string>
     <string name="label_duration">Durată</string>
-    <string name="label_early_sleep_time">Mai devreme de cât era planificat</string>
+    <string name="label_early_sleep_time">Mai devreme decât era planificat</string>
     <string name="label_end_time">Sfârșit</string>
     <string name="label_exercise_goal">Țintă</string>
     <string name="label_get_device_id">Obțineți ID-ul dispozitivului</string>
     <string name="label_got_up">Trezit</string>
-    <string name="label_late_sleep_time">Mai tărziu de cât era planificat</string>
+    <string name="label_late_sleep_time">Mai tărziu decât era planificat</string>
     <string name="label_record_detail_page_record_date">Ora</string>
     <string name="label_record_detail_page_source">Sursă</string>
     <string name="label_set_exercise">Setați ținta pentru activități</string>
