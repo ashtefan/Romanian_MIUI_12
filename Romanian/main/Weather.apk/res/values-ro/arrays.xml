@@ -53,28 +53,28 @@
         <item>calitate slabă a conținutului</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Bucharest</item>
+        <item>București</item>
         <item>Iași</item>
         <item>Cluj-Napoca</item>
-        <item>Timisoara</item>
-        <item>Constanta</item>
+        <item>Timișoara</item>
+        <item>Constanța</item>
         <item>Craiova</item>
-        <item>Galati</item>
-        <item>Brasov</item>
-        <item>Ploiesti</item>
+        <item>Galați</item>
+        <item>Brașov</item>
+        <item>Ploiești</item>
         <item>Brăila</item>
-        <item>Barlad</item>
+        <item>Bârlad</item>
         <item>Londra</item>
         <item>Singapore</item>
         <item>Berlin</item>
-        <item>Rome</item>
+        <item>Roma</item>
         <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
         <item>Tokyo</item>
         <item>Paris</item>
         <item>Bangkok</item>
-        <item>Seoul</item>
+        <item>Seul</item>
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">

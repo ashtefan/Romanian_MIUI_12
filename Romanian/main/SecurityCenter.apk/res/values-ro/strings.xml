@@ -481,7 +481,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_add_account_info">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="applock_add_account_setting">Cont și confidențialitate</string>
     <string name="applock_app_recommend_lock_title">Puteți bloca următoarele aplicații</string>
-    <string name="applock_bind_account_title">Parolă uitată</string>
+    <string name="applock_bind_account_title">Am uitat parola</string>
     <string name="applock_close_dialog_summary">Toate aplicațiile ascunse vor fi afișate, scurtăturile lor de pe Ecranul principal vor fi restaurate, iar parola pentru Blocarea aplicațiilor va fi ștearsă. Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>

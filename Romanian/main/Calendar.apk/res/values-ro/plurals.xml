@@ -145,8 +145,8 @@
         <item quantity="one">%d notificare nouă</item>
     </plurals>
     <plurals name="n_attendees">
-        <item quantity="other">%d invitații</item>
-        <item quantity="one">%d invitație</item>
+        <item quantity="other">%d invitați</item>
+        <item quantity="one">%d invitat</item>
     </plurals>
     <plurals name="n_weeks">
         <item quantity="other">%d</item>

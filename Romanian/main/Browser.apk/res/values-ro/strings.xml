@@ -373,7 +373,7 @@ pentru a ne ajuta să o dezvoltăm"</string>
     <string name="download_btn_select_none">Deselectați tot</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_completed">Descărcat</string>
-    <string name="download_default_path_txt">Memorează această alegere</string>
+    <string name="download_confirm_dialog_title">Alertă de risc</string>
     <string name="download_dialog_default_path_invalid">"Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…"</string>
     <string name="download_dialog_file_length_default_txt">Doar o secundă…</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 KB</string>
@@ -396,8 +396,9 @@ pentru a ne ajuta să o dezvoltăm"</string>
     <string name="download_no_sdcard_dlg_msg">Pentru a descărca %s este necesar un card SD</string>
     <string name="download_no_sdcard_dlg_title">Card SD nedetectat</string>
     <string name="download_pending">Se începe descărcarea…</string>
-    <string name="download_phone_tip">Telefon</string>
-    <string name="download_router_tip">Descărcaţi în Mi Router</string>
+    <string name="download_proceed">Descărcare normală</string>
+    <string name="download_risk_alert_content">Jocul nu este verificat de către Xiaomi Market. Alegând descărcarea normală, acceptați că sunteți informat asupra riscurilor și a consecințelor.</string>
+    <string name="download_safe">Descărcare sigură</string>
     <string name="download_sdcard_busy_dlg_msg">Cardul SD este ocupat. Pentru a permite descărcarea, dezactivaţi stocarea USB în panoul notificărilor.</string>
     <string name="download_sdcard_busy_dlg_title">Card SD indisponibil</string>
     <string name="download_status_failed">"Nu s-a putut descărca"</string>
@@ -1216,6 +1217,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="save_to_camera">Salvaţi în Galerie</string>
     <string name="save_to_camera_failed">"Nu se poate salva imaginea"</string>
     <string name="save_to_camera_success">Salvată în Galerie</string>
+    <string name="saved_sucess">Salvat cu suces</string>
     <string name="scanner_uninstalled_text">Instalați aplicația Scaner pentru a continua</string>
     <string name="scanner_uninstalled_title">Aplicația Scaner a fost dezinstalată</string>
     <string name="screenshot_loading_dialog_title">Captare</string>
