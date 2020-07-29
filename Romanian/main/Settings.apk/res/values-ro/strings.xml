@@ -1278,6 +1278,7 @@ Selecție"</string>
     <string name="bluetooth_unlock_device_matched_text">Utilizați acest dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Niciun dispozitiv detectat</string>
     <string name="bluetooth_unlock_reject">Solicitarea de deblocare a acestui dispozitiv a fost respinsă</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">Doar dispozitivele Bluetooth selectate sunt suportate (de ex. brățări fitness și ceasuri inteligente)</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispozitiv</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicaţi la</string>
     <string name="bluetooth_unlock_settings_unlock_device">Deblocare dispozitiv</string>
