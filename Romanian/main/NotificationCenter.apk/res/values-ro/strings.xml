@@ -234,7 +234,7 @@
     <string name="noon">Amiază</string>
     <string name="not_sent_recently">Nu recent</string>
     <string name="not_set">Nesetat</string>
-    <string name="notch_and_status_bar_setting">Breton și bara de stare</string>
+    <string name="notch_and_status_bar_setting">Centrul de control și bara de stare</string>
     <string name="notification_aggregate_description1">MIUI poate grupa notificările push și pe cele promoționale în mod automat, făcând Perdeaua de notificări mai puțin aglomerată.</string>
     <string name="notification_aggregate_description2">Algoritmii noștri analizează conținutul notificărilor și nu aplică această funcție alertelor importante și notificărilor de la mesageria instant. Dacă veți considera că notificări importante sunt grupate din greșeală, raportați problema întâmpinată utilizând caracteristica \"Feedback\" din MIUI."</string>
     <string name="notification_aggregate_summary">Permiteți MIUI să grupeze notificările în mod automat</string>

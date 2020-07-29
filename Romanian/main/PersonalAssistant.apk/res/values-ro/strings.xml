@@ -82,6 +82,7 @@
     <string name="app_setting_add_header_bg">Copertă</string>
     <string name="app_setting_datetime">Afișează data</string>
     <string name="app_setting_dialog_cancel">Renunțați</string>
+    <string name="app_setting_fail">Eșuat</string>
     <string name="app_setting_has_not_setted">Nesetat</string>
     <string name="app_setting_has_setted">Setați</string>
     <string name="app_setting_more_setting">Setări adiționale</string>
@@ -1112,6 +1113,7 @@ Verificați numărul de urmărire."</string>
     <string name="retry">Reîncercați</string>
     <string name="save">Salvați</string>
     <string name="save_edit">Salvați modificările</string>
+    <string name="save_to_note">Salvați în Notițe</string>
     <string name="scan">Scanați</string>
     <string name="scan_app">Scanați</string>
     <string name="scan_card">Carte de vizită</string>

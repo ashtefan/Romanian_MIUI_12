@@ -215,7 +215,7 @@
         <item>Atingeți \"Continuați\" pentru a afla mai multe și pentru a activa această caracteristică.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Asistentul permanent înregistrează în mod automat activitățile prin detectarea stării de utilizare a telefonului mobil. Când nu se detectează mișcare pe parcursul unei ore, vă va fi trimisă o notificare pentru a vă aminti să faceți mișcare sau să adăugați manual o înregistrare.</item>
+        <item>Asistentul de mișcare detectează starea de nemișcare prin intermediul telefonului mobil și o înregistrează în mod automat. Activați memento-ul de nemișcare pentru a vă reaminti când nu este detectată nicio mișcare în decurs de o oră:</item>
         <item>Această funcție vă va monitoriza mișcările și vă va trimite memento-uri.</item>
     </string-array>
     <string-array name="temperature_unit">

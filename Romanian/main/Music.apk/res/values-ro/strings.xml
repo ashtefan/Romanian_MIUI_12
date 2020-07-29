@@ -706,6 +706,8 @@
     <string name="individuation_cart_login_title">Doriți să vedeți mai multe recomandări?</string>
     <string name="individuation_recommend_switch_message">Dezactivarea acestei caracterisitici va afecta serviciile personalizate Muzică Mi. Dezactivați oricum?</string>
     <string name="individuation_recommend_title">Recomandări</string>
+    <string name="individuation_setting_summary">Primiți recomandări de conținut bazat pe subiectele dvs. de interes</string>
+    <string name="individuation_setting_title">Recomandări personalizate</string>
     <string name="input_hint_prefix">Introduceți %1$s</string>
     <string name="installing_apk">Instalare…</string>
     <string name="insufficient_space">"Nu există spațiu suficient în memoria internă a telefonului"</string>
@@ -1480,6 +1482,9 @@ Be Happy"</string>
     <string name="upgrade_music">Actualizați aplicația Muzică</string>
     <string name="upgrade_music_message">Pachetul de actualizare este pregătit. Reporniți aplicația pentru actualizare.</string>
     <string name="upgrading_in_backstage">Se actualizează în fundal…</string>
+    <string name="upload_favorite_dialog_title">Încărcați melodiile dvs. în cloud pentru a le putea accesa și de pe alte dispozitive sincronizate. Puteți dezactiva această caracteristică din Setări.</string>
+    <string name="upload_favorite_setting_summary">Încărcați melodiile dvs. în cloud pentru a le putea accesa și de pe alte dispozitive</string>
+    <string name="upload_favorite_setting_title">Sincronizați melodiile</string>
     <string name="upload_playlist_to_hungama_negative_text">Nu sincroniza</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizează</string>
     <string name="upload_playlist_to_hungama_title">Sincronizează melodiile online în Hungama pentru a le putea accesa de pe alte dispozitive pe care utilizați contul Mi.</string>

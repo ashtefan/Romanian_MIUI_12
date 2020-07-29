@@ -111,6 +111,7 @@
 și ajustați preferințele în mod automat"</string>
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
+    <string name="ai_ultra_pixel_108mp">108 MP</string>
     <string name="ai_watermark_title">Amprentă AI</string>
   <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">Despre expunerea prelungită</string>
@@ -118,6 +119,7 @@
     <string name="ambilight_intro_crowd_moving_part2">Puteți face, de asemenea, poze cu traficul ocupat și mulțimile în mișcare. Expunerea îndelungată va menține clădirile bine definite, dar toate obiectele în mișcare vor fi încețoșate.</string>
     <string name="ambilight_intro_light_track">Utilizați o sursă de lumină pentru a „picta” pe o scenă întunecată pentru a reuni toate piesele luminate într-o singură imagine.</string>
     <string name="ambilight_intro_magic_star">Utilizați acest mod în locuri cu poluare luminoasă redusă. Expunerea va fi setată la %d secunde, deci folosirea unui trepied este o idee minunată.</string>
+    <string name="ambilight_intro_magic_star_ae">Utilizați acest mod în locuri cu poluare luminoasă redusă. Expunerea poate fi setată la %d secunde, deci folosirea unui trepied este o idee minunată.</string>
     <string name="ambilight_intro_silky_water_part1">Utilizați acest mod când fotografiați nori în mișcare. Acesta va oferi cerului un efect de „pictură în ulei”.</string>
     <string name="ambilight_intro_silky_water_part2">Acest mod face ca apa în mișcare (râuri, cascade și lacuri) să pară satinată.</string>
     <string name="ambilight_intro_star_track">Fotografierea cerului înstelat pentru o lungă perioadă de timp poate surprinde traiectoriile stelelor. Nu uitați să folosiți un trepied și să fotografiați continuu timp de cel puțin %d minute.</string>
@@ -283,7 +285,7 @@
     <string name="custom_tint_color_select">Personalizați culorile</string>
     <string name="custom_watermark_contains_senstive_words">"Amprentele din fotografii nu pot conține elemente interzise (%1$s)"</string>
     <string name="custom_watermark_tips">Acest text va apărea ca o a doua linie a amprentei de pe fotografie. Poate conține maxim 18 litere sau 14 caractere chinezești.</string>
-    <string name="custom_watermark_tips_gen2" formatted="false">Până la %d caractere chinezești sau %d litere.</string>
+    <string name="custom_watermark_tips_gen2">Până la %1$d caractere chinezești sau %2$d litere.</string>
     <string name="custom_watermark_too_many_words">Textul introdus este prea lung</string>
     <string name="custom_watermark_words">Amprentă personalizată în fotografie</string>
     <string name="custom_watermark_words_input_hint">Introduceți textul</string>
@@ -397,12 +399,20 @@ Tipăriți copia pe o foaie A4 printr-o conexiune fără fir."</string>
 Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="lens_dirty_detected_title_back">Lentila camerei posterioare este murdară</string>
     <string name="lens_dirty_detected_title_front">Lentila camerei frontale este murdară</string>
+    <string name="lighting_bright_red">Roșu aprins</string>
+    <string name="lighting_dazzling">Fascicule</string>
+    <string name="lighting_dreamland">Lumea viselor</string>
+    <string name="lighting_gorgeous">Multicolor</string>
     <string name="lighting_hint_needed">Plasați obiectul în lumină</string>
     <string name="lighting_hint_title">Iluminare de studio</string>
     <string name="lighting_hint_too_close">Îndepărtați Camera</string>
     <string name="lighting_hint_too_far">Apropiați Camera</string>
     <string name="lighting_hint_usage">"Puteți utiliza efectele luminilor de studio
 în modul Portret"</string>
+    <string name="lighting_lanshan">Decadenţă</string>
+    <string name="lighting_movie_light_effect_title">Efecte cinematice</string>
+    <string name="lighting_neon">Neon</string>
+    <string name="lighting_nostalgia">Nostalgie</string>
     <string name="lighting_pattern_dot">Puncte</string>
     <string name="lighting_pattern_holi">Holi</string>
     <string name="lighting_pattern_leaf">Frunze</string>
@@ -412,6 +422,8 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="lighting_pattern_rainbow">Curcubeu</string>
     <string name="lighting_pattern_shutter">Orbire</string>
     <string name="lighting_pattern_stage">Scenă</string>
+    <string name="lighting_phantom">Fantomă</string>
+    <string name="lighting_rainbow">Curcubeu</string>
     <string name="live_edit_exit_confirm">Stop</string>
     <string name="live_edit_exit_message">Opriți filmarea acum?</string>
     <string name="live_edit_share_title">Partajați</string>
@@ -688,6 +700,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_960_watermark_title">Amprentă 960fps</string>
     <string name="pref_advance_settings">Setări adiționale</string>
     <string name="pref_ai_detect">Detecție AI</string>
+    <string name="pref_audio_denoise_title">Reducere zgomot audio</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">În spate</string>
@@ -1084,6 +1097,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_manual_exposure_title_abbr">T Exp</string>
+    <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Moduri</string>
     <string name="pref_more_mode_style_title">Moduri Cameră</string>
@@ -1244,6 +1258,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a fotografia</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
+    <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD este oprit</string>
+    <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
     <string name="ultra_pixel_108mp">108 MP</string>
     <string name="ultra_pixel_32mp">32 MP</string>
     <string name="ultra_pixel_48mp">48 MP</string>

@@ -866,6 +866,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="remind_query_menstruation_start">A început ciclul? Nu uitați să îl înregistrați.</string>
     <string name="remind_sleep_report_complete">Statisticile despre somn sunt gata</string>
     <string name="remind_sleep_report_content">Ați dormit %1$d ore și %2$d minute noaptea trecută. Atingeți pentru a vedea detalii.</string>
+    <string name="remind_sleep_report_content_1">Ați dormit %1$d ore noaptea trecută. Atingeți pentru a vedea detaliile.</string>
     <string name="remind_sleep_report_title">Statisticile despre somn sunt gata</string>
     <string name="remind_subtitle_menstruation_start">Primiți un memento cu 2 zile înainte de data preconizată de începere a ciclului următor</string>
     <string name="remind_subtitle_record">Primiți memento-uri când trebuie să înregistrați datele de început și de sfârșit ale ciclurilor</string>
@@ -1106,7 +1107,9 @@ despre somn"</string>
     <string name="stand_notice_title4">Ridicați-vă și întindeți-vă</string>
     <string name="stand_notice_title5">Se pare că nu v-ați ridicat pe durata ultimei ore</string>
     <string name="stand_notice_title6">V-ați ridicat în ultima oră?</string>
+    <string name="stand_remind_setting_desc">Atunci când nu este detectată nicio activitate în decurs de o oră, trimite o notificare pentru a vă aminti să vă ridicați</string>
     <string name="stand_setting">Setări</string>
+    <string name="stand_stop_reminding">Oprește primirea de memento-uri pentru mișcare</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">" V-ați ridicat"</string>
     <string name="state_agree">De acord</string>

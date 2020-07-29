@@ -31,10 +31,12 @@
     <string name="autofill_save_sub_message">"Veți putea gestiona parolele salvate în Setări &gt; Parole și securitate &gt; %s."</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
+    <string name="bluetooth_close">Această aplicație a oprit Bluetooth-ul</string>
     <string name="bluetooth_disable_notification_content">%s a dezactivat Bluetooth-ul</string>
     <string name="bluetooth_disable_notification_title">Bluetooth-ul este oprit</string>
     <string name="bluetooth_enable_notification_content">%s a activat Bluetooth-ul</string>
     <string name="bluetooth_enable_notification_title">Bluetooth-ul este pornit</string>
+    <string name="bluetooth_open">Această aplicație a pornit Bluetooth-ul</string>
     <string name="btn_cancel">Renunțați</string>
     <string name="btn_sure">OK</string>
     <string name="button_text_cancel">Renunțați</string>

@@ -496,6 +496,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_disable_dlg_text">Dacă dezactivaţi această aplicaţie, este posibil ca alte aplicaţii să se comporte necorespunzător.</string>
     <string name="app_disable_dlg_title">Dezactivaţi aplic. încorporată?</string>
     <string name="app_disable_notifications_dlg_title">Dezactivaţi notificările?</string>
+    <string name="app_enable_bluetooth_record">Aplicații care pornesc Bluetooth-ul</string>
     <string name="app_factory_reset">Dezinstalaţi actualizările</string>
     <string name="app_factory_reset_dlg_text">Toate actualizările aduse acestei aplicaţii de sistem Android vor fi dezinstalate.</string>
     <string name="app_factory_reset_dlg_title">Dezinstalaţi actualizările?</string>
@@ -620,7 +621,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="audio_files_title">Fișiere audio</string>
     <string name="audio_profile_settings_title">Profiluri audio</string>
     <string name="audio_record_proc_title">Anulare zgomot</string>
-    <string name="auto_adjst_effect_summary">Reglați automat temperatura culorilor în funcție de lumina ambientală pentru a menține un nivel optim de confort</string>
+    <string name="auto_adjst_effect_summary">Reglați automat temperatura culorilor în funcție de lumina ambientală</string>
     <string name="auto_adjust_effect_title">Reglați automat temperatura culorilor</string>
     <string name="auto_brightness_default_title">Implicit</string>
     <string name="auto_brightness_description">Iluminarea ecranului va fi ajustată în mod automat în funcție de mediul înconjurător și activități. Puteți muta manual cursorul pentru a ajuta iluminarea adaptivă să vă învețe preferințele.</string>
@@ -707,10 +708,13 @@ Ultima rulare pe %2$s"</string>
     <string name="avoid_ui">Blocare atingere</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
     <string name="back_button">Înapoi</string>
+    <string name="back_double_tap">Apăsare dublă a butonului înapoi</string>
     <string name="back_key">Înapoi</string>
     <string name="back_sensitivity_dialog_message">"
 O sensibilitate mai mare poate intra în conflict cu gesturile oricărei aplicații dealungul marginilor ecranului."</string>
     <string name="back_sensitivity_dialog_title">Sensibilitate Înapoi</string>
+    <string name="back_tap">Apăsarea butonului Înapoi</string>
+    <string name="back_triple_tap">Apăsare triplă a butonului înapoi</string>
     <string name="background_activity_disabled_dialog_text">"Din moment ce această aplicație nu este setată pentru optimizarea acumulatorului, nu o puteți restricționa.
 
 Pentru a restricționa aplicația, activați mai întâi optimizarea acumulatorului."</string>
@@ -1360,6 +1364,10 @@ Puteți modifica acest lucru din Setări."</string>
 Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive asociate."</string>
     <string name="bt_aac_open_dialog_title">Se comută la codecul AAC</string>
     <string name="bt_aac_pre_title">AAC</string>
+    <string name="bt_absVolume_open_dialog_summary">Din cauza problemelor de compatibilitate, unele dispozitive Bluetooth pot avea niveluri de volum anormale, care pot fi rezolvate prin oprirea acestei funcții.</string>
+    <string name="bt_absVolume_open_dialog_title">Atenție</string>
+    <string name="bt_absVolume_pre_title">Volumul absolut</string>
+    <string name="bt_absVolume_summary">Mențineți volumul dispozitivelor Bluetooth și al telefonului strict consecvent</string>
     <string name="bt_dialog_remember_choice">Memorați opțiunea</string>
     <string name="bt_dialog_settings">Setări</string>
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
@@ -1851,6 +1859,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="current_zone">(curent)</string>
     <string name="custom_carrier_title">Editați numele operatorului</string>
     <string name="custom_color">Personalizat</string>
+    <string name="custom_gesture_title">Gesturi personalizate</string>
     <string name="custom_wifi_name_title">Editați numele rețelei Wi-Fi</string>
     <string name="cutout_mode_always">Arată întotdeauna tăietura</string>
     <string name="cutout_mode_default">Auto</string>
@@ -2156,6 +2165,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_oaid_desc">În loc de identificatorul dvs. unic, MIUI va oferi un ID virtual (OAID) aplicațiilor instalate. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
     <string name="device_oaid_title">ID virtual</string>
     <string name="device_of_someone">%2$s lui %1$s</string>
+    <string name="device_opcust_version">Versiune personalizată</string>
     <string name="device_picker">Selectați dispozitivul Bluetooth</string>
     <string name="device_rear_camera">Camera posterioară</string>
     <string name="device_screen_resolution">Rezoluția ecranului</string>
@@ -3445,15 +3455,22 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
     <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
+    <string name="launch_alipay_payment_code">Cod de plată Alipay</string>
+    <string name="launch_alipay_scanner">Scaner Alipay</string>
     <string name="launch_by_default">Deschide ca implicit</string>
+    <string name="launch_calculator">Calculator</string>
     <string name="launch_camera">Pornire cameră foto</string>
+    <string name="launch_control_center">Centrul de control</string>
     <string name="launch_defaults_none">Niciun lansator implicit setat</string>
     <string name="launch_defaults_some">Unele implicite setate</string>
     <string name="launch_google_search">Lansare asistent Google</string>
     <string name="launch_instant_app">Deschideți</string>
     <string name="launch_mdp_app_text">Vedeți planul</string>
+    <string name="launch_notification_center">Perdeaua de notificări</string>
     <string name="launch_recents">Lansați Recente</string>
     <string name="launch_voice_assistant">Lansează asistentul vocal</string>
+    <string name="launch_wechat_payment_code">Cod de plată WeChat</string>
+    <string name="launch_wechat_scanner">Scaner WeChat</string>
     <string name="launch_wifi_text">Vedeți detalii</string>
     <string name="launcher_icon">Pictograme</string>
     <string name="launcher_title">Ecran principal și Recente</string>
@@ -4327,6 +4344,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
+    <string name="mute">Mod Silențios</string>
     <string name="mute_music_stream">Opriți muzica prin rețea</string>
     <string name="mute_voiceassist_stream">Reduceți la tăcere asistentul vocal</string>
     <string name="mvno_match_data">Valoare MVNO</string>

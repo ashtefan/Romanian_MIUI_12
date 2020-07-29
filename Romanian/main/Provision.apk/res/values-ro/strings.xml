@@ -45,7 +45,7 @@
     <string name="disageement_abnormal_download">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagree">Anulaţi</string>
     <string name="disagreement_abnormal_running">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile și să dezactivați această funcție din Setări în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_application">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_product">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest produs. Puteți alege să nu utilizați acest produs în astfel de cazuri.</string>
     <string name="disagreement_donnot_use_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu în astfel de cazuri.</string>
@@ -59,7 +59,7 @@
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="fast_application_introduction">Quick Apps Framework vă permite să creați și să furnizați servicii în aplicații rapide.</string>
-    <string name="fast_pairing_introduction">Mi Link permite dispozitivului dvs. să se conecteze la dispozitivele Bluetooth din apropiere. Pentru a putea găsi dispozitivele din apropiere, permiteți Mi Link să se conecteze la internet.</string>
+    <string name="fast_pairing_introduction">Mi Link permite dispozitivului dvs. să se conecteze la dispozitivele Bluetooth din apropiere utilizând serviciul MIUI Bluetooth. Pentru a putea găsi dispozitivele din apropiere, permiteți serviciului MIUI Bluetooth să se conecteze la internet.</string>
     <string name="font_hint_large">Dimensiunea implicită a textului</string>
     <string name="font_hint_normal">Măriți dimensiunea textului</string>
     <string name="framework_introduction">Mi Services Framework vă permite să utilizați Contul Mi, Mi Push, Mi Stats și MIUI BI.</string>
@@ -73,11 +73,16 @@
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
     <string name="item_fingerprint">Amprentă</string>
     <string name="item_lock_screen_password">Doar blocarea ecranului</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">Partajarea informațiilor despre locație cu agențiile de salvare de urgență</string>
     <string name="language_picker_other_languages_title">Mai multe limbi</string>
     <string name="language_settings">Selectați limba</string>
     <string name="locale_picker_other_locale_title">Mai multe regiuni</string>
     <string name="locale_picker_title">Selectați regiunea dvs.</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">În concordanță cu reglementările legale, operatorii mobili pot obține informații despre locația dispozitivelor mobile pentru a respecta cerințele agențiilor de salvare de urgență (pompieri și poliție) care urmăresc securitatea și salvarea de urgență.</string>
     <string name="location_introduction">Serviciile bazate pe locație găsesc produse și servicii în apropierea dvs.</string>
+    <string name="location_location">Agențiile de salvare de urgență pot obține, la cerere, locația dvs. actuală</string>
     <string name="lockscreen_introduction">Caruselul imaginilor de fundal vă permite să obțineți imagini noi livrate zilnic pe ecranul de blocare.</string>
     <string name="mint_keyboard_oobe_checkbox">Am citit și acceptat Politica de Confidențialitate a tastaturii Mint</string>
     <string name="mint_keyboard_oobe_terms">Politica de Confidențialitate a tastaturii Mint</string>
@@ -85,7 +90,7 @@
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Acordul Utilizatorului la %s.</string>
     <string name="mobile_network">Se utilizează datele mobile</string>
     <string name="move_data_dialog_box_le">Aceasta vă permite să utilizați conexiunea de date mobile și GPS bazat pe solicitarea utilizatorului. Sincronizarea conturilor și a altor elemente poate necesita utilizarea datelor mobile în funcție de specificațiile telefonului.</string>
-    <string name="move_data_dialog_box_title">Cu excepția cazului în care aveți un abonamnet de date nelimitat, utilizarea de date mobile poate genera taxe suplimentare de la operator. Utilizați oricum datele mobile?</string>
+    <string name="move_data_dialog_box_title">Cu excepția cazului în care aveți un abonament de date nelimitat, utilizarea de date mobile poate genera taxe suplimentare de la operator. Utilizați oricum datele mobile?</string>
     <string name="move_data_dialog_cancel">Renunțați</string>
     <string name="move_data_dialog_title">Puteți restricționa conexiunea de date mobile mai târziu din Setări</string>
     <string name="move_data_dialog_use">Utilizați</string>
@@ -163,6 +168,8 @@ Dezactivați oricum anunțurile personalizate?"</string>
     <string name="poco_agree_terms_other">(Inclusiv Politica de Confidențialitate a lansatorului POCO și Acordul Utilizatorului)</string>
     <string name="poco_launcher_privacy_policy">Politica de confidențialitate a lansatorului POCO</string>
     <string name="poco_launcher_user_agreement">Acordul Utilizatorului lansatorului POCO</string>
+    <string name="position_header">Partajarea informațiilor despre localizare</string>
+    <string name="position_subheading">Informații despre locație</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
@@ -236,7 +243,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
 Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
     <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
     <string name="terms_of_use_label_updater">, Actualizări</string>
-    <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, servicii de traducere, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
@@ -253,7 +260,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
-    <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O., Manager de Permisiuni și Actualizări se vor conecta la rețea. Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
+    <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O., Manager de Permisiuni și Actualizări se vor conecta la rețea. Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
     <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>
     <string name="voice_assist_condition">"Veți putea utiliza Mi AI în aceste cazuri:r
 1. Când ecranul este activ.r
