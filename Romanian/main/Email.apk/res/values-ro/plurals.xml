@@ -25,8 +25,8 @@
         <item quantity="one">Ștergeți %1$d ciornă?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d selectate</item>
-        <item quantity="one">%d selectat</item>
+        <item quantity="other">S-au adăugat %d contacte</item>
+        <item quantity="one">S-a adăugat %d contact</item>
      </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> arhivate.</item>
