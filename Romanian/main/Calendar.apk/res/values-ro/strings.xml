@@ -600,7 +600,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="portrait_week_view">Agenda săptămânală în orientarea portret</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
     <string name="pref_reminder_time">Oră memento</string>
-    <string name="pref_title_alarm_remind">Memento-uri alarme</string>
+    <string name="pref_title_alarm_remind">Alarmă memento</string>
     <string name="pref_title_no_remind">Niciun memento</string>
     <string name="preferences_alarms_category_title">Memento-uri cu alarmă</string>
     <string name="preferences_alarms_default_event">Selectați evenimentele</string>

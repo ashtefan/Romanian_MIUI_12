@@ -128,7 +128,7 @@
     <string name="ambilight_scene_crowd_moving">Mulțime în mișcare</string>
     <string name="ambilight_scene_light_track">Pictură cu lumină</string>
     <string name="ambilight_scene_magic_star">Cer înstelat</string>
-    <string name="ambilight_scene_silky_water">Apă mătăsoasă</string>
+    <string name="ambilight_scene_silky_water">Pictură în ulei</string>
     <string name="ambilight_scene_star_track">Urme de stele</string>
     <string name="ambilight_scene_traffic_light">Trasee de neon</string>
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
@@ -220,7 +220,7 @@
     <string name="close_back_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_front_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="color_effect_entry_berry">Fructe de padure</string>
-    <string name="color_effect_entry_blackgold">Rodiu</string>
+    <string name="color_effect_entry_blackgold">Vibrații de aur</string>
   <string name="color_effect_entry_blackice">Gheață neagră</string>
     <string name="color_effect_entry_blackwhite">Alb-negru</string>
     <string name="color_effect_entry_classic">Clasic</string>

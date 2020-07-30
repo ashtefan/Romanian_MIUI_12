@@ -123,8 +123,8 @@
     <string name="cannot_send_message_reason">Mesajul dvs. nu are un destinatar valid</string>
     <string name="card_insert_to_contact">Importați contactul</string>
     <string name="change_duration_activity">Modificaţi durata</string>
-    <string name="chatbox_list_title">Miniaplicațiile mele</string>
-    <string name="chatbox_main_title">Miniaplicații</string>
+    <string name="chatbot_list_title">Miniaplicațiile mele</string>
+    <string name="chatbot_main_title">Miniaplicații</string>
     <string name="check_all">Selectaţi tot</string>
     <string name="class_0_message_activity">Mesaje clasa 0</string>
     <string name="classifing">Se grupează mesajele…</string>

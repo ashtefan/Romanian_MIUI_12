@@ -1512,7 +1512,7 @@ Se va utiliza în schimb rețeaua preferată."</string>
     <string name="onscreenShowDialpadText">Tastatură numerică</string>
     <string name="onscreenSwapCallsText">Schimbaţi</string>
     <string name="onscreenVideoCallText">Apel video</string>
-    <string name="open_miui">Deschideţi</string>
+    <string name="open_miui">Activați</string>
     <string name="opened_dual_4g_confirm_prompt">Se pare că aveți o cartelă care funcționează doar în modul 4G. Modul 4G Dual a fost activat în mod automat.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">Cartela SIM %1$s suportă doar modul 4G. Pentru a vă asigura că aceasta funcționează în mod normal, modul 4G Dual a fost activat.</string>
     <string name="operator">Operator</string>
