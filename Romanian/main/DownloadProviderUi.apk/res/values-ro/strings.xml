@@ -93,7 +93,7 @@
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Setări de rețea</string>
     <string name="dialog_cannot_resume">"Descărcarea a fost întreruptă. Nu poate fi reluată."</string>
-    <string name="dialog_confirm_delete_checkbox_message">Ștergeți, de asemenea, fișierele locale</string>
+    <string name="dialog_confirm_delete_checkbox_message">Ștergeți, de asemenea și fișierele locale</string>
     <string name="dialog_confirm_delete_the_download_item_message">Ştergeţi aceste sarcini?</string>
     <string name="dialog_content_limit0">Restricționați descărcările</string>
     <string name="dialog_content_limit_max">Nelimitat</string>

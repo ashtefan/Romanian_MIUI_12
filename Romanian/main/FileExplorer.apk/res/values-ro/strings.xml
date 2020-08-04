@@ -199,7 +199,8 @@
     <string name="download">Descărcați</string>
     <string name="download_fail">"Nu s-a putut descărca"</string>
     <string name="downloaded_sticker_str">Descărcat</string>
-    <string name="downloading">Descărcare…</string>
+    <string name="downloading">Se descarcă</string>
+    <string name="drag_not_support_with_dir">Nu se pot rearanja sau trimite dosarele</string>
     <string name="editor_commend">Editați</string>
     <string name="empty_comment">"Comentariul nu poate fi gol"</string>
     <string name="enable_documentsui">Activați mai întâi %s din Setări &gt; Aplicații instalate</string>
@@ -564,6 +565,7 @@
     <string name="rlv_refreshing">Reîmprospătare…</string>
     <string name="rlv_release_to_close">Eliberați pentru a închide</string>
     <string name="rlv_release_to_refresh">Eliberați pentru a actualiza</string>
+    <string name="save_file_to_mishare">Salvat în dosarul Partajării Mi</string>
     <string name="save">Salvați</string>
     <string name="save_to_local">Descărcați</string>
     <string name="search_app">Aplicații și dosare</string>

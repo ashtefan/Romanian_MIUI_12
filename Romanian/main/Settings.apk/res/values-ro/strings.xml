@@ -360,6 +360,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="ai_settings_long_click_title">Apăsare și menținere</string>
     <string name="ai_settings_single_press_des">Apăsați butonul AI pentru a vorbi cu Asistentul Google, apoi eliberați-l pentru a primi răspunsul.</string>
     <string name="airplane_mode">Mod Avion</string>
+    <string name="airplane_mode_summary">Dezactivează apelurile, mesajele și datele mobile</string>
     <string name="alarm_ringtone_title">Sunet implicit pentru alarmă</string>
     <string name="alarm_sound_dialog_title">Alegeți sunetul pentru alarmă</string>
     <string name="alarm_sound_title">Alarmă</string>
@@ -1435,9 +1436,9 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="call_records_name_1">Gheorghe Popescu</string>
     <string name="call_records_name_2">Marius Coman</string>
     <string name="call_records_name_3">Radu Nicoară</string>
-    <string name="call_records_summary_1">9:35 AM | 26 de secunde | Digi Mobil</string>
-    <string name="call_records_summary_2">16 August | 1 min și 16 sec | Orange</string>
-    <string name="call_records_summary_3">16 August | 2 min și 24 sec | Vodafone</string>
+    <string name="call_records_summary_1">9:35 AM | 26 de secunde</string>
+    <string name="call_records_summary_2">16 August | 1 min și 16 sec</string>
+    <string name="call_records_summary_3">16 August | 2 min și 24 de sec</string>
     <string name="call_settings_primary_user_only">Modificați setările apelurilor în spațiul principal</string>
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
     <string name="call_settings_title">Setări apel</string>
@@ -2729,6 +2730,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="find_my_device">Localizare dispozitiv</string>
     <string name="find_my_device_disable">Oprită</string>
     <string name="find_my_device_enable">Pornită</string>
+    <string name="find_my_device_summary">Este necesară logarea la contul Mi</string>
     <string name="fingerprint_add_max">Puteți adăuga până la %d amprente</string>
     <string name="fingerprint_add_title">Aăugați amprenta</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
@@ -3289,6 +3291,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="invalid_location">Locaţia de instalare nu este validă.</string>
     <string name="invalid_size_value">"Nu s-a putut calcula mărimea pachetului."</string>
     <string name="ipaddr_label">Adresă IP:</string>
+    <string name="ipv4_congertion_control">Selectați modul de control al congestiei TCP</string>
+    <string name="ipv4_congertion_xontrol_chose">Algoritmul de evitare a congestiei TCP</string>
     <string name="item_system_app">Aplicații de sistem</string>
     <string name="join_two_items">%1$s şi %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>

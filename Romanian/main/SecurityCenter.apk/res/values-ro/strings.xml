@@ -162,9 +162,9 @@
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_not_wlan">"Nu sunteți conectat la Wi-Fi. Utilizarea datelor mobile poate genera costuri suplimentare. Continuați oricum?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Încărcați numele și detaliile aplicațiilor</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Se încarcă și se scanează numele și detaliile aplicațiilor, utilizând definiții de viruși on-line.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Pentru a detecta și neutraliza virușii mai eficient, vom încărca numele și detaliile pachetelor pentru a le scana utilizând un motor din cloud.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">"Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele Avast, AVL şi Tencent (%s)."</string>
+    <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Această caracteristică este furnizată de către un motor antivirus terț. Pentru a afla mai multe, citiți &amp;lt;a href=\"%1$s\"&amp;gt;Acordul licenței&amp;lt;/a&amp;gt; furnizat de către terț.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_link">Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast, AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>

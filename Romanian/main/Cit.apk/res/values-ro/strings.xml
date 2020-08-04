@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="ANT_set_title">setați ant</string>
+    <string name="DSI_configuration_set">setați DSI</string>
+    <string name="DSI_setting">DSI</string>
+    <string name="DSI_value_get">obțineți DSI</string>
     <string name="FpTest">Rulează FpTest</string>
     <string name="FpTest_result">Rezultat FpTest:</string>
     <string name="SDCard">Card SD</string>
@@ -719,6 +723,8 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="radio_info_sim_status">Stare SIM:</string>
     <string name="radio_info_unknown">Necunoscută</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+    <string name="sar_sensor_set">setați senzorul sar</string>
+    <string name="sar_sensor_setting">stare senzor sar</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>
     <string name="test_bottom_speaker">difuzor inferior</string>

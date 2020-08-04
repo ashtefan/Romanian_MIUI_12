@@ -28,7 +28,7 @@
     <string name="autofill">Completare automată</string>
     <string name="autofill_save_message">Permiteți MIUI să salveze informațiile conturilor și parolele?</string>
     <string name="autofill_save_ok">Permiteți</string>
-    <string name="autofill_save_sub_message">"Veți putea gestiona parolele salvate în Setări &gt; Parole și securitate &gt; %s."</string>
+    <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări>Parole și Securitate &gt; %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
     <string name="bluetooth_close">Această aplicație a oprit Bluetooth-ul</string>
