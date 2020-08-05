@@ -1764,6 +1764,7 @@ răspunsul operatorului"</string>
     <string name="main_tobe_added_desc">Date mobile de la ¥0.03/MB</string>
     <string name="main_today_used">Utilizat azi</string>
     <string name="main_toolbar_firewall">Restricţionare utilizare date</string>
+    <string name="main_toolbar_misim">Mi SIM</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_statistic">Statistică</string>
     <string name="main_traffic_detail">Utilizare date</string>
@@ -1850,7 +1851,8 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="menu_summary_antivirus">Căutați viruși în dispozitiv</string>
     <string name="menu_summary_app_manager">Actualizați și dezinstalați aplicațiile</string>
     <string name="menu_summary_garbage_cleanup">Nu s-a găsit nimic de curățat</string>
-    <string name="menu_summary_garbage_cleanup_ex">Goliți %s gunoi</string>
+    <string name="menu_summary_garbage_cleanup_ex">Eliberați %s</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% spațiu de stocare</string>
     <string name="menu_summary_networkassistants">Gestionați planul de date</string>
     <string name="menu_summary_networkassistants_2">Ați depășit limita</string>
     <string name="menu_summary_networkassistants_3">Suficiente date rămase</string>

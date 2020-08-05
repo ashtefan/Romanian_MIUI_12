@@ -955,9 +955,8 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="nav_lunch_duokan">Se deschide Duokan…</string>
     <string name="nav_screen_container_tab_incognito">Filă incognito</string>
     <string name="nav_screen_container_tab_normal">Filă obişnuită</string>
-    <string name="nav_screen_incognito_message">"Istoricul de navigare și al căutărilor nu va fi salvat în modul Incognito.
-Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși salvate."</string>
-    <string name="nav_screen_incognito_title">Mod Incognito</string>
+    <string name="nav_screen_incognito_message">Acum puteți naviga în mod privat. Istoricul de navigare, solicitările de căutare și descărcările nu vor fi înregistrate. Nu vom salva nici datele site-urilor accesate.</string>
+    <string name="nav_screen_incognito_title">Ați trecut la modul Incognito.</string>
     <string name="nav_screen_tab_incognito_enter">Accesați fila incognito</string>
     <string name="nav_screen_tab_incognito_exit">Părăsiți fila incognito</string>
     <string name="navigate_feedback_dislike">nu mă interesează</string>
@@ -1500,6 +1499,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="title_bar_loading">Se încarcă…</string>
     <string name="title_notice_push">Activați notificările push</string>
     <string name="toast_feedback">Veți vedea mai puține elemente de acest fel.</string>
+    <string name="toast_not_support">Această caracteristică nu este încă suportată</string>
     <string name="today">Astăzi</string>
     <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
     <string name="tomorrow">Mâine</string>

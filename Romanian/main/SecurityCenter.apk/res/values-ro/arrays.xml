@@ -115,7 +115,7 @@
         <item>Accesarea setărilor legate de limbă și operator, ca și a altor detalii</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>Aplicațiile terțe care nu sunt verificate de către GetApps pot cauza diverse probleme și scădea stabilitatea sistemului.</item>
+        <item>Aplicațiile terțe care nu sunt verificate pot cauza diverse probleme și scădea stabilitatea sistemului.</item>
         <item>Unele aplicații terțe pot conține malware care supun la risc datele dvs. personale.</item>
     </string-array>
     <string-array name="priority_storage_entries">
