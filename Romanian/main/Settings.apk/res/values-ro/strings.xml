@@ -4877,12 +4877,12 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="partial_connectivity_text">Unele aplicații și servicii pot să nu funcționeze datorită conectivității limitate. Utilizați oricum?</string>
     <string name="passpoint_content">%1$s credențiale</string>
     <string name="passpoint_label">Salvat prin</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Punctul de acces este o tehnologie de încredere și sigură de conexiune la Wi-Fi lansată de către Alianța Wi-Fi. Aceasta configurează automat conturile pentru a realiza o conexiune perfectă între rețelel Wi-Fi și dispozitivele mobile.
+    <string name="passpoint_r1_privacy_dialog_message">"Acest serviciu Wi-Fi este furnizat de către Exands. Acesta vă permite să vă conectați în mod automat la hotspot-urile suportate din apropiere.
 
-Această funcție obține adresa MAC Wi-Fi doar pentru înregistrarea inițială a contului. Vom procesa datele dvs. în concordanță cu %s. Vă rugăm să citiți cu atenție Politica de Confidențialitate și să o acceptați pentru a putea continua."</string>
-    <string name="passpoint_r1_privacy_dialog_no">Renunțați</string>
+Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Ieșiți</string>
     <string name="passpoint_r1_privacy_dialog_title">Atenție</string>
-    <string name="passpoint_r1_privacy_dialog_url_text">Politica de Confidențialitate</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">\"Politica de Confidențialitate Exands\"</string>
     <string name="passpoint_r1_privacy_dialog_yes">Accept</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_and_security">Parole și securitate</string>
