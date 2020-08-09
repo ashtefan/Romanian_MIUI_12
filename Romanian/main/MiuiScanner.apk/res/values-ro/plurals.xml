@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="are_you_sure_you_want_delete_file">
+        <item quantity="other">Ștergeți %1$d fișiere acum?</item>
+        <item quantity="one">Ștergeți %1$d fișier acum?</item>
+    </plurals>
+    <plurals name="are_you_sure_you_want_delete_this">
+        <item quantity="other">Ștergeți %1$d imagini acum?</item>
+        <item quantity="one">Ștergeți %1$d imagine acum?</item>
+    </plurals>
     <plurals name="choosed">
         <item quantity="other">Au fost selectate %1$d elemente</item>
         <item quantity="one">A fost selectat %1$d element</item>
