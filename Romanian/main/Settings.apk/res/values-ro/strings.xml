@@ -336,6 +336,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="advanced_apps">Avansat</string>
     <string name="advanced_battery_graph_subtext">Nivelul disponibil al acumulatorului este o estimare bazată pe modul dvs. de utilizare a dispozitivului</string>
     <string name="advanced_battery_title">Utilizare avansată a acumulatorului</string>
+    <string name="advanced_gesture">Gesturi personalizate</string>
     <string name="advanced_screen_paper_mode_title">Mod Citire</string>
     <string name="advanced_section_header">Avansat</string>
     <string name="advanced_security_title">Avansat</string>
@@ -360,7 +361,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="ai_settings_long_click_title">Apăsare și menținere</string>
     <string name="ai_settings_single_press_des">Apăsați butonul AI pentru a vorbi cu Asistentul Google, apoi eliberați-l pentru a primi răspunsul.</string>
     <string name="airplane_mode">Mod Avion</string>
-    <string name="airplane_mode_summary">Dezactivează apelurile, mesajele și datele mobile</string>
+    <string name="airplane_mode_summary">Activați pentru a deconecta dispozitivul de la rețelele mobile. Nu veți putea apela, trimite sau primi mesaje sau să utilizați datele mobile atunci când această caracteristică este activă.</string>
     <string name="alarm_ringtone_title">Sunet implicit pentru alarmă</string>
     <string name="alarm_sound_dialog_title">Alegeți sunetul pentru alarmă</string>
     <string name="alarm_sound_title">Alarmă</string>
@@ -1527,6 +1528,7 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="cellular_data_title">Date mobile</string>
     <string name="cellular_data_usage">Utilizare date mobile</string>
     <string name="change">Modificați</string>
+    <string name="change_brightness">Ajustează iluminarea</string>
     <string name="change_lock_screen_password_title">Modificaţi Blocarea ecranului</string>
     <string name="change_password">Modificaţi parola</string>
     <string name="change_security_lock">Încercați alte modalități de deblocare</string>
@@ -1863,6 +1865,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="custom_color">Personalizat</string>
     <string name="custom_gesture_title">Gesturi personalizate</string>
     <string name="custom_wifi_name_title">Editați numele rețelei Wi-Fi</string>
+    <string name="customize_knock_gesture"/>
     <string name="cutout_mode_always">Arată întotdeauna tăietura</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Unele aplicații pot fi afișate incorect dacă personalizați modul în care este afișată tăietura.</string>
@@ -2360,8 +2363,8 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="domain_urls_title">Accesare linkuri</string>
     <string name="done">Finalizat</string>
     <string name="done_button">Terminat</string>
-    <string name="double_click_power_key">Atingere dublă a butonului de pornire</string>
-    <string name="double_knock">Atingere dublă</string>
+    <string name="double_click_power_key">Apăsare dublă a butonului de pornire</string>
+    <string name="double_click_volume_down_when_lock">Apăsare dublă a butonului de Volum- când ecranul este blocat</string>
     <string name="double_tap_power_for_camera_suggestion_title">Porniți rapid camera</string>
     <string name="double_tap_power_for_camera_summary">Pentru a porni rapid camera, apăsați de două ori butonul de pornire. Acest lucru este posibil din orice ecran.</string>
     <string name="double_tap_power_for_camera_title">Mergeți la Cameră</string>
@@ -2614,7 +2617,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="ethernet_data_usage">Utilizare date ethernet</string>
     <string name="every_day">În fiecare zi</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="expandable_under_keyguard_title">Expandabil în Blocarea securizată a ecranului</string>
+    <string name="expandable_under_keyguard_title">Afișează în Blocarea ecranului</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="extended_power_menu">Meniu extins de repornire</string>
@@ -2730,7 +2733,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="find_my_device">Localizare dispozitiv</string>
     <string name="find_my_device_disable">Oprită</string>
     <string name="find_my_device_enable">Pornită</string>
-    <string name="find_my_device_summary">Este necesară logarea la contul Mi</string>
+    <string name="find_my_device_summary">Această funcție necesită conectarea la contul Mi</string>
     <string name="fingerprint_add_max">Puteți adăuga până la %d amprente</string>
     <string name="fingerprint_add_title">Aăugați amprenta</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
@@ -2965,6 +2968,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gentle_notifications_title">Notificări Gentile</string>
     <string name="gesture_double_twist_sensor_name"/>
     <string name="gesture_double_twist_sensor_vendor"/>
+    <string name="gesture_function_dialog_message">%1$s este utilizată pentru \"%2$s\". Înlocuiți cu \"%3$s\"?</string>
     <string name="gesture_not_supported_dialog_message">Nesuportat de către aplicația implicită acasă, %s</string>
     <string name="gesture_not_supported_positive_button">Schimbați aplicația implicită acasă</string>
     <string name="gesture_preference_summary">Gesturi rapide pentru a controla telefonul</string>
@@ -2974,6 +2978,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_prevent_ringing_title">Apăsați în același timp pe butonul de pornire și pe creșterea volumului</string>
     <string name="gesture_setting_off">Oprit</string>
     <string name="gesture_setting_on">Pornit</string>
+    <string name="gesture_settings_title">Scurtături gesturi</string>
     <string name="gesture_wakeup_summary">Puteți atinge de două ori ecranul pentru a-l închide atunci când se utilizează tema Clasică sau implicită</string>
     <string name="gesture_wakeup_title">Atingeți de două ori ecranul pentru a-l deschide sau închide</string>
     <string name="getConfiguredNetworks">obțineți configurările de rețea</string>
@@ -3303,6 +3308,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="key_combination_power_back">Pornire + Înapoi</string>
     <string name="key_combination_power_home">Pornire + Acasă</string>
     <string name="key_combination_power_menu">Pornire + Meniu</string>
+    <string name="key_combination_power_volume_down">Volum- și Pornire</string>
     <string name="key_fsg_dialog_message">"Utilizați pentru navigare gesturile în ecran complet. Caracteristicile asociate ale butoanelor nu sunt disponibile acum. Comutați la butoane?"</string>
     <string name="key_fsg_dialog_negative">Renunțați</string>
     <string name="key_fsg_dialog_positive">Comută la butoane</string>
@@ -3829,6 +3835,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
     <string name="long_press_power_key">Apăsați lung butonul de Pornire</string>
     <string name="long_press_power_key_half_of_second">Atingeți și mențineți apăsat butonul de Pornire pentru 0,5 secunde pentru a activa Asistentul Google</string>
+    <string name="long_press_power_key_half_second">Atingeți și mențineți apăsat butonul de Pornire pentru 0,5 secunde</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Apăsați lung butonul de Pornire &amp;lt;font color=#999999&amp;gt;Mai rapid și mai comod&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
     <string name="lost_internet_access_cancel">Rămâneți pe Wi-Fi</string>
@@ -5907,7 +5914,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_sound_settings">Sunet;Volume;vibrații;Suprimare zgomot;Suprimare zgomot de fond</string>
     <string name="search_status_bar_settings">Notificări și bara de stare;Notificări;Bara de stare</string>
     <string name="search_status_bar_settings_custom_carrier">Editați numele operatorului;Nume operator</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Expandabilă în Blocarea securizată a ecranului;expandabilă în blocarea securizată a ecranului</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Afișează în Blocarea ecranului;afișează în blocarea ecranului</string>
     <string name="search_status_bar_settings_manage_notification">Notificările aplicațiilor;Notificări</string>
     <string name="search_status_bar_settings_show_carrier">Afișare nume operator;Nume operator</string>
     <string name="search_status_bar_settings_show_network_speed">Afișare viteză de conexiune;viteză conexiune</string>

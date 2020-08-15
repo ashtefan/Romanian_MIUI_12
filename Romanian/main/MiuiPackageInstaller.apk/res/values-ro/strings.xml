@@ -38,6 +38,7 @@
     <string name="accessibility_wifi_signal_full">Semnal Wi-Fi complet.</string>
     <string name="accessibility_wifi_three_bars">Semnal Wi-Fi: trei linii.</string>
     <string name="accessibility_wifi_two_bars">Semnal Wi-Fi: două linii.</string>
+    <string name="action_bar_report_link_des">Alertă aplicație</string>
     <string name="active_input_method_subtypes">Metode active de introducere</string>
     <string name="adb_install_no_network">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="adb_install_open">Se deschide…</string>
@@ -263,6 +264,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="enabled_by_admin">Activat de către admin</string>
     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
     <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
+    <string name="exit_install_button">Nu instala</string>
     <string name="expand_button_title">Avansat</string>
     <string name="external_sources_settings">Setări</string>
     <string name="external_sources_settings_negative">Restricționați</string>
@@ -312,18 +314,26 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="increment_preparing">Se pregătește…</string>
     <string name="install">Instalaţi</string>
     <string name="install_app_progress_clear_apk">Ștergeți fișierul APK</string>
+    <string name="install_confirm_dialog_message">Această aplicație este compilată de către Google. Ar trebui să instalați serviciile Google Play pentru a putea utiliza această aplicație în mod normal. Instalarea acestei aplicații acum poate duce la un comportament neobișnuit al dispozitivului. O instalați oricum?</string>
+    <string name="install_confirm_dialog_negative_button">Renunț</string>
+    <string name="install_confirm_dialog_positive_button">Instalează</string>
+    <string name="install_confirm_dialog_title">Atenție</string>
     <string name="install_confirm_question">Instalaţi această aplicaţie? Va avea acces la:</string>
+    <string name="install_confirm_question_des_10">Dacă vă asumați riscul și doriți să continuați instalarea, autorizați acest lucru din Securitate> Gestionați aplicațiile> Permisiuni> Aplicații cu riscuri posibile. Dacă nu găsiți \"Aplicații cu riscuri posibile\", actualizați aplicația de Securitate și încercați din nou.</string>
     <string name="install_confirm_question_no_perms">Doriți să instalați această aplicație? Nu solicită permisiuni speciale.</string>
     <string name="install_confirm_question_update">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_no_perms">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
     <string name="install_confirm_question_update_system">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_system_no_perms">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
+    <string name="install_confirm_text_gms">Această aplicație este compilată de către Google. Instalați serviciile Google Play înainte de a instala această aplicație. Fără acestea, este posibil ca aplicația să nu funcționeze în mod corect.</string>
     <string name="install_control_cancel_install">Nu instala</string>
+    <string name="install_control_cancel_vip_account_install">Ieșiți</string>
     <string name="install_control_continue_install">Instalează oricum</string>
     <string name="install_control_lite_mode_explain_des">Această aplicație provine dintr-o sursă necunoscută și este posibil să nu funcționeze în modul Lite.</string>
     <string name="install_control_lite_mode_solution_des">"Puteți alege să instalați această aplicație oricum.
 De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_control_normal_mode_explain_des">Nu se poate instala această aplicație datorită restricțiilor legale</string>
+    <string name="install_control_vip_account_install">Aplicați pentru programul Beta</string>
     <string name="install_done">Aplicaţie instalată</string>
     <string name="install_failed">Nu s-a putut instala aplicația</string>
     <string name="install_failed_blocked">Instalarea pachetului a fost blocată.</string>
@@ -335,8 +345,13 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_finished_notification_summary">Atingeți pentru a elibera spațiu de stocare</string>
     <string name="install_finished_notification_title">%1$s s-a instalat cu succes. Puteți elibera %2$s din spațiul de stocare.</string>
     <string name="install_from_appstore_hint">Vă recomandăm să instalați aplicația din &lt;u&gt;&lt;font color=#91c727&gt;Magazinul de Aplicații&lt;/font&gt;&lt;/u&gt;</string>
+    <string name="install_vip_account_mode_explain_des">Aceasta este o versiune Beta a aplicației. Aplicați pentru programul Beta de testare înainte de a o instala.</string>
+    <string name="install_vip_account_mode_solution_des">Aplicați pentru programul Beta</string>
     <string name="installing">Se instalează…</string>
     <string name="installing_app">Se instalează %1$s…</string>
+    <string name="intercept_confirm_dialog_message">%1$s încearcă să instaleze %2$s. Verificați-vă identitatea pentru a putea continua.</string>
+    <string name="intercept_confirm_dialog_positive">Verificați</string>
+    <string name="intercept_confirm_dialog_title">Atenție</string>
     <string name="intercept_install">Instalați</string>
     <string name="keep_screen_on">Ecran activ permanent</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
@@ -644,6 +659,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="show_touches">Arată punctele atinse</string>
     <string name="show_touches_summary">Afișați feedback vizual pentru atingerile ecranului</string>
     <string name="simulate_color_space">Simulați spațiul de culori</string>
+    <string name="spannable_continue_text">Înțeleg riscurile. Instalează oricum.</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Iluminare intermitentă a ecranului la operațiuni lungi pe firul principal</string>
     <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>

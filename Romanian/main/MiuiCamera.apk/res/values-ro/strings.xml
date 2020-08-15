@@ -879,6 +879,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
     <string name="pref_camera_hfr_entry_off">Dezactivat</string>
+    <string name="pref_camera_high_quality_preferred_description">Îmbunătățește calitatea imaginii utilizând algoritmi inteligenți. Viteza de fotografiere poate scădea când este activată această funcție.</string>
+    <string name="pref_camera_high_quality_preferred_title">Crește calitatea imaginii</string>
     <string name="pref_camera_histogram_entry_disable">Dezactivaţi</string>
     <string name="pref_camera_histogram_entry_enable">Activaţi</string>
     <string name="pref_camera_iso_entry_auto">AUTO</string>
@@ -1091,7 +1093,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_google_lens_summary">Îndreptați camera către informații de contact, URL-uri sau coduri QR pentru a vedea opțiunile disponibile</string>
     <string name="pref_google_lens_title">Sugestii de lentile</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
-    <string name="pref_hdr10_video_mode_description">Suportă videoclipuri 4K și 8K codate prin H.265</string>
+    <string name="pref_hdr10_video_mode_description">Optimizează culorile și contrastul pentru videoclipuri 4K și 8K în mod automat. Videoclipurile optimizate pot fi redate doar pe dispozitive compatibile HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_lens_dirty_detect_summary">Primiți o notificare când lentila este murdară</string>
     <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
@@ -1320,6 +1322,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_effect_entry_summer_day">Vară</string>
     <string name="video_effect_entry_wind_sing">Briză</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_hdr10_tip">HDR10</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_tag_flag_title">Etichete</string>
     <string name="video_ultra_clear_tip">4K UHD</string>

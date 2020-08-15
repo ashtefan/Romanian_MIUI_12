@@ -193,7 +193,10 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_delete_images">Ștergeți imaginile</string>
     <string name="feedback_description">Descriere</string>
     <string name="feedback_description_bugreport_hint">În unele situații (…) telefonul meu se comportă anormal (…).</string>
-    <string name="feedback_description_hint">"Descrieți problema pe care o întâmpinați"</string>
+    <string name="feedback_description_hint">"Descrieți aici problema pe care o întâmpinați.
+%1$d. În ce aplicație sau în ce pagină ați întâmpinat această problemă?
+%2$d. După ce acțiuni efectuate a apărut problema?
+%3$d. Dați-ne informații suplimentare care ne pot ajuta să remediem această problemă."</string>
     <string name="feedback_description_hint_suggestion">"Spuneți-ne ce ați dori să îmbunătățim la MIUI."</string>
     <string name="feedback_description_label">Descriere</string>
     <string name="feedback_description_suggest_hint">"Doresc să adăugați o funcție nouă () deoarece îmi este folositoare pentru ()."</string>
@@ -717,7 +720,7 @@ Pentru a vă activa contul, accesați
     <string name="title_same_question_feedback_main">Probleme similare pe forumul MIUI</string>
     <string name="title_system_app">Aplicaţii MIUI</string>
     <string name="title_user_guide">Ghidul utilizatorului</string>
-    <string name="toast_app_tag_required">Selectați problema</string>
+    <string name="toast_app_tag_required">Selectați mai întâi problema</string>
     <string name="toast_catch_full_log_catching">Puteți genera un singur jurnal odată.</string>
     <string name="toast_catch_full_log_open_failed">"Nu s-a putut porni înregistrarea jurnalului."</string>
     <string name="toast_description_required">Descrierea este necesară</string>

@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="abnormal">Anormal</string>
+    <string name="above_speed_km_per_hour">≥%d km/h</string>
+    <string name="above_speed_km_per_hour_1">≥%.1f km/h</string>
     <string name="achieve_goals">Ați atins ținta</string>
     <string name="achieve_stand_goals">Ați atins ținta de activitate</string>
     <string name="actionbar_button_up_description">Înapoi</string>
@@ -103,6 +105,8 @@ pentru a adăuga carduri"</string>
     <string name="bedTime_normal_description">V-ați pus în pat la timp. Mențineți acest obicei!</string>
     <string name="bedtime">Ora de culcare</string>
     <string name="bedtime_description">Ora de culcare reprezintă momentul în care vă puneți în pat și nu mai atingeți telefonul. Aceasta este estimată pe baza programului de culcare și a utilizării telefonului.</string>
+    <string name="below_speed_km_per_hour">&lt;%d km/h</string>
+    <string name="below_speed_km_per_hour_1">&lt;%.1f km/h</string>
     <string name="bg_control_dialog_go_set">Setări</string>
     <string name="bg_control_dialog_msg">Economisirea acumulatorului va restricționa activitatea în fundal a aplicației Sănătate Xiaomi. Permiteți aplicației Sănătate Xiaomi să ruleze în fundal în permanență pentru a obține statistici precise.</string>
     <string name="bg_control_dialog_title">Restricții în fundal</string>
@@ -537,6 +541,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="health_score">Scor sănătate</string>
     <string name="health_score_tips">Scorul de sănătate este calculat pe baza IMC (indicele de masă corporală), dar și pe somn și pașii efectuați. Cu cât sunteți mai aproape de țintele propuse, cu atât scorul de sănătate este mai ridicat.</string>
     <string name="health_setting">Setări sănătate</string>
+    <string name="heart_rate">Ritm cardiac</string>
     <string name="high">Ridicat</string>
     <string name="high2">Ridicată</string>
     <string name="high_intensity">Ridicat</string>
@@ -551,6 +556,15 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_heart_rate_unit">Ritm cardiac (BPM)</string>
+    <string name="hr_input_heart_rate">Înregistrați ritmul cardiac</string>
+    <string name="hr_state">Stare</string>
+    <string name="hr_state_active">Activ</string>
+    <string name="hr_state_fast">Rapid</string>
+    <string name="hr_state_normal">Normal</string>
+    <string name="hr_state_regular">Obișnuit</string>
+    <string name="hr_state_resting">Repaos</string>
+    <string name="hr_state_slow">Scăzut</string>
     <string name="icon_content_description">Pictogramă dialog</string>
     <string name="improve_step_target">Ați atins ținta prea des. Încercați să vă setați o țintă mai ambițioasă.</string>
     <string name="improve_your_health_default_tips">Faceți exerciții și odihniți-vă îndeajuns pentru a vă menține sănătos.</string>
@@ -800,6 +814,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="pause">Pauză</string>
     <string name="per_time_minutes">%d pe minut</string>
     <string name="per_time_minutes1">" pe minut"</string>
+    <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="permission_check_result">Setată cu succes</string>
     <string name="permission_check_result_failed">Nu s-a putut seta</string>
     <string name="permission_manage">Gestionați permisiunile</string>
@@ -878,6 +893,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="remind_weight_title">Cântărire</string>
     <string name="remove">Eliminați</string>
     <string name="repeat_mode">Repetați</string>
+    <string name="resting_heart_rate">Ritm cardiac în repaos</string>
+    <string name="resting_heart_rate_desc">Un ritm cardiac normal pentru persoanele adulte în condiții staționare este între 60 și 100 bătăi pe minut. Acesta poate diferi în funcție de vârstă, sex precum și de alți factori.</string>
     <string name="retry">Încercați din nou</string>
     <string name="revert_to_default">Restaurați setările implicite</string>
     <string name="run">Alergare</string>
@@ -1107,9 +1124,9 @@ despre somn"</string>
     <string name="stand_notice_title4">Ridicați-vă și întindeți-vă</string>
     <string name="stand_notice_title5">Se pare că nu v-ați ridicat pe durata ultimei ore</string>
     <string name="stand_notice_title6">V-ați ridicat în ultima oră?</string>
-    <string name="stand_remind_setting_desc">Atunci când nu este detectată nicio activitate în decurs de o oră, trimite o notificare pentru a vă aminti să vă ridicați</string>
+    <string name="stand_remind_setting_desc">Primiți o notificare de a vă ridica după o oră de inactivitate</string>
     <string name="stand_setting">Setări</string>
-    <string name="stand_stop_reminding">Oprește primirea de memento-uri pentru mișcare</string>
+    <string name="stand_stop_reminding">Nu afișa din nou</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">" V-ați ridicat"</string>
     <string name="state_agree">De acord</string>
@@ -1216,12 +1233,15 @@ despre somn"</string>
     <string name="tb_go_next_a_day">Ziua anterioară</string>
     <string name="tb_go_on_detection">Reluați</string>
     <string name="tb_has_snore_dream_talk">S-a detectat sforâit și vorbit în somn</string>
+    <string name="tb_heart_rate_max_min">Ritm cardiac. Cel mai mare: %1$d. Cel mai mic: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Presiunea arterială. Sistolică: %1$d. Diasistolică: %2$d. Înregistrată: %3$s. Starea: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Presiunea arterială. Nu există date.</string>
     <string name="tb_home_exercise_card_finish">Exerciții. %1$s. Finalizat: %2$s. Ținta: %3$s. Finalizat: %4$s.</string>
     <string name="tb_home_exercise_card_not_set_goal">Exerciții. %1$s. Finalizat: %2$s. Deschideți ținta.</string>
     <string name="tb_home_exercise_card_not_supported_step">Exerciții. Acest dispozitiv nu poate număra pașii.</string>
     <string name="tb_home_exercise_card_speed_of_progress">Exerciții. %1$s. Finalizat: %2$s. Ținta: %3$s. Progres: %4$s.</string>
+    <string name="tb_home_heart_rate_card">Ritm cardiac. %1$d bătăi pe minut. Înregistrat la %2$s.</string>
+    <string name="tb_home_heart_rate_card_no_data">Ritm cardiac. Nu există date.</string>
     <string name="tb_home_sleep_card">Somn. %1$s astăzi. Ați mers la somn la %2$s. V-ați trezit la %3$s. %4$s.</string>
     <string name="tb_home_sleep_card_no_data">Somn. Nu există date astăzi.</string>
     <string name="tb_home_sleep_card_not_open_trace">Somn. Analiza ciclului de somn este dezactivată.</string>
@@ -1258,6 +1278,9 @@ despre somn"</string>
     <string name="tb_picker_year">Anul selectat: %1$d. Glisați vertical pentru a selecta anul.</string>
     <string name="tb_play_next">Comutați la următoarea înregistrare</string>
     <string name="tb_play_previous">Comutați la anterioara înregistrare</string>
+    <string name="tb_range">De la %1$s la %2$s</string>
+    <string name="tb_resting_heart_rate_avg">Media ritmului cardiac în repaos: %1$d. Stare: %2$s.</string>
+    <string name="tb_resting_heart_rate_avg2">Media ritmului cardiac în repaos. Cel mai ridicat: %1$d. Cel mai scăzut: %2$d.</string>
     <string name="tb_select_a_column">Selectată %1$s</string>
     <string name="tb_show_sleep_info">Se afișează statisticile de somn pentru %1$s</string>
     <string name="tb_sleep_evaluation">Rezultatul estimat: %1$s</string>

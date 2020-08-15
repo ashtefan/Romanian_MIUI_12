@@ -68,6 +68,7 @@
     <string name="feedback_tip_msg">Pentru a grupa notificările mai precis, trebuie să colectăm numele aplicației, titlul notificării și descrierea și ora când notificarea a fost trimisă. Trimiteți feedback-ul dvs.?</string>
     <string name="feedback_tip_title">Feedback despre categoriile notificărilor</string>
     <string name="float_notifications">Notificări plutitoare</string>
+    <string name="float_notifications_short">Plutitoare</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -134,6 +135,7 @@
     <string name="lock_screen_display_rules">Format</string>
     <string name="lock_screen_tip_toast">Permiteți notificările în Blocarea ecranului în \"Format\"</string>
     <string name="lockscreen_notifications">Notificări în Blocarea ecranului</string>
+    <string name="lockscreen_notifications_short">Blocarea ecranului</string>
     <string name="menu_setting_recommend_to_minus">Arată mai puține notificări</string>
     <string name="menu_setting_recommend_to_normal">Nu redu notificările</string>
     <string name="menu_setting_show_in_home">Nu grupa</string>
@@ -260,6 +262,7 @@ Raportați această problemă &gt;"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="settings_guide_title">Aveți nevoie de alte setări?</string>
     <string name="show_badge_notifications">Insignele notificărilor</string>
+    <string name="show_badge_notifications_short">Insigne</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>

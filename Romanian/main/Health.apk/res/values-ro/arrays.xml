@@ -215,8 +215,8 @@
         <item>Atingeți \"Continuați\" pentru a afla mai multe și pentru a activa această caracteristică.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Asistentul de mișcare detectează starea de nemișcare prin intermediul telefonului mobil și o înregistrează în mod automat. Activați memento-ul de nemișcare pentru a vă reaminti când nu este detectată nicio mișcare în decurs de o oră:</item>
-        <item>Această funcție vă va monitoriza mișcările și vă va trimite memento-uri.</item>
+        <item>Aplicația Sănătate Xiaomi poate detecta și înregistra perioadele în care vă ridicați. De asemenea puteți primi memento-uri pentru a vă ridica după o oră de inactivitate.</item>
+        <item>Această funcție vă va monitoriza mișcările și vă va trimite memento-uri bazate pe rezultatul acesteia.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
