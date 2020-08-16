@@ -2231,7 +2231,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="disable_overlays">Dezactivați suprascrierile HW</string>
     <string name="disable_overlays_summary">Utilizați GPU întotdeauna pentru compunerea imaginii ecranului</string>
     <string name="disable_power_key_long_press_under_keyguard">Dezactivaţi meniul butonului de pornire</string>
-    <string name="disable_service_message">Atingând OK veți opri %1$s.</string>
+    <string name="disable_service_message">Atingând %1$s veți opri %2$s.</string>
     <string name="disable_service_title">Opriți %1$s?</string>
     <string name="disable_text">Dezactivaţi</string>
     <string name="disabled">Dezactivată</string>
