@@ -397,6 +397,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_chose_play_speed">Se redă la viteza %1$.1fX</string>
     <string name="galleryplus_chose_play_speed_failure">Nu s-a putut ajusta viteza de redare</string>
     <string name="galleryplus_click_to_higher_definition">Atingeți de două ori pentru a deschide previzualizarea HD</string>
+    <string name="galleryplus_copyright_unsported_audio">Nu se poate reda pista audio a videoclipului datorită restricțiilor drepturilor de autor</string>
+    <string name="galleryplus_copyright_unsported_video">Nu se poate reda videoclipul datorită restricțiilor drepturilor de autor</string>
     <string name="galleryplus_cta_tips">Ne puteți ajuta să ne îmbunătățim serviciile înrolându-vă în Programul de Experiența Utilizatorului și permițând Mi Video să se conecteze la internet. Sunteți de acord?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Atingeți de două ori din nou pentru a deschide previzualizarea HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Rată de cadre nesuportată. S-a comutat la viteza obișnuită.</string>
@@ -1363,6 +1365,8 @@ Verificați alte videoclipuri!"</string>
     <string name="vp_VideoView_error_text_unknown">A apărut o eroare</string>
     <string name="vp_VideoView_error_title">Eroare necunoscută</string>
     <string name="vp_app_name">Video Player</string>
+    <string name="vp_copyright_unsported_audio">Nu se poate reda pista audio a videoclipului datorită restricțiilor drepturilor de autor</string>
+    <string name="vp_copyright_unsported_video">Nu se poate reda videoclipul datorită restricțiilor drepturilor de autor</string>
     <string name="vp_hardware_unsported">"Acest videoclip nu poate fi redat pe telefonul dvs."</string>
     <string name="vp_notify_apk_installed">Descărcat cu succes</string>
     <string name="vp_replay">Redați din nou</string>
