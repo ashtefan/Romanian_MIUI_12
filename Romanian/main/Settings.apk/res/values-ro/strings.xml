@@ -6247,6 +6247,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="sim_call_back_title">Apelați de pe SIM-ul implicit</string>
     <string name="sim_calls_always_use">Utilizați întotdeauna acest SIM pentru a apela</string>
     <string name="sim_calls_ask_first_prefs_title">Întreabă întâi</string>
+    <string name="sim_card_lock">Stare cartelă SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">Selectați cartela SIM</string>
     <string name="sim_cards_changed_message">Cartelele SIM au fost schimbate</string>
@@ -6370,6 +6371,9 @@ Codul PIN poate fi incorect."</string>
     <string name="smart_battery_manager_title">Gestionarea Acumulatorului</string>
     <string name="smart_battery_summary">Limitați acumulatorul pentru aplicațiile pe care le utilizați rar</string>
     <string name="smart_battery_title">Gestionează aplicațiile în mod automat</string>
+    <string name="smart_home_title">Locuință inteligentă</string>
+    <string name="smart_home_value_none">Nimic</string>
+    <string name="smart_home_value_unknown">Necunoscut</string>
     <string name="smart_notifications_title">Notificări adaptive</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
     <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>

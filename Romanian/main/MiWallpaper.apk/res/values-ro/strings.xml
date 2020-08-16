@@ -295,6 +295,7 @@ mm"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="title_system_wallpaper_resource">Imagini de fundal de sistem</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="tuesday">Marți</string>

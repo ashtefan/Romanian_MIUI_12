@@ -75,8 +75,8 @@
         <item>Super imagini de fundal;Imagine de fundal;Imagine de fundal dinamică;Imagine de fundal 3D</item>
     </string-array>
     <string-array name="super_wallpaper_list_ids">
+        <item>saturn</item>
         <item>pământ</item>
-        <item>marte</item>
         <item>marte</item>
     </string-array>
 </resources>

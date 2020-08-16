@@ -445,10 +445,13 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="service_error">Eroare de server</string>
     <string name="set_success">Modificat cu succes</string>
     <string name="setting_clear_cache">Goliți memoria cache</string>
+    <string name="setting_create_shortcut">Scurtătură pe Ecranul principal</string>
     <string name="setting_default_download_dir">Locația implicită de descărcare</string>
     <string name="setting_default_download_dir_title">Selectați locația implicită de descărcare</string>
     <string name="setting_no_download_path">Selectați mai întâi locația implicită de descărcare</string>
     <string name="setting_title">Setări</string>
+    <string name="shortcut_dialog_confirm">Creați</string>
+    <string name="shortcut_dialog_content">Creați o scurtătură pe Ecranul principal pentru Mi Drive?</string>
     <string name="sign_in">Se conectează</string>
     <string name="sign_in_progress">Se conectează…</string>
     <string name="sign_in_title">Conectați-vă utilizând contul dvs. Mi</string>
@@ -481,6 +484,8 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="ticket_hint">Cod de verificare</string>
     <string name="ticket_invalid">Codul introdus este incorect</string>
     <string name="ticket_sign_in">Conectați-vă prin SMS</string>
+    <string name="tip_shortcut_added_success">Creat cu succes</string>
+    <string name="tip_shortcut_already_added">Scurtătura există deja pe Ecranul principal</string>
     <string name="title_blank">" "</string>
     <string name="transfer_done">Finalizat</string>
     <string name="transfer_done_file_count">%1$s (%2$s)</string>
