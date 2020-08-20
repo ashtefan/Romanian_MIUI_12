@@ -4899,7 +4899,7 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="password_turned_off_text">Parola a fost dezactivată</string>
     <string name="password_turned_on_text">Parola a fost activată</string>
-    <string name="password_unlock_title">Parolă</string>
+    <string name="password_unlock_title">Blocarea ecranului</string>
     <string name="payment_summary">%1$s este implicită</string>
     <string name="peek_notification_icon_title">Afișează pictograme pentru notificările primite</string>
     <string name="performance_category">Performanţă</string>
@@ -5684,6 +5684,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_projection_sample_title">Demonstrații</string>
     <string name="screen_projection_title">Proiectare</string>
     <string name="screen_reader_category_title">Cititoare de ecran</string>
+    <string name="screen_reader_mode_input_type_summary">Selectați gestul pentru activarea introducerii textului atunci când TalkBack este activ</string>
+    <string name="screen_reader_mode_input_type_title">Introducere text</string>
     <string name="screen_resolution_dialog_title">Schimbați rezoluția</string>
     <string name="screen_resolution_high_format">Înaltă (%1$s)</string>
     <string name="screen_resolution_normal_format">Normală (%1$s)</string>

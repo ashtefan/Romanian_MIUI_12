@@ -323,9 +323,14 @@
     <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU PRO</string>
     <string name="dialog_renew_success">Mulțumim pentru confirmare</string>
     <string name="dialog_score_btn_good">Evaluați</string>
+    <string name="dialog_score_msg_score_explorer">Vă place Muzica Mi?</string>
+    <string name="dialog_score_msg_score_not_good">Ne-ați putea lăsa și un feedback?</string>
+    <string name="dialog_score_msg_score_perfect">Drăguț! Evaluați aplicația în Magazinul de aplicații?</string>
     <string name="dialog_score_prompt_bad">"Vă mulțumim pentru feedback! Vom face tot posibilul pentru a îmbunătăți aplicația și serviciile."</string>
     <string name="dialog_score_prompt_good">Vă mulțumim pentru suport! Evaluați aplicația în Google Play?</string>
     <string name="dialog_score_title">Evaluați aplicația</string>
+    <string name="dialog_score_toast_rate">Evaluați mai întâi aplicația</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">Glisați în jos pentru a evalua aplicația noastră</string>
     <string name="dialog_song_sort_type">Sortați melodiile</string>
     <string name="dialog_song_sort_type_name">După nume</string>
     <string name="dialog_song_sort_type_playing_times">După numărul redărilor</string>
@@ -482,6 +487,7 @@
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
     <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_hide">Ascundeți controalele playerului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
     <string name="exo_controls_pause_description">Pauză</string>
     <string name="exo_controls_play_description">Redă</string>
@@ -490,8 +496,11 @@
     <string name="exo_controls_repeat_off_description">Nu repeta nimic</string>
     <string name="exo_controls_repeat_one_description">Repetă una</string>
     <string name="exo_controls_rewind_description">Derulează înapoi</string>
-    <string name="exo_controls_shuffle_description">Amestecă</string>
+    <string name="exo_controls_show">Afișează controalele playerului</string>
+    <string name="exo_controls_shuffle_off_description">Oprește amestecarea</string>
+    <string name="exo_controls_shuffle_on_description">Amestecă</string>
     <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_vr_description">Mod VR</string>
     <string name="exo_download_completed">Descărcare finalizată</string>
     <string name="exo_download_description">Descărcați</string>
     <string name="exo_download_downloading">Se descarcă</string>
@@ -502,6 +511,10 @@
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternează</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentariu</string>
+    <string name="exo_track_role_supplementary">Suplimentar</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciunul</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1264,6 +1277,7 @@ Be Happy"</string>
     <string name="shuffle_music">Amestecați lista de redare</string>
     <string name="shuffle_off_notif">Amestecare melodii dezactivată.</string>
     <string name="shuffle_on_notif">Amestecare melodii activată.</string>
+    <string name="shuffle_play_toast_text">Se amestecă melodiile…</string>
     <string name="similar_albums">Albume similare</string>
     <string name="similar_playlists">Liste de redare similare</string>
     <string name="similar_songs">Melodii similare</string>
@@ -1448,6 +1462,8 @@ Be Happy"</string>
     <string name="toast_stream_normal">În prezent se redau melodiile la calitate standard. Obțineți un pachet de Melodii Premium pentru a asculta la calitate înaltă.</string>
     <string name="toast_uhd_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Ridicată</string>
     <string name="toast_uhd_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Ridicată</string>
+    <string name="toast_will_play_list_when_ad_pause">Lista de redare va începe după redarea reclamelor</string>
+    <string name="toast_will_play_song_when_ad_pause">Această melodie va porni după redarea reclamelor</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="top_chart_title">Topuri</string>
@@ -1483,7 +1499,7 @@ Be Happy"</string>
     <string name="upgrade_music_message">Pachetul de actualizare este pregătit. Reporniți aplicația pentru actualizare.</string>
     <string name="upgrading_in_backstage">Se actualizează în fundal…</string>
     <string name="upload_favorite_dialog_title">Încărcați melodiile dvs. în cloud pentru a le putea accesa și de pe alte dispozitive sincronizate. Puteți dezactiva această caracteristică din Setări.</string>
-    <string name="upload_favorite_setting_summary">Încărcați melodiile dvs. în cloud pentru a le putea accesa și de pe alte dispozitive</string>
+    <string name="upload_favorite_setting_summary">Adăugarea melodiilor online la preferate le încarcă în cloud pentru a le putea accesa și de pe alte dispozitive</string>
     <string name="upload_favorite_setting_title">Sincronizați melodiile</string>
     <string name="upload_playlist_to_hungama_negative_text">Nu sincroniza</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizează</string>
