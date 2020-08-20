@@ -219,6 +219,10 @@ Trimiteți acest cod supervizor-ului."</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="just_now">Chiar acum</string>
     <string name="license_host_unreachable">Dispozitivul dvs. nu este conectat la serviciile cloud. Pentru a vedea acest element, vizitați %s de pe un dispozitiv conectat.</string>
+    <string name="load_label_up_no_data">Nu mai sunt elemente de afișat</string>
+    <string name="load_label_up_none">Nu mai sunt elemente de afișat</string>
+    <string name="load_label_up_refresh">Se încarcă elementele…</string>
+    <string name="load_label_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="load_metered_network_dialog_cancel">Renunțați</string>
     <string name="load_metered_network_dialog_desc">Dispozitivul dvs. nu este conectat la Wi-Fi. Încărcați utilizând datele mobile?</string>
     <string name="load_metered_network_dialog_ok">Încarcă</string>
@@ -412,6 +416,10 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
+    <string name="refresh_label_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="refresh_label_refreshed">Reîmprospătat cu succes</string>
+    <string name="refresh_label_refreshing">Se reîmprospătează…</string>
+    <string name="refresh_label_release_to_refresh">Eliberați pentru a reîmprospăta</string>
     <string name="remove_success">Șters cu succes</string>
     <string name="rename_ext_confirm_dialog_desc">Modificarea tipului fișierului îl poate face inutilizabil</string>
     <string name="rename_file_select_error">Nu se pot redenumi elemente multiple</string>

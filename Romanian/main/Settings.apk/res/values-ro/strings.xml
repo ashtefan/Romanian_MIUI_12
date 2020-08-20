@@ -4218,8 +4218,8 @@ Comutarea la %1$s nu va anula serviciul %2$s."</string>
     <string name="mqs_privacy_automatically_upload">Încarcă în mod automat data viitoare</string>
     <string name="mqs_privacy_dialog_cancel">Renunțați</string>
     <string name="mqs_privacy_dialog_confirm">Încărcați</string>
-    <string name="mqs_privacy_dialog_content">Încărcați jurnalele cu erori pentru a ne ajuta să localizăm și să rezolvăm această problemă? Jurnalele pot conține date personale, inclusiv informații despre locație.</string>
-    <string name="mqs_privacy_dialog_title">A apărut o eroare</string>
+    <string name="mqs_privacy_dialog_content">Se pare că au apărut recent erori ale dispozitivului. Puteți încărca jurnalele pentru a ne ajuta să localizăm și să rezolvăm această problemă. Jurnalele pot conține date personale, inclusiv informații despre locație. Încărcați acum jurnalele?</string>
+    <string name="mqs_privacy_dialog_title">Încărcare jurnale</string>
     <string name="mr_button_content_description">Buton proiecție</string>
     <string name="mr_cast_button_connected">Buton proiecție. Conectat</string>
     <string name="mr_cast_button_connecting">Buton proiecție. Se conectează</string>
