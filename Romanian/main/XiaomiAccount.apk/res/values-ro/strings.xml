@@ -93,7 +93,7 @@
     <string name="activate_email_notice">Activați contul în cel mult 24 de ore!</string>
     <string name="activity_not_found_notice">Nu s-a putut găsi aplicația</string>
     <string name="add_account">Conectați contul</string>
-    <string name="agreement_and_privacy">Politica de Confidențialitate și Acordul Utilizatorului</string>
+    <string name="agreement_and_privacy">Termenii și condițiile</string>
     <string name="app_name">Cont Mi</string>
     <string name="auth_fail_warning">Sesiunea a expirat, conectați-vă din nou mai târziu</string>
     <string name="authorize_title">Autorizare</string>
@@ -245,6 +245,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="health_state_not_activated">Neactivat</string>
     <string name="health_state_not_installed">Neinstalat</string>
     <string name="health_state_not_support">Nesuportată în această versiune</string>
+    <string name="help_center">Ajutor</string>
     <string name="i_agree">OK</string>
     <string name="i_agree_continue">De acord</string>
     <string name="identity">Identificare</string>

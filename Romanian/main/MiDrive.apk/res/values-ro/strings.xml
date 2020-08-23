@@ -501,9 +501,16 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="transfer_progress_text">%1$s / %2$s</string>
     <string name="transport_end_button">Editați</string>
     <string name="transport_title">Transferuri</string>
-    <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza adresa de e-mail de recuperare.</string>
-    <string name="update_email_address_dialog_title">Actualizați adresa de e-mail de recuperare</string>
-    <string name="update_phone_notice">Modificați setările de securitate</string>
+    <string name="update_dialog_button_cancel">Nu acum</string>
+    <string name="update_dialog_button_ok">Actualizează</string>
+    <string name="update_dialog_content">"Versiune nouă: %1$s
+%2$s"</string>
+    <string name="update_dialog_title">Este disponibilă o actualizare</string>
+    <string name="update_failed">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="update_failed_no_app_info">Nu s-a putut obține pachetul de instalare</string>
+    <string name="update_no_network">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="update_no_update">Versiunea curentă este cea mai recentă</string>
+    <string name="update_progress_dialog_content">Se descarcă…</string>
     <string name="upload_done">Încărcat cu succes</string>
     <string name="upload_done_info_for_sys_content_with_fail">%1$s. %2$s.</string>
     <string name="upload_done_info_for_sys_title">Încărcat cu succes. Atingeți pentru a vedea.</string>
