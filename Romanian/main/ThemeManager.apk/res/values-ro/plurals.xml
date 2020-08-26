@@ -29,6 +29,38 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d teme AOD</item>
+        <item quantity="one">%1$d temă AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d fonturi</item>
+        <item quantity="one">%1$d font</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d pictograme</item>
+        <item quantity="one">%1$d pictogramă</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d teme</item>
+        <item quantity="one">%1$d temă</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Adăugați %1$d elemente</item>
+        <item quantity="one">Adăugați %1$d element</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">S-au adăugate %1$d elemente în contul dvs. Vedeți elementele adăugate în comenzi.</item>
+        <item quantity="one">S-a adăugat %1$d element în contul dvs. Vedeți elementele adăugate în comenzi.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">Puteți descărca doar %1$d elemente gratuite dacă nu sunteți conectat(sunt excluse imaginile de fundal și tornurile de apel). Conectați-vă pentru a descărca elemente fără restricții.</item>
+        <item quantity="one">Puteți descărca doar %1$d element gratuit dacă nu sunteți conectat(sunt excluse imaginile de fundal și tornurile de apel). Conectați-vă pentru a descărca elemente fără restricții</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">%1$d elemente nu au fost sdăugate în contul dvs.</item>
+        <item quantity="one">%1$d element nu a fost sdăugat în contul dvs.</item>
+    </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Sunt disponibile actualizări pentru %1$d teme</item>
         <item quantity="one">Este disponibilă o actualizare pentru %1$d temă</item>

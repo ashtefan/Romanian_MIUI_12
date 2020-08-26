@@ -204,6 +204,8 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="license_host_unreachable">Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, mergeţi la %s.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_hint">Încărcare</string>
+    <string name="low_battery_locate_summary">Raportează în mod automat locația atunci când acumulatorul este descărcat</string>
+    <string name="low_battery_locate_title">Raportează locația atunci când acumulatorul este descărcat</string>
     <string name="master_alert_notif_content">Faceți în mod regulat copii de rezervă pentru a nu pierde datele importante</string>
     <string name="master_alert_notif_dspt_add">Elemente care așteaptã sincronizarea: %s</string>
     <string name="master_alert_notif_dspt_no">Sincronizat</string>
@@ -566,6 +568,9 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="picker_list_empty">Niciun contact aici</string>
     <string name="picker_search_empty">Nu s-a găsit niciun contact</string>
     <string name="picker_search_hint">Căutați</string>
+    <string name="power_off_locate_summary">"Raportează informațiile despre locație apăsând lung butonul de Pornire.
+Este posibil ca informațiile despre locație să nu fie raportate atunci când conexiunea la rețea este slabă."</string>
+    <string name="power_off_locate_title">Raportează locația înainte de oprire</string>
     <string name="pre_privacy_policy">Politica de Confidențialitate</string>
     <string name="pre_user_agreement">Acordul utilizatorului</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi"</string>

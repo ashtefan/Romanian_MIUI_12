@@ -136,8 +136,9 @@
     <string name="lock_screen_tip_toast">Permiteți notificările în Blocarea ecranului în \"Format\"</string>
     <string name="lockscreen_notifications">Notificări în Blocarea ecranului</string>
     <string name="lockscreen_notifications_short">Blocarea ecranului</string>
-    <string name="menu_setting_recommend_to_minus">Arată mai puține notificări</string>
-    <string name="menu_setting_recommend_to_normal">Nu redu notificările</string>
+    <string name="menu_setting_aggregatation_feedback">Opțiuni pentru grupare</string>
+    <string name="menu_setting_feedback_donot_classify">Nu grupa</string>
+    <string name="menu_setting_more_settings">Mai multe setări</string>
     <string name="menu_setting_show_in_home">Nu grupa</string>
     <string name="menu_setting_tip_recommend_minus">Veți vedea mai puține notificări de la %s"</string>
     <string name="menu_setting_tip_recommend_normal">Notificările de la %s nu vor fi reduse</string>
@@ -232,6 +233,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mune_setting_prefix_category">"Grupează cu "</string>
     <string name="night">Seară</string>
     <string name="noon">Amiază</string>
     <string name="not_sent_recently">Nu recent</string>
@@ -260,6 +262,7 @@ Raportați această problemă &gt;"</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="setting_menu_success">Setat cu succes</string>
     <string name="settings_guide_title">Aveți nevoie de alte setări?</string>
     <string name="show_badge_notifications">Insignele notificărilor</string>
     <string name="show_badge_notifications_short">Insigne</string>
@@ -348,7 +351,7 @@ Raportați această problemă &gt;"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tip_feedback_success">Trimis cu succes</string>
+    <string name="tip_feedback_thanks">Mulțumim pentru feedback!</string>
     <string name="tip_select_category">Selectați categoria notificării</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

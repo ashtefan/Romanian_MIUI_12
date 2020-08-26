@@ -27,6 +27,11 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="action_for_continue_timer">Reluați</string>
+    <string name="action_for_pause_timer">Pauză</string>
+    <string name="action_for_restart">Repetă</string>
+    <string name="action_for_snooze">Redu la tăcere</string>
+    <string name="action_for_stop">Stop</string>
     <string name="add_alarm">Adăugaţi o alarmă</string>
     <string name="add_clock">Adăugați un ceas</string>
     <string name="add_common_timer">Adăugați un temporizator</string>
