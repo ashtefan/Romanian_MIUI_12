@@ -426,7 +426,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="kuyin_user_agreement_content_href">Politica de Confidențialitate iFlytek</string>
     <string name="lab">Laborator Teme</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
-    <string name="live_wallpaper">Imagine de fundal dinamică</string>
+    <string name="live_wallpaper">Imagini de fundal dinamică</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
@@ -954,7 +954,7 @@ mm"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="super_wallpaper">Super Imagini de fundal</string>
+    <string name="super_wallpaper">Super imagini de fundal</string>
     <string name="support_theme_store_des">Temele bune sunt întotdeauna create de designeri talentați. Aplicația noastră conține o cantitate mică de anunțuri care ne permite să susținem activitatea lor.</string>
     <string name="support_theme_store_supported">Mulțumim pentru sprijin!</string>
     <string name="support_theme_store_title">Susțineți designerii noștri</string>
