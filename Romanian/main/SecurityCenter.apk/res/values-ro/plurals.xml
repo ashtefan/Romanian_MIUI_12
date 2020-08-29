@@ -116,6 +116,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">În %d secunde</item>
         <item quantity="one">În %d secundă</item>
     </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">cu %d zile în urmă</item>
+        <item quantity="one">cu %d zi în urmă</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
         <item quantity="one">Căutați într-o aplicație</item>

@@ -1391,6 +1391,8 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="bt_lhdc_property">Atribute</string>
     <string name="bt_pre_summary">Furnizează o experiență audio de înaltă calitate</string>
     <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
+    <string name="bt_show_notification_summary">Afișează o notificare permanentă în Perdeaua de notificări</string>
+    <string name="bt_show_notification_title">Notifică despre conexiunile Bluetooth</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
     <string name="btn_back">Înapoi</string>
@@ -1437,9 +1439,9 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="call_records_name_1">Gheorghe Popescu</string>
     <string name="call_records_name_2">Marius Coman</string>
     <string name="call_records_name_3">Radu Nicoară</string>
-    <string name="call_records_summary_1">9:35 AM | 26 de secunde</string>
-    <string name="call_records_summary_2">16 August | 1 min și 16 sec</string>
-    <string name="call_records_summary_3">16 August | 2 min și 24 de sec</string>
+    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d secunde</string>
+    <string name="call_records_summary_2">%1$d August | %2$dm și %3$ds</string>
+    <string name="call_records_summary_3">%1$d August | %2$dm și %3$ds</string>
     <string name="call_settings_primary_user_only">Modificați setările apelurilor în spațiul principal</string>
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
     <string name="call_settings_title">Setări apel</string>
@@ -3244,6 +3246,9 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="input_method_function_xiaoai">Intrare vocală Mi AI</string>
     <string name="input_method_function_xiaoai_des">Atingeți pentru a utiliza intrarea vocală Mi AI</string>
     <string name="input_method_manage">Gestionare tastaturi</string>
+    <string name="input_method_middle_function_move_cursor">Mutați cursorul</string>
+    <string name="input_method_middle_function_move_cursor_des">Apăsați și mențineți apăsat pe zona centrală pentru a muta cursorul</string>
+    <string name="input_method_middle_function_no_function_des">Nu atribui nicio acțiune</string>
     <string name="input_method_quick_access">Acces rapid</string>
     <string name="input_method_quick_cloud_mode_title">Notificări despre conținut nou în clipboard</string>
     <string name="input_method_quick_cloud_summary">Copiați elementele pe computerele compatibile și lipiți-le în dispozitivul dumneavoastră</string>
@@ -4029,6 +4034,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="mi_upi_settings">Cont Mi Pay</string>
     <string name="micloud_service_summary">Sincronizați lista de aplicații, faceți backup pentru setările sistemului și aspectul ecranului de pornire</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
+    <string name="middle_function_key">Zona centrală</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fişiere diverse</string>
     <string name="misc_files_selected_count">au fost selectate %1$d din %2$d</string>

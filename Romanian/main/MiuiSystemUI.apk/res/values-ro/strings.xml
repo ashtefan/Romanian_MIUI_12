@@ -1773,7 +1773,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="screenshot_failed_in_landscape_mode">Nu se pot realiza capturi de ecran derulante în modul Peisaj</string>
     <string name="screenshot_failed_title">"Nu s-a putut realiza captura de ecran."</string>
     <string name="screenshot_failed_to_capture_text">Realizarea de capturi de ecran nu este permisă de către aplicație sau de către organizația dvs.</string>
-    <string name="screenshot_failed_to_capture_title">Această aplicație nu permite realizarea de capturi de ecran</string>
+    <string name="screenshot_failed_to_capture_title">Nu se pot face capturi de ecran aici</string>
     <string name="screenshot_failed_to_save_text">"Nu se poate realiza captura de ecran datorită spațiului de stocare insuficient."</string>
     <string name="screenshot_failed_to_save_title">Nu există spațiu de stocare suficient pentru capturi de ecran noi</string>
     <string name="screenshot_failed_to_save_unknown_text">A apărut o eroare în timpul salvării capturii de ecran.</string>
@@ -1824,6 +1824,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="show_silently">Afișează silențios notificările</string>
     <string name="show_touches">Afișează atingerile</string>
     <string name="show_touches_summary">Arată atingerile ecranului</string>
+    <string name="sim_state_locked_dialog_title">Cartelă SIM nevalidă</string>
+    <string name="sim_state_locked_puk_dialog_message">Ați introdus un cod PUK incorect de cel puțin %d ori. Cartela dvs. SIM este nevalidă acum. Înlocuiți această cartelă SIM cu o alta.</string>
     <string name="simulate_color_space">Simulează spațiul de culoare</string>
     <string name="small_window_guide_title">Ferestre plutitoare</string>
     <string name="small_window_notification_text">Atingeți pentru a afla mai multe despre această funcție din MIUI %d</string>

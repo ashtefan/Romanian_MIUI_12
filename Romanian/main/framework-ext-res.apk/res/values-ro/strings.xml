@@ -119,6 +119,8 @@
     <string name="input_method_clipboard_clear_all_phrase_title">Se golește clipboardul</string>
     <string name="input_method_clipboard_copy_success">Copiat cu succes</string>
     <string name="input_method_clipboard_delete_success">Șters cu succes</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Apăsați și mențineți apăsat pe zona albastră pentru a muta cursorul ~</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Mutați degetul orizontal ~</string>
     <string name="input_method_clipboard_participle">Cuvinte separate</string>
     <string name="input_method_clipboard_settings_button">Setări</string>
     <string name="input_method_clipboard_tips">Elementele copiate vor fi șterse din clipboard după 48 de ore</string>

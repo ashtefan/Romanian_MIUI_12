@@ -193,6 +193,9 @@
     <string name="general_location">Funcția de identificare a magazinului trebuie să obțină informații despre locație pentru autorizare</string>
     <string name="general_location_dialog">Unele caracteristici ale recunoașterii obiectelor sunt furnizate de Dianping. Dacă doriți să recunoașteți obiecte din magazine, Dianping trebuie să utilizeze fotografiile realizate în timp ce utilizați această caracteristică împreună cu informațiile despre locația lor pentru a vă oferi rezultatele relevante.</string>
     <string name="general_location_prompt">Acces la locație</string>
+    <string name="general_no">Nicio informație despre element găsită</string>
+    <string name="general_no_found">Produse similare recomandate dvs.</string>
+    <string name="general_plant">Poate căutați asta:</string>
     <string name="general_recognized">"Rezultat: "</string>
     <string name="general_title">Faceți o fotografie a unui obiect pe care doriți să-l recunoașteți</string>
     <string name="got_it">Am înțeles</string>

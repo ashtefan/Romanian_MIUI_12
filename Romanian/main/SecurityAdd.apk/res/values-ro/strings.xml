@@ -417,6 +417,9 @@
     <string name="title_share_link">Partajați legătura web</string>
     <string name="today">Azi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="tool_box_active_loading">Doar o secundă…</string>
+    <string name="tool_box_active_no_networ">Nu s-a putut conecta la rețea</string>
+    <string name="tool_box_active_reload">Reîmprospătați</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
