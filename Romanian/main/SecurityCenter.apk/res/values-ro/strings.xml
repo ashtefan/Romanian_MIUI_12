@@ -1603,7 +1603,10 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_exit_game_to_gtb">Deschideți cutia cu jocuri</string>
     <string name="gtb_exit_game_to_home">Înapoi la Ecranul principal</string>
     <string name="gtb_setting_item_summary_smart_5g">Atunci când aplicația Jocuri Turbo detectează o rețea 5G, aceasta poate conecta dispozitivul la cea mai bună rețea disponibilă, pentru a reduce încetinirea rețelei</string>
-    <string name="gtb_setting_item_title_smart_5g">Optimizarea rețea 5G</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Creșteți viteza de conectare cu 10%-20% atunci când este conectat la routere Mi/Redmi</string>
+    <string name="gtb_setting_item_title_smart_5g">Optimizare rețea 5G</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Creștere viteză Mi Wi-Fi</string>
+    <string name="gtb_wlan_speed_tips">Se utilizează Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
@@ -1642,6 +1645,9 @@ din sesiunile dvs. de joc"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular astăzi</string>
     <string name="i_know">Am înțeles</string>
+    <string name="icon_text_size_giga_byte">%.1f G</string>
+    <string name="icon_text_size_max">9,9 G</string>
+    <string name="icon_text_size_mega_byte">%d M</string>
     <string name="im">IM</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
     <string name="info_antispam_close">Lista blocărilor este oprită</string>

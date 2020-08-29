@@ -72,7 +72,7 @@ dd/MM"</string>
     <string name="cancel">Renunțați</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="chip_text">Fragment de text</string>
     <string name="choose_aod_style">Selectați tema</string>
     <string name="chosen_picture">Selectați fundalul</string>
@@ -156,10 +156,12 @@ dd/MM"</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
+    <string name="item_view_role_description">Filă</string>
     <string name="large_time">Ceas mare</string>
     <string name="letter_space">Litere spațiate</string>
     <string name="line_space">Linii spațiate</string>
-    <string name="midnight">AM</string>
+    <string name="material_slider_range_end">Sfărșitul intervalului,</string>
+    <string name="material_slider_range_start">Începutul intervalului,</string>
     <string name="mini_time">Ceas mic</string>
     <string name="minimalist_clock">Ceas simplu</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
@@ -215,6 +217,7 @@ dd/MM"</string>
     <string name="morning">AM</string>
     <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mai mult decât %1$d notificări noi</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Treceți la luna viitoare</string>
     <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>

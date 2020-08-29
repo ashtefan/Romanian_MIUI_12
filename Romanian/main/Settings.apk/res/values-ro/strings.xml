@@ -1370,7 +1370,7 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="bt_absVolume_open_dialog_summary">Din cauza problemelor de compatibilitate, unele dispozitive Bluetooth pot avea niveluri de volum anormale, care pot fi rezolvate prin oprirea acestei funcții.</string>
     <string name="bt_absVolume_open_dialog_title">Atenție</string>
     <string name="bt_absVolume_pre_title">Volumul absolut</string>
-    <string name="bt_absVolume_summary">Mențineți volumul dispozitivelor Bluetooth și al telefonului strict consecvent</string>
+    <string name="bt_absVolume_summary">Mențineți volumul dispozitivelor Bluetooth și al telefonului strict consecvent. Puteți activa sau dezactiva această caracteristică atunci când fișiere media nu se redau în fundal.</string>
     <string name="bt_dialog_remember_choice">Memorați opțiunea</string>
     <string name="bt_dialog_settings">Setări</string>
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
