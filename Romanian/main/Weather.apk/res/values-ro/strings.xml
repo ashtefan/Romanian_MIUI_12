@@ -67,10 +67,10 @@
     <string name="alert_weather_enable_settings_title">Avertizări despre starea vremii</string>
     <string name="already_voted_toast">Ați votat deja astăzi</string>
     <string name="app_name">Meteo</string>
-    <string name="aqi_15_days_desc">Prognoza calității aerului pe 15 zile</string>
-    <string name="aqi_24_hours_desc">Prognoza calității aerului pe 24 de ore</string>
-    <string name="aqi_48_hours_desc">Prognoza calității aerului pe 48 de ore</string>
-    <string name="aqi_5_days_desc">Prognoza calității aerului pe 5 zile</string>
+    <string name="aqi_15_days_desc">Prognoza ICA pe 15 zile</string>
+    <string name="aqi_24_hours_desc">Prognoza ICA pe 24 de ore</string>
+    <string name="aqi_48_hours_desc">Prognoza ICA pe 48 de ore</string>
+    <string name="aqi_5_days_desc">Prognoza ICA pe 5 zile</string>
     <string name="aqi_alert_channel_name">Alerte ICA</string>
     <string name="aqi_data_source">Oferit de Colorful Clouds</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
@@ -466,7 +466,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="weather_alert_channel_name">Alerte</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
     <string name="weather_main_aqi_desc">Calitatea aerului</string>
-    <string name="weather_main_minute_hour">Probabilitate precipitații în 2 ore</string>
+    <string name="weather_main_minute_hour">Precipitații în 2 ore</string>
     <string name="weather_main_speak_tips">Atingeți pentru a reda vocal starea vremii</string>
     <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>

@@ -187,6 +187,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="ks_fingerprint_status">Stare plată</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_keybox">Cutie cu taste</string>
     <string name="ks_name_passpoint">Punct de acces Wi-Fi</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>

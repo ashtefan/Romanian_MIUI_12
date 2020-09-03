@@ -37,19 +37,32 @@
     <string name="back_up_task_in_process">Creare copie de rezervă…</string>
     <string name="back_up_task_unfinished">"Nu s-a putut crea copia de rezervă"</string>
     <string name="backing_up_to_micloud">Creare copie de rezervă…</string>
-    <string name="backup_fail_wifi_needed">"Nu s-a putut crea copia de rezervă; este necesară conectarea la Wi-Fi."</string>
+    <string name="backup_action_buy_cloud_space">Obțineți mai mult spațiu de stocare</string>
+    <string name="backup_action_check_network">Verificați setările de rețea</string>
+    <string name="backup_action_clean_disk_space">Eliberați spațiu</string>
+    <string name="backup_action_retry_now">Încercați din nou</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nu există suficient spațiu de stocare în Xiaomi Cloud. Actualizați-vă planul sau eliberați spațiu de stocare.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nu există suficient spațiu de stocare. Eliberați mai întâi spațiu de stocare.</string>
-    <string name="backup_failed_reason_network_error">Eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="backup_failed_reason_network_error">Verificați setările de rețea și reîncercați.</string>
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">Actualizați planul de stocare în cloud</string>
+    <string name="backup_remind_clean_disk_space">Eliberați spațiul de stocare</string>
+    <string name="backup_remind_cloud_space_cost">Dimensiunea copiei de rezervă: %s</string>
     <string name="backup_size">Dimensiune: %s</string>
     <string name="backup_stopped_msg">Copia de rezervă curentă o va suprascrie pe cea anterioară. Atingeți pentru a vedea.</string>
     <string name="backup_stopped_title">Crearea copiei de rezervă a fost oprită</string>
     <string name="backup_success">Crearea copiei de rezervă pentru ecranul de pornire a reuşit</string>
     <string name="backup_successfully">Copie de rezervă creată cu succes</string>
     <string name="backup_to_cloud">Creaţi o copie de rezervă în Mi Cloud</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">Nu se poate face o copie de rezervă</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Nu există suficient spațiu de stocare
+Nu se poate face o copie de rezervă"</string>
+    <string name="backup_warning_reason_network_error">"Eroare de rețea
+Nu se poate face o copie de rezervă"</string>
+    <string name="backup_warning_reason_no_server_response">"Conexiunea a fost întreruptă
+Încercați din nou"</string>
     <string name="btn_back">Înapoi</string>
     <string name="btn_continue">Continuați</string>
     <string name="btn_restore_abort">Renunțați</string>

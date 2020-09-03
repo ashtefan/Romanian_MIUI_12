@@ -4078,8 +4078,7 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_lab_install_drive_mode_title">Instalați modul Auto</string>
     <string name="miui_lab_settings">Laborator MIUI</string>
     <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
-    <string name="miui_lab_super_resolution_desc">Face imaginile mai clare</string>
-    <string name="miui_lab_super_resolution_title">Super rezoluție</string>
+    <string name="miui_master_clear_prompt_battery_low">Nu se poate face o renirela setările din fabrică dacă aveți mai puțin de %1$s acumulator disponibil. Încărcați dispozitivul înainte de a continua.</string>
     <string name="miui_master_clear_summary">Șterge toate datele din telefon</string>
     <string name="miui_more_special_feature">Explorați funcțiile noi</string>
     <string name="miui_optimization_disabled">Dezactivați optimizarea MIUI</string>

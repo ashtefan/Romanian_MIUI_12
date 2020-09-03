@@ -165,6 +165,12 @@
     <string name="game_net_title">Optimizați viteza de conectare</string>
     <string name="game_setting">Setări jocuri</string>
     <string name="gb_alipays_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
+    <string name="gb_dialog_game_speed_close">Se dezactvează modul Viteza luminii…</string>
+    <string name="gb_dialog_game_speed_exist">Puteți utiliza un singur joc în modul Viteza luminii. Înlocuiți \"%s\" acum?</string>
+    <string name="gb_game_speed_closed">Modul Viteza luminii este oprit</string>
+    <string name="gb_game_speed_closed_fail">Nu s-a putut dezactiva modul Viteza luminii</string>
+    <string name="gb_game_speed_open">Modul Viteza luminii este pornit</string>
+    <string name="gb_game_speed_open_fail">Nu s-a putut activa modul Viteza luminii</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica Noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>

@@ -7,19 +7,19 @@
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d mesaje necitite</item>
         <item quantity="one">%1$d mesaj necitit</item>
-     </plurals>
+    </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arhivaţi aceste %1$d conversaţii?</item>
         <item quantity="one">Arhivaţi această conversaţie?</item>
-     </plurals>
+    </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Ştergeţi aceste %1$d conversaţii?</item>
         <item quantity="one">Ştergeţi această conversaţie?</item>
-     </plurals>
+    </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
         <item quantity="one">Această conversație conţine elemente fuzionate, sunteţi sigur că doriţi să o ștergeţi?</item>
-     </plurals>
+    </plurals>
     <plurals name="confirm_delete_draft">
         <item quantity="other">Ștergeți %1$d ciorne?</item>
         <item quantity="one">Ștergeți %1$d ciornă?</item>
@@ -27,19 +27,19 @@
     <plurals name="contact_num_selected">
         <item quantity="other">S-au adăugat %d contacte</item>
         <item quantity="one">S-a adăugat %d contact</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> arhivate.</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> archivată.</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_deleted">
         <item quantity="other">&lt;b>%1$d&lt;/b> șterse.</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> ștearsă.</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Dosare modificate.</item>
         <item quantity="one">Dosar modificat.</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+ %1$d persoane</item>
         <item quantity="one">+ %1$d persoană</item>
@@ -47,23 +47,23 @@
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> ignorate</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> ignorată.</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">&lt;b>%1$d&lt;/b>" mesaje eliminate din dosarul 'importante'"</item>
         <item quantity="one">&lt;b>%1$d&lt;/b>" mesaj eliminat din dosarul 'importante'"</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_not_spam">
         <item quantity="other">&lt;b>%1$d&lt;/b>" eliminate din dosarul 'spam'"</item>
         <item quantity="one">&lt;b>%1$d&lt;/b>" eliminată din dosarul 'spam'"</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">&lt;b>%1$d&lt;/b> mesaje raportate ca spam</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> mesaj raportat ca spam</item>
-     </plurals>
+    </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">&lt;b>%1$d&lt;/b> marcate ca spam</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> marcat ca spam</item>
-     </plurals>
+    </plurals>
     <plurals name="day">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
@@ -79,11 +79,11 @@
     <plurals name="draft">
         <item quantity="other">Schițe</item>
         <item quantity="one">Schiță</item>
-     </plurals>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mesaje vor fi șterse definitiv.</item>
         <item quantity="one">%1$d mesaj va fi șters definitiv.</item>
-     </plurals>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Ascundeți %1$d atașamente</item>
         <item quantity="one">Ascundeți %1$d atașament</item>
@@ -137,24 +137,24 @@
         <item quantity="one">Cu %1$d minut după</item>
     </plurals>
     <plurals name="number_of_minute_before">
-        <item quantity="other">Cu %1$d minute în urmă</item>
-        <item quantity="one">Cu %1$d minut în urmă</item>
+        <item quantity="other">Cu %1$d minute înainte</item>
+        <item quantity="one">Cu %1$d minut înainte</item>
     </plurals>
     <plurals name="number_of_second_after">
         <item quantity="other">Cu %1$d secunde după</item>
         <item quantity="one">Cu %1$d secundă după</item>
     </plurals>
     <plurals name="number_of_second_before">
-        <item quantity="other">Cu %1$d secunde în urmă</item>
-        <item quantity="one">Cu %1$d secundă în urmă</item>
+        <item quantity="other">Cu %1$d secunde înainte</item>
+        <item quantity="one">Cu %1$d secundă înainte</item>
     </plurals>
     <plurals name="number_of_week_after">
         <item quantity="other">Cu %1$d săptămâni după</item>
         <item quantity="one">Cu %1$d săptămână după</item>
     </plurals>
     <plurals name="number_of_week_before">
-        <item quantity="other">Cu %1$d săptămâni în urmă</item>
-        <item quantity="one">Cu %1$d săptămână în urmă</item>
+        <item quantity="other">Cu %1$d săptămâni înainte</item>
+        <item quantity="one">Cu %1$d săptămână înainte</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Răspundeți la %1$d persoane</item>

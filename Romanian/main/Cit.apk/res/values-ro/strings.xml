@@ -277,7 +277,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_fm_audio_path_headset">Căști</string>
     <string name="cit_fm_audio_path_speaker">Difuzor</string>
     <string name="cit_fm_check_summary">"Se va testa funcția Radio a telefonului
-Înainte de a începe testul, trebuie să conectați căștile"</string>
+Înainte de a începe testul, trebuie să conectați căștile și să închideți toate aplicațiile corelate FM"</string>
     <string name="cit_fm_check_title">Radio FM</string>
     <string name="cit_fm_close">Închide Radio FM</string>
     <string name="cit_fm_not_supported">Acest telefon nu suportă funcția Radio FM</string>

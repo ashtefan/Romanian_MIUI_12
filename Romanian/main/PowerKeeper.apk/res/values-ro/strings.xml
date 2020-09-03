@@ -102,7 +102,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="full_screen_enter">Intrare în modul ecran complet</string>
     <string name="full_screen_exit">Ieşire din modul ecran complet</string>
     <string name="google_base_app_install_choice">\"%s\" necesită Google Service Framework pentru a rula corespunzător; descărcați și instalați?</string>
-    <string name="hide_mode_desc">&lt;font color="#000000"&gt;Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului. Această funcție va obține și folosi datele de utilizator conform %s&lt;/font&gt;</string>
+    <string name="hide_mode_desc">&lt;font color="#000000"&gt;Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului. Această funcție va obține și folosi datele de utilizator în conformitate cu %s&lt;/font&gt;</string>
     <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="hide_system_app">Ascunde aplicațiile de sistem</string>
     <string name="high">Performanţă</string>

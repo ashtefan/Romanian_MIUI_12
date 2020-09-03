@@ -390,6 +390,7 @@
     <string name="usage_device_limit_app_prolong_time2">Adăugați 40 de minute</string>
     <string name="usage_device_limit_app_prolong_time3">Adăugați 60 de minute</string>
     <string name="usage_device_limit_app_prolong_time4">Nu limita astăzi</string>
+    <string name="usage_device_limit_app_prolong_time5">Adăugați timp o dată</string>
     <string name="usage_device_limit_notifation_summary_start">Veți atinge limita în %1$s</string>
     <string name="usage_device_limit_notifation_title">Timp rămas pentru astăzi</string>
     <string name="usage_device_limit_time_over">Ați atins limita pentru astăzi (%1$s)</string>

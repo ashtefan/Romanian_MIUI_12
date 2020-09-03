@@ -739,9 +739,9 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="face_unlock_open_eye">Deschideți ochii mai larg</string>
     <string name="face_unlock_passwork">Utilizați parola</string>
     <string name="face_unlock_passwork_and_fingerprint">Utilizați parola sau amprenta</string>
-    <string name="face_unlock_quality">"Nu v-am putut vedea chipul foarte clar"</string>
-    <string name="face_unlock_reenter_content">Algoritmul de deblocare facială s-a actualizat. Atingeți pentru a înregistra datele faciale din nou.</string>
-    <string name="face_unlock_reenter_title">Înregistrați din nou datele faciale.</string>
+    <string name="face_unlock_passwork_and_fingerprint_v11">Introduceți parola sau utilizați degetul pentru a debloca</string>
+    <string name="face_unlock_pattern_and_fingerprint_v11">Desenați modelul sau utilizați degetul pentru a debloca</string>
+    <string name="face_unlock_pin_and_fingerprint_v11">Introduceți codul PIN sau utilizați degetul pentru a debloca</string>
     <string name="face_unlock_reveal_eye">Asigurați vizibilitatea ochilor</string>
     <string name="face_unlock_reveal_mouth">Asigurați vizibilitatea buzelor</string>
     <string name="face_unlock_rise">Lăsați capul mai jos</string>
@@ -891,8 +891,11 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nu se pot comuta spațiile de lucru cât timp este activă Ultra economisirea acumulatorului</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_hint_text">Introduceți parola</string>
+    <string name="input_password_hint_text_v11">Introduceți parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
+    <string name="input_pattern_hint_text_v11">Desenați modelul</string>
     <string name="input_pin_code">Introduceți codul PIN</string>
+    <string name="input_pin_hint_text_v11">Introduceți codul PIN</string>
     <string name="input_puk_code">Introduceți codul PUK</string>
     <string name="install_other_apps">Instalați aplicații necunoscute</string>
     <string name="installer_cd_button_title">Instalați aplicația de Transfer de fișiere Android pentru Mac</string>

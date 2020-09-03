@@ -253,7 +253,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="deep_sleep">Somn profund</string>
     <string name="deep_sleep_duration">Durata somnului profund</string>
     <string name="deep_sleep_duration_decrease_description">Somnul profund este prea scurt</string>
-    <string name="deep_sleep_duration_description">Pe durata somnului există perioade în care ochii se mișcă rapid, astfel încât somnul poate fi împărțit în somn cu mișcare rapidă a ochilor și somn fără mișcare rapidă a ochilor. Somnul profund înseamnă perioadele fără mișcare rapidă a ochilor, reprezentând circa 20-25% din totalul duratei somnului. Pe durata somnului profund există mai puțină activitate conștientă iar creierul se află într-o stare relativ statică, care este dificil de a fi trezit.</string>
+    <string name="deep_sleep_duration_description">Pe durata somnului există perioade în care ochii se mișcă rapid. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul profund apare în perioadele de somn NREM, reprezentând circa 20-25% din totalul duratei somnului. Pe durata somnului profund există mai puțină activitate conștientă iar creierul se află într-o stare relativ statică, așa că trezirea este dificilă.</string>
     <string name="deep_sleep_duration_increase_description">Somnul dvs. profund este prea lung</string>
     <string name="deep_sleep_duration_normal_description">Ați avut un somn profund suficient</string>
     <string name="delete">Ștergeți</string>
@@ -264,6 +264,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="delete_all_data_sources_description">Ștergeți toate sursele de date adăugate?</string>
     <string name="delete_avatar">Ștergeți fotografia curentă de profil</string>
     <string name="delete_contact">Ștergeți</string>
+    <string name="delete_dailog_confirm_msg_wear">Ștergeți %1$s acum?</string>
     <string name="delete_data_source">Ștergeți sursa de date</string>
     <string name="delete_dialog_close_sync_msg">Pentru a șterge %1$s, dezactivați mai întâi sincronizarea dispozitivului corespunzător.</string>
     <string name="delete_dialog_confirm_msg_cloud">Ștergeți %1$s împreună cu datele asociate stocate pe acest dispozitiv și în cloud?</string>
@@ -271,6 +272,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="delete_menstruation_record_confirm">Ștergeți această înregistrare?</string>
     <string name="delete_origin_data_description">Ștergeți toate datele generate de către %1$s?</string>
     <string name="delete_record">Ștergeți înregistrarea</string>
+    <string name="delete_wear_data_toast">Nu se pot șterge datele furnizate de către %1$s</string>
     <string name="description">Detalii</string>
     <string name="detail_format">%1$.1f</string>
     <string name="detection_has_no_data">Nu există date</string>
@@ -411,6 +413,10 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="exercise_recog_confirm_walk">V-ați plimbat între %1$s și %2$s?</string>
     <string name="exercise_record">Istoricul exercițiilor</string>
     <string name="exercise_record_no_data">Niciun element aici încă</string>
+    <string name="exercise_remind_content_improve_goal">Rămâneți mai sănătos crescând treptat obiectivul de activitate</string>
+    <string name="exercise_remind_content_lower_goal">Rămâneți motivați stabilindu-vă obiective pe care le puteți atinge</string>
+    <string name="exercise_remind_title_improve_goal">Stabiliți un obiectiv mai îndrăzneț</string>
+    <string name="exercise_remind_title_lower_goal">Stabiliți un obiectiv realist</string>
     <string name="exercise_reminder_accomplished">Ați atins ținta de activități!</string>
     <string name="exercise_reminder_title">Memento activitate</string>
     <string name="exercise_reminder_unaccomplished">Nu ați atins ținta propusă. Continuați!</string>
@@ -556,8 +562,36 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_choose_detect_state">În ce stare vă aflați acum?</string>
+    <string name="hr_detect">Măsurați ritmul cardiac</string>
+    <string name="hr_detect_desc">Pe durata măsurării, blițul telefonului dvs. va fi utilizat ca sursă de lumină continuă, iar camera va detecta modificările fluxului sanguin. Imaginile vor fi apoi analizate, iar ritmul cardiac va fi determinat pe baza modelelor repetate.</string>
+    <string name="hr_detect_finished">Finalizat!</string>
+    <string name="hr_detect_principle_desc_1">Vă puteți măsura ritmul cardiac doar acoperind blițul telefonului și camera foto cu un deget. Blițul va fi folosit ca sursă de lumină continuă, iar camera va detecta modificările fluxului sanguin. Imaginile vor fi apoi analizate, iar ritmul cardiac va fi determinat pe baza modelelor repetate.</string>
+    <string name="hr_detect_principle_desc_2">Testele multiple arată că marja de eroare pentru această metodă este de aproximativ 2 bătăi pe minut.</string>
+    <string name="hr_detect_principle_desc_3">Rețineți că factorii externi (de exemplu temperatura, tonusul pielii, mișcarea) pot duce la măsurători inexacte sau incomplete. Faceți mai multe măsurători pentru a vă asigura că citirea curentă este corectă. Rezultatele furnizate aici sunt doar pentru referință. Această metodă de măsurare nu poate înlocui echipamentele medicale profesionale.</string>
+    <string name="hr_detect_principle_title">Se măsoară ritmul cardiac</string>
+    <string name="hr_detect_report_title">Raportul ritmului cardiac</string>
+    <string name="hr_detect_state_after_activity">Activ recent</string>
+    <string name="hr_detect_state_after_activity_desc">Tocmai ați făcut un antrenament.</string>
+    <string name="hr_detect_state_regular">Obișnuit</string>
+    <string name="hr_detect_state_regular_desc">Lucrați sau studiați ca de obicei.</string>
+    <string name="hr_detect_state_reseting">Odihnă</string>
+    <string name="hr_detect_state_reseting_desc">Sunteți complet relaxat sau tocmai v-ați trezit.</string>
+    <string name="hr_disturb_detect">Măsurarea a fost întreruptă</string>
+    <string name="hr_disturb_detect_desc">Începeți din nou. Încercați să nu mișcați degetul în timpul măsurării.</string>
     <string name="hr_heart_rate_unit">Ritm cardiac (BPM)</string>
+    <string name="hr_in_detect">Se măsoară ritmul cardiac. Nu mișcați degetul.</string>
     <string name="hr_input_heart_rate">Înregistrați ritmul cardiac</string>
+    <string name="hr_measure_heart_rate">Măsurați</string>
+    <string name="hr_open_permission_desc">Aplicația Sănătate Xiaomi trebuie să acceseze camera telefonului pentru a putea măsura ritmul cardiac. Permiteți?</string>
+    <string name="hr_open_permission_title">Sunt necesare unele permisiuni</string>
+    <string name="hr_phone_detect_records">Istoricul măsurătorilor cu ajutorul telefonului</string>
+    <string name="hr_pre_detect">"Acoperiți complet blițul și camera
+cu un deget"</string>
+    <string name="hr_pre_detect_finger">Se verifică…</string>
+    <string name="hr_pre_detect_finger_desc">Se verifică dacă blițul și camera sunt complet acoperite. Nu mișcați degetul.</string>
+    <string name="hr_see_report">Vedeți raportul</string>
+    <string name="hr_start_detect">Începeți</string>
     <string name="hr_state">Stare</string>
     <string name="hr_state_active">Activ</string>
     <string name="hr_state_fast">Rapid</string>
@@ -572,6 +606,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="indoor_rinding">Ciclu de interior</string>
     <string name="indoor_running">Bandă de alergare</string>
     <string name="input_body_weight">Introduceți datele despre greutate pentru a obține sfaturi despre sănătate</string>
+    <string name="inquire_recover_data">Restaurați datele despre sănătate acum?</string>
+    <string name="inquire_recover_data_subtitle">Se pare că există date de sănătate asociate contului dvs. Mi (%1$s). Activați sincronizarea în cloud și restaurați datele acum?</string>
     <string name="instructions_provider">Instrucțiuni furnizate de Miao Health</string>
     <string name="insufficient">Insuficient</string>
     <string name="jump_over">Omiteți</string>
@@ -799,6 +835,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="open_stand_assistant">Atingeți pentru a porni monitorizarea perioadelor în care vă ridicați</string>
     <string name="open_swimming">Deschideți pagina de înot</string>
     <string name="open_sync">Activați sincronizarea</string>
+    <string name="open_sync_and_enter_app">Activați sincronizarea</string>
     <string name="open_unrestricted_permissions">Pentru a monitoriza somnul mai precis, permiteți Sănătate Xiaomi să ruleze în permanență în fundal.</string>
     <string name="organ_donation_volunteer">Donator voluntar de organe</string>
     <string name="origin">Origine</string>
@@ -870,7 +907,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="rem_Duration_increase_description">Somnul dvs. REM este prea lung</string>
     <string name="rem_duration">Durata somnului REM</string>
     <string name="rem_duration_decrease_description">Somnul dvs. REM este prea scurt</string>
-    <string name="rem_duration_description" formatted="false">REM se referă la mișcarea rapidă a ochilor. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul cu mișcare rapidă a ochilor durează circa 20-25% din durata totală a somnului. Când persoanele se trezesc în această stare, 74-95% din ei spun că au visat și că își pot aminti visele. Creierul este foarte activ iar corpul este complet relaxat pe durata somnului REM, ceea ce face această fază esențială pentru menținerea funcțiilor cognitive.</string>
+    <string name="rem_duration_description">REM se referă la mișcarea rapidă a ochilor. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul cu mișcare rapidă a ochilor durează circa 20-25% din durata totală a somnului. Când persoanele se trezesc în această stare, 74-95% din ei spun că au visat și că își pot aminti visele. Creierul este foarte activ iar corpul este complet relaxat pe durata somnului REM, ceea ce face această fază esențială pentru menținerea funcțiilor cognitive.</string>
     <string name="rem_duration_normal_description">Durata somnului REM este normală</string>
     <string name="remarks">Remarcă</string>
     <string name="remind">Amintește-mi</string>
@@ -1447,6 +1484,7 @@ Actualizați acum?"</string>
     <string name="weight_setting">Setări pentru greutatea corporală</string>
     <string name="weight_trend_offset_date">"De la %1$s la %2$s: "</string>
     <string name="weight_unit_kg">Kg</string>
+    <string name="welcome_back">Bine ați revenit!</string>
     <string name="welcome_exercise">Monitorizați exercițiile</string>
     <string name="welcome_exercise_description">Purtați telefonul cu dvs. pentru a vă monitoriza în mod automat exercițiile</string>
     <string name="welcome_sedentary">Continuați să vă mișcați</string>

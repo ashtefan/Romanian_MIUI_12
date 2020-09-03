@@ -794,6 +794,11 @@ Nu veți pierde datele aplicațiilor."</string>
  5. Nimic nu este de ajutor? Atingeți \"Raportați prin SMS\" pentru a trimite comentariul dvs. către Xiaomi printr-un mesaj text."</string>
     <string name="cd_back">Înapoi</string>
     <string name="celcius_symbol">℃</string>
+    <string name="charger_detect_button_ok">Am înțeles</string>
+    <string name="charger_detect_info1">Verificați dacă încărcătorul și cablul sunt conectate corespunzător.</string>
+    <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
+    <string name="charger_detect_no_remind">Nu afișa din nou</string>
+    <string name="charger_detect_title">Încărcarea este lentă</string>
     <string name="charging_text_battery_full_time">"Ultima încărcare a durat "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
@@ -1333,6 +1338,11 @@ cardul de sănătate"</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_title">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
+    <string name="function_auto_reject_detail">"Despre această caracteristică:
+1. În timp ce jucați jocuri, toate apelurile primite pe cartela SIM fără serviciu de date mobile vor fi respinse automat.
+2. Veți vedea notificări despre apelurile pierdute, iar cealaltă persoană va auzi un mesaj audio care spune că sunteți ocupat în acest moment.
+3. Această caracteristică este acceptată numai de operatorii de telefonie mobilă din China."</string>
+    <string name="function_auto_reject_title">Respingeți apelurile VoLTE către cartele SIM fără serviciu de date</string>
     <string name="function_close">Oprit</string>
     <string name="function_gwsd_detail">"Despre această caracteristică:
  1. Atunci când utilizați datele mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite decât atunci când preluați apelul.
@@ -3560,6 +3570,9 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_advanced_settings_after_open">După</string>
     <string name="vb_advanced_settings_before_open">Înainte</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Faceți obiectele în mișcare mai clare prin îmbunătățirea animațiilor. Această caracteristică necesită un consum mai mare de energie.</string>
+    <string name="vb_fps_display_unit">Hz</string>
+    <string name="vb_fps_settings">Rată de reîmprospătare automată</string>
+    <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește bateria și face redarea mai fluidă. Activarea comentariilor plutitoare va dezactiva rata de reîmprospătare automată.</string>
     <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
     <string name="vb_quick_func_hangup_listening">Redați sunetul video cu ecranul dezactivat</string>
     <string name="vb_quick_func_screen_capture">Captură de ecran</string>

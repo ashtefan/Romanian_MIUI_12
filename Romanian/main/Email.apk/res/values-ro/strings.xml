@@ -3,6 +3,33 @@
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
     <string name="SMTP_password_text">Parolă</string>
     <string name="SMTP_username_text">Nume de utilizator</string>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="account_add_title">Selectați serviciul de e-mail</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
@@ -18,6 +45,7 @@
     <string name="account_security_policy_explanation_fmt">"Serverul %s vă solicită permisiunea de a controla de la distanţă
           unele caracteristici de securitate ale dispozitivului dvs. Android."</string>
     <string name="account_security_title">Securitatea dispozitivului</string>
+    <string name="account_security_verification">Verificare cont</string>
     <string name="account_set_up_change_type_note">Dacă aveți nevoie să comutaţi între setările POP3 și IMAP, ștergeţi contul și creaţi unul nou cu setările dorite.</string>
     <string name="account_setting">Conturi</string>
     <string name="account_setting_keywords">Conturi;Conturi de poștă electronică; conturi de e-mail</string>
@@ -245,6 +273,10 @@ Actualizaţi acum?"</string>
     <string name="auto_remind_unbind">Opriți</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
     <string name="automatic_remind_text">Reamintește în mod automat</string>
+    <string name="bContact_list_search_hint">Căutați contacte blocate</string>
+    <string name="b_contacts">Lista blocărilor</string>
+    <string name="b_contacts_remove">Eliminați din lista blocărilor</string>
+    <string name="b_contacts_remove_tips">Eliminați această adresă din lista blocărilor?</string>
     <string name="back">Înapoi</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
     <string name="battery_saver">Economisire acumulator</string>
@@ -266,7 +298,7 @@ Actualizaţi acum?"</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Reamintește-mi mai târziu</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
-    <string name="calendar_skip_no_account_alert">Acest cont nu a fost găsit</string>
+    <string name="calendar_skip_no_account_alert">Nu s-a găsit acest cont</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_pop3_attchemt_downloading">"Nu se poate opri descărcarea în curs a atașamentelor pentru conturile de tip POP3"</string>
@@ -290,6 +322,9 @@ Actualizaţi acum?"</string>
     <string name="chat_item_msg_people_unit">persoane</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Se validează setările serverului…"</string>
+    <string name="choose_an_office365_international">Ediție Internațională</string>
+    <string name="choose_an_office365_provider">alegeți un furnizor de servicii office365</string>
+    <string name="choose_an_office365_sj">Ediție 21Vianet</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear">Eliminaţi</string>
     <string name="clear_display_images_whitelist_dialog_message">Nu se mai afișează imagini în linie de la expeditori permişi anterior.</string>
@@ -376,6 +411,9 @@ Actualizaţi acum?"</string>
     <string name="conversation_quick_button_approve">OK</string>
     <string name="conversation_quick_button_disapprove">Renunțați</string>
     <string name="conversation_quick_button_received">Primite</string>
+    <string name="conversation_report_spam">Raportați mesajele nedorite</string>
+    <string name="conversation_spam_dig_msg">Marcați acest mesaj ca nedorit? Mesajul va fi mutat în dosarul \"Spam\" iar expeditorul va fi adăugat în lista blocărilor.</string>
+    <string name="conversation_spam_tips">Marcați acest mesaj ca nedorit?</string>
     <string name="conversation_view">Vizualizare conversație</string>
     <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
     <string name="copied">Copiat</string>
@@ -505,6 +543,13 @@ Actualizaţi acum?"</string>
     <string name="file_save_path_dialog_cancel">Am înțeles</string>
     <string name="file_save_path_dialog_ok">Modificați acum</string>
     <string name="file_save_term">Termeni salvare fișier</string>
+    <string name="filter_item_all">Toate mesajele</string>
+    <string name="filter_item_cc">Cu mine în CC</string>
+    <string name="filter_item_me">Trimis mie</string>
+    <string name="filter_item_unread">Necitit</string>
+    <string name="filter_title_cc">%s [Cu mine în CC]</string>
+    <string name="filter_title_me">%s [Trimis mie]</string>
+    <string name="filter_title_unread">%s [Necitit]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Apăsați butonul pentru a trimite \"%s\" tuturor persoanelor care participă la această conversație.</string>
     <string name="float_window_info">"Atunci când configurați căsuța de e-mail 139, nu utilizați telefonul, în cazul în care configurarea eșuează."</string>
@@ -851,6 +896,17 @@ Actualizaţi acum?"</string>
     <string name="notify_channel_permission_notice">Sunt necesare Permisiuni</string>
     <string name="notify_channel_send_fail">Notifică despre expedierile eșuate</string>
     <string name="notify_channel_service">Notifică despre sincronizarea în fundal</string>
+    <string name="ntes_authorization_code_to_login">Conectați-vă utilizând acest cod de verificare</string>
+    <string name="ntes_copy_and_login">Copiați și conectați-vă</string>
+    <string name="ntes_do_not_sms_uplink">Trimiteți un SMS de pe numărul de telefon asociat și apoi apăsați \"Mesaj trimis\".</string>
+    <string name="ntes_had_send">Mesaj trimis</string>
+    <string name="ntes_had_send_to_content">Dacă ați trimis deja un SMS de pe numărul de telefon asociat, apăsați \"Mesaj trimis\" pentru a continua.</string>
+    <string name="ntes_login_error_message" formatted="false">Nu se pot obține informațiile despre cont (Eroare %s). %s.</string>
+    <string name="ntes_password_error_hint">Dacă eroarea apare în timp ce introduceți parola, închideți această pagină și deschideți-o din nou.</string>
+    <string name="ntes_phone_send">Trimiteți un mesaj text de pe numărul de telefon asociat</string>
+    <string name="ntes_send_to">Trimiteți la: %s</string>
+    <string name="ntes_send_to_content">Dacă numărul de telefon curent este asociat acestui cont, apăsați \"Trimite SMS\".</string>
+    <string name="ntes_verification_code">Introduceți codul: %s</string>
     <string name="oauth_error_description">"Autentificare eșuată"</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google în pagina de autentificare următoare.</string>
     <string name="oauth_login_continue">Continuare</string>
@@ -927,6 +983,21 @@ Actualizaţi acum?"</string>
     <string name="path_about_email_setting">E-mail/Setări</string>
     <string name="path_about_send_feed_back">E-mail/Setări/Trimitere comentariu</string>
     <string name="path_about_upload_logs">E-mail/Setări/Încărcare jurnale cu erori</string>
+    <string name="pdf_has_signature_prompt_cancel">Deschideți fișierul original</string>
+    <string name="pdf_has_signature_prompt_confirm">Deschideți copia</string>
+    <string name="pdf_has_signature_prompt_message">A fost detectată o copie semnată a acestui atașament. O deschideți sau nu?</string>
+    <string name="pdf_signature_create_title">Creați o semnătură</string>
+    <string name="pdf_signature_manager_max_count">A fost atins numărul maxim de semnături; vă rugăm să ștergeți semnătura existentă și să încercați din nou</string>
+    <string name="pdf_signature_manager_title">Gestionare semnături</string>
+    <string name="pdf_viewer_actionbar_more_other">Deschideți cu altă aplicație</string>
+    <string name="pdf_viewer_actionbar_more_wps">Deschideți cu WPS</string>
+    <string name="pdf_viewer_file_damage_toast">Fișierul .pdf este corupt. Vă rugăm să verificați fișierul și să înercați din nou</string>
+    <string name="pdf_viewer_new_email">E-mail nou</string>
+    <string name="pdf_viewer_reply">Răspundeți cu acest fișier</string>
+    <string name="pdf_viewer_save_signature">Salvați semnătura</string>
+    <string name="pdf_viewer_sign_file_damage_toast">Fișierul nu există</string>
+    <string name="pdf_viewer_signature">Semnătură PDF</string>
+    <string name="perference_change_auth_ok_tips">Codul de autorizare a fost modificat</string>
     <string name="perference_change_pw_notnull_tips">Introduceţi parola</string>
     <string name="perference_change_pw_ok_tips">Parolă modificată</string>
     <string name="perference_setup_pop_del">Eliminaţi mesajul de pe server</string>
@@ -1035,9 +1106,12 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="qq_login_open_imap">Apăsați \"Ajutor\" pentru a activa IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Introduceți numele de utilizator și parola pentru a vă conecta &gt;</string>
     <string name="qq_login_send_message">Apăsați \"Trimiteți SMS\" pentru a obține un cod de autorizare</string>
+    <string name="qq_login_sent_setting">Sincronizați mesajele trimise</string>
     <string name="qq_login_webview">Conectare la QQ Email din browser, atingeți conectare cu parolă.</string>
     <string name="qq_next_generation_auth_toast">Activați protecția prin parolă din browser</string>
     <string name="qq_pwd_or_qq_auth_code">Introduceți codul</string>
+    <string name="qq_sent_no_message">Nu găsiți e-mailurile trimise? Apăsați aici pentru a afla ce trebuie să faceți.</string>
+    <string name="qq_sent_no_message_setting">Sincronizați mesajele trimise din QQ Mail</string>
     <string name="qq_uthentication_failed">"Nu s-a putut verifica contul; vă rugăm conectați-vă din nou"</string>
     <string name="qq_verify_code">(Este necesar codul de Verificare de la QQ)</string>
     <string name="qq_webview_loading">Doar o secundă…</string>
@@ -1153,6 +1227,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
     <string name="search_bar_text">Căutați după mesaje sau contacte</string>
     <string name="search_hint">Căutare e-mail</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="search_remote_again">Nu s-a putut conecta la rețea. Atingeți pentru a reîncerca.</string>
     <string name="search_result">"Rezultate "</string>
     <string name="search_tabs_name_all">Toate</string>
@@ -1199,6 +1274,24 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="ser_resp_err_map_serclosed">Activați mai întâi %s din clientul web de e-mail</string>
     <string name="ser_resp_err_map_serclosed_info">%s este oprit.</string>
     <string name="ser_resp_err_map_ssl">Comutați butonul SSL în configurarea manuală</string>
+    <string name="server_cet_button">Acordați încredere acestui certificat</string>
+    <string name="server_cet_cert_data">"Perioada de valabilitate: "</string>
+    <string name="server_cet_cert_issuer">"Furnizor certificat: "</string>
+    <string name="server_cet_data">"Perioada de valabilitate: "</string>
+    <string name="server_cet_data_exp">Certificatul acestui server a expirat.</string>
+    <string name="server_cet_data_to" formatted="false">%s - %s</string>
+    <string name="server_cet_domain">"Numele domeniului: "</string>
+    <string name="server_cet_error_sug">"Încercați următoarele:
+1. Conectați-vă la o altă rețea sau reporniți routerul Wi-Fi.
+2. Asigurați-vă că utilizați certificate valide."</string>
+    <string name="server_cet_error_title_1">Certificatul serverului nu suportă acest domeniu</string>
+    <string name="server_cet_error_title_2">Certificatul a expirat</string>
+    <string name="server_cet_error_title_3">Furnizorul certificatului nu este o organizație de încredere.</string>
+    <string name="server_cet_issue_to">"Emis către "</string>
+    <string name="server_cet_issuer">"Emis de către "</string>
+    <string name="server_cet_issuer_no_trust">Furnizorul certificatului nu este o organizație de încredere.</string>
+    <string name="server_cet_subject_cn">"Domeniu suportat: "</string>
+    <string name="server_cet_title">Detaliile certificatului</string>
     <string name="service_protocol_discribe">&lt;u&gt;"Am citit și sunt de acord cu Termenii serviciului de e-mail WPS"&lt;/u&gt;</string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
@@ -1213,6 +1306,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="show_images">Afişaţi fotografiile</string>
     <string name="show_images_all">Încarcă și afișează toate imaginile</string>
     <string name="show_password">Arată parola</string>
+    <string name="show_server_cet">Vedeți certificatul</string>
     <string name="signature">"
 
 
@@ -1237,6 +1331,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="str_select_none">Deselectaţi tot</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="subject_hint">Subiect</string>
+    <string name="successfully_obtained_authorization_code">Codul de verificare</string>
     <string name="sync_calendra_fail_per_content">Atingeți pentru a permite</string>
     <string name="sync_calendra_fail_per_title">Nu s-au putut sincroniza evenimentele din calendar</string>
     <string name="sync_calendra_fail_permission">Nu s-au putut sincroniza evenimentele din calendar. Permiteți mai întâi aplicației de E-mail să vă acceseze calendarul.</string>

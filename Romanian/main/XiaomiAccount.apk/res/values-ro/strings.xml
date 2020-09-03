@@ -377,7 +377,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_extra_gdpr_license">Crearea unui cont Mi presupune că sunteți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv datele de verificare (de ex. codurile de verificare), datele Spațiului secundar (de ex. informații despre modul în care utilizați Spațiul secundar, ID-urile utilizate în Spațiul principal și în cel secundar), precum și alte date specificate în Politica noastră de Confidențialitate. Studiați Politica de Confidențialitate pentru a afla cum procesăm și cum utilizăm datele personale.</string>
     <string name="passport_failed_to_send_activate_email">Nu s-a putut trimite e-mailul de activare</string>
     <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a vă reseta parola.</string>
-    <string name="passport_first_login_prompt">Contul Mi va fi creat în mod automat când vă veți conecta prima dată.</string>
+    <string name="passport_first_login_prompt">Contul Mi va fi creat în mod automat când utilizați un număr de telefon pentru prima dată.</string>
     <string name="passport_forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>

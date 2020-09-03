@@ -69,6 +69,11 @@
         <item>Imagine de fundal/Super imagini de fundal/Planeta roșie</item>
         <item>Marte;Ediție Marte;Super imagini de fundal;Imagine de fundal</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Inelele lui Saturn</item>
+        <item>Imagine de fundal/Super imagini de fundal/Inelele lui Saturn</item>
+        <item>Planetă;Saturn;Super imagini de fundal;Imagine de fundal</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>Super imagini de fundal</item>
         <item>Imagine de fundal/Super imagini de fundal</item>

@@ -150,6 +150,8 @@
     <string name="auto_add_app_shortcut">Plasați aplicațiile noi pe Ecranul principal</string>
     <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
     <string name="auto_delete_category_dialog_title">Se șterge categoria</string>
+    <string name="auto_disable_screenbuttons_summary">Atingeți de două ori oricare buton pentru a reactiva</string>
+    <string name="auto_disable_screenbuttons_title">Dezactivează în mod automat butoanele de navigare</string>
     <string name="back">Înapoi</string>
     <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
     <string name="bad_wallpaper_source_prompt">"Imposibil de încărcat imaginea de fundal"</string>
@@ -324,9 +326,7 @@
     <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
-    <string name="launcher_global_search_mode_title">Căutare globală</string>
-    <string name="launcher_global_search_provider_title">Furnizor căutare globală</string>
-    <string name="launcher_minus_screen_title">Ecran minus unu</string>
+    <string name="key_shortcut_settings_title">Scurtături butoane</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="launcher_pull_down_title">Glisați în jos în Ecranul principal</string>
     <string name="launcher_search_bar_provider_title">Furnizor bară de căutare</string>
