@@ -907,7 +907,7 @@ cu un deget"</string>
     <string name="rem_Duration_increase_description">Somnul dvs. REM este prea lung</string>
     <string name="rem_duration">Durata somnului REM</string>
     <string name="rem_duration_decrease_description">Somnul dvs. REM este prea scurt</string>
-    <string name="rem_duration_description">REM se referă la mișcarea rapidă a ochilor. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul cu mișcare rapidă a ochilor durează circa 20-25% din durata totală a somnului. Când persoanele se trezesc în această stare, 74-95% din ei spun că au visat și că își pot aminti visele. Creierul este foarte activ iar corpul este complet relaxat pe durata somnului REM, ceea ce face această fază esențială pentru menținerea funcțiilor cognitive.</string>
+    <string name="rem_duration_description" formatted="false">REM se referă la mișcarea rapidă a ochilor. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul cu mișcare rapidă a ochilor durează circa 20-25% din durata totală a somnului. Când persoanele se trezesc în această stare, 74-95% din ei spun că au visat și că își pot aminti visele. Creierul este foarte activ iar corpul este complet relaxat pe durata somnului REM, ceea ce face această fază esențială pentru menținerea funcțiilor cognitive.</string>
     <string name="rem_duration_normal_description">Durata somnului REM este normală</string>
     <string name="remarks">Remarcă</string>
     <string name="remind">Amintește-mi</string>
