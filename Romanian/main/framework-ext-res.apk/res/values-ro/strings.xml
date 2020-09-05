@@ -308,6 +308,10 @@
     <string name="translation_more">Mai multe</string>
     <string name="translation_query_error">Nu s-a găsit niciun rezultat</string>
     <string name="translation_query_error_network">Nu s-au putut obține informațiile. Verificați conexiunea la rețea și încercați din nou</string>
+    <string name="trial_mode_dialog_button_cancel">Renunțați</string>
+    <string name="trial_mode_dialog_button_save">Salvați</string>
+    <string name="trial_mode_dialog_message">\"%s\" rulează în modul încercare. Repornirea dispozitivului sau comutarea la modul Viteza luminii va șterge acest joc. Salvați jocul în stocarea internă?</string>
+    <string name="trial_mode_dialog_title">Mod Încercare</string>
     <string name="turn_off">Opriți</string>
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
