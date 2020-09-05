@@ -3839,8 +3839,8 @@ cât cel pentru Spațiul principal"</string>
     <string name="long_press_menu_key">Apăsare lungă a butonului Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
     <string name="long_press_power_key">Apăsați lung butonul de Pornire</string>
-    <string name="long_press_power_key_half_of_second">Atingeți și mențineți apăsat butonul de Pornire pentru 0,5 secunde pentru a activa Asistentul Google</string>
-    <string name="long_press_power_key_half_second">Atingeți și mențineți apăsat butonul de Pornire pentru 0,5 secunde</string>
+    <string name="long_press_power_key_half_of_second">Apăsați și mențineți apăsat butonul de Pornire pentru 0,5 secunde pentru a activa Asistentul Google</string>
+    <string name="long_press_power_key_half_second">Apăsați și mențineți apăsat butonul de Pornire timp de %s secunde</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Apăsați lung butonul de Pornire &amp;lt;font color=#999999&amp;gt;Mai rapid și mai comod&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
     <string name="lost_internet_access_cancel">Rămâneți pe Wi-Fi</string>

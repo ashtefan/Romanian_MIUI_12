@@ -692,12 +692,20 @@ Pentru a vă activa contul, accesați
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
     <string name="sns_bind_limit">Prea multe încercări. Încercați alte metode de conectare.</string>
     <string name="sns_sign_in">Alte metode de conectare</string>
+    <string name="stop_full_log_dialog_cancel">Nu acum</string>
+    <string name="stop_full_log_dialog_confirm">Încărcați</string>
+    <string name="stop_full_log_dialog_content">Se pare că jurnalele sunt generate acum. Opriți generarea lor și le încărcați pe cele care sunt gata?</string>
+    <string name="stop_full_log_dialog_title">Se generează jurnalele…</string>
     <string name="submit_dialog_cancel">"Nu sunt de acord"</string>
     <string name="submit_dialog_confirm">De acord</string>
     <string name="submit_dialog_content">&lt;Data&gt;"Trebuie să acceptați &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; pentru a putea utiliza funcția de Raportare. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați."&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global">&lt;Data&gt;"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
+    <string name="suggest_upload_log_dialog_cancel">Nu, mulțumesc</string>
+    <string name="suggest_upload_log_dialog_confirm">Încarcă</string>
+    <string name="suggest_upload_log_dialog_content">Pentru a ajuta inginerii noștri să localizeze și să rezolve problema pe care ați întâmpinat-o cât mai curând posibil, vă recomandăm să încărcați jurnalele aferente. Jurnalele sunt utilizate numai pentru a analiza problemele și nu vor fi utilizate în alte scopuri.</string>
+    <string name="suggest_upload_log_dialog_title">Încarcă jurnalele corelate</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_app_select">Aplicații încorporate</string>
@@ -723,7 +731,7 @@ Pentru a vă activa contul, accesați
     <string name="toast_app_tag_required">Selectați mai întâi problema</string>
     <string name="toast_catch_full_log_catching">Puteți genera un singur jurnal odată.</string>
     <string name="toast_catch_full_log_open_failed">"Nu s-a putut porni înregistrarea jurnalului."</string>
-    <string name="toast_description_required">Descrierea este necesară</string>
+    <string name="toast_description_required">Descrieți mai întâi problema</string>
     <string name="toast_feedback_collect_store">Colectare jurnale…</string>
     <string name="toast_feedback_network_unavailable">"Nu se poate conecta la rețea"</string>
     <string name="toast_feedback_pending_wlan">"Raportul dvs. va fi trimis atunci când veţi fi conectat la Wi-Fi"</string>
@@ -734,6 +742,7 @@ Pentru a vă activa contul, accesați
     <string name="toast_loading_app_id">Obținere informații…</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
     <string name="toast_log_too_large">"Nu se poate încărca. Jurnalul este prea mare."</string>
+    <string name="toast_min_description_count">Descrierea ar trebui să fie mai lungă</string>
     <string name="toast_module_required">Selectați elementul</string>
     <string name="toast_network_unavailable">"Nu s-a putut trimite raportul. Nu se poate conecta la rețea."</string>
     <string name="toast_pending_log_collection">Colectare jurnale…</string>
