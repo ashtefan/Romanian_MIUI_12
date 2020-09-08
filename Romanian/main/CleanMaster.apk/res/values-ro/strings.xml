@@ -324,6 +324,7 @@
     <string name="empty_title_video">Nu există videoclipuri ce trebuie șterse​</string>
     <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Inițializare…</string>
+    <string name="engine_mi">Xiaomi</string>
     <string name="engine_tm">Tencent</string>
     <string name="expand_button_title">Avansat</string>
     <string name="facebook_clean_exit_confirm_cancel">Scanați în continuare</string>
@@ -475,6 +476,8 @@
     <string name="hot_today">Populare astăzi</string>
     <string name="information_setting">Recomandări</string>
     <string name="install_sucess">%s instalate cu succes</string>
+    <string name="install_time_format">dd/MM/yyyy</string>
+    <string name="install_time_invalid">--</string>
     <string name="installed">Instalate</string>
     <string name="installing">Instalare</string>
     <string name="item_title_process_mode">Selectați o acțiune</string>
@@ -504,7 +507,7 @@
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
     <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
-    <string name="memory_clean_icon_text">Goliți memoria RAM</string>
+    <string name="memory_clean_icon_text">Creșteți viteza</string>
     <string name="memory_clean_no_trash_tip">Totul arată bine</string>
     <string name="menu_add_to_white_list">Adăugați în lista excepțiilor</string>
     <string name="menu_clear">Goliți</string>
@@ -556,6 +559,8 @@
     <string name="notification_memory_clean_button_text">Accelerați</string>
     <string name="notification_memory_clean_hint">Atingeți pentru a crește viteza</string>
     <string name="notification_memory_clean_used_size">%s din memorie este ocupată</string>
+    <string name="notification_size_1.5_GB">%.1f</string>
+    <string name="notification_size_1_GB">%d</string>
     <string name="notification_summary_after_auto_cleanup">Curăţat %s.</string>
     <string name="notification_uninstalled_clean_button_text">Vedeți</string>
     <string name="notification_uninstalled_clean_with_name">Elementele reziduale din %s</string>
@@ -579,6 +584,10 @@
     <string name="optimizecenter_data_support_cm">Oferit de Clean Master</string>
     <string name="optimizecenter_data_support_tc">Oferit de Tencent</string>
     <string name="output_videos">Videoclipuri exportate</string>
+    <string name="permission_dialog_storage_btn1">Setări</string>
+    <string name="permission_dialog_storage_btn2">Renunțați</string>
+    <string name="permission_dialog_storage_content">Aplicația Curățare are nevoie de permisiunea de a accesa stocarea internă pentru a putea funcționa în mod normal. Atingeți \"Setări\" pentru a gestiona permisiunile de stocare.</string>
+    <string name="permission_dialog_storage_title">Sunt necesare unele permisiuni</string>
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Căutare Google</string>
     <string name="positive_confirm">OK</string>

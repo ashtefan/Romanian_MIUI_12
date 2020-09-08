@@ -23,6 +23,11 @@
         <item>Dimensiune</item>
         <item>Nume</item>
     </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Dimensiune</item>
+        <item>Frecvența utilizării</item>
+        <item>Data instalării</item>
+    </string-array>
     <string-array name="wechat_sort">
         <item>Dată</item>
         <item>Dimensiune</item>

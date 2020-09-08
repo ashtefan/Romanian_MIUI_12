@@ -208,6 +208,7 @@
     <string name="enable_usb">Conectați dispozitivul USB</string>
     <string name="encrypt_error">"Nu s-au putut ascunde fișierele; vă rog reîncercați"</string>
     <string name="encrypt_prefix">ASCUNS</string>
+    <string name="encrypt_setting">Criptare</string>
     <string name="encrypt_success">Toate fișierele au fost ascunse</string>
     <string name="encrypt_success_first_five">"Criptare efectuată și fișier ascuns. Glisați în jos în pagina de pornire a Exploratorului de fișiere pentru a vedea fișierele ascunse."</string>
     <string name="encrypting">Criptare…</string>
@@ -406,7 +407,8 @@
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
     <string name="not_set">Nesetat</string>
-    <string name="not_support_documentui">"DocumentUI nu este suportat pe acest dispozitiv"</string>
+    <string name="not_support_documentui">DocumentUI nu este suportat pe acest dispozitiv</string>
+    <string name="not_use">Nu acum</string>
     <string name="notif_server_starting">Pornire server FTP…</string>
     <string name="notif_title">Serverul FTP rulează</string>
     <string name="notification_dialog_confirm">OK</string>
@@ -434,6 +436,8 @@
     <string name="operation_delete_confirm_message">Ştergeţi?</string>
     <string name="operation_delete_confirm_message_folder">"Tot conținutul dosarului va fi șters. "</string>
     <string name="operation_deleting">Ştergere…</string>
+    <string name="operation_encrypt_summary">Criptați fișierele în dosarul privat. Decriptarea fișierelor mari poate dura mai mult decât vă așteptați.</string>
+    <string name="operation_encrypt_title">Criptați fișierele private</string>
     <string name="operation_favorite">Adăugaţi la favorite</string>
     <string name="operation_hide_sys">Nu se afişează fişierele ascunse</string>
     <string name="operation_info">Detalii</string>
@@ -520,6 +524,9 @@
     <string name="private_folder">Dosare ascunse</string>
     <string name="private_folder_no_file_hints">Apăsați și țineți apăsat un fișier sau un dosar pentru a-l ascunde.</string>
     <string name="private_folder_update">Actualizare dosare ascunse</string>
+    <string name="private_folder_update_msg">Managerul de fișiere introduce o măsură de securitate suplimentară: acum puteți cripta fișiere private!</string>
+    <string name="private_folder_update_msg_summary">Decriptarea va face ca eliminarea fișierelor din folderul privat să fie mai lentă. Puteți activa și dezactiva criptarea în Setări.</string>
+    <string name="private_folder_update_tips">Caracteristică nouă</string>
     <string name="private_toast_hint2">Pentru a ascunde un fișier, apăsați și mențineți-l apăsat, apoi adăugați-l într-un dosar ascuns.</string>
     <string name="prize_result_tip">Valorificați</string>
     <string name="prize_result_tip2">Bijuteriile merg în visteria dumneavoastră</string>
@@ -737,6 +744,7 @@
     <string name="upload_video_success_progress">Încărcat cu succes</string>
     <string name="uploading_video">Se încarcă videoclipul…</string>
     <string name="usb_label">USB</string>
+    <string name="use">Utilizați</string>
     <string name="use_to_all">Aplicați tuturor</string>
     <string name="used">Utilizat</string>
     <string name="user_cancel">Renunțare</string>

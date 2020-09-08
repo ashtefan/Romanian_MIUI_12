@@ -114,24 +114,13 @@
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d oră</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">cu %1$d ore în urmă</item>
-        <item quantity="zero">cu %1$d ore în urmă</item>
-        <item quantity="one">cu %1$d oră în urmă</item>
-        <item quantity="two">cu %1$d ore în urmă</item>
-        <item quantity="few">cu %1$d ore în urmă</item>
-        <item quantity="many">cu %1$d ore în urmă</item>
+    <plurals name="install_find_application">
+        <item quantity="other">Căutați printre %d aplicații</item>
+        <item quantity="one">Căutați printre %d aplicație</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Descărcat de %1$d utilizatori</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">cu %1$d minute în urmă</item>
-        <item quantity="zero">cu %1$d minute în urmă</item>
-        <item quantity="one">cu %1$d minut în urmă</item>
-        <item quantity="two">cu %1$d minute în urmă</item>
-        <item quantity="few">cu %1$d minute în urmă</item>
-        <item quantity="many">cu %1$d minute în urmă</item>
+    <plurals name="install_find_application_num">
+        <item quantity="other">S-au găsit %d aplicații</item>
+        <item quantity="one">S-a găsit %d aplicație</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d minute</item>

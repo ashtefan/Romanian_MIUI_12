@@ -88,6 +88,9 @@
     <string name="auto_identify_btn_title">Acest mesaj este trimis de la un număr necunoscut.</string>
     <string name="auto_identify_confirmation">Activarea acestei funcții poate dura câteva minute.</string>
     <string name="back_to_message_list">Înapoi la lista de mesaje</string>
+    <string name="banner_btn_install">Instalați</string>
+    <string name="banner_btn_not_now">Nu acum</string>
+    <string name="banner_btn_open">Deschideți</string>
     <string name="batch_adding_progress_message">Adăugare…</string>
     <string name="batch_deleting_message_progress_message">Ştergere…</string>
     <string name="batch_deleting_progress_message">Ştergere…</string>
@@ -112,7 +115,7 @@
     <string name="button_resend_message">Trimiteți din nou</string>
     <string name="button_unfold">Extindeți</string>
     <string name="call_sender">Apelați expeditorul</string>
-    <string name="can_not_send_by_rcs">"Nu se poate utiliza Mesageria China Mobile"</string>
+    <string name="can_not_send_by_rcs">Nu se poate utiliza Mesageria 5G</string>
     <string name="can_not_view_group_chat_stranger">"Nu puteți vedea detalii despre persoanele necunoscute."</string>
     <string name="cannot_add_picture_and_video">Videoclipul şi fotografia nu pot fi adăugate în acelaşi diapozitiv.</string>
     <string name="cannot_add_slide_anymore">Nu se pot adăuga mai multe diapozitive</string>
@@ -205,6 +208,7 @@
     <string name="debug_enable_success">Depanator disponibil</string>
     <string name="debug_export_db">Exportați baza de date</string>
     <string name="debug_title">Depanator</string>
+    <string name="default_google_message_promo_content">Ați setat Mesageria Google ca aplicație de mesagerie implicită. Atingeți \"Deschideți\" pentru a începe să trimiteți mesaje text.</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_block_conversation">Ștergeți această conversație</string>
     <string name="delete_bookmark">Eliminaţi din Favorite</string>
@@ -258,6 +262,7 @@
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
     <string name="edit_slide_activity">Modificaţi diapozitivul</string>
     <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
+    <string name="enable_classify_tip_dialog_content">Această acțiune va relansa aplicația de Mesagerie. Continuați oricum?</string>
     <string name="enabled">Pornit</string>
     <string name="english_subject_limit">Maxim 40 de caractere</string>
     <string name="enter_edit_mode">Editaţi mesajele</string>
@@ -370,6 +375,8 @@
     <string name="from_pkg_name">De la aplicația:</string>
     <string name="ft_cfs_dialog_content">Fișierele nu au putut fi livrate folosind RCS. Trimiteți în schimb un link într-un mesaj text?</string>
     <string name="ft_cfs_dialog_title">Transfer alternativ de fișiere</string>
+    <string name="google_message_promo_content">Xiaomi recomandă trecerea la Mesageria Google. Aceasta vă permite să trimiteți mesaje text prin Wi-Fi, să partajați conținut media de înaltă calitate și multe altele. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Vedeți detalii&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_title">Actualizați aplicația de mesagerie</string>
     <string name="group_already_kicked_hint">"Nu se pot trimite mesaje. Nu sunteți membru al acestui grup."</string>
     <string name="group_member_is_composing">Tastează…</string>
     <string name="group_message">Mesaje de grup</string>
@@ -407,6 +414,8 @@
     <string name="imageview_ad">Reclamă</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
+    <string name="installed_google_message_promo_content">Xiaomi recomandă utilizarea Mesageriei Google. Aceasta vă permite să trimiteți mesaje text prin Wi-Fi, să partajați conținut media de înaltă calitate și multe altele.</string>
+    <string name="installed_google_message_promo_title">Începeți să utilizați aplicația Mesaje</string>
     <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
     <string name="invalid_conversation">Conversaţie greşită</string>
     <string name="invalid_destination">Adresă de destinaţie greşită.</string>
@@ -664,6 +673,9 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="perm_purpose_rcs_account">"Pentru afișarea ghidului începătorului la noii utilizatori"</string>
     <string name="perm_purpose_rcs_phone_state">Pentru accesarea IMEI-ului în vederea identificării dispozitivului</string>
     <string name="perm_purpose_rcs_storage">Pentru salvarea imaginilor, videoclipurilor, fișierelor și a altor atașamente RCS</string>
+    <string name="permission_retry_deny">Renunțați</string>
+    <string name="permission_retry_dialog_msg">Aplicația de Mesagerie are nevoie de permisiuni pentru a putea funcționa în mod normal. Pentru a acorda permisiunile necesare, atingeți \"Setări\", selectați \"Permisiuni aplicație\" și permiteți aplicației să acceseze telefonul, SMS-urile și contactele.</string>
+    <string name="permission_retry_setting">Setări</string>
     <string name="phrase_confirm_delete_message">Acest răspuns va fi şters.</string>
     <string name="phrase_empty">Niciun răspuns</string>
     <string name="phrase_from">De la %1s</string>
@@ -702,6 +714,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
+    <string name="pref_summary_enable_classify">Mutați mesajele promoționale și pe cele financiare în file separate</string>
     <string name="pref_summary_manage_sim_messages">Gestionaţi mesajele stocate pe cartela SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Descărcați fotografiile și videoclipurile din mesaje în mod automat</string>
     <string name="pref_summary_mms_read_reports">Arată o notificare atunci când destinatarul a descărcat conținutul mesajului MMS</string>
@@ -720,6 +733,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_card_format">Formatare card partajare</string>
     <string name="pref_title_collapse_ad_notification">Grupează notificările despre mesajele promoționale</string>
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
+    <string name="pref_title_enable_classify">Grupează mesajele în mod automat</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
     <string name="pref_title_manage_sim_messages">Gestionaţi mesajele de pe cartela SIM</string>
     <string name="pref_title_miui_card">Trimiteţi prin card</string>
@@ -864,15 +878,15 @@ Aruncați o privire peste recomandări!"</string>
     <string name="rcs_list_bottom_loading">Doar o secundă…</string>
     <string name="rcs_list_bottom_search">Se caută…</string>
     <string name="rcs_main_purpose">Această caracteristică vă permite să trimiteți și să primiți mesaje RCS. Mesageria RCS este furnizată de către China Mobile.</string>
-    <string name="rcs_message">Mesaje RCS</string>
+    <string name="rcs_message">Mesaje 5G</string>
     <string name="rcs_message_disable">"Nu se poate vedea acest mesaj în spațiul Secundar"</string>
-    <string name="rcs_message_title">Mesageria RCS</string>
+    <string name="rcs_message_title">Mesageria 5G</string>
     <string name="rcs_more_bar_title">Mai multe informații</string>
-    <string name="rcs_msg">Mesageria China Mobile</string>
+    <string name="rcs_msg">Mesageria 5G</string>
     <string name="rcs_my_black_chatbot_title">Lista blocărilor</string>
-    <string name="rcs_not_online">"Nu se poate utiliza Mesageria China Mobile. Verificați setările de rețea și încercați din nou."</string>
-    <string name="rcs_offline">Nu sunteți conectat la UC. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="rcs_offline_hint">"Mesageria China Mobile este offline. Nu se poate redirecționa acest mesaj."</string>
+    <string name="rcs_not_online">Nu se poate utiliza Mesageria 5G. Verificați setările de rețea și încercați din nou.</string>
+    <string name="rcs_offline">Nu sunteți conectat la Mesageria 5G. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="rcs_offline_hint">Mesageria 5G este offline. Nu se poate redirecționa acest mesaj.</string>
     <string name="rcs_pref_button_login">Autentificare</string>
     <string name="rcs_pref_button_logout">Deconectare</string>
     <string name="rcs_pref_category_rcs">Mesagerie RCS</string>
@@ -895,7 +909,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="rcs_recipient_type_group">Redirecționați către grup</string>
     <string name="rcs_recipient_type_pc">Redirecționați către PC</string>
     <string name="rcs_remember_my_choice">Reține alegerea mea</string>
-    <string name="rcs_resend_not_online">"Nu se poate utiliza Mesageria China Mobile"</string>
+    <string name="rcs_resend_not_online">Nu se poate utiliza Mesageria 5G</string>
     <string name="rcs_resend_sim_card_not_insert">"Se pare că nu aveți o cartelă SIM instalată"</string>
     <string name="rcs_search_group_local">Miniaplicațiile mele</string>
     <string name="rcs_search_group_recommend">Miniaplicații recomandate</string>
@@ -904,17 +918,17 @@ Aruncați o privire peste recomandări!"</string>
     <string name="rcs_search_result_server_data_empty">Nu s-au putut găsi miniaplicații online</string>
     <string name="rcs_send_hello">Salut!</string>
     <string name="rcs_send_rms_remind_change">Setări</string>
-    <string name="rcs_send_rms_remind_desp">Mesageria China Mobile este un serviciu de mesagerie instant furnizat de către China Mobile. Puteți dezactiva această caracteristică din Setări.</string>
-    <string name="rcs_send_rms_remind_title">Trimiteți mesaje utilizând Mesageria China Mobile</string>
+    <string name="rcs_send_rms_remind_desp">Mesageria 5G este un serviciu de mesagerie instant furnizat de către China Mobile. Puteți dezactiva această caracteristică din Setări.</string>
+    <string name="rcs_send_rms_remind_title">Utilizați Mesageria 5G</string>
     <string name="rcs_service_agreement">Acordul Serviciului</string>
-    <string name="rcs_setting">Setări mesagerie China Mobile</string>
+    <string name="rcs_setting">Setări mesagerie 5G</string>
     <string name="rcs_setting_tips">Puteți modifica metode de livrare alternative în setările mesageriei.</string>
     <string name="rcs_silence_message">Redu la tăcere notificările pentru mesaje</string>
-    <string name="rcs_summary_auto_resend_mms">"Convertiți mesajele multimedia China Mobile în mesaje MMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj."</string>
-    <string name="rcs_summary_auto_resend_sms">"Convertiți mesajele text China Mobile în mesaje SMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj."</string>
+    <string name="rcs_summary_auto_resend_mms">Convertiți mesajele multimedia 5G în mesaje MMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
+    <string name="rcs_summary_auto_resend_sms">Convertiți mesajele text 5G în mesaje SMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
     <string name="rcs_summary_silence_message">Redu la tăcere notificările pentru mesaje atunci când rulează clientul desktop</string>
-    <string name="rcs_unavailable">"Nu se poate utiliza mesageria China Mobile acum. Cartela SIM China Mobile nu este cartela de date implicită."</string>
-    <string name="rcs_up_not_online">RCS este off-line. Verificați setările rețelei și încercați din nou.</string>
+    <string name="rcs_unavailable">Nu se poate utiliza mesageria 5G acum. Cartela SIM China Mobile nu este cartela de date implicită.</string>
+    <string name="rcs_up_not_online">Mesageria 5G este off-line. Verificați setările rețelei și încercați din nou.</string>
     <string name="rcs_wait_for_retry_text">Se așteaptă…</string>
     <string name="received_at_time">Primit la: %1s</string>
     <string name="received_label">"Primit: "</string>
@@ -1032,7 +1046,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="send_message_notification_msg">Apăsați pentru a vizualiza detalii solicitare.</string>
     <string name="send_message_notification_tickerText">Dispozitivul solicită permisiune</string>
     <string name="send_message_notification_title">Solicitare permisiune</string>
-    <string name="send_rms_editor_hints">Mesagerie China Mobile</string>
+    <string name="send_rms_editor_hints">Mesagerie 5G</string>
     <string name="send_rms_editor_hints_omit">Mesagerie Mi</string>
     <string name="send_signature_confirm_dialog_message">Nu a fost găsit textul mesajului. Trimiteți doar semnătura?</string>
     <string name="send_signature_confirm_dialog_title">Trimiteţi mesajul</string>
@@ -1116,6 +1130,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notificări</string>
     <string name="sp_mark_as_read_menu_title">Marcare ca citite</string>
+    <string name="sp_msg_entry">Servicii</string>
     <string name="sqlite_disk_full">Spațiul de stocare de pe telefon este epuizat</string>
     <string name="sqlite_low_memory">Spațiu de stocare insuficient</string>
     <string name="status_failed">Nereuşit</string>
@@ -1239,6 +1254,9 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="to_label">"Pentru "</string>
     <string name="to_send_wrapper">Se va trimite la %s</string>
     <string name="toast_failed_to_close_priv_auth">Nu s-a putut revoca autorizarea. Verificați setările rețelei și încercați din nou.</string>
+    <string name="toast_not_show_camera_perm_req">Permiteți serviciului de mesagerie să utilizeze camera foto pentru a putea utiliza această caracteristică</string>
+    <string name="toast_not_show_microphone_perm_req">Permiteți serviciului de mesagerie să utilizeze microfonul pentru a putea utiliza această caracteristică</string>
+    <string name="toast_not_show_storage_perm_req">Permiteți mesajelor să acceseze spațiul de stocare pentru a putea utiliza această caracteristică</string>
     <string name="toast_pending_hangup_msg">Mesajul va fi trimis după încheierea apelului</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

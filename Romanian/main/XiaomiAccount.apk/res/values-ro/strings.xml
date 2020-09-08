@@ -47,7 +47,7 @@
     <string name="account_has_been_set">Modificați</string>
     <string name="account_invalid_user_avatar">Această fotografie nu este validă. Încercați cu o alta.</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
-    <string name="account_mibi_center">Credite Mi</string>
+    <string name="account_mibi_center">Monede Mi</string>
     <string name="account_mibi_charge">Suplimentați</string>
     <string name="account_mipay_info">Plăți Mi</string>
     <string name="account_no_set">Nimic</string>
@@ -624,7 +624,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="update_email_address_dialog_title">Actualizare adresă de e-mail</string>
     <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="update_phone_number_notice_message">Trebuie să vă verificăm identitatea înainte de a actualiza numărul de telefon.</string>
-    <string name="used_cloud_storage_info">Spațiu de stocare utilizat %s</string>
+    <string name="used_cloud_storage_info">Utilizat %s</string>
     <string name="user_avatar_update_title">Schimbaţi imaginea de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="v7_preference_off">OPRIT</string>
