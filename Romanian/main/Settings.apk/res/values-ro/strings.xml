@@ -7856,12 +7856,14 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_configure_settings_preference_title">Preferințe Wi-Fi</string>
     <string name="wifi_configured_ap_list">Punctele de acces configurate anterior</string>
     <string name="wifi_connect">Conectaţi-vă</string>
+    <string name="wifi_connect_channel">Canal Wi-Fi:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Anulaţi</string>
     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
     <string name="wifi_connect_cmcc_dialog_content">Conectat la rețeaua de date mobilă. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Nu se mai afişează</string>
     <string name="wifi_connect_cmcc_dialog_title">Conectat CMCC</string>
     <string name="wifi_connect_failed_message">Nu s-a putut conecta la această reţea Wi-Fi</string>
+    <string name="wifi_connect_frequency">Frecvență Wi-Fi:</string>
     <string name="wifi_connected_mac_randomization">Adresă MAC aleatoare</string>
     <string name="wifi_connected_mac_randomization_summary">Adresă MAC aleatoare atunci când vă conectați la rețelele Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectat, fără acces la Internet</string>

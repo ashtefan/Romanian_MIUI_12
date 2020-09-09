@@ -223,7 +223,7 @@
     <string name="screen_on_proximity_sensor_summary">Nu acoperiți zona difuzorului</string>
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar/poșetă</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
-    <string name="screen_rotation_freeze_message">Rotirea automată este dezactivată.</string>
+    <string name="screen_rotation_freeze_message">Orientare ecran blocată în modul peisaj</string>
     <string name="screenshot_gesture_detect_alert_button">Activați din Setări</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Nu arăta din nou</string>
     <string name="screenshot_gesture_detect_alert_msg">Glisați în jos cu 3 degete simultan pentru a realiza o captură de ecran?</string>
@@ -279,7 +279,7 @@
     <string name="status_bar_toggle_paper_mode">Mod lectură</string>
     <string name="status_bar_toggle_power_mode">Performanţă</string>
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
-    <string name="status_bar_toggle_rotate">Blocare rotire</string>
+    <string name="status_bar_toggle_rotate">Blocare orientare</string>
     <string name="status_bar_toggle_screen_button">Butoane</string>
     <string name="status_bar_toggle_screenshot">Captură ecran</string>
     <string name="status_bar_toggle_sync">Sincronizare</string>

@@ -1219,7 +1219,7 @@ o captură de ecran derulantă"</string>
     <string name="miui_ringer_standard_description">Redu la tăcere sunetele de apel pentru apelurile primite și pentru notificări</string>
     <string name="miui_ringer_total">Nu deranjați</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, exceptând alarma</string>
-    <string name="miui_screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="miui_screen_rotation_freeze_message">Orientare ecran blocată în modul peisaj.</string>
     <string name="miui_toast_zen_dnd_to_off">Modul Nu deranjați este dezactivat acum. Sunetele și vibrațiile au fost restabilite la normal</string>
     <string name="miui_toast_zen_standard_to_off">Modul Nu deranjați este dezactivat acum. Sunetele de apel au fost restabilite la normal.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modul Nu deranjați este dezactivat acum. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi redate.</string>

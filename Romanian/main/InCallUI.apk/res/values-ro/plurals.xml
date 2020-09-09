@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="conference_call_number">
-        <item quantity="other">%s persoane</item>
-        <item quantity="one">%s persoană</item>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Raportat de %d utilizatori MIUI</item>
+        <item quantity="one">Raportat de %d utilizator MIUI</item>
     </plurals>
-    <plurals name="call_title_redialing_with_times">
-        <item quantity="other">S-a reapelat de %d ori</item>
-        <item quantity="one">S-a reapelat %d dată</item>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Se închide în %1$s secunde…</item>
+        <item quantity="one">Se închide în %1$s secundă…</item>
     </plurals>
     <plurals name="call_recording_notification_complete">
      <item quantity="other">%d apeluri înregistrate.</item>
      <item quantity="one">Un apel înregistrat.</item>
     </plurals>
-    <plurals name="antispam_marked_count">
-        <item quantity="other">Raportat de %d utilizatori MIUI</item>
-        <item quantity="one">Raportat de %d utilizator MIUI</item>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">S-a reapelat de %d ori</item>
+        <item quantity="one">S-a reapelat %d dată</item>
     </plurals>
-    <plurals name="duration_seconds">
-        <item quantity="other">%d secunde</item>
-        <item quantity="one">%d secundă</item>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s persoane</item>
+        <item quantity="one">%s persoană</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d minute</item>
         <item quantity="one">%d minut</item>
     </plurals>
-    <plurals name="duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d oră</item>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
     </plurals>
 </resources>

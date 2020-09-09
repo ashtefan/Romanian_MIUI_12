@@ -91,6 +91,7 @@
     <string name="crbt_second_hold_prompt">%s este în așteptare…</string>
     <string name="crbt_second_hold_prompt_conference">Apelul în Conferință este în așteptare…</string>
     <string name="crbt_second_hold_prompt_no_name">Apelul anterior este în așteptare…</string>
+    <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Răspundeți</string>
     <string name="description_image_button_dialpad">Taste numerice</string>
     <string name="description_image_button_eight">opt</string>
