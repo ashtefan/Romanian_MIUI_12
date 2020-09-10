@@ -109,6 +109,9 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="http_buffer_size">Dimensiune cache HTTP</string>
+    <string name="log_warning">Comutarea butoanelor jurnal poate crește riscurile de securitate și poate afecta performanța. Utilizați aceste comutatoare numai atunci când este necesar.</string>
+    <string name="message_log">Jurnalele de mesaje</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
@@ -178,6 +181,7 @@
     <string name="privacy_describe_location">Pentru găsirea computerelor din apropiere și transferul de fișiere</string>
     <string name="privacy_describe_record_audio">Pentru redirecționarea redării audio către computer</string>
     <string name="privacy_describe_storage">Pentru trimiterea și primirea de fișiere</string>
+    <string name="resource_log">Jurnalele de resurse</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -207,6 +211,7 @@
     <string name="settings_home_device_disconnect">Deconectați</string>
     <string name="settings_home_device_group">Dispozitiv conectat</string>
     <string name="settings_home_tips">Ecranul Combo plasează o copie a ecranului telefonului pe un computer conectat, permițându-vă să transferați fișiere și să interacționați cu dispozitivul dvs. mobil de acolo.</string>
+    <string name="settings_log_options">Jurnale</string>
     <string name="settings_more_help">Ajutor</string>
     <string name="settings_privacy_policy">Politica de Confidențialitate</string>
     <string name="settings_scanner_button">Scaner</string>
@@ -286,14 +291,17 @@
     <string name="time_picker_label_minute">M</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="traffic_log">Jurnale de trafic</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="verbose_mode">Mod Verbose</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="worker_authorization_loading">Doar o secundă…</string>
     <string name="worker_authorization_message">Ecran Combo vă permite să transferați fișiere și să interacționați cu telefonul dvs. utilizând un computer.</string>
     <string name="worker_authorization_title">Vă conectați acum?</string>
     <string name="worker_authorized">%1$s a acceptat solicitarea dvs.</string>

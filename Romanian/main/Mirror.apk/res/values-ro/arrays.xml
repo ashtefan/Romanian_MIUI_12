@@ -59,10 +59,18 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <array name="buffer_size_values">
+        <item>@null</item>
+        <item>64 Kb</item>
+        <item>128 Kb</item>
+        <item>256 Kb</item>
+        <item>512 Kb</item>
+        <item>1 Mb</item>
+    </array>
     <string-array name="settings_search_mirror">
         <item>Ecran Combo</item>
-        <item>Conectați și partajați/Ecran Combo</item>
-        <item>Ecran Combo</item>
+        <item>Conectare și partajare/Ecran Combo</item>
+        <item>Ecran Combo;Ecran multiplu;Oglindire ecran;PC;Computer</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Dezactivați hotspot-ul portabil, Partajarea Mi sau partajarea dispozitivului mobil înainte de a utiliza Ecran Combo.
