@@ -133,6 +133,13 @@
     <string name="focus_mode_timer_pick_dialog_title">Introduceți durata</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
+    <string name="fps_nature_summary">O rată de reîmprospătare ridicată menține totul vioi și clar</string>
+    <string name="fps_nature_title">Ridicată</string>
+    <string name="fps_smooth_summary">O rată de reîmprospătare medie adaugă mai multă claritate detaliilor</string>
+    <string name="fps_smooth_title">Medie</string>
+    <string name="fps_standard_summary">O rată de reîmprospătare standard economisește acumulatorul</string>
+    <string name="fps_standard_title">Standard</string>
+    <string name="fps_user_tip">Aceste animații demonstrative sunt redate la viteză mică pentru referință. Performanța reală ar putea arăta diferit pe baza diferiților factori.</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -241,6 +248,7 @@
     <string name="screen_fps_summary_power_save">Utilizarea ratei fixe consumă mai puțină energie</string>
     <string name="screen_fps_summary_smooth">Unele aplicații vor crește în mod automat rata de reîmprospătare pentru a îmbunătăți calitatea imaginii</string>
     <string name="screen_fps_title">Rata de reîmprospătare</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (Economisește acumulatorul)</string>
     <string name="screen_fps_unit_smooth">%dHz (Calitate ridicată)</string>
     <string name="screen_original_gamut">Îmbunătățit</string>

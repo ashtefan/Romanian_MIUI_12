@@ -78,6 +78,7 @@
     <string name="action_update_phone">Modificați numărul de telefon</string>
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în decurs de 24 de ore</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
+    <string name="ad">Reclamă</string>
     <string name="ad_buy">Achiziționați</string>
     <string name="ad_download">Descărcați</string>
     <string name="ad_join">Alăturați-vă comunității</string>
@@ -107,6 +108,7 @@
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="auto_play_next_off">Redarea automată este oprită</string>
     <string name="auto_play_next_on">Redarea automată este pornită</string>
+    <string name="back_to_mainpage">Descoperiți</string>
     <string name="before_yestoday">Cu 2 zile în urmă</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
     <string name="cancel">Anulare</string>
@@ -227,6 +229,8 @@
     <string name="comment_model_send_forbid_tips">Cont suspendat</string>
     <string name="comment_model_send_success">Trimis cu succes</string>
     <string name="common_cancel">Renunțați</string>
+    <string name="common_copyright_unsupported_audio">Nu se poate reda această piesă audio datorită restricțiilor legate de drepturile de autor</string>
+    <string name="common_copyright_unsupported_video">Nu se poate reda acest videoclip datorită restricțiilor legate de drepturile de autor</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -349,6 +353,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="favorite_fail">"Nu s-a putut adăuga la favorite. Încercați din nou."</string>
     <string name="favorite_success">Adăugată cu succes la favorite</string>
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
+    <string name="fcm_push_title">Videoclipuri populare</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Introduceți informațiile de contact</string>
@@ -715,6 +720,9 @@ pentru videoclipuri"</string>
     <string name="notification_bar_player_subtitle">Afișează player-ul minimizat în Perdeaua de Notificări</string>
     <string name="notification_bar_player_title">Minimizează player-ul</string>
     <string name="notification_open_tip">Activați pentru a primi notificări</string>
+    <string name="notification_recall_action">Activați</string>
+    <string name="notification_recall_desc">Mi Video vă poate notifica despre videoclipurile populare și despre abonările dvs.</string>
+    <string name="notification_recall_title">Activați notificările</string>
     <string name="notify_apk_installed">Descărcată cu succes</string>
     <string name="off">[oprit]</string>
     <string name="ok">OK</string>
@@ -726,7 +734,7 @@ pentru videoclipuri"</string>
     <string name="ovp_category">Categorii</string>
     <string name="ovp_confirm_delete_favor">Eliminați elemente selectate din favorite?</string>
     <string name="ovp_default_plugin_name">Supliment HD</string>
-    <string name="ovp_detail_back_to_watch_more">Descoperiți mai multe elemente în pagina de pornire</string>
+    <string name="ovp_detail_back_to_watch_more">Descoperiți mai multe videoclipuri extraordinare</string>
     <string name="ovp_detail_collapse_summary">Ascundeți</string>
     <string name="ovp_detail_collect">Adăugați la favorite</string>
     <string name="ovp_detail_comment">Comentariu</string>
@@ -917,6 +925,7 @@ Spori securitatea contului dvs."</string>
     <string name="permission_storage">Stocare</string>
     <string name="permission_storage_desc">Pentru accesarea elementelor, salvarea fișierelor, afișarea și redarea videoclipurilor locale</string>
     <string name="permission_title">Permisiuni necesare</string>
+    <string name="pgc_push_title">Abonamente</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat cu mai multe Conturi Mi într-o perioadă scurtă de timp. Încercați să utilizați un alt număr de telefon.</string>
     <string name="phone_hint">Număr de telefon</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
@@ -1117,6 +1126,7 @@ Verificați alte videoclipuri!"</string>
     <string name="remaining_space">Disponibil: %s</string>
     <string name="remaining_space_not_enough">Nu s-a putut descărca datorită spațiului de stocare insuficient</string>
     <string name="reminder">Atenție</string>
+    <string name="rename">Redenumiți</string>
     <string name="report">Raportați</string>
     <string name="report_content_dislike">Violență sau comportament necorespunzător</string>
     <string name="report_content_fakement">Spam sau fraudă</string>

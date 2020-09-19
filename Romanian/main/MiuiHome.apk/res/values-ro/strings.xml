@@ -622,5 +622,10 @@
     <string name="widgets_preview_title">Adăugați un widget</string>
     <string name="work_mode_off_label">Notificările sunt oprite și aplicațiile nu sunt disponibile acum</string>
     <string name="work_mode_on_label">Gestionat de către organizația dvs.</string>
+    <string name="work_profile_first_content">Datele personale sunt separate și ascunse față de aplicațiile de servici</string>
+    <string name="work_profile_got_button">Am înțeles</string>
+    <string name="work_profile_next_button">Următorul</string>
+    <string name="work_profile_second_content">Aplicațiile de servici și datele acestora sunt vizibile administratorului IT</string>
+    <string name="work_profile_title">Profil de servici</string>
     <string name="work_profile_toggle_label">Profil de servici</string>
 </resources>

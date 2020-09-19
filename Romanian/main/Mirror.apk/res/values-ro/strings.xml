@@ -191,7 +191,7 @@
     <string name="search_menu_title">Căutați</string>
     <string name="settings_connect">Cum vă puteți conecta</string>
     <string name="settings_connect_more_help">&lt;u&gt;Ajutor&lt;/u&gt;</string>
-    <string name="settings_connect_summary1">Deschideți Partajarea inteligentă Mi pe computer și selectați \"Ecran Combo\". Puteți descărca Partajarea inteligentă Mi de pe www.miui.com.</string>
+    <string name="settings_connect_summary1">Deschideți Partajarea inteligentă Mi pe computer și selectați \"Ecran Combo\". Puteți descărca Partajarea inteligentă Mi de pe https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Scanați codul QR de pe ecranul computerului cu dispozitivul dvs. mobil. Puteți utiliza mai multe aplicații de sistem (de exemplu, scaner, cameră, Mi Browser) pentru a face acest lucru.</string>
     <string name="settings_connect_title1">Pasul 1</string>
     <string name="settings_connect_title2">Pasul 2</string>
@@ -289,6 +289,7 @@
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="tip_connect_fail_for_hotspot">Nu s-a putut conecta. Dezactivați hotspot-ul portabil și încercați din nou.</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="traffic_log">Jurnale de trafic</string>

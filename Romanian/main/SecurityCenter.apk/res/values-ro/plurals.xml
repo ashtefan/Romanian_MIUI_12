@@ -80,9 +80,17 @@
         <item quantity="other">Utilizată cu %d ani în urmă</item>
         <item quantity="one">Utilizată cu %d an în urmă</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Puteți utiliza Blocarea aplicațiilor pentru %1$s aplicații</item>
+        <item quantity="one">Puteți utiliza Blocarea aplicațiilor pentru %1$s aplicație</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Puteți proteja cel puțin %s aplicații</item>
         <item quantity="one">Puteți proteja cel puțin %s aplicație</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplicații vor fi protejate de Blocarea aplicațiilor</item>
+        <item quantity="one">%s aplicație va fi protejată de Blocarea aplicațiilor</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicații se pot conecta la rețea în fundal</item>

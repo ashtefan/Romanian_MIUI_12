@@ -594,6 +594,7 @@ mm"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_str">Populare acum</string>
     <string name="see_all">Vedeți tot</string>
+    <string name="see_detail">Vedeți</string>
     <string name="see_more">Vedeți mai mult</string>
     <string name="see_more_content">Vedeți mai multe</string>
     <string name="select_package">Selectați versiunea</string>
@@ -759,6 +760,7 @@ mm"</string>
     <string name="toast_update_no_more_newest_feeds">Niciun element nou deocamdată</string>
     <string name="top_search_tip">Căutați categoriile care vă plac</string>
     <string name="torch">Lanternă</string>
+    <string name="understand_band_story">Aflați mai multe</string>
     <string name="uninstall_introducation_text_desc">Caruselul de imagini de fundal vă aduce imagini calitative noi direct în Blocarea ecranului. Înainte de a-l dezinstala, asigurați-vă că vă puteți descurca fără aceste caracteristici.</string>
     <string name="uninstall_introduction_text_title">Despre Caruselul de imagini de fundal</string>
     <string name="uninstall_warning_text_desc">"Fără Caruselul de imagini de fundal nu veți mai putea primi cu regularitate imagini pentru Blocarea ecranului. Totuși, veți putea descărca și instala din nou aplicația. Ștergeți Caruselul de imagini de fundal?"</string>

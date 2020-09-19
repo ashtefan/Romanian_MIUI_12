@@ -31,6 +31,14 @@
     <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări>Parole și Securitate &gt; %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
+    <string name="blackshark">Black Shark</string>
+    <string name="blackshark_1">Black Shark</string>
+    <string name="blackshark_2">Black Shark 2</string>
+    <string name="blackshark_2_pro">Black Shark 2 Pro</string>
+    <string name="blackshark_3">Black Shark 3</string>
+    <string name="blackshark_3_pro">Black Shark 3 Pro</string>
+    <string name="blackshark_helo">Black Shark Helo</string>
+    <string name="blackshark_phone">Black Shark</string>
     <string name="bluetooth_close">Această aplicație a oprit Bluetooth-ul</string>
     <string name="bluetooth_disable_notification_content">%s a dezactivat Bluetooth-ul</string>
     <string name="bluetooth_disable_notification_title">Bluetooth-ul este oprit</string>
@@ -143,6 +151,8 @@
     <string name="lockscreen_access_pattern_detected">Model finalizat</string>
     <string name="lockscreen_access_pattern_start">Model început</string>
     <string name="maml_component_customization_title">Setări</string>
+    <string name="meizu">Meizu</string>
+    <string name="meizu_phone">Meizu</string>
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi</string>
     <string name="mi_9t">Mi 9T</string>
@@ -165,6 +175,8 @@
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="onehour">30 de minute</string>
+    <string name="oneplus">OnePlus</string>
+    <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">Am înțeles</string>
     <string name="open_close_tip_content">Pentru a închide fereastra plutitoare, apăsați și mențineți apăsat pe bara de acțiune, apoi glisați în sus</string>
     <string name="oppo">OPPO</string>
@@ -192,6 +204,8 @@
     <string name="popup_camera_takeback_falied_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
     <string name="popup_camera_tip">Atenție</string>
     <string name="popup_camera_using_camera_background">%s utilizează camera frontală</string>
+    <string name="realme">realme</string>
+    <string name="realme_phone">realme</string>
     <string name="reboot_confirm_title">Reporniți acum telefonul?</string>
     <string name="reboot_info_auto_boot">Telefonul va porni în mod automat la %s</string>
     <string name="reboot_info_shutdown_alarm">Următoarea alarmă: %s</string>

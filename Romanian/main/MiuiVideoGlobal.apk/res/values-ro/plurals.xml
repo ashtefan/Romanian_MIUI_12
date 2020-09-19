@@ -72,6 +72,18 @@
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Atingeți de două ori pentru a derula înapoi %d secunde</item>
+        <item quantity="one">Atingeți de două ori pentru a derula înapoi %d secundă</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Atingeți de două ori pentru a derula înainte %d secunde</item>
+        <item quantity="one">Atingeți de două ori pentru a derula înainte %d secundă</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s secunde</item>
+        <item quantity="one">%1$s secundă</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s abonați</item>
         <item quantity="one">%s abonat</item>

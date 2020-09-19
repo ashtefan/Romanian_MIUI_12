@@ -109,7 +109,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="change_wallpaper">Imagine de fundal</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_has_new_version">Este disponibilă o actualizare</string>
     <string name="chip_text">Fragment de text</string>
     <string name="classification_more_understand_you">Selectați categoria favorită</string>
@@ -399,6 +399,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="hide_pull_down_positive">Ascunde</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
+    <string name="home_daily">Repere zilnice</string>
     <string name="i_know">Am înțeles</string>
     <string name="icon_content_description">Pictogramă de Dialog</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>
@@ -422,12 +423,14 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
     <string name="item_resource_audio_optional_phone_ring">Sunet apel</string>
+    <string name="item_view_role_description">Filă</string>
     <string name="kuyin_user_agreement_content">Abonamentele pentru sunete de apel personalizate sunt furnizate de către iFlytek. Trebuie să acceptați %s înainte de a utiliza abonamentele pentru sunete de apel personalizate. Sunteți de acord?</string>
     <string name="kuyin_user_agreement_content_href">Politica de Confidențialitate iFlytek</string>
     <string name="lab">Laborator Teme</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
     <string name="live_wallpaper">Imagini de fundal dinamică</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="loading_picture">Se încarcă imaginea…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="local_photos">Fotografii locale</string>
@@ -446,7 +449,8 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
     <string name="long_click_can_hide_resource">Atingeți și mențineți apăsat pentru a ascunde elemente</string>
-    <string name="loop_wallpaper_is_here">Diapozitivele cu imagini de fundal sunt disponibile acum</string>
+    <string name="material_slider_range_end">Sfârșit interval,</string>
+    <string name="material_slider_range_start">Începutul intervalului,</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
     <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Conectați-vă pentru a vedea elementele.
@@ -557,6 +561,7 @@ mm"</string>
     <string name="morning">AM</string>
     <string name="mtrl_badge_numberless_content_description">Notificări noi</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
     <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
@@ -839,6 +844,7 @@ mm"</string>
     <string name="resource_share_subject">Distribuiţi tema: %1$s</string>
     <string name="resource_share_text">Aici este o temă care cred că ţi-ar plăcea: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Distribuiţi</string>
+    <string name="resource_status_error">A apărut o eroare. Nu se poate vizualiza această imagine de fundal acum.</string>
     <string name="resource_system_title">Resurse de sistem</string>
     <string name="resource_tab_to_view">Apăsați pentru a vizualiza.</string>
     <string name="resource_tip_select_none">Nimic selectat</string>
@@ -908,6 +914,19 @@ mm"</string>
     <string name="settings_search_keyword_font_online">Fonturi online</string>
     <string name="settings_search_keyword_font_style">Formatul fonturilor</string>
     <string name="settings_search_keyword_font_wechat">Fonturi WeChat</string>
+    <string name="share_copy_theme_url">Copiați linkul temei</string>
+    <string name="share_copy_url_success">Copiat cu succes</string>
+    <string name="share_copy_wallpaper_url">Copiați linkul imaginii de fundal</string>
+    <string name="share_picture_loading">Se încarcă imaginea…</string>
+    <string name="share_save_success">Salvat cu succes</string>
+    <string name="share_save_to_photo">Galerie</string>
+    <string name="share_send_to_friend">WeChat</string>
+    <string name="share_share_suffix">\@小米主题</string>
+    <string name="share_theme_content_text">Puteți descărca o temă uimitoare \"%1$s\" de aici: %2$s. De la </string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_weibo">Weibo</string>
+    <string name="share_vipaccount">Comunitatea Mi</string>
+    <string name="share_wallpaper_content_text">Puteți descărca o imagine de fundal uimitoare \"%1$s\" de aici: %2$s. De la "</string>
     <string name="shortcut_add">Adăugați</string>
     <string name="shortcut_cancel">Nu, mulțumesc</string>
     <string name="shortcut_message">Adăugați o scurtătură pe Ecranul principal!</string>
@@ -1238,6 +1257,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_set_as_incall_show">Setați un profil video</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_setting_all">Toate imaginile de fundal</string>
+    <string name="wallpaper_setting_library">Librărie</string>
     <string name="wallpaper_setting_live">Live</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
     <string name="wallpaper_settings_loading_text">Doar o secundă…</string>
@@ -1246,7 +1266,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_settings_page_title">Imagine de fundal</string>
     <string name="wallpaper_share_alert">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="wallpaper_static">Statică</string>
-    <string name="wallpaper_subject_version">\@MI</string>
+    <string name="wallpaper_subject_version">MI</string>
     <string name="wechat_not_found">Instalați mai întâi WeChat</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

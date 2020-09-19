@@ -120,6 +120,7 @@
     <string name="early_morning">Dimineață</string>
     <string name="edit_header_done_description">Finalizat</string>
     <string name="edit_header_lock_description">Notiță ascunsă</string>
+    <string name="edit_note_hint_title">Titlu</string>
     <string name="empty"/>
     <string name="empty_folder_import_notes">Importați notițe</string>
     <string name="empty_folder_no_notes">Nicio notiță aici</string>

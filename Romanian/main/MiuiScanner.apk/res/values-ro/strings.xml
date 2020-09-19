@@ -63,6 +63,7 @@
     <string name="calories_logo_text">Suport AI furnizat de Health Hope</string>
     <string name="calories_request_interface_text">Suport AI</string>
     <string name="camera_error_title">Eroare de cameră</string>
+    <string name="can_only_be_English_Chinese">Limba pentru traducerea online poate fi doar Engleză și Chineză Simplificată</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_pdf_save">S-a anulat salvarea pdf-ului</string>
     <string name="carsHome_title">Mașină</string>
@@ -116,6 +117,7 @@
     <string name="crop_title_study">Decupați fotografia</string>
     <string name="crop_title_translation">Selectați textul de tradus</string>
     <string name="cropping">Se decupează…</string>
+    <string name="current_word_is_locked">Cuvântul curent este blocat</string>
     <string name="delete">Ștergeți</string>
     <string name="document_color_picture">Color</string>
     <string name="document_color_picture_tip">Convertire la color…</string>
@@ -190,12 +192,12 @@
     <string name="function">Caracteristici</string>
     <string name="general_error">Nu s-a putut recunoaște</string>
     <string name="general_feedback">Raportați rezultatele eronate</string>
-    <string name="general_location">Funcția de identificare a magazinului trebuie să obțină informații despre locație pentru autorizare</string>
+    <string name="general_location">Permiteți aplicației Scaner să vă acceseze locația pentru a obține servicii bazate pe locație</string>
     <string name="general_location_dialog">Unele caracteristici ale recunoașterii obiectelor sunt furnizate de Dianping. Dacă doriți să recunoașteți obiecte din magazine, Dianping trebuie să utilizeze fotografiile realizate în timp ce utilizați această caracteristică împreună cu informațiile despre locația lor pentru a vă oferi rezultatele relevante.</string>
     <string name="general_location_prompt">Acces la locație</string>
-    <string name="general_no">Nicio informație despre element găsită</string>
-    <string name="general_no_found">Produse similare recomandate dvs.</string>
-    <string name="general_plant">Poate căutați asta:</string>
+    <string name="general_no">Nu s-a găsit niciun rezultat</string>
+    <string name="general_no_found">Aruncați o privire peste aceste produse</string>
+    <string name="general_plant">Este posibil să căutați asta:</string>
     <string name="general_recognized">"Rezultat: "</string>
     <string name="general_title">Faceți o fotografie a unui obiect pe care doriți să-l recunoașteți</string>
     <string name="got_it">Am înțeles</string>
@@ -203,6 +205,7 @@
     <string name="grayscale">Scară tonuri de gri</string>
     <string name="history">Istoric</string>
     <string name="history_empty">Niciun element aici încă</string>
+    <string name="hold_down">Apăsați și mențineți apăsat pentru a copia cuvântul</string>
     <string name="if_open_result">Afișează rezultatul scanării când reveniți în aplicație</string>
     <string name="if_to_open_milogo_scanning">Recunoaște logo-ul Xiaomi</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
@@ -229,8 +232,16 @@
     <string name="language_entry_japanese">Japoneză</string>
     <string name="language_entry_korean">Coreană</string>
     <string name="language_entry_spanish">Spaniolă</string>
+    <string name="local_ocr_recognition">Recunoaștere OCR locală</string>
+    <string name="local_ocr_recognition_str">S-a comutat la traducerea offline</string>
     <string name="logistics">Livrare expres</string>
     <string name="low_version_tip">Actualizați MIUI la cea mai recentă versiune pentru a utiliza aplicația Scaner.</string>
+    <string name="mihome_goto_install">Instalați</string>
+    <string name="mihome_goto_update">Actualizați</string>
+    <string name="mihome_install_message">Instalați și conectați-vă în Aplicația Mi Home mai întâi.</string>
+    <string name="mihome_install_title">Instalați Mi Home</string>
+    <string name="mihome_update_message">Actualizați Mi Home la ultima versiune și încercați din nou.</string>
+    <string name="mihome_update_title">Actualizați Mi Home</string>
     <string name="mipayin_dialog_more">Mai multe</string>
     <string name="mipayin_dialog_title">Deschideți cu</string>
     <string name="miracast_connect">Proiectați</string>
@@ -276,9 +287,14 @@
     <string name="not_set">Nesetat</string>
     <string name="note">Remarcă:</string>
     <string name="now_state">"Stare curentă: "</string>
+    <string name="offline_translation">Traducere offline</string>
     <string name="once">Doar o dată</string>
+    <string name="online_ocr_recognition">Recunoaștere OCR online</string>
+    <string name="online_ocr_recognition_str">S-a comutat deja la traducerea online</string>
+    <string name="online_translation">Traducere online</string>
     <string name="open_url">Accesați URL-ul</string>
     <string name="original_image">Originală</string>
+    <string name="page_does_not_exist">Pagina nu există; nu se poate omite</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pay_no_tip">"Nu arăta din nou"</string>
     <string name="pay_save_this_choose">Reține alegerea mea</string>
@@ -317,7 +333,8 @@
     <string name="qureyGoods">Căutați produse</string>
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
-    <string name="rename_the_file">Redenumiți fișierul</string>
+    <string name="release_lock">Eliberați blocarea</string>
+    <string name="release_locked_word">Eliberați cuvântul blocat</string>
     <string name="request_server_failed">Nu s-a putut conecta la server</string>
     <string name="result_of_identifying_text_is_empty">Nu s-a putut recunoaște textul</string>
     <string name="save">Salvați</string>
@@ -372,6 +389,7 @@
     <string name="suggested_submission_success">Feedback trimis cu succes</string>
     <string name="switch_open">Activați</string>
     <string name="take_a_picture">Cameră</string>
+    <string name="take_the_word">Apăsați lung butonul de mai jos pentru a copia cuvântul</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="text_to_be_translated_cannot_be_empty">Aplicația Scaner are nevoie de un text de tradus</string>
@@ -426,12 +444,15 @@
     <string name="welcome_to_thesweepversion">Bine ați venit în aplicația Scaner Beta!</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Hotspotul Wi-Fi \"%1$s\" există deja. Ștergeți-l și încercați din nou.</string>
+    <string name="wifi_low_version_prompt">solicitare wi-fi</string>
     <string name="wifi_open_fail">"Nu se poate activa Wi-Fi-ul"</string>
     <string name="wifi_psd_toolong">Parola este prea lungă. Introduceți-o manual.</string>
     <string name="wifi_pwd">Parola:</string>
     <string name="wifi_security">Securitate:</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Aplicarea dvs va fi trimisă spre revizuire în curând.)"</string>
+    <string name="word_to_be_recognized_is_aligned_with_cross">Cuvântul care trebuie recunoscut este aliniat cu cruce</string>
+    <string name="word_translation">Traducere cuvinte</string>
     <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
     <string name="xiaoai_dialog">"Încercați să spuneți Mi AI ceea ce
 doriți să scanați"</string>
