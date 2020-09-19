@@ -272,6 +272,8 @@ Pentru a comuta între servicii, glisați în sus cu 2 degete și mențineți."<
     <string name="activating">Activare…</string>
     <string name="active_device_admin_msg">Administrator dispozitiv</string>
     <string name="active_input_method_subtypes">Metode de introducere active</string>
+    <string name="activity_check_context">Dispozitivul dvs. încearcă să se conecteze la internet acum. Acest proces poate dura mai mult decât vă așteptați dacă utilizați datele mobile. Puteți să vă întoarceți și să vă conectați la o rețea Wi-Fi în schimb sau puteți continua să așteptați până la stabilirea conexiunii de date mobile.</string>
+    <string name="activity_check_title">Se conectează la internet</string>
     <string name="activity_not_found">Aplicaţia nu este instalată pe telefonul dvs.</string>
     <string name="activity_picker_label">Alegeţi activitatea</string>
     <string name="activity_title_power_manager">Economisire acumulator;Economisiți acumulatorul</string>
@@ -2195,6 +2197,12 @@ Pentru a încerca să remediați această problemă, puteți opri %1$s și preve
     <string name="dialog_background_check_ok">Dezactivați</string>
     <string name="dialog_background_check_title">Dezactivați utilizarea în fundal și opriți aplicația?</string>
     <string name="dialog_backup_title">Actualizați copiile de rezervă înainte de a efectua revenirea la setările din fabrică?</string>
+    <string name="dialog_check_button_negative">Încercați din nou</string>
+    <string name="dialog_check_button_positive">Conectați-vă la Wi-Fi</string>
+    <string name="dialog_check_context">"Dispozitivul dvs. nu se poate conecta la internet acum.
+1. Apăsați \"Conectați-vă la Wi-Fi\" pentru a selecta una din rețelele disponibile.
+2. Dacă doriți să utilizați datele mobile, apăsați \"Încercați din nou\" sau scoateți și introduceți cartela SIM."</string>
+    <string name="dialog_check_title">Nu se poate conecta la internet</string>
     <string name="dialog_chose_item">Selectați un element de afișat</string>
     <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
     <string name="dialog_location_message">"Telefonul dvs nu poate gestiona acumulatorul în mod normal deoarece %1$s tot solicită locația când nu utilizați aplicația.
@@ -2227,6 +2235,10 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dialog_title_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
+    <string name="dialog_wifi_button_negative">Nu</string>
+    <string name="dialog_wifi_button_positive">Da</string>
+    <string name="dialog_wifi_context">Trebuie să vă conectați la internet pentru a vă configura dispozitivul. Dacă nu vă conectați la Wi-Fi, este posibil să se utilizeze datele mobile. Utilizarea acestora ar putea genera taxe suplimentare de la operator. Utilizați oricum datele mobile?</string>
+    <string name="dialog_wifi_title">Se utilizează datele mobile</string>
     <string name="dialog_yes">Da</string>
     <string name="direct_boot_unaware_dialog_message">"Notă: După o repornire, această aplicație nu poate porni până nu deblocați telefonul"</string>
     <string name="disableNetwork">dezactivați rețeaua</string>
@@ -2822,6 +2834,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fold_title">Reguli pentru notificările grupate</string>
     <string name="font_size_exhuge">Imens</string>
     <string name="font_size_huge">Imens</string>
+    <string name="font_size_kddi">Mediu</string>
     <string name="font_size_large">Mai mare</string>
     <string name="font_size_make_larger_desc">Măriți</string>
     <string name="font_size_make_smaller_desc">Micșorați</string>
