@@ -2483,7 +2483,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_settings_number">Procent</string>
     <string name="power_settings_saver_title">Reducere consum de energie</string>
     <string name="power_settings_shape">Grafic</string>
-    <string name="power_settings_title">Performanţă sistem</string>
     <string name="power_settings_top">Bară în partea de sus a ecranului</string>
     <string name="power_superpower_title_systemui_highpower">Timp rămas</string>
     <string name="power_superpower_title_systemui_lowpower">Conectați încărcătorul</string>

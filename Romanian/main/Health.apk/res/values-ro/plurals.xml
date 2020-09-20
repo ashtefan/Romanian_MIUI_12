@@ -49,6 +49,14 @@
         <item quantity="other">%1$d zile</item>
         <item quantity="one">%1$d zi</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Durata ciclului: %1$d zile</item>
+        <item quantity="one">Durata ciclului: %1$d zi</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Durata ciclului: %1$d zile</item>
+        <item quantity="one">Durata ciclului: %1$d zi</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Au fost selectate %1$d elemente</item>
         <item quantity="one">A fost selectat %1$d element</item>
@@ -93,6 +101,10 @@
         <item quantity="other">%1$d pași</item>
         <item quantity="one">%1$d pas</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cicluri</item>
+        <item quantity="one">%1$d ciclu</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
@@ -127,6 +139,10 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Este posibil ca ciclul să înceapă în %1$d zile</item>
+        <item quantity="one">Este posibil ca ciclul să înceapă în %1$d zi</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Perioadă de %1$d zile</item>
@@ -243,6 +259,10 @@
     <plurals name="unit_days">
         <item quantity="other">" zile"</item>
         <item quantity="one">" zi"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cicluri"</item>
+        <item quantity="one">" ciclu"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" ori"</item>
