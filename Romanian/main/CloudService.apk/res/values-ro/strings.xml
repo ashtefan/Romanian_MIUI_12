@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -144,14 +144,14 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabled_title">Localizare dispozitiv dezactivată</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
-    <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF&gt;%s&lt;/font&gt; pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări."</string>
+    <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF>%s&lt;/font> pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Verificați conexiunea de date și încercați din nou.</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
-    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politica noastră de Confidențialitate&lt;/a&gt;&lt;/u&gt;. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
+    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu <a href="app://com.miui.cloudservice.gdpr.license"><u>Politica noastră de Confidențialitate</u></a>. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Politica de Confidențialitate</string>
     <string name="find_device_notice_p1">Accesaţi</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
@@ -171,7 +171,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
-    <string name="forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="forget_password"><u>Am uitat parola</u></string>
     <string name="help_and_feedback">Ajutor și feedback</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
@@ -306,8 +306,8 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_alert_title">Rețineți parola</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
     <string name="micloud_find_device_guide_content">"Când schimbați cartela SIM, un mesaj SMS va fi trimis în mod automat pentru reactivarea acestei caracteristici!"</string>
-    <string name="micloud_find_device_guide_desc_pad">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;</string>
-    <string name="micloud_find_device_guide_desc_phone">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Vedeți secțiunea Ajutor]&lt;/a&gt;</string>
+    <string name="micloud_find_device_guide_desc_pad">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Vedeți secțiunea Ajutor]&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">Dacă pierdeți telefonul, conectați-vă la &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> de pe orice alt dispozitiv pentru a-l localiza, bloca sau șterge datele dispozitivului de la distanță. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Vedeți secțiunea Ajutor]&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">Puteți activa Localizarea dispozitivului în Contul Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verificați conexiunea la rețea și reîncercați.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Conexiunea a expirat. Încercați din nou mai târziu.</string>
@@ -322,7 +322,7 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
-    <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; utilizând contul dvs. Mi pentru a localiza dispozitivul, pentru a-l marca drept pierdut sau pentru a șterge datele acestuia de la distanță. Vedeți detalii &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
+    <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> utilizând contul dvs. Mi pentru a localiza dispozitivul, pentru a-l marca drept pierdut sau pentru a șterge datele acestuia de la distanță. Vedeți detalii &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>here&lt;/a>.</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
@@ -442,7 +442,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_privacy_cloud_off">Sincronizarea este oprită</string>
     <string name="micloud_privacy_cloud_sync">Activați serviciile Xiaomi Cloud</string>
     <string name="micloud_privacy_explanation">Acordați permisiunea de activare a serviciilor Xiaomi Cloud</string>
-    <string name="micloud_privacy_licence_agreed">Sunt de acord cu &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Politica de Confidențialitate Xiaomi Cloud&lt;/u&gt;&lt;/a&gt;.</string>
+    <string name="micloud_privacy_licence_agreed">Sunt de acord cu &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Politica de Confidențialitate Xiaomi Cloud&lt;/u>&lt;/a>.</string>
     <string name="micloud_privacy_licence_privacy_policy">Politica de Confidențialitate</string>
     <string name="micloud_privacy_more">Mai multe</string>
     <string name="micloud_privacy_progress_content">Se acordă autorizarea…</string>
@@ -789,5 +789,5 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="wipe_secret_photo_dialog_title">"Fotografiile ascunse nu sunt sincronizate"</string>
     <string name="xiaomi_cloud_service">Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Toate lucrurile importante într-un singur loc</string>
-    <string name="xmpp_server_addr"/>
+    <string name="xmpp_server_addr" />
 </resources>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept_and_continue">Acceptați și continuați</string>
     <string name="access_links">Link-uri de acces</string>
@@ -107,7 +107,7 @@
     <string name="progress_set_owner">Configurare deținător dispozitiv…</string>
   <string name="provisioning">Provisioning</string>
     <string name="provisioning_error_title">Ups!</string>
-    <string name="read_more_delete_profile">Înainte de a continua, &lt;a href="#read_this_link"&gt;citiți aici&lt;/a&gt;.</string>
+    <string name="read_more_delete_profile">Înainte de a continua, <a href="#read_this_link">citiți aici</a>.</string>
     <string name="read_terms">Citiți termenii</string>
     <string name="reset">Resetați</string>
   <string name="section_content">%1$s section content: %2$s</string>

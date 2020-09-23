@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -219,7 +219,7 @@
     <string name="installing">Instalare…</string>
     <string name="insufficient_space">Nu există spațiu de stocare suficient</string>
     <string name="invalid_address">Calea fișierului introdusă este greşită</string>
-    <string name="jump_rank_hint">"Aruncați o privire la topul descărcărilor de astăzi &gt;"</string>
+    <string name="jump_rank_hint">Aruncați o privire la topul descărcărilor de astăzi ></string>
     <string name="keep_queued_download">Păstraţi</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Puteți continua vizionarea mâine</string>
@@ -241,7 +241,7 @@
     <string name="menu_vip_unbind">Eliminați asocierea</string>
     <string name="mi_money">Credite Mi</string>
     <string name="mi_money_">Credite Mi</string>
-    <string name="missing_title">&lt;Necunoscut&gt;</string>
+    <string name="missing_title">&lt;Necunoscut></string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -419,7 +419,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="sniff_terms_msg_bold_new">Termenii de utilizare a serviciului</string>
     <string name="sniff_terms_reject">Revocare</string>
     <string name="sniff_terms_title">Atenție</string>
-    <string name="sniff_text_sniff_next_page">Continuați &gt;</string>
+    <string name="sniff_text_sniff_next_page">Continuați ></string>
     <string name="sniff_vip_tip_speedup">Puteți încerca o descărcare la viteză crescută în mod gratuit</string>
     <string name="sniff_vip_tip_vip">Xunlei vă poate asigura o viteză de descărcare crescută</string>
     <string name="speed_entrance">Testați viteza Wi-Fi</string>

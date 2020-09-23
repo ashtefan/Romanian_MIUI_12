@@ -7409,7 +7409,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="use_otg_file_transfers_summary">Încărcare mai lentă 500mA și transfer de fișiere</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Recomandare personalizată Reclame</string>
-    <string name="use_personalized_ad_service_summary">Când caracteristica de recomandare este dezactivată, veți vedea la fel de multe reclame ca atunci când este activată, dar nu vor mai fi bazate pe datele comportamentului sau informațiile personale.</string>
+    <string name="use_personalized_ad_service_summary">Atunci când caracteristica de recomandare personalizată a reclamelor este dezactivată, veți vedea la fel de multe reclame ca și atunci când este activată. Reclamele nu vor mai fi relevante, deoarece nu vor fi bazate pe preferințele personale.</string>
     <string name="use_privacy_password_immediate">Utilizați</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizaţi limba sistemului</string>
     <string name="use_this_wlan">Stai conectat</string>

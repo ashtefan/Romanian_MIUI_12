@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Manager descărcare</string>
     <string name="auto_restart_under_wifi">Acest fişier se va descărca automat prin Wi-Fi</string>
@@ -36,7 +36,7 @@
     <string name="download_queued">În coadă</string>
     <string name="download_remaining">Timp rămas: %s</string>
     <string name="download_running">În desfășurare</string>
-    <string name="download_unknown_title">Fără titlu</string>
+    <string name="download_unknown_title">&lt;Fără titlu></string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
     <string name="insufficient_space">"Nu este suficient spațiu în memoria internă a dispozitivului"</string>
     <string name="mobile_recommended_title">Utilizare date mobile</string>

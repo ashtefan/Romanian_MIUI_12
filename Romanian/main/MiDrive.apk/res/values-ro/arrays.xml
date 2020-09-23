@@ -40,6 +40,6 @@
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
         <item>Pentru conectare utilizând Contul Mi</item>
         <item>Pentru previzualizarea, încărcarea, descărcarea și sincronizarea fișierelor</item>
-        <item>用于实现检查更新功能</item>
+        <item>Pentru detectarea actualizărilor disponibile</item>
     </string-array>
 </resources>

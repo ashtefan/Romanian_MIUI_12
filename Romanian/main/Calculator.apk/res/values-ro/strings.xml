@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -110,7 +110,7 @@
     <string name="convertion_unit_weight">Convertor unități de masă</string>
     <string name="cos">cos</string>
     <string name="cosDesc">cosinus</string>
-    <string name="currency_dialog_privacy_content">&lt;Data&gt;Convertorul valutar trebuie să se conecteze la internet pentru a obține cele mai recente rate de schimb valutar. Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această caracteristică.&lt;/Data&gt;</string>
+    <string name="currency_dialog_privacy_content"><Data>Convertorul valutar trebuie să se conecteze la internet pentru a obține cele mai recente rate de schimb valutar. Citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza această caracteristică.</Data></string>
     <string name="currency_update_connect_to_get_data">Ratele de schimb sunt furnizate de către Webull. Conectați-vă la rețea pentru a obține cele mai recente informații.</string>
     <string name="currency_update_support">Ratele de schimb sunt furnizate de către Webull.</string>
     <string name="currency_update_time_format">Ratele de schimb sunt furnizate de Webull (%s)</string>

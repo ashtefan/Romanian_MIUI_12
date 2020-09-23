@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -340,9 +340,9 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="data_left">Disponibil date</string>
     <string name="data_unit_gb">GB</string>
     <string name="data_unit_mb">MB</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Chinezesc Tradițional</string>
     <string name="date_time_set">Setaţi</string>
     <string name="date_year_toggle">Indicaţi anul</string>
@@ -505,9 +505,9 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="email_other">Trimiteţi un e-mail</string>
     <string name="email_work">Trimiteţi un e-mail la adresa de e-mail de serviciu</string>
     <string name="emergency_number_label">Număr de urgenţă</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="emptyGroup">Niciun contact în acest grup</string>
-    <string name="empty_divider_title"/>
+    <string name="empty_divider_title" />
     <string name="enter_contact_name">Introduceţi numele contactului</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -853,9 +853,20 @@ Motivul: \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_title">Actualizare fotografie de profil</string>
     <string name="missing_name">(Fără nume)</string>
     <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
+    <string name="miuix_appcompat_confirm_description">Confirmați</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -905,7 +916,7 @@ Motivul: \"%s\""</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
-    <string name="more_call_logs">Ascultați toate înregistrările apelurilor accesând &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
+    <string name="more_call_logs">Ascultați toate înregistrările apelurilor accesând <a href="https://i.mi.com">i.mi.com</a></string>
     <string name="morning">Dimineață</string>
     <string name="move_and_resize">Mutaţi şi redimensionaţi</string>
     <string name="multi_number_menu_call">Apel</string>
@@ -1374,9 +1385,9 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="t9_search_empty_send_sms">Trimiteți un mesaj</string>
     <string name="t9_search_empty_video_call">Apel video</string>
     <string name="t9_search_guide_pinyin_title1">Căutați rapid contactele introducând literele de început</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduceți %d și %d pentru a căuta &lt;font fgcolor=""&gt;X&lt;/font&gt;enia &lt;font fgcolor=""&gt;H&lt;/font&gt;othazie</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduceți %d și %d pentru a căuta <font fgcolor="">X</font>enia <font fgcolor="">H</font>othazie</string>
     <string name="t9_search_guide_zhuyin_title1">Introduceți cifre pentru a găsi contacte</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduceți %d și %d pentru a căuta &lt;font fgcolor=""&gt;J&lt;/font&gt;ana &lt;font fgcolor=""&gt;M&lt;/font&gt;urărescu</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduceți %d și %d pentru a căuta <font fgcolor="">J</font>ana <font fgcolor="">M</font>urărescu</string>
     <string name="take_new_photo">Realizați o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>

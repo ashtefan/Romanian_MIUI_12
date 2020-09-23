@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="RF_DalvikCacheLeftovers">Reziduuri de sisteme software (Dalvik-Cache)</string>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
@@ -656,9 +656,9 @@
     <string name="recommended">Recomandate</string>
     <string name="remain_item_name_n7p"/>
     <string name="remain_item_name_pamp"/>
-    <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.&lt;/Data&gt;</string>
-    <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Puteți goli &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din memoria cache generate de QQ&lt;/Data&gt;</string>
-    <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din cache-ul WeChat. Eliberați mai mult spațiu.&lt;/Data&gt;</string>
+    <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.</Data></string>
+    <string name="resutl_function_qq_clean_summary"><Data>Puteți goli &lt;font color=#ff0000 >%1$s&lt;/font> din memoria cache generate de QQ</Data></string>
+    <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> din cache-ul WeChat. Eliberați mai mult spațiu.</Data></string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
     <string name="scanning">Scanare…</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -56,8 +56,8 @@
     <string name="dialog_miplay_permission_positive">Setări</string>
     <string name="dialog_miplay_permission_title">Sunt necesare unele permisiuni</string>
     <string name="dialog_nfc_cast_wifi_off">Activați Wi-Fi pentru a putea să proiectați utilizând NFC. Activați acum?</string>
-    <string name="dialog_no_device_message">&lt;Data&gt;1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Ajutor\"&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
-    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Ajutor\"&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Proiectați fotografii, videoclipuri sau muzică</string>
     <string name="dialog_open_wifi_bt">Activați</string>
@@ -172,7 +172,7 @@ Conectați atât telefonul cât și monitorul extern (de ex. televizorul) la ace
     <string name="help_page_text_15">Funcția Miracast pe diverse dispozitive</string>
     <string name="help_page_text_16">Mi TV/Proiector Mi</string>
     <string name="help_page_text_17">"Telefoanele Xiaomi se pot conecta în mod direct la majoritatea televizoarelor Xiaomi cu Bluetooth, în loc de a deschide manual funcția Miracast.
-Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Meniu] de pe telecomandă pentru a selecta meniul pe ecranul televizorului. Aplicații &gt; Ecran Wireless &gt; Millet/Android Miracast."</string>
+Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Meniu] de pe telecomandă pentru a selecta meniul pe ecranul televizorului. Aplicații > Ecran Wireless > Millet/Android Miracast."</string>
     <string name="help_page_text_17_1">Numărul de telefon pentru suport al Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">TV Samsung</string>
     <string name="help_page_text_19">Mai întâi, asigurați-vă că funcția Miracast este suportată de către dispozitivul dvs. La unele modele, puteți apăsa butonul [SURSĂ] de pe telecomandă și apoi selectați \"Oglindire Ecran\". Această funcție este activată în mod implicit pe multe modele.</string>
@@ -216,7 +216,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
 4. În cazul în care întâmpinați probleme, le puteți raporta prin intermediul aplicației \"Servicii și feedback\"."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
     <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
-  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
+    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
@@ -280,8 +280,8 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_agree">De acord</string>
-    <string name="privacy_detail">&lt;Data&gt;Această aplicație trebuie să se conecteze la internet și să colecteze date personale solicitate pentru a putea funcționa în mod normal. Pentru a înțelege pe deplin drepturile dvs. în calitate de utilizator precum și modul în care utilizăm aceste date, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="privacy_detail_extra">&lt;Data&gt;Unele caracteristici sunt furnizate de către un furnizor de servicii terță parte HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de confidențialitate HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Declarația legală HappyCast&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="privacy_detail"><Data>Această aplicație trebuie să se conecteze la internet și să colecteze date personale solicitate pentru a putea funcționa în mod normal. Pentru a înțelege pe deplin drepturile dvs. în calitate de utilizator precum și modul în care utilizăm aceste date, citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>.</Data></string>
+    <string name="privacy_detail_extra"><Data>Unele caracteristici sunt furnizate de către un furnizor de servicii terță parte HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &lt;a href=%1$s>Politica de Confidențialitate HappyCast&lt;/a> și &lt;a href=%2$s>Declarația legală HappyCast&lt;/a>.</Data></string>
     <string name="privacy_explain">"Bine ați venit în aplicația Proiectare! Aceasta vă permite să proiectați elementele de pe ecranul telefonului pe un monitor extern mai mare. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa în mod normal:"</string>
     <string name="privacy_negative">Ieșiți</string>
     <string name="privacy_permission_ble">Activarea și dezactivarea Bluetooth-ului</string>
@@ -299,11 +299,11 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="privacy_permission_wlan_desc">Pentru găsirea dispozitivelor disponibile din apropiere</string>
     <string name="privacy_permission_wlan_desc_china">Pentru găsirea dispozitivelor disponibile din apropiere</string>
     <string name="privacy_positive">De acord</string>
-    <string name="privacy_text_1">&lt;Data&gt;Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern.
-Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &amp;lt;a href=%2$s&amp;gt;Declarația Legală HappyCast&amp;lt;/a&amp;gt; și &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate HappyCast&amp;lt;/a&amp;gt;.
-Pentru a putea funcționa în mod normal, această aplicație trebuie să se conecteze la internet și necesită acordarea următoarelor permisiuni pentru a colecta informațiile personale:"&lt;/Data&gt;</string>
-    <string name="privacy_text_2">&lt;Data&gt;"Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în acest caz.
-Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție."&lt;/Data&gt;</string>
+    <string name="privacy_text_1"><Data>Bine ați venit în aplicația de Proiectare! Aceasta vă permite proiectarea elementelor din telefon pe un monitor extern.
+Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile relevante de confidențialitate. Unele caracteristici sunt furnizate de către un furnizor extern HappyCast. Înainte de a utiliza această caracteristică, citiți și acceptați &lt;a href=%2$s>Declarația legală HappyCast&lt;/a> și &lt;a href=%1$s>Politica de Confidențialitate HappyCast&lt;/a>.
+Pentru a putea funcționa în mod normal, această aplicație trebuie să se conecteze la internet și necesită acordarea următoarelor permisiuni pentru a colecta informațiile personale:"</Data></string>
+    <string name="privacy_text_2"><Data>"Dacă nu acceptați să acordați permisiunile sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în acest caz.
+Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza această funcție."</Data></string>
     <string name="privacy_text_pemission">"　　•Accesarea și salvarea imaginilor pe dispozitiv pentru a le putea proiecta pe un monitor extern
 　　•Înregistrarea apelurilor și audio pentru a le putea proiecta pe dispozitive externe
 　　•Acces la numărul de telefon, IMEI și IMSI pentru a vă identifica dispozitivul

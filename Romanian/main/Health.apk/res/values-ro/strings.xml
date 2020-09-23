@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -256,9 +256,9 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Tradițional Chinez</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Zi</string>
@@ -332,7 +332,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_feedback_title">Feedback</string>
     <string name="dialog_health_applicator">Sănătate Xiaomi furnizează în prezent servicii doar persoanelor adulte.</string>
     <string name="dialog_juveniles_details">Conform Politicii noastre de Confidențialitate, vârsta minimă pentru a putea utiliza acest produs este de 18 ani.</string>
-    <string name="dialog_juveniles_link">Conform &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Politicii noastre de Confidențialitate&lt;/a&gt;&lt;/font&gt;, vârsta minimă pentru a putea utiliza acest produs este de 18 ani.</string>
+    <string name="dialog_juveniles_link">Conform &lt;font color=\"#FE6D67\">&lt;a href=%1$s>Politicii noastre de Confidențialitate&lt;/a>&lt;/font>, vârsta minimă pentru a putea utiliza acest produs este de 18 ani.</string>
     <string name="dialog_keep">Păstrați</string>
     <string name="dialog_known">Am înțeles</string>
     <string name="dialog_menstruation_purpose">Bine ați venit în aplicația Sănătate Xiaomi! \"Menstruația\" vă permite să înregistrați ciclurile, să determinați zilele estimate pentru ciclurile următoare și să primiți memento-uri. Toate datele corelate vor fi păstrate local în telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
@@ -378,7 +378,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="edit_sleep_record_button">Editați</string>
     <string name="elliptical_machine">Eliptică</string>
     <string name="emergency_contact">Contact de urgență</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_data">-</string>
     <string name="enable">Pornit</string>
     <string name="enable_go_now">Activați</string>
@@ -398,11 +398,11 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="exercise_correct">Corectați</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Sursa de date selectată (%1$s) nu furnizează informații despre caloriile arse.
-Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string>
+Puteți selecta o sursă de date diferită în Mai multe > Surse de date."</string>
     <string name="exercise_detail_no_exercise_hint">"Sursa de date selectată (%1$s) nu furnizează informații despre durata exercițiilor.
-Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string>
+Puteți selecta o sursă de date diferită în Mai multe >Surse de date."</string>
     <string name="exercise_detail_no_steps_hint">"Sursa de date selectată (%1$s) nu furnizează informații despre numărul pașilor.
-Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string>
+Puteți selecta o sursă de date diferită în Mai multe > Surse de date."</string>
     <string name="exercise_duration">Durata exercițiilor</string>
     <string name="exercise_duration_consume">Durata: %1$s | Arse: %2$s</string>
     <string name="exercise_fast_description">%1$s(%2$s)</string>
@@ -422,7 +422,7 @@ Puteți selecta o sursă de date diferită în Mai multe>Surse de date."</string
     <string name="exercise_notification_meet_title">Pași făcuți astăzi: %d. Ați atins ținta!</string>
     <string name="exercise_notification_no_meet_title">Pași făcuți astăzi: %d. Continuați pentru a atinge ținta!</string>
     <string name="exercise_question_answer_one">"1. Unele modele de dispozitive nu sunt echipate cu senzori cu consum redus de energie. Aplicația Sănătate Xiaomi nu urmărește activitățile pentru a economisi acumulatorul pe următoarele dispozitive: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse de date în aplicația Sănătate Xiaomi>Meniu>Surse de date>Adăugare surse de date."</string>
+Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse de date în aplicația Sănătate Xiaomi > Meniu > Surse de date > Adăugare surse de date."</string>
     <string name="exercise_question_answer_two">2. Ocazional, senzorii de mișcare pot să nu pornească monitorizarea. Reporniți telefonul și verificați dacă monitorizarea pornește în mod obișnuit în asemenea cazuri.</string>
     <string name="exercise_question_title">De ce nu puteți vedea statisticile?</string>
     <string name="exercise_recog_confirm_ridding">Unde ați mers cu bicicleta între %1$s și %2$s?</string>
@@ -549,7 +549,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="goal_title">Păstrați-vă sănătatea</string>
     <string name="goto_setting_auto_start">Setări</string>
     <string name="group">Cicluri</string>
-    <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări>Servicii Cloud.</string>
+    <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări > Servicii Cloud.</string>
     <string name="guide_exit">Părăsiți Sănătate Xiaomi</string>
     <string name="guide_exit_description">Nu putem furniza servicii persoanelor care nu au împlinit 14 ani. Asigurați-vă că utilizați dispozitivul având acordul apărținătorului legal. Atingeți butonul de mai jos pentru a părăsi aplicația.</string>
     <string name="guide_exit_title">Puteți începe să utilizați aplicația Sănătate Xiaomi după ce împliniți 14 ani</string>

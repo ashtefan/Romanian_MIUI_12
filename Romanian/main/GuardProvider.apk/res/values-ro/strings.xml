@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AVL">AVL</string>
     <string name="Avast">Avast</string>
@@ -9,8 +9,8 @@
     <string name="Mi">Mi</string>
     <string name="Tencent">Tencent</string>
     <string name="app_name">Componente de securitate MIUI</string>
-    <string name="avast_dialog_cloudscan"/>
-    <string name="avast_dialog_dbupdate"/>
+    <string name="avast_dialog_cloudscan" />
+    <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">"Această caracteristică criptează și încarcă ID-ul telefonului dumneavoastră pe serverele Avast(%s)."</string>
     <string name="avast_dialog_policy">Politica de Confidențialitate</string>
     <string name="avast_dialog_title">"Politica de Confidențialitate Avast"</string>
@@ -29,8 +29,8 @@
     <string name="avast_virus_type_trjan_description">"Acest virus este de tip troian. Este conceput să preia în mod fraudulos controlul neautorizat de la distanță al sistemului. Troian-ii nu au în mod normal capacitatea de a se replica, precum virușii dar pot permite instalarea altor programe rău-intenționate ce pot fura datele utilizatorului sau genera alte activități nedorite."</string>
     <string name="avast_virus_type_unknown_description">Tip de infecție necunoscut.</string>
     <string name="avast_virus_type_worm_description">Virusul este de tip worm. Este o aplicație de sine stătătoare care se reproduce pentru a fi trimis către alte dispozitive. Se folosește de caracteristicile de transfer de fișiere sau informații(cum ar fi rețeaua Wi-Fi), el migrează fără a fi necesară nicio acțiune din partea utilizatorului. Virușii de tip Worm cauzează aproape întotdeauna cel puțin daune asupra rețelei.</string>
-    <string name="avl_dialog_cloudscan"/>
-    <string name="avl_dialog_dbupdate"/>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele AVL (%s).</string>
     <string name="avl_dialog_policy">Politica de confidențialitate</string>
     <string name="avl_dialog_title">Politica de confidențialitate AVL</string>

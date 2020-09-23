@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
@@ -426,6 +426,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="rename_success">Redenumit cu succes</string>
     <string name="request_permission_confirm">Am înțeles</string>
     <string name="request_permission_content">Mi Drive trebuie să poată accesa conturile de pe acest dispozitiv pentru a vă putea utiliza contul Mi pentru conectare. Permisiunea de accesare și salvare a fișierelor pe dispozitiv va permite Mi Drive să poată previzualiza, încărca și sincroniza elementele.</string>
+    <string name="request_permission_content_with_phone_state">Pentru a vă putea conecta la contul Mi, previzualiza, încărca, descărca și sincroniza fișiere precum și pentru a căuta actualizări, Mi Drive necesită permisiunile de accesare a conturilor, fotografiilor, a fișierelor și a IMEI-ului.</string>
     <string name="request_permission_title">Permisiuni necesare</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailurile de verificare nu au ajuns în dosarul Spam.</string>

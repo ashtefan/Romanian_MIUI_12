@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
@@ -209,7 +209,7 @@
     <string name="clipboard">Clipboard</string>
     <string name="close_ads_choice_no">Permiteţi</string>
     <string name="close_ads_choice_yes">Blocaţi</string>
-    <string name="close_ads_message">"Blocaţi conținutul de pe acest site? Puteți vizualiza site-urile pe care le-ați blocat în Setări > Avansat > Site-uri blocate."</string>
+    <string name="close_ads_message">Blocaţi conținutul de pe acest site? Puteți vizualiza site-urile pe care le-ați blocat în Setări > Avansat > Site-uri blocate.</string>
     <string name="close_ads_title">Blocaţi conținutul?</string>
     <string name="close_all_tab_alert_message">Închideţi toate filele deschise din browser?</string>
     <string name="close_all_tab_alert_title">Închideţi toate filele</string>
@@ -1319,7 +1319,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="small_video_no_more_date">Nu există date</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
-    <string name="snapshot_successed">Deschideți Semne de carte &amp; Istoric -&gt;LOCAL pentru a vedea pagina</string>
+    <string name="snapshot_successed">Deschideți Semne de carte > Istoric ->LOCAL pentru a vedea pagina</string>
     <string name="soft_toast_see_view">Vedeți</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>

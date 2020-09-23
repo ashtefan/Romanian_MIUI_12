@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ErrorTooManyRequests">Există prea multe solicitări în curs de procesare. Încercaţi din nou mai târziu.</string>
     <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
@@ -127,12 +127,12 @@
     <string name="permlab_bluetoothWhitelist">Acces la dispozitivele Bluetooth din lista albă.</string>
     <string name="permlab_handoverStatus">Primire informații despre preluarea transferului prin BT.</string>
     <string name="phonebook_advance_feature_support">Caracteristică avansată pentru agendă suportată</string>
-    <string name="process"/>
+    <string name="process" />
     <string name="remote_pbap_version_change">Modificare versiune profil agendă de la distanță</string>
     <string name="remote_phonebook_feature_downgrade">Retrogradare caracteristică agendă de la distanță</string>
     <string name="repair_for_adv_phonebook_feature">Asociați din nou pentru Caracteristica Avansată a agendei</string>
     <string name="repair_for_phonebook_access_version_comp">Asociați din nou pentru Versiunea Compatibilitate a accesării agendei</string>
-    <string name="sharedUserId"/>
+    <string name="sharedUserId" />
     <string name="start_server">Porniţi serverul TCP</string>
     <string name="status_canceled">Transfer anulat de către utilizator.</string>
     <string name="status_connection_error">Conectare eşuată.</string>
@@ -156,6 +156,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Selectați mediul de ieșire implicit pentru a începe redarea audio pe acest dispozitiv din nou.</string>
     <string name="switch_audio_device_phone">Acest dispozitiv</string>
     <string name="switch_audio_device_phone_summary">Redați fișiere audio pe acest dispozitiv</string>
+    <string name="switch_audio_device_switch_hint">Puteți dezactiva notificările despre dispozitivele conectate din Setări > Bluetooth > Setări adiționale.</string>
     <string name="switch_audio_dialog_title">Selectați mediul de ieșire audio</string>
     <string name="switch_audio_notification_content">"Dispozitivul curent de ieșire audio: "</string>
     <string name="switch_audio_notification_title">Conectivitate dispozitiv</string>

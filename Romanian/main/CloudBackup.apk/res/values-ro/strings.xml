@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -204,7 +204,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="msg_alert_restore_error">"Nu s-au putut restaura elementele din Xiaomi Cloud. Încercați din nou."</string>
     <string name="msg_restore_start_with_metered_network">"Ecranul principal va fi repornit. Aplicațiile pentru care s-a făcut o copie de rezervă vor fi descărcate în mod automat. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s fișiere vor fi descărcate.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Dacă veți dori să restaurați aceste elemente, se vor folosi datele mobile pentru descărcare.</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; fișiere vor fi descărcate."</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> fișiere vor fi descărcate."</string>
     <string name="network_error">Conectați-vă la rețea</string>
     <string name="no_account">Neconectat la contul Mi.</string>
     <string name="no_backup">Nicio copie de rezervă în Xiaomi Cloud.</string>
@@ -242,7 +242,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="restore_app_order_retry_desc">"Nu s-a putut conecta la rețea.
 Verificați setările de rețea și încercați din nou."</string>
     <string name="restore_app_order_search_hint">Căutați elemente pentru a le seta prioritatea</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
     <string name="restore_app_order_search_installed">Aplicații pe acest dispozitiv</string>
     <string name="restore_app_order_search_normal">Aplicații cu prioritate normală</string>
     <string name="restore_app_order_search_prior">Aplicații cu prioritate ridicată</string>

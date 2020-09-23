@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_missing_private_key">Cheia privată este necesară pentru a instala un certificat</string>
     <string name="action_missing_user_cert">Certificatul este necesar pentru a instala o cheie privată</string>

@@ -29,6 +29,14 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="agree_desc">Acordați permisiunile necesare listate mai jos.</string>
     <string name="app_name">Partajare Mi</string>
+    <string name="blackshark">Black Shark</string>
+    <string name="blackshark_1">Black Shark</string>
+    <string name="blackshark_2">Black Shark 2</string>
+    <string name="blackshark_2_pro">Black Shark 2 Pro</string>
+    <string name="blackshark_3">Black Shark 3</string>
+    <string name="blackshark_3_pro">Black Shark 3 Pro</string>
+    <string name="blackshark_helo">Black Shark Helo</string>
+    <string name="blackshark_phone">Black Shark</string>
     <string name="btn_cancel">Renunțați</string>
     <string name="btn_cancel_send">Anulați acest transfer</string>
     <string name="btn_exit_send">Ieșiți</string>
@@ -52,6 +60,9 @@
     <string name="device_status_sending">Se trimite…</string>
     <string name="device_status_success">Trimis cu succes</string>
     <string name="device_status_waiting">Se așteaptă…</string>
+    <string name="device_type_blackshark_phone">Black Shark</string>
+    <string name="device_type_meizu_phone">Meizu</string>
+    <string name="device_type_oneplus_phone">OnePlus</string>
     <string name="device_type_oppo_phone">OPPO</string>
     <string name="device_type_pc">Computere</string>
     <string name="device_type_realme_phone">realme</string>
@@ -103,6 +114,8 @@
     <string name="hide">Ascundeți</string>
     <string name="i_know">Am înțeles</string>
     <string name="location_enabled">Partajarea Mi a activat serviciile de localizare pentru a găsi dispozitive în apropiere</string>
+    <string name="meizu">Meizu</string>
+    <string name="meizu_phone">Meizu</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -131,6 +144,8 @@ OPPO, vivo, realme și alte mărci vor fi în curând compatibile cu Partajarea 
     <string name="no_longer_receive">Blocați acest dispozitiv? Nu veți mai putea primi fișiere de la acesta.</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_channel_name">Notificări despre transferuri</string>
+    <string name="oneplus">OnePlus</string>
+    <string name="oneplus_phone">OnePlus</string>
     <string name="operate_too_fast">Prea repede! Așteptați până când operațiunile în curs sunt finalizate.</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
@@ -176,7 +191,7 @@ OPPO, vivo, realme și alte mărci vor fi în curând compatibile cu Partajarea 
     <string name="refuse_file">Refuzați</string>
     <string name="retry_task">Trimiteți din nou</string>
     <string name="scanning_device_tips">Se caută dispozitivele din apropiere… Asigurați-vă că celălalt dispozitiv este în modul detectabil.</string>
-    <string name="scanning_only_xiaomi_device">Puteți trimite acest articol numai pe un dispozitiv Xiaomi</string>
+    <string name="scanning_only_xiaomi_device">Acest element poate fi transferat doar către dispozitive Xiaomi sau Black Shark</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send_file">TRIMITEȚI FIȘIERUL</string>
     <string name="send_files_to">Trimiteți elementele către</string>
