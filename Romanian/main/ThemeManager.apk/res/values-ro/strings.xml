@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -407,7 +407,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="incall_show_apply_fail">"Nu s-a putut seta"</string>
     <string name="incall_show_apply_success">Aplicat cu succes.</string>
     <string name="incall_show_apply_success_without_ringtone">"Aplicat cu succes. Acest videoclip nu are sunet. Va fi utilizat sunetul de apel implicit.
-Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibrații &gt; Profil video."</string>
+Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații > Profil video."</string>
     <string name="incall_show_find_more">Aflați mai multe</string>
     <string name="incall_show_not_set">Niciun profil video</string>
     <string name="incall_show_remove">Eliminați profilul video</string>

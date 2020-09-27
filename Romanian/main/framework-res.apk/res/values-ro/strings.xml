@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="BaMmi">Blocarea apelurilor</string>
      <string name="CLIRDefaultOffNextCallOff">ID-ul apelantului este nerestricţionat în mod prestabilit. Apelul următor: nerestricţionat</string>
@@ -190,10 +190,10 @@
      <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
      <string name="autofill_save_accessibility_title">Salvați pentru Completare automată</string>
      <string name="autofill_save_no">Nu, mulțumesc</string>
-     <string name="autofill_save_title">Salvați în &lt;b&gt;%1$s&lt;/b&gt;?</string>
-     <string name="autofill_save_title_with_2types">Salvați %1$s și %2$s în &lt;b&gt;%3$s&lt;/b&gt;?</string>
-     <string name="autofill_save_title_with_3types">Salvați %1$s, %2$s, și %3$s în &lt;b&gt;%4$s&lt;/b&gt;?</string>
-     <string name="autofill_save_title_with_type">Salvați %1$s în &lt;b&gt;%2$s&lt;/b&gt;?</string>
+     <string name="autofill_save_title">Salvați în <b>%1$s</b>?</string>
+     <string name="autofill_save_title_with_2types">Salvați %1$s și %2$s în <b>%3$s</b>?</string>
+     <string name="autofill_save_title_with_3types">Salvați %1$s, %2$s, și %3$s în <b>%4$s</b>?</string>
+     <string name="autofill_save_title_with_type">Salvați %1$s în <b>%2$s</b>?</string>
      <string name="autofill_save_type_address">adresă</string>
      <string name="autofill_save_type_credit_card">card de credit</string>
      <string name="autofill_save_type_email_address">adresă de e-mail</string>
@@ -204,10 +204,10 @@
      <string name="autofill_state">Stat</string>
      <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
      <string name="autofill_this_form">Automat</string>
-     <string name="autofill_update_title">Actualizați în &lt;b&gt;%1$s&lt;/b&gt;?</string>
-     <string name="autofill_update_title_with_2types">Actualizați %1$s și %2$s în &lt;b&gt;%3$s&lt;/b&gt;?</string>
-     <string name="autofill_update_title_with_3types">Actualizați aceste elemente în &lt;b&gt;%4$s&lt;/b&gt;: %1$s, %2$s, și %3$s ?</string>
-     <string name="autofill_update_title_with_type">Actualizați %1$s în &lt;b&gt;%2$s&lt;/b&gt;?</string>
+     <string name="autofill_update_title">Actualizați în <b>%1$s</b>?</string>
+     <string name="autofill_update_title_with_2types">Actualizați %1$s și %2$s în <b>%3$s</b>?</string>
+     <string name="autofill_update_title_with_3types">Actualizați aceste elemente în <b>%4$s</b>: %1$s, %2$s, și %3$s ?</string>
+     <string name="autofill_update_title_with_type">Actualizați %1$s în <b>%2$s</b>?</string>
      <string name="autofill_update_yes">Actualizați</string>
      <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
      <string name="autofill_window_title">Completați automat cu %1$s</string>
@@ -722,7 +722,7 @@ Sigur doriți să părăsiți această pagină?"</string>
      <string name="kg_invalid_sim_pin_hint">Introduceţi un cod PIN format din 4 până la 8 cifre.</string>
      <string name="kg_invalid_sim_puk_hint">Codul PUK trebuie să aibă minimum 8 cifre.</string>
      <string name="kg_login_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?
-Acccesați"&lt;b&gt; google.com/accounts/recovery&lt;/b&gt;.</string>
+Acccesați "<b>google.com/accounts/recovery</b>.</string>
      <string name="kg_login_checking_password">Contul este verificat…</string>
      <string name="kg_login_instructions">Pentru a debloca, conectaţi-vă cu contul dvs. Google.</string>
      <string name="kg_login_invalid_input">Nume de utilizator sau parolă nevalide.</string>
@@ -763,7 +763,7 @@ Acccesați"&lt;b&gt; google.com/accounts/recovery&lt;/b&gt;.</string>
      <string name="launch_warning_title">Aplicaţie redirecţionată</string>
      <string name="leave_accessibility_shortcut_on">Utilizați Scurtătura</string>
      <string name="loading">Se încarcă…</string>
-     <string name="locale_replacement" />
+    <string name="locale_replacement" />
      <string name="locale_search_menu">Căutați</string>
      <string name="lock_pattern_view_aspect">pătrat</string>
      <string name="lock_to_app_description">"Fixarea ecranului afișează o singură imagine.
@@ -795,7 +795,7 @@ Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire si
      <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Acesta va fi acum resetat la setările prestabilite din fabrică.</string>
      <string name="lockscreen_forgot_pattern_button_text">Aţi uitat modelul?</string>
      <string name="lockscreen_glogin_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?
-Accesați"&lt;b&gt; google.com/accounts/recovery&lt;/b&gt;.</string>
+Accesați "<b>google.com/accounts/recovery</b>.</string>
      <string name="lockscreen_glogin_checking_password">Se verifică…</string>
      <string name="lockscreen_glogin_forgot_pattern">Deblocare cont</string>
      <string name="lockscreen_glogin_instructions">Pentru a debloca, conectaţi-vă folosind Contul Google.</string>
@@ -1222,7 +1222,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permdesc_writeHistoryBookmarks">Permite aplicaţiei să modifice istoricul Browserului sau marcajele stocate pe telefon. În acest fel, aplicaţia poate şterge sau modifica datele din Browser. Notă: această permisiune nu poate fi aplicată de browsere terţă parte sau de alte aplicaţii cu capacităţi de navigare pe web.</string>
      <string name="permdesc_writeSettings">Permite aplicaţiei să modifice datele din setările sistemului. Aplicaţiile rău intenţionate pot corupe configuraţia sistemului dvs.</string>
      <string name="permdesc_writeSyncSettings">Permite unei aplicaţii să modifice setările de sincronizare ale unui cont. De exemplu, cu această permisiune aplicaţia poate activa sincronizarea aplicaţiei Persoane cu un anumit cont.</string>
-    <string name="permgroupbackgroundrequest_location">Permite &lt;b&gt;%1$s&lt;/b&gt; să acceseze locația dispozitivului &lt;b&gt;permanent&lt;/b&gt;?</string>
+    <string name="permgroupbackgroundrequest_location">Permite &lt;b>%1$s&lt;/b> să acceseze locația dispozitivului &lt;b>permanent&lt;/b>?</string>
     <string name="permgroupbackgroundrequestdetail_location">În prezent aplicația poate accesa locația doar cât timp aceasta este în uz</string>
     <string name="permgroupdesc_activityRecognition">acceseze activitatea fizică</string>
      <string name="permgroupdesc_calendar">acceseze în mod  direct Calendarul şi evenimentele</string>
@@ -1246,17 +1246,17 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgrouplab_sensors">Senzori corporali</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Stocare</string>
-    <string name="permgrouprequest_activityRecognition">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze activitatea fizică?</string>
-     <string name="permgrouprequest_calendar">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze calendarul?</string>
-     <string name="permgrouprequest_calllog">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze jurnalele de apeluri?</string>
-     <string name="permgrouprequest_camera">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să facă fotografii și să înregistreze videoclipuri?</string>
-     <string name="permgrouprequest_contacts">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze agenda?</string>
-     <string name="permgrouprequest_location">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze locația acestui dispozitiv?</string>
-     <string name="permgrouprequest_microphone">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să înregistreze conținut audio?</string>
-     <string name="permgrouprequest_phone">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să inițieze și să gestioneze apeluri telefonice?</string>
-     <string name="permgrouprequest_sensors">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze datele de la senzori despre semnele dvs. vitale?</string>
-     <string name="permgrouprequest_sms">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să trimită și să vadă mesajele SMS?</string>
-     <string name="permgrouprequest_storage">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze fotografiile, conținutul media și fișierele de pe dispozitiv?</string>
+    <string name="permgrouprequest_activityRecognition">Permiteți &lt;b>%1$s&lt;/b> să vă acceseze activitatea fizică?</string>
+     <string name="permgrouprequest_calendar">Permiteți &lt;b>%1$s&lt;/b> să vă acceseze calendarul?</string>
+     <string name="permgrouprequest_calllog">Permiteți &lt;b>%1$s&lt;/b> să vă acceseze jurnalele de apeluri?</string>
+     <string name="permgrouprequest_camera">Permiteți &lt;b>%1$s&lt;/b> să facă fotografii și să înregistreze videoclipuri?</string>
+     <string name="permgrouprequest_contacts">Permiteți &lt;b>%1$s&lt;/b> să vă acceseze agenda?</string>
+     <string name="permgrouprequest_location">Permiteți &lt;b>%1$s&lt;/b> să acceseze locația acestui dispozitiv?</string>
+     <string name="permgrouprequest_microphone">Permiteți &lt;b>%1$s&lt;/b> să înregistreze conținut audio?</string>
+     <string name="permgrouprequest_phone">Permiteți &lt;b>%1$s&lt;/b> să inițieze și să gestioneze apeluri telefonice?</string>
+     <string name="permgrouprequest_sensors">Permiteți &lt;b>%1$s&lt;/b> să acceseze datele de la senzori despre semnele dvs. vitale?</string>
+     <string name="permgrouprequest_sms">Permiteți &lt;b>%1$s&lt;/b> să trimită și să vadă mesajele SMS?</string>
+     <string name="permgrouprequest_storage">Permiteți &lt;b>%1$s&lt;/b> să acceseze fotografiile, conținutul media și fișierele de pe dispozitiv?</string>
     <string name="permgrouprequestdetail_location">Aplicația va avea acces la locație doar atât timp cât o utilizați</string>
      <string name="permission">Permisiuni</string>
      <string name="permission_remember_choice">Memorizare</string>
@@ -1384,7 +1384,7 @@ pentru contul %s."</string>
      <string name="permlab_writeSettings">modificare setări de sistem</string>
      <string name="permlab_writeSyncSettings">activarea/dezactivarea sincronizării</string>
      <string name="perms_description_app">Furnizată de %1$s.</string>
-    <string name="perms_new_perm_prefix">&lt;font fgcolor="#ff33b5e5" size="12"&gt;NOU:&lt;/font&gt;</string>
+    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOU: </font></string>
      <string name="petabyteShort">PB</string>
      <string name="phoneTypeAssistant">Asistent</string>
      <string name="phoneTypeCallback">Apelare inversă</string>
@@ -1611,13 +1611,13 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="sms_control_title">Se trimit mesaje SMS</string>
      <string name="sms_control_yes">Permiteţi</string>
     <string name="sms_desc">Trimiteți un mesaj către numărul de telefon</string>
-    <string name="sms_premium_short_code_details">&lt;b&gt;Aceasta va genera costuri în contul dvs. mobil.&lt;/b&gt;</string>
+    <string name="sms_premium_short_code_details"><b>Aceasta va genera costuri în contul dvs. mobil.</b></string>
      <string name="sms_short_code_confirm_allow">Trimiteţi</string>
      <string name="sms_short_code_confirm_always_allow">Permiteţi întotdeauna</string>
      <string name="sms_short_code_confirm_deny">Anulaţi</string>
      <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> intenţionează să trimită un mesaj la &lt;b>%2$s&lt;/b>.</string>
      <string name="sms_short_code_confirm_never_allow">Nu permiteţi niciodată</string>
-    <string name="sms_short_code_details">Aceasta&lt;b&gt; poate genera costuri&lt;/b&gt; în contul de rețea mobilă.</string>
+    <string name="sms_short_code_details">Aceasta <b>poate genera costuri</b> în contul de rețea mobilă.</string>
      <string name="sms_short_code_remember_choice">Doresc să se reţină opţiunea</string>
      <string name="sms_short_code_remember_undo_instruction">Puteţi modifica ulterior în Setări > Aplicaţii</string>
      <string name="smv_application">Aplicaţia %1$s (procesul %2$s) a încălcat propria politică StrictMode.</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Activarea/dezactivarea Bluetooth-ului</string>
     <string name="HIPS_Perm_CallLog_Desc">Modificare și ștergere jurnal apeluri</string>
@@ -76,7 +76,6 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
     <string name="accessibility_gameboosterservice_description">"Activați pentru a reduce la tăcere apelurile WeChat atunci când vă jucați"</string>
-    <string name="accessibility_service_description"/>
     <string name="action_button_text_100">Optimizați</string>
     <string name="action_button_text_60">Reparați</string>
     <string name="action_button_text_60_80">Reparați</string>
@@ -122,7 +121,7 @@
     <string name="add_whitelist">Adăugaţi în lista excepțiilor</string>
     <string name="address">Adresă</string>
     <string name="address_choose_hint">%1$s, %2$s, și %3$d alte locații</string>
-    <string name="adjust_sms_cmd">&lt;u&gt;Ajustați modelul SMS-ului de calibrare&lt;/u&gt;</string>
+    <string name="adjust_sms_cmd"><u>Ajustați modelul SMS-ului de calibrare</u></string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizată cu mai mult de o lună în urmă</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizată cu mai mult de o săptămână în urmă</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizată cu o săptămână în urmă</string>
@@ -165,7 +164,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">Încărcați numele și detaliile aplicațiilor</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Pentru a detecta și neutraliza virușii mai eficient, vom încărca numele și detaliile pachetelor pentru a le scana utilizând un motor din cloud.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Această caracteristică este furnizată de către un motor antivirus terț. Pentru a afla mai multe, citiți &amp;lt;a href=\"%1$s\"&amp;gt;Acordul licenței&amp;lt;/a&amp;gt; furnizat de către terț.&lt;/Data&gt;</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Această caracteristică este furnizată de către un motor antivirus terț. Pentru a afla mai multe, citiți &lt;a href=\"%1$s\">Acordul de licență&lt;/a> furnizat de către terț.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast, AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
@@ -409,10 +408,10 @@
     <string name="app_manager_reset_app_preferences_button">Resetați aplicațiile</string>
     <string name="app_manager_reset_app_preferences_desc">"Această acțiune va reseta toate preferințele pentru:
 
-"&lt;li&gt;Aplicațiile dezactivate&lt;/li&gt;"
-"&lt;li&gt;Notificările aplicațiilor dezactivate&lt;/li&gt;"
-"&lt;li&gt;Aplicațiile implicite&lt;/li&gt;"
-"&lt;li&gt;Restricțiile datelor în fundal pentru aplicații&lt;/li&gt;"
+"<li>Aplicațiile dezactivate</li>"
+"<li>Notificările aplicațiilor dezactivate</li>"
+"<li>Aplicațiile implicite</li>"
+"<li>Restricțiile datelor în fundal pentru aplicații</li>"
 
 Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
@@ -615,9 +614,9 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_operation_no_op">Nu selecta această acțiune</string>
     <string name="auto_task_operation_open">Activ</string>
     <string name="auto_task_operation_open_string">Activează %s</string>
-    <string name="auto_task_operation_string_comma">, </string>
+    <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_etc">, etc.</string>
-    <string name="auto_task_operation_string_split">; </string>
+    <string name="auto_task_operation_string_split">;</string>
     <string name="auto_task_operation_sync">Sincronizarea</string>
     <string name="auto_task_operation_vibration">Vibrațiile</string>
     <string name="auto_task_operation_wifi">Wi-Fi-ul</string>
@@ -696,8 +695,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="bl_no_block_call">Niciun apel blocat.</string>
     <string name="bl_no_block_sms">Niciun mesaj blocat.</string>
     <string name="blacklist_prefix_add_hint">Blocați toate numerele care au acest prefix</string>
-    <string name="block_message_number">Mesaje: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-    <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="block_message_number">Mesaje: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="boost_done">Accelerat cu succes</string>
     <string name="boost_stop">Dezactivați Creșterea vitezei</string>
     <string name="booster_immediately">Accelerați</string>
@@ -987,7 +986,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dlg_import_blacklist">Adăugare…</string>
     <string name="dlg_import_whitelist">Adăugare…</string>
     <string name="dlg_keyword_ok">Salvați</string>
-    <string name="dlg_message_not_open_stranger_identify">Pentru a activa această caracteristică mergeți la Setări/Telefon.</string>
+    <string name="dlg_message_not_open_stranger_identify">Pentru a activa această caracteristică mergeți la Setări > Telefon.</string>
     <string name="dlg_move_to_white">Adăugați în lista excepțiilor</string>
     <string name="dlg_no_block">"Deblocați acest număr de telefon ?
  Numărul va fi adăugat în lista apelurior permise, dar elementele blocate anterior nu vor apărea în istoricul de apelare."</string>
@@ -1566,7 +1565,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
-    <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile. "&lt;/Data&gt;</string>
+    <string name="gdpr_msg"><Data>Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile.</Data></string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
@@ -1636,7 +1635,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_setting_item_title_smart_5g">Optimizare rețea 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Creștere viteză Mi Wi-Fi</string>
     <string name="gtb_wlan_speed_tips">Se utilizează Mi Wi-Fi…</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operator eronat?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
     <string name="guide_second_text">"După ce setați operatorul, MIUI va monitoriza utilizarea zilnică a datelor prin trimiterea de mesaje SMS gratuite. Când MIUI va detecta că ați depășit limita, vă va deconecta de la rețea și vă va notifica."</string>
@@ -1966,7 +1965,7 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="mixed_recording_intro_header">Introduceți %1$s-%2$s caractere</string>
     <string name="mixed_retry_button_text">Renunțați</string>
     <string name="mixed_settings_help_how_to_record">Cum setez parola</string>
-    <string name="modify_password_mode">&lt;u&gt;Modificați tipul parolei&lt;/u&gt;</string>
+    <string name="modify_password_mode"><u>Modificați tipul parolei</u></string>
     <string name="modifypassword">Modificați tipul parolei</string>
     <string name="monitor_app_add">Adăugați</string>
     <string name="monitor_app_more">Mai multe</string>
@@ -2017,20 +2016,20 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
- "&lt;b&gt;1. Probleme de rețea publică Wi-Fi&lt;/b&gt;"
+ "<b>1. Probleme de rețea publică Wi-Fi</b>"
 Dacă sunteți conectat la o rețea publică Wi-Fi, numărul utilizatorilor conectați la acea rețea pot reduce viteza sau crea probleme de conectivitate. Conectați-vă la altă rețea și încercați din nou.
 
- "&lt;b&gt;2. Probleme de furnizor servicii internet&lt;/b&gt;"
+ "<b>2. Probleme de furnizor servicii internet</b>"
 Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
 
- "&lt;b&gt;3.  Probleme hardware router&lt;/b&gt;"
+ "<b>3.  Probleme hardware router</b>"
 
 Încercați repornirea router-ului sau verificarea setărilor admin pentru router.
- "&lt;b&gt;4. Alte probleme legate de router&lt;/b&gt;"
+ "<b>4. Alte probleme legate de router</b>"
 Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
 
 
- "&lt;b&gt;5. Asigurați-vă că routerul este conectat corect&lt;/b&gt;"
+ "<b>5. Asigurați-vă că routerul este conectat corect</b>"
 Încercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cartela SIM:
 
@@ -2296,7 +2295,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_exception_title">Conexiune restricționată pentru aplicații</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem sau de a accesa camera foto și alte resurse de pe dispozitiv. Puteți activa această caracteristică în Setări>Permisiuni.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestionare permisiuni</string>
-    <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+    <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
     <string name="permission_upgrade_more">Mai multe caracteristici pentru protejarea confidențialității</string>
     <string name="permission_upgrade_privacy_title">Permisiunile de înregistrare sunete audio și accesare contacte au acum o opțiune care vă permite să acordați aceste permisiuni doar atunci când utilizați aplicațiile corespunzătoare. Pentru a vă proteja confidențialitatea informațiilor personale, aplicațiile nu vor realiza aceste acțiuni în fundal.</string>
     <string name="permission_upgrade_runtime">Permisiunile de accesare a locației sau de realizare a fotografiilor au acum o opțiune care vă permite să acordați aceste permisiuni doar o dată. Pentru a vă proteja confidențialitatea informațiilor personale, aceste acțiuni nu vor fi realizate după ce veți părăsi aplicația. Veți fi întrebat dacă acordați aceste permisiuni din nou atunci când veți utiliza data viitoare aceste caracteristici.</string>
@@ -2811,8 +2810,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sd_format_summary">Șterge toate datele de pe cardul SD (inclusiv melodiile sau fotografiile)</string>
     <string name="sd_insert_summary">Inserați cardul SD de montat</string>
     <string name="sd_mount">Montați cardul SD</string>
-    <string name="sd_mount_summary"/>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="sd_mount_summary" />
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="section_clear_acc_item_title">"%s. Dacă tot nu există spațiu de stocare suficient, încercați să folosiți aplicația de Curățare."</string>
@@ -2888,7 +2887,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skin_change_close_toast">Modificările se vor aplica data viitoare când lansați aplicația Securitate</string>
     <string name="sms_address">Blocare după zonă</string>
@@ -3064,8 +3063,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ați depășit limita: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
     <string name="status_bar_network_flow_phone_balance">"   Balanță telefon:%1$s "</string>
-    <string name="status_bar_network_flow_purchase">"   Cumpărați &gt;"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"   Setați planul de date &gt;"</string>
+    <string name="status_bar_network_flow_purchase">"   Cumpărați >"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   Setați planul de date >"</string>
     <string name="still_retain_btn">Păstrați</string>
     <string name="stop_milink_connect">S-a oprit proiectarea</string>
     <string name="storage_activity_title">Spațiul de stocare</string>
@@ -3233,24 +3232,24 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="system_permission_declare_agree">De acord</string>
     <string name="system_permission_declare_analytics_declare">"Vă mulțumim pentru că v-ați înscris în programul nostru de experiență pentru utilizatori. Dispozitivul trebuie să fie conectat la internet pentru a permite funcționarea normală a acestei funcții. De asemenea, vi se solicită să acordați următoarele permisiuni pentru a ne permite să colectăm datele care ne vor ajuta să îmbunătățim produsele și serviciile noastre. Aceste date sunt colectate doar în scopuri statistice. Nu vom putea folosi aceste date pentru a vă identifica personal."</string>
     <string name="system_permission_declare_disagree">Nu sunt de acord</string>
-    <string name="system_permission_declare_double_link">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această caracteristică.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_double_link"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și pentru a înțelege modurile în care utilizăm datele personale, citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit în aplicația %1s! Aceasta vă permite să utilizați următoarele funcții: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
     <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile solicitate sau nu ne permiteți să colectăm și să utilizăm datele personale, această aplicație nu va putea funcționa în mod normal."</string>
     <string name="system_permission_declare_no_say_no_analytics">"Dacă nu doriți să acordați aceste permisiuni, puteți să vă dezabonați din Setări &gt; Setări adiționale &gt; Confidențialitate &gt; Program Experiență Utilizator."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Dacă ați ales să nu acordați permisiunile necesare sau nu doriți să ne permiteți să colectăm și să utilizăm datele dvs., această aplicație nu va putea rula parțial."</string>
     <string name="system_permission_declare_privacy_declare">Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Rețineți că această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile personale:</string>
     <string name="system_permission_declare_privacy_no_network">Această aplicație are nevoie de următoarele permisiuni pentru a putea funcționa în mod normal:</string>
     <string name="system_permission_declare_privacy_no_permission">Această aplicație trebuie să se conecteze la internet și să colecteze datele personale necesare pentru a putea funcționa normal.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_policy"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și pentru a înțelege modurile în care utilizăm datele personale, citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Puteți părăsi această aplicație.</string>
     <string name="system_permission_declare_revoke_uninstallable">Vă puteți deconecta, puteți dezinstala această aplicație sau revoca autorizarea în Securitate> Gestionare aplicații> Permisiuni> Permisiuni.</string>
     <string name="system_permission_declare_title">Atenție</string>
     <string name="system_permission_declare_use_network">Conectați-vă la rețea</string>
     <string name="system_permission_declare_use_network_no_permission">Conectați-vă la rețea</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și pentru a înțelege modurile în care utilizăm datele personale, citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
     <string name="system_permission_perm_answer_call">Apeluri</string>
     <string name="system_permission_perm_optional">" (opțional)"</string>
     <string name="system_permission_perm_read_mms">Citire MMS-uri</string>
@@ -3356,7 +3355,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tether_over_limit_warning_notify_title">S-a atins limita de date pentru hotspot-ul portabil</string>
     <string name="text_button">Am înțeles</string>
     <string name="text_cycle_day">%s</string>
-    <string name="text_day"/>
+    <string name="text_day" />
     <string name="text_done">OK</string>
     <string name="text_security">Confidențialitate</string>
     <string name="thermal_tips_message">Dacă jucați jocuri în modul Performanță telefonul se poate supraîncălzi.</string>
@@ -3574,7 +3573,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usb_insert_summary">Conectați dispozitivul USB</string>
     <string name="usb_install_desc">Instalați această aplicație prin USB?</string>
     <string name="usb_mount">Montați dispozitivul USB</string>
-    <string name="usb_mount_summary"/>
+    <string name="usb_mount_summary" />
     <string name="usbsharenet_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea USB a dispozitivului și reporniți Mi PC Suite."</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>
     <string name="usbsharenet_pc_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului."</string>

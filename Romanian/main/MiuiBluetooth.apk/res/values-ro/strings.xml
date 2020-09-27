@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -385,10 +385,8 @@ Selecție"</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
     <string name="no_application">Nimic</string>
     <string name="not_set">Nesetat</string>
-    <string name="notice_header"/>
     <string name="notify_device_lose_connection_text">Atingeți pentru anularea asocierii cu %1$s</string>
     <string name="notify_device_lose_connection_title">S-a pierdut conexiunea cu %1$s</string>
-    <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permiteți deblocarea bootloader-ului</string>
     <string name="ok_button">OK</string>
@@ -490,7 +488,6 @@ Selecție"</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Iluminează intermitent ecranul când aplicațiile fac operații lungi pe firul principal</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"/>
     <string name="tap_to_sign_up">Atingeți pentru a vă înregistra</string>
     <string name="tether_settings_title_all">Tethering și hotspot portabil</string>
     <string name="tether_settings_title_bluetooth">Tethering prin Bluetooth</string>

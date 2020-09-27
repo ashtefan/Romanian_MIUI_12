@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
@@ -172,7 +172,7 @@
     <string name="gb_game_speed_open">Modul Viteza luminii este pornit</string>
     <string name="gb_game_speed_open_fail">Nu s-a putut activa modul Viteza luminii</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
-    <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica Noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="gdpr_msg"><Data>Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a>.</Data></string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gs_anto_clean_memory_whitelist">Excepții</string>
     <string name="gs_app_back_self_start">Economisire acumulator</string>

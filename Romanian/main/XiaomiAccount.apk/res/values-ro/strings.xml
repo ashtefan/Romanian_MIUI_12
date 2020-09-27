@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
@@ -38,7 +38,7 @@
     <string name="account_crop_user_avatar">Decupaţi fotografia</string>
     <string name="account_empty_user_name">Introduceți numele de utilizator al contului Mi</string>
     <string name="account_error_all_space_user_name">Numele nu poate conține numai spații goale</string>
-    <string name="account_error_invalid_user_name">Numele nu poate conține &lt;, &gt;, /</string>
+    <string name="account_error_invalid_user_name">Numele nu poate conține &lt;, >, /</string>
     <string name="account_error_longer_user_name">Numele nu poate depăși 20 de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să conţină mai mult de 2 caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
@@ -119,7 +119,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="cloud_description_normal">Ocupat</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
-    <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
+    <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată la descărcarea unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView necesită permisiunea de accesare a INTERNETULUI</string>
     <string name="com_facebook_internet_permission_error_title">Eroare AndroidManifest</string>
@@ -306,7 +306,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="notify_network_restricted_title">Aplicația Cont Mi nu s-a putut conecta la rețea</string>
     <string name="oauth_get_scopes_failed">Nu s-au putut obține informațiile contului</string>
     <string name="oauth_getting_scopes">Verificare cont…</string>
-    <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; va obține următoarele permisiuni:&lt;br&gt; &lt;br&gt; %3$s</string>
+    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> va obține următoarele permisiuni:&lt;br> &lt;br> %3$s</string>
     <string name="oauth_title">Conectați-vă utilizând contul Mi</string>
     <string name="ok">OK</string>
     <string name="optional_permissions">Permisiuni opționale</string>
@@ -332,7 +332,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_barcode_add_account_prompt">Pentru a conecta un cont, scanați codul QR din nou după ce vă conectați.</string>
     <string name="passport_btn_change_account">Schimbați contul</string>
     <string name="passport_can_not_receive_verification_code">Nu ați primit codul de verificare?</string>
-    <string name="passport_change_account">Schimbaţi contul</string>
+    <string name="passport_change_account"><u>Schimbaţi contul</u></string>
     <string name="passport_change_phone_number">Comutare numere</string>
     <string name="passport_checking_account">Verificare parolă…</string>
     <string name="passport_checking_input">Verificare…</string>
@@ -340,7 +340,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_completed">Finalizare</string>
     <string name="passport_confirm_login">Conectați-vă</string>
     <string name="passport_confirm_recycle_account">Da</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Se pare că&lt;/font&gt; numărul %s a fost reciclat de către operatorul dvs. și există un cont Mi asociat acestuia. Acest cont este al dumneavoastră?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Se pare că&lt;/font> numărul %s a fost reciclat de către operatorul dvs. și există un cont Mi asociat acestuia. Acest cont este al dumneavoastră?"</string>
     <string name="passport_continue">Continuați</string>
     <string name="passport_copy_message_text_success">Copiat cu succes</string>
     <string name="passport_copy_message_vcode">Copiați codul</string>
@@ -378,12 +378,12 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_failed_to_send_activate_email">Nu s-a putut trimite e-mailul de activare</string>
     <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a vă reseta parola.</string>
     <string name="passport_first_login_prompt">Contul Mi va fi creat în mod automat când utilizați un număr de telefon pentru prima dată.</string>
-    <string name="passport_forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Am uitat parola</u></string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>
     <string name="passport_get_innetdate_agree">Verificați</string>
     <string name="passport_get_innetdate_disagree">Nu</string>
-    <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Se pare că &lt;/font&gt; numărul %s a fost reciclat de către operatorul dvs. Verificați când numărul a fost activ?</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Se pare că&lt;/font> numărul %s a fost reciclat de către operatorul dvs. Verificați când numărul a fost activ?</string>
     <string name="passport_get_innetdate_title">Verificați când a fost activ numărul</string>
     <string name="passport_get_verify_code">Obţineţi codul</string>
     <string name="passport_getting_activator_phone">Se obțin informații despre cartela SIM…</string>
@@ -440,7 +440,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_quick_login_step2_title">Verificare în 2 paşi</string>
     <string name="passport_quick_login_title">Introduceți parola</string>
     <string name="passport_quick_register">Creați un cont</string>
-    <string name="passport_quick_register_notice">&lt;u&gt;Nu aveți un cont Mi? Creați unul.&lt;/u&gt;</string>
+    <string name="passport_quick_register_notice"><u>Nu aveți un cont Mi? Creați unul.</u></string>
     <string name="passport_re_get_verify_code">Obţineţi codul din nou</string>
     <string name="passport_re_register">Conectaţi-vă din nou</string>
     <string name="passport_recycle_account_prompt">Este acesta contul dvs. Mi?</string>
@@ -454,7 +454,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_reg_success">Cont creat</string>
     <string name="passport_reg_success_summary">%1$s a fost asociat contului dvs. Puteți să-l utilizați pentru a vă conecta sau pentru a vă reseta parola.</string>
     <string name="passport_reg_type_email">Adresa de e-mail</string>
-    <string name="passport_reg_using_other_phone">&lt;u&gt;Utilizaţi un număr de telefon alternativ&lt;/u&gt;</string>
+    <string name="passport_reg_using_other_phone"><u>Utilizaţi un număr de telefon alternativ</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Creați un cont nou utilizând "</string>
     <string name="passport_reg_using_phone_number_prompt">Creați un cont nou utilizând un număr de telefon</string>
     <string name="passport_reg_via_sms_alert">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
@@ -462,7 +462,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_register">Creaţi un cont</string>
     <string name="passport_register_account_goto_email">Mergeţi la căsuţa de e-mail</string>
     <string name="passport_register_account_verified_confirm">Contul dvs. a fost verificat</string>
-    <string name="passport_register_by_email">&lt;u&gt;Creaţi un cont utilizând adresa de e-mail&lt;/u&gt;</string>
+    <string name="passport_register_by_email"><u>Creaţi un cont utilizând adresa de e-mail</u></string>
     <string name="passport_register_restricted">Prea multe conturi au fost asociate cu acest număr, încercați altul</string>
     <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
     <string name="passport_register_using_other_ways">Alte modalități de a crea un cont</string>
@@ -518,7 +518,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_use_generated_pwd_message">Asigurați-vă că țineți minte parola. O puteți folosi pentru a vă conecta la alte servicii Mi.</string>
     <string name="passport_use_generated_pwd_title">Țineți minte parola!</string>
     <string name="passport_user_agreement">Acordul Utilizatorului</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;Am citit și sunt de acord cu &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica de Confidențialitate ale Xiaomi&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link"><Data>Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate Xiaomi&lt;/a>.</Data></string>
     <string name="passport_user_agreement_required">Acordul Utilizatorului (obligatoriu)</string>
     <string name="passport_user_id_notice">ID-ul contului dvs Mi este %s.</string>
     <string name="passport_user_reg_region">Țară/Regiune</string>

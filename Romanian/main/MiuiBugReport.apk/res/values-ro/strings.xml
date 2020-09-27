@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -627,8 +627,8 @@ Pentru a vă activa contul, accesați
     <string name="passport_unknow_error">A apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">A apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Am citit și accept &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%2$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și accept următoarele documente: &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%4$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Am citit și accept &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica Xiaomi de Confidențialitate&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și accept următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica Xiaomi de Confidențialitate&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării nu este finalizată</string>
@@ -698,8 +698,8 @@ Pentru a vă activa contul, accesați
     <string name="stop_full_log_dialog_title">Se generează jurnalele…</string>
     <string name="submit_dialog_cancel">"Nu sunt de acord"</string>
     <string name="submit_dialog_confirm">De acord</string>
-    <string name="submit_dialog_content">&lt;Data&gt;"Trebuie să acceptați &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; pentru a putea utiliza funcția de Raportare. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați."&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="submit_dialog_content"><Data>Trebuie să acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> pentru a putea utiliza funcția de Raportare. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>."</Data></string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggest_upload_log_dialog_cancel">Nu, mulțumesc</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -121,7 +121,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_drop">Partajare Mi</string>
     <string name="mi_note_10">Mi Note 10</string>
-    <string name="mishare_folder_in_file_explorer">Gestionare fișiere și Partajare Mi</string>
+    <string name="mishare_folder_in_file_explorer">Gestionare fișiere > Partajare Mi</string>
     <string name="mishare_service_channel_desc">Notificări despre procesele Partajării Mi</string>
     <string name="mishare_settings_summary_international">"Puteți utiliza Partajarea Mi pentru a trimite articole către dispozitivele din apropiere.
 Partajarea Mi este compatibilă cu telefoanele Mi și Redmi.

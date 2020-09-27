@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Approval">Aplicați</string>
     <string name="Enhance">Intensificat</string>
@@ -428,7 +428,7 @@
     <string name="translation_type_chat">Mesagerie</string>
     <string name="translation_type_sentence">Frază</string>
     <string name="translation_type_word">Cuvânt</string>
-    <string name="uninstall_prompt">Dacă apar probleme pe durata instalării, mergeți la Setări &gt; Aplicații &gt; Gestionați aplicațiile &gt; Scaner, apăsați \"Dezinstalați\" și încercați să instalați aplicația din nou.</string>
+    <string name="uninstall_prompt">Dacă apar probleme pe durata instalării, mergeți la Setări > Aplicații > Gestionați aplicațiile > Scaner, apăsați \"Dezinstalați\" și încercați să instalați aplicația din nou.</string>
     <string name="url_is_phish">Acest site poate fi phishing</string>
     <string name="url_is_safety">Site-ul este sigur</string>
     <string name="url_is_unknown">"Nu se poate verifica dacă site-ul este sigur"</string>

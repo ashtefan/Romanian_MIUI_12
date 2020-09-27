@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -45,16 +45,12 @@
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="confirm">OK</string>
     <string name="copy">Copiați</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="default_list_type">Sortați după data recepționării</string>
     <string name="disable_float_notification">"Nu se permit notificări plutitoare"</string>
     <string name="disable_lockscreen_notification">"Nu se permit notificări în Blocarea ecranului"</string>
     <string name="disable_show_badge_notification">"Nu se permit insignele notificărilor"</string>
     <string name="early_morning">Dimineață</string>
-    <string name="empty"/>
     <string name="enable_float_notification">Se permit notificări plutitoare</string>
     <string name="enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
     <string name="enable_show_badge_notification">Se permit insignele notificărilor</string>
@@ -129,7 +125,7 @@
     <string name="friday_shortest">Vin</string>
     <string name="function_description">Despre această caracteristică</string>
     <string name="hint_search_all">Căutați aplicații</string>
-    <string name="hint_search_in_disabled_apps">"Căutați aplicațiile care nu pot afișa notificări"</string>
+    <string name="hint_search_in_disabled_apps">Căutați aplicațiile care nu pot afișa notificări</string>
     <string name="hint_search_in_enabled_apps">Căutați aplicațiile care pot afișa notificări</string>
     <string name="icon_content_description">Pictogramă de Dialog</string>
     <string name="last_sent_time_second">Chiar acum</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -297,9 +297,9 @@
     <string name="favorite_at_time">Adăugat la favorite la: %1s</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
     <string name="feature_mx">Mesagerie Mi</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai mesageriei Mi prin internet, fără a fi taxat&lt;/b&gt;. Este necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul vă va taxa pentru acest mesaj. Citiți și acceptați &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Acordul Utilizatorului&lt;/a&gt;&lt;/font&gt; și &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Politica noastră de Confidențialitate&lt;/a&gt;&lt;/font&gt; înainte de a utiliza această caracteristică.</string>
+    <string name="feature_mx_summary"><b>Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai mesageriei Mi prin internet, fără a fi taxat</b>. Este necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul vă va taxa pentru acest mesaj. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Acordul Utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">Politica noastră de Confidențialitate</a></font> înainte de a utiliza această caracteristică.</string>
     <string name="feature_smart_sms">Mesagerie inteligentă</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;Mesageria inteligentă permite recunoașterea ID-ului expeditorului și meniuri inteligente&lt;/b&gt;". Mesageria inteligentă este furnizată parțial de către Yulore. Citiți și acceptați "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politica de Confidențialitate Yulore&lt;/a&gt;&lt;/font&gt; înainte de a utiliza această caracteristică.</string>
+    <string name="feature_smart_sms_summary"><b>Mesageria inteligentă permite recunoașterea ID-ului expeditorului și meniuri inteligente</b>". Mesageria inteligentă este furnizată parțial de către Yulore. Citiți și acceptați "<font color="#B3000000"><a href="http://url3">Politica de Confidențialitate Yulore</a></font> înainte de a utiliza această caracteristică.</string>
     <string name="festival_sms_loading">Încărcare…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creat:</string>
@@ -393,7 +393,7 @@
     <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte elemente</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
-    <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
+    <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s></string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
@@ -1019,8 +1019,8 @@ Aruncați o privire peste recomandări!"</string>
     <string name="second_mms_introduction">Mergeți la Spațiul Secundar</string>
     <string name="second_mms_switch">Comutați</string>
     <string name="secs">sec.</string>
-    <string name="security_alert_desc">&lt;font color="#7f000000"&gt;Expeditorul nu este în contactele dvs.
-"&lt;/font&gt;</string>
+    <string name="security_alert_desc"><font color="#7f000000">Expeditorul nu este în contactele dvs.
+"</font></string>
     <string name="security_alert_desc_highlight">Raportaţi acest număr</string>
     <string name="security_alert_dialog_desc">Trimiteţi acest număr (%s) și mesajul către Xiaomi pentru revizuire.</string>
     <string name="security_alert_dialog_title">Raportaţi</string>

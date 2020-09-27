@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="April">Aprilie</string>
     <string name="August">August</string>
@@ -271,9 +271,6 @@
     <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica la o calitate superioară pot crește costurile de utilizare a datelor.</string>
     <string name="data_use_desc">Documente legale</string>
     <string name="date_format_str">dd-MM-yyyy</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Calendarul Lunar</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_download">Ștergeți</string>
@@ -288,7 +285,7 @@
     <string name="desktop_lyric_button_close">Închideți</string>
     <string name="desktop_lyric_button_lock">Blocați</string>
     <string name="desktop_lyric_color">Culoare</string>
-    <string name="desktop_lyric_dialog_msg">Activați sau dezactivați afișarea versurilor în ecranul principal din Muzică &gt; Setări &gt; Setări avansate</string>
+    <string name="desktop_lyric_dialog_msg">Activați sau dezactivați afișarea versurilor în ecranul principal din Muzică > Setări > Setări avansate</string>
     <string name="desktop_lyric_dialog_positive_button">Încercați acum</string>
     <string name="desktop_lyric_dialog_title">Încercați acum</string>
     <string name="desktop_lyric_lock_toast">Blocat. Puteți debloca Muzica din panoul de notificări.</string>
@@ -431,7 +428,7 @@
     <string name="download_traffic_dialog_title">Avertisment utilizare date mobile</string>
     <string name="download_traffic_dialog_title_beyond">Limita de date a fost depășită</string>
     <string name="download_traffic_dialog_title_serious">Date mobile utilizate aproape în întregime</string>
-    <string name="download_unknown_title">&lt;Nedenumit&gt;</string>
+    <string name="download_unknown_title">&lt;Nedenumit></string>
     <string name="download_wait_connect">Așteaptă conectarea la Wi-Fi</string>
     <string name="download_when_network_connected">Descarcă când sunteți conectat la internet</string>
     <string name="download_while_playing_no_vip_summary">Descărcare automată a melodiilor pe care le ascultaţi on-line(cu excepția celor cu plată)</string>
@@ -445,7 +442,6 @@
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="early_morning">AM</string>
     <string name="edit_playlist_info">Editați informațiile listei de redare</string>
-    <string name="empty"/>
     <string name="empty_page_no_album">Niciun album.</string>
     <string name="empty_page_no_artist">Niciun artist.</string>
     <string name="empty_page_no_document">Niciun fişier audio.</string>
@@ -697,7 +693,7 @@
     <string name="hungama_playlist_category">Categorie listă de redare</string>
     <string name="hungama_privacy_desc">Politica de Confidențialitate Hungama (opțional)</string>
     <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
-    <string name="hungama_privacy_tips_content">Pentru a obține acces la conținutul online, trebuie să acceptați &lt;a href="/link/click"&gt;Politica de Confidențialitate Hungama&lt;/a&gt;.</string>
+    <string name="hungama_privacy_tips_content">Pentru a obține acces la conținutul online, trebuie să acceptați <a href="/link/click">Politica de Confidențialitate Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Politica de Confidențialitate Hungama</string>
     <string name="hungama_pro">Hungama Pro</string>
     <string name="hungama_subscribe_message">Cumpărați titlul de membru PRO pentru a descărca muzică la calitate înaltă</string>
@@ -705,7 +701,7 @@
     <string name="hungama_subscribe_title">Membru PRO</string>
     <string name="i_know">OK</string>
     <string name="i_know_it">OK</string>
-    <string name="impunity_declaration_content">Trebuie să citiți și să fiți de acord cu &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Acordul utilizatorului&lt;/a&gt; și &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Politica de Confidențialitate&lt;/a&gt; înainte de a utiliza acest produs.</string>
+    <string name="impunity_declaration_content">Trebuie să citiți și să fiți de acord cu &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Acordul utilizatorului&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Politica de Confidențialitate&lt;/a> înainte de a utiliza acest produs.</string>
     <string name="impunity_declaration_ignore">"Nu afişa din nou"</string>
     <string name="impunity_declaration_negative_text">Ieşire</string>
     <string name="impunity_declaration_positive_text">De acord</string>
@@ -767,7 +763,7 @@
     <string name="joox_download_tab_title">JOOX</string>
     <string name="joox_download_title">Descărcări JOOX</string>
     <string name="joox_privacy_desc">Politica de Confidențialitate JOOX (opțională)</string>
-    <string name="joox_privacy_tips_content">Citiți și acceptați &lt;a href="/link/click"&gt;Politica de Confidențialitate JOOX&lt;/a&gt; înainte de a utiliza serviciile online.</string>
+    <string name="joox_privacy_tips_content">Citiți și acceptați <a href="/link/click">Politica de Confidențialitate JOOX</a> înainte de a utiliza serviciile online.</string>
     <string name="joox_privacy_tips_title">Politica de Confidențialitate JOOX</string>
     <string name="joox_recommend_artist_title">Artiști recomandați</string>
     <string name="joox_recommend_playlist_title">Liste de redare recomandate</string>
@@ -845,7 +841,7 @@
     <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">"Funcția Mi Link nu este disponibilă. Actualizați MIUI."</string>
     <string name="min_sleep_time">%d</string>
-    <string name="missing_title">&lt;Necunoscut&gt;</string>
+    <string name="missing_title">&lt;Necunoscut></string>
     <string name="miui_music">Muzică Mi</string>
     <string name="miuishare_account_activate_confirmation">Este necesară activarea</string>
     <string name="miuishare_account_activate_ok">Activaţi</string>

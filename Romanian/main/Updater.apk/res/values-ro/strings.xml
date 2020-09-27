@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_device">Despre telefon</string>
     <string name="active_xiaomi_account">Activaţi</string>
@@ -25,7 +25,7 @@
     <string name="auto_update">Actualizare automată</string>
     <string name="auto_update_sum">Se utilizează algoritmul inteligent pentru a determina ora de actualizare</string>
     <string name="autosetmode">Setări</string>
-    <string name="battery_islow">&lt;font color=#f37981&gt;Conectați încărcătorul&lt;/font&gt;</string>
+    <string name="battery_islow">&lt;font color=#f37981>Conectați încărcătorul&lt;/font></string>
     <string name="battery_islow_desc">Nivelul acumulatorului este prea scăzut pentru a instala în siguranță fișierul .zip; conectați încărcătorul și încercați din nou mai târziu!</string>
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
@@ -125,7 +125,7 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
-    <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: %1$s
+    <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: <b>%1$s</b>"
     
 Partiția de date nu va fi ștearsă."</string>
     <string name="install_title">Sunteți sigur că doriți să continuați?</string>

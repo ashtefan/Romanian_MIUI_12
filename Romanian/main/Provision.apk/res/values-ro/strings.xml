@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_enabled">Accesibilitate activată.</string>
     <string name="agree">De acord</string>
@@ -24,7 +24,7 @@
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
     <string name="clock_introduction">Puteți utiliza această aplicație pentru a vedea ora, precum și pentru a utiliza cronometrul, ora pe glob, temporizatorul, să setați alarme și multe altele.</string>
-    <string name="close_location_service_setting">Puteți alege să dezactivați accesul la locație în Setări &gt; Setări adiționale &gt; Confidențialitate sau să restricționați permisiunile pentru aplicații individuale în aplicația Securitate.</string>
+    <string name="close_location_service_setting">Puteți alege să dezactivați accesul la locație în Setări > Setări adiționale > Confidențialitate sau să restricționați permisiunile pentru aplicații individuale în aplicația Securitate.</string>
     <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>
     <string name="compass_introduction">Puteți utiliza această aplicație pentru navigare, precum și pentru vizualizarea coordonatelor geografice, a presiunii atmosferice și a altitudinii.</string>
@@ -37,8 +37,6 @@
     <string name="content_introduction">Content Center agregă conținutul și serviciile de pe mai multe canale. Aici puteți citi articole, viziona videoclipuri, vizualiza articole prezentate zilnic și să primiți recomandări de conținut.</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
     <string name="data_traffic_enable_dialog_title">Dacă nu sunteți conectat la Wi-Fi acum, se va utiliza conexiunea de date mobile. Utilizarea datelor mobile poate genera taxe suplimentare de la operator.</string>
-    <string name="desc_extra_fingerprint"/>
-    <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
     <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
     <string name="diagnose_report">Trimiteți date de diagnosticare pentru a localiza și a analiza problemele sistemului și pentru a îmbunătăți experiența utilizatorului. Aceste date pot include informații personale (de ex. IP-ul, locația, etc.)</string>
@@ -205,8 +203,8 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_name_screen_recording">Înregistrare ecran</string>
     <string name="service_name_security">Securitate</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
-    <string name="service_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
-    <string name="service_policy_download">&lt;Data&gt;Înainte de a utiliza serviciile noastre, citiți și acceptați &amp;lt;a href=%1$s&amp;gt;Politica de Confidențialitate Xunlei&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+    <string name="service_policy"><Data>Citiți și acceptați &lt;a href=%1$s>Politica de Confidențialitate&lt;/a >.</Data></string>
+    <string name="service_policy_download"><Data>Înainte de a utiliza serviciile noastre, citiți și acceptați &lt;a href=%1$s>Politica de Confidențialitate Xunlei&lt;/a >.</Data></string>
     <string name="service_privacy_index">Politica de Confidențialitate</string>
     <string name="servicestate_title">Declarație privind serviciile de bază</string>
     <string name="setting_locale">Setare regiune…</string>

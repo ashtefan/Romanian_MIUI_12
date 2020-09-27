@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Active">Activ</string>
     <string name="PassWordGuard">Parola pentru spațiul secundar</string>
@@ -98,7 +98,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="create_work_space">Creați Spațiul pentru Servici</string>
     <string name="creating_app_icon">Se crează pictograma…</string>
     <string name="cta_declaration_agree_and_continue">De acord</string>
-    <string name="cta_declaration_message_format" formatted="false">Trebuie să citiți și să acceptați &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; înainte de a utiliza modul Companie. Telefonul trebuie să se conecteze la internet pentru a activa modul Companie. Sunteți de acord?</string>
+    <string name="cta_declaration_message_format" formatted="false">Trebuie să citiți și să acceptați &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> înainte de a utiliza modul Companie. Telefonul trebuie să se conecteze la internet pentru a activa modul Companie. Sunteți de acord?</string>
     <string name="cta_declaration_title">Termenii și Condițiile</string>
     <string name="current_space">Spațiul curent</string>
     <string name="dataSafe">Utilizarea Spațiului Secundar este ca și cum ați avea două telefoane.</string>
@@ -351,7 +351,7 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
     <string name="sdcradfs_dialog_in_sec_message">"Pentru a aplica actualizarea, trebuie să ștergeți Spațiul secundar și să-l creați din nou. Mutați datele din Spațiul secundar în Spațiul principal și reporniți telefonul pentru a realiza actualizarea.
 Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespunzător, de asemenea."</string>
     <string name="sdcradfs_dialog_in_sec_title">Actualizare importantă</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="secondSpace">Spațiul Secundar</string>

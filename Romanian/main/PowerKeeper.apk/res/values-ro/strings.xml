@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -87,10 +87,10 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="extreme_add_white_list_title">Excepții pentru rularea în fundal</string>
     <string name="extreme_mode_max_item_alert">Puteți selecta maxim 4 aplicații pentru a rula în fundal în modul Extrem de economisire a acumulatorului</string>
     <string name="extreme_power_config_mode_category">Mod extrem de economisire a acumulatorului</string>
-    <string name="extreme_power_config_mode_desc">&lt;li&gt;"Modul extrem de economisire a acumulatorului oprește întreaga activitate din fundal a unei aplicații  după ce o părăsiți și reveniți la Ecranul principal. Această aplicație nu vă mai trimite notificări și nu va mai fi actualizată."&lt;/li&gt;"
-"&lt;li&gt;Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor pentru rularea în fundal de mai jos. Maxim 4 aplicații pot rula în fundal cât timp Modul extrem de economisire a acumulatorului este activ.&lt;/li&gt;"
-"&lt;li&gt;Modul extrem de economisire a acumulatorului dezactivează NFC-ul în mod implicit. Puteți modifica acest lucru din Setări.&lt;/li&gt;"
-"&lt;li&gt;Pentru a vă asigura că puteți utiliza toate funcțiile dispozitivului în mod normal, Modul extrem de economisire a acumulatorului va fi dezactivat în mod automat când acumulatorul are mai mult de 30% energie.&lt;/li&gt;</string>
+    <string name="extreme_power_config_mode_desc"><li>"Modul extrem de economisire a acumulatorului oprește întreaga activitate din fundal a unei aplicații  după ce o părăsiți și reveniți la Ecranul principal. Această aplicație nu vă mai trimite notificări și nu va mai fi actualizată."</li>"
+"<li>Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor pentru rularea în fundal de mai jos. Maxim 4 aplicații pot rula în fundal cât timp Modul extrem de economisire a acumulatorului este activ.</li>"
+"<li>Modul extrem de economisire a acumulatorului dezactivează NFC-ul în mod implicit. Puteți modifica acest lucru din Setări.</li>"
+"<li>Pentru a vă asigura că puteți utiliza toate funcțiile dispozitivului în mod normal, Modul extrem de economisire a acumulatorului va fi dezactivat în mod automat când acumulatorul are mai mult de 30% energie.</li></string>
     <string name="extreme_power_config_mode_summary">Modul extrem de economisire a acumulatorului restricționează activitatea din fundal și oprește sincronizarea.</string>
     <string name="extreme_power_config_mode_title">Mod Extrem de economisire a acumulatorului</string>
     <string name="extreme_power_settings_title">setări</string>
@@ -252,7 +252,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="screen_off">Ecranul este oprit</string>
     <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
     <string name="screen_on">Ecranul este pornit</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="set_brightness">Luminozitate maximă a ecranului</string>

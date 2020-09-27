@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -377,7 +377,7 @@ Selecție"</string>
     <string name="notification_missedCallsMsg">%s apeluri ratate</string>
     <string name="notification_missedCallsTitle">Apeluri ratate</string>
     <string name="notification_missedWorkCallTitle">Apel de Servici pierdut</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="okay">OK</string>
@@ -443,7 +443,7 @@ Selecție"</string>
     <string name="respond_via_sms_confirmation_format">Mesaj trimis la %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Răspuns rapid</string>
     <string name="respond_via_sms_failure_format">Nu s-a putut trimite mesajul către %s.</string>
-    <string name="respond_via_sms_setting_summary"/>
+    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_setting_title">Răspunsuri rapide</string>
     <string name="respond_via_sms_setting_title_2">Editați răspunsurile rapide</string>
     <string name="retail_demo_reset_message">Introduceți parola pentru a realiza o revenire la setările din fabrică în modul Demo</string>

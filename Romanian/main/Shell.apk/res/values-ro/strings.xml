@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Shell</string>
     <string name="bugreport_add_details_to_zip_failed">"Nu s-au putut adăuga detaliile raportului în arhiva .zip"</string>

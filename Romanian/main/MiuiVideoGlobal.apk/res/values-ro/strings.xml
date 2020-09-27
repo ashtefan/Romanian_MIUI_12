@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Earlier">Mai devreme</string>
     <string name="This_week">În această săptămână</string>
@@ -48,8 +48,8 @@
     <string name="account_crop_user_avatar">Decupați fotografia</string>
     <string name="account_empty_user_name">Introduceți numele de utilizator pentru contul Mi</string>
     <string name="account_error_all_space_user_name">Numele de utilizator nu poate conține doar spații</string>
-    <string name="account_error_invalid_user_name">"Numele nu poate conține &lt;, &gt;, sau /"</string>
-    <string name="account_error_longer_user_name">"Numele nu poate conține mai mult de 20 de caractere"</string>
+    <string name="account_error_invalid_user_name">Numele nu poate conține &lt;, >, or /</string>
+    <string name="account_error_longer_user_name">Numele nu poate conține mai mult de 20 de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să aibă mai mult de 2 caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
     <string name="account_error_user_name">Pseudonimul nu este valid. Încercați cu altul.</string>
@@ -176,7 +176,7 @@
     <string name="columbus_player_close_video">ÎNCHIDEȚI VIDEOCLIPUL</string>
     <string name="columbus_player_install_now">INSTALAȚI ACUM</string>
     <string name="columbus_player_learn_more">Aflați mai multe</string>
-    <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
+    <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată pe durata descărcării unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView login necesită permisiunea de accesare a INTERNETULUI</string>
     <string name="com_facebook_internet_permission_error_title">Eroare AndroidManifest</string>
@@ -436,7 +436,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_online_cta_title">Termeni și condiții</string>
     <string name="galleryplus_online_video_loading">Doar o secundă…</string>
     <string name="galleryplus_permission_content">Acordați Mi Video permisiunile necesare pentru a putea utiliza această caracteristică.</string>
-    <string name="galleryplus_permission_content2">"Pentru a putea utiliza această caracteristică, mergeți la Setări>Aplicații>Mi Video>Permisiunile aplicației și permiteți Mi Video următoarele:
+    <string name="galleryplus_permission_content2">"Pentru a putea utiliza această caracteristică, mergeți la Setări > Aplicații > Mi Video > Permisiunile aplicației și permiteți Mi Video următoarele:
 
 1. Accesarea stocării
 2. Accesarea ID-ului dispozitivului"</string>
@@ -499,11 +499,11 @@ Trimiteți acest cod supervizorului."</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="issue">Problemă</string>
     <string name="just_a_second">Doar o secundă…</string>
-    <string name="language_later_setting_tips">Puteți modifica preferințele pentru limbă din Profil>Limbă.</string>
+    <string name="language_later_setting_tips">Puteți modifica preferințele pentru limbă din Profil > Limbă.</string>
     <string name="language_select_tips">"Selectați limba preferată
 pentru videoclipuri"</string>
     <string name="language_setting_tips">Selectați preferințele pentru limbă pentru a primi recomandări mai relevante. Puteți modifica preferințele pentru limbă din Profil>Limbă.</string>
-    <string name="language_setting_tips_dialog">Puteți selecta preferințele pentru limbă pentru conținut din Cont>Limbă.</string>
+    <string name="language_setting_tips_dialog">Puteți selecta preferințele pentru limbă pentru conținut din Cont > Limbă.</string>
     <string name="later">Mai târziu</string>
     <string name="lbl_connection_failed_alert_title">Conexiunea a eșuat</string>
     <string name="lbl_player_local_video_deleted_alert_dialog_text">Acest videoclip nu poate fi redat.</string>
@@ -562,7 +562,7 @@ pentru videoclipuri"</string>
     <string name="lv_confirm_unhide_videos">Reafişați videoclipurile?</string>
     <string name="lv_deleting">Se șterge…</string>
     <string name="lv_device_list">Dispozitive</string>
-    <string name="lv_device_list_seaching">&lt; Nici un dispozitiv pentru a transminte></string>
+    <string name="lv_device_list_seaching">&lt; Nici un dispozitiv pe care să se proiecteze></string>
     <string name="lv_do_not_show_this_again">Nu mai afișa din nou</string>
     <string name="lv_favor">Favorite</string>
     <string name="lv_find_new_version">O actualizare este disponibilă</string>
@@ -626,7 +626,7 @@ pentru videoclipuri"</string>
     <string name="lv_subtitle_onlinesub_loading">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Se încarcă subtitrările…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Act de renunțare</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/&gt;&lt;br/&gt;de la &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Toate subtitrările online sunt furnizate de &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Obțineți subtitări &lt;br/>&lt;br/>de la &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Toate subtitrările online sunt furnizate de &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Nu s-a putut adăuga subtitrarea</string>
     <string name="lv_subtitle_onlinesub_save_success">Au fost adăugate subtitrările cu succes</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Introduceți cuvinte cheie pentru a căuta</string>
@@ -825,7 +825,7 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="passport_account_name">"Cont: %1$s "</string>
     <string name="passport_activate_token_expired">Codul de verificare a expirat. Vă rugăm să încercați din nou.</string>
     <string name="passport_area_code_title">Prefixul zonei</string>
-    <string name="passport_auth_title"/>
+    <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Nume de utilizator sau parolă invalide</string>
     <string name="passport_barcode_add_account_prompt">Pentru a adăuga un cont, scanați codul QR din nou după ce vă conectați.</string>
     <string name="passport_can_not_receive_verification_code">Nu ați primit codul de verificare?</string>
@@ -897,8 +897,8 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="passport_unknow_error">Ne pare rău, a apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">Ne pare rău, a apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;Am citit și sunt de acord cu &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%2$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="passport_user_agreement_link_more">&lt;Data&gt;Am citit și sunt de acord cu următoarele documente: &lt;a href=%1$s&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href=%4$s&gt;Politica de Confidențialitate Xiaomi&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link">&lt;Data>Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate Xiaomi&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Am citit și sunt de acord cu următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate Xiaomi&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării este incompletă</string>
@@ -1006,7 +1006,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_player_subtitle_local_add_success">Subtitrări adăugate cu succes</string>
     <string name="plus_player_subtitle_no_file">Nicio subtitrare aici.</string>
     <string name="plus_player_subtitle_online">Subtitrări online</string>
-    <string name="plus_player_subtitle_online_declare_content">Sunteți pe cale să căutați &lt;br/&gt;subtitrări în baza de date &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Toate subtitrările sunt furnizate de către &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="plus_player_subtitle_online_declare_content">Sunteți pe cale să căutați &lt;br/>subtitrări în baza de date &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>Toate subtitrările sunt furnizate de către &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">Act de renunțare</string>
     <string name="plus_player_subtitle_online_download_fail">"Nu s-au putut descărca subtitrările"</string>
     <string name="plus_player_subtitle_online_download_start">Se descarcă subtitrările…</string>

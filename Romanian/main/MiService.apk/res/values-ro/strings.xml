@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -165,8 +165,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Acces la stocarea dispozitivului</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Nu sunt de acord"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">De acord</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;"Trebuie să acceptați &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; pentru a putea utiliza aplicația Feedback. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați."&lt;/Data&gt;</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Trebuie să acceptați &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordul Utilizatorului&lt;/a> pentru a putea utiliza aplicația Feedback. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordul Utilizatorului&lt;/a>."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Nu afișa din nou"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Trimiteţi raportul</string>
     <string name="miui_feedback_edit_submit_directly">Trimiteți</string>
@@ -267,7 +267,7 @@
     <string name="night">Seară</string>
     <string name="noon">Amiază</string>
     <string name="permission_agree">De acord</string>
-    <string name="permission_china_version_msg">&lt;Data&gt;Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.&lt;/Data&gt;</string>
+    <string name="permission_china_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.</Data></string>
     <string name="permission_complete">Finalizat</string>
     <string name="permission_contacts_info">Acces la informațiile despre cont</string>
     <string name="permission_contacts_introduce">Pentru conectarea utilizând Contul Mi</string>
@@ -281,7 +281,7 @@
     <string name="permission_location_introduce">Pentru afișarea punctelor de servicii din apropiere</string>
     <string name="permission_main_purpose">Afișarea prezentărilor funcțiilor MIUI, trimiterea de feedback și aplicarea la servicii post vânzare.</string>
     <string name="permission_privacy">Politica de Confidențialitate (obligatoriu)</string>
-    <string name="permission_region_version_msg">&lt;Data&gt;Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &amp;lt;a href=%1$s&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=%2$s&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="permission_region_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>.</Data></string>
     <string name="permission_select_all">Selectați tot</string>
     <string name="permission_storage">Stocare</string>
     <string name="permission_storage_introduce">Pentru salvarea elementelor în dispozitiv</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Parse_error_dlg_text">A apărut o problemă la analizarea pachetului</string>
     <string name="abc_action_bar_home_description">Navigare acasă</string>
@@ -240,7 +240,7 @@ Sample Rate"</string>
 Toate datele de utilizator vor fi păstrate."</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) va înlocui versiunea instalată în prezent (%3$s). Toate datele de utilizator vor fi păstrate.</string>
     <string name="dlg_app_replacement_title">Înlocuiți aplicația?</string>
-    <string name="dlg_appstore_notice">Nu putem verifica autenticitatea scurității aplicațiilor provenite din surse din afara &lt;u&gt;&lt;font color=#91c727&gt;Magazinului de Aplicații&lt;/font&gt;&lt;/u&gt;."</string>
+    <string name="dlg_appstore_notice">Nu putem verifica autenticitatea securității aplicațiilor provenite din surse din afara &lt;u>&lt;font color=#91c727>Magazinului de Aplicații&lt;/font>&lt;/u>.</string>
     <string name="dlg_game_center_intercept_game_center_install">Instalați din Jocuri Mi</string>
     <string name="dlg_game_center_intercept_install">Instalați oricum</string>
     <string name="dlg_game_center_intercept_msg">Instalarea jocurilor din surse terțe poate atrage riscuri de securitate. Descărcați și instalați Jocuri Mi pentru a accesa versiunile sigure ale aplicațiilor.</string>
@@ -294,7 +294,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="grant_dialog_button_more_info">Mai multe informații</string>
     <string name="hdcp_checking_dialog_title">Setați comportamentul verificării HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
-    <string name="help_app_permissions"/>
     <string name="help_feedback_label">Ajutor și feedback</string>
     <string name="high_risk_perms">Permisiuni cu risc ridicat</string>
     <string name="home">Setări Acasă</string>
@@ -344,7 +343,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_failed_system_incompatible">Această aplicație nu este compatibilă cu MIUI"</string>
     <string name="install_finished_notification_summary">Atingeți pentru a elibera spațiu de stocare</string>
     <string name="install_finished_notification_title">%1$s s-a instalat cu succes. Puteți elibera %2$s din spațiul de stocare.</string>
-    <string name="install_from_appstore_hint">Vă recomandăm să instalați aplicația din &lt;u&gt;&lt;font color=#91c727&gt;Magazinul de Aplicații&lt;/font&gt;&lt;/u&gt;</string>
+    <string name="install_from_appstore_hint">Vă recomandăm să instalați aplicația din &lt;u>&lt;font color=#91c727>Magazinul de Aplicații&lt;/font>&lt;/u></string>
     <string name="install_vip_account_mode_explain_des">Aceasta este o versiune Beta a aplicației. Aplicați pentru programul Beta de testare înainte de a o instala.</string>
     <string name="install_vip_account_mode_solution_des">Aplicați pentru programul Beta</string>
     <string name="installing">Se instalează…</string>
@@ -465,7 +464,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_failed_solution_1">Dezinstalați versiunea curentă a acestei aplicații și instalați aplicația din nou.</string>
     <string name="miui_failed_solution_2">Este posibil ca pachetul de instalare să fie corupt. Descărcați aplicația din nou.</string>
     <string name="miui_failed_solution_3">Încercați să salvați pachetul de instalare într-o locație diferită.</string>
-    <string name="miui_failed_solution_4">Eliberați spațiu de stocare în Securitate>Curățare și încercați din nou.</string>
+    <string name="miui_failed_solution_4">Eliberați spațiu de stocare în Securitate > Curățare și încercați din nou.</string>
     <string name="miui_failed_solution_5">Încercați să utilizați un pachet de instalare compatibil.</string>
     <string name="miui_failed_solution_6">Dezinstalați această aplicație din Spațiul secundar și încercați din nou.</string>
     <string name="miui_failed_solution_7">Descărcați cea mai recentă versiune a aplicației din GetApps.</string>
@@ -483,7 +482,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_install_source_unkown">Necunoscut</string>
     <string name="miui_install_success">Instalată cu succes</string>
     <string name="miui_install_version">Versiune: %1$s | Dimensiune: %2$s</string>
-    <string name="miui_install_version_3">Versiunea: %1$s -&gt; %2$s | Dimensiune: %3$s</string>
+    <string name="miui_install_version_3">Versiunea: %1$s -> %2$s | Dimensiune: %3$s</string>
     <string name="miui_installing">Se instalează…</string>
     <string name="miui_installing2">Se instalează…</string>
   <string name="miui_message_staging_0">Staging app   </string>
@@ -505,7 +504,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_uninstall_success">Dezinstalată cu succes</string>
     <string name="miui_uninstalling">Se dezinstalează…</string>
     <string name="miui_virus_deleted">Viruși șterși cu succes</string>
-    <string name="miui_virus_install">&lt;u&gt;Instalați oricum&lt;/u&gt;</string>
+    <string name="miui_virus_install"><u>Instalați oricum</u></string>
     <string name="miui_virus_scanning">Se scanează…</string>
     <string name="miui_virus_scanning_0">Se scanează</string>
     <string name="miui_virus_scanning_1">Se scanează.</string>
@@ -574,7 +573,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="permission_send_sms_descx">Aplicația poate trimite SMS-uri și MMS-uri</string>
     <string name="permission_summary_enforced_by_policy">Solicitată de către politică</string>
     <string name="permission_title">Permisiuni pentru %1$s</string>
-    <string name="permission_warning_template">Permiteți aplicației &lt;b&gt;%1$s&lt;/b&gt; să %2$s?</string>
+    <string name="permission_warning_template">Permiteți aplicației &lt;b>%1$s&lt;/b> să %2$s?</string>
     <string name="permlab_togglePermissions">comutare permisiuni</string>
     <string name="picture_color_mode">Mod culoare fotografii</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>

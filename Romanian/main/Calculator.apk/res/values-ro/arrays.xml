@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="height_array">
-        <item>Centimetri</item>
-        <item>Metri</item>
-        <item>Picioare</item>
-        <item>Inci</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Rate egale</item>
-        <item>Rate descrescătoare</item>
-    </string-array>
-    <string-array name="operatorDescs">
-        <item>paranteză stânga</item>
-        <item>paranteză dreapta</item>
-        <item>factorial</item>
-        <item>logaritm natural</item>
-        <item>logaritm</item>
-        <item>rădăcină pătrată</item>
-        <item>împărţit la</item>
-        <item>înmulţit cu</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> punct </item>
-        <item>putere</item>
-        <item>tangentă</item>
-        <item>sinus</item>
-        <item>cosinus</item>
-        <item>pi</item>
-        <item>egal cu</item>
-    </string-array>
-    <string-array name="unit_data_order_currency_">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>RON</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>Kilograme</item>
-        <item>Pounds</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -66,6 +28,35 @@
         <item>Y</item>
         <item>Z</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Centimetri</item>
+        <item>Metri</item>
+        <item>Picioare</item>
+        <item>Inci</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Rate egale</item>
+        <item>Rate descrescătoare</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>paranteză stânga</item>
+        <item>paranteză dreapta</item>
+        <item>factorial</item>
+        <item>logaritm natural</item>
+        <item>logaritm</item>
+        <item>rădăcină pătrată</item>
+        <item>împărţit la</item>
+        <item>înmulţit cu</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> punct </item>
+        <item>putere</item>
+        <item>tangentă</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>egal cu</item>
     </string-array>
     <string-array name="operators">
         <item>(</item>
@@ -105,6 +96,11 @@
         <item>mu</item>
         <item>chi pătrat</item>
         <item>cun pătrat</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RON</item>
     </string-array>
     <string-array name="unit_data_order_length_">
         <item>km</item>
@@ -202,5 +198,9 @@
         <item>qian</item>
         <item>liang</item>
         <item>taijin</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilograme</item>
+        <item>Pounds</item>
     </string-array>
 </resources>

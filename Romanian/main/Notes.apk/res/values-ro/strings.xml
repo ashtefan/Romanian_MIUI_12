@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -84,9 +84,6 @@
     <string name="data_empty_note">Nicio notiță aici deocamdată</string>
     <string name="data_empty_todo">Nicio sarcină aici deocamdată</string>
     <string name="date_calculate_today">0 zile</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_alarm_reminder">Alarmă</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -121,7 +118,6 @@
     <string name="edit_header_done_description">Finalizat</string>
     <string name="edit_header_lock_description">Notiță ascunsă</string>
     <string name="edit_note_hint_title">Titlu</string>
-    <string name="empty"/>
     <string name="empty_folder_import_notes">Importați notițe</string>
     <string name="empty_folder_no_notes">Nicio notiță aici</string>
     <string name="enable_sync">Sincronizaţi</string>
@@ -336,7 +332,7 @@
     <string name="permission_phone_state_desc">Pentru oprirea înregistrării notițelor vocale pe durata apelurilor</string>
     <string name="permission_read_contact_desc">Asocierea notițelor create pe durata apelurilor cu persoanele din agendă</string>
     <string name="permission_storage_desc">Pentru salvarea notițelor ca imagini</string>
-    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI va colecta înregistrările vocale și ID-ul dispozitivului pentru a transcrie și crea notițe vocale. Aflați mai multe din &amp;lt;a href=\"%1$s\"&amp;gt;Politica de Confidențialitate Mi AI&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI va colecta înregistrările vocale și ID-ul dispozitivului pentru a transcrie și crea notițe vocale. Aflați mai multe din &lt;a href=\"%1$s\">Politica de Confidențialitate Mi AI&lt;/a>.</Data></string>
     <string name="permlab_accessNote">Accesare note</string>
     <string name="pm">PM</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Glisați în sus cu 2 degete pentru a șterge notițele fără confirmare</string>

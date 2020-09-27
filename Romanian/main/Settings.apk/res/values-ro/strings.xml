@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="APN_NAME_CMMMS">CMMMS</string>
     <string name="APN_NAME_CMNET">CMNET</string>
@@ -143,24 +143,24 @@ Porniți această caracteristică și atingeți butonul Accesibilitate din parte
     <string name="accessibility_screen_magnification_navbar_short_summary">Atingeți un buton pentru a mări</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Când magnificarea este activată, utilizați butonul de Accesibilitate din partea inferioară a ecranului pentru a mări rapid.
 
-"&lt;b&gt;Pentru a mări&lt;/b&gt;", atingeți butonul Accesibilitate, apoi atingeți oriunde pe ecran.
-"&lt;ul&gt;&lt;li&gt;&amp;#8226; Trageți cu 2 sau mai multe degete pentru a derula&lt;/li&gt;"
-"&lt;li&gt;Ciupiți cu 2 sau mai multe degete pentru a seta gradul de magnificare&lt;/li&gt;&lt;/ul&gt;"
+"<b>Pentru a mări</b>", atingeți butonul Accesibilitate, apoi atingeți oriunde pe ecran.
+"<ul><li>• Trageți cu 2 sau mai multe degete pentru a derula</li>"
+"<li>• Ciupiți cu 2 sau mai multe degete pentru a seta gradul de magnificare</li></ul>"
 
-"&lt;b&gt;Pentru a mări temporar&lt;/b&gt;", atingeți butonul de Accesibilitate, apoi atingeți și mențineți apăsat oriunde pe ecran.
-"&lt;ul&gt;&lt;li&gt;Trageți pentru a muta pe suprafața ecranului&lt;/li&gt;"
-"&lt;li&gt;Ridicați degetul pentru a micșora&lt;/li&gt;&lt;/ul&gt;"
+"<b>Pentru a mări temporar</b>", atingeți butonul de Accesibilitate, apoi atingeți și mențineți apăsat oriunde pe ecran.
+"<ul><li>• Trageți pentru a muta pe suprafața ecranului</li>"
+"<li>• Ridicați degetul pentru a micșora</li></ul>"
 
 Nu puteți mări zona tastaturii sau a barei de navigare."</string>
     <string name="accessibility_screen_magnification_navbar_title">Magnificare cu ajutorul butoanelor</string>
     <string name="accessibility_screen_magnification_short_summary">Atingeți de 3 ori pentru a mări</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Magnificare cu ajutorul butoanelor și cu atingere triplă</string>
-    <string name="accessibility_screen_magnification_summary">&lt;b&gt;Pentru a mări&lt;/b&gt;", apăsați rapid de 3 ori pe ecran cu un deget.
-"&lt;ul&gt;&lt;li&gt;Trageți cu 2 sau mai multe degete pentru a derula&lt;/li&gt;"
-"&lt;li&gt;Ciupiți cu 2 sau mai multe degete pentru a regla gradul de magnificare&lt;/li&gt;&lt;/ul&gt;"
-"&lt;b&gt;Pentru a mări temporar&lt;/b&gt;", atingeți rapid de 3 ori pe ecran și mețineți apăsat la a treia atingere.
-"&lt;ul&gt;&lt;li&gt;Mișcați degetul pentru a muta pe suprafața ecranului&lt;/li&gt;"
-"&lt;li&gt;Ridicați degetul pentru a micșora&lt;/li&gt;&lt;/ul&gt;"
+    <string name="accessibility_screen_magnification_summary"><b>Pentru a mări</b>", apăsați rapid de 3 ori pe ecran cu un deget.
+"<ul><li>Trageți cu 2 sau mai multe degete pentru a derula</li>"
+"<li>Ciupiți cu 2 sau mai multe degete pentru a regla gradul de magnificare</li></ul>"
+"<b>Pentru a mări temporar</b>", atingeți rapid de 3 ori pe ecran și mețineți apăsat la a treia atingere.
+"<ul><li>Mișcați degetul pentru a muta pe suprafața ecranului</li>"
+"<li>Ridicați degetul pentru a micșora</li></ul>"
 
 Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="accessibility_screen_magnification_title">Magnificare</string>
@@ -683,7 +683,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_sync_personal_account_title">Sincronizează datele personale în mod automat</string>
     <string name="auto_sync_work_account_title">Sincronizează datele de servici în mod automat</string>
     <string name="autofill_app">Serviciul de completare automată</string>
-    <string name="autofill_confirmation_message">"&lt;b&gt;Asigurați-vă că aveți încredere în această aplicație&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; utilizează conținutul de pe ecran pentru a determina ce se poate completa în mod automat."</string>
+    <string name="autofill_confirmation_message">"&lt;b>Asigurați-vă că aveți încredere în această aplicație&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> utilizează conținutul de pe ecran pentru a determina ce se poate completa în mod automat."</string>
     <string name="autofill_keywords">auto, completare, completare automată</string>
     <string name="autofill_logging_level_title">Nivel jurnalizare</string>
     <string name="autofill_max_partitions">Nr maxim de solicitări per sesiune</string>
@@ -1014,7 +1014,7 @@ Aplicații:
     <string name="bluetooth_battery_level">%1$s acumulator</string>
     <string name="bluetooth_battery_level_untethered">S: %1$s acumulator, D: %2$s acumulator</string>
     <string name="bluetooth_broadcasting">Difuzare</string>
-    <string name="bluetooth_confirm_passkey_msg">Pentru asocierea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;asiguraţi-vă că se afişează această cheie de acces:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="bluetooth_confirm_passkey_msg">Pentru asocierea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>asiguraţi-vă că se afişează această cheie de acces:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Nu s-a putut conecta. Încercați din nou.</string>
     <string name="bluetooth_connect_settings">Setări conexiune Bluetooth</string>
     <string name="bluetooth_connect_specific_profiles_title">Conectaţi-vă la…</string>
@@ -1067,7 +1067,7 @@ Aplicații:
     <string name="bluetooth_disable_inband_ringing_summary">Nu se redau tonurile de apel în căștile Bluetooth</string>
     <string name="bluetooth_disable_mi_fast_connect">Dezactivare conectare rapidă Mi</string>
     <string name="bluetooth_disable_mi_fast_connect_summary">Dezactivați funcția de conectare rapidă Mi</string>
-    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de pe:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>De la:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Dezactivaţi profilul?</string>
     <string name="bluetooth_disabled">Invizibil pentru alte dispozitive</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s va fi deconectat de la media audio.</string>
@@ -1080,7 +1080,7 @@ Aplicații:
     <string name="bluetooth_disconnect_title">Deconectaţi?</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">În curs de deconectare…</string>
-    <string name="bluetooth_display_passkey_pin_msg">Pentru asocierea cu:<b>%1$s</b> introduceţi pe acesta:<b>%2$s</b>, apoi apăsaţi tasta Return sau Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Pentru asocierea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> introduceţi pe acesta:&lt;br>&lt;b>%2$s&lt;/b>, apoi apăsaţi tasta Return sau Enter.</string>
     <string name="bluetooth_display_settings">Setări afișaj Bluetooth</string>
     <string name="bluetooth_dock_settings">Setări de andocare</string>
     <string name="bluetooth_dock_settings_a2dp">Pentru muzică şi fişiere media</string>
@@ -1110,7 +1110,7 @@ Aplicații:
     <string name="bluetooth_hearingaid_right_pairing_message">Se asociază Ajutorul Ascultare dreapta…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectat la dispozitivul de intrare</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizaţi pentru introducere date</string>
-    <string name="bluetooth_incoming_pairing_msg">Notificare de la:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Asociaţi cu acest dispozitiv?</string>
+    <string name="bluetooth_incoming_pairing_msg">De la:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Asociaţi cu acest dispozitiv?</string>
     <string name="bluetooth_inform_messgae">"Nu s-a putut conecta la %1$s.
 Iată ce ar putea fi în neregulă:
 1. Bluetooth-ul este dezactivat pe acest dispozitiv sau este în afara razei de acțiune.
@@ -1215,7 +1215,7 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_scan_for_devices">Scanaţi pentru a detecta dispozitive</string>
     <string name="bluetooth_scanning_on_info_message">"Atunci când Bluetooth-ul este pornit, dispozitivul dvs. poate comunica cu alte dispozitive Bluetooth din apropiere.
 
-Pentru a îmbunătăți experiența dispozitivului, aplicațiile și serviciile pot scana dispozitivele din apropiere oricând, chiar și când Bluetooth-ul este oprit. Acest lucru poate fi folosit, de exemplu, pentru a îmbunătăți caracteristicile și serviciile de localizare bazate pe localizare. Puteți modifica acest lucru în "&lt;annotation id="link"&gt;setările de scanare&lt;/annotation&gt;.</string>
+Pentru a îmbunătăți experiența dispozitivului, aplicațiile și serviciile pot scana dispozitivele din apropiere oricând, chiar și când Bluetooth-ul este oprit. Acest lucru poate fi folosit, de exemplu, pentru a îmbunătăți caracteristicile și serviciile de localizare bazate pe localizare. Puteți modifica acest lucru în "<annotation id="link">setările de scanare</annotation>.</string>
     <string name="bluetooth_search_for_devices">Căutaţi dispozitive</string>
     <string name="bluetooth_searching_for_devices">Se caută…</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mod Bluetooth audio aptX adaptiv</string>
@@ -1366,7 +1366,7 @@ Dacă ați făcut deja toate cele de mai sus, adăugați din nou contul dvs. Mi;
 Puteți modifica acest lucru din Setări."</string>
     <string name="bt_aac_dialog_title">Conexiune Bluetooth</string>
     <string name="bt_aac_open_dialog_summary">"Este posibil ca AAC să nu poată reda sunete datorită problemelor de compatibilitate.
-Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive asociate."</string>
+Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive asociate."</string>
     <string name="bt_aac_open_dialog_title">Se comută la codecul AAC</string>
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_absVolume_open_dialog_summary">Din cauza problemelor de compatibilitate, unele dispozitive Bluetooth pot avea niveluri de volum anormale, care pot fi rezolvate prin oprirea acestei funcții.</string>
@@ -1697,8 +1697,6 @@ Puteți dezactiva această caracteristică din Setări>Bluetooth>Dispozitive aso
     <string name="condition_zen_summary_phone_muted">Telefon redus la tăcere</string>
     <string name="condition_zen_summary_with_exceptions">Cu excepții</string>
     <string name="condition_zen_title">Modul Nu deranjați este activ</string>
-    <string name="config_backup_settings_intent"/>
-    <string name="config_backup_settings_label"/>
     <string name="config_charging_function_name">Încărcare</string>
     <string name="config_list_label">Reţele configurate</string>
     <string name="configure">Configurați</string>
@@ -1992,10 +1990,10 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="data_usage_restrict_denied_dialog">Restricţionarea datelor în fundal este posibilă numai dacă aţi setat o limită de date mobile.</string>
     <string name="data_usage_summary_format">%1$s date utilizate</string>
     <string name="data_usage_summary_title">Rata de utilizare a datelor</string>
-    <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt;&lt;font size="9"&gt; ^2&lt;/font&gt;"
-"&lt;font size="12"&gt;limită&lt;/font&gt;</string>
-    <string name="data_usage_sweep_warning">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;avertisment&lt;/font&gt;</string>
+    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">limită</font></string>
+    <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">avertisment</font></string>
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -2879,10 +2877,10 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="forget">Renunțați</string>
     <string name="forget_passpoint_dialog_message">Este posibil să pierdeți accesul la orice durată sau date rămase. Verificați împreună cu operatorul înainte de a elimina.</string>
     <string name="forget_passpoint_wifi_message">Telefonul dvs. nu se va mai conecta în mod automat la această rețea.</string>
-    <string name="forget_password_button_text">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="forget_password_button_text"><u>Am uitat parola</u></string>
     <string name="forget_password_dialog_button_text">Înapoi</string>
     <string name="forget_password_dialog_content_four">2. Selectați [Ștergere date] și așteptați până când telefonul repornește.</string>
-    <string name="forget_password_dialog_content_one">&lt;Data&gt;"Dacă ați uitat parola, nu o veți mai putea recupera. Totuși, veți putea reseta parola după ce &amp;lt;font color=#ec2700&amp;gt;ștergeți toate datele din telefon&amp;lt;/font&amp;gt; (inclusiv fotografiile, contactele, etc.). Salvați toate datele importante înainte de asta."&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_one"><Data>Dacă ați uitat parola, nu o veți mai putea recupera. Totuși, veți putea reseta parola după ce &lt;font color=#ec2700>ștergeți toate datele din telefon&lt;/font> (inclusiv fotografiile, contactele, etc.). Salvați toate datele importante înainte de asta."</Data></string>
     <string name="forget_password_dialog_content_three">1. Închideți telefonul. Apăsați butoanele [Pornire] și [Volum+] simultan și mențineți-le apăsate până când vedeți pictograma.</string>
     <string name="forget_password_dialog_content_two">Urmați acești pași pentru a șterge datele:</string>
     <string name="forget_password_dialog_title">Resetați parola</string>
@@ -3145,7 +3143,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="high_power_off">Utilizare optimizată a acumulatorului</string>
     <string name="high_power_on">Neoptimizat</string>
     <string name="high_power_prompt_body">"Permițând aplicației %1$s să ruleze în fundal se poate reduce durata de viață a acumulatorului.
-Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări."</string>
+Puteți modifica acest lucru mai târziu în Setări > Aplicații și notificări."</string>
     <string name="high_power_prompt_title">Permiteți aplicației să ruleze în fundal?</string>
     <string name="high_power_system">Optimizarea acumulatorului nu este disponibilă</string>
     <string name="hint_unadjustable_text">Nu se poate ajusta manual. Temperatura de culoare este acum ajustată în mod automat.</string>
@@ -3173,7 +3171,7 @@ Xiaomi Cloud
 Sincronizați contactele, fotografiile, videoclipurile, lista aplicațiilor, setările de sistem și dispunerea Ecranului principal în cloud."</string>
     <string name="how_backup_title">1. Cum pot face copii de rezervă pentru diverse elemente?</string>
     <string name="how_encrypt_content">"Copiile de rezervă locale pot fi doar criptate. Iată câteva metode pe care le puteți utiliza:
-a) Mergeți la Setări>Setări adiționale din pagina care conține copiile de rezervă locale, atingeți butonul pentru a activa criptarea și conectați-vă la contul dvs. Mi. Copiile de rezervă vor fi criptate în mod automat după aceea. Țineți minte că va trebui să vă conectați la contul Mi pentru a restaura elementele din copiile de rezervă criptate.
+a) Mergeți la Setări > Setări adiționale din pagina care conține copiile de rezervă locale, atingeți butonul pentru a activa criptarea și conectați-vă la contul dvs. Mi. Copiile de rezervă vor fi criptate în mod automat după aceea. Țineți minte că va trebui să vă conectați la contul Mi pentru a restaura elementele din copiile de rezervă criptate.
 b) Dacă utilizați Mi PC Suite pentru a face o copie de rezervă, puteți folosi opțiunile de criptare de acolo.
 
 Notă: Țineți minte parola setată pentru copiile de rezervă criptate! Nu veți putea decripta copiile de rezervă dacă uitați parola."</string>
@@ -3473,9 +3471,9 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="language_and_input_for_work_category_title">Tastaturi profil de servici și unelte</string>
     <string name="language_empty_list_user_restricted">Nu aveți permisiunea să schimbați limba dispozitivului.</string>
-    <string name="language_input_gesture_summary_off"/>
-    <string name="language_input_gesture_summary_on_non_assist"/>
-    <string name="language_input_gesture_summary_on_with_assist"/>
+    <string name="language_input_gesture_summary_off" />
+    <string name="language_input_gesture_summary_on_non_assist" />
+    <string name="language_input_gesture_summary_on_with_assist" />
     <string name="language_input_gesture_title">Limbă, introducere și gesturi</string>
     <string name="language_keyboard_settings_title">Limbă şi metodă de introducere</string>
     <string name="language_picker_title">Limba</string>
@@ -3511,7 +3509,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="launching_rep">Raportare…</string>
     <string name="layout_exhuge_font_take_effect_tips">Dimensiunea XXL a textului funcționează doar în aplicațiile de Telefon, Mesagerie și Contacte</string>
     <string name="layout_exhuge_font_tips">Mai multe opțiuni sunt disponibile în %1$s</string>
-    <string name="layout_exhuge_font_tips_reg">Accesibilitate &gt; Dimensiunea textului</string>
+    <string name="layout_exhuge_font_tips_reg">Accesibilitate > Dimensiunea textului</string>
     <string name="layout_size_exhuge">XXL</string>
     <string name="layout_size_exhuge_text">XXL</string>
     <string name="layout_size_extral_small">XXS</string>
@@ -3857,8 +3855,8 @@ cât cel pentru Spațiul principal"</string>
     <string name="long_press_power_key">Apăsați lung butonul de Pornire</string>
     <string name="long_press_power_key_half_of_second">Apăsați și mențineți apăsat butonul de Pornire pentru 0,5 secunde pentru a activa Asistentul Google</string>
     <string name="long_press_power_key_half_second">Apăsați și mențineți apăsat butonul de Pornire timp de %s secunde</string>
-    <string name="long_press_power_key_tips">&lt;Data&gt;Apăsați lung butonul de Pornire &amp;lt;font color=#999999&amp;gt;Mai rapid și mai comod&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-    <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
+    <string name="long_press_power_key_tips"><Data>Apăsați lung butonul de Pornire &lt;font color=#999999>Mai rapid și mai comod&lt;/font></Data></string>
+    <string name="long_press_volume_down">Apăsarea lungă a butonului Volum-</string>
     <string name="lost_internet_access_cancel">Rămâneți pe Wi-Fi</string>
     <string name="lost_internet_access_persist">Nu mai arăta din nou</string>
     <string name="lost_internet_access_switch">Comută la date mobile</string>
@@ -3910,8 +3908,8 @@ cât cel pentru Spațiul principal"</string>
 În prezent sunteţi conectat la următoarele conturi:
 "</string>
     <string name="master_clear_all">"Sunteţi sigur că doriţi să ştergeţi toate datele şi să restabiliţi setările din fabrică? Atenţie: această operație nu poate fi anulată."</string>
-    <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Resetarea la configurarea din fabrică&amp;#8221; va șterge toate datele de pe telefon&lt;/b&gt;, inclusiv fotografiile, melodiile, notițele și alte date personale. Faceți o copie de rezervă pe computer pentru toate datele importante.</string>
-    <string name="master_clear_apply_step_2">Asigurați-vă că toate elementele importante sunt salvate pe computer. Toate datele de pe telefon vor fi șterse în timpul resetării. &lt;b&gt;" Nu veți putea recupera elementele pentru care nu aveți o copie de rezervă."&lt;/b&gt;</string>
+    <string name="master_clear_apply_step_1"><b>Resetarea la configurarea din fabrică va șterge toate datele de pe telefon</b>, inclusiv fotografiile, melodiile, notițele și alte date personale. Faceți o copie de rezervă pe computer pentru toate datele importante.</string>
+    <string name="master_clear_apply_step_2">Asigurați-vă că toate elementele importante sunt salvate pe computer. Toate datele de pe telefon vor fi șterse în timpul resetării. <b> Nu veți putea recupera elementele pentru care nu aveți o copie de rezervă.</b></string>
     <string name="master_clear_apply_title">Atenție</string>
     <string name="master_clear_button_text">Resetaţi telefonul</string>
     <string name="master_clear_confirm_title">Resetaţi?</string>
@@ -3920,11 +3918,11 @@ cât cel pentru Spațiul principal"</string>
 "<li>Contul dvs. Google;</li>"
 "<li>datele şi setările sistemului şi ale aplicaţiilor;</li>"
 "<li>aplicaţiile descărcate.</li>"</string>
-    <string name="master_clear_desc_also_erases_esim">&lt;li&gt;eSIMs&lt;/li&gt;</string>
-    <string name="master_clear_desc_also_erases_external">"<li>Muzică</li>"
-"<li>Fotografii</li>"
-"<li>Alte date ale utilizatorului</li>"</string>
-    <string name="master_clear_desc_erase_external_storage">""
+    <string name="master_clear_desc_also_erases_esim"><li>eSIM-urile</li></string>
+    <string name="master_clear_desc_also_erases_external"><li>Muzica</li>"
+"<li>Fotografiile</li>"
+"<li>Alte date ale utilizatorului</li></string>
+    <string name="master_clear_desc_erase_external_storage">"
 
 Pentru a şterge muzica, imaginile şi alte date ale utilizatorului, "<b>stocarea USB</b> trebuie să fie ştearsă."</string>
     <string name="master_clear_desc_no_cancel_mobile_plan">"
@@ -4504,7 +4502,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_quick_toggle_summary">Permiteţi schimbul de date atunci când telefonul dvs. atinge un alt dispozitiv</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_repair_action_btn">Restaurați</string>
-    <string name="nfc_repair_action_desc">Atingeți \"&lt;b&gt;Restaurați&lt;/b&gt;"\" pentru a remedia problemele care vă împiedică să utilizați funcțiile NFC. Nu părăsiți pagina curentă în timp ce funcția NFC este restabilită. Reporniți dispozitivul pentru a aplica modificările.</string>
+    <string name="nfc_repair_action_desc">Atingeți \"<b>Restaurați</b>"\" pentru a remedia problemele care vă împiedică să utilizați funcțiile NFC. Nu părăsiți pagina curentă în timp ce funcția NFC este restabilită. Reporniți dispozitivul pentru a aplica modificările.</string>
     <string name="nfc_repair_btn_no">Nu</string>
     <string name="nfc_repair_btn_reboot">Reporniți</string>
     <string name="nfc_repair_btn_reboot_later">Mai târziu</string>
@@ -5175,7 +5173,7 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="privacy_authorize_cloud_msg">"Pentru a asigura securitatea contului, conectați-vă la i.mi.com dacă doriți să revocați autorizarea pentru serviciile Xiaomi Cloud (inclusiv sincronizarea și copiile de rezervă)."</string>
     <string name="privacy_authorize_dialog_agree">De acord</string>
     <string name="privacy_authorize_dialog_exit">Ieșiți</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Pentru a putea utiliza caracteristicile de bază ale serviciilor Mi Cloud, trebuie să fiți de acord ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale. Citiți Politica noastră de Confidențialitate pentru a afla cum colectăm și cum procesăm datele personale. Selectând \"De acord\" înseamnă că ați citit și că sunteți de acord cu &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt; ale Xiaomi</string>
+    <string name="privacy_authorize_dialog_message"><Data>Pentru a putea utiliza caracteristicile de bază ale serviciilor Mi Cloud, trebuie să fiți de acord ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale. Citiți Politica noastră de Confidențialitate pentru a afla cum colectăm și cum procesăm datele personale. Selectând \"De acord\" înseamnă că ați citit și că sunteți de acord cu &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
     <string name="privacy_authorize_network_error">Conectați-vă la rețea și încercați din nou.</string>
     <string name="privacy_authorize_privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_authorize_revoke">Revocați</string>
@@ -5252,7 +5250,7 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="privacy_settings_title">Creare copie de rezervă</string>
     <string name="privacy_thumbnail_blur_progress_message">Doar o secundă…</string>
     <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
-    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Aflați mai multe&lt;/annotation&gt; despre caracteristicile DNS Privat</string>
+    <string name="private_dns_help_message"><annotation id="url">Aflați mai multe</annotation> despre caracteristicile DNS Privat</string>
     <string name="private_dns_mode_off">Oprit</string>
     <string name="private_dns_mode_opportunistic">Automat</string>
     <string name="private_dns_mode_provider">Numele gazdă al furnizorului de DNS privat</string>
@@ -5445,11 +5443,11 @@ Interfață UT: %5$s"</string>
     <string name="reset_app_preferences_button">Resetaţi aplicaţiile</string>
     <string name="reset_app_preferences_desc">"Astfel vor fi resetate toate preferinţele pentru:
 
-"&lt;li&gt;Aplicaţii dezactivate&lt;/li&gt;"
-"&lt;li&gt;Notificări de aplicaţii dezactivate&lt;/li&gt;"
-"&lt;li&gt;Aplicaţii prestabilite pentru acţiuni&lt;/li&gt;"
-"&lt;li&gt;Restricţii privind datele de fundal pentru aplicaţii&lt;/li&gt;"
-"&lt;li&gt;Orice restricţii pentru permisiuni&lt;/li&gt;"
+ "<li>Aplicaţii dezactivate</li>"
+ "<li>Notificări de aplicaţii dezactivate</li>"
+ "<li>Aplicaţii prestabilite pentru acţiuni</li>"
+ "<li>Restricţii privind datele de fundal pentru aplicaţii</li>"
+ "<li>Orice restricţii pentru permisiuni</li>"
 
  Nu veţi pierde nimic din datele aplicaţiilor."</string>
     <string name="reset_app_preferences_title">Resetaţi preferințele aplicațiilor?</string>
@@ -5472,9 +5470,9 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="reset_network_data">Datele mobile</string>
     <string name="reset_network_desc">"Această acțiune va reseta toate setările de rețea, inclusiv:
     
-"&lt;li&gt;Wi-Fi&lt;/li&gt;"
-"&lt;li&gt;Date mobile&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+"<li>Wi-Fi</li>"
+"<li>Date mobile</li>"
+"<li>Bluetooth</li></string>
     <string name="reset_network_final_button_text">Setări pentru resetare</string>
     <string name="reset_network_final_desc">"Resetați acum toate setările de rețea? Acest lucru poate dura câteva secunde. Această acțiune este ireversibilă!"</string>
     <string name="reset_network_final_desc_esim">Resetați toate setările de rețea și ștergeți cartelele SIM descărcate? Nu puteți anula această acțiune.</string>
@@ -5694,7 +5692,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_projection_characteristics_privacy_protect_title">Ascundeți elementele private</string>
     <string name="screen_projection_characteristics_small_window_summary">Minimizați fereastra care este proiectată pentru a putea utiliza alte funcții ale telefonului.</string>
     <string name="screen_projection_characteristics_small_window_title">Minimizare fereastră</string>
-    <string name="screen_projection_example_document_summary">Afișați prezentări pe un monitor extern în timp ce utilizați telefonul pentru a comuta între diapozitive și pentru a vizualiza note. Accesați Fișiere &gt; Documente pentru a încerca această funcție.</string>
+    <string name="screen_projection_example_document_summary">Afișați prezentări pe un monitor extern în timp ce utilizați telefonul pentru a comuta între diapozitive și pentru a vizualiza note. Accesați Fișiere > Documente pentru a încerca această funcție.</string>
     <string name="screen_projection_example_document_title">Documente</string>
     <string name="screen_projection_example_gallery_summary">Atingeți butonul Proiectare sub un element din Galerie pentru a-l afișa pe un monitor extern.</string>
     <string name="screen_projection_example_gallery_title">Fotografii și videoclipuri</string>
@@ -5820,7 +5818,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_bluetooth_enable">Bluetooth;Activați Bluetooth;Bluetooth activat</string>
     <string name="search_bluetooth_settings_title">Bluetooth;Detectare activată</string>
     <string name="search_bluetooth_tether_checkbox_text">Tethering prin Bluetooth;tethering</string>
-    <string name="search_breadcrumb_connector">%1$s &gt; %2$s</string>
+    <string name="search_breadcrumb_connector">%1$s > %2$s</string>
     <string name="search_brightness">luminozitate;iluminare ecran;strălucire ecran</string>
     <string name="search_button_light_timeout">Durată iluminare taste;Iluminare butoane</string>
     <string name="search_calendar_sound_title">Sunet calendar;ton calendar;calendar</string>
@@ -6075,10 +6073,10 @@ Telefonul poate fi deblocat de către cineva care vă seamană, de ex. de către
     <string name="security_settings_fingerprint_enroll_dialog_delete">Ștergeți</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nume</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Pe lângă deblocarea ecranului, puteți utiliza amprenta pentru a autoriza plăți și acces la aplicații.&lt;annotation id="url"&gt; Aflați mai multe&lt;/annotation&gt;</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Opțiunea de blocare a ecranului este dezactivată. Contactați administratorul organizației pentru a afla detalii suplimentare."&lt;annotation id="admin_details"&gt; Mai multe detalii&lt;/annotation&gt;"
+    <string name="security_settings_fingerprint_enroll_disclaimer">Pe lângă deblocarea ecranului, puteți utiliza amprenta pentru a autoriza plăți și acces la aplicații.<annotation id="url">Aflați mai multe</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opțiunea de blocare a ecranului este dezactivată. Contactați administratorul organizației pentru a afla detalii suplimentare."<annotation id="admin_details">Mai multe detalii</annotation>"
 
-Puteți insă utiliza amprenta pentru a autoriza plăți și acces la aplicații."&lt;annotation id="url"&gt; Aflați mai multe&lt;/annotation&gt;</string>
+Puteți insă utiliza amprenta pentru a autoriza plăți și acces la aplicații."<annotation id="url">Aflați mai multe</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Finalizat</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Mai târziu</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Înrolarea nu s-a încheiat</string>
@@ -6159,7 +6157,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="services_subtitle">Servicii</string>
     <string name="set_data_limit">Setați limita de date</string>
     <string name="set_data_warning">Setați avertizarea pentru date</string>
-    <string name="set_jeejen_prompt_message">Jeejen va fi setat ca lansator implicit. Puteți modifica lansatorul implicit în Setări &gt; Setări de sistem &gt; Ecran principal și Recente &gt; Lansator implicit.</string>
+    <string name="set_jeejen_prompt_message">Jeejen va fi setat ca lansator implicit. Puteți modifica lansatorul implicit în Setări > Setări de sistem > Ecran principal și Recente > Lansator implicit.</string>
     <string name="set_jeejen_prompt_title">Confirmați modificările</string>
     <string name="set_screen_paper_mode">Mod Lectură</string>
     <string name="setting_privacy_password">Setați parola de protejare a confidențialității</string>
@@ -6587,15 +6585,15 @@ Puteți reinstala aplicațiile mai târziu, dar datele acestor aplicații stocat
 
 Toate datele de pe acest ^1 vor fi șterse. Faceți mai întâi o copie de rezervă pentru aceste date. 
 
-"&lt;b&gt;Salvați fotografiile &amp;amp; alte fișiere multimedia&lt;/b&gt;" 
+"<b>Salvați fotografiile și alte fișiere multimedia</b>" 
 Mutați fișierele multimedia pe alte medii de stocare de pe dispozitiv, sau transferați-le pe un computer printr-un cablu USB. 
 
-"&lt;b&gt;Faceți o copie de rezervă pentru aplicații&lt;/b&gt;" 
+"<b>Faceți o copie de rezervă pentru aplicații</b>" 
 Toate aplicațiile stocate pe acest ^1 vor fi dezinstalate iar datele lor vor fi eliminate. Pentru a păstra aceste aplicații, mutați-le pe un mediu de stocare alternativ de pe dispozitiv."</string>
     <string name="storage_internal_title">Spațiu de stocare non-sistem</string>
-    <string name="storage_internal_unmount_details">&lt;b&gt;Când veți scoate acest ^1, aplicațiile stocate pe acesta se vor opri, iar fișierele multimedia stocate pe acesta nu vor fi disponibile până când nu îl veți reintroduce.&lt;/b&gt;" 
+    <string name="storage_internal_unmount_details"><b>Când veți scoate acest ^1, aplicațiile stocate pe acesta se vor opri, iar fișierele multimedia stocate pe acesta nu vor fi disponibile până când nu îl veți reintroduce.</b>" 
 
-Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8217;a funcționa pe alte dispozitive."</string>
+Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu va funcționa pe alte dispozitive."</string>
     <string name="storage_label">Stocare</string>
     <string name="storage_low_summary">Este posibil ca unele funcţii de sistem cum ar fi sincronizarea, să nu funcţioneze corect. Încercaţi să eliberaţi spaţiu, ştergând elemente sau anulând fixarea acestora (de ex., aplicaţii sau conţinut media).</string>
     <string name="storage_low_title">Spaţiu de stocare aproape epuizat</string>
@@ -6627,8 +6625,8 @@ Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8
     <string name="storage_settings_for_app">Stocare și cache</string>
     <string name="storage_settings_summary">Demontaţi stocarea USB, vedeți spațiul disponibil</string>
     <string name="storage_settings_title">Setări de stocare</string>
-    <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
-    <string name="storage_size_large_alternate">^1&lt;small&gt; &lt;font size="20"&gt;^2&lt;/font&gt;&lt;/small&gt;</string>
+    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
+    <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
     <string name="storage_summary">%1$s utilizat - %2$s disponibil</string>
     <string name="storage_summary_format">%1$s utilizat în %2$s</string>
     <string name="storage_summary_with_sdcard">Stocare internă: %1$s utilizat - %2$s disponibil</string>
@@ -6649,10 +6647,10 @@ Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8
 
 După formatare, acest ^1 va funcționa doar în acest dispozitiv. 
 
-"&lt;b&gt;Formatarea șterge toate datele stocate pe ^1.&lt;/b&gt; Pentru a evita pierderea datelor, faceți o copie de rezervă.</string>
+"<b>Formatarea șterge toate datele stocate pe ^1.</b>" Pentru a evita pierderea datelor, faceți o copie de rezervă.</string>
     <string name="storage_wizard_format_confirm_next">Ștergeți și formatați</string>
     <string name="storage_wizard_format_confirm_public_body">"Acest lucru necesită ca ^1 să fie formatat. 
-"&lt;b&gt;Formatarea șterge toate datele stocate pe ^1.&lt;/b&gt; Pentru a evita pierderea datelor, faceți o copie de rezervă.</string>
+"<b>Formatarea șterge toate datele stocate pe ^1.</b>"Pentru a evita pierderea datelor, faceți o copie de rezervă.</string>
     <string name="storage_wizard_format_confirm_public_title">Formatați ca mediu portabil</string>
     <string name="storage_wizard_format_confirm_third_body">^1 este formatat</string>
     <string name="storage_wizard_format_confirm_title">Formatați ca mediu intern de stocare</string>
@@ -6679,7 +6677,7 @@ Formatarea va șterge conținutul existent de pe ^2. Pentru a împiedica pierder
     <string name="storage_wizard_init_v2_title">Cum veți utiliza ^1?</string>
     <string name="storage_wizard_migrate_body">"Vă puteți muta fotografiile, fișierele și unele aplicații pe acest nou ^1. 
 Mutarea durează circa ^2 și va elibera ^3 din mediul de stocare intern. Unele aplicații nu vor funcționa pe durata procesului."</string>
-    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Mutarea durează circa ^1. Va elibera ^2 pe ^3.&lt;/b&gt;</string>
+    <string name="storage_wizard_migrate_confirm_body"><b>Mutarea durează circa ^1. Va elibera ^2 pe ^3.</b></string>
     <string name="storage_wizard_migrate_confirm_next">Mutați</string>
     <string name="storage_wizard_migrate_confirm_title">Mutați datele acum</string>
     <string name="storage_wizard_migrate_details">"Pe durata mutării: 
@@ -6714,10 +6712,10 @@ Aplicația ^2 de pe acest dispozitiv nu va fi disponibilă până la încheierea
     <string name="storage_wizard_ready_external_body">^1 este setat pentru a se utiliza cu fotografii și alte fișiere multimedia.</string>
     <string name="storage_wizard_ready_internal_body">"^1 funcționează. 
 
-Pentru a muta fotografii, fișiere și datele aplicațiilor pe acest dispozitiv, mergeți la Setări>Stocare."</string>
+Pentru a muta fotografii, fișiere și datele aplicațiilor pe acest dispozitiv, mergeți la Setări > Stocare."</string>
     <string name="storage_wizard_ready_title">^1 este pregătit</string>
     <string name="storage_wizard_ready_v2_external_body">Puteți muta conținutul pe ^1</string>
-    <string name="storage_wizard_ready_v2_internal_body">Pentru a muta conținutul pe ^1, mergeți la Setări>Stocare</string>
+    <string name="storage_wizard_ready_v2_internal_body">Pentru a muta conținutul pe ^1, mergeți la <b>Setări > Stocare</b></string>
     <string name="storage_wizard_ready_v2_internal_moved_body">"Conținutul a fost mutat pe ^1. 
 
 Pentru a gestiona ^2, mergeți la Setări>Stocare.</string>
@@ -6823,7 +6821,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="super_resolution_no_app_tips">Descărcați mai întâi WeChat și Toutiao.</string>
     <string name="super_resolution_reboot_tips">Această caracteristică permite ca imaginile blurate din WeChat și Toutiao să fie mai clare. Lansați din nou aplicațiile după ce activați această funcție.</string>
     <string name="super_resolution_title">Super rezoluție</string>
-    <string name="supl_not_set">&lt;Nesetat&gt;</string>
+    <string name="supl_not_set">&lt;Nesetat></string>
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="support_account_picker_add_account">Adăugați un cont</string>
     <string name="support_account_request_prefix">Se solicită ca</string>
@@ -6892,7 +6890,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="sync_now">Sincronizați</string>
     <string name="sync_one_time_sync">"Atingeţi pentru a sincroniza acum
 %1$s"</string>
-    <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Bun venit la Sincronizarea Google!&lt;/font&gt;" 
+    <string name="sync_plug"><font fgcolor="#ffffffff">Bun venit la Sincronizarea Google!</font>"
 O abordare Google asupra sincronizării datelor, care vă permite accesul la agenda dvs., la întâlniri şi la multe alte informaţii, oriunde v-aţi afla. "</string>
     <string name="sync_settings">Conturi și sincronizare</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -7208,7 +7206,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_pin_summary">Introduceți între %1$d și %2$d cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta din Setări>Securitate.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta din Setări > Securitate.</string>
     <string name="unlock_type_category_title">Metoda de recunoaștere</string>
     <string name="unlogin_account_summary">Toate serviciile Mi. Un singur cont Mi.</string>
     <string name="unlogin_account_title">Conectați-vă la contul Mi</string>
@@ -7811,7 +7809,7 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_ask_enable">%s dorește să activeze Wi-Fi-ul</string>
     <string name="wifi_assist">Asistent Wi-Fi</string>
     <string name="wifi_assistant">Selectează cele mai bune rețele în mod automat</string>
-    <string name="wifi_assistant_auto_confirm_data_help">Puteți dezactiva această caracteristică din Setări>Wi-Fi>Asistent Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Puteți dezactiva această caracteristică din Setări > Wi-Fi > Asistent Wi-Fi.</string>
     <string name="wifi_assistant_auto_confirm_data_message">Utilizați rețelele mobile atunci când dispozitivul dvs. nu se poate conecta la internet prin Wi-Fi.</string>
     <string name="wifi_assistant_confirm_always">Nu arăta din nou</string>
     <string name="wifi_assistant_confirm_connection_title">Selectează cele mai bune rețele în mod automat</string>
@@ -8212,9 +8210,9 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_setup_back">Înapoi</string>
     <string name="wifi_setup_cancel">Anulaţi</string>
     <string name="wifi_setup_connect">Conect.</string>
-    <string name="wifi_setup_description_connected">Atingeţi&lt;b&gt; Înainte&lt;/b&gt;" pentru a continua configurarea.
+    <string name="wifi_setup_description_connected">Atingeţi<b>Următorul</b>" pentru a continua configurarea.
 
-Atingeţi"&lt;b&gt; Înapoi&lt;/b&gt; pentru a vă conecta la o altă reţea Wi-Fi.</string>
+Atingeţi"<b>Înapoi</b> pentru a vă conecta la o altă reţea Wi-Fi.</string>
     <string name="wifi_setup_description_connecting">Conectarea poate dura câteva minute…</string>
     <string name="wifi_setup_detail">Detalii reţea</string>
     <string name="wifi_setup_eap_not_supported">"Nu puteţi configura o conexiune Wi-Fi EAP în timpul instalării. După instalare, puteţi merge la Setări > Wireless și rețele."</string>
@@ -8337,7 +8335,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI-ul pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="wifi_wakeup">Activați Wi-Fi în mod automat</string>
     <string name="wifi_wakeup_summary">Wi-Fi-ul se va reactiva în preajma rețelelor de calitate înaltă salvate, cum ar fi rețeaua dumneavoastră de acasă</string>
-    <string name="wifi_wakeup_summary_no_location">Indisponibil deoarece locația este oprită. Activați &lt;annotation id="link"&gt;locația&lt;/annotation&gt;.</string>
+    <string name="wifi_wakeup_summary_no_location">Indisponibil deoarece locația este oprită. Activați <annotation id="link">locația</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Indisponibil deoarece scanarea Wi-Fi este dezactivată</string>
     <string name="wifi_wakeup_summary_scoring_disabled">Pentru a utiliza, selectați un furnizor de rating de rețea</string>
     <string name="wifi_wapi_as_cert">Certificat AS</string>
@@ -8626,7 +8624,7 @@ Când dezactivați modul Nu deranjați, găsiți notificările pierdute glisând
     <string name="zen_mode_settings_dnd_automatic_rule">Modul Nu deranjați a fost pornit automat de către un program (%s)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Modul Nu deranjați a fost pornit automat de către o aplicație (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Modul Nu deranjați este pornit pentru %s cu setări personalizate.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; Vedeți setările personalizate&lt;/annotation&gt;</string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"><annotation id="link"> Vedeți setările personalizate</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Modul Nu deranjați este activ până la %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Modul Nu deranjați va fi activ până când îl dezactivați</string>
     <string name="zen_mode_settings_summary_off">Nicio regulă automată activată</string>
@@ -8699,5 +8697,5 @@ Actualizați setările:
     <string name="zone_menu_by_offset">Selectare după decalajul UTC</string>
     <string name="zone_menu_by_region">Selectare după regiune</string>
     <string name="zone_time_type_dst">Ora de vară</string>
-    <string name="zone_time_type_standard">Timp standard</string>
+    <string name="zone_time_type_standard">Ora standard</string>
 </resources>

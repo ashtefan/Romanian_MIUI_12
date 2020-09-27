@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_package_delete_confirm_title">Atenție</string>
     <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
@@ -28,7 +28,7 @@
     <string name="autofill">Completare automată</string>
     <string name="autofill_save_message">Permiteți MIUI să salveze informațiile conturilor și parolele?</string>
     <string name="autofill_save_ok">Permiteți</string>
-    <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări>Parole și Securitate &gt; %s.</string>
+    <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări > Parole și Securitate > %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
     <string name="blackshark">Black Shark</string>

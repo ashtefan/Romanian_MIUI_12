@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="China_Mobile">China Mobile</string>
     <string name="China_Mobile_HD">China Mobile (HD)</string>
@@ -1013,7 +1013,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_password_enter_pin_prompt">Noul cod PIN SIM</string>
     <string name="keyguard_password_enter_puk_code">Introduceți codul PUK SIM și noul cod PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Codul PUK SIM</string>
-    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Atingeți pentru a introduce parola&lt;/font&gt;</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Atingeți pentru a introduce parola</font></string>
     <string name="keyguard_password_wrong_pin_code">Codul PIN este incorect.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Cartela SIM a fost dezactivată permanent.
  Contactați operatorul de servicii pentru a obține o nouă cartelă SIM."</string>
@@ -1421,7 +1421,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_tap_again">Atingeți din nou pentru a deschide</string>
     <string name="notification_template_text">" are o notificare nouă. Atingeți pentru a vizualiza.</string>
     <string name="np_mcc">429</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="okay">OK</string>
@@ -1451,11 +1451,11 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="phone_locked_foget_password">Ați uitat parola?</string>
     <string name="phone_locked_foget_password_mehod_back">Înapoi</string>
     <string name="phone_locked_foget_password_method">Ați uitat parola?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Trebuie să &amp;lt;font color=#a5220e&amp;gt;ștergeți toate datele &amp;lt;/font&amp;gt;din telefon, inclusiv fotografiile și contactele și apoi să setați o nouă parolă de Blocare a ecranului.&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content"><Data>Trebuie să &lt;font color=#a5220e>ștergeți toate datele &lt;/font>din telefon, inclusiv fotografiile și contactele și apoi să setați o nouă parolă de Blocare a ecranului.</Data></string>
     <string name="phone_locked_foget_password_method_next">Următorul</string>
     <string name="phone_locked_foget_password_ok">Am înțeles</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Închideți telefonul, apăsați și mențineți apăsat &amp;lt;font color=#a5220e&amp;gt;Butonul de pornire&amp;lt;/font&amp;gt; și pe cel de &amp;lt;font color=#a5220e&amp;gt;Creștere volum&amp;lt;/font&amp;gt; simultan până când vedeți logo-ul Mi.&lt;/Data&gt;</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selectați &amp;lt;font color=#a5220e&amp;gt;\"Ștergere și Resetare\"&amp;lt;/font&amp;gt; și așteptați până când telefonul repornește.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Închideți telefonul, apăsați și mențineți apăsat &lt;font color=#a5220e>Butonul de pornire&lt;/font> și pe cel de &lt;font color=#a5220e>Creștere volum&lt;/font> simultan până când vedeți logo-ul Mi.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selectați &lt;font color=#a5220e>\"Ștergere și Resetare\"&lt;/font> și așteptați până când telefonul repornește.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Cum să șterg datele?</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
@@ -1489,32 +1489,32 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="power_discharging_duration_enhanced">Circa %1$s rămas bazat pe modul dvs. de utilizare (%2$s)</string>
     <string name="power_notification_controls_description">"Cu ajutorul controlului notificărilor, puteți seta un nivel de importanță pe o scară de la 0 la 5 pentru notificările unei aplicații. 
 
-"&lt;b&gt;Nivelul 5&lt;/b&gt;" 
+"<b>Nivelul 5</b>" 
 - Se afișează în partea de sus a listei de notificări 
 - Permite intreruperea modului Ecran complet 
 - Le vedeți întotdeauna
 
-"&lt;b&gt;Nivelul 4&lt;/b&gt;" 
+"<b>Nivelul 4</b>" 
 - Se previne intreruperea modului Ecran complet
 - Le vedeți întotdeauna 
 
-"&lt;b&gt;Nivelul 3&lt;/b&gt;" 
+"<b>Nivelul 3</b>" 
 - Se previne intreruperea modului Ecran complet 
 - Nu le vedeți niciodată 
 
-"&lt;b&gt;Nivelul 2&lt;/b&gt;" 
+"<b>Nivelul 2</b>" 
 - Se previne intreruperea modului Ecran complet 
 - Nu le vedeți niciodată 
 - Nu sunteți avertizat sonor sau prin vibrații 
 
-"&lt;b&gt;Nivelul 1&lt;/b&gt;" 
+"<b>Nivelul 1</b>" 
 - Se previne intreruperea modului Ecran complet 
 - Nu le vedeți niciodată 
 - Nu sunteți avertizat sonor sau prin vibrații 
 - Sunt ascunse din Blocarea ecranului și din bara de stare 
 - Se afișează în partea de jos a listei de notificări 
 
-"&lt;b&gt;Nivelul 0&lt;/b&gt;" 
+"<b>Nivelul 0</b>" 
 - Sunt blocate toate notificările aplicației"</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
     <string name="power_remaining_duration_only">Aprox. %1$s rămas</string>
@@ -1872,7 +1872,7 @@ d MMMM"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Setați metodele de introducere</string>
     <string name="status_bar_latest_events_title">Notificări</string>
     <string name="status_bar_network_flow_content">Astăzi: %1$s   Rămas: %2$s</string>
-    <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Depăşit:&lt;font color=%2$s>%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Depăşit:&lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -79,7 +79,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
-    <string name="new_permission_agree">&lt;Data&gt;Înainte de a folosi serviciile noastre, citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica noastră de confidențialitate&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="new_permission_agree"><Data>Înainte de a folosi serviciile noastre, citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica noatsră de Confidențialitate&lt;/a>.</Data></string>
     <string name="new_permission_agree_explain">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="new_permission_content_first_line">"Bine ați venit la Mi Ditto! Puteți utiliza această aplicație pentru a transcrie fișiere audio și pentru a genera discurs pe baza textului introdus.
 Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.

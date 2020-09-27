@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_loaction">Căutare pe Ecranul principal</string>
     <string name="app_name">Căutare</string>
@@ -6,7 +6,6 @@
     <string name="appindex_search_label">Funcțiile aplicațiilor</string>
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>
-    <string name="apps_search_activity"/>
     <string name="barcode_install_back">Înapoi</string>
     <string name="barcode_install_cancel">Renunțați</string>
     <string name="barcode_install_confirm">Instalați</string>
@@ -62,10 +61,10 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="recent_apps">Aplicații recente</string>
     <string name="recent_apps_filter">"Ascundeți aplicațiile pe care nu le utilizați"</string>
     <string name="recent_close_content">"Dezactivați acum această caracteristică?
-Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"</string>
+Puteți modifica acest lucru în Setări > Aplicații instalate > Căutare"</string>
     <string name="recent_close_title">Dezactivați</string>
     <string name="recent_delete_content">"Ascundeți acum aceste aplicații?
-Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"</string>
+Puteți modifica acest lucru în Setări > Aplicații instalate > Căutare"</string>
     <string name="recent_delete_negative">Renunțați</string>
     <string name="recent_delete_positive">OK</string>
     <string name="recent_delete_title">Ascundeți aplicații</string>

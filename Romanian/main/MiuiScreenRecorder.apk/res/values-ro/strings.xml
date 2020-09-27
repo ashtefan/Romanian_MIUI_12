@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -45,7 +45,7 @@
     <string name="cannot_record">"Nu s-a putut înregistra; reîncercați mai târziu."</string>
     <string name="close_screen_record">S-a oprit înregistrarea</string>
     <string name="copy">Copiați</string>
-    <string name="date_day"/>
+    <string name="date_day" />
     <string name="date_month">/</string>
     <string name="date_year">/</string>
     <string name="description_content">"Aplicația Înregistrare ecran furnizează capabilități de înregistrare la nivel de sistem. Această acțiune înseamnă că renunțați la această caracteristică. Confirmați că doriți sa continuați."</string>

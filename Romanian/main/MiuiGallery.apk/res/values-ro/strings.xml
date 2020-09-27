@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -455,13 +455,13 @@
     <string name="confirm_hidden_recommend_group_message">Atunci când recomandările sunt dezactivate, puteți utiliza în continuare opțiunea \"Mai multe persoane care se aseamănă\"</string>
     <string name="confirm_hidden_recommend_group_title">"Nu arăta recomandări"</string>
     <string name="confirm_hide_selected_albums">Ascundeți albumele selectate?</string>
-    <string name="confirm_merge_face_albums">Îmbinaţi acest album cu %s?</string>
-    <string name="confirm_merge_many_face_albums">Îmbinaţi aceste albume cu %s?</string>
+    <string name="confirm_merge_face_albums">" "<Data> Îmbinaţi acest album cu %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Îmbinaţi aceste albume cu %s? </Data>" "</string>
     <string name="confirm_not_face">Nicio potrivire</string>
-    <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sunteți sigur că această persoană este &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Această persoană va fi mutată în albumul \"%2$s\". &lt;/Data&gt;" "</string>
-    <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sunteți sigur că această persoană nu este &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sunteți sigur că aceste persoane sunt &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Aceste persoane vor fi mutate în albumul \"%2$s\". &lt;/Data&gt;" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Sunteți sigur că aceste persoane nu sunt &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Sunteți sigur că această persoană este &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Această persoană va fi mutată în albumul \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data>" Sunteți sigur că această persoană nu este &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sunteți sigur că aceste persoane sunt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Aceste persoane vor fi mutate în albumul \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Sunteți sigur că aceste persoane nu sunt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
     <string name="contact_tip">Contacte</string>
     <string name="context_menu_add_contact">Adăugaţi la contacte</string>
     <string name="context_menu_copy">Copiaţi</string>
@@ -2022,7 +2022,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
     <string name="user_alias_self">Individual</string>
-    <string name="user_notice_identify_summary_format">&lt;Data&gt;Utilizând acest serviciu sunteți de acord cu &amp;lt;a href=\"%1$s\"&amp;gt;\"Termenii Serviciului\"&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;\"Politica de Confidențialitate Xiaomi\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="user_notice_identify_summary_format"><Data>Utilizând acest serviciu sunteți de acord cu &lt;a href=\"%1$s\">\"Termenii Serviciului\"&lt;/a> și &lt;a href=\"%2$s\">\"Politica de Confidențialitate Xiaomi\"&lt;/a>."</Data></string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>

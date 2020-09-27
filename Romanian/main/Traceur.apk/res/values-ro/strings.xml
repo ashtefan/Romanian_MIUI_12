@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -354,8 +354,8 @@ Selecție"</string>
     <string name="no_application">Nicio aplicație</string>
     <string name="no_debuggable_apps">Nu este disponibilă nicio aplicație depanabilă</string>
     <string name="not_set">Nesetat</string>
-    <string name="notice_header"/>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="notice_header" />
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="okay">OK</string>
@@ -464,7 +464,7 @@ Selecție"</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Afișează operațiunile lungi pe firul principal</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"/>
+    <string name="summary_empty" />
     <string name="system_trace_sensitive_data">Fișierele de monitorizare a sistemului pot include date sensibile despre sistem și aplicații (cum ar fi aplicațiile utilizate). Partajați monitorizările sistemului doar cu persoanele și aplicațiile de încredere.</string>
     <string name="system_traces_storage_title">Monitorizări ale sistemului</string>
     <string name="system_tracing">Monitorizare Sistem</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_deselect">Deselectate %s</string>
     <string name="access_deselected">Deselectate %s</string>
@@ -499,7 +499,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_install_open_locker">Deschideți</string>
     <string name="express_install_order_detail">Vedeți detaliile comenzii</string>
     <string name="express_install_provider_app_description">%1$s necesită instalarea aplicației %2$s. O instalați acum?</string>
-    <string name="express_install_provider_app_hidden">&lt;u&gt;"Nu arăta din nou"&lt;/u&gt;</string>
+    <string name="express_install_provider_app_hidden"><u>Nu arăta din nou</u></string>
     <string name="express_install_provider_app_ok">Instalați</string>
     <string name="express_install_provider_app_title">Instalați %s</string>
     <string name="express_install_schedule_delivery">Serviciul de livrare a comenzii</string>
@@ -1050,7 +1050,7 @@ Verificați numărul de urmărire."</string>
     <string name="payment_record_menu_select">Selectați</string>
     <string name="payment_report_failed_record_dialog_cancel">Renunțați</string>
     <string name="payment_report_failed_record_dialog_message">"Raportați facturile neprocesate pentru a ne ajuta să îmbunătățim precizia de calcul.
-"&lt;b&gt;Elementele pe care le partajați vor fi utilizate doar pentru a îmbunătăți Asistentul inteligent.&lt;/b&gt;</string>
+"<b>Elementele pe care le partajați vor fi utilizate doar pentru a îmbunătăți Asistentul inteligent.</b></string>
     <string name="payment_report_failed_record_dialog_ok">Raportați</string>
     <string name="payment_setting">setare</string>
     <string name="payment_total_month_desc">Luna aceasta</string>

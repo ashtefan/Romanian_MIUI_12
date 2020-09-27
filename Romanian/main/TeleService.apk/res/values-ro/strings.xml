@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Deblocare PIN RUIM corporate</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Solicitare de deblocare RUIM Corporate fără succes.</string>
@@ -692,7 +692,7 @@ Selecție"</string>
     <string name="command_error_fdn_failure">Trebuie să dezactivaţi FDN mai întâi</string>
     <string name="config_default_data_sim">Setări</string>
     <string name="config_dialing_emergency_number_suffix" />
-    <string name="config_world_mode"/>
+    <string name="config_world_mode" />
     <string name="confirmPin2Label">Confirmaţi noul cod PIN2</string>
     <string name="confirmPinLabel">Confirmaţi noul cod PIN</string>
     <string name="confirm_enable_oem_unlock_text">AVERTISMENT: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest dispozitiv cât timp această setare este activă.</string>
@@ -731,7 +731,6 @@ Selecție"</string>
     <string name="crescendo_ringer_summary">Volumul soneriei va crește gradual până la nivelul pe care l-ați setat</string>
     <string name="crescendo_ringer_title">Volum crescător al soneriei</string>
     <string name="ct_ut_not_support_close_4glte">UT nu este disponibil, vă rugăm dezactivați Modul Extins 4G LTE din Setări</string>
-  <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (roșu-verde)</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
     <string name="daltonizer_mode_monochromacy">Monocromie</string>
@@ -777,9 +776,9 @@ Utilizați datele mobile oricum?"</string>
     <string name="debug_networking_category">Rețea</string>
     <string name="debug_view_attributes">Activați vizualizarea inspecției atributelor</string>
     <string name="default_notification_description">Sunet implicit (%1$s)</string>
-    <string name="default_preference_summary_domain_address">&lt;Nesetat&gt;</string>
-    <string name="default_preference_summary_password">&lt;Nesetat&gt;</string>
-    <string name="default_preference_summary_username">&lt;Nesetat&gt;</string>
+    <string name="default_preference_summary_domain_address">&lt;Nesetat></string>
+    <string name="default_preference_summary_password">&lt;Nesetat></string>
+    <string name="default_preference_summary_username">&lt;Nesetat></string>
     <string name="delete">Eliminați</string>
     <string name="delete_fdn_contact">Ștergeţi numărul cu apelări restricţionate</string>
     <string name="deleting_fdn_contact">Se şterge numărul cu apelări restricţionate…</string>
@@ -827,7 +826,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="dialog_ota_change_number_success">Numărul a fost modificat cu succes</string>
     <string name="dialog_report">Raportați</string>
     <string name="dialpad_0_letters">+</string>
-    <string name="dialpad_1_letters"/>
+    <string name="dialpad_1_letters" />
     <string name="dialpad_2_letters">ABC</string>
     <string name="dialpad_3_letters">DEF</string>
     <string name="dialpad_4_letters">GHI</string>
@@ -847,13 +846,13 @@ Utilizați datele mobile oricum?"</string>
     <string name="dialpad_nine">%d</string>
     <string name="dialpad_one">%d</string>
     <string name="dialpad_pound">\#</string>
-    <string name="dialpad_pound_letters"/>
+    <string name="dialpad_pound_letters" />
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_pqrs">PQRSȘ</string>
     <string name="dialpad_seven">%d</string>
     <string name="dialpad_six">%d</string>
     <string name="dialpad_star">*</string>
-    <string name="dialpad_star_letters"/>
+    <string name="dialpad_star_letters" />
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_three">%d</string>
     <string name="dialpad_tuv">TȚUV</string>
@@ -875,7 +874,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="disabled">Dezactivată</string>
     <string name="disabled_by_admin">Dezactivat de administrator</string>
     <string name="disabled_by_admin_summary_text">Controlată de administrator</string>
-    <string name="display_name_summary">&lt;Identic cu numele de utilizator&gt;</string>
+    <string name="display_name_summary">&lt;Identic cu numele de utilizator></string>
     <string name="display_name_title">Numele afişat</string>
     <string name="do_not_show_again">"Nu afișa din nou"</string>
     <string name="domain_address_title">Server</string>
@@ -1381,7 +1380,7 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="msim_not_set_summary">Nesetat</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_pref_title_voice">Apelare</string>
-    <string name="msim_select_default_time_left">(%ds)</string>
+    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_set_icc_card_error">Eroare card ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta în timpul unui apel</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>
@@ -1491,7 +1490,7 @@ Se va utiliza în schimb rețeaua preferată."</string>
     <string name="nr_usaged_used_time">Durata de utilizare</string>
     <string name="number">Număr</string>
     <string name="numerous_emergency_numbers_title">Numere de urgență</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permiteți deblocarea bootloader-ului</string>
     <string name="ok">OK</string>
@@ -1517,7 +1516,7 @@ Se va utiliza în schimb rețeaua preferată."</string>
     <string name="opened_dual_4g_confirm_prompt">Se pare că aveți o cartelă care funcționează doar în modul 4G. Modul 4G Dual a fost activat în mod automat.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">Cartela SIM %1$s suportă doar modul 4G. Pentru a vă asigura că aceasta funcționează în mod normal, modul 4G Dual a fost activat.</string>
     <string name="operator">Operator</string>
-    <string name="optional_summary">&lt;Opţional&gt;</string>
+    <string name="optional_summary">&lt;Opţional></string>
     <string name="osu_completing_sign_up">Se finalizează înregistrarea…</string>
     <string name="osu_connect_failed">Nu s-a putut conecta</string>
     <string name="osu_opening_provider">Se deschide %1$s</string>
@@ -2240,7 +2239,7 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="voicemail_default">Operatorul dumneavoastră</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrează</string>
     <string name="voicemail_notifications_preference_title">Notificări</string>
-    <string name="voicemail_number_not_set">&lt;Nesetat&gt;</string>
+    <string name="voicemail_number_not_set">&lt;Nesetat></string>
     <string name="voicemail_provider">Servicii</string>
     <string name="voicemail_provider_summary">Alegeţi serviciul de mesagerie vocală</string>
     <string name="voicemail_set_pin_dialog_title">Setați codul PIN</string>
@@ -2306,7 +2305,7 @@ Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mob
     <string name="wifi_call_help">Ajutor</string>
     <string name="wifi_call_help_message_1">"Apelarea prin Wi-Fi este un serviciu oferit de Orange care vă permite să efectuați și să primiți apeluri prin Wi-Fi. Această caracteristică poate fi folosită în zonele cu o acoperire slabă a rețelei mobile.
 
-Pentru a utiliza apelarea prin Wi-Fi, activați în Setări &gt; Apelare prin Wi-Fi.
+Pentru a utiliza apelarea prin Wi-Fi, activați în Setări > Apelare prin Wi-Fi.
 
 Pentru a activa serviciul, Orange vă va trimite un mesaj de confirmare imediat ce serviciul va fi disponibil. După aceasta, vă veți putea conecta la o rețea Wi-Fi și veți puteți efectua apeluri.
 

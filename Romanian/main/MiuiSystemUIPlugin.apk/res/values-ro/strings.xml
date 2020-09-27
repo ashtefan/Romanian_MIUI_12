@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -46,7 +46,7 @@
     <string name="controls_dismiss_dialog_confirm">Setări</string>
     <string name="controls_dismiss_dialog_confirm_international">Eliminați</string>
     <string name="controls_dismiss_dialog_message">Gestionați dispozitivele inteligente domestice din multiple aplicații din Centrul de Control</string>
-    <string name="controls_dismiss_dialog_message_international">Eliminați cardul \"Casa inteligentă\" acum? Îl veți putea restaura din Setări>Centrul de Control.</string>
+    <string name="controls_dismiss_dialog_message_international">Eliminați cardul \"Casa inteligentă\" acum? Îl veți putea restaura din Setări > Centrul de Control.</string>
     <string name="controls_dismiss_dialog_title">Dispozitive din casa inteligentă</string>
     <string name="controls_dismiss_dialog_title_international">Eliminați cardul</string>
     <string name="controls_edit_panel_not_added_title">Dispozitive disponibile</string>

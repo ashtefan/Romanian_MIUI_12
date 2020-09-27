@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_convert_pdf_alert_message">Conversia fișierelor este furnizată de către WPS Office</string>
     <string name="activity_convert_pdf_alert_title">Se convertește fișierul înainte de tipărire…</string>
