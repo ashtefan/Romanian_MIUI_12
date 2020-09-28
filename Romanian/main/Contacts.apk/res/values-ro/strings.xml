@@ -462,6 +462,10 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="dialer_returnToInCallScreen">Reveniţi la apelul în curs</string>
     <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Utilizaţi tastatura DTMF</string>
+    <string name="dialog_delete_contact_button_delete">Ștergeți</string>
+    <string name="dialog_delete_contact_button_keep">Păstrați</string>
+    <string name="dialog_delete_contact_content">Xiaomi Cloud dorește să șteargă unele din contactele dvs. Le ștergeți acum?</string>
+    <string name="dialog_delete_contact_title">Se șterg contactele</string>
     <string name="dialog_import">Importaţi Agenda</string>
     <string name="dialog_import_export">Import/Export contacte</string>
     <string name="dialog_new_contact_account">Creaţi contacte în cont</string>
@@ -648,7 +652,7 @@ Motivul: \"%s\""</string>
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
     <string name="help_url_people_main" />
-    <string name="hint_distance"/>
+    <string name="hint_distance" />
     <string name="hint_findContacts">Găsiţi contacte</string>
     <string name="hint_more_contact">Îmbinați contactele dublate</string>
     <string name="hybrid_check_network">Setări de rețea</string>
@@ -948,7 +952,7 @@ Motivul: \"%s\""</string>
     <string name="night">Seară</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Pentru a crea grupuri aveţi nevoie de un cont.</string>
-    <string name="noContactHelpTextAccountsInfo"/>
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restabiliţi datele contactelor utilizând contul Xiaomi</string>
     <string name="noContacts">Niciun contact</string>
     <string name="noContactsWithPhoneNumbers">Niciun contact cu număr de telefon</string>
@@ -986,6 +990,8 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="not_applied">Nu s-a putut aplica</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_action_voicemail_play">Redaţi</string>
+    <string name="notification_click_detail">Atingeți pentru a vedea detalii</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi Cloud dorește să vă șteargă unele din contacte</string>
     <string name="notification_new_voicemail_ticker">Mesaj vocal nou de la %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Tastatură numerică</string>

@@ -25,11 +25,27 @@
         <item>Cod PIN</item>
         <item>Parolă</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan lunar</item>
+        <item>Nelimitat</item>
+        <item>Plan zilnic</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>Personalizat</item>
         <item>Cartelă Mi Fan</item>
         <item>Cartelă Xiao Tiansheng</item>
         <item>Cartelă Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizat</item>
+        <item>Mi Mobile</item>
+        <item>Card Mi Fan</item>
+        <item>Card Tianshen</item>
+        <item>Card Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Ieri (date mobile) "</item>

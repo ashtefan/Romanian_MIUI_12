@@ -559,6 +559,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_data_booster_suc">Jocurile Turbo sunt activate. S-a comutat la modul Imersiv.</string>
     <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
+    <string name="auto_send_correcting_msg">Lăsați necompletat pentru a verifica în mod automat printr-un mesaj SMS gratuit</string>
+    <string name="auto_set_by_brand">Sincronizați detaliile planului de date cu operatorul dvs.</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
     <string name="auto_task_condition_choose_end_time">Ora de sfârșit</string>
     <string name="auto_task_condition_choose_ontime">Temporizator</string>
@@ -812,6 +814,8 @@ Nu veți pierde datele aplicațiilor."</string>
  5. Nimic nu este de ajutor? Atingeți \"Raportați prin SMS\" pentru a trimite comentariul dvs. către Xiaomi printr-un mesaj text."</string>
     <string name="cd_back">Înapoi</string>
     <string name="celcius_symbol">℃</string>
+    <string name="cellular_data_auto_check">Verificați în mod automat</string>
+    <string name="cellular_package_daily_input">Introduceți</string>
     <string name="charger_detect_button_ok">Am înțeles</string>
     <string name="charger_detect_info1">Verificați dacă încărcătorul și cablul sunt conectate corespunzător.</string>
     <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
@@ -851,6 +855,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connecting">Conectare…</string>
     <string name="continue_install">Instalați</string>
+    <string name="continue_set">Continuați</string>
     <string name="convenient_mode">Deblocați toate aplicațiile simultan</string>
     <string name="convenient_summary">Introduceți o dată parola pentru a debloca toate aplicațiile</string>
     <string name="copy">Copiați</string>
@@ -908,6 +913,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="data_usage_warning_title">Avertizare utilizare date</string>
     <string name="databooster_tips_message">Activați pentru a restricționa cartelele SIM, cu excepția cardului de date. Dezactivați această caracteristică dacă întâmpinați erori în jocuri.</string>
     <string name="databooster_tips_title">Atenție</string>
+    <string name="day_overflow_tips">Avertisment utilizare zilnică de date</string>
     <string name="debug_open_final_tip">Activați depanarea USB?</string>
     <string name="debug_open_title">Această caracteristică este destinată dezvoltării și poate fi greu de gestionat de către utilizatorii obișnuiți. Activarea depanării USB poate aduce următoarele modificări:</string>
     <string name="declaration_dialog_msg">Această caracteristică vă poate ajuta să urmăriți utilizarea datelor, dar nu vă garantează prevenirea costurilor suplimentare. Pentru rezultate optime, setați o limită conservatoare.</string>
@@ -1337,6 +1343,9 @@ cardul de sănătate"</string>
     <string name="first_settings_subtitle">Iată opțiunile de partajare securizată disponibile:</string>
     <string name="first_settings_title">Protejați-vă confidențialitatea</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
+    <string name="fixed_cellular_data_quota_monthly">Limită lunară de date</string>
+    <string name="fixed_package_tips">Se vor aplica taxe suplimentare după ce atingeți limita</string>
+    <string name="fixed_traffic_quota">Limita de date (obligatoriu)</string>
     <string name="fod_authentication_shift_button">Renunțați</string>
     <string name="fod_button_finger">Utilizați amprenta</string>
     <string name="fod_button_password">Introduceți parola</string>
@@ -1360,6 +1369,8 @@ cardul de sănătate"</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_title">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
+    <string name="full_fill_oprator_and_location">Furnizați operatorului informațiile și locația</string>
+    <string name="full_fill_sim_location">Setați mai întâi locația</string>
     <string name="function_auto_reject_detail">"Despre această caracteristică:
 1. În timp ce jucați jocuri, toate apelurile primite pe cartela SIM fără serviciu de date mobile vor fi respinse automat.
 2. Veți vedea notificări despre apelurile pierdute, iar cealaltă persoană va auzi un mesaj audio care spune că sunteți ocupat în acest moment.
@@ -1570,6 +1581,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
     <string name="gdpr_msg"><Data>Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile.</Data></string>
+    <string name="get_detail_by_click">Atingeți pentru a vedea detalii</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
@@ -1577,6 +1589,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
     <string name="gmscore_support_service">Servicii Google de bază</string>
     <string name="go_to">Mergeți</string>
+    <string name="go_to_send">Trimiteți</string>
     <string name="go_to_setting_fingerprint">Setări</string>
     <string name="google_base_app_fail">Nu s-a putut descărca. Verificați dacă aplicația de Securitate are permisiunea de conectare la internet.</string>
     <string name="google_base_app_install_choice">Aplicația necesită Google Services Framework pentru a funcționa în mod normal, le descărcați și le instalați?</string>
@@ -1680,6 +1693,7 @@ din sesiunile dvs. de joc"</string>
     <string name="icon_text_size_giga_byte">%.1f G</string>
     <string name="icon_text_size_max">9,9 G</string>
     <string name="icon_text_size_mega_byte">%d M</string>
+    <string name="ignore_special_app">Excludeți datele utilizate de către aplicațiile selectate din planul de date</string>
     <string name="im">IM</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
     <string name="info_antispam_close">Lista blocărilor este oprită</string>
@@ -1691,7 +1705,10 @@ din sesiunile dvs. de joc"</string>
     <string name="info_unantispam_phone_sms">Permiteți apeluri și SMS-uri</string>
     <string name="info_unantispam_sms">Permiteți SMS-uri</string>
     <string name="information_setting">Recomandări</string>
+    <string name="input_available_cellular_data_daily_hint">Introduceți limita de date zilnică</string>
     <string name="input_aviable_traffic">Setaţi limita de utilizare a datelor</string>
+    <string name="input_celluar_data_quota_hint">Introduceți limita de date</string>
+    <string name="input_cellular_data_warn_hint">Introduceți limita de date pentru avertizare</string>
     <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_traffic_pkg">Introduceţi utilizarea datelor</string>
     <string name="input_used_hint">Introduceţi utilizarea datelor</string>
@@ -1741,6 +1758,7 @@ din sesiunile dvs. de joc"</string>
 
 Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mobile."</string>
     <string name="leisure_usage_dialog_title">Ați atins limita de trafic de date; conexiunea este dezactivată</string>
+    <string name="limit_speed_by_quota">Este posibil să se aplice restricții de viteză după ce atingeți limita</string>
     <string name="list_empty_text">Gol</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
@@ -1834,6 +1852,7 @@ răspunsul operatorului"</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_statistic">Statistică</string>
     <string name="main_traffic_detail">Utilizare date</string>
+    <string name="make_sure_package_type">Selectați planul de date</string>
     <string name="man_add_application">Adăugați aplicațiile cu pornire automată manual</string>
     <string name="manage_hybrid_permissions">"Gestionați permisiunile aplicației"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
@@ -1972,6 +1991,7 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="mixed_recording_intro_header">Introduceți %1$s-%2$s caractere</string>
     <string name="mixed_retry_button_text">Renunțați</string>
     <string name="mixed_settings_help_how_to_record">Cum setez parola</string>
+    <string name="modify_cellular_type">Atingeți pentru a selecta planul</string>
     <string name="modify_password_mode"><u>Modificați tipul parolei</u></string>
     <string name="modifypassword">Modificați tipul parolei</string>
     <string name="monitor_app_add">Adăugați</string>
@@ -2062,6 +2082,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="no_game">"Nu s-au găsit jocurile"</string>
     <string name="not_limited_brand">Nelimitat</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_settled">Nesetat</string>
     <string name="note">Notați</string>
     <string name="note_call_none">Niciun apel</string>
     <string name="note_list_none">Lista este goală</string>
@@ -2106,6 +2127,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notify_weekly_traffic_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
     <string name="notify_weekly_traffic_title">%s utilizaţi în această săptămână</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s a utilizat %2$s în această săptămână</string>
+    <string name="number_address">Locație</string>
     <string name="numeric_need_to_confirm">Introduceți din nou pentru confirmare</string>
     <string name="numeric_password_confirmed_header_confirm">Setat cu succes. Atingeți pentru a confirma.</string>
     <string name="numeric_password_confirmed_header_continue">Setat cu succes. Apăsați \"Următorul\".</string>
@@ -2158,6 +2180,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
+    <string name="operator_name_virtual_operator">Operator virtual</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
@@ -2572,6 +2595,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="preferred_app_entries_messaging">Mesagerie</string>
     <string name="preferred_app_entries_music">Muzică</string>
     <string name="pricacy_permission_use_total">Statistici permisiune</string>
+    <string name="priority_statistics_fixed_traffic">Datele din planul lunar vor fi utilizate primele</string>
     <string name="priority_storage_app_settings">Datele vor fi salvate în %1$s</string>
     <string name="priority_storage_settings_summary">Dacă nu este detectat un card SD, datele dvs. vor fi salvate în memoria internă a telefonului în mod automat.</string>
     <string name="priority_storage_summary">Selectați locația de salvare a datelor</string>
@@ -2770,7 +2794,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="risk_app_install_history">Istoricul de autorizare</string>
     <string name="risk_app_install_item_des">Versiunea: %1$s</string>
     <string name="risk_app_install_manager">Aplicații cu riscuri posibile</string>
-    <string name="risk_count_suffix"/>
+    <string name="risk_count_suffix" />
     <string name="roaming_allow_network_dialog_title">Permiteți utilizarea datelor în roaming?</string>
     <string name="roaming_limit_dialog_message">A fost atinsă limita zilnică a datelor în roaming.</string>
     <string name="roaming_limit_network_notification_body">Apăsați pentru a vizualiza rețelele de date disponibile</string>
@@ -2841,10 +2865,17 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="securitycenter_tab_title">Securitate</string>
     <string name="see_detail">Detalii</string>
     <string name="see_more_content">Actualizați aplicația de Jocuri pentru a vedea mai multe noutăți</string>
+    <string name="select_province_and_city">Selectați locația</string>
+    <string name="send_msg_to_query">Trimiteți un mesaj text pentru a verifica</string>
     <string name="set_applock_password">Setați parola</string>
+    <string name="set_complete">Setată cu succes</string>
+    <string name="set_location">Setați locația</string>
     <string name="set_mixed_password_name">Setați parola</string>
     <string name="set_numeric_password_name">Setați codul PIN</string>
+    <string name="set_package_tips">Vom trimite un SMS gratuit operatorului pentru a vă verifica planul de date. Informațiile pe care le furnizați vor fi criptate și încărcate pe serverele noastre pentru a compune acest mesaj.</string>
+    <string name="set_package_tips_detail">Informațiile încărcate pe serverele Xiaomi vor include detaliile operatorului dvs., precum și numărul dvs. de telefon, IMEI-ul și contul Mi.</string>
     <string name="set_pattern_password_name">Setați modelul</string>
+    <string name="set_traffic_tips">Setați planul de date pentru a gestiona utilizarea datelor mobile și pentru a evita taxele suplimentare ale operatorului</string>
     <string name="setting">Setări</string>
     <string name="setting_privacy_password">Adăugați un model de deblocare</string>
     <string name="settings">Setări utilizare date</string>
@@ -3480,6 +3511,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="traffic_alert_auto_modify_notification_sumarry">Planul lunar s-a modificat în %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Plan de date actualizat</string>
     <string name="traffic_alert_auto_modify_package_summary">"Ajustați pachetele de date în mod automat, în conformitate cu informațiile operatorului"</string>
+    <string name="traffic_calculation">Utilizați un ciclu de facturare zilnic</string>
     <string name="traffic_config_alert_auto_modify">Actualizați planul de date în mod automat</string>
     <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată: %s.
 
@@ -3499,6 +3531,7 @@ Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_config_alert_setted">Setări aplicate</string>
     <string name="traffic_config_alert_title">%s corecţie</string>
     <string name="traffic_correction_failed">Imposibil de obținut informațiile</string>
+    <string name="traffic_correction_failed_tips">Nu s-a putut verifica planul de date. Asigurați-vă că setările operatorului sunt corecte sau setați planul manual.</string>
     <string name="traffic_correction_start_correction">Sincronizare cu serverele operatorului…</string>
     <string name="traffic_correction_start_correction_failed">Nu s-a putut trimite solicitarea. Verificați setările operatorului</string>
     <string name="traffic_correction_success">Informaţia despre utilizarea datelor a fost actualizată</string>
@@ -3508,6 +3541,7 @@ Traficul de date suplimentar a fost depășit"</string>
 
 Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_limit_error_alert_title">Memento limită de date %s</string>
+    <string name="traffic_limit_input">Limita de date (obligatoriu)</string>
     <string name="traffic_none">Nimic</string>
     <string name="traffic_over_purchase_link">"Ați atins limita de utilizare a datelor din planul dvs. mobil.&lt;br/>Dacă depăşiţi limita de utilizare a planului de date, operatorul ar putea percepe taxe suplimentare.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Apăsați pentru a suplimenta soldul.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">Cartela SIM nu este instalată</string>
@@ -3551,7 +3585,9 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="uninstall_danagerous_desc">\"%s\" vă poate distruge telefonul</string>
     <string name="uninstall_danagerous_msg">\"%s\" vă poate distruge telefonul, reduce performanța sau poate duce la repornirea acestuia.</string>
     <string name="uninstall_danagerous_title">Dezinstalați aplicațiile dăunătoare</string>
+    <string name="unknown_package">Nu știți sigur ce plan de date aveți?</string>
     <string name="unlike">Nu, mulțumesc</string>
+    <string name="unlimited_cellular_data_monthly">Plan nelimitat</string>
     <string name="unlock_failed">Eroare internă</string>
     <string name="unlock_pattern">&lt;u&gt;Model de deblocare&lt;/u&gt;</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduceți parola pentru a activa amprenta</string>

@@ -368,6 +368,7 @@ Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a h
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="synergy_casting">Nu se poate utiliza proiectarea cât timp Ecran Combo este activ</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

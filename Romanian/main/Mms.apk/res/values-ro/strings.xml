@@ -35,6 +35,7 @@
     <string name="activity_not_found">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
     <string name="activity_not_found_uri">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
     <string name="ad_close_button_text">Promoțional</string>
+    <string name="ad_notification_title">Mesaje neimportante</string>
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>
@@ -692,12 +693,15 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_delivery_ringtone">Sunet mesaj trimis</string>
     <string name="pref_edit_smsc_address">Centrul de servicii mesaje scurte(SMSC)</string>
     <string name="pref_forward_title">Redirecţionaţi</string>
+    <string name="pref_group_ad_mms_recognition">Grupați mesajele promoționale</string>
     <string name="pref_hide_verification_code_summary">Ascunde în mod automat notificările mesajelor ce conțin parole de unică utilizare în Blocarea ecranului</string>
     <string name="pref_messages_to_save">Setaţi numărul de mesaje pentru salvare</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
     <string name="pref_msg_trash_bin_title">Mesaje șterse</string>
     <string name="pref_notification_settings_title">Notificări</string>
     <string name="pref_other_title">Setări suplimentare</string>
+    <string name="pref_rcs_show_report_message">Primiți un raport de livrare</string>
+    <string name="pref_rcs_show_report_message_tip">Primiți rapoarte atunci când mesajele dvs. sunt expediate celeilalte persoane</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_list_avatar_summary">Arată fotografiile de profil și informațiile de contact în lista de mesaje</string>
     <string name="pref_show_photo_word_summary">Atribuiți în mod automat o fotografie contactelor</string>
@@ -707,10 +711,12 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
     <string name="pref_sms_storage_title">Stocare</string>
     <string name="pref_sms_theme_title">Afişare</string>
+    <string name="pref_summary_ad_mms_recognition">Plasați mesajele promoționale într-o filă separată</string>
     <string name="pref_summary_allow_si_sl_push">Permiteţi încărcarea conținutului din site-urile web</string>
     <string name="pref_summary_auto_delete">Șterge mesajele vechi când se atinge limita</string>
     <string name="pref_summary_collapse_ad_notification">Afișează toate mesajele promoționale într-un dosar separat din Perdeaua de notificări</string>
     <string name="pref_summary_collapse_ad_notification_mms">Afișează toate mesajele promoționale într-o filă separată</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Grupați mesajele promoționale și marcați-le ca și neimportante în Perdeaua de notificări</string>
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
@@ -728,6 +734,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
+    <string name="pref_title_ad_mms_recognition">Recunoaște mesajele promoționale</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
     <string name="pref_title_auto_delete">Șterge mesajele vechi</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
@@ -826,6 +833,7 @@ Activați datele mobile și deschideți din nou această pagină."</string>
 Aruncați o privire peste recomandări!"</string>
     <string name="rcs_chatbot_near_tab_empty">Nicio miniaplicație aici încă.</string>
     <string name="rcs_chatbot_net_error">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="rcs_chatbot_no_waring">Reduceți la tăcere notificările mesajelor</string>
     <string name="rcs_chatbot_normal_message">Ați primit un mesaj. Atingeți pentru a vedea detaliile.</string>
     <string name="rcs_chatbot_notification">Miniaplicați: %s</string>
     <string name="rcs_chatbot_progress_failed">Nu s-au putut încărca informațiile. Atingeți pentru a încerca din nou.</string>
@@ -994,6 +1002,8 @@ Aruncați o privire peste recomandări!"</string>
     <string name="rms_text_body">[Text]</string>
     <string name="rms_vcard_body">[Contact]</string>
     <string name="rms_video_body">[Videoclip]</string>
+    <string name="rsc_chatbot_back">Înapoi</string>
+    <string name="rsc_chatbot_detail">Informații despre vânzător</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

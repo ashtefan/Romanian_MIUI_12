@@ -31,6 +31,8 @@
     <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări > Parole și Securitate > %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
+    <string name="back_double_tap">nimic</string>
+    <string name="back_triple_tap">nimic</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -80,6 +82,8 @@
     <string name="device_status_success">Trimis cu succes</string>
     <string name="device_status_waiting">Se așteaptă…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="double_click_power_key">mi_pay</string>
+    <string name="double_knock">launch_voice_assistant</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">Economisiți 70% din costurile apelurilor</string>
     <string name="enable_livetalk_title">Activați pachetul de suplimentare</string>
@@ -143,6 +147,7 @@
     <string name="international_livetalk_enable">Utilizați pachete de suplinire pentru apeluri internaționale</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spaţiu</string>
+    <string name="knock_gesture_v">nimic</string>
     <string name="livetalk_not_enable">Pachetul de suplinire este dezactivat</string>
     <string name="location_usage_restricted_body">Atingeți pentru a permite.</string>
     <string name="location_usage_restricted_title">Localizarea în fundal restricționată</string>
