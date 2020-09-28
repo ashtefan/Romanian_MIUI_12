@@ -489,7 +489,7 @@ Selecție"</string>
     <string name="call_description_recording">Înregistrare…</string>
     <string name="call_forward_option">Redirecționare apel</string>
     <string name="call_forwarding_number_hint">Redirecţionare apeluri la</string>
-    <string name="call_forwarding_settings">Setări redirecţionare apelurilor</string>
+    <string name="call_forwarding_settings">Redirecţionare apeluri</string>
     <string name="call_forwarding_settings_with_label">Setări redirecționare apeluri (%s)</string>
     <string name="call_record_add_numbers">Adăugaţi numere</string>
     <string name="call_record_auto_always">Toate numerele</string>

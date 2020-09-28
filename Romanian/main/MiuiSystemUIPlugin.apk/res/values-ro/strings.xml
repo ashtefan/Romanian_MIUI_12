@@ -198,6 +198,7 @@
     <string name="no_avaliable_application">Nu există aplicații disponibile</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
+    <string name="notification_control_center">Notificări și Centrul de Control</string>
     <string name="online">Online</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>

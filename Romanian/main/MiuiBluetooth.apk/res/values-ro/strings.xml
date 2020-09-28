@@ -189,9 +189,9 @@ Selecție"</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="content_description_menu_button">Meniu</string>
     <string name="convert_to_fbe_warning">"Conversie la criptarea pe bază de fișier.
- !!Avertisment!! Acest lucru va șterge toate datele dumneavoastră.
- Această caracteristică este experimentală și poate funcționa incorect.
- Atingeți 'Ștergere și conversie…' pentru a continua."</string>
+!!Avertisment!! Acest lucru va șterge toate datele dumneavoastră.
+Această caracteristică este experimentală și este posibil să nu funcționeze corect.
+Atingeți 'Ștergere și conversie…' pentru a continua."</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe baza fișierului</string>
     <string name="convert_to_file_encryption_done">Fișier deja criptat</string>
     <string name="convert_to_file_encryption_enabled">Convertire…</string>

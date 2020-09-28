@@ -542,9 +542,9 @@ Selecție"</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="content_description_menu_button">Meniu</string>
     <string name="convert_to_fbe_warning">"Convertește partiția de date la criptarea pe baza fișierului.
- !!ATENȚIE!! Acest lucru va șterge toate datele.
- Această caracteristică este experimentală și poate funcționa necorespunzător.
- Atingeți 'Ștergeți și convertiți…' pentru a continua."</string>
+!!ATENȚIE!! Acest lucru va șterge toate datele.
+Această caracteristică este experimentală și poate funcționa necorespunzător.
+Atingeți 'Ștergeți și convertiți…' pentru a continua."</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe baza fișierului</string>
     <string name="convert_to_file_encryption_done">Fișierele sunt deja criptate</string>
     <string name="convert_to_file_encryption_enabled">Convertire…</string>
@@ -1375,6 +1375,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_channel_tv_pip">Imagine-în-Imagine</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+    <string name="notification_control_center">Notificări și Centrul de Control</string>
     <string name="notification_default_channel_desc">Această aplicație nu are categorii de notificări</string>
     <string name="notification_done">Finalizat</string>
     <string name="notification_group_collapse_button_text">Restrângeți</string>
@@ -1663,7 +1664,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_rssi_emergency_only">Doar apeluri de urgență</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">Butoane</string>
-    <string name="quick_settings_screenlock_label">Blocare ecran</string>
+    <string name="quick_settings_screenlock_label">Blocați</string>
     <string name="quick_settings_screenshot_label">Captură de ecran</string>
     <string name="quick_settings_secondary_label_until">Până la %s</string>
     <string name="quick_settings_settings_label">Setări</string>

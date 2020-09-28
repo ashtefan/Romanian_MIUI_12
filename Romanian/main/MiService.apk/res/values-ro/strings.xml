@@ -172,7 +172,7 @@
     <string name="miui_feedback_edit_submit_directly">Trimiteți</string>
     <string name="miui_feedback_edit_title_occurrence_time">Selectați ora</string>
     <string name="miui_feedback_edit_title_reproductivity">Selectați reproductivitatea</string>
-    <string name="miui_feedback_edit_toast_description_required">Trebuie să faceți o descriere</string>
+    <string name="miui_feedback_edit_toast_description_required">Mai întâi descrieți problema</string>
     <string name="miui_feedback_edit_toast_module_required">Selectați elementul</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Descrierea trebuie să fie mai lungă</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Selectați categoria</string>

@@ -1767,14 +1767,16 @@ Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive
     <string name="continue_reset_factory">Resetare la valorile din fabrică</string>
     <string name="contributors_title">Colaboratori</string>
     <string name="control_center">Centrul de control</string>
+    <string name="control_center_style">Stilul Centrului de Control</string>
+    <string name="control_center_style_summary">Selectați modul în care doriți să fie afișate butoanele și notificările</string>
     <string name="control_panel_switch_side">Modificați poziția Centrului de control</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
     <string name="convenience_key_category_title">Control sistem</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
- ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
- Această caracteristică este experimentală și este posibil să nu funcționeze corect.
- Apăsați butonul 'Ștergeți și convertiți…' pentru a continua."</string>
+ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
+Această caracteristică este experimentală și este posibil să nu funcționeze corect.
+Apăsați butonul 'Ștergeți și convertiți…' pentru a continua."</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea fișierelor</string>
     <string name="convert_to_file_encryption_done">Fișierele sunt criptate</string>
     <string name="convert_to_file_encryption_enabled">Convertiți…</string>
@@ -2269,6 +2271,9 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="disconnected">Deconectat</string>
     <string name="display_advanced_mode_summary">Opțiuni gamă de culoare</string>
     <string name="display_advanced_mode_title">Setări avansate</string>
+    <string name="display_animate_category">Efecte animate</string>
+    <string name="display_animate_content">Reduceți efectele animate care sunt afișate în timp ce dispozitivul este deblocat</string>
+    <string name="display_animate_title">Reduceți animațiile</string>
     <string name="display_auto_rotate_rotate">Pornit</string>
     <string name="display_auto_rotate_stay_in_current">Oprit</string>
     <string name="display_auto_rotate_stay_in_landscape">Blochează la modul peisaj</string>
@@ -3529,6 +3534,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="led_pulse_summary">La recepţionarea unei noi notificări, indicatorul luminos intermitent va pulsa</string>
     <string name="led_settings">Indicator luminos intermitent</string>
     <string name="left_function_key">Scurtătură stânga</string>
+    <string name="legacy_control_center_desc">Trageți în jos bara de stare pentru a vizualiza comutatoarele și notificările</string>
+    <string name="legacy_control_center_title">Versiunea veche</string>
     <string name="legacy_navigation_summary">Reveniți, navigați Acasă și comutați aplicațiile cu ajutorul butoanelor din partea de jos a ecranului.</string>
     <string name="legacy_navigation_title">Navigare cu 3 butoane</string>
     <string name="legal_information">Informaţii de ordin juridic</string>
@@ -3662,6 +3669,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="lock_profile_wipe_warning_content_password">Dacă introduceți și de această dată o parolă de Servici incorectă, profilul de Servici și datele asociate vor si eliminate de pe acest dispozitiv.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Dacă introduceți și de această dată un model de Servici incorect, profilul de Servici și datele asociate vor si eliminate de pe acest dispozitiv.</string>
     <string name="lock_profile_wipe_warning_content_pin">Dacă introduceți și de această dată un cod PIN de Servici incorect, profilul de Servici și datele asociate vor si eliminate de pe acest dispozitiv.</string>
+    <string name="lock_screen_action">Elemente afișate în Blocarea ecranului după glisarea în jos</string>
     <string name="lock_screen_display_category_name">Blocarea ecranului</string>
     <string name="lock_screen_intro_skip_dialog_text">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde sau dacă vă va fi furat.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde, dacă vă va fi furat sau dacă va fi șters.</string>
@@ -4220,6 +4228,8 @@ Comutarea la %1$s nu va anula serviciul %2$s."</string>
     <string name="model_name">Model</string>
     <string name="model_number">Model telefon</string>
     <string name="model_summary">Model: %1$s</string>
+    <string name="modern_control_center_desc">Trageți în jos bara de stare din stânga pentru a vedea notificările. Trageți în jos bara de stare din dreapta pentru a deschide centrul de control.</string>
+    <string name="modern_control_center_title">Noua versiune</string>
     <string name="modify_default_browser_message">Dacă setați o altă aplicație terță ca și browser implicit, este posibil ca aceasta să colecteze istoricul de navigare și alte date. Setați oricum?</string>
     <string name="modify_instruction_password_settings">Setați parola</string>
     <string name="modify_privacy_password">Modificați parola</string>
@@ -4644,6 +4654,8 @@ Acest lucru va permite de asemenea aplicației să activeze sau să dezactiveze 
     <string name="notification_channels_other">Altele</string>
     <string name="notification_content_block_summary">Nu arăta niciodată notificări în umbră sau pe dispozitivele periferice</string>
     <string name="notification_content_block_title">Arată notificări</string>
+    <string name="notification_control_center">Notificări și Centrul de Control</string>
+    <string name="notification_display_settings">Perdeaua de notificări</string>
     <string name="notification_fold_description1">Dosarul de notificări a fost introdus odată cu MIUI 9. Această funcție filtrează notificările neimportante și le plasează într-un dosar separat.</string>
     <string name="notification_fold_description2">MIUI va reține notificările pe care le atingeți și apoi va utiliza criterii multiple pentru a determina dacă sunt importante.</string>
     <string name="notification_fold_description3">"Dacă notificările pe care le considerați importante merg în continuare în dosarul de notificări, asigurați-vă că ne raportați această situație. Vă vom aprecia feedback-ul."</string>
@@ -4712,6 +4724,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="notification_reboot_title_hm">Reporniți pentru a aplica actualizarea</string>
     <string name="notification_remind">Notificări</string>
     <string name="notification_ringtone_title">Sunet implicit pentru notificări</string>
+    <string name="notification_settings">Notificări</string>
     <string name="notification_settings_work_profile">Accesul la notificări nu este disponibil pentru aplicațiile din profilul de servici.</string>
     <string name="notification_shade_shortcut_title">Scurtătură perdea de notificări</string>
     <string name="notification_show_lights_title">Indicator luminos intermitent</string>
@@ -5438,6 +5451,7 @@ Interfață UT: %5$s"</string>
     <string name="repeat_call">Notifică despre apelurile repetate</string>
     <string name="repeat_call_info">Permite sunetul pentru apelurile repetate în interval de 15 minute în modul Silențios</string>
     <string name="repeat_title">Repetare</string>
+    <string name="requires_modern_control_center">Funcționează cu noua versiune a Centrului de Control</string>
     <string name="reset_aaid">Resetați identificatorul pentru reclame</string>
     <string name="reset_app_preferences">Resetați preferințele aplicațiilor</string>
     <string name="reset_app_preferences_button">Resetaţi aplicaţiile</string>
@@ -6216,6 +6230,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="show_all_anrs_summary">Arată o fereastră \"Aplicația nu răspunde\" pentru aplicațiile din fundal</string>
     <string name="show_all_apps">Arată utilizarea totală a dispozitivului</string>
     <string name="show_background_processes">Arată procesele din memoria cache</string>
+    <string name="show_badge_notifications_short">Pictograme</string>
     <string name="show_carrier_under_keyguard_title">Afișează numele operatorului când dispozitivul este blocat</string>
     <string name="show_connected_devices_summary">Vizualizați dispozitivele conectate</string>
     <string name="show_connected_devices_title">Dispozitive conectate</string>
@@ -6866,6 +6881,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="swipe_up_to_switch_apps_suggestion_title">Încercați noul buton Acasă</string>
     <string name="swipe_up_to_switch_apps_summary">Pentru a comuta între aplicații, glisați în sus de la butonul Acasă. Pentru a vedea toate aplicațiile, glisați în sus din nou. Pentru a reveni, atingeți butonul Înapoi.</string>
     <string name="swipe_up_to_switch_apps_title">Navigare cu 2 butoane</string>
+    <string name="switchNetworkToast">Conectarea la rețele mobile poate genera taxe suplimentare</string>
     <string name="switch_access_service_on">Comutați Accesul</string>
     <string name="switch_off_text">Oprit</string>
     <string name="switch_on_text">Pornit</string>
@@ -8440,7 +8456,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud vă sincronizează fotografiile, face copie de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea dispozitivului.</string>
     <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
     <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
-    <string name="xiaomi_money_service">Mi Credit</string>
+    <string name="xiaomi_money_service">Monede Mi</string>
     <string name="xiaomi_router_available_notif_summary">Apăsați pentru a vizualiza mai multe informații.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponibil</string>
     <string name="xiaomi_router_notif_summary">Anunță-mă când un Mi Router este disponibil</string>
