@@ -237,7 +237,7 @@
     <string name="card_title_sportassist">Asistent pentru sport</string>
     <string name="card_trip_arrive">Sosire</string>
     <string name="card_trip_dep">Plecare</string>
-    <string name="cashier_str_null"/>
+    <string name="cashier_str_null" />
     <string name="category_atm">Retragere de la ATM</string>
     <string name="category_catering">Mâncare</string>
     <string name="category_education">Educație</string>
@@ -458,7 +458,7 @@
     <string name="express_inquiry_and_send">Urmărire și trimitere</string>
     <string name="express_inquiry_clipboard_number_message">Urmăriți numărul copiat?</string>
     <string name="express_inquiry_data_owner_prefix">"Informații de urmărire furnizate de "</string>
-    <string name="express_inquiry_data_owner_suffix"/>
+    <string name="express_inquiry_data_owner_suffix" />
     <string name="express_inquiry_delete_warning_multiple">Ștergeți %d înregistrări?</string>
     <string name="express_inquiry_delete_warning_single">Ștergeți această înregistrare?</string>
     <string name="express_inquiry_delivered">Livrat</string>

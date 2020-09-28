@@ -480,6 +480,12 @@
         <item>Cod PIN</item>
         <item>Parolă</item>
     </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Oprită</item>
+        <item>Curgere</item>
+        <item>Strălucire</item>
+        <item>Val</item>
+    </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
         <item>Accra</item>
@@ -1132,6 +1138,10 @@
         <item>OpenGL (Implicit)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Sunet de apel</item>
+        <item>Media</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Niciodată</item>
         <item>15 secunde</item>
@@ -1600,6 +1610,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Permiteţi</item>
         <item>Refuzaţi</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Implicit</item>
+        <item>Compact</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12-ore 1:00 PM</item>
         <item>24-ore 13:00</item>
@@ -1915,19 +1929,5 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Animație la scara 2x</item>
         <item>Animație la scara 5x</item>
         <item>Animație la scara 10x</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Implicit</item>
-        <item>Compact</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>Sunet de apel</item>
-        <item>Media</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Oprită</item>
-        <item>Curgere</item>
-        <item>Strălucire</item>
-        <item>Val</item>
     </string-array>
 </resources>

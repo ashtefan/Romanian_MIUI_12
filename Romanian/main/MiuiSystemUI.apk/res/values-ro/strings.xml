@@ -815,7 +815,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="guest_wipe_session_title">Bine ai revenit, vizitatorule!</string>
     <string name="guest_wipe_session_wipe">Reluați</string>
     <string name="gxzw_area">Scaner de amprente</string>
-    <string name="gxzw_long_press_tip"/>
+    <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Apăsați un pic mai tare</string>
     <string name="gxzw_quick_close">Închideți</string>
     <string name="gxzw_quick_open_add_event">Adăugați un eveniment</string>
@@ -826,12 +826,12 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">Scaner</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-  <string name="gxzw_quick_open_dialer">Apelare</string>
+    <string name="gxzw_quick_open_dialer">Apelare</string>
     <string name="gxzw_quick_open_dialer_sub">Telefon</string>
     <string name="gxzw_quick_open_qr_code">Cod QR</string>
     <string name="gxzw_quick_open_qr_code_sub">Scaner</string>
     <string name="gxzw_quick_open_search">Căutați</string>
-    <string name="gxzw_quick_open_search_sub"/>
+    <string name="gxzw_quick_open_search_sub" />
     <string name="gxzw_quick_open_skip_teach">Omiteți tutorialul</string>
     <string name="gxzw_quick_open_title">S-a deschis meniul cu scurtături</string>
     <string name="gxzw_quick_open_wechat_pay">Cod de plată</string>

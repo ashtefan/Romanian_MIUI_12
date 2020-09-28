@@ -220,8 +220,8 @@
     <string name="disable_wallpaper_scroll">Dezactivare derulare fundal</string>
     <string name="double_tap_to_lock_title">Atingeți de două ori pentru a debloca ecranul</string>
     <string name="download_action">Descărcare</string>
-    <string name="drag_multiple_item_name"/>
-    <string name="drag_single_item_name"/>
+    <string name="drag_multiple_item_name" />
+    <string name="drag_single_item_name" />
     <string name="drawer_background">Fundaluri</string>
     <string name="drawer_background_dark">Întunecat</string>
     <string name="drawer_background_light">Luminos</string>

@@ -115,11 +115,11 @@
     <string name="currency_update_support">Ratele de schimb sunt furnizate de către Webull.</string>
     <string name="currency_update_time_format">Ratele de schimb sunt furnizate de Webull (%s)</string>
     <string name="currency_update_updating">Se actualizează ratele…</string>
-    <string name="current_rate_remind_commercial"/>
-    <string name="current_rate_remind_fund"/>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="current_rate_remind_commercial" />
+    <string name="current_rate_remind_fund" />
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">zi</string>
@@ -156,7 +156,7 @@
     <string name="e">e</string>
     <string name="eDesc">"Numărul lui Euler"</string>
     <string name="early_morning">AM</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enter">↓</string>
     <string name="equal">=</string>
     <string name="equalDesc">egal</string>
@@ -172,6 +172,7 @@
     <string name="factorial">!</string>
     <string name="factorialDesc">factorial</string>
     <string name="float_window_guide_text">Atingeți aici pentru a minimiza calculatorul</string>
+    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -230,7 +231,7 @@
     <string name="from_unit">km/h</string>
     <string name="from_unit_en">Kilometri pe oră</string>
     <string name="from_unit_short">km/h</string>
-    <string name="fund"/>
+    <string name="fund" />
     <string name="fund_loan">Împrumut de la Fond</string>
     <string name="further_education">Educație viitoare</string>
     <string name="global_network_confirm_content">Convertorul valutar trebuie să se conecteze la internet pentru a funcționa normal.</string>
@@ -258,7 +259,7 @@
     <string name="home_loan">Credit ipotecar</string>
     <string name="home_title_calculator">Calculator</string>
     <string name="house_rent">Chirie</string>
-    <string name="income_type"/>
+    <string name="income_type" />
     <string name="install">Instalați</string>
     <string name="install_scanner_to_continued_use">Aplicația Scaner este dezinstalată. O instalați din nou?</string>
     <string name="interest_rate_hint">Introduceți rata dobânzii</string>
@@ -277,7 +278,7 @@
     <string name="item_title_discount">Discount</string>
     <string name="item_title_dress_size">Mărimi de haine</string>
     <string name="item_title_emi">Calculator împrumut</string>
-  <string name="item_title_gst">GST</string>
+    <string name="item_title_gst">GST</string>
     <string name="item_title_investment">Investiție</string>
     <string name="item_title_length_conversion">Lungime</string>
     <string name="item_title_loan">Împrumut</string>
@@ -372,7 +373,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>
-    <string name="month"/>
+    <string name="month" />
     <string name="month_april">Aprilie</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -471,7 +472,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="noon">PM</string>
     <string name="not_supported_due_to_language">Această caracteristică este valabilă doar pentru limba Chineză</string>
     <string name="ok">OK</string>
-    <string name="percent"/>
+    <string name="percent" />
     <string name="percentDesc">procent</string>
     <string name="percentage">%</string>
     <string name="permission_location">Acces la locație</string>
@@ -543,7 +544,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="settingsDesc">setări</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
-    <string name="social_security"/>
+    <string name="social_security" />
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -570,7 +571,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="sqrt">√</string>
     <string name="sqrtDesc">rădăcină pătrată</string>
-    <string name="start_calculate"/>
+    <string name="start_calculate" />
     <string name="statistic_label_balance">Sold</string>
     <string name="statistic_label_interest">Dobândă</string>
     <string name="statistic_label_month">Lună</string>
@@ -611,7 +612,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="tax_detail_rate">Rata de taxare</string>
     <string name="tax_detail_take_off">Deducție</string>
     <string name="tax_detail_tax_payed">Suma plătită</string>
-    <string name="tax_edittext_hint"/>
+    <string name="tax_edittext_hint" />
     <string name="tax_endowment">Fondul la pensionare</string>
     <string name="tax_fixed_salary_hint">Introduceți venitul de dinainte de impozitare</string>
     <string name="tax_income_annual_bonus_list">Bonusuri anuale</string>
@@ -641,8 +642,8 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="tax_thershold_native_new">%s (nouă)</string>
     <string name="tax_thershold_native_new_description">Taxele vor fi calculate în conformitate cu noile legi de impozitare începând cu 1 Octombrie 2018</string>
     <string name="tax_threshold">Prag lipsă impozitare</string>
-    <string name="tax_title_primary"/>
-    <string name="tax_title_secondary"/>
+    <string name="tax_title_primary" />
+    <string name="tax_title_secondary" />
     <string name="tax_total_insurance_provident_fund">Asigurare și fond de rulment</string>
     <string name="tax_unemployment">Șomaj</string>
     <string name="tax_update_time_format">Date furnizate de HeXun (%s)</string>
@@ -791,8 +792,8 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="unit_data_display_currency_jod">Dinar iordanian</string>
     <string name="unit_data_display_currency_jpy">Yen japonez</string>
     <string name="unit_data_display_currency_kes">Shilling kenian</string>
-  <string name="unit_data_display_currency_kgs">Kyrgyzstani som</string>
-  <string name="unit_data_display_currency_khr">Cambodian riel</string>
+    <string name="unit_data_display_currency_kgs">Som Kyrgyzstanez</string>
+    <string name="unit_data_display_currency_khr">Riel cambodgian</string>
     <string name="unit_data_display_currency_kpw">Won nord korean</string>
     <string name="unit_data_display_currency_krw">Won sud korean</string>
     <string name="unit_data_display_currency_kwd">Dinar kuweitian</string>
@@ -909,7 +910,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="unit_data_display_velocity_mps">Metri pe secundă</string>
     <string name="unit_data_display_velocity_nmiph">Knot</string>
     <string name="unit_data_display_volume_cl">Centilitru</string>
-  <string name="unit_data_display_volume_cu.af">Acre-foot</string>
+    <string name="unit_data_display_volume_cu.af">Acre-foot</string>
     <string name="unit_data_display_volume_cu.cm">Centimetru cub</string>
     <string name="unit_data_display_volume_cu.dm">Decimetru cub</string>
     <string name="unit_data_display_volume_cu.ft">Picior la cub</string>
@@ -1064,7 +1065,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="unit_myriads">×10K</string>
     <string name="unit_percentage">%</string>
     <string name="unit_pound">Pounds</string>
-    <string name="unit_times"/>
+    <string name="unit_times" />
     <string name="unit_year">A</string>
     <string name="unit_year_format">An %s</string>
     <string name="unit_yuan">CNY</string>

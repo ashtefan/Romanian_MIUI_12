@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="age_label_days">
-        <item quantity="other">%d zile</item>
-        <item quantity="one">%d zi</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d luni</item>
-        <item quantity="one">%d lună</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">ani</item>
-        <item quantity="one">an</item>
-    </plurals>
-    <plurals name="entries">
-        <item quantity="other">%d elemente</item>
-        <item quantity="one">%d element</item>
-    </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Detaliere rambursare (%d ani)</item>
-        <item quantity="one">Detaliere rambursare (%d an)</item>
-    </plurals>
-    <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Detaliere rambursare (%d ani), CNY</item>
-        <item quantity="one">Detaliere rambursare (%d an), CNY</item>
-    </plurals>
-    <plurals name="mortgage_summary_years">
-        <item quantity="other">%1$d ani (%2$d luni)</item>
-        <item quantity="one">%1$d an (%2$d luni)</item>
-    </plurals>
-    <plurals name="tenure_months">
-        <item quantity="other">%d luni</item>
-        <item quantity="one">%d lună</item>
-    </plurals>
-    <plurals name="tenure_years">
-        <item quantity="other">%d ani</item>
-        <item quantity="one">%d an</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">cu o oră în urmă</item>
     </plurals>
@@ -65,6 +29,22 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="age_label_days">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">ani</item>
+        <item quantity="one">an</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
@@ -88,8 +68,28 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Detaliere rambursare (%d ani)</item>
+        <item quantity="one">Detaliere rambursare (%d an)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Detaliere rambursare (%d ani), CNY</item>
+        <item quantity="one">Detaliere rambursare (%d an), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d ani (%2$d luni)</item>
+        <item quantity="one">%1$d an (%2$d luni)</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d ani</item>
+        <item quantity="one">%d an</item>
     </plurals>
 </resources>

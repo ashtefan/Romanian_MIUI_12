@@ -638,8 +638,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este validă. Încercați din nou.</string>
     <string name="settings">Setări</string>
     <string name="settings_warning_dialog_detail">"Veți fi întrebat în următoarele situații:
- "&lt;li&gt;Când o aplicație conține viruși.&lt;/li&gt;"
- "&lt;li&gt;Pachetul de instalare provine dintr-o sursă necunoscută.&lt;/li&gt;</string>
+ "<li>Când o aplicație conține viruși.</li>"
+ "<li>Pachetul de instalare provine dintr-o sursă necunoscută.</li></string>
     <string name="settings_warning_dialog_msg">Telefonul dumneavoastră este expus riscurilor de securitate. Nu veți mai fi atenționat să instalați versiuni sigure ale aplicațiilor dacă dezactivați această caracteristică. O dezactivați oricum?</string>
     <string name="settings_warning_dialog_title">Atenție</string>
     <string name="show_all_anrs">Afișați toate ANR-urile</string>

@@ -45,7 +45,7 @@
     <string name="act_weather_find_city_net_no_good">Nu s-a putut conecta la reţea</string>
     <string name="act_weather_find_city_no_result">Niciun rezultat</string>
     <string name="act_weather_find_city_searching">Căutare…</string>
-    <string name="activity_alert_detail_title"/>
+    <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Anulaţi</string>
     <string name="activity_find_city_dialog_message">Permiteţi aplicației Meteo să vă acceseze locația pentru a obține informații acurate despre locație.</string>
     <string name="activity_find_city_dialog_message_global">Activați serviciile de localizare și permiteți dispozitivului să determine locația utilizând rețelele Wi-Fi.</string>
@@ -53,7 +53,7 @@
     <string name="activity_find_city_dialog_set">Setări</string>
     <string name="activity_find_city_dialog_title">Acces la locaţie</string>
     <string name="activity_main_clickable">&gt;</string>
-    <string name="activity_main_one_alert"/>
+    <string name="activity_main_one_alert" />
     <string name="activity_main_pub_time">Publicat la %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
@@ -154,7 +154,7 @@
     <string name="copy">Copiați</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° /  %2$s°</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
