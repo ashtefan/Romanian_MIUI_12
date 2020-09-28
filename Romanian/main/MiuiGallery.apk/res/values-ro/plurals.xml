@@ -300,6 +300,14 @@
         <item quantity="other">%d ore</item>
         <item quantity="one">%d oră</item>
     </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Au fost filtrate %d elemente nesuportate</item>
+        <item quantity="one">A fost filtrat %d element nesuportat</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Fișierele .pdf pot conține maxim %d imagini</item>
+        <item quantity="one">Fișierele .pdf pot conține maxim %d imagine</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
         <item quantity="one">"Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?"</item>

@@ -264,18 +264,18 @@
     <string name="base_btn_download">Descărcați</string>
     <string name="begin_share">S-a creat albumul copilului \"%s\", partajați-l chiar acum</string>
     <string name="begin_share_toast">Creați separat un Album al Copilului înainte de a-l partaja?</string>
-    <string name="blank_app_name"/>
-    <string name="blur_refocus_enter"/>
+    <string name="blank_app_name" />
+    <string name="blur_refocus_enter" />
     <string name="browse_category_title">Răsfoiți</string>
     <string name="btn_cancel">Renunțați</string>
     <string name="btn_cancel_send">Anulați acest transfer</string>
     <string name="btn_exit_send">Ieșiți</string>
     <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
-    <string name="burst_photo_enter"/>
+    <string name="burst_photo_enter" />
     <string name="burst_preview_title">Fotografiere în rafală</string>
     <string name="burst_save_all">Păstrați toate fotografiile</string>
-    <string name="burst_save_choice_title" formatted="false">S-au selectat %d din %d</string>
+    <string name="burst_save_choice_title">Au fost selectate %1$d din %2$d</string>
     <string name="burst_save_dialog_title">Selectați fotografiile pe care doriți să le păstrați</string>
     <string name="burst_save_error_msg">"Nu s-au putut salva"</string>
     <string name="burst_save_processing">Se procesează…</string>
@@ -484,9 +484,9 @@
     <string name="custom_select_title_quickly_share">Partajați</string>
     <string name="custom_select_title_select_all">Selectați tot</string>
     <string name="custom_select_title_select_item">Selectați elementele</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Chinez Tradițional</string>
     <string name="datetimepicker_dialog_title">Modificați ora</string>
     <string name="datetimepicker_updatetime_failed">"Nu s-a putut modifica ora"</string>
@@ -533,7 +533,7 @@
     <string name="disable_auto_upload_tip">Dezactivați sincronizarea în cloud pentru acest album?</string>
     <string name="disable_auto_upload_title">Dezactivați sincronizarea în cloud</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
-    <string name="doc_photo_enter"/>
+    <string name="doc_photo_enter" />
     <string name="document_provider_guide_step_1">1. Atingeți butonul \"Mai multe\".</string>
     <string name="document_provider_guide_step_2">2. Atingeți \"Afișează stocarea internă\".</string>
     <string name="document_provider_guide_step_3">3. Atingeți butonul de meniu lateral.</string>
@@ -572,7 +572,7 @@
   <string name="dump_db_info">Informații despre baza de date de descărcare</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_baby_info">Vedeți informaţiile despre copil</string>
-    <string name="edit_subtitle_enter"/>
+    <string name="edit_subtitle_enter" />
     <string name="editor_cancel">Renunțați</string>
     <string name="editor_export">Salvați</string>
     <string name="editor_talkback_redo">Reluați</string>
@@ -580,13 +580,13 @@
     <string name="editphoto_datetime_needdownload_origin_subtitle">Descărcați fișierul original din Xiaomi Cloud pentru a putea modifica ora.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Descărcați fișierul original</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_album_cloud_list_title">Niciun album de sincronizat</string>
     <string name="empty_album_hidden_list_title">Niciun album ascuns</string>
     <string name="empty_album_other_list_title">Niciun album aici</string>
     <string name="empty_album_rubbish_list_title">Niciun album aici</string>
     <string name="empty_description_conditions">Reamintiți-vă lucrurile importante</string>
-    <string name="empty_description_conditions_new">Asigurați-vă că ați făcut destule fotografii, conectați încărcătorul și închideți ecranul pentru a face ca elementele să apară aici mai rapid.</string>
+    <string name="empty_description_conditions_new">Conectați încărcătorul și închideți ecranul pentru a face ca elementele să apară aici mai rapid</string>
     <string name="empty_description_no_cards">Reamintiți-vă lucrurile importante</string>
     <string name="empty_query_text_msg">"Nu știu ce să caut…"</string>
     <string name="empty_recommend_back">Înapoi</string>
@@ -795,8 +795,15 @@ efecte pentru fotografii"</string>
     <string name="filter_movie_travel">Călătorie</string>
     <string name="filter_movie_wonderful">Minune</string>
     <string name="filter_original">Niciunul</string>
+    <string name="filter_popular_autumn">Toamnă</string>
     <string name="filter_popular_bluedream">Adormit</string>
+    <string name="filter_popular_coffee">Cafea</string>
+    <string name="filter_popular_coldsmoke">Ceață rece</string>
+    <string name="filter_popular_comic">Animație</string>
+    <string name="filter_popular_dream">Reverie</string>
+    <string name="filter_popular_hill">Dealuri</string>
     <string name="filter_popular_humanity">Documentar</string>
+    <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Cerneală</string>
     <string name="filter_popular_purple">Violet</string>
     <string name="filter_popular_shallow_summer">Iunie</string>
@@ -992,6 +999,7 @@ efecte pentru fotografii"</string>
     <string name="input_or_select_a_name">Introduceți sau selectați un nume</string>
     <string name="input_relation_name">Introduceți numele grupului</string>
     <string name="install_fail">"Nu s-a putut încărca extensia datorită unei erori apărute."</string>
+    <string name="internal_storage_device">Stocarea internă</string>
     <string name="invalid_invition_url">URL greşit</string>
     <string name="invalid_recipient_message">Numele destinatarilor introduse sunt greşite</string>
     <string name="invite_sharer_confirm_button_text">Invitaţi</string>
@@ -1149,7 +1157,7 @@ pentru a personaliza Galeria"</string>
     <string name="more_face">Mai multe persoane care seamănă</string>
     <string name="more_face_album_name">Mai multe persoane</string>
     <string name="morning">Dimineață</string>
-    <string name="motion_photo_enter"/>
+    <string name="motion_photo_enter" />
     <string name="motion_photo_play">Joacă</string>
     <string name="move_to_other_albums_tip">Mutați acest album în Alte albume?</string>
     <string name="move_to_rubbish_albums_tip">Mutați albumele selectate în gunoi?</string>
@@ -1304,6 +1312,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_move_to_other_albums">Mutați în Alte albume</string>
     <string name="operation_move_to_rubbish_albums">Mutați în gunoi</string>
     <string name="operation_not_show_in_photos_tab">"Nu arăta în Fotografii"</string>
+    <string name="operation_photo_rename">Redenumiți</string>
+    <string name="operation_pic_to_pdf">Creați un .pdf</string>
     <string name="operation_produce">Creativitate</string>
     <string name="operation_projection">Proiectați</string>
     <string name="operation_remove_face">Eliminați</string>
@@ -1461,6 +1471,18 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_save_to_msg">Salvată în %s</string>
     <string name="photo_vlog_module_finish">Editorul video a fost descărcat cu succes</string>
     <string name="photo_vlog_module_loading">Se descarcă editorul video…</string>
+    <string name="photodetail_failed_already_exist">Acest fișier există deja</string>
+    <string name="photodetail_rename_failed">Nu s-a putut redenumi</string>
+    <string name="photodetail_rename_invalid">Numele de fișier nu poate conține aceste caractere: /\\:*?&lt;>|.</string>
+    <string name="photodetail_rename_success">Redenumit cu succes</string>
+    <string name="photodetail_rename_title">Redenumiți</string>
+    <string name="photodetail_rename_too_long">Numele de fișier introdus este prea lung</string>
+    <string name="pic_to_pdf_a4_format">Hărtie A4</string>
+    <string name="pic_to_pdf_all_not_support">Imaginile selectate nu pot fi salvate ca .pdf</string>
+    <string name="pic_to_pdf_exit_notice">Acest .pdf nu va fi salvat dacă ieșiți acum. Ieșiți oricum?</string>
+    <string name="pic_to_pdf_not_support_video">Videoclipurile nu pot fi salvate ca pdf-uri</string>
+    <string name="pic_to_pdf_preview_loading">Se încarcă previzualizarea…</string>
+    <string name="pic_to_pdf_save_in">PDF-ul a fost salvat în %s</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>
     <string name="pick_people_cover_fail">A apărut o eroare. Încercați din nou.</string>
     <string name="pick_people_cover_page_title">Selectați o fotografie de copertă</string>
@@ -1608,6 +1630,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="save_error_try_a_different_template_msg">Nu s-a putut salva. Imaginea este prea mare.</string>
     <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma Distribuire.</string>
     <string name="scan_barcode_to_join">Scanaţi un cod QR pentru a adăuga un album</string>
     <string name="scan_qr_code_buttom_text">Scanaţi codul QR pentru a vizualiza acest album</string>
@@ -1680,6 +1703,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_title_more">Mai mult</string>
     <string name="search_title_others">Toate rezultatele</string>
     <string name="search_title_people">Persoane</string>
+    <string name="search_title_photo_name">Numele de fișier</string>
     <string name="search_title_recommend">Recomandate</string>
     <string name="search_title_suggestion">Sugestii</string>
     <string name="search_title_tag">Obiecte</string>
@@ -1780,7 +1804,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_running">Se optimizează…</string>
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
-    <string name="slow_motion_enter"/>
+    <string name="slow_motion_enter" />
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -1865,7 +1889,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="super_slow_motion_enter"/>
+    <string name="super_slow_motion_enter" />
     <string name="sync_album_in_proecess">Sincronizare album…</string>
     <string name="sync_battery_low">Acumulator descărcat</string>
     <string name="sync_cloud_space_full">Spaţiu insuficient în Xiaomi Cloud</string>
@@ -1980,6 +2004,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="to_enable_sync_dialog_message">Activați întâi sincronizarea</string>
     <string name="to_enable_sync_dialog_positive_button_text">Mergeți la Setări</string>
     <string name="to_enable_sync_dialog_title">Sincronizare</string>
+    <string name="toast_invalid_char">Numele fișierelor nu pot conține \"%s\"</string>
+    <string name="toast_invalid_prefix">Numele fișierelor nu pot începe cu \".\" sau \"_\"</string>
+    <string name="toast_rename_exit">Acest fișier există deja</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>

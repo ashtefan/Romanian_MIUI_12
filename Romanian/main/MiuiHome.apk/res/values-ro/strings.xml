@@ -50,6 +50,9 @@
     <string name="add_custom_category">Personalizat</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="added_all_category">S-au adăugat cu succes toate aplicațiile</string>
+    <string name="alexa_notification_add">Adăugați</string>
+    <string name="alexa_notification_cancel">Nu acum</string>
+    <string name="alexa_notification_content">Adăugați scurtătura Alexa în Centrul de Control?</string>
     <string name="all_app_category_all">Toate</string>
     <string name="all_app_category_communication">Comunicații</string>
     <string name="all_app_category_default">Categorie</string>
@@ -622,10 +625,5 @@
     <string name="widgets_preview_title">Adăugați un widget</string>
     <string name="work_mode_off_label">Notificările sunt oprite și aplicațiile nu sunt disponibile acum</string>
     <string name="work_mode_on_label">Gestionat de către organizația dvs.</string>
-    <string name="work_profile_first_content">Datele personale sunt separate și ascunse față de aplicațiile de servici</string>
-    <string name="work_profile_got_button">Am înțeles</string>
-    <string name="work_profile_next_button">Următorul</string>
-    <string name="work_profile_second_content">Aplicațiile de servici și datele acestora sunt vizibile administratorului IT</string>
-    <string name="work_profile_title">Profil de servici</string>
     <string name="work_profile_toggle_label">Profil de servici</string>
 </resources>

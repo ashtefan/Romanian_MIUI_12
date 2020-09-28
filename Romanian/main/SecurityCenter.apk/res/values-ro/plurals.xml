@@ -128,6 +128,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">cu %d zile în urmă</item>
         <item quantity="one">cu %d zi în urmă</item>
     </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Închideți &lt;font color=#0099ff>%d&lt;/font> aplicațiile pentru a crește viteza telefonului?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Închideți &lt;font color=#0099ff>%d&lt;/font> aplicația pentru a crește viteza telefonului?&lt;/Data></item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
         <item quantity="one">Căutați într-o aplicație</item>

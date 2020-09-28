@@ -201,6 +201,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="exit">Ieșiți</string>
     <string name="expand_button_title">Avansat</string>
     <string name="facebook">Facebook</string>
+    <string name="facebook_login">Conectați-vă prin Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
     <string name="find_device">Găsiți dispozitivul</string>
     <string name="find_device_access_denied">Nu s-a putut verifica starea; accesul a fost refuzat</string>
@@ -237,6 +238,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="google">Google</string>
+    <string name="google_login">Conectați-vă prin Google</string>
     <string name="guest_account_label">Cont gazdă Mi</string>
     <string name="health_action_activate">Activați</string>
     <string name="health_action_install">Instalați</string>

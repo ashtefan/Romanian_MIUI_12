@@ -707,7 +707,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="boot_time">Pornire: %1$s</string>
     <string name="boot_time_day">Pornire: %2$s %1$d z</string>
     <string name="boot_time_day_tomorrow">Pornire: %1$s</string>
-    <string name="brand_diagnostic">Diagnosticare tipică marcă operator</string>
+    <string name="bottom_func_guide_default_text">Mai multe caracteristici</string>
     <string name="btn_back">Înapoi</string>
     <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">Testare reţea</string>
@@ -1187,10 +1187,14 @@ cardul de sănătate"</string>
     <string name="exception_notify_message">"Nu s-au putut calcula statisticile datelor datorită unei erori. Reporniți pentru a restaura."</string>
     <string name="exception_titile">A apărut o eroare</string>
     <string name="exit">Ieșiți</string>
+    <string name="exit_dialog_exit">Ieșiți</string>
     <string name="exit_dialog_garbage_clean_message">Coșul de gunoi este mai mare decât %s. Curățați acum?</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Aplicația Curățare poate elibera &lt;font color=#0099ff>%s&lt;/font> spațiu de stocare. Curățați acum?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Curățați</string>
-    <string name="exit_dialog_garbage_clean_title">Curățați gunoiul</string>
-    <string name="exit_dialog_homepage_optimise_message">"Scorul de performanță al telefonului este mai mic de 80 de puncte. Optimizați acum?"</string>
+    <string name="exit_dialog_garbage_clean_title">Eliberați spațiu de stocare</string>
+    <string name="exit_dialog_homepage_optimise_message">Scorul de performanță al telefonului este mai mic de 80 de puncte. Optimizați acum?</string>
+    <string name="exit_dialog_release_memory_positive_button">Închideți</string>
+    <string name="exit_dialog_release_memory_title"><Data>Creșteți viteza telefonului cu &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mai mult de 80% din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le utilizați.</string>
     <string name="exit_dialog_release_storage_positive_button">Eliberați spațiu</string>
     <string name="exit_dialog_release_storage_title">Eliberați spațiu</string>
@@ -1895,6 +1899,7 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="menu_item_notification_antispam_text_avail">Listă blocări</string>
     <string name="menu_item_notification_antispam_text_normal">Listă blocări</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% ocupat</string>
     <string name="menu_item_notification_power_text">Optimizare acumulator</string>
     <string name="menu_item_notification_title">Afişare meniu în panoul notificărilor</string>
     <string name="menu_item_shortcut_summary">Plasaţi caracteristici pe ecranul de pornire</string>
@@ -1928,7 +1933,9 @@ Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
     <string name="menu_summary_power_manager_4">%s până la încărcarea completă</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupat</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
+    <string name="menu_text_garbage_cleanup_danger">%s gunoi</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
     <string name="menu_text_networkassistants_danger">Peste %s</string>
@@ -2731,8 +2738,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="renew_now">Reînnoiți</string>
     <string name="repair">Reparare</string>
     <string name="repair_loading_text">Doar o secundă…</string>
-    <string name="repeated_marked_number_summary">"Nu bloca un al doilea apel de la același număr raportat care vine în mai puțin de 3 minute"</string>
-    <string name="repeated_marked_number_title">"Nu bloca apelurile repetate provenite de la numerele raportate"</string>
+    <string name="repeated_marked_number_summary">Nu bloca un al doilea apel de la același număr raportat care este primit în mai puțin de %d minute</string>
+    <string name="repeated_marked_number_title">Nu bloca apelurile repetate provenite de la numerele raportate</string>
     <string name="replace_dns">Înlocuire DNS în mod automat</string>
     <string name="report">Raportați</string>
     <string name="report_error">"Nu s-a putut raporta mesajul"</string>
@@ -3009,7 +3016,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_msg_settings">Listă blocări SMS-uri</string>
     <string name="st_msg_stranger_group">Blocați mesajele de la necunoscuți</string>
     <string name="st_settings_name">Setări listă blocare</string>
-    <string name="st_share_settings">Utilizați setările SIM 1</string>
+    <string name="st_share_settings">Utilizați setările cartelei SIM %d</string>
     <string name="st_sub_title_customize_mode_name">Nume</string>
     <string name="st_sub_title_whiteblack_list_group">Listă blocare</string>
     <string name="st_sum_call_wait">Mesajul dumneavoastră de indisponibil va rula și ca semnal de ocupat pentru apelurile primite.</string>
@@ -3142,6 +3149,12 @@ Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai înt�
 
 Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conținutului, faceți o copie de rezervă pe alt ^3 sau dispozitiv."</string>
     <string name="storage_wizard_format_confirm_v2_title">Formatați acest ^1 acum?</string>
+    <string name="stranger_call_dialog_add_block_list">Blocați</string>
+    <string name="stranger_call_dialog_add_contacts">Contact nou</string>
+    <string name="stranger_call_dialog_notification_body">Adăugați la contacte sau blocați acest număr</string>
+    <string name="stranger_call_dialog_notification_title_format">Număr necunoscut %s</string>
+    <string name="stranger_call_dialog_subtitle_format">%s nu se află în contacte. Puteți adăuga acest număr de telefon în contacte sau îl puteți bloca.</string>
+    <string name="stranger_call_dialog_title">"Număr necunoscut "</string>
     <string name="suggest_app_tolock">Sugestii</string>
     <string name="suggest_app_tolock_masked">Conținut ascuns</string>
     <string name="suggest_app_tolock_unmasked">Notificări vizibile</string>
