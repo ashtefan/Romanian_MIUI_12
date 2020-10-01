@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d zile</item>
+        <item quantity="one">·%1$d zi</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d ani</item>
+        <item quantity="one">·%1$d an</item>
+    </plurals>
     <plurals name="agenda_count_down">
         <item quantity="other">În %d minute</item>
         <item quantity="one">În %d minut</item>
     </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="other">·În %1$d zile</item>
+        <item quantity="one">·În %1$d zi</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="other">Începe în %1$d minute</item>
+        <item quantity="one">Începe în %1$d minut</item>
+    </plurals>
+    <plurals name="app_express_content_title_1">
+        <item quantity="other">%d colete sunt pe drum</item>
+        <item quantity="one">%d colet este pe drum</item>
+    </plurals>
+    <plurals name="app_express_settings_title_2">
+        <item quantity="other">S-au adăugat %d numere de telefon</item>
+        <item quantity="one">S-a adăugat %d număr de telefon</item>
+    </plurals>
+    <plurals name="app_miot_total_device">
+        <item quantity="other">%1$d dispozitive</item>
+        <item quantity="one">%1$d dispozitiv</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">În %d zile</item>
         <item quantity="one">În %d zi</item>
+    </plurals>
+    <plurals name="base_time_hour_ago">
+        <item quantity="other">Cu %d ore în urmă</item>
+        <item quantity="one">Cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="base_time_minute_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
     <plurals name="book_start_interval">
         <item quantity="other">Pleacă în %d zile</item>
@@ -27,8 +92,27 @@
         <item quantity="other">S-au adăugat %d numere de telefon</item>
         <item quantity="one">S-a adăugat %d număr de telefon</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">cu %1$dh în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="main_delete_desc">
         <item quantity="other">Eliminați %s elemente din Favorite?</item>
@@ -44,6 +128,10 @@
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d min în urmă</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Ștergeți %s elemente din plată?</item>

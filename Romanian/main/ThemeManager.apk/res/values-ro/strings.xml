@@ -64,6 +64,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="afternoon">PM</string>
     <string name="all_resources">Toate</string>
     <string name="already_latest_version">Actualizată la zi</string>
+    <string name="already_newest_version">Versiunea curentă este cea mai recentă</string>
     <string name="am">AM</string>
     <string name="app_ad_title">Recomandări zilnice</string>
     <string name="app_disable_transparent_wallpaper">Fără imagine de fundal transparentă</string>
@@ -101,6 +102,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
+    <string name="cancel_download">Descărcare anulată</string>
     <string name="card_data_request_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="card_loading">Doar o secundă…</string>
     <string name="card_no_network">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
@@ -191,6 +193,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="description_uploadtime">Actualizare</string>
     <string name="description_version">Versiune</string>
     <string name="description_version_szie">Versiune: %1$s Dimensiune: %2$s</string>
+    <string name="desk_loop_will_change">Atenție</string>
     <string name="desktop_effects">Efecte Ecran principal</string>
     <string name="desktop_wallpaper">Ecran principal</string>
     <string name="detail_author_attention_head">Urmăriți pe unii dintre cei mai de seamă designeri</string>
@@ -418,6 +421,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="incompatible_dialog_message">"Această temă nu este compatibilă cu versiunea MIUI instalată. Unele elemente ale MIUI pot funcționa necorespunzător dacă aplicați această temă."</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
+    <string name="install_failed">Nu s-a putut instala</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
@@ -603,7 +607,9 @@ mm"</string>
     <string name="network_exception">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">PM</string>
+    <string name="no_cta_agreed">GetApps nu are permisiunile CTA</string>
     <string name="no_data">"Nu se poate conecta la rețea"</string>
+    <string name="no_install_permission">Nu aveți permisiunea de a instala acest element</string>
     <string name="no_net_work_connection">Verificați setările de rețea și încercați din nou.</string>
     <string name="no_network_desc">Nu s-a putut conecta la rețea</string>
     <string name="no_network_please_retry">Verificați setările de rețea și încercați din nou</string>
@@ -632,6 +638,7 @@ mm"</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="playing_ringtone">Se redă</string>
     <string name="pm">PM</string>
+    <string name="pref_lockscreen_magazine_summary">Înlocuiți imaginea de fundal cu prezentări de imagini din diferite categorii</string>
     <string name="pref_privacy_policy">Politica de Confidențialitate</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="present_local_fonts">Fonturile mele</string>
@@ -904,6 +911,8 @@ mm"</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="set_color_ring_back_tone">Setați un sunet de apel personalizat</string>
     <string name="set_home_wallpaper_failed">"%s. Nu se poate aplica imaginea de fundal pentru Ecranul principal."</string>
+    <string name="set_wallpaper_group_success">"%1$s a fost aplicată.
+Veți vedea o nouă imagine în fiecare oră."</string>
     <string name="setting_font_online">Fonturi online</string>
     <string name="settings">Setări</string>
     <string name="settings_search_keyword_font_free">Fonturi gratuite</string>
@@ -974,6 +983,12 @@ mm"</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="super_wallpaper">Super imagini de fundal</string>
+    <string name="super_wallpaper_list_label">Super imagini de fundal</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Aplicată cu succes</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicați</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Selectați locația</string>
+    <string name="super_wallpaper_setting_coordinate_title">Coordonate</string>
+    <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
     <string name="support_theme_store_des">Temele bune sunt întotdeauna create de designeri talentați. Aplicația noastră conține o cantitate mică de anunțuri care ne permite să susținem activitatea lor.</string>
     <string name="support_theme_store_supported">Mulțumim pentru sprijin!</string>
     <string name="support_theme_store_title">Susțineți designerii noștri</string>
@@ -989,6 +1004,7 @@ mm"</string>
     <string name="system_cta_runtime_perm_desc_storage">Pentru stocarea temelor salvate și a altor articole</string>
     <string name="system_precust">Pre-instalate</string>
     <string name="tag_ad">Reclamă</string>
+    <string name="task_already_exist">Această sarcină există deja</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -1186,6 +1202,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="uid_change_dialog_title">Reporniți telefonul</string>
     <string name="unable_connect_network">"Nu s-a putut conecta la rețea"</string>
     <string name="up_to_the_end">"Asta e tot pentru acum. Reveniți mai târziu."</string>
+    <string name="update">Actualizați</string>
     <string name="update_btn">ACTUALIZAȚI ACUM</string>
     <string name="update_check">Verificați actualizările</string>
     <string name="update_checking">Se verifică actualizările…</string>
@@ -1223,6 +1240,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_detail_load_page_no_network">Conectați-vă la rețea și încercați din nou.</string>
     <string name="wallpaper_download_incall_show">Descărcați videoclipul</string>
     <string name="wallpaper_dynamic">Dinamică</string>
+    <string name="wallpaper_group_set_loop">Derulare imagini similare în Blocarea ecranului</string>
     <string name="wallpaper_loop_add_success">Adăugată cu succes</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adăugați la diapozitivul pentru Ecranul principal</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adăugați la diapozitivul pentru Blocarea ecranului</string>
@@ -1257,8 +1275,18 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_set_as_incall_show">Setați un profil video</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_setting_all">Toate imaginile de fundal</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">Mai multe imagini de fundal online</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">ecranul principal</string>
     <string name="wallpaper_setting_library">Librărie</string>
     <string name="wallpaper_setting_live">Live</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Blocarea ecranului</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Imagini de fundal online</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Descoperiți imagini de fundal</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Imagini de fundal online</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Super imagini de fundal</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Mai mult</string>
+    <string name="wallpaper_setting_title">Imagine de fundal</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
     <string name="wallpaper_settings_loading_text">Doar o secundă…</string>
     <string name="wallpaper_settings_no_history">Nu există istoric</string>
@@ -1267,6 +1295,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_share_alert">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="wallpaper_static">Statică</string>
     <string name="wallpaper_subject_version">MI</string>
+    <string name="warning_subscribe_wallpaper_group_content">Ați activat prezentarea de diapozitive pe ecranul de pornire. %1$s va fi aplicat ecranului de pornire.</string>
     <string name="wechat_not_found">Instalați mai întâi WeChat</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

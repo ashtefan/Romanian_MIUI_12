@@ -30,6 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="about_checking_update">se caută actualizări ...</string>
+    <string name="about_go_to_update">Mergeți la actualizare</string>
+    <string name="about_lasted_version">Aveți cea mai recentă versiune</string>
     <string name="account_add_title">Selectați serviciul de e-mail</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
@@ -48,6 +51,8 @@
     <string name="account_security_verification">Verificare cont</string>
     <string name="account_set_up_change_type_note">Dacă aveți nevoie să comutaţi între setările POP3 și IMAP, ștergeţi contul și creaţi unul nou cu setările dorite.</string>
     <string name="account_setting">Conturi</string>
+    <string name="account_setting_general_summry">Setați funcțiile comune ale aplicației de E-mail</string>
+    <string name="account_setting_general_title">Setările funcțiilor</string>
     <string name="account_setting_keywords">Conturi;Conturi de poștă electronică; conturi de e-mail</string>
     <string name="account_setting_message_body_load_complete">E-mailul complet</string>
     <string name="account_setting_message_body_load_head_abstract">Sumarul e-mailului</string>
@@ -57,8 +62,10 @@
     <string name="account_settings_background_attachments_label">Descărcaţi ataşamentele</string>
     <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">Descărcaţi ataşamentele prin Wi-Fi</string>
+    <string name="account_settings_background_attachments_title">Descarcă atașamentele în mod automat</string>
     <string name="account_settings_data_usage">Setări sincronizare</string>
     <string name="account_settings_description_label">Numele contului</string>
+    <string name="account_settings_does_not_support_pop">Protocolul POP3 nu suportă setarea acestui element</string>
     <string name="account_settings_edit_quick_responses_label">Răspunsuri rapide</string>
     <string name="account_settings_edit_quick_responses_summary">Editați mesajele scurte pentru a le lipi în e-mailuri</string>
     <string name="account_settings_enforced_label">Politici aplicate</string>
@@ -196,6 +203,7 @@ Actualizaţi acum?"</string>
     <string name="account_sync_settings_settings">Sincronizare contacte și calendar</string>
     <string name="account_sync_settingstip_description">Sincronizare</string>
     <string name="account_waiting_for_folders_msg">Încărcare dosare…</string>
+    <string name="action_filter">Filtru</string>
     <string name="actionbar_more_option">Mai multe opțiuni</string>
     <string name="activity_folder_selection">Selectaţi dosarul</string>
     <string name="activity_mailbox_selection">Selectaţi contul</string>
@@ -666,6 +674,8 @@ Actualizaţi acum?"</string>
     <string name="info_switch_title">Promoții</string>
     <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
     <string name="input_password_prompt">Introduceţi parola dvs.</string>
+    <string name="install_mime_encrypt_cert">Instalați certificatul de criptare S/MIME</string>
+    <string name="install_mime_sign_cert">Instalați semnătura certificatului S/MIME</string>
     <string name="interact_with_server_error">"Nu s-a putut conecta la server"</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
@@ -701,6 +711,7 @@ Actualizaţi acum?"</string>
     <string name="login_failed_tip">"Contactați-ne prin WeChat pentru a primi ajutor: "</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="login_mail">Conectați-vă</string>
+    <string name="login_manual">Setare manuală</string>
     <string name="login_qq_psw">Introduceți manual codul</string>
     <string name="login_support_tip_text">Suportă autentificarea în toate conturile de e-mail frecvent utilizate</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
@@ -730,6 +741,8 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Sincronizare: Oprită</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Sincronizare: Pornită</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
@@ -754,43 +767,43 @@ Actualizaţi acum?"</string>
           Acceptată:
         %s
     "</string>
-  <string name="meeting_allday">"
+    <string name="meeting_allday">"
           Când:
         %s
          (toată ziua)
     "</string>
-  <string name="meeting_allday_recurring">"
+    <string name="meeting_allday_recurring">"
           Când:
         %s
 	(toată ziua, recurent)
     "</string>
-  <string name="meeting_canceled">"
+    <string name="meeting_canceled">"
           Anulată:
         %s
     "</string>
-  <string name="meeting_declined">"
+    <string name="meeting_declined">"
           Refuzată:
         %s
     "</string>
-  <string name="meeting_recurring">"
+    <string name="meeting_recurring">"
           Când:
         %s
         (recurent)
     "</string>
     <string name="meeting_responded_failed">Niciun răspuns</string>
-  <string name="meeting_tentative">"
+    <string name="meeting_tentative">"
         Tentativă:
         %s
     "</string>
-  <string name="meeting_updated">"
+    <string name="meeting_updated">"
           Actualizată:
         %s
     "</string>
-  <string name="meeting_when">"
+    <string name="meeting_when">"
           Când:
         %s
     "</string>
-  <string name="meeting_where">"
+    <string name="meeting_where">"
           Unde:
         %s
     "</string>

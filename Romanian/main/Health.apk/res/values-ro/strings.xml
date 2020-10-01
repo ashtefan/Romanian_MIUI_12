@@ -587,12 +587,14 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_camera_permission_desc">Pentru a obține frecvența schimbărilor de lumină în jurul degetului prin intermediul camerei în vederea determinării valorii ritmului cardiac</string>
     <string name="hr_choose_detect_state">Selectați starea când se detectează</string>
     <string name="hr_cover_to_red">"Acoperiți complet camera foto cu degetul.
 Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_detect">Detectare ritm cardiac</string>
     <string name="hr_detect_desc">Pe durata măsurării, blițul telefonului dvs. va fi utilizat ca sursă de lumină continuă, iar camera va detecta modificările fluxului sanguin. Imaginile vor fi apoi analizate, iar ritmul cardiac va fi determinat pe baza modelelor repetate.</string>
     <string name="hr_detect_finished">Detectare finalizată</string>
+    <string name="hr_detect_fps_jitter">Nu s-a putut măsura. Încercați din nou.</string>
     <string name="hr_detect_paused">Oprită</string>
     <string name="hr_detect_principle_desc_1">Folosind blițul camerei foto ca sursă de lumină continuă și lipind ușor degetul de cameră, se poate obține imaginea fluxului de sânge, prin analiza imaginii, poate colecta semnalul de undă de impuls stabil, obținând astfel valoarea ritmului cardiac.</string>
     <string name="hr_detect_principle_desc_2">Testele multiple arată că marja de eroare pentru această metodă este de aproximativ 2 bătăi pe minut.</string>

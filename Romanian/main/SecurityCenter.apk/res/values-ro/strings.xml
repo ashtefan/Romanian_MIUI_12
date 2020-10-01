@@ -2702,6 +2702,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="privacy_provision_summary">Protejarea confidențialității este este angajamentul din spatele proiectării produselor noastre</string>
     <string name="privacy_provision_text">Ne-am angajat să respectăm și să vă protejăm confidențialitatea. Prioritizând cercetarea și dezvoltarea în domeniul securității informațiilor, Xiaomi lucrează constant la îmbunătățirea metodelor, practicilor și soluțiilor tehnice care vă protejează datele. De asemenea, împărtășim cele mai recente realizări cu partenerii noștri, pentru a vă asigura confidențialitatea.</string>
     <string name="privacy_provision_title">Confidențialitate</string>
+    <string name="privacy_revoke_dialog_content">Prin dezactivarea comutatorului, vă retrageți consimțământul la Politica de confidențialitate de securitate. Vom înceta să colectăm informațiile dvs. personale. Informațiile cu caracter personal deja colectate și păstrate vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Aplicația de Securitate trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. pentru politica sa de confidențialitate va fi considerată ca refuz de accept pentru serviciile sale pe baza informațiilor personale colectate.</string>
+    <string name="privacy_revoke_dialog_negetive_text">Anulați</string>
+    <string name="privacy_revoke_dialog_positive_text">Retrageți</string>
+    <string name="privacy_revoke_dialog_title">Retragerea consimțământului</string>
     <string name="privacy_search_key_1">Confidențialitate</string>
     <string name="privacy_search_key_10">ID-ul dispozitivului</string>
     <string name="privacy_search_key_2">Interceptarea rețelei</string>
@@ -2888,6 +2892,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="settings_image_camera_summary">Modelul dispozitivului, metadate, etc.</string>
     <string name="settings_location_subtitle_no">Fără informații despre locație</string>
     <string name="settings_power_save_ontime_title">Program</string>
+    <string name="settings_privacy_revoke_desc">Prin dezactivarea comutatorului, vă retrageți consimțământul pentru Politica de confidențialitate a aplicației de Securitate.</string>
+    <string name="settings_privacy_revoke_title">Retragerea consimțământului</string>
     <string name="settings_share_enable_summary">Elementele pe care le partajați prin WeChat vor avea o insignă cu MIUI</string>
     <string name="settings_share_info">Iată opțiunile de partajare securizată disponibile pentru elementele partajate din Galerie sau din Managerul de Fișiere:</string>
     <string name="settings_show_detail">Vedeți detaliile</string>
