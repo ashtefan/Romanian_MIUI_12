@@ -960,12 +960,12 @@ Motivul: \"%s\""</string>
     
 Pentru a adăuga un contact în lista de favorite:
 
-        "&lt;li&gt;Apăsați fila &lt;b&gt;Contacte&lt;/b&gt;"
-"&lt;/li&gt;" 
-"&lt;li&gt;"Apăsați contactul pe care doriți să-l adăugați la Favorite
-"&lt;/li&gt;" 
-"&lt;li&gt;"Apăsați steluța din dreptul numelui contactului
-"&lt;/li&gt;"
+        "<li>Apăsați fila <b>Contacte</b>" tab
+"</li>" 
+"<li>"Apăsați contactul pe care doriți să-l adăugați la Favorite
+"</li>" 
+"<li>"Apăsați steluța din dreptul numelui contactului
+"</li>"
     "</string>
     <string name="noGroups">Niciun grup</string>
     <string name="noMatchingContacts">Nu a fost găsit niciun contact potrivit în agendă.</string>

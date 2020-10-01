@@ -2885,7 +2885,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
     <string name="forget_password_dialog_button_text">Înapoi</string>
     <string name="forget_password_dialog_content_four">2. Selectați [Ștergere date] și așteptați până când telefonul repornește.</string>
-    <string name="forget_password_dialog_content_one"><Data>Dacă ați uitat parola, nu o veți mai putea recupera. Totuși, veți putea reseta parola după ce &lt;font color=#ec2700>ștergeți toate datele din telefon&lt;/font> (inclusiv fotografiile, contactele, etc.). Salvați toate datele importante înainte de asta."</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Dacă ați uitat parola, nu o veți mai putea recupera. Totuși, veți putea reseta parola după ce &lt;font color=#ec2700>ștergeți toate datele din telefon&lt;/font> (inclusiv fotografiile, contactele, etc.). Salvați toate datele importante înainte de asta.</Data></string>
     <string name="forget_password_dialog_content_three">1. Închideți telefonul. Apăsați butoanele [Pornire] și [Volum+] simultan și mențineți-le apăsate până când vedeți pictograma.</string>
     <string name="forget_password_dialog_content_two">Urmați acești pași pentru a șterge datele:</string>
     <string name="forget_password_dialog_title">Resetați parola</string>
@@ -6733,7 +6733,7 @@ Pentru a muta fotografii, fișiere și datele aplicațiilor pe acest dispozitiv,
     <string name="storage_wizard_ready_v2_internal_body">Pentru a muta conținutul pe ^1, mergeți la <b>Setări > Stocare</b></string>
     <string name="storage_wizard_ready_v2_internal_moved_body">"Conținutul a fost mutat pe ^1. 
 
-Pentru a gestiona ^2, mergeți la Setări>Stocare.</string>
+Pentru a gestiona ^2, mergeți la "<b>Setări > Stocare</b>.</string>
     <string name="storage_wizard_slow_body">"Acest ^1 pare a fi lent. 
 
 Puteți continua, dar aplicațiile mutate în această locație se pot bloca iar transferul poate dura foarte mult. 
@@ -8226,9 +8226,9 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_setup_back">Înapoi</string>
     <string name="wifi_setup_cancel">Anulaţi</string>
     <string name="wifi_setup_connect">Conect.</string>
-    <string name="wifi_setup_description_connected">Atingeţi<b>Următorul</b>" pentru a continua configurarea.
+    <string name="wifi_setup_description_connected">Atingeţi <b>Următorul</b>" pentru a continua configurarea.
 
-Atingeţi"<b>Înapoi</b> pentru a vă conecta la o altă reţea Wi-Fi.</string>
+Atingeţi "<b>Înapoi</b> pentru a vă conecta la o altă reţea Wi-Fi.</string>
     <string name="wifi_setup_description_connecting">Conectarea poate dura câteva minute…</string>
     <string name="wifi_setup_detail">Detalii reţea</string>
     <string name="wifi_setup_eap_not_supported">"Nu puteţi configura o conexiune Wi-Fi EAP în timpul instalării. După instalare, puteţi merge la Setări > Wireless și rețele."</string>

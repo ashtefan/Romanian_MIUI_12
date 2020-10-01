@@ -2049,7 +2049,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
     <string name="user_alias_self">Individual</string>
-    <string name="user_notice_identify_summary_format"><Data>Utilizând acest serviciu sunteți de acord cu &lt;a href=\"%1$s\">\"Termenii Serviciului\"&lt;/a> și &lt;a href=\"%2$s\">\"Politica de Confidențialitate Xiaomi\"&lt;/a>."</Data></string>
+    <string name="user_notice_identify_summary_format"><Data>Utilizând acest serviciu sunteți de acord cu &lt;a href=\"%1$s\">\"Termenii Serviciului\"&lt;/a> și &lt;a href=\"%2$s\">\"Politica de Confidențialitate Xiaomi\"&lt;/a>.</Data></string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>

@@ -707,7 +707,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="uninstall_activity_text">%1$s face parte din următoarea aplicaţie:</string>
     <string name="uninstall_all_blocked_profile_owner">Această aplicație este necesară pentru unii utilizatori și profiluri și a fost dezinstalată pentru alții</string>
     <string name="uninstall_application_text">Doriți să dezinstalați această aplicație?</string>
-    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru &lt;b&gt;toți&lt;/b&gt; utilizatorii? Aplicația și datele vor fi eliminate pentru &lt;b&gt;toți&lt;/b&gt; utilizatorii de pe telefon.</string>
+    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru <b>toți</b> utilizatorii? Aplicația și datele vor fi eliminate pentru <b>toți</b> utilizatorii de pe telefon.</string>
     <string name="uninstall_application_text_user">Doriți să dezinstalați această aplicație pentru utilizatorul %1$s?</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>
     <string name="uninstall_blocked_device_owner">Această aplicație este necesară administratorului dispozitivului și nu poate fi dezinstalată.</string>
@@ -749,7 +749,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="verify_apps_over_usb_title">Verificați aplicațiile prin USB</string>
     <string name="virus_scan_caller_unknown">Necunoscut</string>
     <string name="virus_scan_clear">Eliminați</string>
-    <string name="virus_scan_install">&lt;u&gt;Instalați oricum&lt;/u&gt;</string>
+    <string name="virus_scan_install"><u>Instalați oricum</u></string>
     <string name="virus_scan_is_risk">Această aplicație este riscantă pentru securitatea dispozitivului dumneavoastră.</string>
     <string name="virus_scan_is_virus">Această aplicație conține un virus.</string>
     <string name="virus_title_subtext">"Această aplicație poate conține viruși: "</string>

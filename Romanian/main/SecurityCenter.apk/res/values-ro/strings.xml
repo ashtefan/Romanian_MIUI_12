@@ -516,7 +516,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_lock_all">Blocați tot</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
     <string name="applock_no_account_login">Nu sunteți conectat la contul dvs. Mi</string>
-    <string name="applock_not_add_account">&lt;u&gt;Not now&lt;/u&gt;</string>
+    <string name="applock_not_add_account"><u>Nu acum</u></string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
     <string name="applock_operate_faceunlock_summary">Deblocați aplicații prin simpla privire asupra ecranului</string>
     <string name="applock_operate_faceunlock_title">Utilizați datele faciale</string>
@@ -1077,7 +1077,7 @@ cardul de sănătate"</string>
     <string name="ew_arrive_text_tips">Valul seismic a ajuns: %s</string>
     <string name="ew_button_confirm">De acord</string>
     <string name="ew_button_exit">"Nu sunt de acord"</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"Această caracteristică vă furnizează avertizări de cutremur. Aceasta vă va notifica despre cutremurele iminente și va reda un sunet de avertizare. Veți putea găsi cel mai apropiat adăpost, suna contactul de urgență și arăta cardul de sănătate dacă este necesar. &amp;lt;br&amp;gt;Vă vom proteja informațiile personale în concordanță cu legile în vigoare, regulamentele și politicile de confidențialitate. &amp;lt;br&amp;gt;Pentru a putea funcționa în mod normal, această caracteristică necesită următoarele permisiuni pentru a colecta datele personale: &amp;lt;br&amp;gt;&amp;#8226; Informații despre localizare: &amp;lt;br&amp;gt;Pentru accesarea locației și furnizarea de avertizări acurate de cutremur. &amp;lt;br&amp;gt;Dacă nu sunteți de acord să acordați asemenea permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această funcție. Puteți alege să dezactivați această funcție sau să nu o porniți. &amp;lt;br&amp;gt;Trebuie să citiți și să acceptați &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție."&lt;/Data&gt;</string>
+    <string name="ew_china_version_first_start_network_msg"><Data>Această caracteristică vă furnizează avertizări de cutremur. Aceasta vă va notifica despre cutremurele iminente și va reda un sunet de avertizare. Veți putea găsi cel mai apropiat adăpost, suna contactul de urgență și arăta cardul de sănătate dacă este necesar. &lt;br>Vă vom proteja informațiile personale în concordanță cu legile în vigoare, regulamentele și politicile de confidențialitate. &lt;br>Pentru a putea funcționa în mod normal, această caracteristică necesită următoarele permisiuni pentru a colecta datele personale: &lt;br>• Informații despre localizare: &lt;br>Pentru accesarea locației și furnizarea de avertizări acurate de cutremur. &lt;br>Dacă nu sunteți de acord să acordați asemenea permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această funcție. Puteți alege să dezactivați această funcție sau să nu o porniți. &lt;br>Trebuie să citiți și să acceptați &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza această funcție.</Data></string>
     <string name="ew_close">Dezactivați alerta</string>
     <string name="ew_close_warning">Opriți</string>
     <string name="ew_concern_city">Orașe adăugate</string>
@@ -1580,7 +1580,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
-    <string name="gdpr_msg"><Data>Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile.</Data></string>
+    <string name="gdpr_msg"><Data>Pentru a putea detecta riscurile de securitate și pentru a vă proteja datele, trebuie să colectăm cantitatea necesară de informații despre dispozitivul dvs. Citiți și acceptați &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza serviciile noastre. În cazul în care nu ne permiteți să colectăm aceste informații, veți putea utiliza în continuare această aplicație, dar unele caracteristici nu vor fi disponibile. </Data></string>
     <string name="get_detail_by_click">Atingeți pentru a vedea detalii</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
@@ -2238,7 +2238,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="password_promotion_postbutton_text">Adăugați</string>
     <string name="password_promotion_title">Adăugați contul Mi</string>
     <string name="password_type">Schimbați parola</string>
-    <string name="password_type_underline">&lt;u&gt;Schimbați parola&lt;/u&gt;</string>
+    <string name="password_type_underline"><u>Modificați parola</u></string>
     <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați ulterior un altul.</string>
     <string name="pc_abnormal_scan_button_text">Închideți aplicațiile</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Previne intrarea sistemului în modul repaos</string>
@@ -3595,7 +3595,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="unlike">Nu, mulțumesc</string>
     <string name="unlimited_cellular_data_monthly">Plan nelimitat</string>
     <string name="unlock_failed">Eroare internă</string>
-    <string name="unlock_pattern">&lt;u&gt;Model de deblocare&lt;/u&gt;</string>
+    <string name="unlock_pattern"><u>Model de deblocare</u></string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduceți parola pentru a activa amprenta</string>
     <string name="unlock_set_unlock_password_summary">Combinați diferite caractere</string>
     <string name="unlock_set_unlock_password_title">Parolă</string>

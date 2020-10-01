@@ -853,7 +853,7 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="passport_error_unknown">Eroare necunoscută</string>
     <string name="passport_error_user_agreement_error">Acceptați mai întâi termenii și condițiile</string>
     <string name="passport_error_user_name">Numele de utilizator introdus este nevalid</string>
-    <string name="passport_forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Am uitat parola</u></string>
     <string name="passport_get_verify_code">Obțineți codul</string>
     <string name="passport_getting_verify_code">Doar o secundă…</string>
     <string name="passport_identification_expired">Codul de verificare a expirat. Reluați procesul.</string>

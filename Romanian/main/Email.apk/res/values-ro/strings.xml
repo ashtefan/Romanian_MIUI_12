@@ -1305,7 +1305,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="server_cet_issuer_no_trust">Furnizorul certificatului nu este o organizație de încredere.</string>
     <string name="server_cet_subject_cn">"Domeniu suportat: "</string>
     <string name="server_cet_title">Detaliile certificatului</string>
-    <string name="service_protocol_discribe"><u>Am citit și sunt de acord cu Termenii serviciului de e-mail WPS</u></string>
+    <string name="service_protocol_discribe"><u>Am citit și sunt de acord cu \"Acordul Serviciului WPS Mail\"</u></string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
     <string name="setting_kids_subtitle">Vârstă confirmată</string>

@@ -377,7 +377,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"Plata nu a ajuns în contul dvs. încă."</string>
     <string name="mibi_prompt_info_button_hint">Atenție(%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use"><Data>"&lt;font color=#ff7700>Monedele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com.&lt;/font>"</Data></string>
+    <string name="mibi_prompt_info_for_first_use"><Data>&lt;font color=#ff7700>Monedele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com.&lt;/font></Data></string>
     <string name="mibi_prompt_info_title">Ponturi</string>
     <string name="mibi_push_register_fail">Înregistrare push eșuată.</string>
     <string name="mibi_push_register_success">Înregistrare push cu succes.</string>
