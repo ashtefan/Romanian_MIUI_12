@@ -161,6 +161,7 @@ pentru a adăuga carduri"</string>
     <string name="butterfly_stroke">Fluture</string>
     <string name="button_record_menstruation">Înregistrați</string>
     <string name="buy">Achiziționați</string>
+    <string name="calories">calorii</string>
     <string name="camera_permission_desc">Pentru setarea fotografiei de profil</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_edit">Anulați modificările</string>
@@ -548,6 +549,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="goal_sleep_time">Ținta pentru durata somnului</string>
     <string name="goal_title">Păstrați-vă sănătatea</string>
     <string name="goto_setting_auto_start">Setări</string>
+    <string name="gps">GPS</string>
     <string name="group">Cicluri</string>
     <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări > Servicii Cloud.</string>
     <string name="guide_exit">Părăsiți Sănătate Xiaomi</string>
@@ -608,7 +610,16 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_detect_state_reseting">Stare de odihnă</string>
     <string name="hr_detect_state_reseting_desc">Sunteți complet relaxat sau tocmai v-ați trezit</string>
     <string name="hr_disturb_detect">Detectarea a fost întreruptă</string>
-    <string name="hr_disturb_detect_desc">Începeți din nou. Încercați să nu mișcați degetul în timpul măsurării.</string>
+    <string name="hr_fp_area">Zona amprentei</string>
+    <string name="hr_fp_detect_desc">Fluxul de sânge către degete crește în timpul bătăilor inimii. Prin intermediul sursei de lumină puternice din zona amprentelor de sub ecran, se poate obține modificarea frecvenței sângelui degetelor. Frecvența este convertită într-un semnal de impuls pentru a calcula ritmul cardiac exact.</string>
+    <string name="hr_fp_detect_principle_desc">"Sângele poate absorbi lumina. Cu fiecare bătaie a inimii, mai mult sânge curge spre degete și se absoarbe mai multă lumină; în intervalul dintre bătăile inimii, se absoarbe mai puțină lumină. Prin sursa de lumină strălucitoare din zona amprentelor de sub ecran, se poate obține frecvența de schimbare a sângelui degetelor. Frecvența este convertită într-un semnal de impuls pentru a calcula ritmul cardiac exact.
+
+Prin intermediul unui număr mare de experimente, eroarea medie a ritmului cardiac este mai mică de 3 BPM"</string>
+    <string name="hr_fp_detect_principle_desc_2">Notă: vă rugăm să vă asigurați că degetul acoperă complet zona de amprentă; apăsați-l ușor în timpul detectării. Dacă presiunea este prea mare, fluxul sanguin din deget va fi redus, rezultând rezultate inexacte. Datele testelor sunt doar pentru referință, nu pentru instrumente medicale.</string>
+    <string name="hr_fp_detect_start_desc">Vă rugăm să apăsați ușor degetul. Nu mutați zona de amprentă</string>
+    <string name="hr_fp_detecting">Detectare…</string>
+    <string name="hr_fp_not_put_well">Degetul nu este la locul potrivit, încercați din nou</string>
+    <string name="hr_fp_report_common_desc">Ritmul cardiac normal variază de la 60 la 100 de bătăi pe minut. O frecvență cardiacă mai mică de 60 BPM este un semn de bradicardie, în timp ce o frecvență cardiacă peste 100 BPM este acceptată ca tahicardie la adulți.</string>
     <string name="hr_heart_rate_unit">Ritm cardiac (BPM)</string>
     <string name="hr_in_detect">Vă rugăm să nu mișcați degetele pe durata testării</string>
     <string name="hr_input_heart_rate">Înregistrați ritmul cardiac</string>
@@ -1045,11 +1056,14 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="setting_avatar">Fotografia de profil</string>
     <string name="setting_birthday">Setați data nașterii</string>
     <string name="setting_blood_type">Setați grupa sanguină</string>
+    <string name="setting_cycling_goals">Setați țintele de ciclism</string>
     <string name="setting_data_cloud_sync_tip">Utilizați această caracteristică pentru a face o copie de rezervă a elementelor din acest dispozitiv și pentru a sincroniza date despre sănătate provenite de la alte dispozitive</string>
     <string name="setting_gender">Setați sexul</string>
+    <string name="setting_running_goals">Setați ținta de alergare</string>
     <string name="setting_sedentary_off">OPRIT</string>
     <string name="setting_sedentary_on">PORNIT</string>
     <string name="setting_sedentary_title">Memento mișcare</string>
+    <string name="setting_walking_goals">Setați ținta pentru plimbare</string>
     <string name="severe_abnormal">Crize hipertensive</string>
     <string name="severe_abnormal_tip">În fiecare zi după trezire, după masă și înainte de a merge la culcare</string>
     <string name="share">Partajați</string>
@@ -1247,6 +1261,9 @@ despre somn"</string>
     <string name="stand_stop_reminding">Nu afișa din nou</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">" V-ați ridicat"</string>
+    <string name="start_cycling">Începeți ciclismul</string>
+    <string name="start_running">Începeți alergarea</string>
+    <string name="start_walking">Începeți plimbarea</string>
     <string name="state_agree">De acord</string>
     <string name="state_auto_run_disenable">Oprit</string>
     <string name="state_auto_run_enable">Pornit</string>
@@ -1365,7 +1382,7 @@ despre somn"</string>
     <string name="tb_home_sleep_card_no_data">Somn. Nu există date astăzi.</string>
     <string name="tb_home_sleep_card_not_open_trace">Somn. Analiza ciclului de somn este dezactivată.</string>
     <string name="tb_home_tip_open_data_sync">Sincronizați elementele din aplicația Sănătate Xiaomi în Xiaomi Cloud pentru a le accesa de pe alte dispozitive. Atingeți de două ori pentru a începe.</string>
-    <string name="tb_home_weight_card">Greutate. %1$.1f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
+    <string name="tb_home_weight_card">Greutate. %1$.2f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Greutate. Nu există date.</string>
     <string name="tb_manage_home">Aici puteți muta sau rearanja filele afișate în pagina de start.</string>
     <string name="tb_mens_mark_success">Marcat cu succes</string>

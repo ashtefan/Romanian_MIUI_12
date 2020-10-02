@@ -112,6 +112,10 @@
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d oră</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d secunde rămase</item>
+        <item quantity="one">%1$d secundă rămasă</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Într-o oră</item>
     </plurals>
@@ -263,6 +267,26 @@
     <plurals name="unit_group">
         <item quantity="other">" cicluri"</item>
         <item quantity="one">" ciclu"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" ore "</item>
+        <item quantity="one">" oră "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" ore "</item>
+        <item quantity="one">" oră "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minute "</item>
+        <item quantity="one">" minut "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" sec "</item>
+        <item quantity="one">" sec "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" ori"</item>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="HomePageTabTitle">
+        <item>Sănătate</item>
+        <item>Exerciții</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Alergare în exterior</item>
+        <item>Plimbare</item>
+        <item>Alergare în aer liber</item>
+        <item>Bandă de alergat</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
