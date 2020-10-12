@@ -42,11 +42,11 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nu dezactiva niciodată pentru %d aplicații</item>
-        <item quantity="one">Nu dezactiva niciodată pentru o aplicație</item>
+        <item quantity="one">Nu dezactiva niciodată pentru %d aplicație</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Dezactivează întotdeauna pentru %d aplicații</item>
-        <item quantity="one">Dezactivează întotdeauna pentru o aplicație</item>
+        <item quantity="one">Dezactivează întotdeauna pentru %d aplicație</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d aplicații pot porni în mod automat</item>

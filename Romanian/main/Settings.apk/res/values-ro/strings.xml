@@ -2395,6 +2395,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="doze_always_on_title">Activ permanent</string>
     <string name="doze_summary">Trezește ecranul când se primesc notificări</string>
     <string name="doze_title">Notificări noi</string>
+    <string name="dpp_qrcode_generator_summary">Scanați acest cod QR cu un dispozitiv care suportă Easy Connect</string>
     <string name="draw_overlay">Afișează peste alte aplicații</string>
     <string name="dsds_dialog_cancel">Renunțați</string>
     <string name="dsds_dialog_confirm">Reporniți</string>
@@ -8318,7 +8319,9 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_switch_to_gsm_message">S-a pierdut conexiunea la WLAN. Utilizați conexiunea de date mobile în schimb?</string>
     <string name="wifi_switch_to_gsm_title">Utilizați rețeaua GSM?</string>
     <string name="wifi_tap_to_sign_in">Atingeți aici pentru a vă conecta la rețea</string>
+    <string name="wifi_tether_checkbox_kddi_text">Tethering Wi-Fi</string>
     <string name="wifi_tether_checkbox_text">Hotspot portabil</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Setați tethering-ul Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configuraţi hotspotul portabil</string>
     <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
     <string name="wifi_tether_configure_subtext">%1$s portabil %2$s</string>

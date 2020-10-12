@@ -515,7 +515,7 @@ merită aplicația sa"</string>
     <string name="xspace_guide_title">Încercați Aplicațiile clonate</string>
     <string name="xspace_header">Aplicații clonate</string>
     <string name="xspace_instagram_title">Instagram</string>
-    <string name="xspace_install_complete">&lt;font>A fost creată cu succes. &lt;/font>&lt;font color=#0D84FF>Deschideți acum&lt;/font></string>
+    <string name="xspace_install_complete">&lt;font>Creat cu succes. &lt;/font>&lt;font color=#0D84FF>Deschideți acum&lt;/font>.</string>
     <string name="xspace_install_completed">Pictogramă adăugată la Ecranul principal</string>
     <string name="xspace_install_completed_global">Pictogramă adăugată la sertar</string>
     <string name="xspace_install_failed">"Nu s-a putut crea"</string>

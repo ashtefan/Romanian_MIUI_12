@@ -128,6 +128,7 @@
     <string name="document_grayscale">Scală de gri</string>
     <string name="document_grayscale_tip_msg">Convertire la scală de gri…</string>
     <string name="document_list">Documente</string>
+    <string name="document_list_is_empty">Lista de documente este goală</string>
     <string name="document_list_rename">Introduceți numele</string>
     <string name="document_ocr">OCR</string>
     <string name="document_ocr_fail">Nu s-a putut recunoaște textul. Rotiți imaginea astfel încât să se potrivească cu orientarea ecranului și încercați din nou.</string>
@@ -135,6 +136,7 @@
     <string name="document_ocr_result_save">Salvați în Note</string>
     <string name="document_ocr_result_title">Document fotografiat</string>
     <string name="document_ocr_tip_msg">Citire…</string>
+    <string name="document_read">Citiți</string>
     <string name="document_recognize_fail_tip">"Nu s-a putut citi documentul"</string>
     <string name="document_recognize_null_tip">"Nu s-a putut recunoaște documentul"</string>
     <string name="document_recognize_text">Recunoaștere text</string>
@@ -142,7 +144,9 @@
     <string name="document_rectify_tip_msg">Ajustare…</string>
     <string name="document_region">Ajustați</string>
     <string name="document_rename">Redenumiți</string>
+    <string name="document_rnext_step">Următorul</string>
     <string name="document_save_succeed_tip">Document salvat în %1$s</string>
+    <string name="document_save_text">Salvați</string>
     <string name="document_spin">Rotiți</string>
     <string name="document_take_a_single">O singură pagină</string>
     <string name="document_take_multiple_shots">Mai multe pagini</string>
@@ -157,6 +161,7 @@
     <string name="drag_crop_to_business_card">Mutați pentru a decupa</string>
     <string name="duplicate_file_name_please_rename">Un fișier cu același nume există deja</string>
     <string name="email">E-mail:</string>
+    <string name="emails">E-mail</string>
     <string name="error_camera_disabled">Accesul la Cameră a fost restricționat din motive de securitate</string>
     <string name="error_cannot_connect_camera">"Nu se poate conecta Camera"</string>
     <string name="error_empty_result">"Nu s-au găsit rezultate"</string>
@@ -177,6 +182,8 @@
     <string name="feedback_phone">Informații despre contact (opțional)</string>
     <string name="feedback_title">Feedback</string>
     <string name="filename_cannot_beempty">Numele de fișier nu poate fi lăsat necompletat</string>
+    <string name="flash_close">închideți</string>
+    <string name="flash_open">deschideți</string>
     <string name="flight_mode_connecting_to_wifi">Activați manual conexiunea Wi-Fi atunci când modul Avion este activ</string>
     <string name="food_identification_fail_tips">Scanați fructe, legume și alte alimente. Această caracteristică funcționează de asemenea și cu imagini.</string>
     <string name="food_identification_tip_msg">Se recunoaște mâncarea…</string>
@@ -191,7 +198,7 @@
     <string name="food_module_title_food">Calorii</string>
     <string name="function">Caracteristici</string>
     <string name="general_error">Nu s-a putut recunoaște</string>
-    <string name="general_feedback">Raportați rezultatele eronate</string>
+    <string name="general_feedback">Raportați greșelile</string>
     <string name="general_location">Permiteți aplicației Scaner să vă acceseze locația pentru a obține servicii bazate pe locație</string>
     <string name="general_location_dialog">Unele caracteristici ale recunoașterii obiectelor sunt furnizate de Dianping. Dacă doriți să recunoașteți obiecte din magazine, Dianping trebuie să utilizeze fotografiile realizate în timp ce utilizați această caracteristică împreună cu informațiile despre locația lor pentru a vă oferi rezultatele relevante.</string>
     <string name="general_location_prompt">Acces la locație</string>
@@ -211,6 +218,7 @@
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">Nu s-a putut importa</string>
     <string name="import_contact">Importați contactul</string>
+    <string name="import_picture">Importați</string>
     <string name="impunity_declaration_content">"Aplicația Scanner trebuie să poată accesa camera foto și să proceseze imaginile realizate cât timp folosiți aplicația. Nu folosiți aplicația pentru a face fotografii obiectelor care conțin datele dvs. personale. Atingând butonul \"De acord\", acceptați &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Politica de Confidențialitate&lt;/a&gt;&lt;/font&gt; și permiteți aplicației Scaner să se conecteze la internet."</string>
     <string name="impunity_declaration_negative_text">Ieșire</string>
     <string name="impunity_declaration_title">Politica de Confidențialitate</string>
@@ -292,7 +300,7 @@
     <string name="online_ocr_recognition">Recunoaștere OCR online</string>
     <string name="online_ocr_recognition_str">S-a comutat deja la traducerea online</string>
     <string name="online_translation">Traducere online</string>
-    <string name="open_url">Accesați URL-ul</string>
+    <string name="open_url">Vizitați</string>
     <string name="original_image">Originală</string>
     <string name="page_does_not_exist">Pagina nu există; nu se poate omite</string>
     <string name="password_toggle_content_description">Afișează parola</string>
@@ -302,6 +310,7 @@
     <string name="pdf_is_being_saved">Se salvează pdf-ul</string>
     <string name="pdf_name">Numele fișierului</string>
     <string name="pdf_save_sucess">Salvat cu succes</string>
+    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="pdf_saved_failed">salvarea .pdf-ului a eșuat</string>
     <string name="pdf_saved_successfully">.pdf salvat cu succes</string>
     <string name="phone">Telefon:</string>
@@ -356,6 +365,7 @@
     <string name="see_details">Atingeți pentru a vedea detaliile</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="select_from_album">Galerie</string>
+    <string name="send_email">Trimiteți un e-mail</string>
     <string name="send_mail">Trimiteți un e-mail</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Întreabă întotdeauna</string>
@@ -380,6 +390,7 @@
     <string name="store_module_title">Magazin</string>
     <string name="store_no_date">Nu s-a putut identifica magazinul</string>
     <string name="store_title">Scanați sigla magazinului</string>
+    <string name="study_more">Mai multe</string>
     <string name="study_rotate_picture">Se procesează imaginea…</string>
     <string name="study_scan_result">Rezultat</string>
     <string name="study_searching">Se caută rezultate…</string>
@@ -389,7 +400,7 @@
     <string name="suggested_submission_success">Feedback trimis cu succes</string>
     <string name="switch_open">Activați</string>
     <string name="take_a_picture">Cameră</string>
-    <string name="take_the_word">Apăsați lung butonul de mai jos pentru a copia cuvântul</string>
+    <string name="take_the_word">Puneți cuvântul în căsuță și apăsați pentru a obține cuvântul</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="text_to_be_translated_cannot_be_empty">Aplicația Scaner are nevoie de un text de tradus</string>
@@ -427,7 +438,17 @@
     <string name="translation_see_more">Vizualizați definiția</string>
     <string name="translation_type_chat">Mesagerie</string>
     <string name="translation_type_sentence">Frază</string>
-    <string name="translation_type_word">Cuvânt</string>
+    <string name="translation_type_word">Traduceți conversația</string>
+    <string name="translation_type_words">Traduceți cuvintele</string>
+    <string name="ucrop_crop">Tăiați</string>
+    <string name="ucrop_error_input_data_is_absent">Este obligatoriu să fie specificate ambele Uri</string>
+    <string name="ucrop_gif_tag">gif</string>
+    <string name="ucrop_label_edit_photo">Editați Fotografia</string>
+    <string name="ucrop_label_original">Originală</string>
+    <string name="ucrop_menu_crop">Decupați</string>
+    <string name="ucrop_mutate_exception_hint">Prin urmare, suprascrieți resursa de culoare (ucrop_color_toolbar_widget) în aplicația dvs. pentru a o face să funcționeze pe dispozitive pre-L</string>
+    <string name="ucrop_rotate">Rotiți</string>
+    <string name="ucrop_scale">Scală</string>
     <string name="uninstall_prompt">Dacă apar probleme pe durata instalării, mergeți la Setări > Aplicații > Gestionați aplicațiile > Scaner, apăsați \"Dezinstalați\" și încercați să instalați aplicația din nou.</string>
     <string name="url_is_phish">Acest site poate fi phishing</string>
     <string name="url_is_safety">Site-ul este sigur</string>
