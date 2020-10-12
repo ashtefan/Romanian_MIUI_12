@@ -375,6 +375,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="alarm_volume_title">Alarmă</string>
     <string name="all_volume_title">Volume</string>
     <string name="allow">Permiteţi</string>
+    <string name="allow_all_rotations_title">Permiteți toate rotirile</string>
     <string name="allow_bind_app_widget_activity_allow_bind">După ce creaţi widgetul, %1$s poate accesa toate datele pe care acesta le afişează.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Creaţi widgetul şi permiteţi accesul?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permiteţi întotdeauna ca %1$s să creeze widgeturi şi să acceseze datele acestora</string>

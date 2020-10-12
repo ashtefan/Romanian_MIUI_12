@@ -4,8 +4,8 @@
     <string name="China_Mobile_HD">China Mobile (HD)</string>
     <string name="China_Telecom">China Telecom</string>
     <string name="China_Unicom">China Unicom</string>
-    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+    <string name="abbrev_wday_month_day_no_year">EEEE, dMMMM</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">EEE, dMMM</string>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>

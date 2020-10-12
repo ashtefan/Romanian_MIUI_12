@@ -1889,13 +1889,13 @@ răspunsul operatorului"</string>
     <string name="mark_time_setting_dialog_title">Raportați numărul</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"L-ați marcat ca fiind "</string>
-    <string name="megabyteShort">MB</string>
+    <string name="megabyteShort"> MB</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">Eliberați %s</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"S-au eliberat %s.
-Dispozitivul dvs. este cu %d%% mai rapid acum."</string>
+Viteza telefonului a crescut cu %d%%."</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Adăugați</string>
