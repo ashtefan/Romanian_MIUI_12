@@ -515,8 +515,15 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_trust_device">Adăugați acest telefon la dispozitivele verificate</string>
     <string name="passport_trying_read_verify_code_sms">Se obține codul de verificare…</string>
     <string name="passport_uplink_reg">Utilizați numărul de telefon</string>
+    <string name="passport_uplink_send_sms_hint">Apăsați \"Trimite\" după ce sunteți redirecționat către pagina de compunere mesaj.</string>
     <string name="passport_uplink_slot1_reg">Utilizați SIM 1</string>
     <string name="passport_uplink_slot2_reg">Utilizați SIM 2</string>
+    <string name="passport_uplink_sms_send_cancel">A fost anulat trimiterea de SMS-uri de legătură în sus</string>
+    <string name="passport_uplink_sms_send_confirm">Trimis</string>
+    <string name="passport_uplink_sms_send_failed">Nu s-a putut verifica SMS-ul uplink</string>
+    <string name="passport_uplink_sms_sending">Se trimite mesajul cu plată…</string>
+    <string name="passport_uplink_suggest_dialog_msg">Nu s-a putut primi codul. Utilizați în schimb un uplink SMS cu plată în schimb?</string>
+    <string name="passport_uplink_suggest_dialog_title">Atenție</string>
     <string name="passport_use_generated_pwd_message">Asigurați-vă că țineți minte parola. O puteți folosi pentru a vă conecta la alte servicii Mi.</string>
     <string name="passport_use_generated_pwd_title">Țineți minte parola!</string>
     <string name="passport_user_agreement">Acordul Utilizatorului</string>

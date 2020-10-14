@@ -96,4 +96,20 @@
         <item quantity="other">Nu se pot selecta mai mult de %d elemente</item>
         <item quantity="one">Nu se poate selecta mai mult de %d element</item>
     </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Invitație acceptată de către %d persoane</item>
+        <item quantity="one">Invitație acceptată de către %d persoană</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s zile</item>
+        <item quantity="one">%1$s zi</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s ore</item>
+        <item quantity="one">%1$s oră</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s minute</item>
+        <item quantity="one">%1$s minut</item>
+    </plurals>
 </resources>

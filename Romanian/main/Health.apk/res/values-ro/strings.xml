@@ -1382,7 +1382,7 @@ despre somn"</string>
     <string name="tb_home_sleep_card_no_data">Somn. Nu există date astăzi.</string>
     <string name="tb_home_sleep_card_not_open_trace">Somn. Analiza ciclului de somn este dezactivată.</string>
     <string name="tb_home_tip_open_data_sync">Sincronizați elementele din aplicația Sănătate Xiaomi în Xiaomi Cloud pentru a le accesa de pe alte dispozitive. Atingeți de două ori pentru a începe.</string>
-    <string name="tb_home_weight_card">Greutate. %1$.2f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
+    <string name="tb_home_weight_card">Greutate. %1$.1f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Greutate. Nu există date.</string>
     <string name="tb_manage_home">Aici puteți muta sau rearanja filele afișate în pagina de start.</string>
     <string name="tb_mens_mark_success">Marcat cu succes</string>
