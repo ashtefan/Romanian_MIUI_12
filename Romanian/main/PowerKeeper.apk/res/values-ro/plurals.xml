@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Căutați %d aplicații</item>
-        <item quantity="one">Căutați %d aplicație</item>
+        <item quantity="other">Căutați printre %d aplicații</item>
+        <item quantity="one">Căutați printre %d aplicație</item>
     </plurals>        
     <plurals name="select_items">
         <item quantity="other">%1$d selectate</item>

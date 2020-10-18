@@ -279,6 +279,8 @@
     <string name="app_pa_setting_service_quick_func_summary">Deschideți caracteristici specifice aplicațiilor populare</string>
     <string name="app_pa_setting_service_recent">Elemente recente</string>
     <string name="app_pa_setting_service_recent_summary">Aplicații rapide și comenzi rapide care apar după ce glisați în jos în Asistentul inteligent</string>
+    <string name="app_pa_setting_service_red_envelope">Asistent plicuri roșii</string>
+    <string name="app_pa_setting_service_red_envelope_summary">Obțineți discounturi și oferte comerciale</string>
     <string name="app_pa_setting_service_screen_duration">Timp de ecran</string>
     <string name="app_pa_setting_service_sports">Sporturi</string>
     <string name="app_pa_setting_service_sports_summary">Cele mai recente informații despre echipele pe care le urmăriți</string>

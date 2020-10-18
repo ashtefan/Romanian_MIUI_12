@@ -5026,12 +5026,12 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="power_idle">Telefon inactiv</string>
     <string name="power_key_how_power_force_off">Cum să forțați repornirea dispozitivului</string>
     <string name="power_key_how_power_force_off_detail">Apăsați și mențineți apăsat butonul de Pornire până când telefonul repornește</string>
-    <string name="power_key_how_power_off">Cum să deschideți pagina închisă</string>
+    <string name="power_key_how_power_off">Cum să accesați meniul de închidere a telefonului</string>
     <string name="power_key_how_power_off_detail">Apăsați și mențineți apăsat butonul de Pornire timp de 3 sec</string>
     <string name="power_key_how_start">Cum să treziți Asistentul Google</string>
     <string name="power_key_how_start_detail">Apăsați și mențineți apăsat butonul de Pornire timp de 0,5 sec. Eliberați-l pentru a vorbi.</string>
     <string name="power_key_start_enjoy">Aflați mai multe despre Asistentul Google</string>
-    <string name="power_key_start_guide">Trezirea Asistentului Waking utilizând butonul de Pornire pe dispozitivele cu ecran complet</string>
+    <string name="power_key_start_guide">Trezirea Asistentului Google utilizând butonul de Pornire pe dispozitivele cu ecran complet</string>
     <string name="power_label">Energie</string>
     <string name="power_menu_under_keyguard_summary">Permiteți accesul la meniul de pornire când telefonul este blocat</string>
     <string name="power_menu_under_keyguard_title">Acces la meniul de pornire</string>

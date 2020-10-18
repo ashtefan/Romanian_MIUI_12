@@ -67,10 +67,10 @@
     <string name="alert_weather_enable_settings_title">Avertizări despre starea vremii</string>
     <string name="already_voted_toast">Ați votat deja astăzi</string>
     <string name="app_name">Meteo</string>
-    <string name="aqi_15_days_desc">Prognoza ICA pe 15 zile</string>
-    <string name="aqi_24_hours_desc">Prognoza ICA pe 24 de ore</string>
-    <string name="aqi_48_hours_desc">Prognoza ICA pe 48 de ore</string>
-    <string name="aqi_5_days_desc">Prognoza ICA pe 5 zile</string>
+    <string name="aqi_15_days_desc">Prognoza ICA pe %d zile</string>
+    <string name="aqi_24_hours_desc">Prognoza ICA pe %d de ore</string>
+    <string name="aqi_48_hours_desc">Prognoza ICA pe %d de ore</string>
+    <string name="aqi_5_days_desc">Prognoza ICA pe %d zile</string>
     <string name="aqi_alert_channel_name">Alerte ICA</string>
     <string name="aqi_data_source">Oferit de Colorful Clouds</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
@@ -453,10 +453,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="video_banner_regional_weather_update">Actualizări regionale meteo</string>
     <string name="video_banner_weather_forecast">Prognoza meteo</string>
     <string name="video_banner_weather_update">Cele mai recente actualizări meteo</string>
-    <string name="video_dialog_no_play"/>
-    <string name="video_dialog_play"/>
-    <string name="video_dialog_subtitle"/>
-    <string name="video_dialog_title"/>
     <string name="view_forecast_item_yesterday">Ieri</string>
     <string name="view_indexes_item_day_after_tommorrow">În 2 zile</string>
     <string name="view_indexes_item_today">Astăzi</string>
@@ -466,7 +462,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="weather_alert_channel_name">Alerte</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
     <string name="weather_main_aqi_desc">Calitatea aerului</string>
-    <string name="weather_main_minute_hour">Precipitații în 2 ore</string>
+    <string name="weather_main_minute_hour">Precipitații în %d ore</string>
     <string name="weather_main_speak_tips">Atingeți pentru a reda vocal starea vremii</string>
     <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>
@@ -476,6 +472,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">"Aplicația Meteo vă furnizează date meteo precise. Fără această aplicație bara de stare și widgetul meteo de pe ecranul principal nu vor mai funcționa corect. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a dezinstala aplicația."</string>
     <string name="xiaomi_weather_description_title">Despre aplicația Meteo</string>
-    <string name="yes_vote_ratio">Pro %1$s%%</string>
+    <string name="yes_vote_ratio">Pentru %1$s%%</string>
     <string name="your_location">Locația dumneavoastră</string>
 </resources>

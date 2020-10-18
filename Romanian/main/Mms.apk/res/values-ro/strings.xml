@@ -376,7 +376,7 @@
     <string name="from_pkg_name">De la aplicația:</string>
     <string name="ft_cfs_dialog_content">Fișierele nu au putut fi livrate folosind RCS. Trimiteți în schimb un link într-un mesaj text?</string>
     <string name="ft_cfs_dialog_title">Transfer alternativ de fișiere</string>
-    <string name="google_message_promo_content">Xiaomi recomandă trecerea la Mesageria Google. Aceasta vă permite să trimiteți mesaje text prin Wi-Fi, să partajați conținut media de înaltă calitate și multe altele. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Vedeți detalii&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_content">Xiaomi recomandă trecerea la Mesageria Google. Instalați-o acum pentru a putea partaja conținut media de înaltă calitate, să trimiteți mesaje prin Wi-Fi și multe altele. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></font></string>
     <string name="google_message_promo_title">Actualizați aplicația de mesagerie</string>
     <string name="group_already_kicked_hint">"Nu se pot trimite mesaje. Nu sunteți membru al acestui grup."</string>
     <string name="group_member_is_composing">Tastează…</string>
@@ -415,8 +415,8 @@
     <string name="imageview_ad">Reclamă</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
-    <string name="installed_google_message_promo_content">Xiaomi recomandă utilizarea Mesageriei Google. Aceasta vă permite să trimiteți mesaje text prin Wi-Fi, să partajați conținut media de înaltă calitate și multe altele.</string>
-    <string name="installed_google_message_promo_title">Începeți să utilizați aplicația Mesaje</string>
+    <string name="installed_google_message_promo_content">Xiaomi recomandă utilizarea Mesageriei Google. Deschideți Mesageria pentru a putea să trimiteți fotografii la calitate înaltă, să trimiteți mesaje prin Wi-Fi și multe altele.</string>
+    <string name="installed_google_message_promo_title">Începeți să utilizați aplicația Mesaje pentru o experiență superioară</string>
     <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
     <string name="invalid_conversation">Conversaţie greşită</string>
     <string name="invalid_destination">Adresă de destinaţie greşită.</string>
@@ -707,7 +707,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_show_photo_word_summary">Atribuiți în mod automat o fotografie contactelor</string>
     <string name="pref_show_sms_template_entry_summary">Detectează parolele de unică utilizare și afișează meniul rapid</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
-    <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
+    <string name="pref_show_sms_template_summary">Copiați parolele de unică utilizare, urmăriți colete, verificați soldurile și afișați în mod automat tichetele și facturile ca și carduri</string>
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
     <string name="pref_sms_storage_title">Stocare</string>
     <string name="pref_sms_theme_title">Afişare</string>
@@ -785,6 +785,12 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_state_revoked_cancel">Renunțați</string>
+    <string name="privacy_state_revoked_content">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Mesageriei. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Mesageria Mi și Mesageria inteligentă furnizate de aplicația Mesaje trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. de la politica de confidențialitate a Mesageriei va fi considerată ca refuz de acceptare a serviciilor pe baza informațiilor personale colectate furnizate de Mesageria Mi și Mesageria inteligentă.</string>
+    <string name="privacy_state_revoked_dialog_title">Retragerea consimțământului</string>
+    <string name="privacy_state_revoked_revoked">Retragere</string>
+    <string name="privacy_state_revoked_switch">Retragerea consimțământului</string>
+    <string name="privacy_state_revoked_synopsis">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Mesageriei.</string>
     <string name="privacy_term">Politica de Confidențialitate</string>
     <string name="private_entry_available">Eliberați pentru a deschide dosarul privat</string>
     <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
@@ -1092,10 +1098,12 @@ Aruncați o privire peste recomandări!"</string>
     <string name="slide_up_to_cancel">Glisați în sus pentru a renunța</string>
     <string name="slideshow_activity">Prezentare</string>
     <string name="smart_message_title">Mesageria Inteligentă</string>
+    <string name="smart_message_upgrade_title">Actualizarea Politicii de Confidențialitate a Mesageriei Inteligente</string>
     <string name="smart_messages_network_allow_message">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Permiteți acum?</string>
     <string name="smart_messages_network_allow_title">Este necesară conexiunea la Internet</string>
     <string name="smart_msg_main_purpose">Mesageria Inteligentă permite recunoașterea ID-ului expeditorului și servicii suplimentare.</string>
     <string name="smart_msg_privacy_policy">Politica de Confidențialitate a Mesageriei Inteligente</string>
+    <string name="smart_msg_upgrade_main_purpose">Mesageria inteligentă funcționează acum si cu MMS-uri. Veți putea folosi mai multe servicii furnizate de expeditori, precum și primi mesaje în noi formate.</string>
     <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">"Conţinut: "</string>
@@ -1186,6 +1194,7 @@ Aruncați o privire peste recomandări!"</string>
 Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
     <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
     <string name="system_permission_declare_privacy_declare_new">Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a funcționa în mod normal:</string>
+    <string name="system_permission_declare_privacy_link">Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați %1s.</string>
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizarea și să dezactivați serviciile din setările Mesageriei.</string>
     <string name="system_permission_declare_single_link">Citiți și acceptați %1s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Citiți și acceptați %1s, %2s și %3s înainte de a utiliza aceste caracteristici.</string>
@@ -1322,6 +1331,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="voice_report_wiredon">Prin căști</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Trimitere în %ds</string>
+    <string name="web_content_invalid_hint">Afișarea acestui articol este restricționată de legile și reglementările locale</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>

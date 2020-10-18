@@ -268,7 +268,7 @@
   <string name="event_created_text">Rasa a fost creat pentru a reaminti</string>
     <string name="event_delete">Ştergeţi evenimentul</string>
     <string name="event_edit">Editaţi evenimentul</string>
-    <string name="event_import">Import eveniment</string>
+    <string name="event_import">Importare evenimente</string>
     <string name="event_info_descrip">Descriere</string>
     <string name="event_info_end">Sfârşit</string>
     <string name="event_info_jump_to_email">Deschideți e-mailul</string>
@@ -790,7 +790,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_features_title">Setări specifice</string>
     <string name="setting_holiday_display_desc">Zilele libere apar sub agendă în pagina de pornire</string>
     <string name="setting_holiday_reminder">Arată zilele libere</string>
-    <string name="setting_import_events">Importați evenimentele</string>
+    <string name="setting_import_events">Importați evenimente</string>
     <string name="setting_others">Altele</string>
     <string name="setting_show_reject_agenda">Afișează evenimentele respinse</string>
   <string name="setting_sms_import">SMS-uri import evenimente</string>
@@ -929,9 +929,9 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="timezone_label">Fus orar</string>
     <string name="tip_input_calendar_link">Vă rugăm să introduceți linkul URL al calendarului</string>
     <string name="title_confirm_close_chinese_calendar">Se dezactivează calendarul Chinezesc</string>
-    <string name="title_import_by_caldav">Importați prin cont CalDav</string>
-    <string name="title_import_by_email">Importați prin cont de e-mail</string>
-    <string name="title_import_by_local">Importați prin local</string>
+    <string name="title_import_by_caldav">Importați din cont CalDav</string>
+    <string name="title_import_by_email">Importați dintr-un cont de e-mail</string>
+    <string name="title_import_by_local">Importați din local</string>
     <string name="title_import_by_url">Importați prin URL</string>
     <string name="toast_block_by_other_work">Așteptați până când sarcina curentă este finalizată și încercați din nou</string>
     <string name="toast_cannot_access_server">Nu se poate accesa serverul</string>
