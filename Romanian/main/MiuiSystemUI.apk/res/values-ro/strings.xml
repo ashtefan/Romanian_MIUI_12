@@ -1319,6 +1319,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="mr_dialog_transferable_header">Redați într-un grup</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta pe durata apelurilor</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="mtrl_picker_cancel">Renunțați</string>
     <string name="mtrl_picker_confirm">Salvați</string>
@@ -1677,6 +1678,9 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_user_new_user">Utilizator nou</string>
     <string name="quick_settings_user_title">Utilizator</string>
     <string name="quick_settings_vibrate_label">Vibrații</string>
+    <string name="quick_settings_vowifi_label">Apelare Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">Apelare Wi-Fi SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Apelare Wi-Fi SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Se crește viteza</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Renunțați</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmați</string>

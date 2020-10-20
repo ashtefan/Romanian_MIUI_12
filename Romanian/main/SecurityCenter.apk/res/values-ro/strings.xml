@@ -654,6 +654,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_estimate_charge_time_title">Durată încărcare</string>
     <string name="battery_estimate_usage_time_title">Durată utilizare</string>
     <string name="battery_health_left_battery_text">Capacitate disponibilă</string>
+    <string name="battery_health_level_text">Starea acumulatorului</string>
     <string name="battery_health_status_text">Starea acumulatorului</string>
     <string name="battery_health_temperature_text">Temperatura acumulatorului</string>
     <string name="battery_health_title_text">Starea acumulatorului</string>
@@ -678,6 +679,10 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_stats_wake_lock_label">Telefon activ</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_good">Normală</string>
+    <string name="battery_status_level_excellent">Excelentă</string>
+    <string name="battery_status_level_good">Bună</string>
+    <string name="battery_status_level_normal">Normală</string>
+    <string name="battery_status_level_poor">Nesatisfăcătoare</string>
     <string name="battery_status_overheat">Supraîncălzire</string>
     <string name="battery_status_unknown">Eroare necunoscută</string>
     <string name="battery_temperature_title">Temperatură</string>

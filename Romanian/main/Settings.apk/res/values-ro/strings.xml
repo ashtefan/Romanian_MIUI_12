@@ -1891,8 +1891,10 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dark_color_mode">Mod întunecat</string>
     <string name="dark_color_summary_lcd">Se utilizează o paletă de culori mai închise pentru fundaluri de sistem și aplicații compatibile. Modul întunecat ajută la relaxarea ochilor atunci când utilizați dispozitivul în întuneric.</string>
     <string name="dark_color_summary_oled">Se utilizează o paletă de culori mai închise pentru fundaluri de sistem și aplicații compatibile. Modul întunecat reduce consumul de energie și ajută la relaxarea ochilor.</string>
+    <string name="dark_mode_apps_header">Aplicații individuale</string>
     <string name="dark_mode_contrast">Ajustează contrastul în mod automat</string>
     <string name="dark_mode_contrast_hint">Reglați automat culorile și reduceți contrastul când luminozitatea este redusă</string>
+    <string name="dark_mode_font_background_title">Ajustează textul și fundalurile în mod automat</string>
     <string name="dark_ui_mode">Mod noapte</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Activat temporar datorită Economisirii acumulatorului</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Activ / Dezactivat temporar datorită Economisirii acumulatorului</string>
@@ -2640,6 +2642,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="extended_power_menu">Meniu extins de repornire</string>
+    <string name="exterior">Schema de culori</string>
     <string name="external_code_size_label">Aplicaţie pe stocarea USB</string>
     <string name="external_data_size_label">Date stocare USB</string>
     <string name="external_source_switch_title">Permiteți din această sursă</string>
@@ -3548,6 +3551,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="legal_written_offer">Ofertă Scrisă</string>
     <string name="license_title">Licenţă</string>
     <string name="lift_to_wake_title">Glisați în sus pentru a trezi</string>
+    <string name="light_color_mode">Modul Ușor</string>
     <string name="lights_title">Lumină LED</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
@@ -4239,6 +4243,7 @@ Comutarea la %1$s nu va anula serviciul %2$s."</string>
     <string name="module_version">Actualizare de sistem Google Play</string>
     <string name="more_account_settings_title">Alte conturi</string>
     <string name="more_dangerous_option_hint">Sunt activate funcții cu risc ridicat, printre care și \"%1$s\". Atingeți pentru a modifica setările.</string>
+    <string name="more_dark_mode_settings">Mai multe opțiuni pentru Modul întunecat</string>
     <string name="more_installed_services_title">Mai multe servicii descărcate</string>
     <string name="move_app">Mutaţi</string>
     <string name="move_app_failed_dlg_text">Aplicaţia nu a putut fi mutată. %1$s</string>
@@ -5625,7 +5630,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicații individuale</string>
     <string name="screen_dark_mode_smart_dark_summary">Aplicați modul întunecat și aplicațiilor terțe. Unele aplicații ar putea fi afișate necorespunzător.</string>
     <string name="screen_dark_mode_smart_dark_title">Mod întunecat global</string>
-    <string name="screen_dark_mode_time_title">Program</string>
+    <string name="screen_dark_mode_time_title">Program Mod întunecat</string>
     <string name="screen_effect">Contrast şi culori</string>
     <string name="screen_fps_summary_power_save">Utilizarea de rate fixe va scădea consumul de energie</string>
     <string name="screen_fps_summary_smooth">Unele aplicații vor crește rata de reîmprospătare în mod automat pentru a îmbunătăți calitatea fotografiilor</string>

@@ -564,7 +564,6 @@
     <string name="starting_preset_app">Pornire…</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s din %2$s disponibili</string>
-    <string name="status_bar_recent_memory_info2"/>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Descărcate</string>
     <string name="status_downloading">Descărcare</string>
@@ -625,5 +624,10 @@
     <string name="widgets_preview_title">Adăugați un widget</string>
     <string name="work_mode_off_label">Notificările sunt oprite și aplicațiile nu sunt disponibile acum</string>
     <string name="work_mode_on_label">Gestionat de către organizația dvs.</string>
+    <string name="work_profile_first_content">Datele personale sunt separate și ascunse față de aplicațiile de servici</string>
+    <string name="work_profile_got_button">Am înțeles</string>
+    <string name="work_profile_next_button">Următorul</string>
+    <string name="work_profile_second_content">Aplicațiile de servici sunt vizibile pentru administratorul IT</string>
+    <string name="work_profile_title">Profil de servici</string>
     <string name="work_profile_toggle_label">Profil de servici</string>
 </resources>
