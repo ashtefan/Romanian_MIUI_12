@@ -1673,7 +1673,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preference_auto_ip_summary_disable">Dezactivat</string>
     <string name="preference_category_ringtone">Ton de sonerie și vibrare</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
-    <string name="preference_data_usage_summary">Setați planul de date pentru a controla utilizarea datelor mobile</string>
+    <string name="preference_countrycode_title">Codul țării</string>
     <string name="preference_data_usage_title">Setare plan de date</string>
     <string name="preference_dial_pad_touch_tone_default">Prestabilit</string>
     <string name="preference_dial_pad_touch_tone_off">Dezactivate</string>

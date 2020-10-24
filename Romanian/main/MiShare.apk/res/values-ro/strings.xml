@@ -109,6 +109,10 @@
     <string name="file_transfer_progress_title">Progres</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Rămâneți aproape!</string>
     <string name="go_to_settings">Setări</string>
+    <string name="guide_summary_1">Cealaltă persoană poate atinge comutatorul în Perdeaua de notificări</string>
+    <string name="guide_summary_2">Selectați dispozitivul către care doriți să trimiteți articole și atingeți pictograma acestuia</string>
+    <string name="guide_title_1">Activați Partajarea Mi pe ambele dispozitive</string>
+    <string name="guide_title_2">Selectați dispozitivul către care doriți să partajați</string>
     <string name="help">Nu puteți găsi alte dispozitive?</string>
     <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați-o pe cealaltă persoană să activeze Partajarea Mi.</string>
     <string name="hide">Ascundeți</string>
@@ -116,6 +120,7 @@
     <string name="location_enabled">Partajarea Mi a activat serviciile de localizare pentru a găsi dispozitive în apropiere</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_privacy_title">Politica de Confidențialitate</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -212,6 +217,9 @@ OPPO, vivo, realme și alte mărci vor fi în curând compatibile cu Partajarea 
     <string name="support_device_type">Dispozitive suportate</string>
     <string name="throwing_print">Tipăriți</string>
     <string name="throwing_screen">Proiectați</string>
+    <string name="tile_state_active">Activ</string>
+    <string name="tile_state_inactive">Inactiv</string>
+    <string name="tile_state_unavailable">Indisponibil</string>
     <string name="tips_prompt_enable_midrop">Partajați fișiere cu dispozitivele din apropiere</string>
     <string name="to_feedback">Raportați</string>
     <string name="transfer_intercept_to_remote">Nu s-a putut trimite: %1$s</string>
