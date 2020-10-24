@@ -33,6 +33,18 @@
         <item quantity="other">Ştergeţi %1$d contacte?</item>
         <item quantity="one">Ştergeţi %1$d contact?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" zile"</item>
+        <item quantity="one">" zi"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" ore"</item>
+        <item quantity="one">" oră"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" minute"</item>
+        <item quantity="one">" minut"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Ştergeţi %1$d contacte</item>
         <item quantity="one">Ştergeţi %1$d contact</item>

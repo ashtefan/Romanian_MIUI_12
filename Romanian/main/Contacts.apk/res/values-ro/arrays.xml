@@ -59,6 +59,13 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="bh_array_switch_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="bh_required_permission_list_all_desc">
+        <item>Pentru furnizarea serviciilor către un anume dispozitiv</item>
+    </string-array>
     <string-array name="otherLabels">
         <item>Organizație</item>
         <item>Notă</item>

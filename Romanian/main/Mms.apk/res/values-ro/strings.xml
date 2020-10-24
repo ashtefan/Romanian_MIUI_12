@@ -376,6 +376,7 @@
     <string name="from_pkg_name">De la aplicația:</string>
     <string name="ft_cfs_dialog_content">Fișierele nu au putut fi livrate folosind RCS. Trimiteți în schimb un link într-un mesaj text?</string>
     <string name="ft_cfs_dialog_title">Transfer alternativ de fișiere</string>
+    <string name="go_to">"Deschideți "</string>
     <string name="google_message_promo_content">Xiaomi recomandă trecerea la Mesageria Google. Instalați-o acum pentru a putea partaja conținut media de înaltă calitate, să trimiteți mesaje prin Wi-Fi și multe altele. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></font></string>
     <string name="google_message_promo_title">Actualizați aplicația de mesagerie</string>
     <string name="group_already_kicked_hint">"Nu se pot trimite mesaje. Nu sunteți membru al acestui grup."</string>

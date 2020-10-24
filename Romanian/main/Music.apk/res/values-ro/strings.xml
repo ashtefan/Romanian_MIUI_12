@@ -292,6 +292,7 @@
     <string name="desktop_lyric_setting_summary">Afișează versurile în ecranul principal</string>
     <string name="desktop_lyric_setting_title">Versuri pe ecranul principal</string>
     <string name="desktop_lyric_textsize">Text</string>
+    <string name="develop_mode">Mod dezvoltator</string>
     <string name="device_connected">Conectat</string>
     <string name="device_not_connected">Neconectat</string>
     <string name="dialog_button_create_playlist">Creaţi o listă de redare</string>
@@ -350,6 +351,7 @@
     <string name="disable_auto_payment_success">Dezactivat</string>
     <string name="disable_auto_payment_success_message">"Reînnoirea automată a fost dezactivată. După expirarea abonamentului actual, va trebui să vă abonați din nou pentru a putea descărca melodii."</string>
     <string name="disallow_add_to_fm">"Nu se pot adăuga melodii la Radio FM"</string>
+    <string name="discover_more_music">Descoperiți mai multe melodii</string>
     <string name="do_not_remind_this_version">"Nu-mi aminti de această versiune"</string>
     <string name="do_not_support_google_voice_search">Căutarea vocală Google nu este suportată pe dispozitivul dvs.</string>
     <string name="download">Descărcaţi</string>
@@ -504,6 +506,9 @@
     <string name="exo_download_notification_channel_name">Descărcări</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Repetați tot</string>
+    <string name="exo_media_action_repeat_off_description">Nu repeta niciuna</string>
+    <string name="exo_media_action_repeat_one_description">Repetă una</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -537,6 +542,7 @@
     <string name="favorites">Favorite</string>
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="feed_back">Feedback</string>
+    <string name="feedback_send_email_body_extra_info">Nu ștergeți următoarele informații. Ne vor ajuta să localizăm problema.</string>
     <string name="file_not_found">"Fişierul nu există"</string>
     <string name="filter_by_MP4">Afișează dosarele cu fișiere MP4</string>
     <string name="filter_by_duration">După durată</string>
@@ -717,6 +723,13 @@
     <string name="individuation_recommend_title">Recomandări</string>
     <string name="individuation_setting_summary">Primiți recomandări de conținut bazat pe subiectele dvs. de interes</string>
     <string name="individuation_setting_title">Recomandări personalizate</string>
+    <string name="info_app_package_name">Numele pachetului:</string>
+    <string name="info_app_version">Versiunea aplicației:</string>
+    <string name="info_language">Limba:</string>
+    <string name="info_location">Regiunea:</string>
+    <string name="info_product">Dispozitiv:</string>
+    <string name="info_system">Sistem:</string>
+    <string name="info_system_version">Versiunea sistemului:</string>
     <string name="input_hint_prefix">Introduceți %1$s</string>
     <string name="installing_apk">Instalare…</string>
     <string name="insufficient_space">"Nu există spațiu suficient în memoria internă a telefonului"</string>
@@ -936,6 +949,7 @@
     <string name="my_playlist_create_self_playlist">Creați liste de redare cu melodiile dvs. preferate</string>
     <string name="my_playlist_set_to_private">Faceți privată</string>
     <string name="my_playlist_set_to_public">Faceți publică</string>
+    <string name="network_disable">Nu s-a putut conecta la rețea</string>
     <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
     <string name="network_request_error">"Nu se poate conecta la rețea"</string>
     <string name="network_settings_error">"Nu se poate conecta la rețea"</string>
@@ -1101,7 +1115,7 @@
     <string name="price">"Preţ: "</string>
     <string name="priority_storage">Utilizați cardul SD extern</string>
     <string name="priority_storage_summary">Descarcă în mod automat pe cardul SD extern, dacă este disponibil</string>
-    <string name="privacy_authorize_network_error">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="privacy_authorize_network_error">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a vă putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
     <string name="privacy_authorize_revoke_failed">Nu s-a putut revoca autorizarea</string>
     <string name="privacy_authorize_revoke_success">Autorizare revocată cu succes</string>
     <string name="privacy_authorize_revoking">Se revocă autorizarea…</string>
@@ -1110,9 +1124,15 @@
     <string name="privacy_desc">Politica de Confidențialitate (obligatoriu)</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_tip_cancel">Renunțați</string>
-    <string name="privacy_tip_content">"Utilizați acceleratorul Xunlei pentru creșterea vitezei de descărcare? URL-ul de descărcare va fi încărcat în serverele Xunlei. De asemenea se vor încărca și detaliile contului dvs Mi pentru verificarea abonării la acest serviciu."</string>
-    <string name="privacy_tip_ok">OK</string>
-    <string name="privacy_tip_title">Utilizați acceleratorul Xunlei?</string>
+    <string name="privacy_request_desc"><Data>"Muzică Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de streaming online. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>. Vă puteți retrage consimțământul pentru Politica de confidențialitate a Muzicii Mi din Setări în orice moment.
+Citiți și acceptați &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza aplicația Muzică Mi.
+Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.."</Data></string>
+    <string name="privacy_request_subtitle">"Bine ați venit în aplicația Muzică Mi! Această aplicație oferă următoarele servicii:
+
+- Un player audio local
+
+- Servicii de streaming online"</string>
+    <string name="privacy_request_title">Termeni și condiții</string>
     <string name="pro_member">Membru PRO</string>
     <string name="project_device">Telefon Mi</string>
     <string name="project_device_mobile">Dispozitiv mobil</string>
@@ -1156,13 +1176,15 @@
     <string name="recommended_no_file_size_download_in_mobile">Utilizați conexiunea de date mobile pentru a descărca acest fișier?</string>
     <string name="remove">Eliminaţi</string>
     <string name="remove_download">Eliminați</string>
-    <string name="remove_user_privacy_dialog_message">După ce veți revoca autorizarea, Muzica Mi va înceta să colecteze date, iar toate datele corelate vor fi șterse de pe servere. Acest lucru poate face Muzica Mi virtual inutilizabilă. Revocați autorizarea oricum?</string>
-    <string name="remove_user_privacy_dialog_title">Se revocă autorizarea</string>
-    <string name="renew_dialog_title">"Go Pro
-Be Happy"</string>
+    <string name="remove_user_privacy_dialog_message">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Muzicii Mi. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Muzica Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. de la politica sa de confidențialitate va fi considerată ca refuz de acceptare a serviciilor sale pe baza informațiilor personale colectate.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Muzicii Mi. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Muzica Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de streaming online. Retragerea consimțământului dvs. de la politica sa de confidențialitate va fi considerată ca refuz de acceptare a serviciilor sale online menționate mai sus pe baza informațiilor personale colectate.</string>
+    <string name="remove_user_privacy_dialog_title">Retragerea consimțământului</string>
+    <string name="renew_dialog_title">"Treceți la Pro
+Fiți fericit"</string>
     <string name="repeat_all_notif">Se repetă toate melodiile.</string>
     <string name="repeat_current_notif">Se repetă melodia actuală.</string>
     <string name="request_overlay_permission_desc">Permiteți aplicației Muzică Mi să afișeze ferestre plutitoare pentru a putea utiliza această caracteristică.</string>
+    <string name="request_privacy_permission_title">Citiți și acceptați termenii și condițiile de mai jos pentru a accesa toate serviciile noastre.</string>
     <string name="request_share_info">Doar o secundă…</string>
     <string name="request_subscription_status">Doar o secundă…</string>
     <string name="restart_download">Reporniți</string>
@@ -1278,6 +1300,7 @@ Be Happy"</string>
     <string name="similar_playlists">Liste de redare similare</string>
     <string name="similar_songs">Melodii similare</string>
     <string name="similar_videos">Videoclipuri similare</string>
+    <string name="skip">Omiteți</string>
     <string name="sleep_mode">Temporizator</string>
     <string name="sleep_mode_canceled">Temporizator oprit</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
@@ -1328,7 +1351,7 @@ Be Happy"</string>
     <string name="start_to_download">Descărcare…</string>
     <string name="start_to_play">Redaţi</string>
     <string name="start_to_use">Porniți aplicația Muzică</string>
-    <string name="start_update">Actualizați aplicația Muzică la cea mai recentă versiune.</string>
+    <string name="start_update">Se instalează noua versiune…</string>
     <string name="stop">Stop</string>
     <string name="stop_backup">Stop</string>
     <string name="storage_cloned_app">Stocare pentru aplicații clonate</string>
@@ -1338,6 +1361,7 @@ Be Happy"</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_command_mode">Activați pentru a intra în modul Comandă</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
@@ -1430,6 +1454,7 @@ Be Happy"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_to_upgrade">Este disponibilă o actualizare</string>
+    <string name="title_command_mode">Mod Comandă</string>
     <string name="title_online_artist">Artiști de Top</string>
     <string name="title_online_billboard">Topuri muzicale</string>
     <string name="title_online_fm">Radio</string>
@@ -1440,7 +1465,7 @@ Be Happy"</string>
     <string name="title_online_suggest">S-ar putea să vă placă</string>
     <string name="title_search_history">Istoric căutare</string>
     <string name="title_search_hot">Populare</string>
-    <string name="to_mi_pay">Credite Mi</string>
+    <string name="toast_cant_commit_without_title">Introduceți titlul melodiei</string>
     <string name="toast_download_error_by_count_limit">Ați atins limita de descărcări pentru luna aceasta.</string>
     <string name="toast_download_error_by_not_login">Conectați-vă la contul Mi și încercați din nou.</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
@@ -1456,6 +1481,9 @@ Be Happy"</string>
     <string name="toast_normal_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Standard</string>
     <string name="toast_not_pro">Această funcție este disponibilă doar membrilor PRO.</string>
     <string name="toast_stream_normal">În prezent se redau melodiile la calitate standard. Obțineți un pachet de Melodii Premium pentru a asculta la calitate înaltă.</string>
+    <string name="toast_playmode_loop_playback">Lista de redare curentă este redată în buclă</string>
+    <string name="toast_playmode_shuffle_play">Redarea este amestecată</string>
+    <string name="toast_playmode_single_cycle">Melodia curentă este redată în buclă</string>
     <string name="toast_uhd_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Ridicată</string>
     <string name="toast_uhd_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Ridicată</string>
     <string name="toast_will_play_list_when_ad_pause">Lista de redare va începe după redarea reclamelor</string>
@@ -1503,10 +1531,10 @@ Be Happy"</string>
     <string name="upload_playlist_to_hungama_toast">Melodiile online vor fi sincronizate în Hungama</string>
     <string name="user_agreement">Acordul utilizatorului</string>
     <string name="user_privacy_dialog_negative_text">Renunțați</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Revocați (%ss)</string>
-    <string name="user_privacy_dialog_positive_text">Revocați</string>
-    <string name="user_privacy_setting_group_title">Autorizare</string>
-    <string name="user_privacy_setting_title">Comutați pentru a permite sau revoca autorizarea</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Retragere (%ss)</string>
+    <string name="user_privacy_dialog_positive_text">Retrageți</string>
+    <string name="user_privacy_setting_group_title">Retragerea consimțământului</string>
+    <string name="user_privacy_setting_title">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Muzicii Mi.</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="version_info">Versiune</string>
