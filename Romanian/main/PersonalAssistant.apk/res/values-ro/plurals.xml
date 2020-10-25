@@ -49,6 +49,10 @@
         <item quantity="other">Începe în %1$d minute</item>
         <item quantity="one">Începe în %1$d minut</item>
     </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Începe în %1$d minute</item>
+        <item quantity="one">Începe în %1$d minut</item>
+    </plurals>
     <plurals name="app_express_content_title_1">
         <item quantity="other">%d colete sunt pe drum</item>
         <item quantity="one">%d colet este pe drum</item>
