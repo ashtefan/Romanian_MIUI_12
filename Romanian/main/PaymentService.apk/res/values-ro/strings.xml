@@ -265,7 +265,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_menu_shotcut">Plasați pe ecranul principal</string>
     <string name="mibi_mili_center">Monede Mi</string>
     <string name="mibi_milicenter_title">Monede Mi</string>
-    <string name="mibi_mipay_error">Mipay a eșuat</string>
+    <string name="mibi_mipay_error">Plata airstar a eșuat</string>
     <string name="mibi_more_operation">Mai multe operații</string>
     <string name="mibi_msg_denomination_type">Monede Mi</string>
     <string name="mibi_msg_error">Reîncărcarea a eșuat</string>
@@ -319,7 +319,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_paytool_app_not_installed">"Nu ați instalat %1$s. O descărcați și instalați acum?"</string>
     <string name="mibi_paytool_error_install">A eșuat instalarea %1$s extensiei de securitate mobilă</string>
     <string name="mibi_paytool_error_msp">%1$s a eșuat</string>
-    <string name="mibi_paytool_mipay">Plăți Mi</string>
+    <string name="mibi_paytool_mipay">Plăți airstar</string>
     <string name="mibi_paytool_msp_not_installed">Nu ați instalat extensia de securitate mobilă %1$s, o instalați acum?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>

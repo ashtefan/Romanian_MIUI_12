@@ -57,11 +57,14 @@
     <string name="HIPS_Action_Accept">Permiteţi</string>
     <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Acceptați&lt;/font&gt;</string>
     <string name="HIPS_Action_Accept_Once">Permiteţi o dată</string>
+    <string name="HIPS_Action_Accept_This">Permiteţi o dată</string>
     <string name="HIPS_Action_Prompt">Solicitare</string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Solicitare&lt;/font></string>
     <string name="HIPS_Action_Reject">Refuzaţi</string>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Restricționați și goliți clipboardul</string>
     <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Refuzați&lt;/font></string>
     <string name="HIPS_Action_Reject_Once">Refuzaţi o dată</string>
+    <string name="HIPS_Action_Reject_This">Restricționați o dată</string>
     <string name="HIPS_Group_DataPrivacy">Confidenţialitate</string>
     <string name="HIPS_Group_Expense">Securitate</string>
     <string name="HIPS_Group_Internet">Acces internet</string>
@@ -257,6 +260,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">accesarea dispozitivului NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesare aplicație de Telefon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">preluarea, monitorizarea și încheierea apelurilor</string>
+    <string name="HIPS_Perm_read_clipboard">Accesarea elementelor din clipboard</string>
+    <string name="HIPS_Perm_read_clipboard_Desc">Permiteți aplicațiilor să acceseze elementele din clipboard</string>
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">citire date despre serviciul SMS</string>
     <string name="HIPS_Perm_recognition">Accesare informații despre activitate</string>
@@ -267,6 +272,8 @@
     <string name="HIPS_Perm_show_when_locked_Desc">afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_use_sip">Servicii video</string>
     <string name="HIPS_Perm_use_sip_Desc">utilizarea SIP pentru partajare videoclipuri</string>
+    <string name="HIPS_Perm_write_clipboard">Salvarea elementelor în clipboard</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Permiteți aplicațiilor să salveze elemente în clipboard</string>
     <string name="HIPS_SecurityPrompt_Accept">Permit (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Permiteţi</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Permiteţi o dată (%d)</string>
@@ -280,8 +287,9 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Utilizaţi cu prudență!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Sunteţi sigur că doriţi să acordaţi permisiune Root aplicaţiei %1$s?</string>
     <string name="HIPS_SecurityPrompt_Reject">Refuzaţi (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restricționați și goliți clipboardul (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Refuzaţi o dată (%d)</string>
-    <string name="HIPS_SecurityPrompt_Remember">Memorează opţiunea</string>
+    <string name="HIPS_SecurityPrompt_Reject_This">Restricționează o dată (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s solicită %2$s</string>
     <string name="Privacy_AppPerm_Count">%1$d permisiuni</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d permisiuni - &lt;font color=#478800>De încredere&lt;/font></string>
@@ -307,9 +315,17 @@
     <string name="app_name">Permisiuni</string>
     <string name="background_location_access_reminder_notification_content">Această aplicație vă poate accesa permanent locația. Atingeți pentru a modifica.</string>
     <string name="background_location_access_reminder_notification_title">%s v-a monitorizat locația</string>
+    <string name="clipboard_ai_allow_once">S-a permis %1$s să acceseze elementele din clipboard în mod automat</string>
+    <string name="clipboard_data">Elementele din clipboard</string>
+    <string name="clipboard_data_request">%1$s încearcă să acceseze elementele din clipboard</string>
+    <string name="clipboard_deny_notification_content">Această încercare a fost blocată. Atingeți pentru a gestiona permisiunile.</string>
+    <string name="clipboard_deny_notification_operation">Gestionați</string>
+    <string name="clipboard_deny_notification_title">%1$s încearcă să acceseze elementele din clipboard</string>
+    <string name="clipboard_may_sensitive">Informație posibil sensibilă</string>
+    <string name="clipboard_read_allow_once">%1$s a accesat elementele din clipboard</string>
     <string name="current_permission_template">%1$s din %2$s</string>
     <string name="default_permission_description">executarea de acțiuni necunoscute</string>
-    <string name="grant_confirm_question">Doriți să acordați următoarele permisiuni? Va avea acces la:</string>
+    <string name="go_perm_manager">Gestionați permisiunile</string>
     <string name="grant_dialog_button_allow">Permite</string>
     <string name="grant_dialog_button_allow_always">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_background">Permiteți întotdeauna</string>
@@ -322,9 +338,12 @@
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="never_ask_again">Nu mai întreba din nou după restricționare</string>
+    <string name="no">Nu</string>
     <string name="ok">OK</string>    
     <string name="perm_action_allow">Permiteți</string>
     <string name="perm_action_deny">Nu permiteți niciodată</string>
+    <string name="perm_manager_suggest_operation">Gestionați permisiunile</string>
+    <string name="perm_manager_suggest_title">Modificați permisiunile?</string>
     <string name="perm_modem_location">Accesul la locație</string>
     <string name="perm_modem_location_desc">Operatorul dvs. încearcă să vă acceseze locația. Partajați informațiile despre localizare cu operatorul?</string>
     <string name="permdesc_camera">Realizarea de fotografii și înregistrarea de videoclipuri</string>
@@ -383,4 +402,5 @@
     <string name="virtual_reject_notice_title_contacts">%1$s încearcă să vă acceseze contactele</string>
     <string name="virtual_reject_notice_title_phonestate">%1$s încearcă să acceseze informațiile despre dispozitiv</string>
     <string name="virtual_reject_notice_title_sms">%1$s încearcă să vă acceseze mesajele</string>
+    <string name="yes">Da</string>
 </resources>

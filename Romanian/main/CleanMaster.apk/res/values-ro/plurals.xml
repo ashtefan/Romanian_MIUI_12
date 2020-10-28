@@ -126,6 +126,10 @@
         <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d minut</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Ștergeți %d pachetele de instalare</item>
+        <item quantity="one">Ștergeți %d pachetul de instalare</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Descărcat de %1$d persoane</item>
         <item quantity="one">Descărcat de %1$d persoană</item>

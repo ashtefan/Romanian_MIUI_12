@@ -192,6 +192,28 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
     </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Nu s-a putut primi varianta gratuită de încercare pentru %d zile</item>
+        <item quantity="one">Nu s-a putut primi varianta gratuită de încercare pentru %d zi</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">S-a primit varianta gratuită de încercare pentru %d zile</item>
+        <item quantity="one">S-a primit varianta gratuită de încercare pentru %d zi</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Obțineți o variantă gratuită de încercare pentru %d zile</item>
+        <item quantity="one">Obțineți o variantă gratuită de încercare pentru %d zi</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Abonamentul a expirat.
+Puteți obține o variantă gratuită de încercare pentru %d zile!"</item>
+        <item quantity="one">"Abonamentul a expirat.
+Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Obțineți o variantă gratuită de încercare pentru %d zile</item>
+        <item quantity="one">Obțineți o variantă gratuită de încercare pentru %d zi</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    încă +%1$d caractere</item>
         <item quantity="one">    încă +%1$d caracter</item>
@@ -319,6 +341,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alicații, inclusiv %1$s, descarcă acumulatorul</item>
         <item quantity="one">%2$d aplicație, inclusiv %1$s, descarcă acumulatorul</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Ștergeți %d pachete de instalare</item>
+        <item quantity="one">Ștergeți %d pachet de instalare</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d zile de la ultima verificare</item>

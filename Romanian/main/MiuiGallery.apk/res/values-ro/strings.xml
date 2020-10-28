@@ -956,6 +956,8 @@ efecte pentru fotografii"</string>
     <string name="grant_permission_unlock_and_set">Deblocați și setați</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
+    <string name="help">Nu găsiți dispozitivul?</string>
+    <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați cealaltă persoană să activeze Partajarea Mi.</string>
     <string name="hidden_album_display_name">Album ascuns</string>
     <string name="home_menu_cleaner">Eliberați spațiu</string>
     <string name="home_menu_collage">Colaj</string>
