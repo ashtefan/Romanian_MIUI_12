@@ -68,7 +68,8 @@
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în decurs de 24 de ore</string>
     <string name="activity_not_found_notice">Nu se poate găsi aplicația</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
-    <string name="ai_ppt_to_pdf">Convertit în PDF</string>
+    <string name="ai_ppt_to_pdf">Convertește diapozitivele în .pdf</string>
+    <string name="ai_ppt_to_pdf_view_all">Vedeți tot</string>
     <string name="ai_recommend_pdf">Convertit în PDF</string>
     <string name="album">Galerie</string>
     <string name="all">Toate</string>

@@ -1009,10 +1009,10 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_icon_type2">Tip pictogramă Nr[Slot 2] :</string>
     <string name="fiveg_infos">Informații 5G</string>
     <string name="fiveg_network_config_type1">Tip Configurare Rețea :</string>
-    <string name="fiveg_network_mode_default">Mod Auto</string>
-    <string name="fiveg_network_mode_nsa">Mod NSA</string>
-    <string name="fiveg_network_mode_sa_nsa">Mod SA+NSA</string>
-    <string name="fiveg_network_mode_title">Mod selecție rețea 5G</string>
+    <string name="fiveg_network_mode_default">Auto</string>
+    <string name="fiveg_network_mode_nsa">NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+    <string name="fiveg_network_mode_title">Selectați modul rețelei 5G</string>
     <string name="fiveg_network_title">Rețele 5G</string>
     <string name="fiveg_plmn_info_list1">Listă informații PLMN :</string>
     <string name="fiveg_plmn_info_list2">Listă informații PLMN[Slot 2] :</string>
@@ -1026,7 +1026,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_sa_switch_title_slot0">Mod SA SIM 1</string>
     <string name="fiveg_sa_switch_title_slot1">Mod SA SIM 2</string>
     <string name="fiveg_sa_switch_warning_toast">Vă rugăm să reporniți telefonul pentru a aplica modificările.</string>
-    <string name="fiveg_sa_vice_switch_title">Mod Vice card SA</string>
+    <string name="fiveg_sa_vice_switch_title">SA pe cartela SIM secundară</string>
     <string name="fiveg_signal_strength1">Putere semnal 5G :</string>
     <string name="fiveg_signal_strength2">Putere semnal 5G[Slot 2] :</string>
     <string name="fiveg_switch_status1">Stare comutare 5G :</string>
