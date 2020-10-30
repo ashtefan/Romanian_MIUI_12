@@ -550,9 +550,11 @@
     <string name="download_tip">Descărcaţi</string>
     <string name="download_title">Se pregătesc fișierele…</string>
     <string name="download_type_origin">Fișierele originale</string>
-    <string name="download_type_origin_desc">Fișierele originale</string>
+    <string name="download_type_origin_subtitle_china">Imaginile originale ocupă mult spațiu de stocare și pot fi descărcate doar prin Wi-Fi</string>
+    <string name="download_type_origin_title">Originală</string>
     <string name="download_type_thumbnail">Calitate ridicată</string>
-    <string name="download_type_thumbnail_desc">Calitate ridicată</string>
+    <string name="download_type_thumbnail_subtitle">Imaginile la calitate ridicată arată aproape identic cu cele originale, dar ocupă mai puțin spațiu de stocare</string>
+    <string name="download_type_thumbnail_title">Calitate ridicată</string>
     <string name="download_type_title">Rezoluția imaginilor descărcate</string>
     <string name="download_with_metered_network_msg">Descărcarea fișierelor originale poate genera taxe suplimentare. Descărcați oricum?</string>
     <string name="download_with_metered_network_title">"Sunteți conectat la o rețea cu plată"</string>
@@ -1189,7 +1191,7 @@ pentru a personaliza Galeria"</string>
     <string name="movie_download">Descărcați</string>
     <string name="movie_download_failed">"Nu s-a putut descărca"</string>
     <string name="movie_download_failed_for_notwork">"Nu s-a putut descărca. Conectați-vă la rețea și reîncercați."</string>
-    <string name="movie_download_sdk_without_wifi_msg">"Se pare că nu sunteți conectat la Wi-Fi. Descărcați modulul necesar (3 MB) utilizând datele mobile?"</string>
+    <string name="movie_download_sdk_without_wifi_msg">Se pare că nu sunteți conectat la Wi-Fi. Descărcați modulul necesar (%2$d MB) utilizând datele mobile?</string>
     <string name="movie_download_sdk_without_wifi_title">Descărcați utilizând datele mobile</string>
     <string name="movie_download_with_metered_network_msg">Descărcarea fișierelor originale poate genera taxe suplimentare. Descărcați oricum?</string>
     <string name="movie_download_with_metered_network_title">"Sunteți conectat la o rețea cu plată"</string>
@@ -1235,6 +1237,7 @@ pentru a personaliza Galeria"</string>
     <string name="need_to_turn_on_sync_first">Activaţi sincronizarea în cloud mai întâi</string>
     <string name="need_to_turn_on_wlan">Conectaţi-vă la Wi-Fi mai întâi</string>
     <string name="network_connected_rescan">Nu se poate conecta la reţea</string>
+    <string name="new_album_invalid_byte">Acest nume este prea lung</string>
     <string name="new_album_invalid_char">"Numele albumului nu poate conține \"%s\"; introduceți doar litere sau cifre."</string>
     <string name="new_album_invalid_name">\"%s\" este un album de sistem; redenumiți-l.</string>
     <string name="new_album_invalid_prefix">"Nu folosiți \".\" or \"_\" la începutul numelui albumului."</string>
@@ -1254,6 +1257,7 @@ pentru a personaliza Galeria"</string>
     <string name="not_remind_again">"Nu arăta din nou"</string>
     <string name="not_remind_any_more">Nu se afişează din nou</string>
     <string name="not_set">Nesetat</string>
+    <string name="notice_click_lock_orientation">Apăsați pentru a bloca orientarea</string>
     <string name="ocr_abnormal">Nu s-a putut recunoaște textul.</string>
     <string name="ocr_abnormal_pic_format">Nu s-a putut recunoaște textul. Acest format de imagine nu este suportat.</string>
     <string name="ocr_abnormal_pic_too_large">Nu s-a putut recunoaște textul. Această imagine este prea mare.</string>
@@ -1325,6 +1329,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_remove_rubbish">Restaurați</string>
     <string name="operation_remove_secret">Eliminați din albumul privat</string>
     <string name="operation_rename">Redenumiți</string>
+    <string name="operation_replace_album_cover">Modificați coperta albumului</string>
+    <string name="operation_replace_album_cover_custom_mode">Personalizată</string>
+    <string name="operation_replace_album_cover_default_mode">Implicită</string>
     <string name="operation_save">Salvați</string>
     <string name="operation_send">Trimiteți</string>
     <string name="operation_set_contact_photo">Setați ca fotografie a contactului</string>
@@ -1408,7 +1415,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_editor_miui_beauty_no_face">"Nu se poate detecta chipul"</string>
     <string name="photo_editor_mosaic">Mozaic</string>
     <string name="photo_editor_navigator_cancel">Renunțați</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Descărcarea %s necesită circa 4 MB de date mobile. Descărcați acum?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Descărcarea %s necesită circa %2$d MB de date mobile. Descărcați acum?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Avertisment utilizare date</string>
     <string name="photo_editor_navigator_export">Salvați</string>
     <string name="photo_editor_navigator_module_download_failed">"Nu s-a putut descărca %s"</string>
@@ -1457,6 +1464,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_movie_module_finish">Videoclipuri încărcate cu succes</string>
     <string name="photo_movie_module_loading">Se încarcă videoclipurile…</string>
     <string name="photo_movie_select_image_range">Clipurile pot conține între 3 și 20 de fotografii</string>
+    <string name="photo_page_lock_screen">Blocați orientarea</string>
     <string name="photo_page_rotate_screen">Rotiți ecranul</string>
     <string name="photo_page_save_uri_image_fail">"Nu s-a putut salva în Galerie"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
@@ -1501,7 +1509,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="picker_image_need_download">"%d dintre fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</string>
     <string name="picker_image_will_download">"%d dintre fotografiile selectate nu sunt pe telefon; acestea vor fi descărcate"</string>
     <string name="picker_no_network_message">Conectați-vă la rețea pentru a putea descărca</string>
-    <string name="picker_origin_need_download">"%1$d dintre fotografiile selectate nu sunt pe telefon (%2$dMB); le descărcați utilizând datele mobile?"</string>
+    <string name="picker_origin_need_download">%1$d dintre fotografiile selectate nu sunt pe telefon (%2$d MB); le descărcați utilizând datele mobile?</string>
     <string name="picker_origin_request_progress_fail">"Nu s-a putut descărca imaginea originală datorită unei erori de rețea."</string>
     <string name="picker_origin_request_progress_message">Se pregătesc fișierele originale (%1$d/%2$d)…</string>
     <string name="picker_title_format">Selectați %1$d din %2$d fotografii</string>
@@ -1797,10 +1805,10 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_cost_time_minute">%d min rămase</string>
     <string name="slim_cost_time_minute_and_second">%1$d min %2$d sec rămase</string>
     <string name="slim_cost_time_second">%d sec rămase</string>
-    <string name="slim_description_dialog_detail">Reduceți dimensiunea fotografiilor locale. Fișierele originale vor fi stocate în Xiaomi Cloud.</string>
+    <string name="slim_description_dialog_detail">Comprimați fotografiile și păstrați copii la calitate ridicată dar de dimensiune mai mică pe acest dispozitiv păstrând fișierele originale în cloud.</string>
     <string name="slim_description_dialog_ok">Am înțeles</string>
     <string name="slim_description_dialog_slim_after">"După:  167 KB"</string>
-    <string name="slim_description_dialog_slim_before">"Înainte:  3.07 MB"</string>
+    <string name="slim_description_dialog_slim_before">Înainte:  %2$d MB</string>
     <string name="slim_exit_dialog_positive">Opriți</string>
     <string name="slim_exit_dialog_title">Opriți optimizarea</string>
     <string name="slim_running">Se optimizează…</string>
@@ -2008,6 +2016,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="to_enable_sync_dialog_title">Sincronizare</string>
     <string name="toast_invalid_char">Numele fișierelor nu pot conține \"%s\"</string>
     <string name="toast_invalid_prefix">Numele fișierelor nu pot începe cu \".\" sau \"_\"</string>
+    <string name="toast_orientation_locked">Orientare blocată cu succes</string>
     <string name="toast_rename_exit">Acest fișier există deja</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
@@ -2063,7 +2072,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="video_compress_download_failed_for_notwork">Nu s-a putut descărca. Verificați setările de rețea și încercați din nou.</string>
     <string name="video_compress_encode_video">Se comprimă videoclipul…</string>
     <string name="video_compress_lib_download">Descărcați extensia de comprimare a videoclipurilor</string>
-    <string name="video_compress_lib_download_without_wifi">Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Puteți utiliza datele mobile pentru a descărca extensia de comprimare video (1,3 MB).</string>
+    <string name="video_compress_lib_download_without_wifi">Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Puteți utiliza datele mobile pentru a descărca extensia de comprimare video (%2$d MB).</string>
     <string name="video_compress_not_with_8k">Nu se pot comprima videoclipurile 8K</string>
     <string name="video_compress_not_with_format">Compresia video nu este suportată pentru acest format</string>
     <string name="video_compress_not_with_low_quality">Rezoluția curentă este cea mai mică</string>
@@ -2339,6 +2348,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_video_selected_not_support">Nu se poate edita videoclipul selectat</string>
     <string name="vlog_video_trans_code_cons">Se procesează un fișier cu rezoluție înaltă…</string>
     <string name="voice_assistant">Introducere vocală</string>
+    <string name="watch_all_photo">Galerie</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
