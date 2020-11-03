@@ -5,9 +5,9 @@
         <item>Exerciții</item>
     </string-array>
     <string-array name="SportTabTitle">
-        <item>Alergare în exterior</item>
+        <item>Alergare</item>
         <item>Plimbare</item>
-        <item>Alergare în aer liber</item>
+        <item>Ciclism</item>
         <item>Bandă de alergat</item>
     </string-array>
     <string-array name="alphabet_table">

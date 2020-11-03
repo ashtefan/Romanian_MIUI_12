@@ -188,6 +188,74 @@
         <item quantity="other">Setările curente nu vă asigură %1$d ore de somn zilnic. Aveți nevoie de mai mult de atât.</item>
         <item quantity="one">Setările curente nu vă asigură %1$d oră de somn zilnic. Aveți nevoie de mai mult de atât.</item>
     </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">%s Calorii de ars până la atingerea țintei</item>
+        <item quantity="one">%s Calorie de ars până la atingerea țintei</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">%s kilometri până la atingerea țintei</item>
+        <item quantity="one">%s kilometru până la atingerea țintei</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">%s minute până la atingerea țintei</item>
+        <item quantity="one">%s minut până la atingerea țintei</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">Ați mers cu bicicleta %s kilometri</item>
+        <item quantity="one">Ați mers cu bicicleta %s kilometru</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">Ați alergat %s kilometri</item>
+        <item quantity="one">Ați alergat %s kilometru</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">Ați ars %s Calorii</item>
+        <item quantity="one">Ați ars %s Calorie</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">Ați mers %s kilometri</item>
+        <item quantity="one">Ați mers %s kilometru</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">Ați ars deja %1$s Calorii</item>
+        <item quantity="one">Ați ars deja %1$s Calorie</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">Ați mers deja cu bicicleta %1$s kilometri</item>
+        <item quantity="one">Ați mers deja cu bicicleta %1$s kilometru</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">Ați alergat deja %1$s kilometri</item>
+        <item quantity="one">Ați alergat deja %1$s kilometru</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d secunde</item>
+        <item quantity="one">%1$d secundă</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">Ați mers deja %1$s kilometri</item>
+        <item quantity="one">Ați mers deja %1$s kilometru</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">Ați făcut deja %1$s pași</item>
+        <item quantity="one">Ați făcut deja %1$s pas</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Calorii</item>
+        <item quantity="one">%1$d Calorie</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">pași</item>
+        <item quantity="one">pas</item>
+    </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d pași</item>
         <item quantity="one">%1$d pas</item>

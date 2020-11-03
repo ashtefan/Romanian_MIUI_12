@@ -457,12 +457,18 @@
     <string name="menu_unlock">Eliminaţi din favorite</string>
     <string name="menu_view_contact">Vizualizaţi persoana din agendă</string>
     <string name="menu_view_group_info">Informații despre grup</string>
+    <string name="message_cannot_send_air_mode">"Nu se pot trimite mesaje.
+dezactivați mai întâi modul Avion."</string>
+    <string name="message_cannot_send_sim_unavailable">"Nu se pot trimite mesaje.
+Verificați cartela SIM."</string>
     <string name="message_class_label">"Clasa de mesaj: "</string>
     <string name="message_contact">Contact:</string>
     <string name="message_details_title">Detalii mesaj</string>
     <string name="message_download_failed_title">Mesajul nu a fost descărcat</string>
     <string name="message_expired">Expirat</string>
     <string name="message_failed">Eşuat</string>
+    <string name="message_failed_and_cotanct_operator">A apărut o eroare. <font color="#1c86ee">Contactați operatorul</font>.</string>
+    <string name="message_failed_and_feedback">A apărut o eroare. <font color="#1c86ee">Raportați problema</font>.</string>
     <string name="message_failed_body">Atingeţi pentru a revedea mesajul şi încercaţi din nou.</string>
     <string name="message_number">Număr de telefon:</string>
     <string name="message_pending">Trimitere</string>
@@ -484,9 +490,20 @@
     <string name="mi_message_title">Mesaje Mi</string>
     <string name="midnight">Noaptea</string>
     <string name="millionbyte">MB</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
+    <string name="miuix_appcompat_confirm_description">Confirmați</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

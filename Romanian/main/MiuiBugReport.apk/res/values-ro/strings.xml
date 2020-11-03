@@ -68,6 +68,7 @@
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
+    <string name="announcement">Atenție</string>
     <string name="app_empty">"Nu s-a găsit nicio aplicaţie."</string>
     <string name="app_label">Raportare probleme</string>
     <string name="app_name">Raportare probleme</string>
@@ -172,6 +173,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="err_type_xiaomi_service">Serviciu clienți</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este asociată deja altui cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă nu este validă.</string>
+    <string name="error_no_connection">Nu s-a putut conecta la rețea</string>
     <string name="evening">După amiază</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja altui cont Mi.</string>
     <string name="expand_button_title">Avansat</string>
@@ -294,6 +296,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_version_label">Versiunea</string>
     <string name="feesback_list">Rapoarte</string>
     <string name="find_psw">Am uitat parola</string>
+    <string name="first_position">2#</string>
+    <string name="floor">%1$s#</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -350,6 +354,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="from">de la %1$s</string>
     <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
@@ -586,12 +591,12 @@ Trimiteți acest cod supervizorului."</string>
     <string name="ok">OK</string>
     <string name="open_feedback_main">Mai multe</string>
     <string name="open_settings">Mergeți la Setări</string>
-    <string name="packaging_dialog_content">Creare raport…</string>
+    <string name="packaging_dialog_content">Se crează raportul…</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
     <string name="passport_account_identity_title">Verificați-vă identitatea</string>
     <string name="passport_account_label">Contul Mi</string>
-    <string name="passport_account_name">"Cont: %1$s "</string>
+    <string name="passport_account_name">Cont: %1$s</string>
     <string name="passport_account_not_activated">"Contul nu a fost activat"</string>
     <string name="passport_account_not_actived">"Contul dumneavoastră nu a fost activat"</string>
     <string name="passport_activate_token_expired">Codul de verificare a expirat. Încercați din nou.</string>
@@ -740,8 +745,8 @@ Pentru a vă activa contul, accesați
     <string name="passport_unknow_error">A apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">A apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Am citit și accept &lt;a href=\"%1$s\"Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica Xiaomi de Confidențialitate&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Am citit și accept următoarele documente: &lt;a href=\"%1$s\"Acordul Utilizatorului&lt;/a> și &lt;a href=\"%4$s\">Politica Xiaomi de Confidențialitate&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">"&lt;Data>Am citit și accept &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica Xiaomi de Confidențialitate&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Am citit și accept următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica Xiaomi de Confidențialitate&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării nu este finalizată</string>
@@ -760,7 +765,7 @@ Pentru a vă activa contul, accesați
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="phone_number">Numărul de telefon</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
-    <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
+    <string name="plus_one_submit_dialog_content">Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="pm">PM</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
@@ -789,10 +794,11 @@ Pentru a vă activa contul, accesați
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="screen_lock">Blocare ecran</string>
     <string name="search_menu_title">Căutați</string>
     <string name="second_position">3#</string>
     <string name="section_description">Descriere</string>
-    <string name="section_err_type">Tip de eroare</string>
+    <string name="section_err_type">Tipul erorii</string>
     <string name="section_screenshot">Captură de ecran</string>
     <string name="select_system_app_tag">Selectați o problemă</string>
     <string name="send_diagnosis_log">Trmiteți jurnalele</string>
@@ -853,7 +859,7 @@ Pentru a vă activa contul, accesați
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="system_app_select">Aplicații încorporate</string>
-    <string name="systemui">Panou notificări</string>
+    <string name="systemui">Perdeaua de notificări</string>
     <string name="tab_title_chat">Întrebări frecvente</string>
     <string name="tab_title_my_reports">Rapoartele mele</string>
     <string name="tab_title_preferences">Setări</string>
@@ -931,7 +937,7 @@ Pentru a vă activa contul, accesați
     <string name="toast_fill_brackets">Din raportul dvs. lipsesc câteva informaţii</string>
     <string name="toast_loading_app_id">Obținere informații…</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
-    <string name="toast_log_too_large">"Nu se poate încărca. Jurnalul este prea mare."</string>
+    <string name="toast_log_too_large">Nu se poate încărca. Jurnalul este prea mare.</string>
     <string name="toast_min_description_count">Descrierea ar trebui să fie mai lungă</string>
     <string name="toast_module_required">Selectați elementul</string>
     <string name="toast_network_unavailable">"Nu s-a putut trimite raportul. Nu se poate conecta la rețea."</string>
@@ -944,6 +950,8 @@ Pentru a vă activa contul, accesați
     <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
     <string name="toast_screenshot_too_large">"Nu se pot încărca imagini sau videoclipuri mai mari de 100 MB."</string>
     <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
+    <string name="toast_title_required">Descrieți problema</string>
+    <string name="topic_author">1#</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="tuesday">Marți</string>

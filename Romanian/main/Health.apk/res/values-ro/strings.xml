@@ -289,6 +289,8 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="delete_wear_data_toast">Nu se pot șterge datele furnizate de către %1$s</string>
     <string name="description">Detalii</string>
     <string name="detail_format">%1$.1f</string>
+    <string name="detail_record_pace_describe">Ritm (Timp de acoperire pentru 1 km)</string>
+    <string name="detail_record_pace_title">Segmente de ritm</string>
     <string name="detection_has_no_data">Nu există date</string>
     <string name="detection_not_start">Nu ați început încă</string>
     <string name="detection_not_start_detail">Nu stați treaz până prea târziu</string>
@@ -312,6 +314,7 @@ Vă rugăm să comunicați acest cod tehnicianului."</string>
     <string name="dialog_account_perm_desc">Pentru accesarea și conectarea la contul sistemului</string>
     <string name="dialog_agree">De acord</string>
     <string name="dialog_agree_and_continue">De acord</string>
+    <string name="dialog_agree_permission">Permiteți</string>
     <string name="dialog_allow">Permiteți</string>
     <string name="dialog_auto_start_detail">"Permiteți aplicației Sănătate Xiaomi să pornească în mod automat pentru a putea primi notificări.
 Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
@@ -341,6 +344,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Permiteți</string>
     <string name="dialog_permission_loading_msg">Se verifică…</string>
+    <string name="dialog_permission_title">Sunt necesare permisiuni</string>
     <string name="dialog_privacy_link">"Bine ați venit în aplicația Mi Health! Puteți utiliza această aplicație pentru a vă înregistra activitățile, gestiona somnul și multe altele.
     Mi Health trebuie să se conecteze la rețea, dar și să colecteze, să proceseze și să utilizeze informațiile personale pentru a putea funcționa în mod normal.&lt;/br&gt;
     Informațiile dvs personale vor fi colectate, procesate și utilizate în concordanță cu legile și regulamentele relevante.
@@ -349,6 +353,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_privacy_policy_statement">Declarația Politicii de Confidențialitate</string>
     <string name="dialog_privacy_title">Termeni și condiții</string>
     <string name="dialog_read_phone_perm_desc">Pentru identificarea caracteristicilor dispozitivului dumneavoastră utilizând OAID sau ID-ul Android</string>
+    <string name="dialog_reject">Restricționați</string>
     <string name="dialog_request_network">Vă rugăm să permiteți acestei aplicații conectarea la internet.</string>
     <string name="dialog_sleep_goal_setting">Setați ținta pentru durata somnului</string>
     <string name="dialog_sleep_goal_subtitle">Dormiți timp de 7–9 ore zilnic</string>
@@ -450,6 +455,10 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="exercise_sum">Raportul exercițiilor</string>
     <string name="exercise_time">Durată</string>
     <string name="exercise_walk_description">În concordanță cu Ghidurile de nutriție a rezidenților chinezi, activitatea fizică activă ar trebui să dureze cel puțin 40 minute pe zi, ceea ce echivalează cu realizarea a 6000 de pași. Pașii făcuți zilnic pentru mers, alergare și urcarea scărilor sunt sumarizați aici.</string>
+    <string name="exit_running_tips_cancel">Da</string>
+    <string name="exit_running_tips_confirm">Nu</string>
+    <string name="exit_running_tips_desc">Se pare că nu ați început încă exercițiul. Încheiați acest antrenament?</string>
+    <string name="exit_running_tips_title">Încheie antrenamentul</string>
     <string name="expand_all">Afișează tot</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
@@ -550,6 +559,9 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="goal_title">Păstrați-vă sănătatea</string>
     <string name="goto_setting_auto_start">Setări</string>
     <string name="gps">GPS</string>
+    <string name="gps_no_signal_hint">Semnalul GPS actual nu permite urmărirea antrenamentului și înregistrarea rutelor. Mergeți într-o zonă plană, deschisă.</string>
+    <string name="gps_unauthorized">Permisiune GPS necesară</string>
+    <string name="gps_unopened">GPS-ul este oprit</string>
     <string name="group">Cicluri</string>
     <string name="guide_data_cloud_sync_tip">Puteți dezactiva sincronizarea din Setări > Servicii Cloud.</string>
     <string name="guide_exit">Părăsiți Sănătate Xiaomi</string>
@@ -610,15 +622,18 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_detect_state_reseting">Stare de odihnă</string>
     <string name="hr_detect_state_reseting_desc">Sunteți complet relaxat sau tocmai v-ați trezit</string>
     <string name="hr_disturb_detect">Detectarea a fost întreruptă</string>
-    <string name="hr_fp_area">Zona amprentei</string>
-    <string name="hr_fp_detect_desc">Fluxul de sânge către degete crește în timpul bătăilor inimii. Prin intermediul sursei de lumină puternice din zona amprentelor de sub ecran, se poate obține modificarea frecvenței sângelui degetelor. Frecvența este convertită într-un semnal de impuls pentru a calcula ritmul cardiac exact.</string>
-    <string name="hr_fp_detect_principle_desc">"Sângele poate absorbi lumina. Cu fiecare bătaie a inimii, mai mult sânge curge spre degete și se absoarbe mai multă lumină; în intervalul dintre bătăile inimii, se absoarbe mai puțină lumină. Prin sursa de lumină strălucitoare din zona amprentelor de sub ecran, se poate obține frecvența de schimbare a sângelui degetelor. Frecvența este convertită într-un semnal de impuls pentru a calcula ritmul cardiac exact.
+    <string name="hr_finger_permission_desc">Pentru a vă măsura ritmul cardiac, această caracteristică trebuie să acceseze scanerul de amprente pentru a putea detecta modificările fluxului sanguin. Permiteți?</string>
+    <string name="hr_fp_area">Scanerul de amprentă</string>
+    <string name="hr_fp_detect_desc">Sângele curge spre degetele tale cu fiecare bătaie a inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.</string>
+    <string name="hr_fp_detect_principle_desc">"Sângele nu este complet opac; prin urmare, lumina poate trece prin el. Cu fiecare bătaie de inimă, sângele curge spre degete, blocând mai multă lumină decât între bătăile inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.
 
-Prin intermediul unui număr mare de experimente, eroarea medie a ritmului cardiac este mai mică de 3 BPM"</string>
-    <string name="hr_fp_detect_principle_desc_2">Notă: vă rugăm să vă asigurați că degetul acoperă complet zona de amprentă; apăsați-l ușor în timpul detectării. Dacă presiunea este prea mare, fluxul sanguin din deget va fi redus, rezultând rezultate inexacte. Datele testelor sunt doar pentru referință, nu pentru instrumente medicale.</string>
-    <string name="hr_fp_detect_start_desc">Vă rugăm să apăsați ușor degetul. Nu mutați zona de amprentă</string>
-    <string name="hr_fp_detecting">Detectare…</string>
-    <string name="hr_fp_not_put_well">Degetul nu este la locul potrivit, încercați din nou</string>
+Testele noastre arată că această metodă măsoară ritmul cardiac cu o eroare de numai ≤3 BPM."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Notă: Asigurați-vă că degetul acoperă complet pictograma amprentei în timpul măsurării. Nu aplicați forță, deoarece ar putea bloca fluxul de sânge în vârful degetelor și face rezultatele inexacte. Această măsurare este furnizată numai pentru referință. Nu poate înlocui testele medicale."</string>
+    <string name="hr_fp_detect_start_desc">"Apăsați ușor pictograma de amprentă.
+Nu mișcați degetul."</string>
+    <string name="hr_fp_detecting">Se măsoară…</string>
+    <string name="hr_fp_not_put_well">"Degetul s-a mișcat.
+Reluați măsurarea."</string>
     <string name="hr_fp_report_common_desc">Ritmul cardiac normal variază de la 60 la 100 de bătăi pe minut. O frecvență cardiacă mai mică de 60 BPM este un semn de bradicardie, în timp ce o frecvență cardiacă peste 100 BPM este acceptată ca tahicardie la adulți.</string>
     <string name="hr_heart_rate_unit">Ritm cardiac (BPM)</string>
     <string name="hr_in_detect">Vă rugăm să nu mișcați degetele pe durata testării</string>
@@ -705,6 +720,16 @@ Prin intermediul unui număr mare de experimente, eroarea medie a ritmului cardi
     <string name="light_sleep_time_increase_description">Somnul ușor este prea lung</string>
     <string name="light_sleep_time_normal_description">Aveți un somn ușor suficient</string>
     <string name="load_failed">Nu s-au putut încărca elementele. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="location_permission_dialog_content">Permiteți aplicației Sănătate Xiaomi să vă acceseze locația din \"Sănătate Xiaomi\" > \"Gestionați permisiunile\" pentru a vă putea monitoriza exercițiile din exterior.</string>
+    <string name="location_permission_dialog_negative">Nu acum</string>
+    <string name="location_permission_dialog_positive">Permiteți</string>
+    <string name="location_permission_dialog_title">Sunt necesare permisiuni pentru localizare</string>
+    <string name="location_service_dialog_content">Activați serviciile de localizare din Setări pentru a vă putea urmări antrenamentele în aer liber.</string>
+    <string name="location_service_dialog_negative">Nu acum</string>
+    <string name="location_service_dialog_positive">Activați</string>
+    <string name="location_service_dialog_title">Serviciile de localizare sunt dezactivate</string>
+    <string name="location_service_ntfc_content">Sănătate Xiaomi</string>
+    <string name="location_service_ntfc_title">Se caută GPS-ul…</string>
     <string name="login_and_open_sync">Conectați-vă și activați sincronizarea</string>
     <string name="login_and_open_sync2">Conectați-vă și activați sincronizarea</string>
     <string name="low">Scăzut</string>
@@ -943,7 +968,14 @@ Prin intermediul unui număr mare de experimente, eroarea medie a ritmului cardi
     <string name="picker_day">Ziua selectată: %1$d. Glisați vertical pentru a selecta.</string>
     <string name="picker_month">Luna selectată: %1$d. Glisați vertical pentru a selecta.</string>
     <string name="picker_year">Anul selectat: %1$d. Glisați vertical pentru a selecta.</string>
+    <string name="placement_tips_recommend">Recomandate</string>
+    <string name="placement_tips_recommend_1">Rucsac</string>
+    <string name="placement_tips_recommend_2">Borsetă</string>
+    <string name="placement_tips_title">Unde ar trebui să-ți pui telefonul?</string>
+    <string name="placement_tips_warn">Nerecomandat</string>
+    <string name="placement_tips_warn_1">Bandă de alergat</string>
     <string name="play">Redați</string>
+    <string name="please_choose">Selectați</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Înot în piscină</string>
     <string name="predict_menstruation">Ciclu preconizat</string>
@@ -1081,7 +1113,7 @@ Prin intermediul unui număr mare de experimente, eroarea medie a ritmului cardi
     <string name="sleep_deep_light_no_data_improvement">Nu s-au putut identifica fazele somnului. Îmbunătățim algoritmul. Fiți pe fază!</string>
     <string name="sleep_detection_enable">Analizați ciclul somnului</string>
     <string name="sleep_detection_feedback">Feedback</string>
-    <string name="sleep_detection_guide_four_description">Monitorizarea somnului va consuma circa 1% din acumulator în fiecare zi.</string>
+    <string name="sleep_detection_guide_four_description">Monitorizarea somnului va consuma doar 1% din acumulator per noapte.</string>
     <string name="sleep_detection_guide_four_high_power_description">Asigurați-vă că acumulatorul telefonului este încărcat suficient înainte de a merge la somn. Dacă acumulatorul este descărcat, este posibil să fie întreruptă monitorizarea somnului.</string>
     <string name="sleep_detection_guide_four_high_power_title">Mențineți acumulatorul încărcat</string>
     <string name="sleep_detection_guide_four_title">Consum redus de energie</string>
@@ -1188,6 +1220,7 @@ despre somn"</string>
     <string name="snore_detection_abnormal_state">Sesiunea a fost întreruptă</string>
     <string name="snore_detection_abnormal_state_description">Microfonul este oprit</string>
     <string name="snore_detection_close_prompt">Detecția sforăitului și a vorbitului în somn este dezactivată</string>
+    <string name="snore_detection_close_prompt_desc">Nu ați detectat sforăitul și vorbirea de ceva vreme. Am dezactivat această funcție pentru a economisi bateria. Atingeți pentru a verifica setările.</string>
     <string name="snore_detection_close_title">Dezactivați detectarea sforăitului și a vorbitului în somn?</string>
     <string name="snore_detection_enable">Detectează sforăitul și vorbitul în somn</string>
     <string name="snore_detection_guide_one_description">Pe durata somnului se vor înregistra sunete. Inteligența artificială permite aplicației Sănătate Xiaomi să detecteze sforăitul, vorbitul în somn și sunetele puternice și salvează înregistrările pe dispozitiv.</string>
@@ -1241,7 +1274,62 @@ despre somn"</string>
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="sport_btn_continue">Reluați</string>
+    <string name="sport_btn_finish">Încheiați</string>
+    <string name="sport_btn_lock">Blocați</string>
+    <string name="sport_btn_pause">Pauză</string>
+    <string name="sport_btn_unlock">Deblocați</string>
+    <string name="sport_counter_begin">Începeți acum</string>
+    <string name="sport_home_begin">Start</string>
+    <string name="sport_home_set_goal">Setați ținta</string>
+    <string name="sport_invalid_dialog_distance_content">Distanța parcursă în timpul acestui antrenament este prea mică pentru a crea o înregistrare istorică. Încheiați acest antrenament oricum?</string>
+    <string name="sport_invalid_dialog_time_content">Acest antrenament a durat mai puțin de 5 secunde. Încheiați acum fără a-l înregistra?</string>
+    <string name="sport_invalid_dialog_title">Prea repede!</string>
+    <string name="sport_menu_share">Partajați</string>
+    <string name="sport_no_internet_toast">Nu vă pot accesa locația precisă din cauza semnalului de rețea slab.</string>
+    <string name="sport_pace_chart_last_km">Mai puțin de 1 km</string>
+    <string name="sport_pace_step_unit">SPM</string>
+    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string name="sport_pref_category_voice">Audio</string>
+    <string name="sport_pref_gps_voice_title">Instrucțiuni vocale de semnal GPS</string>
+    <string name="sport_pref_voice_assist_summary">Ascultați informații și sugestii în timpul antrenamentelor</string>
+    <string name="sport_pref_voice_assist_title">Instrucțiuni vocale</string>
+    <string name="sport_settings_title">Exerciții</string>
+    <string name="sport_share_fail">Nu s-a putut partaja. Încercați din nou</string>
+    <string name="sport_share_save_local">Salvat cu succes</string>
+    <string name="sport_share_save_local_fail">Nu s-a putut salva. Încercați din nou.</string>
+    <string name="sport_share_save_local_success">Salvat cu succes</string>
+    <string name="sport_share_success">Partajat cu succes</string>
+    <string name="sport_share_title">Partajați</string>
+    <string name="sport_step_average_frequency">Media</string>
+    <string name="sport_step_max_frequency">Cea mai mare</string>
+    <string name="sport_step_min_frequency">Cea mai mică</string>
+    <string name="sport_title_step_frequency">Cadență</string>
+    <string name="sport_tts_begin_riding">Începeți să mergeți cu bicicleta</string>
+    <string name="sport_tts_begin_running">Începeți să alergați</string>
+    <string name="sport_tts_begin_walking">Începeți să vă plimbați</string>
+    <string name="sport_tts_finish_by_user">A fost un antrenament frumos!</string>
+    <string name="sport_tts_goal_finish">Ați atins obiectivul! Felicitări!</string>
+    <string name="sport_tts_goal_finish_half">Sunteți la jumătate! Continuați!</string>
+    <string name="sport_tts_last_km_spent">Ați acoperit ultimul kilometru în %s</string>
+    <string name="sport_tts_pause_by_user">Antrenamentul a fost întrerupt</string>
     <string name="sport_type">Tipul exercițiilor</string>
+    <string name="sporting_content_speed">Ritmul curent: %1$s %2$s per kilometru</string>
+    <string name="sporting_content_time">Durata exercițiilor: %1$s %2$s</string>
+    <string name="sporting_goal">Ținta</string>
+    <string name="sporting_hint_exit_map">Închideți harta</string>
+    <string name="sporting_hint_long_press">Apăsați și mențineți pentru a încheia</string>
+    <string name="sporting_hint_switch_to_map">Comută la hartă</string>
+    <string name="sporting_key_calories">Cal</string>
+    <string name="sporting_key_km">KM</string>
+    <string name="sporting_key_speed">Ritm</string>
+    <string name="sporting_key_step">Pași</string>
+    <string name="sporting_key_time">Durată</string>
+    <string name="sporting_location">Localizați</string>
+    <string name="sporting_title_outdoor_riding">Ciclism</string>
+    <string name="sporting_title_pause">În pauză</string>
+    <string name="sporting_title_running">Alergare</string>
+    <string name="sporting_title_waking">Plimbare</string>
     <string name="stand">Ridicare</string>
     <string name="stand_assistant">Ridicare</string>
     <string name="stand_detection">Monitorizați ridicarea de pe scaun</string>
@@ -1382,7 +1470,7 @@ despre somn"</string>
     <string name="tb_home_sleep_card_no_data">Somn. Nu există date astăzi.</string>
     <string name="tb_home_sleep_card_not_open_trace">Somn. Analiza ciclului de somn este dezactivată.</string>
     <string name="tb_home_tip_open_data_sync">Sincronizați elementele din aplicația Sănătate Xiaomi în Xiaomi Cloud pentru a le accesa de pe alte dispozitive. Atingeți de două ori pentru a începe.</string>
-    <string name="tb_home_weight_card">Greutate. %1$.1f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
+    <string name="tb_home_weight_card">Greutate. %1$.2f kilograme. Data cântăririi: %2$s. Stare: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Greutate. Nu există date.</string>
     <string name="tb_manage_home">Aici puteți muta sau rearanja filele afișate în pagina de start.</string>
     <string name="tb_mens_mark_success">Marcat cu succes</string>
@@ -1576,7 +1664,7 @@ Actualizați acum?"</string>
     <string name="user_age_unit">ani</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="user_birthday_display_format">dd/MM/yyyy</string>
-    <string name="user_center">Centrul Utilizatorului</string>
+    <string name="user_center">Profil</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>

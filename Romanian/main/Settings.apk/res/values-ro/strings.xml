@@ -2431,7 +2431,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dual_wifi_switching_prompt">Se comută între rețele</string>
     <string name="dual_wifi_switching_summary">Creșterea vitezei rețelei Wi-Fi cu bandă duală trebuie să utilizeze 2 benzi de frecvență diferite. Dacă vă conectați la o altă rețea principală, conexiunea la rețeaua secundară va fi pierdută.</string>
     <string name="dump_log">Obțineți jurnale legate de această problemă</string>
-    <string name="dump_log_summary">"Această caracteristică este destinată generării jurnalului 284 în versiunile MIUI Alpha și Beta. Utilizați-o cu precauție.
+    <string name="dump_log_summary">"Această caracteristică este destinată generării jurnalului 284 în versiunile MIUI Beta. Utilizați-o cu precauție.
 Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="dump_log_title">Despre această caracteristică</string>
   <string name="eab_provisioned_switch_string">EAB/Provizionare Prezență</string>
@@ -3054,6 +3054,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_dialog_ok">Am înțeles</string>
     <string name="gxzw_dialog_title">Despre senzorul de amprentă încorporat în ecran</string>
     <string name="gxzw_enroll_again">Ridicați degetul și apăsați scanerul de amprente din nou</string>
+    <string name="gxzw_lowlight_open_summary">Reduceți luminozitatea pictogramei de amprentă în condiții de lumină slabă. Dispozitivul dvs. se poate debloca mai greu atunci când această funcție este activată.</string>
+    <string name="gxzw_lowlight_open_title">Deblocare amprentă digitală cu lumină scăzută</string>
     <string name="gxzw_quick_open_enable_summary">Utilizați scurtăturile prin gesturi pentru a deschide aplicații sau pentru a utiliza caracteristicile aplicațiilor când telefonul este deblocat</string>
     <string name="gxzw_quick_open_enable_title">Scurtături amprentă</string>
     <string name="gxzw_quick_open_fast_summary">Glisați pentru a utiliza o scurtătură odată ce dispozitivul este deblocat.</string>
