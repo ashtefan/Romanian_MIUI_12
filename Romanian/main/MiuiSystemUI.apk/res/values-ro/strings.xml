@@ -1221,11 +1221,15 @@ o captură de ecran derulantă"</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, exceptând alarma</string>
     <string name="miui_screen_rotation_freeze_message">Orientare ecran blocată în modul peisaj.</string>
     <string name="miui_toast_zen_dnd_to_off">Modul Nu deranjați este dezactivat acum. Sunetele și vibrațiile au fost restabilite la normal</string>
+    <string name="miui_toast_zen_dnd_to_off_version_R">Modul Nu deranjați este dezactivat. Sunetele de notificare și vibrațiile sunt din nou active.</string>
     <string name="miui_toast_zen_standard_to_off">Modul Nu deranjați este dezactivat acum. Sunetele de apel au fost restabilite la normal.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modul Nu deranjați este dezactivat acum. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi redate.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Modul Silențios este oprit. Notificările, sunetele media și vibrațiile sunt active din nou.</string>
     <string name="miui_toast_zen_to_dnd">S-a comutat la modul Nu deranjați. Sunetele sunt reduse la tăcere și vibrațiile dezactivate.</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Modul Nu deranjați este activ. Notificările vor fi reduse la tăcere și vibrațiile vor fi dezactivate.</string>
     <string name="miui_toast_zen_to_standard">S-a comutat la modul Nu deranjați. Sunetele de apel și cele pentru notificări sunt reduse la tăcere.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S-a comutat la modul Nu deranjați. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi reduse la tăcere.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Modul Silențios este activ. Notificările și sunetele media vor fi reduse la tăcere iar vibrațiile vor fi dezactivate.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

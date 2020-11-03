@@ -2844,6 +2844,13 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="privacy_special_permission_summary">Monitorizați modul în care aplicațiile utilizează permisiunile senzitive</string>
     <string name="privacy_special_permission_title">Permisiuni speciale</string>
     <string name="privacy_summary">Aflați despre protejarea confidențialității în MIUI 12</string>
+    <string name="privacy_thumbnail_blur_category_financial">Finanțe</string>
+    <string name="privacy_thumbnail_blur_category_other">Altele</string>
+    <string name="privacy_thumbnail_blur_category_photography">Fotografii și videoclipuri</string>
+    <string name="privacy_thumbnail_blur_category_tip">Recomandat</string>
+    <string name="privacy_thumbnail_blur_search_empty">Nu s-au găsit rezultate</string>
+    <string name="privacy_thumbnail_blur_title">Previzualizări blurate</string>
+    <string name="privacy_thumbnail_blur_top_tip">Selectați aplicațiile pentru care previzualizarea va fi blurată în Recente</string>
     <string name="privacy_type_open">Activ</string>
     <string name="privacy_using_camera">Utilizarea camerei</string>
     <string name="privacy_using_location">Accesarea locației</string>

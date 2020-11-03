@@ -83,7 +83,11 @@
     <string name="ad_download">Descărcați</string>
     <string name="ad_join">Alăturați-vă comunității</string>
     <string name="ad_more">Mai multe</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">Nume</string>
+    <string name="add_search_channel_tip">Căutați \"%s\" pe site-ul țintă, apoi copiați și lipiți URL-ul aici.</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
+    <string name="add_website">Adăugați un site web</string>
     <string name="agree">De acord</string>
     <string name="agree_and_continue">De acord</string>
     <string name="ai_animation_music_text">Sunet de fundal AI</string>
@@ -104,7 +108,7 @@
     <string name="alert_dialog_download_progress">"Se descarcă aplicația: "</string>
     <string name="all">Afișați tot</string>
     <string name="app_name">Mi Video</string>
-    <string name="app_name_hungama">Hungama Play</string>
+    <string name="auth_again">De acord</string>
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="auto_play_next_off">Redarea automată este oprită</string>
     <string name="auto_play_next_on">Redarea automată este pornită</string>
@@ -166,6 +170,8 @@
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="click_to_reload_more">Atingeţi pentru a încărca mai mult</string>
     <string name="click_to_retry">Încercați din nou</string>
+    <string name="cloud_auto_pip_play_switch">Utilizați imagine-în-imagine în mod automat</string>
+    <string name="cloud_online_player">Player</string>
     <string name="cloud_online_switch">Recomandări personalizate</string>
     <string name="cloud_online_switch_close_time">Puteți activa recomandările de conținut personalizat în %s</string>
     <string name="cloud_online_switch_open_time">Afișează recomandările de conținut personalizat</string>
@@ -261,6 +267,7 @@
     <string name="default_filedownloader_notification_content">Descărcarea fișierelor rulează.</string>
     <string name="default_filedownloader_notification_title">Descărcare fișiere</string>
     <string name="description">Descriere</string>
+    <string name="detail_select_source">Selectați sursa de redare</string>
     <string name="diagnosis_log_send_failed">"Nu s-au putut trimite jurnalele. Încercați din nou."</string>
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
 ID:%s
@@ -372,6 +379,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="file_cant_rename">Fișierul cu numele %1$s există deja. Vă rog să-l redenumiți</string>
     <string name="find_psw">Am uitat parola</string>
     <string name="finish">Efectuat</string>
+    <string name="firework_privacy">Politica de Confidențialitate Firework</string>
     <string name="for_diagnosis_usage_only">Jurnalele sunt utilizate doar pentru diagnoză.</string>
     <string name="for_you">PENTRU DVS.</string>
     <string name="friday">Vineri</string>
@@ -498,6 +506,12 @@ Trimiteți acest cod supervizorului."</string>
     <string name="input_size_tips">Puteți introduce maxim 1000 caractere</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="issue">Problemă</string>
+    <string name="item_card_all_replies">Toate răspunsurile</string>
+    <string name="item_card_continue_play">Redare automată</string>
+    <string name="item_card_more_trailers">Mai multe trailere</string>
+    <string name="item_card_open_in">"Deschideți în "</string>
+    <string name="item_card_related">Conexe</string>
+    <string name="item_setting_go_back">Retragerea consimțământului</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="language_later_setting_tips">Puteți modifica preferințele pentru limbă din Profil > Limbă.</string>
     <string name="language_select_tips">"Selectați limba preferată
@@ -724,8 +738,9 @@ pentru videoclipuri"</string>
     <string name="notification_recall_desc">Mi Video vă poate notifica despre videoclipurile populare și despre abonările dvs.</string>
     <string name="notification_recall_title">Activați notificările</string>
     <string name="notify_apk_installed">Descărcată cu succes</string>
-    <string name="off">[oprit]</string>
+    <string name="off_tip_firework_recommend">Nu veți mai primi recomandări personalizate de conținut de la Firework</string>
     <string name="ok">OK</string>
+    <string name="on_tip_firework_recommend">Veți primi recomandări personalizate de conținut de la Firework</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
     <string name="order_recently_updated">Actualizate recent</string>
@@ -931,14 +946,17 @@ Spori securitatea contului dvs."</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="phone_number">Număr de telefon</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
-    <string name="ping_platform">APLICAȚIE</string>
-    <string name="ping_property">film</string>
-    <string name="player_replay_btn_text">reluare</string>
+    <string name="pip">PiP</string>
+    <string name="playlist_create">Creați</string>
     <string name="playlist_detail_recomm_title">Liste de redare recomandate</string>
+    <string name="playlist_finish">Finalizat</string>
     <string name="playlist_hot">Populare</string>
+    <string name="playlist_name">Introduceți titlul listei de redare</string>
     <string name="playlist_new">Noi</string>
     <string name="playlist_no_more">Nu mai există videoclipuri aici</string>
+    <string name="playlist_no_videos">Niciun videoclip aici</string>
     <string name="playlist_offline">Această listă de redare nu mai este disponibilă.</string>
+    <string name="playlist_remove">Eliminați</string>
     <string name="playlist_title">Listă de redare</string>
     <string name="playlist_view_more">Mai multe liste de redare</string>
     <string name="plus_add_shortcut">Creați o scurtătură pe Ecranul principal</string>
@@ -1174,6 +1192,8 @@ Verificați alte videoclipuri!"</string>
     <string name="search_hot_words">Populare</string>
     <string name="search_key_not_null">"Solicitările de căutare nu pot fi necompletate"</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="search_result_download_error">Nu s-a putut descărca</string>
+    <string name="search_result_startdownload">Se descarcă…</string>
     <string name="selectall">Selectați tot</string>
     <string name="selectnull">Deselectați tot</string>
     <string name="send_diagnosis_log">Trimiteți jurnalele</string>
@@ -1282,8 +1302,11 @@ Verificați alte videoclipuri!"</string>
     <string name="ticket_hint">Cod de verificare</string>
     <string name="ticket_invalid">Codul introdus este incorect</string>
     <string name="ticket_sign_in">Conectați-vă prin SMS</string>
+    <string name="tip_auth_again">Deoarece nu ați fost de acord anterior cu termenii politicii de confidențialitate corespunzătoare a furnizorului de conținut terță parte, nu putem afișa conținut video în Moments. Atingeți butonul de mai jos pentru a accepta Politica de confidențialitate și pentru a accesa această funcție.</string>
     <string name="tip_author_click">Atingeți pentru a vedea mai multe videoclipuri de la acest cont</string>
+    <string name="tip_pop"><Data>Conținutul din momente este furnizat de Firework. Pentru a vă îmbunătăți experiența de vizionare și a primi recomandări de conținut mai relevante, permiteți Firework să colecteze, să proceseze și să utilizeze informațiile dvs. personale în conformitate cu politica sa de confidențialitate. Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate Firework&lt;/a> înainte de a utiliza serviciile sale.</Data></string>
     <string name="tip_topic_click">Atingeți pentru a găsi mai multe videoclipuri pe acest topic</string>
+    <string name="title_firework_recommend">Recomandări Firework</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Abonamente</string>
     <string name="toast_no_data">Acest element nu este disponibil acum. Reveniți mai târziu.</string>

@@ -177,6 +177,7 @@
     <string name="miui_warning_tip_info">A apărut o eroare în %1$s. Închideți această aplicație acum?</string>
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="notification_channel_hotspot">Notificare hotspot</string>
     <string name="onehour">30 de minute</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>

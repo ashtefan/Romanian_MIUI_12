@@ -36,7 +36,10 @@
     <string name="afternoon">După amiază</string>
     <string name="align_type">Aliniați</string>
     <string name="always_style">Întotdeauna</string>
+    <string name="always_style_symmary">Consumă mai multă energie</string>
     <string name="am">AM</string>
+    <string name="ambient_display_screen_title">Afișaj activ permanent</string>
+    <string name="ambient_display_screen_title_sp">Afișaj ambiental</string>
     <string name="animation_clock_panel">Tastatură în valuri</string>
     <string name="aod_close_color_inversion">Această caracteristică nu se poate combina cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi.</string>
     <string name="aod_component">Elementele afișate</string>
@@ -276,6 +279,8 @@ dd/MM"</string>
     <string name="notification_anim_star">Stea</string>
     <string name="notification_nothing">Nimic</string>
     <string name="notification_screen_on">Iluminare ecran</string>
+    <string name="off">Oprit</string>
+    <string name="on">Pornit</string>
     <string name="only_show_bg_description">Nu arăta ora, data și alte elemente</string>
     <string name="only_show_bg_title">Afișează doar fundalul</string>
     <string name="open_aod_mode">Activați</string>
@@ -295,6 +300,7 @@ dd/MM"</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Perioada activă: %s</string>
     <string name="scheduled_style">Programat</string>
+    <string name="scheduled_style_summary">Setați ora personalizată</string>
     <string name="scope_des">Fiecare caleidoscop conține 5 modele diferite care vor fi afișate în rând de fiecare dată când ecranul este aprins.</string>
     <string name="scope_icon">Stilul caleidoscopului</string>
     <string name="scope_time">Caleidoscop</string>
@@ -354,6 +360,7 @@ dd.MM"</string>
     <string name="super_wallpaper_date_lunar">"YY年
 N月e"</string>
     <string name="temporary_style">Pentru 10 secunde după atingere</string>
+    <string name="temporary_style_summary">Recomandat</string>
     <string name="text_color">Culoarea textului</string>
     <string name="text_length_exceed_limit_alert">*Textul introdus este prea lung</string>
     <string name="text_size">Dimensiunea textului</string>

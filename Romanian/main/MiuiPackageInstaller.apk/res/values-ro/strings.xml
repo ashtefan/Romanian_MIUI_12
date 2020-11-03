@@ -442,6 +442,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_app_danger">Această aplicație nu este sigură; nu o instalați.</string>
     <string name="miui_app_detail">Detalii</string>
     <string name="miui_app_permission_detail">Permisiuni necesare</string>
+    <string name="miui_app_permission_number_desc">%1$s (%2$s)</string>
     <string name="miui_app_virus">Această aplicație este un virus; nu o instalați.</string>
     <string name="miui_clean">Curățați</string>
     <string name="miui_clear_apk_desc">Pachet de instalare șters și date reziduale (%s)</string>
@@ -491,6 +492,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
   <string name="miui_message_staging_3">Staging app...</string>
     <string name="miui_no_perms">Nicio permisiune necesară</string>
     <string name="miui_not_uninstall_system_app">Nu se pot dezinstala aplicațiile de sistem</string>
+    <string name="miui_other_permission">Altele</string>
     <string name="miui_other_relative">Altele</string>
     <string name="miui_permission_manage_title">%s detalii</string>
     <string name="miui_please_clear">Ștergeți virușii</string>
