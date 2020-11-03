@@ -31,6 +31,7 @@
     <string name="accessibility_battery_level">Acumulator %d procente.</string>
     <string name="accessibility_battery_level_charging">Acumulatorul se încarcă, %d procente.</string>
     <string name="actionbar_button_up_description">Înapoi</string>
+    <string name="add_custom_image">Imagine personalizată</string>
     <string name="add_from_album">Adăugați din Galerie</string>
     <string name="afternoon">După amiază</string>
     <string name="align_type">Aliniați</string>
@@ -300,6 +301,8 @@ dd/MM"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="select_notification_animation_style">Selectați efectul special</string>
     <string name="select_notification_notify_style">Selectați efectul de notificare</string>
+    <string name="share">Partajați</string>
+    <string name="share_to_community">Partajați Comunității Mi</string>
     <string name="show_battery">Afișează starea bateriei</string>
     <string name="show_battery_status">Afișează starea bateriei</string>
     <string name="show_lunar">Afișează calendarul Tradițional Chinezesc</string>
@@ -339,6 +342,7 @@ minunat urmează să se întâmple"</string>
     <string name="step_component_info_active_tip">Numărarea pașilor este furnizată de către Sănătate Xiaomi. Acceptați termenii și condițiile Sănătate Xiaomi pentru a continua.</string>
     <string name="step_component_info_desc">Numărul de pași se va transforma într-un trofeu când atingeți ținta. Numărarea pașilor este furnizată de către Sănătate Xiaomi.</string>
     <string name="step_component_info_tip">Numărarea pașilor este furnizată de către Sănătate Xiaomi. Instalați sau actualizați aplicația Sănătate Xiaomi și acceptați termenii și condițiile pentru a continua.</string>
+    <string name="step_to_image_community">Găsiți mai multe în Comunitatea Mi</string>
     <string name="summary">Pentru a reduce consumul de energie, elementele nu vor fi afișate când telefonul stă o perioadă mai lungă în întuneric.</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

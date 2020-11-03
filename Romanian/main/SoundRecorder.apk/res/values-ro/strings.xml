@@ -135,6 +135,7 @@
     <string name="network_unavailable_tip">Conectați-vă la rețea și încercați din nou.</string>
     <string name="new_record_name">Înregistrare nouă</string>
     <string name="no_file">Nicio înregistrare</string>
+    <string name="no_network">Nu s-a putut conecta la rețea</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_message_all_paused">Se așteaptă conectarea la Wi-Fi.</string>
     <string name="notification_playback">Redare…</string>

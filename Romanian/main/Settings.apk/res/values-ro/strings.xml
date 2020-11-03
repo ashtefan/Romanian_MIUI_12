@@ -6423,6 +6423,7 @@ Codul PIN poate fi incorect."</string>
     <string name="smart_home_value_none">Nimic</string>
     <string name="smart_home_value_unknown">Necunoscut</string>
     <string name="smart_notifications_title">Notificări adaptive</string>
+    <string name="smart_space_clock">Pe scurt</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
     <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
