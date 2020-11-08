@@ -292,7 +292,7 @@ Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_dspt_provision_china">Utilizaţi Xiaomi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_dspt_provision_xms">Utilizaţi Xiaomi Cloud pentru a sincroniza datele.</string>
     <string name="micloud_dspt_provision_xms_china">Utilizaţi Xiaomi Cloud pentru a sincroniza datele.</string>
-    <string name="micloud_find_device_close_alert_content">"Dacă dezactivați Localizarea dispozitivului, nu veți mai putea localiza telefonul utilizând această funcție. Dacă telefonul dvs. suportă funcționalitatea NFC, toate cardurile bancare și cartelele vor fi șterse din Mi Pay."</string>
+    <string name="micloud_find_device_close_alert_content">Dacă dezactivați Localizarea dispozitivului, nu veți mai putea localiza dispozitivul utilizând această funcție. Dacă dispozitivul dvs. suportă funcționalitatea NFC, toate cardurile bancare și cartelele vor fi șterse din Mi Pay. De asemenea, persoanele cu care partajați locația nu vor mai putea primi actualizări despre locul în care vă aflați.</string>
     <string name="micloud_find_device_close_alert_negtive">Dezactivați oricum</string>
     <string name="micloud_find_device_close_alert_positive">Păstrați activă</string>
     <string name="micloud_find_device_close_alert_title">Dezactivați Localizarea telefonului?</string>
