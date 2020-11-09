@@ -1578,7 +1578,7 @@ Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive
     <string name="clear_adb_keys">Revoc autorizații depanare USB</string>
     <string name="clear_all_data">Ștergeți toate datele</string>
     <string name="clear_cache_btn_text">Eliberare memorie cache</string>
-    <string name="clear_data_alert_info">Toate copiile de rezervă stocate pe acest dispozitiv vor fi șterse permanent. Faceți o copie de siguranță a elementelor importante pe computer și în Xiaomi Cloud înainte de a continua.</string>
+    <string name="clear_data_alert_info">Toate copiile de rezervă stocate pe acest dispozitiv vor fi șterse permanent. Faceți o copie de siguranță a elementelor importante pe computer și în Xiaomi Cloud înainte de a reveni la setările din fabrică.</string>
     <string name="clear_data_dlg_text">Toate datele acestei aplicaţii vor fi şterse definitiv. Aici sunt incluse toate fişierele, setările, conturile, bazele de date, etc.</string>
     <string name="clear_data_dlg_title">Ştergeţi datele aplicaţiei?</string>
     <string name="clear_failed_dlg_text">Nu s-au putut şterge datele aplicaţiei.</string>
@@ -2177,7 +2177,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_oaid_desc">În loc de identificatorul dvs. unic, MIUI va oferi un ID virtual (OAID) aplicațiilor instalate. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
     <string name="device_oaid_title">ID virtual</string>
     <string name="device_of_someone">%2$s lui %1$s</string>
-    <string name="device_opcust_version">Versiune personalizată</string>
+    <string name="device_opcust_version">Versiune operator</string>
     <string name="device_picker">Selectați dispozitivul Bluetooth</string>
     <string name="device_rear_camera">Camera posterioară</string>
     <string name="device_screen_resolution">Rezoluția ecranului</string>
@@ -2199,7 +2199,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
 Pentru a încerca să remediați această problemă, puteți opri %1$s și preveni rularea acesteia în fundal."</string>
     <string name="dialog_background_check_ok">Dezactivați</string>
     <string name="dialog_background_check_title">Dezactivați utilizarea în fundal și opriți aplicația?</string>
-    <string name="dialog_backup_title">Actualizați copiile de rezervă înainte de a efectua revenirea la setările din fabrică?</string>
+    <string name="dialog_backup_title">Faceți mai întâi o copie de rezervă?</string>
     <string name="dialog_check_button_negative">Încercați din nou</string>
     <string name="dialog_check_button_positive">Conectați-vă la Wi-Fi</string>
     <string name="dialog_check_context">"Dispozitivul dvs. nu se poate conecta la internet acum.

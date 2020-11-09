@@ -53,6 +53,14 @@
         <item quantity="other">A sunat de %1$d ori</item>
         <item quantity="one">A sunat %1$d dată</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numere de telefon</item>
+        <item quantity="one">%d număr de telefon</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Ștergeți %d numere de telefon?</item>
+        <item quantity="one">Ștergeți %d număr de telefon?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$d contacte sau fotografii nu au fost sincronizate"</item>
         <item quantity="one">"%1$d contact sau fotografie nu au fost sincronizate"</item>
@@ -204,6 +212,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d găsite</item>
         <item quantity="one">%d găsit</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s rezultate</item>
+        <item quantity="one">%s rezultat</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Selectați mai puțin de %1$d; nu se pot selecta toate"</item>
