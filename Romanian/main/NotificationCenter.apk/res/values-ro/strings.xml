@@ -29,11 +29,15 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
+    <string name="aggregate_title">Reguli pentru gruparea notificărilor</string>
     <string name="am">AM</string>
     <string name="app_name">Notificări</string>
     <string name="back">Înapoi</string>
     <string name="cancel">Renunțați</string>
     <string name="category_other">Altele</string>
+    <string name="channel_keyguard_hide_content">Afișează toate notificările, dar ascundeți conținutul</string>
+    <string name="channel_keyguard_show_content">Afișează toate notificările și conținutul acestora</string>
+    <string name="channel_keyguard_show_nothing">Nu afișa notificări</string>
     <string name="channel_name_aggregation">Notificări grupate</string>
     <string name="channel_name_notification">Notificări ale aplicațiilor</string>
     <string name="channel_name_recovered">Notificări restaurate</string>
@@ -120,6 +124,10 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_importance_default">Recomandate</string>
+    <string name="fold_importance_important">Importante</string>
+    <string name="fold_importance_unimportant">Neimportante</string>
+    <string name="fold_title">Reguli pentru gruparea notificărilor</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vin</string>
@@ -247,6 +255,9 @@
     <string name="notification_display_style">Stilul notificărilor</string>
     <string name="notification_fold_summary">Toate notificările neimportante vor apărea într-un dosar separat</string>
     <string name="notification_fold_title">Dosarul cu notificări</string>
+    <string name="notification_keyguard_hide_content">Afișează notificările dar ascunde conținutul</string>
+    <string name="notification_keyguard_show_content">Afișează notificările și conținutul</string>
+    <string name="notification_keyguard_show_nothing">Nu afișa notificări în Blocarea ecranului</string>
     <string name="notification_manager">Notificările aplicațiilor</string>
     <string name="notification_setting_menu_feedback_text">"Această notificare nu ar trebui să fie aici?
 Raportați această problemă &gt;"</string>
@@ -257,6 +268,7 @@ Raportați această problemă &gt;"</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="rule_keyguard_display">Format</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -290,6 +302,8 @@ Raportați această problemă &gt;"</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="status_bar_setting">Bara de stare</string>
+    <string name="summary_aggregate_default">Notificările push promoționale și cele legate de conținut vor fi grupate</string>
+    <string name="summary_aggregate_home">Notificările push nu vor fi grupate</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">"Nu se permit notificări plutitoare"</string>
     <string name="summary_disable_lockscreen_notification">"Nu se permit notificări în Blocarea ecranului"</string>
@@ -298,6 +312,9 @@ Raportați această problemă &gt;"</string>
     <string name="summary_enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
     <string name="summary_enable_show_badge_notification">Se permite afișarea insignelor notificărilor</string>
     <string name="summary_float_enable_notification_first">Permiteți notificărilor să activeze afișarea notificărilor plutitoare</string>
+    <string name="summary_fold_importance_default">MIUI va decide ce notificări ar trebui să apară în mod direct</string>
+    <string name="summary_fold_importance_important">Notificările vor apărea în Perdeaua de notificări</string>
+    <string name="summary_fold_importance_unimportant">Notificările vor apărea într-un dosar separat</string>
     <string name="summary_lock_screen_enable_notification_first">Permiteți notificărilor să activeze afișarea notificărilor în Blocarea ecranului</string>
     <string name="summary_show_badge_enable_notification_first">Permiteți notificărilor să activeze afișarea insignelor notificărilor</string>
     <string name="sunday">Duminică</string>
@@ -351,7 +368,8 @@ Raportați această problemă &gt;"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tip_feedback_thanks">Mulțumim pentru feedback!</string>
-    <string name="tip_select_category">Selectați categoria notificării</string>
+    <string name="title_aggregate_default">Grupează notificările</string>
+    <string name="title_aggregate_home">Nu grupa notificările</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="tuesday">Marți</string>

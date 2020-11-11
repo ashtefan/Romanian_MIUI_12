@@ -115,8 +115,8 @@
     <string name="button_exit">Nu sunt de acord</string>
     <string name="button_not_allow">Renunţaţi</string>
     <string name="button_settings_cancel">Renunțați</string>
-    <string name="button_settings_confirm">Revocați</string>
-    <string name="button_settings_confirm_to_revoke_msg">"Nu veți mai putea utiliza aplicația Meteo după ce veți revoca autorizarea."</string>
+    <string name="button_settings_confirm">Retrageți</string>
+    <string name="button_settings_confirm_to_revoke_msg">Prin dezactivarea comutatorului, vă retrageți consimțământul pentru politica de confidențialitate a vremii. Vom înceta să colectăm informațiile dvs. personale. Informațiile cu caracter personal deja colectate și păstrate vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Meteo trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. pentru politica sa de confidențialitate va fi considerată ca refuzând să accepte serviciile sale pe baza informațiilor personale colectate.</string>
     <string name="button_settings_confirm_to_revoke_title">Revocați autorizarea?</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
@@ -169,11 +169,13 @@
 Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
      <string name="data_provided_by">Date furnizate parțial de către</string>
     <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+    <string name="dialog_internet_error_title">A apărut o eroare</string>
     <string name="dialog_msg_score_midrop">Ce părere aveți despre aplicația Meteo?</string>
     <string name="dialog_msg_score_not_good">Ne puteți trimite și un feedback?</string>
     <string name="dialog_msg_score_perfect">Drăguț! Dați un calificativ aplicației Meteo în Magazinul de Aplicații?</string>
     <string name="dialog_title_score">Evaluați aplicația Meteo</string>
-    <string name="dislike_alert_dialog_title">De ce nu doriți să vedeți acest conținut?</string>
+    <string name="download_rsc_tips">Se încarcă sunetele de fundal…</string>
+    <string name="dynamic_weather">Meteo</string>
     <string name="edit_city">Gestionați locațiile</string>
     <string name="empty_view_net_loading">Se actualizează…</string>
     <string name="empty_view_net_unavailable">Nu s-a putut conecta la rețea</string>
@@ -299,8 +301,10 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="night_not_disturb_settings_summary">Blochează alertele între 23:00 și 07:00</string>
     <string name="night_not_disturb_settings_title">Nu deranja peste noapte</string>
     <string name="no_data">Nu există date</string>
+    <string name="no_internet_message">Dispozitivul dvs. trebuie să se conecteze la rețea pentru ca dvs. să puteți retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
+    <string name="non_wifi_environment">Conectați-vă la Wi-Fi pentru a descărca efectele audio</string>
     <string name="not_set">Nesetat</string>
     <string name="notif_aqi_title">ICA este %1$d în %2$s astăzi</string>
     <string name="notif_weather_title">%1$s în %2$s astăzi</string>
@@ -330,10 +334,11 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="pressure_connect">%1$s mb</string>
     <string name="pressure_content">%1$s%2$s</string>
     <string name="privacy_grant_failed">"Nu s-a putut acorda permisiunea. Așteptați un minut sau două și încercați din nou."</string>
-    <string name="privacy_grant_or_revoke_settings">Acordare și revocare autorizare</string>
+    <string name="privacy_grant_or_revoke_settings">Retragerea consimțământului</string>
     <string name="privacy_grant_success">Autorizare acordată cu succes</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
-    <string name="privacy_revoke_failed">"Nu s-a putut revoca autorizarea. Așteptați un minut sau două și încercați din nou."</string>
+    <string name="privacy_policy_msg"><Data>Această aplicație conține următoarele caracteristici:&lt;br/>• Informații meteo specifice locației dvs.&lt;br/>• Prognoza meteo&lt;br/>• Avertizări meteo&lt;br/>&lt;br/>Meteo trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>. Citiți și acceptați &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a> și &lt;a href=\"%3$s\">Politica noastră de confidențialitate&lt;/a> înainte de a utiliza aplicația Meteo. Puteți să vă retrageți consimțământul pentru politica de confidențialitate a vremii din Setări în orice moment.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Această aplicație conține următoarele caracteristici:&lt;br/>• Informații meteo specifice locației dvs.&lt;br/>• Prognoza meteo&lt;br/>• Avertizări meteo&lt;br/>&lt;br/>Meteo trebuie să colecteze informațiile personale necesare, inclusiv date despre locație, pentru a face disponibile aceste funcții, chiar și atunci când aplicația este închisă sau nu este utilizată. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>. Citiți și acceptați &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a> și &lt;a href=\"%3$s\">Politica noastră de confidențialitate&lt;/a> înainte de a utiliza aplicația Meteo. Puteți să vă retrageți consimțământul pentru politica de confidențialitate a vremii din Setări în orice moment.</Data></string>
     <string name="privacy_revoke_success">Autorizare revocată cu succes</string>
     <string name="privacy_settings">Politica de Confidențialitate</string>
     <string name="pull_fresh_updated">Actualizată cu succes</string>
@@ -363,6 +368,11 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="request_permission_read_phone_state_dialog_content">Pentru identificarea dispozitivului dvs.</string>
     <string name="request_permission_storage_dialog_content">Pentru partajarea datelor meteo în format imagine</string>
     <string name="retry">Încercați din nou</string>
+    <string name="revoke_fail">Nu se poate conecta la rețea</string>
+    <string name="revoke_privacy_policy_title">Retragerea consimțământului</string>
+    <string name="save_to_gallery_failure_message">Nu s-a putut salva în Galerie</string>
+    <string name="save_to_gallery_icon_name">Salvați în Galerie</string>
+    <string name="save_to_gallery_success_message">Salvată în Galerie cu succes</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_weather">Meteo</string>
     <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
@@ -460,13 +470,15 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="warning_weather_day_and_night_settings_summary">Primiți zilnic rapoarte conținând informații meteo la orele 07:00 și 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Rapoarte zilnice</string>
     <string name="weather_alert_channel_name">Alerte</string>
+    <string name="weather_aqi_full_air_quality_forcast">Prognoza completă a calității aerului</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
     <string name="weather_main_aqi_desc">Calitatea aerului</string>
     <string name="weather_main_minute_hour">Precipitații în %d ore</string>
     <string name="weather_main_speak_tips">Atingeți pentru a reda vocal starea vremii</string>
+    <string name="weather_more_air_quality">Mai multe despre calitatea aerului</string>
     <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>
-    <string name="widget_cta_not_agree">Atingeți pentru a obține informații despre starea vremii</string>
+    <string name="welcome_app_title">Bine ați venit în aplicația Meteo!</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>

@@ -98,6 +98,10 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="backup_theme_name">Tema mea</string>
     <string name="backup_theme_progress_message">Creare copie de rezervă…</string>
     <string name="backup_theme_success_message">Copia de rezervă a fost creată</string>
+    <string name="boot_audio_dialog_cancel">Renunțați</string>
+    <string name="boot_audio_dialog_confirm">OK</string>
+    <string name="boot_audio_dialog_content">Sunetul de pornire este dezactivat acum. Îl porniți din nou și aplicați acest sunet?</string>
+    <string name="boot_audio_dialog_title">Atenție</string>
     <string name="both_all_apply_failured">"Nu se poate aplica imaginea de fundal"</string>
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="browser_local_resource">Resurse locale</string>

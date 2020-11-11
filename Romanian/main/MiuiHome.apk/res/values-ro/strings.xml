@@ -494,6 +494,9 @@
     <string name="recents_exit_multi_window_mode">Ieșiți</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Nu se poate utiliza funcția Ecran scindat pe durata proiectării</string>
     <string name="recents_incompatible_app_message">Această aplicație nu suportă modul Ecran scindat</string>
+    <string name="recents_layout_style">Aranjează elementele din Recente</string>
+    <string name="recents_layout_style_horizontal">Orizontal</string>
+    <string name="recents_layout_style_vertical">Vertical</string>
     <string name="recents_smallwindow_text">Eliberați pentru a adăuga</string>
     <string name="recents_task_screening">Proiectare</string>
     <string name="recents_title_app_manager">Gestionați aplicațiile</string>

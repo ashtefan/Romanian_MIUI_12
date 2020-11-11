@@ -156,6 +156,10 @@
     <string name="dlg_title_set_password">Setați parola</string>
     <string name="dlg_title_use_privacy_password">Utilizați parola de protejare a confidențialității</string>
     <string name="dlg_unhide_message">Se afișează…</string>
+    <string name="dlg_update_cancel">Nu acum</string>
+    <string name="dlg_update_checkbox_title">Ignoră această versiune</string>
+    <string name="dlg_update_title">Este disponibilă o actualizare</string>
+    <string name="dlg_update_update_now">Actualizați</string>
     <string name="done">Finalizat</string>
     <string name="doodle_action_enter_immersion_mode">Treceți la modul imersiv</string>
     <string name="doodle_action_exit_immersion_mode">S-a dezactivat modul imersiv</string>
@@ -169,15 +173,17 @@
     <string name="doodle_brush_watercolor">Stilou acuarelă</string>
     <string name="doodle_feature">Mâzgălituri</string>
     <string name="doodle_palette">Paleta de culori</string>
-    <string name="doodle_save_progress_text">Se salvează…</string>
+    <string name="doodle_saving">Se salvează</string>
     <string name="doodle_setting_show_grid_background">Linii de grilă mâzgâlitură</string>
     <string name="doodle_setting_show_grid_background_desc">Afișează liniile de grilă pentru mâzgâlitură</string>
     <string name="doodle_text_click_input_text">Atingeți pentru a introduce textul</string>
+    <string name="doodle_tool_background">Modificați fundalul</string>
     <string name="doodle_tool_eraser">Radieră</string>
     <string name="doodle_tool_eraser_element_mode">Gumă de șters</string>
     <string name="doodle_tool_eraser_pixel_mode">Gumă de șters pixeli</string>
     <string name="doodle_tool_picture">Adăugați o imagine</string>
     <string name="doodle_tool_text">Adăugați text</string>
+    <string name="doodle_tool_text_dialog_hint">Vă rugăm să introduceți textul</string>
     <string name="doodle_tool_text_hint">Atingeți pentru a introduce textul</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_header_done_description">Finalizat</string>
@@ -383,11 +389,14 @@
     <string name="note_gesture_guide_step1">Apăsați și mențineți apăsat pentru a crea o notiță vocală</string>
     <string name="note_gesture_guide_step2">Apăsați și mențineți apăsată o notiță și apoi trageți-o peste o altă notiță pentru a crea un dosar</string>
     <string name="note_gesture_guide_step3">Apăsați și mențineți apăsată o notiță și apoi trageți-o peste un dosar pentru a muta notița aici</string>
+    <string name="note_invalid_mindnote_hint">Hărțile mentale nu sunt disponibile în această versiune. Actualizați aplicația pentru a utiliza această caracteristică.</string>
     <string name="note_link_email">Trimiteţi e-mail</string>
     <string name="note_link_other">Deschideţi utilizând aplicația de localizare</string>
     <string name="note_link_select">Selectaţi text</string>
     <string name="note_link_tel">Apelaţi</string>
     <string name="note_link_web">Deschideți în browser</string>
+    <string name="note_mindnote_entrance_hint">"Începeți să tastați "</string>
+    <string name="note_mindnote_entrance_icon_text">Creați o hartă mentală</string>
     <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
@@ -688,6 +697,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="tomorrow">Mâine</string>
     <string name="toolbar_check_description">Adăugați o căsuță de verificare</string>
     <string name="toolbar_delete_description">Ștergeți această notiță</string>
+    <string name="toolbar_done_description">Finalizat</string>
     <string name="toolbar_gallery_description">Adăugați o imagine</string>
     <string name="toolbar_more_description">Mai multe</string>
     <string name="toolbar_redo_description">Refă</string>
@@ -716,5 +726,8 @@ Permiteți aplicației Note să înregistreze sunete."</string>
   - Setare memento-uri"</string>
     <string name="widget_content_loading">Doar o secundă…</string>
     <string name="widget_havenot_content">Atingeţi pentru a crea o notă. Redimensionaţi prin apăsare și tragere spre una din margini.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yesterday">Ieri</string>
 </resources>

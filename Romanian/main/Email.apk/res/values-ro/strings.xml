@@ -300,6 +300,8 @@ Actualizaţi acum?"</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Compuneţi un e-mail</string>
     <string name="body_inline_pic_text">[Imagine]</string>
+    <string name="bottom_bar_more_pdf">Exportă în .pdf</string>
+    <string name="bottom_bar_more_pdf_exporting">Se exportă…</string>
     <string name="bottom_bar_more_quickreply">Răspuns rapid</string>
     <string name="bottom_bar_more_share">Partajaţi</string>
     <string name="bottom_bar_no_quickreply_toast">Niciun răspuns rapid</string>
@@ -385,6 +387,7 @@ Actualizaţi acum?"</string>
     <string name="contact_list_title">Contacte</string>
     <string name="contact_permission_error">"Accesul la agenda telefonului este restricționat"</string>
     <string name="contact_select">Selectaţi contacte</string>
+    <string name="contain_view_all_body">Vedeți textul complet al mesajului</string>
     <string name="content_description">%1$s despre %2$s, %3$s pe data de %4$s, %5$s</string>
     <string name="content_description_today">%1$s despre %2$s, %3$s la ora %4$s, %5$s</string>
     <string name="contextmenu_add">Adăugaţi la Contacte</string>
@@ -425,6 +428,7 @@ Actualizaţi acum?"</string>
     <string name="conversation_view">Vizualizare conversație</string>
     <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
     <string name="copied">Copiat</string>
+    <string name="copy">Copiați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="create_action">Creaţi</string>
@@ -497,6 +501,10 @@ Actualizaţi acum?"</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
+    <string name="drive_card_button_tips">Copiați codul extras și obțineți conținutul partajat</string>
+    <string name="drive_card_code">cod de extragere</string>
+    <string name="drive_card_tips">S-a găsit linkul de partajare de la %s</string>
+    <string name="drive_card_title">Linkul discului</string>
     <string name="dtend">Se încheie</string>
     <string name="dtstart">Începe</string>
     <string name="due">Scadență</string>
@@ -527,6 +535,7 @@ Actualizaţi acum?"</string>
     <string name="exception_updated">Detaliile cu privire la acest eveniment au fost modificate pentru: %s</string>
     <string name="exchange_name">Corporaţie</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="expand_recipient_details">Extindeți detaliile destinatarului</string>
     <string name="expand_slide">Afișează meniul lateral</string>
     <string name="fail_get_email_message">Nu s-a putut obține mesajul.</string>
@@ -679,6 +688,13 @@ Actualizaţi acum?"</string>
     <string name="interact_with_server_error">"Nu s-a putut conecta la server"</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
+    <string name="invoice_card_amount">suma</string>
+    <string name="invoice_card_buyer">cumpărător</string>
+    <string name="invoice_card_date">data</string>
+    <string name="invoice_card_open">deschideți factura</string>
+    <string name="invoice_card_save">salvați factura</string>
+    <string name="invoice_card_seller">vânzător</string>
+    <string name="invoice_card_title">e-factură</string>
     <string name="kilobytes">%s KB</string>
     <string name="list_empty_to_fresh">Niciun e-mail deocamdată.</string>
     <string name="load_from_remote">Căutaţi pe server</string>
@@ -706,6 +722,8 @@ Actualizaţi acum?"</string>
     <string name="login_des_yahoo">Conectați-vă la Yahoo Mail</string>
     <string name="login_des_yangdex">Conectați-vă la Yandex Mail</string>
     <string name="login_err_message">Folosiți coduri autorizate pentru a vă conecta la %1$s dacă ați selectat această opțiune anterior. Accesați https://email.163.com/ pentru a vă reseta parola sau codul de autorizare.</string>
+    <string name="login_err_outlook_msg">"%s
+Vă rugăm să confirmați dacă parola aplicației este activată, dacă este activată, accesați site-ul web Microsoft pentru a reseta parola aplicației"</string>
     <string name="login_err_sina_message">Folosiți coduri autorizate pentru a vă conecta la %1$s dacă ați selectat această opțiune anterior. Accesați https://mail.sina.com.cn/ pentru a vă reseta parola sau codul de autorizare.</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_tip">"Contactați-ne prin WeChat pentru a primi ajutor: "</string>
@@ -727,7 +745,8 @@ Actualizaţi acum?"</string>
     <string name="mail_login_help_details2">2. Codurile de autorizare terțe pot fi utilizate pentru conectarea în clienți de e-mail terți atunci când sunt activate serviciile POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Parola contului de e-mail/client terț de e-mail:</string>
     <string name="mail_outlook_login_tips">Veți fi redirecționat către portalul Microsoft pentru a introduce parola</string>
-    <string name="mail_outlook_oauth_login">Conectare prin OAuth</string>
+    <string name="mail_outlook_oauth_login">"Conectați-vă prin OAuth
+(Utilizatorii Outlook personal nu își pot sincroniza calendarele atunci când se conectează cu OAuth)"</string>
     <string name="mail_outlook_psw_login">Conectare utilizând parola</string>
     <string name="mailbox_list_account_selector_combined_view">Cont combinat</string>
     <string name="mailbox_name_display_ad">Reclame</string>
@@ -828,6 +847,7 @@ Actualizaţi acum?"</string>
     <string name="menu_search">Căutaţi</string>
     <string name="menu_settings">Setări</string>
     <string name="merged_mailbox_compose_select_account">Selectaţi contul</string>
+    <string name="message_all_body">Text Complet</string>
     <string name="message_body_load_set_description">Încărcați mesajele când se utilizează datele mobile</string>
     <string name="message_compose_insert_quick_response_list_title">Introduceţi un răspuns rapid</string>
     <string name="message_count_spacer">  </string>
@@ -891,6 +911,7 @@ Actualizaţi acum?"</string>
     <string name="no_recognize_describe">"Nu s-a găsit niciun e-mail care să conțină bilete sau rezervări.
 Încercați cu altă căsuță de e-mail."</string>
     <string name="no_search_results">Căutați pe server</string>
+    <string name="not_set">Nesetat</string>
     <string name="not_subject">(Niciun subiect)</string>
     <string name="not_synced_title">Cont nesincronizat</string>
     <string name="note_text">Printr-o rețea China Mobile și verificare prin SMS; va genera doar trafic suplimentar, fără taxe pentru SMS-uri.</string>
@@ -999,6 +1020,9 @@ Actualizaţi acum?"</string>
     <string name="pdf_has_signature_prompt_cancel">Deschideți fișierul original</string>
     <string name="pdf_has_signature_prompt_confirm">Deschideți copia</string>
     <string name="pdf_has_signature_prompt_message">A fost detectată o copie semnată a acestui atașament. O deschideți sau nu?</string>
+    <string name="pdf_save_error">Corpul este prea mare, nu poate fi exportat ca fișier .pdf</string>
+    <string name="pdf_save_no_body">Așteptați încărcarea completă a textului și încercați din nou</string>
+    <string name="pdf_save_to">Salvat în</string>
     <string name="pdf_signature_create_title">Creați o semnătură</string>
     <string name="pdf_signature_manager_max_count">A fost atins numărul maxim de semnături; vă rugăm să ștergeți semnătura existentă și să încercați din nou</string>
     <string name="pdf_signature_manager_title">Gestionare semnături</string>
@@ -1066,6 +1090,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="policy_screen_timeout">Necesită dispozitiv inactiv pentru a bloca ecranul</string>
     <string name="policy_text_truncation">Se restricţionează dimensiunea textului e-mailului</string>
     <string name="pop3_name">POP3</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_eas_tips">Apăsați "Activați" pentru a configura serverul de e-mail.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">În POP3, ataşamentele vor fi descărcate odată cu e-mailul. Acest lucru poate crește utilizarea datelor mobile.</string>
@@ -1345,6 +1370,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="subject_hint">Subiect</string>
     <string name="successfully_obtained_authorization_code">Codul de verificare</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_calendra_fail_per_content">Atingeți pentru a permite</string>
     <string name="sync_calendra_fail_per_title">Nu s-au putut sincroniza evenimentele din calendar</string>
     <string name="sync_calendra_fail_permission">Nu s-au putut sincroniza evenimentele din calendar. Permiteți mai întâi aplicației de E-mail să vă acceseze calendarul.</string>
@@ -1400,6 +1426,11 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="toolbar_part_symbol">Simbol paragraf</string>
     <string name="topic_merge">Setări afișare</string>
     <string name="topic_merge_summary">Grupare după subiect</string>
+    <string name="train_card_title">Bilet de tren achiziționat cu succes</string>
+    <string name="train_card_title_alternate">Așteptare bilet de tren cu succes</string>
+    <string name="train_card_title_change">Bilet de tren schimbat cu succes</string>
+    <string name="train_card_title_change_arrival">Bilet de tren schimbat cu succes</string>
+    <string name="train_card_title_refund">Bilet de tren rambursat cu succes</string>
     <string name="translation_loading">Doar o secundă…</string>
     <string name="translation_no_result">Niciun rezultat</string>
     <string name="translation_pronunciation_am">AmE</string>
@@ -1447,6 +1478,8 @@ Eliminați contul?"</string>
     <string name="user_privacy_settings_path">Pentru a revoca autorizarea, mergeți la Setări>Setări de confidențialitate.</string>
     <string name="user_privacy_settings_summary">Vom colecta ID-ul Android în formă criptată și-l vom utiliza ca identificator unic în aplicația E-mail. Este posibil de asemenea să colectăm și jurnalele de utilizare. Puteți revoca autorizarea oricând prin intermediul setărilor de confidențialitate.</string>
     <string name="user_privacy_settings_title">Declarație de Confidențialitate a aplicației E-mail</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="validation_failed_prompt">Nu se poate verifica contul. Verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
@@ -1473,6 +1506,9 @@ Atingeţi "<b>Sincronizaţi acum</b> pentru a sincroniza e-mailurile, sau <b>Mod
     <string name="wipe_account_fail_description">Permiteți</string>
     <string name="wipe_account_fail_description_remind">Datorită restricțiilor de utilizare a datelor, pot rămâne date reziduale în Contacte și Calendar după ștergerea contului. Vă rugăm să ștergeți manual aceste date.</string>
     <string name="wipe_account_fail_title">"Nu s-au putut șterge informațiile personale"</string>
+    <string name="wps_card_button_tips">Deschideți Kingsoft Document</string>
+    <string name="wps_card_tips">S-a găsit linkul de partajare de la \"%s\"</string>
+    <string name="wps_card_title">Kingsoft Document</string>
     <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="xiaomi_auth_toastbar">Conectați-vă pentru a vă autoriza dispozitivul</string>

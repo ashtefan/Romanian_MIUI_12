@@ -67,7 +67,7 @@
     <string name="app_clean_group_image_send">Imagini trimise</string>
     <string name="app_description_content">Aplicația Curățare găsește fișiere inutile din telefon și eliberează spațiul de stocare. Asigurați-vă că nu aveți nevoie de aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Curățare</string>
-    <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+    <string name="app_name">Preference</string>
     <string name="app_usage_never">Neutilizată recent</string>
     <string name="app_usage_recently">Utilizată recent</string>
     <string name="appcleaner_g_audio_summary_qq">Ștergeți definitiv mesajele vocale QQ</string>
@@ -693,6 +693,7 @@
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
     <string name="scanning">Scanare…</string>
+    <string name="search_history">Căutați în istoric</string>
     <string name="search_menu_title">Căutați</string>
     <string name="security_center_slogan">Securitate. Întotdeauna de pază.</string>
     <string name="see_more">Mai multe</string>

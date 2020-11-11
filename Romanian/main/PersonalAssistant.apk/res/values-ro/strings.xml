@@ -553,6 +553,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="card_expand_note_dialog_title">Salvare notițe</string>
     <string name="card_expand_note_sure_clear_all">Goliți acum</string>
     <string name="card_expand_note_toast_clear_null">Golit cu succes</string>
+    <string name="card_expand_note_toast_install">Instalați aplicația Note pentru a putea utiliza această caracteristică</string>
     <string name="card_expand_note_toast_save_done">Salvat în Notițe</string>
     <string name="card_expand_note_toast_save_dup">Salvat cu succes</string>
     <string name="card_expand_note_toast_share_null">Această notiță este goală</string>

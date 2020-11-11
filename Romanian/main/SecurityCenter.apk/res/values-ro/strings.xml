@@ -2077,6 +2077,9 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="network_connected_exception_title">Testare reţea</string>
     <string name="network_control">Setările aplicaţiei</string>
     <string name="network_diagnostics">Testare reţea</string>
+    <string name="network_disable_dialog_btn_text">Am înțeles</string>
+    <string name="network_disable_dialog_content">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a vă putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_disable_dialog_title">Nu se poate conecta la rețea</string>
     <string name="network_mobile_exception_detail">"Dispozitivul dvs. nu se poate conecta la internet:
 
 1. Asigurați-vă că nu ați depășit limita de date mobile.
@@ -2763,6 +2766,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_dialog_call_title">Protejare apeluri</string>
     <string name="privacy_dialog_camera_message">Pentru a vă proteja confidențialitatea, MIUI nu permite aplicațiilor să utilizeze camera în fundal.</string>
     <string name="privacy_dialog_camera_title">Restricționare utilizare cameră în fundal</string>
+    <string name="privacy_dialog_content_part1">Bine ați venit în aplicația Securitate! Această aplicație vă verifică dispozitivul pentru coșul de gunoi și viruși, precum și vă permite să gestionați aplicații, să controlați utilizarea datelor mobile, să blocați apelurile și mesajele și multe altele.</string>
+    <string name="privacy_dialog_content_part2"><Data>Aplicația Securitate trebuie să colecteze informațiile personale necesare pentru a vă oferi serviciile sale și pentru a putea îmbunătăți caracteristicile. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica noastră de Confidențialitate&lt;/a>. Puteți să vă retrageți consimțământul pentru Politica de confidențialitate a aplicației Securitate din Setări în orice moment.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Citiți și acceptați &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza aplicația Securitate. Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android are multiple permisiuni cu risc crescut (de ex. permisiunea de a trimite notificări push). Pentru a vă proteja confidențialitatea, MIUI vă va întreba dacă permiteți un astfel de comportament și vă va furniza opțiuni de restricționare.</string>
     <string name="privacy_dialog_danger_mission_title">Permisiuni cu risc crescut</string>
     <string name="privacy_dialog_feedback">Feedback</string>
@@ -2770,6 +2776,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_dialog_ok">Am înțeles</string>
     <string name="privacy_dialog_ok_with_num">Am înțeles (%ss)</string>
     <string name="privacy_dialog_open">Activați</string>
+    <string name="privacy_dialog_revoking">Retragerea consimțământului…</string>
+    <string name="privacy_dialog_title">Termeni și condiții</string>
     <string name="privacy_empty_call">Nu s-a accesat istoricul de apelare azi</string>
     <string name="privacy_empty_contact">Nu s-au accesat contactele azi</string>
     <string name="privacy_empty_location">Nu s-a accesat locația azi</string>
