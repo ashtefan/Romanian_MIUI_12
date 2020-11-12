@@ -554,6 +554,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="prompt_before_transmission_message4_title">Rămâneți conectat pe tot parcursul transferului</string>
     <string name="prompt_before_transmission_message5_summary">Transferul unor cantități mari de date prin wireless poate duce la o ușoară supraîncălzire, lucru care nu este anormal. Dispozitivul se va răci curând după ce transferul se va finaliza.</string>
     <string name="prompt_before_transmission_message5_title">Este posibil ca telefonul să se încălzească pe durata transferurilor.</string>
+    <string name="provision_receiver_finish_button">Următorul</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Nu s-a putut primi QQ</string>
     <string name="qq_app_send_fail">Nu s-a putut trimite QQ</string>

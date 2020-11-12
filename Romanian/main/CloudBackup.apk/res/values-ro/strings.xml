@@ -108,7 +108,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
 * Setările MIUI și ale sistemului 
 Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</string>
     <string name="cloud_back_up_frequence_choice_title">Program creare copie de rezervă</string>
-    <string name="cloud_back_up_frequence_long">La fiecare 7 zile</string>
+    <string name="cloud_back_up_frequence_long">La fiecare %d zile</string>
     <string name="cloud_back_up_frequence_short">În fiecare zi</string>
     <string name="cloud_back_up_no_network_warn">"Nu se poate conecta la Wi-Fi"</string>
     <string name="cloud_back_up_ok_btn">OK</string>
@@ -116,10 +116,12 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="cloud_back_up_subscribe_vip_confirm">Actualizați</string>
     <string name="cloud_back_up_subscribe_vip_discription">Obțineți mai mult spațiu de stocare, copii de rezervă zilnice și multe alte beneficii.</string>
     <string name="cloud_back_up_subscribe_vip_title">Actualizați contul Mi</string>
-    <string name="cloud_back_up_task">Rezervare…</string>
+    <string name="cloud_back_up_task">Se face o copie de rezervă…</string>
     <string name="cloud_backup">Copii de rezervă în cloud</string>
     <string name="cloud_backup_derail_size_summary">Dimensiune: %s</string>
     <string name="cloud_backup_detail_frequence">Program creare copie de rezervă</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Fă o copie de rezervă la fiecare %d zile</string>
+    <string name="cloud_backup_detail_frequence_every_day">Fă o copie de rezervă în fiecare zi</string>
     <string name="cloud_backup_detail_manage">Administrare copii de rezervă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automate</string>
     <string name="cloud_backup_detail_state_summary">Creați copii de rezervă în Xiaomi Cloud în mod automat atunci când sunteți conectat la Wi-Fi.</string>
