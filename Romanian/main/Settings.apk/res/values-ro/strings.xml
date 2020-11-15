@@ -3554,7 +3554,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="legal_written_offer">Ofertă Scrisă</string>
     <string name="license_title">Licenţă</string>
     <string name="lift_to_wake_title">Glisați în sus pentru a trezi</string>
-    <string name="light_color_mode">Modul Ușor</string>
+    <string name="light_color_mode">Mod Luminos</string>
     <string name="lights_title">Lumină LED</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
@@ -7418,7 +7418,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="usb_use_MIDI">Folosiți dispozitivul ca MIDI</string>
     <string name="usb_use_MIDI_desc">Utilizați acest dispozitiv ca MIDI</string>
     <string name="usb_use_MIDI_miui12_5">MIDI</string>
-    <string name="usb_use_charging_only">Fără transfer de fișiere</string>
+    <string name="usb_use_charging_only">Doar încărcare</string>
     <string name="usb_use_charging_only_desc">Doar încarcă acest dispozitiv</string>
     <string name="usb_use_file_transfers">Transferați fișiere</string>
     <string name="usb_use_file_transfers_desc">Transferați fișiere pe alt dispozitiv</string>

@@ -75,6 +75,15 @@ pentru a adăuga carduri"</string>
     <string name="audio_record_perm_description">Înregistrarea sforăitului și a viselor pe durata somnului</string>
     <string name="audio_record_permission_description">Pentru înregistrarea vorbelor și a sforăitului pe durata analizării ciclului de somn</string>
     <string name="auth_description">Permiteți %1$s să sincronizeze date de la următoarele dispozitive</string>
+    <string name="auth_dialog_description">"Activați recomandările?
+
+Pentru a vă oferi recomandări, vom partaja datele despre sănătate cu un furnizor de servicii terță parte. Elementele pe care le vom partaja includ informații personale (vârstă, sex), statistici de sănătate (înălțime, greutate, rutină de antrenament), date de comportament (ora de început și de sfârșit, precum și durata antrenamentelor).
+
+Vom procesa aceste elemente înainte de a le partaja pentru a împiedica furnizorii de servicii terți să vă identifice personal pe baza datelor pe care le primesc.
+
+Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza în continuare antrenamentele obișnuite."</string>
+    <string name="auth_dialog_link">Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a>&lt;/font>.</string>
+    <string name="auth_dialog_title">Cursuri recomandate</string>
     <string name="auto_start_fail">Nu s-a putut acorda permisiunea</string>
     <string name="auto_start_success">Permisiune acordată cu succes</string>
     <string name="auto_start_tips">Apăsați butonul \"Setări\" de mai jos pentru a deschide setările aplicației Sănătate Xiaomi și pentru a acorda permisiunile solicitate.</string>
@@ -624,12 +633,11 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_disturb_detect">Detectarea a fost întreruptă</string>
     <string name="hr_finger_permission_desc">Pentru a vă măsura ritmul cardiac, această caracteristică trebuie să acceseze scanerul de amprente pentru a putea detecta modificările fluxului sanguin. Permiteți?</string>
     <string name="hr_fp_area">Scanerul de amprentă</string>
-    <string name="hr_fp_detect_desc">Sângele curge spre degetele tale cu fiecare bătaie a inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.</string>
-    <string name="hr_fp_detect_principle_desc">"Sângele nu este complet opac; prin urmare, lumina poate trece prin el. Cu fiecare bătaie de inimă, sângele curge spre degete, blocând mai multă lumină decât între bătăile inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.
-
-Testele noastre arată că această metodă măsoară ritmul cardiac cu o eroare de numai ≤3 BPM."</string>
-    <string name="hr_fp_detect_principle_desc_2">"Notă: Asigurați-vă că degetul acoperă complet pictograma amprentei în timpul măsurării. Nu aplicați forță, deoarece ar putea bloca fluxul de sânge în vârful degetelor și face rezultatele inexacte. Această măsurare este furnizată numai pentru referință. Nu poate înlocui testele medicale."</string>
-    <string name="hr_fp_detect_start_desc">"Apăsați ușor pictograma de amprentă.
+    <string name="hr_fp_detect_desc">Sângele curge spre degetele dvs. cu fiecare bătaie a inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.</string>
+    <string name="hr_fp_detect_principle_desc">Sângele nu este complet opac; prin urmare, lumina poate trece prin el. Cu fiecare bătaie de inimă, sângele curge spre degete, blocând mai multă lumină decât între bătăile inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.</string>
+    <string name="hr_fp_detect_principle_desc_2">"Notă: Asigurați-vă că degetul acoperă complet pictograma amprentei în timpul măsurării. Nu apăsați foarte tare, deoarece se poate bloca fluxul de sânge din vârful degetelor și poate duce la rezultate inexacte. Această măsurare este furnizată numai pentru referință. Nu poate înlocui testele medicale."</string>
+    <string name="hr_fp_detect_principle_desc_3">Testele noastre arată că această metodă măsoară ritmul cardiac cu o eroare de numai ≤3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">"Apăsați ușor pictograma amprentei.
 Nu mișcați degetul."</string>
     <string name="hr_fp_detecting">Se măsoară…</string>
     <string name="hr_fp_not_put_well">"Degetul s-a mișcat.
@@ -720,6 +728,7 @@ Reluați măsurarea."</string>
     <string name="light_sleep_time_increase_description">Somnul ușor este prea lung</string>
     <string name="light_sleep_time_normal_description">Aveți un somn ușor suficient</string>
     <string name="load_failed">Nu s-au putut încărca elementele. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="location_permission_dialog_content">Permiteți aplicației Sănătate Xiaomi să vă acceseze locația din \"Sănătate Xiaomi\" > \"Gestionați permisiunile\" pentru a vă putea monitoriza exercițiile din exterior.</string>
     <string name="location_permission_dialog_negative">Nu acum</string>
     <string name="location_permission_dialog_positive">Permiteți</string>
@@ -822,10 +831,20 @@ Reluați măsurarea."</string>
     <string name="min_pace">Cel mai mic ritm</string>
     <string name="minimum">Minim</string>
     <string name="minute">m</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
+    <string name="miuix_appcompat_confirm_description">Confirm</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -902,6 +921,7 @@ Reluați măsurarea."</string>
     <string name="need_unrestricted_permission">Pentru a obține statistici mai precise, permiteți Sănătate Xiaomi să ruleze în permanență în fundal.</string>
     <string name="network_connect_failure">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="network_not_available">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_not_available2">Nu s-a putut conecta la rețea</string>
     <string name="next_step">Următorul</string>
     <string name="night">Seara</string>
     <string name="no_available_data_source">Nicio sursă de date disponibilă</string>
@@ -963,6 +983,8 @@ Reluați măsurarea."</string>
     <string name="permission_check_result_failed">Nu s-a putut seta</string>
     <string name="permission_manage">Gestionați permisiunile</string>
     <string name="permission_tip">Acordați Sănătate Xiaomi următoarele permisiuni pentru a-i permite să vă monitorizeze somnul mai precis</string>
+    <string name="personal_course_recommend_subtitle">Obțineți acces la cursurile recomandate pe baza informațiilor dvs. personale, a statisticilor de sănătate și a preferințelor</string>
+    <string name="personal_course_recommend_title">Cursuri recomandate</string>
     <string name="phone_detection">Detecție telefon</string>
     <string name="photograph">Camera foto</string>
     <string name="picker_day">Ziua selectată: %1$d. Glisați vertical pentru a selecta.</string>
@@ -993,6 +1015,7 @@ Reluați măsurarea."</string>
     <string name="preference_update_find_new_version">Căutați actualizări</string>
     <string name="preference_update_find_newer_version">Este disponibilă o actualizare: %1$s</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_setting">Confidențialitate</string>
     <string name="prompt_more_than_3h">Mai mult de 3 ore</string>
     <string name="prompt_sleep_time_night">Somn de noapte</string>
     <string name="prompt_sleep_time_noon">Somn de zi</string>
@@ -1024,7 +1047,7 @@ Reluați măsurarea."</string>
     <string name="reference">Materiale de referință</string>
     <string name="relationship_with_contact">Relație</string>
     <string name="rem_Duration_increase_description">Somnul dvs. REM este prea lung</string>
-    <string name="rem_duration">Durata somnului REM</string>
+    <string name="rem_duration">REM</string>
     <string name="rem_duration_decrease_description">Somnul dvs. REM este prea scurt</string>
     <string name="rem_duration_description" formatted="false">REM se referă la mișcarea rapidă a ochilor. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul cu mișcare rapidă a ochilor durează circa 20-25% din durata totală a somnului. Când persoanele se trezesc în această stare, 74-95% din ei spun că au visat și că își pot aminti visele. Creierul este foarte activ iar corpul este complet relaxat pe durata somnului REM, ceea ce face această fază esențială pentru menținerea funcțiilor cognitive.</string>
     <string name="rem_duration_normal_description">Durata somnului REM este normală</string>
@@ -1106,10 +1129,13 @@ Reluați măsurarea."</string>
     <string name="sleep_chart_empty">Nu există date</string>
     <string name="sleep_chart_loading">Doar o secundă…</string>
     <string name="sleep_day">Zi</string>
+    <string name="sleep_day_multi_short_title">Pui de somn %1$d</string>
+    <string name="sleep_day_single_short_title">Pui de somn</string>
+    <string name="sleep_day_title">Somn de zi</string>
     <string name="sleep_deep">Somn profund</string>
     <string name="sleep_deep_light_analysis">Somn ușor și somn profund</string>
     <string name="sleep_deep_light_close_tip">Analiza somnului profund este oprită</string>
-    <string name="sleep_deep_light_no_data">Nu există date aici încă</string>
+    <string name="sleep_deep_light_no_data">Așezarea telefonului mobil lângă pernă va face datele despre somn mai precise</string>
     <string name="sleep_deep_light_no_data_improvement">Nu s-au putut identifica fazele somnului. Îmbunătățim algoritmul. Fiți pe fază!</string>
     <string name="sleep_detection_enable">Analizați ciclul somnului</string>
     <string name="sleep_detection_feedback">Feedback</string>
@@ -1144,7 +1170,7 @@ Dacă aceste probleme apar frecvent, verificați dispozitivul pentru sarcinile d
     <string name="sleep_detector_title">Monitorizare somn</string>
     <string name="sleep_detector_unopened">Nu ați început să vă monitorizați somnul încă.</string>
     <string name="sleep_duration">Durata somnului</string>
-    <string name="sleep_duration_description">Durata somnului este durata între ora la care mergeți la culcare și ora la care vă treziți. Perioadele când vă treziți și când mergeți din nou la somn seara sunt scăzute.</string>
+    <string name="sleep_duration_description">Durata somnului este durata între ora la care mergeți la culcare și ora la care vă treziți. În general, adulții ar trebui să doarmă 7-9 ore, în timp ce adolescenții trebuie să doarmă mai mult decât adulții. Somnul suficient este esențial pentru o bună sănătate și stare generală bună.</string>
     <string name="sleep_duration_enough_description">Ați dormit destul.</string>
     <string name="sleep_duration_everyday">Durata zilnică a somnului</string>
     <string name="sleep_duration_fewer_description">Ați dormit timp de mai puțin de 7 ore. Este benefic să dormiți mai mult.</string>
@@ -1168,6 +1194,7 @@ Dacă aceste probleme apar frecvent, verificați dispozitivul pentru sarcinile d
     <string name="sleep_need_auto_start">Permiteți Sănătate Xiaomi să pornească în mod automat pentru a face o analiză mai precisă a somnului</string>
     <string name="sleep_need_background_run">Selectați \"Nicio restricție\" pentru a face o analiză mai precisă a somnului</string>
     <string name="sleep_need_necessary_permissions">Acordați permisiunile solicitate pentru a face o analiză mai precisă a somnului</string>
+    <string name="sleep_night_title">Somn nocturn</string>
     <string name="sleep_no_data_info">"Treceți printr-un ciclu complet
 de somn"</string>
     <string name="sleep_no_deep_light_data_tip">De ce nu se înregistrează somnul ușor și cel profund?</string>
@@ -1199,6 +1226,8 @@ despre somn"</string>
     <string name="sleep_snore_detection_desc">Monitorizați sforăitul și vorbirea în timpul somnului pentru a afla mai multe detalii despre somnul dvs</string>
     <string name="sleep_sober">Treaz</string>
     <string name="sleep_sober_times_title">Trezit</string>
+    <string name="sleep_state_this_month">Somnul din luna aceasta</string>
+    <string name="sleep_state_this_week">Somnul din săptămâna aceasta</string>
     <string name="sleep_status">Stare somn</string>
     <string name="sleep_time_edit">Editați</string>
     <string name="sleep_time_standard_pattern">Standard: %1$dh</string>
@@ -1295,7 +1324,7 @@ despre somn"</string>
     <string name="sport_pref_voice_assist_summary">Ascultați informații și sugestii în timpul antrenamentelor</string>
     <string name="sport_pref_voice_assist_title">Instrucțiuni vocale</string>
     <string name="sport_settings_title">Exerciții</string>
-    <string name="sport_share_fail">Nu s-a putut partaja. Încercați din nou</string>
+    <string name="sport_share_fail">Nu s-a putut partaja. Încercați din nou.</string>
     <string name="sport_share_save_local">Salvat cu succes</string>
     <string name="sport_share_save_local_fail">Nu s-a putut salva. Încercați din nou.</string>
     <string name="sport_share_save_local_success">Salvat cu succes</string>
@@ -1466,7 +1495,7 @@ despre somn"</string>
     <string name="tb_home_exercise_card_speed_of_progress">Exerciții. %1$s. Finalizat: %2$s. Ținta: %3$s. Progres: %4$s.</string>
     <string name="tb_home_heart_rate_card">Ritm cardiac. %1$d bătăi pe minut. Înregistrat la %2$s.</string>
     <string name="tb_home_heart_rate_card_no_data">Ritm cardiac. Nu există date.</string>
-    <string name="tb_home_sleep_card">Somn. %1$s astăzi. Ați mers la somn la %2$s. V-ați trezit la %3$s. %4$s.</string>
+    <string name="tb_home_sleep_card">Somnul de astăzi: %1$s, %2$s</string>
     <string name="tb_home_sleep_card_no_data">Somn. Nu există date astăzi.</string>
     <string name="tb_home_sleep_card_not_open_trace">Somn. Analiza ciclului de somn este dezactivată.</string>
     <string name="tb_home_tip_open_data_sync">Sincronizați elementele din aplicația Sănătate Xiaomi în Xiaomi Cloud pentru a le accesa de pe alte dispozitive. Atingeți de două ori pentru a începe.</string>

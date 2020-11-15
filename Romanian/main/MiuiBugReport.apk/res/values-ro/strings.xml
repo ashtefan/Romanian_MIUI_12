@@ -596,7 +596,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="passport_account_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
     <string name="passport_account_identity_title">Verificați-vă identitatea</string>
     <string name="passport_account_label">Contul Mi</string>
-    <string name="passport_account_name">Cont: %1$s</string>
+    <string name="passport_account_name">"Contul: %1$s "</string>
     <string name="passport_account_not_activated">"Contul nu a fost activat"</string>
     <string name="passport_account_not_actived">"Contul dumneavoastră nu a fost activat"</string>
     <string name="passport_activate_token_expired">Codul de verificare a expirat. Încercați din nou.</string>
@@ -745,8 +745,8 @@ Pentru a vă activa contul, accesați
     <string name="passport_unknow_error">A apărut o eroare necunoscută</string>
     <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_unknow_network_error">A apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Am citit și accept &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica Xiaomi de Confidențialitate&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Am citit și accept următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica Xiaomi de Confidențialitate&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Am citit și accept &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica Xiaomi de Confidențialitate&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Am citit și accept următoarele documente: &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%4$s\">Politica Xiaomi de Confidențialitate&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_v_code_error">Codul de verificare este incorect</string>
     <string name="passport_vcode_notification_title">Verificarea conectării nu este finalizată</string>

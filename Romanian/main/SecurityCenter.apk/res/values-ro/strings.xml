@@ -2892,8 +2892,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="read_all_sms">Citiți-le pe toate</string>
     <string name="read_and_write_clipboard">Accesarea și salvarea elementelor din clipboard</string>
     <string name="read_clipboard_ai_close_no">Nu acum</string>
-    <string name="read_clipboard_ai_close_tip">Nu veți mai primi notificări când aplicațiile accesează clipboard. În schimb, li se va permite să folosească această permisiune numai în timp ce utilizați aplicația. Ajustați permisiunile?</string>
-    <string name="read_clipboard_ai_close_yes">Ajustează</string>
+    <string name="read_clipboard_ai_close_tip">Nu veți mai primi notificări când aplicațiile accesează clipboard-ul. În schimb, li se va permite să folosească această permisiune numai în timp ce utilizați aplicația. Modificați permisiunile?</string>
+    <string name="read_clipboard_ai_close_yes">Modifică</string>
     <string name="read_clipboard_op_content">În loc să acordați permisiunea numai atunci când utilizați aplicația, veți primi o notificare de fiecare dată când aplicațiile vă accesează clipboardul.</string>
     <string name="read_clipboard_op_title">Notifică atunci când aplicațiile accesează elementele din clipboard</string>
     <string name="read_clipboard_tip_content">Această permisiune permite aplicațiilor să citească orice conținut pe care îl copiați, care poate include informații private (de exemplu, detalii de cont, numere de card bancar și parole).</string>
