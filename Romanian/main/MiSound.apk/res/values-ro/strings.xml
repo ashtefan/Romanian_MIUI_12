@@ -31,6 +31,7 @@
     <string name="app_name">Căști</string>
     <string name="apply_sound">Aplicați</string>
     <string name="can_you_here">Auziți sunetul?</string>
+    <string name="choose_bluetooth_device">Selectați dispozitivul</string>
     <string name="complete_dialog_button">Am înțeles</string>
     <string name="complete_dialog_message">Ați încheiat testul cu succes.</string>
     <string name="complete_dialog_title">Rezultatele testului</string>
@@ -39,6 +40,7 @@
     <string name="customization_continue">Continuați</string>
     <string name="customization_pause_tip">Opriți testul acum? Conectați căștile pentru a continua.</string>
     <string name="customization_quit">Ieșiți</string>
+    <string name="end_wireless_transmission">Opriți</string>
     <string name="eq_auto">Personalizat</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Anulare</string>
@@ -211,7 +213,13 @@
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Acest dispozitiv</string>
     <string name="switch_audio_dialog_title">Schimbați sursa audio la</string>
+    <string name="switch_bluetooth_device">Schimbați dispozitivul</string>
     <string name="third_note">Găsiți un loc unde este liniște.</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="wireless_transmission">Difuzor fără fir</string>
+    <string name="wireless_transmission_cancel">Renunțați</string>
+    <string name="wireless_transmission_confirm">Activați</string>
+    <string name="wireless_transmission_definition">Transmite fluxul microfonului telefonului către un dispozitiv Bluetooth extern</string>
+    <string name="wireless_transmission_prompt">Pentru a transmite sunete audio, difuzorul fără fir trebuie să activeze Bluetooth-ul. Activați acum?</string>
 </resources>
