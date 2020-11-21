@@ -237,6 +237,7 @@ Pentru a comuta între servicii, glisați în sus cu 2 degete și mențineți."<
     <string name="accessibility_vibration_summary_low">Sunet și notificări setate la scăzut</string>
     <string name="accessibility_vibration_summary_medium">Sunet și notificări setate la mediu</string>
     <string name="accessibility_vibration_summary_off">Sunet și notificări setate la oprit</string>
+    <string name="accessibility_voice_access_title">Controale vocale</string>
     <string name="accessibility_vpn_settings_info">Configurare VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi oprit.</string>
     <string name="accessibility_wifi_one_bar">Semnal Wi-Fi: o linie.</string>
