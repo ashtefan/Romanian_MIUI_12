@@ -213,6 +213,7 @@
     <string name="history">Istoric</string>
     <string name="history_empty">Niciun element aici încă</string>
     <string name="hold_down">Apăsați și mențineți apăsat pentru a copia cuvântul</string>
+    <string name="identify_the_results">Identifică rezultatele</string>
     <string name="if_open_result">Afișează rezultatul scanării când reveniți în aplicație</string>
     <string name="if_to_open_milogo_scanning">Recunoaște logo-ul Xiaomi</string>
     <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
@@ -311,6 +312,7 @@
     <string name="pdf_name">Numele fișierului</string>
     <string name="pdf_save_sucess">Salvat cu succes</string>
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
+    <string name="picture_is_being_saved">Fotografia este salvată</string>
     <string name="pdf_saved_failed">salvarea .pdf-ului a eșuat</string>
     <string name="pdf_saved_successfully">.pdf salvat cu succes</string>
     <string name="phone">Telefon:</string>

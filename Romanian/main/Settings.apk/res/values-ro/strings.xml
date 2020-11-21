@@ -1339,7 +1339,7 @@ Selecție"</string>
     <string name="bootloader_status_locked">Blocat</string>
     <string name="bootloader_status_locked_info">Acest telefon este blocat</string>
     <string name="bootloader_status_locked_summary">Telefonul este securizat</string>
-    <string name="bootloader_status_privacy_dialog_message">Deblocarea Mi trebuie să vă acceseze contul Mi, CPU ID, IMEI, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
+    <string name="bootloader_status_privacy_dialog_message">Deblocarea Mi trebuie să vă acceseze contul Mi, CPU ID, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
     <string name="bootloader_status_privacy_dialog_no">Renunțați</string>
     <string name="bootloader_status_privacy_dialog_title">Permisiuni necesare</string>
     <string name="bootloader_status_privacy_dialog_url_text">Politica noastră de Confidențialitate</string>

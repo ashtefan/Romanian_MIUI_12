@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -31,7 +31,17 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
-    <string name="app_name">VsimCore</string>
+    <string name="app_name">MConnService</string>
+    <string name="assist_center_title">Utilizat în prezent</string>
+    <string name="assist_center_traffic_title">Rămas</string>
+    <string name="assist_key1_title">Utilizat azi</string>
+    <string name="assist_key2_title">Plan de date</string>
+    <string name="gb">GB</string>
+    <string name="kb">KB</string>
+    <string name="mb">MB</string>
+    <string name="noti_key1_today_used">Astăzi: %1$s</string>
+    <string name="noti_key2_remain">Rămas: %1$s</string>
+    <string name="noti_key2_used">Utilizat: %1$s</string>
+    <string name="noti_key3">Detalii ></string>
     <string name="search_menu_title">Căutați</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
