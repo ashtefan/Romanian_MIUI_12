@@ -72,6 +72,8 @@
     <string name="HIPS_Group_PIM">Informaţii personale</string>
     <string name="HIPS_Group_PhoneID">Identificare telefon</string>
     <string name="HIPS_Group_ROOT">Acces root</string>
+    <string name="HIPS_Perm_Access_Gallery">Accesare Galerie</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Permiteți acestei aplicații să acceseze elemente din Galerie</string>
     <string name="HIPS_Perm_AdjustRingerVolume">Ajustare volum sonerie</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">Ajustare volum în apel</string>
     <string name="HIPS_Perm_AllowAll">Permit toate</string>
@@ -270,6 +272,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">servicii în fundal</string>
     <string name="HIPS_Perm_show_when_locked">Afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_show_when_locked_Desc">afișare în Blocarea ecranului</string>
+    <string name="HIPS_Perm_tencentControl">Accesare mesaje din aplicațiile de socializare</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Permiteți acestei aplicații să acceseze mesajele din WeChat și QQ</string>
     <string name="HIPS_Perm_use_sip">Servicii video</string>
     <string name="HIPS_Perm_use_sip_Desc">utilizarea SIP pentru partajare videoclipuri</string>
     <string name="HIPS_Perm_write_clipboard">Salvarea elementelor în clipboard</string>
@@ -288,6 +292,7 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Sunteţi sigur că doriţi să acordaţi permisiune Root aplicaţiei %1$s?</string>
     <string name="HIPS_SecurityPrompt_Reject">Refuzaţi (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restricționați și goliți clipboardul (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">Refuză și nu mai întreba din nou (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Refuzaţi o dată (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Restricționează o dată (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s solicită %2$s</string>

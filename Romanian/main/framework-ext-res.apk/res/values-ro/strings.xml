@@ -254,6 +254,7 @@
     <string name="security_share_text">Protejarea confidențialității</string>
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
+    <string name="send_files_by">Partajați fișierele via</string>
     <string name="send_files_to">Trimiteți elementele către</string>
     <string name="serviceEnabled">Serviciul a fost activat.</string>
     <string name="service_not_subscribed">FĂRĂ ABONAMENT LA SERVICIU -33-</string>
@@ -316,7 +317,7 @@
     <string name="talk_back_water_mark_string2">Apăsați și mențineți apăsate butoanele \"Volum+\" și \"Volum-\" timp de 3 secunde pentru a dezactiva</string>
     <string name="throwing_print">Tipăriți</string>
     <string name="throwing_screen">Proiectați</string>
-    <string name="tips_prompt_enable_midrop">Partajați fișierele cu dispozitivele din apropiere</string>
+    <string name="tips_prompt_enable_midrop">Partajare Mi</string>
     <string name="total">Nu deranjați</string>
     <string name="total_description">Redu la tăcere și elimină vibrațiile pentru toate elementele, cu excepția alarmei</string>
     <string name="total_title">DND</string>

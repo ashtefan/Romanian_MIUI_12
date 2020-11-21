@@ -2051,6 +2051,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="unsupport_raw">%s nu funcționează cu imagini RAW</string>
     <string name="unsupport_raw_and_video">%s nu funcționează cu videoclipuri și imagini RAW</string>
+    <string name="unsupport_type">Acest tip de fișier nu este suportat</string>
     <string name="unsupport_video">%s nu funcționează cu videoclipuri</string>
     <string name="unsupported_media_downloading_tip_common">Vizualizarea imaginilor originale în acest format nu este suportată în această versiune Android. Descărcați oricum?"</string>
     <string name="unsupported_media_downloading_tip_format">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android. Descărcați oricum?"</string>

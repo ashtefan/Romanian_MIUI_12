@@ -274,8 +274,20 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Nu se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
         <item quantity="one">Nu se urmăreşte utilizarea datelor pentru %d aplicaţie</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Ștergeți definitiv %d imagini?</item>
+        <item quantity="one">Ștergeți definitiv %d imagine?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d imagini vor fi șterse definitiv după ce părăsiți această pagină. Ștergeți oricum?</item>
+        <item quantity="one">%d imagine va fi ștearsă definitiv după ce părăsiți această pagină. Ștergeți oricum?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Ștergeți %d imagini</item>
+        <item quantity="one">Ștergeți %d imagine</item>
+    </plurals>
     <plurals name="install_game_count_title">
-        <item quantity="other">Au fost adăugated %d jocuri</item>
+        <item quantity="other">Au fost adăugate %d jocuri</item>
         <item quantity="one">A fost adăugat %d joc</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
@@ -506,6 +518,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Dispozitivul se va opri în %d secunde. Conectați încărcătorul.</item>
         <item quantity="one">Dispozitivul se va opri în %d secundă. Conectați încărcătorul.</item>
     </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s ori</item>
+        <item quantity="one">%s dată</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d pictograme ale aplicațiilor sunt ascunse</item>
         <item quantity="one">%d pictogramă a aplicației este ascunsă</item>
@@ -521,6 +537,50 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s ori</item>
         <item quantity="one">%s dată</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d permisiuni cu risc ridicat acordate</item>
+        <item quantity="one">%d permisiune cu risc ridicat acordată</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d aplicații riscante găsite</item>
+        <item quantity="one">%d aplicație riscantă găsită</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d riscuri de dezvăluire a locației detectate</item>
+        <item quantity="one">%d risc de dezvăluire a locației detectat</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d riscuri detectate</item>
+        <item quantity="one">%d risc detectat</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d posibile riscuri găsite</item>
+        <item quantity="one">%d posibil risc găsit</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotografii pot conține informații private sau sensibile</item>
+        <item quantity="one">%d fotografie poate conține informații private sau sensibile</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d caracteristici care vă protejează confidențialitatea sunt dezactivate</item>
+        <item quantity="one">%d caracteristică care vă protejează confidențialitatea este dezactivată</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d permisiuni sensibile acordate</item>
+        <item quantity="one">%d permisiune sensibilă acordată</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Dezinstalați %d aplicații</item>
+        <item quantity="one">Dezinstalați %d aplicație</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d elemente au nevoie de protecție suplimentară</item>
+        <item quantity="one">%d element are nevoie de protecție suplimentară</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d probleme ale acumulatorului</item>

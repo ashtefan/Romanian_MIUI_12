@@ -12,18 +12,6 @@
     <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
     <string name="abc_capital_off">OPRIT</string>
     <string name="abc_capital_on">PORNIT</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">ștergere</string>
@@ -377,6 +365,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_tag_title">Categorie</string>
     <string name="feedback_text_empty_toast">Introduceți mai întâi feedback-ul.</string>
     <string name="file_cant_rename">Fișierul cu numele %1$s există deja. Vă rog să-l redenumiți</string>
+    <string name="file_space_not_enough_tip">Nu există suficient spațiu de stocare. Eliberați cel puțin %d MB și lansați din nou aplicația.</string>
     <string name="find_psw">Am uitat parola</string>
     <string name="finish">Efectuat</string>
     <string name="firework_privacy">Politica de Confidențialitate Firework</string>
@@ -408,6 +397,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_already_cloud_member">Se utilizează apartenența VIP pentru a reda</string>
     <string name="galleryplus_check_network">Setări</string>
     <string name="galleryplus_chose_play_speed">Se redă la viteza %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">Se redă la viteza %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">Nu s-a putut ajusta viteza de redare</string>
     <string name="galleryplus_click_to_higher_definition">Atingeți de două ori pentru a deschide previzualizarea HD</string>
     <string name="galleryplus_copyright_unsported_audio">Nu se poate reda pista audio a videoclipului datorită restricțiilor drepturilor de autor</string>
@@ -465,6 +455,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_subtitle_edit_edit">Editați subtitrarea</string>
     <string name="galleryplus_subtitle_edit_hide">Ascunde subtitrarea</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Editați textul</string>
+    <string name="galleryplus_subtitle_edit_reminder">Textul introdus este prea lung</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Nu s-a putut recunoaște vocea pe durata înregistrării</string>
     <string name="galleryplus_v_agree">De acord</string>
     <string name="galleryplus_v_cancel">Renunțați</string>
@@ -1313,6 +1304,8 @@ Verificați alte videoclipuri!"</string>
     <string name="toast_request_too_frequently">Nu așa de repede!</string>
     <string name="toast_share_failed">"Nu s-a putut partaja. Așteptați un minut sau două și încercați din nou."</string>
     <string name="today">Astăzi</string>
+    <string name="tool_bar_notification_setting_sub_title">Afișați bara de instrumente în Perdeaua de notificări</string>
+    <string name="tool_bar_notification_setting_title">Bara de instrumente în Perdeaua de notificări</string>
     <string name="top_bar_game_desc">Descoperiți o mulțime de jocuri noi aici</string>
     <string name="top_bar_game_title">Canal jocuri</string>
     <string name="tuesday">Marți</string>
