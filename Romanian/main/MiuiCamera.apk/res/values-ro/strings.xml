@@ -447,6 +447,7 @@
     <string name="config_name_super_resolution">Super rezoluție</string>
     <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_timer">Temporizator</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">Resetați parametrii acum?</string>
     <string name="confirm_install_scanner_message">"Aplicația Scaner vă permite să scanați coduri QR, coduri de bare și altele. Nu trebuie să vă conectați la internet pentru a o instala."</string>
     <string name="confirm_install_scanner_title">Instalați aplicația Scaner</string>
     <string name="confirm_location_alert">Înregistrare locaţie în fotografii</string>
@@ -495,7 +496,7 @@ documentele scanate în mod automat"</string>
     <string name="document_mode_use_hint_text_title">Scanați documente</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Intensificat</string>
-    <string name="dolly_zoom_capture_tip1">qqjjzzttzzyyffkknn</string>
+    <string name="dolly_zoom_capture_tip1">qqjjzzttzzyyffkknn%d</string>
     <string name="dolly_zoom_capture_tip2">qqwwddxxhhyyddssjj</string>
     <string name="dolly_zoom_capture_tip3">zzttddss，qqssxxppss</string>
     <string name="dolly_zoom_capture_tip4">ssjjppyyggdd，qqssxxppss</string>
@@ -988,7 +989,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Captarea obiectelor selectate când nu sunt în mișcare</string>
     <string name="pref_camera_auto_chroma_flash_title">Bliţ Chroma</string>
     <string name="pref_camera_auto_hibernation">Fotografiați cu ecranul oprit</string>
-    <string name="pref_camera_auto_hibernation_description">Oprește ecranul după %d minute de filmare pentru a economisi energia</string>
+    <string name="pref_camera_auto_hibernation_description">Pe durata fotografierii, oprește ecranul după %d minute de inactivitate pentru a economisi energia</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centrare</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Mediere</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Fix</string>
@@ -1297,6 +1298,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_ultra_wide_ldc_title">Corectați distorsiunile în fotografiile cu unghi foarte larg</string>
     <string name="pref_camera_ultra_wide_mode_title">Mod unghi foarte larg</string>
     <string name="pref_camera_video_8k_tips">8K</string>
+    <string name="pref_camera_video_ai_scene_title">AI camera</string>
     <string name="pref_camera_video_bokeh_off">Video bokeh oprit</string>
     <string name="pref_camera_video_bokeh_on">Video bokeh</string>
     <string name="pref_camera_video_duration_entry_10">10 minute</string>
@@ -1350,6 +1352,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_customization_title">Personalizați</string>
     <string name="pref_document_mode">Documente</string>
     <string name="pref_dual_camera_video">Dual video</string>
+    <string name="pref_e_p_k">albastru</string>
     <string name="pref_face_beauty_title">Înfrumuseţare</string>
     <string name="pref_fingerprint_capture_title">Declanșare prin amprentă</string>
     <string name="pref_front_denoise_summary">Reduceți zgomotele generate în spatele camerei frontale</string>
@@ -1413,7 +1416,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">Mod focalizare</string>
     <string name="pref_video_hfr_entryvalue_default">5:120</string>
-    <string name="pref_video_hfr_title">Video HFR</string>
+    <string name="pref_video_hfr_title">Rata de cadre</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
     <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
@@ -1425,6 +1428,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
     <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
+    <string name="pref_video_quality_hfr_title">Rata de cadre și calitatea fotografiei</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
     <string name="pref_video_quality_sub_120fps">120fps</string>
     <string name="pref_video_quality_sub_24fps">24fps</string>

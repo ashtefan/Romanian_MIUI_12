@@ -194,6 +194,7 @@ Trimiteți acest cod supervizor-ului."</string>
     <string name="exception_move_file_exist">Elementul pe care îl mutați se află deja în dosarul destinație</string>
     <string name="exception_move_sub_path">Nu se pot muta elementele în interiorul aceluiași dosar</string>
     <string name="exception_net_not_available">Nu s-a putut conecta la rețea</string>
+    <string name="exception_not_support_modify_for_overseas_user">Această caracteristică nu este disponibilă înafara Mainland China</string>
     <string name="exception_param_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="exception_rename_conflict">Nu s-a putut redenumi. Un element cu acest nume există deja.</string>
     <string name="exception_rename_illegal_char">Numele fișierelor nu pot conține caractere speciale</string>
@@ -300,6 +301,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="no_account">Neconectat</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_support_upload_file_for_overseas_users">Încărcarea nu este disponibilă înafara Mainland China</string>
     <string name="notification_channel_remind">Memento-uri</string>
     <string name="notification_channel_service">Servicii</string>
     <string name="ok">OK</string>
@@ -514,6 +516,8 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="speed_unit_mb">%s MB/s</string>
     <string name="start_download">Se începe descărcarea…</string>
     <string name="start_upload">Se începe încărcarea…</string>
+    <string name="stay_tuned">Rămâneți aproape</string>
+    <string name="stay_tuned_sub_desc">Acest serviciu este disponibil în prezent doar în Mainland China</string>
     <string name="storage_internal">Stocarea internă</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
     <string name="storage_manage_list_title_action">Mai multe</string>

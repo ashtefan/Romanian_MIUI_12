@@ -813,7 +813,8 @@ Descărcați și instalați Mi Mover."</string>
     <string name="user_name_null">ID-ul Apple nu poate fi lăsat necompletat</string>
     <string name="video">Video</string>
     <string name="view_password_description">Afișează parola</string>
-    <string name="waiting_restore_desktop">Se transferă aplicațiile terțe pentru a restabili aspectul ecranului de pornire…</string>
+    <string name="waiting_restore_aod">Se restaurează afișajul activ permanent…</string>
+    <string name="waiting_restore_desktop">Se restaurează dispunerea Ecranului de pornire…</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="web_sso_login_message">Se conectează…</string>
     <string name="website">Site web</string>
