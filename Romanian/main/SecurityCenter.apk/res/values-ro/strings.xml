@@ -2580,7 +2580,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
     <string name="power_center_list_item_haptic_feedback">Dezactivați feedback-ul tactil</string>
-    <string name="power_center_list_item_haptic_feedback_summary">Gesturile și controalele  es and system controls won't be accompanied by haptic feedback"</string>
+    <string name="power_center_list_item_haptic_feedback_summary">Gesturile și comenzile sistemului nu vor fi însoțite de feedback haptic</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Blocați dispozitivul după %d secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Blocarea mai rapidă a dispozitivului economisește acumulatorul</string>
