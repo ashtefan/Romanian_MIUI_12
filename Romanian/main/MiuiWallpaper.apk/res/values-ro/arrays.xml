@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="region_support_mihome">
+        <item>CN</item>
+        <item>IN</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>SG</item>
+        <item>US</item>
+        <item>TR</item>
+    </string-array>
     <string-array name="settings_search_earth">
         <item>Acasă</item>
         <item>Imagine de fundal/Super imagini de fundal/Acasă</item>

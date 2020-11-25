@@ -338,7 +338,10 @@
     <string name="trash_box">Elemente șterse recent</string>
     <string name="trash_box_close_tip">Închideți fereastra de dialog</string>
     <string name="trash_box_delete_all">Ștergeți toate elementele din coșul de gunoi permanent?</string>
+    <string name="uninstall_warning_content">Aplicația de Înregistrare este o aplicație de sistem. Nu veți mai putea înregistra sau transcrie sunete audio și apeluri vocale după ce o dezinstalați.</string>
+    <string name="uninstall_warning_title">Dezinstalați aplicația de Înregistrare?</string>
     <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
+    <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="webview_check_network">Setări de rețea</string>

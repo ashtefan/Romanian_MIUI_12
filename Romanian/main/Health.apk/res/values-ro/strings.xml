@@ -630,6 +630,7 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_detect_state_regular_desc">Stare în zilele de lucru și studiu</string>
     <string name="hr_detect_state_reseting">Stare de odihnă</string>
     <string name="hr_detect_state_reseting_desc">Sunteți complet relaxat sau tocmai v-ați trezit</string>
+    <string name="hr_disable_in_split_screen">Nu se poate măsura ritmul cardiac în timp ce se utilizează Ecranul scindat</string>
     <string name="hr_disturb_detect">Detectarea a fost întreruptă</string>
     <string name="hr_finger_permission_desc">Pentru a vă măsura ritmul cardiac, această caracteristică trebuie să acceseze scanerul de amprente pentru a putea detecta modificările fluxului sanguin. Permiteți?</string>
     <string name="hr_fp_area">Scanerul de amprentă</string>

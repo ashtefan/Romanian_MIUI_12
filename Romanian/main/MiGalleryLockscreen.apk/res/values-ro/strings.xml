@@ -207,6 +207,7 @@
     <string name="detail_menu_history">Istoric</string>
     <string name="detail_menu_home">Mergeți la pagina de pornire</string>
     <string name="detail_menu_setting">Setările aplicației</string>
+    <string name="detail_menu_settingbtn_save">Salvează în Galerie</string>
     <string name="detail_menu_settingbtn_setting">Setări</string>
     <string name="detail_menu_settingbtn_share">Partajați</string>
     <string name="detail_menu_wall">"Imaginile de astăzi"</string>
@@ -323,7 +324,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="loading"><CDATA>Doar o secundă…</CDATA></string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
     <string name="lock_screen_date_12">EEEE, dd MMMM</string>
-    <string name="lock_show_permission_exception">A apărut o eroare. Permiteți Caruselului de imagini de fundal să fie afișat în blocarea ecranului din aplicația Securitate.</string>
+    <string name="lock_show_permission_exception">A apărut o eroare. Permiteți Caruselului de imagini de fundal să fie afișat în Blocarea ecranului din aplicația Securitate.</string>
     <string name="lockscreen_h5_back_tv">Înapoi</string>
     <string name="lockscreen_h5_close_tv">Oprit</string>
     <string name="lockscreen_h5_refresh_btn_tv">Reîmprospătați</string>

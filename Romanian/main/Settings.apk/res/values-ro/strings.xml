@@ -3043,6 +3043,10 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_add_fingerprint_put_finger_title">Apăsați și ridicați degetul după ce simțiți o vibrație</string>
     <string name="gxzw_add_fingerprint_title">Adăugați o amprentă</string>
     <string name="gxzw_anim_aurora">Aurora</string>
+    <string name="gxzw_anim_dialog_cancel_enroll">Renunțați</string>
+    <string name="gxzw_anim_dialog_enroll">OK</string>
+    <string name="gxzw_anim_dialog_message">Adăugați amprenta pentru a putea animația amprentei. O adăugați acum?</string>
+    <string name="gxzw_anim_dialog_title">Adăugați amprenta</string>
     <string name="gxzw_anim_light">Neon</string>
     <string name="gxzw_anim_pulse">Puls</string>
     <string name="gxzw_anim_rhythm">Ritm</string>
