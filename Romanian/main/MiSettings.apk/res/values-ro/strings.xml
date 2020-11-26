@@ -370,6 +370,7 @@
     <string name="unlock_times_per_hour">"Deblocări pe oră: "</string>
     <string name="usage_agree">Accept</string>
     <string name="usage_app_get_it">Am înțeles</string>
+    <string name="usage_app_holiday_limit">Zile libere</string>
     <string name="usage_app_limit_alter_summary">"Se pare că această limită este mai mică decât timpul în care ați utilizat astăzi această aplicație. Setați limita oricum?"</string>
     <string name="usage_app_limit_alter_title">Verificați limita de timp pentru ecran</string>
     <string name="usage_app_limit_prelong">Măriți durata</string>
@@ -455,11 +456,16 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_new_home_unused">Neutilizat</string>
     <string name="usage_new_home_update">Modificați</string>
     <string name="usage_new_home_usage_detail">Detalii utilizare</string>
+    <string name="usage_new_home_week_average_count">Medie %s</string>
     <string name="usage_new_home_week_category_title">Categorii aplicație</string>
     <string name="usage_new_home_week_compare_text1">%.2f mai mult decât săptămâna trecută</string>
+    <string name="usage_new_home_week_compare_text1_new">(%s%% mai mult decât săptămâna trecută)</string>
     <string name="usage_new_home_week_compare_text2">%.2f mai puțin decât săptămâna trecută</string>
+    <string name="usage_new_home_week_compare_text2_new">(%s%% mai puțin decât săptămâna trecută)</string>
     <string name="usage_new_home_week_equals_text">La fel ca săptămâna trecută</string>
     <string name="usage_new_home_week_title">Săptămâna</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f mai puțin decât săptămâna trecută)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f mai mult decât săptămâna trecută)</string>
     <string name="usage_new_home_week_unlock_equals_text">La fel ca săptămâna trecută</string>
     <string name="usage_new_home_week_usage_title">Aplicații individuale</string>
     <string name="usage_new_home_which_week">Săptămâna %d</string>
@@ -529,6 +535,8 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_state_focus_weak_summary">Lăsați telefonul deoparte</string>
     <string name="usage_state_friday">Vin</string>
     <string name="usage_state_go_more">Mai multe aplicații</string>
+    <string name="usage_state_holiday_day_hour_minute">Zile libere: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">Zile libere: %s</string>
     <string name="usage_state_hour_minute">%1$dh și %2$dm</string>
     <string name="usage_state_less_one_minute">&lt; 1 minut</string>
     <string name="usage_state_monday">Lun</string>
@@ -579,8 +587,10 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_stats_experience_text">Atingeți pentru a încerca (1 min)</string>
     <string name="usage_stats_limit_time_accuracy_title">Acuratețea estimării timpului rămas</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Afișează timpul rămas cu o acuratețe de până la un minut. Acest lucru crește energia utilizată.</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Precis până la minut (consumă mai multă energie)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Ridicată</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">Afișează timpul rămas cu o acuratețe de până la un minut pe durata ultimelor 2 ore rămase pentru a economisi acumulatorul</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Precizie până la minut în %d ore rămase (economisește energie)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Redusă</string>
     <string name="usage_stats_limit_time_warn">Avertizări pentru durata de utilizare a ecranului</string>
     <string name="usage_stats_limit_time_warn_summary">Afișează durata de ecran rămasă în Perdeaua de notificări</string>

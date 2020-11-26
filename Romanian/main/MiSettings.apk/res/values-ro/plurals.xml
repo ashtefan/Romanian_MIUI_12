@@ -157,6 +157,10 @@
         <item quantity="other">%d ori</item>
         <item quantity="one">%d dată</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">În medie de %.2f ori</item>
+        <item quantity="one">În medie %.2f dată</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">În weekend: %d ore</item>
         <item quantity="one">În weekend: %d oră</item>

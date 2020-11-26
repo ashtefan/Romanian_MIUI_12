@@ -353,4 +353,7 @@
     <string name="webview_try_again">Încercați din nou</string>
     <string name="wifi_recommended_body" formatted="false">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
     <string name="wifi_recommended_title">Avertisment utilizare date</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
 </resources>
