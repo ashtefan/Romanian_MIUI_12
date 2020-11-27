@@ -37,8 +37,8 @@
     <string name="altitude_uncalibrate_tip">Date necalibrate</string>
     <string name="altitude_unit">m</string>
     <string name="angle">%.0f</string>
-    <string name="app_description_content">Aplicația Busolă este utilizată pentru navigație și orientare și vă arată direcția. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala această aplicație.</string>
-    <string name="app_description_title">Despre aplicația Busolă</string>
+    <string name="app_description_content">Aplicația Busolă este o aplicație de sistem. Nu o veți mai putea utiliza pentru a verifica direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă după ce o dezinstalați.</string>
+    <string name="app_description_title">Dezinstalați aplicația Busolă?</string>
     <string name="app_label">Busolă</string>
     <string name="app_name">Preferințe</string>
     <string name="calibrate_failed">Calibrare altitudine eşuată</string>
