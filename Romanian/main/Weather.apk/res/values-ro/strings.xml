@@ -116,7 +116,7 @@
     <string name="button_not_allow">Renunţaţi</string>
     <string name="button_settings_cancel">Renunțați</string>
     <string name="button_settings_confirm">Retrageți</string>
-    <string name="button_settings_confirm_to_revoke_msg">Prin dezactivarea comutatorului, vă retrageți consimțământul pentru politica de confidențialitate a vremii. Vom înceta să colectăm informațiile dvs. personale. Informațiile cu caracter personal deja colectate și păstrate vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Meteo trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. pentru politica sa de confidențialitate va fi considerată ca refuzând să accepte serviciile sale pe baza informațiilor personale colectate.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Prin dezactivarea comutatorului, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Meteo. Vom înceta să colectăm informațiile dvs. personale. Informațiile cu caracter personal deja colectate și păstrate vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Aplicația Meteo trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. pentru politica sa de confidențialitate va fi considerată ca refuz de acceptare a serviciilor sale pe baza informațiilor personale colectate.</string>
     <string name="button_settings_confirm_to_revoke_title">Revocați autorizarea?</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
