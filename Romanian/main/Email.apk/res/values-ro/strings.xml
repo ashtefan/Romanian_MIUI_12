@@ -83,6 +83,7 @@ Actualizaţi acum?"</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
+    <string name="account_settings_only_notify_inbox">Împingeți numai mesajele primite</string>
     <string name="account_settings_param">Setări cont</string>
     <string name="account_settings_policies">Politici de securitate</string>
     <string name="account_settings_preference_att_save_path">Locația implicită pentru atașamente</string>
@@ -224,6 +225,8 @@ Actualizaţi acum?"</string>
     <string name="always_bcc_myself">Mi se trimite întotdeauna copie CCI</string>
     <string name="always_show_images">Afișați întotdeauna imaginile de la acest expeditor</string>
     <string name="app_name">E-mail</string>
+    <string name="app_uninstall_content">E-mail este o aplicație de sistem MIUI. După dezinstalare, nu veți putea adăuga conturi de e-mail, trimite și primi e-mailuri și sincroniza programele de e-mail.</string>
+    <string name="app_uninstall_title">Dezinstalați aplicația \"E-mail\"?</string>
     <string name="appraise_des">Vă place aplicația noastră?</string>
     <string name="appraise_good">Da</string>
     <string name="appraise_ignore">"Nu pot spune acum"</string>

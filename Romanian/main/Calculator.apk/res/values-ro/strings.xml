@@ -117,6 +117,7 @@
     <string name="currency_update_updating">Se actualizează ratele…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">dd MMM, yyyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,6 +132,9 @@
     <string name="deselect_all">Deselectați</string>
     <string name="devided_by_zero_reminder_message">Nu se poate împărți la zero</string>
     <string name="dialog_privacy_content"><Data>Înafara funcțiilor de bază, aplicația noastră Calculator conține un calculator științific și vă permite să convertiți multiple valute și unități de măsură. Unele caracteristici necesită conectarea la internet pentru a funcționa în mod normal. Înainte de a utiliza aplicația, citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica noastră de Confidențialitate&lt;/a></Data></string>
+    <string name="dialog_privacy_disagree_msg">Prin dezactivarea comutatorului, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Calculator. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Aplicația Calculator trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. pentru politica sa de confidențialitate va fi considerată ca refuz de acceptare a serviciilor sale pe baza informațiilor personale colectate.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Retrag</string>
+    <string name="dialog_privacy_revoke_title">Retragerea consimțământului</string>
     <string name="dialog_privacy_title">Termeni și Condiții</string>
     <string name="dialog_rating_desc_ask">Ce părere aveți despre aplicația Calculator?</string>
     <string name="dialog_rating_desc_less">Ne puteți da și un feedback?</string>
@@ -250,6 +254,7 @@
     <string name="global_search_key_word_figure">Simboluri financiare</string>
     <string name="golbal_search_calculator_setting">Calculator;Setări calculator;Setări</string>
     <string name="golbal_search_path_calculator_setting">Aplicații de sistem/Calculator/Setări</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Înălțime</string>
     <string name="help_content_desc">Ajutor</string>
     <string name="hint_annual_rate">Introduceți rata anuală</string>
@@ -295,6 +300,17 @@
     <string name="item_title_vel_conversion">Viteză</string>
     <string name="item_title_volume_conversion">Volum</string>
     <string name="item_title_weight_conversion">Masă</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">Discount (reducere %s)</string>
     <string name="label_about">Despre</string>
     <string name="label_clear_history">Goliți tot</string>
     <string name="label_date_difference">Diferența</string>
@@ -359,6 +375,7 @@
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">Rata standard a dobânzii</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">Am înțeles</string>
     <string name="lpr_tips_msg">"Începând cu 8 octombrie 2019, rata dobânzii comerciale pentru împrumutul pentru locuințe personale va fi calculată în funcție de rata primară a împrumutului (LPR) în loc de rata dobânzii de referință implementată anterior de 4,9%. Acum, rata finală va fi confirmată prin adăugarea unui punct de bază LPR.
 
@@ -467,6 +484,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="network_confirm_title">Este necesară acordarea unor permisiuni</string>
     <string name="network_privacy">Luați aminte că această aplicație trebuie să se conecteze la internet și să colecteze informațiile personale necesare pentru a vă furniza servicii. Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.</string>
     <string name="network_purpose">Bine ați venit în aplicația Calculator! Aceasta vă permite să faceți conversii valutare, să calculați ratele împrumuturilor și multe altele.</string>
+    <string name="new_privacy_string"><Data>Bine ați venit în aplicația Calculator!&lt;br/>Această aplicație conține următoarele caracteristici:&lt;br/>• Calculator de bază&lt;br/>• Calculator științific&lt;br/>• Convertor universal (de ex. valute, unități de măsură, etc.)&lt;br/>• Șabloane de calcul pentru împrumuturi, investiții, IME și multe altele&lt;br/>Aplicația Calculator trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Puteți afla cum gestionăm informațiile pe care le colectăm din &lt;a href= \"%1$s\">Politica noastră de confidențialitate&lt;/a>. Citiți și acceptați &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%3$s\">Politica de confidențialitate&lt;/a> înainte de a utiliza aplicația Calculator. Vă puteți retrage consimțământul pentru Politica de confidențialitate a Calculatorului din Setări în orice moment. Dacă nu sunteți de acord cu politica noastră de confidențialitate, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.</Data></string>
     <string name="night">PM</string>
     <string name="none">Nimic</string>
     <string name="noon">PM</string>
@@ -519,8 +537,11 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="preference_use_voice_title">Redare vocală</string>
     <string name="preference_user_feedback_title">Feedback</string>
     <string name="privacy_disagree">După ce nu veți accepta termenii și condițiile politicii noastre de confidențialitate, Calculatorul Mi nu va mai colecta date și toate datele aferente vor fi șterse de pe servere. Este posibil să nu puteți utiliza anumite funcții din aplicație. Refuzați oricum?</string>
+    <string name="privacy_dialog_title">Confidențialitate</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
-    <string name="privacy_switch">Accept politica de confidențialitate</string>
+    <string name="privacy_revoke_error">Nu s-a putut retrage. Încercați din nou.</string>
+    <string name="privacy_revoke_progress">Se retrage…</string>
+    <string name="privacy_switch">Retragerea consimțământului</string>
     <string name="privacy_switch_disagree">Nu accept</string>
     <string name="radDesc">Radian</string>
     <string name="radian">rad</string>
@@ -1071,6 +1092,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="unit_yuan">CNY</string>
     <string name="updating">Se actualizează calculatorul…</string>
     <string name="user_agreement">Termenii Serviciului</string>
+    <string name="user_experience_program_title">Programul de Experiența Utilizatorului</string>
     <string name="view_float_window_move">Mutați Calculatorul minimizat</string>
     <string name="voiceDesc">Controale vocale</string>
     <string name="voice_guide_text">Puteți activa aici redarea vocală</string>
@@ -1080,6 +1102,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="wednesday_shortest">Mi</string>
     <string name="weight_prompt">Greutate</string>
     <string name="wf_word_figure">Simboluri financiare</string>
+    <string name="withdraw_network_error">Dispozitivul dvs. trebuie să se conecteze la rețea pentru ca dvs. să puteți retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
     <string name="word_figure_big_unit_fen">punct</string>
     <string name="word_figure_big_unit_jiao">unghi</string>
     <string name="word_figure_big_unit_wan">"zece mii  "</string>

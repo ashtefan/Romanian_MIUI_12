@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_ad_remaining_time">Reclamă · %1$s rămase</string>
+    <string name="MediaControlView_ad_skip_wait_time">Puteți omite această reclamă în %1$ds</string>
+    <string name="MediaControlView_ad_text">Visitați site-ul Advertizerului</string>
+    <string name="MediaControlView_audio_track_none_text">Nimic</string>
+    <string name="MediaControlView_audio_track_number_text">Piesa %1$d</string>
+    <string name="MediaControlView_audio_track_text">Piesă audio</string>
+    <string name="MediaControlView_custom_playback_speed_text">%1$.2fx</string>
+    <string name="MediaControlView_playback_speed_normal">Normală</string>
+    <string name="MediaControlView_playback_speed_text">Viteza de redare</string>
+    <string name="MediaControlView_subtitle_off_text">Oprit</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Piesa %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Piesa %1$d</string>
+    <string name="MediaControlView_time_placeholder">00:00:00</string>
+    <string name="MediaControlView_video_quality_auto_text">Auto</string>
   <string name="abc_action_bar_home_description">Navigați Acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
@@ -67,6 +81,7 @@ pentru a adăuga carduri"</string>
     <string name="allergic_drugs_hint">Completați medicamentele și reacțiile adverse</string>
     <string name="allow_notice_periods">Permiteți perioade de memento</string>
     <string name="altitude">Altitudine</string>
+    <string name="altitude_pressure_hint">*Calculată după presiunea aerului, există unele erori</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
     <string name="app_setting">Aplicații</string>
@@ -79,7 +94,7 @@ pentru a adăuga carduri"</string>
 
 Pentru a vă oferi recomandări, vom partaja datele despre sănătate cu un furnizor de servicii terță parte. Elementele pe care le vom partaja includ informații personale (vârstă, sex), statistici de sănătate (înălțime, greutate, rutină de antrenament), date de comportament (ora de început și de sfârșit, precum și durata antrenamentelor).
 
-Vom procesa aceste elemente înainte de a le partaja pentru a împiedica furnizorii de servicii terți să vă identifice personal pe baza datelor pe care le primesc.
+Vom anonimiza aceste elemente înainte de a le partaja pentru a împiedica furnizorii de servicii terți să vă identifice personal pe baza datelor pe care le primesc.
 
 Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza în continuare antrenamentele obișnuite."</string>
     <string name="auth_dialog_link">Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a>&lt;/font>.</string>
@@ -113,6 +128,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="back_stroke">Durere de spate</string>
     <string name="background_run_tips">Apăsați butonul \"Setări\" de mai jos și permiteți rularea în permanență în fundal a aplicației Sănătate Xiaomi.</string>
     <string name="backtrack">Înapoi</string>
+    <string name="base_dpi">implicit 360dp</string>
     <string name="basic_info_label_age">Vârsta</string>
     <string name="basic_info_label_birthday">Ziua de naștere</string>
     <string name="basic_info_label_gender">Sexul</string>
@@ -215,6 +231,10 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="copy">Copiați</string>
     <string name="copy_done">Copiat cu succes</string>
     <string name="copyright_statement">Drepturi de autor © Xiaomi Inc. Toate drepturile rezervate.</string>
+    <string name="course_consume_unit">kcal</string>
+    <string name="course_deatil_time">%1$dmin</string>
+    <string name="course_description">%1$s·%2$s·%3$s</string>
+    <string name="course_time_unit">min</string>
     <string name="cousume_unit_float_format">%1$.2f Cal</string>
     <string name="cross_hiking">Drumeție</string>
     <string name="cumulative_decline">Pierderea în altitudine</string>
@@ -252,6 +272,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="date_format_m_d_2">dd/MM</string>
     <string name="date_format_m_d_3">dd/MM</string>
     <string name="date_format_m_d_h_m">dd-MM HH:mm</string>
+    <string name="date_format_m_s">mm:ss</string>
     <string name="date_format_mm_dd">dd MMM</string>
     <string name="date_format_mm_dd_2">dd/MM</string>
     <string name="date_format_y">yyyy</string>
@@ -279,6 +300,7 @@ Dacă veți decide să ștergeți datele despre sănătate după ce ați ales s�
     <string name="deep_sleep_duration_description">Pe durata somnului există perioade în care ochii se mișcă rapid. Somnul poate fi împărțit în somn cu mișcare rapidă a ochilor(REM) și somn fără mișcare rapidă a ochilor(NREM). Somnul profund apare în perioadele de somn NREM, reprezentând circa 20-25% din totalul duratei somnului. Pe durata somnului profund există mai puțină activitate conștientă iar creierul se află într-o stare relativ statică, așa că trezirea este dificilă.</string>
     <string name="deep_sleep_duration_increase_description">Somnul dvs. profund este prea lung</string>
     <string name="deep_sleep_duration_normal_description">Ați avut un somn profund suficient</string>
+    <string name="default_notification_channel_name">Se redă acum</string>
     <string name="delete">Ștergeți</string>
     <string name="delete_aid_file">Ștergeți</string>
     <string name="delete_aid_file_desc">Informațiile despre fișierele de prim ajutor vor fi șterse permanent din telefon dacă veți continua.</string>
@@ -402,6 +424,12 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="engrgy_format">%1$d W</string>
     <string name="enough">Îndeajuns</string>
     <string name="enter_mi_health">Deschideți Sănătate Xiaomi</string>
+    <string name="environment_detection_again">Încercați din nou</string>
+    <string name="environment_detection_fail">Se pare că este prea mult zgomot aici</string>
+    <string name="environment_detection_fail_hint">Mutați-vă într-un loc mai liniștit și încercați din nou.</string>
+    <string name="environment_detection_hint_one">Evitați locurile zgomotoase pentru a face statisticile mai precise.</string>
+    <string name="environment_detection_hint_two">Antrenamentul dvs. va fi întrerupt și reluat automat pe baza sunetelor pe care le produceți.</string>
+    <string name="environment_detection_ing">Se verifică mediul de antrenament…</string>
     <string name="equivalent_exercise">≈ plimbare de %1$s km (%2$s kcal)</string>
     <string name="evening">După amiază</string>
     <string name="every_day">În fiecare zi</string>
@@ -592,6 +620,8 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="health_score">Scor sănătate</string>
     <string name="health_score_tips">Scorul de sănătate este calculat pe baza IMC (indicele de masă corporală), dar și pe somn și pașii efectuați. Cu cât sunteți mai aproape de țintele propuse, cu atât scorul de sănătate este mai ridicat.</string>
     <string name="health_setting">Setări sănătate</string>
+    <string name="health_uninstall_dialog_content">Aplicația Sănătate Xiaomi este o aplicație de sistem. Puteți utiliza această aplicație pentru a număra pașii, urmări somnul, perioadele și greutatea, precum și pentru a vă sincroniza statisticile în cloud. Nu veți mai putea folosi această aplicație după ce o dezinstalați.</string>
+    <string name="health_uninstall_dialog_title">Dezinstalați aplicația Sănătate Xiaomi?</string>
     <string name="heart_rate">Ritm cardiac</string>
     <string name="height">Înălțime</string>
     <string name="high">Ridicat</string>
@@ -638,9 +668,8 @@ Așteptați până când cerculețul devine roșu."</string>
     <string name="hr_fp_detect_principle_desc">Sângele nu este complet opac; prin urmare, lumina poate trece prin el. Cu fiecare bătaie de inimă, sângele curge spre degete, blocând mai multă lumină decât între bătăile inimii. Lumina puternică din zona scanerului de amprentă de sub ecran ne permite să urmărim modificările fluxului sanguin, să analizăm tiparele și să le transformăm în valori ale ritmului cardiac.</string>
     <string name="hr_fp_detect_principle_desc_2">"Notă: Asigurați-vă că degetul acoperă complet pictograma amprentei în timpul măsurării. Nu apăsați foarte tare, deoarece se poate bloca fluxul de sânge din vârful degetelor și poate duce la rezultate inexacte. Această măsurare este furnizată numai pentru referință. Nu poate înlocui testele medicale."</string>
     <string name="hr_fp_detect_principle_desc_3">Testele noastre arată că această metodă măsoară ritmul cardiac cu o eroare de numai ≤3 BPM.</string>
-    <string name="hr_fp_detect_start_desc">"Apăsați ușor pictograma amprentei.
-Nu mișcați degetul."</string>
-    <string name="hr_fp_detecting">Se măsoară…</string>
+    <string name="hr_fp_detect_start_desc">Acoperiți pictograma cu degetul</string>
+    <string name="hr_fp_detecting">Nu mișcați degetul</string>
     <string name="hr_fp_not_put_well">"Degetul s-a mișcat.
 Reluați măsurarea."</string>
     <string name="hr_fp_report_common_desc">Ritmul cardiac normal variază de la 60 la 100 de bătăi pe minut. O frecvență cardiacă mai mică de 60 BPM este un semn de bradicardie, în timp ce o frecvență cardiacă peste 100 BPM este acceptată ca tahicardie la adulți.</string>
@@ -655,7 +684,18 @@ Reluați măsurarea."</string>
     <string name="hr_pre_detect_finger">Se verifică…</string>
     <string name="hr_re_detect_title">Reluați</string>
     <string name="hr_report_active_desc">Măsurarea ritmului cardiac imediat după antrenament vă poate ajuta să vă ajustați obiceiurile de efectuare a exercițiilor, deoarece antrenamentele de intensitate diferită au zone de ritm cardiac optime diferite. Dacă ritmul cardiac este prea mare, activitatea ar putea fi dăunătoare sănătății dvs., ducând la amețeli, senzație de apăsare a pieptului și alte riscuri. Frecvența cardiacă scăzută ar putea fi un semn al eficacității scăzute a unui anumit antrenament.</string>
+    <string name="hr_report_active_high_desc">Ritmul cardiac actual este un ritm cardiac de intensitate ridicată. Funcția cardiopulmonară va fi stimulată.</string>
+    <string name="hr_report_active_higher_desc">Ritmul cardiac actual este un ritm cardiac de intensitate ridicată. Funcția inimii și a plămânilor este stimulată puternic, în același timp, acordați atenție stării fizice, dacă există disconfort, ar trebui să opriți exercițiul cât mai curând posibil.</string>
+    <string name="hr_report_active_lower_mid_desc">Frecvența cardiacă actuală este o frecvență cardiacă de intensitate mai mică. Se poate încălzi. Se sugerează că persoanele cu o stare de sănătate precară ar trebui să facă exerciții la o intensitate scăzută până la moderată.</string>
+    <string name="hr_report_active_lowest_desc">Frecvența cardiacă actuală este o frecvență cardiacă de intensitate redusă. Poate produce anumite stimulări pentru corp, dar intensitatea exercițiilor este mică.</string>
+    <string name="hr_report_active_mid_desc">Frecvența cardiacă actuală este o rată moderată de efort. Se recomandă ca majoritatea adulților sănătoși să facă exerciții de intensitate moderată până la mare timp de 150 de minute pe săptămână.</string>
     <string name="hr_report_common_desc">Frecvența cardiacă normală este menținută de corpul uman în timpul activităților zilnice și variază de la 60 la 100 de bătăi pe minut. O frecvență cardiacă mai mică de 60 BPM este un semn de bradicardie, în timp ce o frecvență cardiacă peste 100 BPM este acceptată ca tahicardie la adulți.</string>
+    <string name="hr_report_regular_fast_desc">Tahicardia curentă. Sporturile severe, băutul, munca fizică grea, tensiunea, anxietatea sau administrarea unor medicamente pot provoca tahicardie fiziologică, în timp ce bolile cardiovasculare, anemia, hipertiroidismul, hipoxia, insuficiența cardiacă și alte boli pot provoca tahicardie patologică. Dacă vă simțiți rău, vă rugăm să vă adresați medicului dumneavoastră.</string>
+    <string name="hr_report_regular_normal_desc">Ritmul cardiac este în limitele normale. Inima ta este bună să facă față stresului, iar corpul tău poate rezista stresului extern. Schimbarea ritmului cardiac este strâns legată de bolile de inimă. Vă rugăm să acordați atenție schimbării ritmului cardiac în orice moment, în special în timpul exercițiului.</string>
+    <string name="hr_report_regular_slow_desc">Ritmul cardiac actual este prea lent. Rata bradicardiei a fost mai mică decât frecvența cardiacă normală (aproximativ 60%). Dacă bradicardia nu provoacă amețeli, amauroză, amețeli, sincopă și alte simptome, nu poate interfera, poate fi urmărită în mod regulat. Dar dacă aveți senzație de apăsare toracică, amețeli și alte simptome, vă rugăm să consultați medicul imediat.</string>
+    <string name="hr_report_resting_fast_desc">Ritmul cardiac de odihnă este mai mare decât intervalul normal, ceea ce poate duce la oboseală sau tahicardie. Se sugerează că ar trebui să vă îmbunătățiți stilul de viață, cum ar fi dieta cu conținut scăzut de sare și mai puține uleiuri, pierderea în greutate, fumatul și încetarea alcoolului, ajustarea psihologică și emoțională, în special creșterea treptată a exercițiului fizic, care poate ajuta la încetinirea ritmului cardiac de odihnă.</string>
+    <string name="hr_report_resting_normal_desc">Ritmul cardiac de odihnă este în intervalul normal. Ritmul cardiac în repaus se referă la numărul de bătăi cardiace pe minut al persoanelor normale într-o stare liniștită. Cel mai bun moment pentru a măsura ritmul cardiac în repaus este să te trezești dimineața, să stai întins în pat și să nu faci nicio activitate fizică. Înainte de a măsura ritmul cardiac în repaus, respirați adânc pentru a relaxa complet corpul.</string>
+    <string name="hr_report_resting_slow_desc">Ritmul cardiac de odihnă este sub intervalul normal și poate fi prezentă bradicardie. Dacă ritmul cardiac este prea lent pentru o lungă perioadă de timp, este ușor să provoace ischemie și hipoxie a organelor, în special a vaselor cardio-cerebrale. Ritmul cardiac de odihnă este strâns legat de dietă, exerciții fizice, stres, somn și starea fizică. Este recomandat să mențineți un stil de viață sănătos și bun și să acordați atenție reacțiilor fizice în timp. Dacă aveți simptome precum amețeli, oboseală, leșin și senzație de apăsare toracică, vă rugăm să consultați medicul imediat.</string>
     <string name="hr_see_report">Vedeți raportul</string>
     <string name="hr_start_detect">Începeți să experimentați</string>
     <string name="hr_state">Stare</string>
@@ -746,6 +786,7 @@ Reluați măsurarea."</string>
     <string name="low_intensity">Redus</string>
     <string name="low_intensity_description">Frecvența respiratorie regulată care vă permite să mențineți conversația</string>
     <string name="low_pressure">Diasistolică (inferioară)</string>
+    <string name="lowest_freq">Cea mai mică frecvență</string>
     <string name="lowest_jump">Cea mai mică săritură</string>
     <string name="manage_home">Gestionați pagina de start</string>
     <string name="manual_add">Adăugați manual</string>
@@ -763,6 +804,28 @@ Reluați măsurarea."</string>
     <string name="max_low_pressure">Max diasistolică (inferioară)</string>
     <string name="maximum">Maxim</string>
     <string name="maximum_pace">Cel mai mare ritm</string>
+    <string name="mcv2_back_button_desc">Înapoi</string>
+    <string name="mcv2_cc_is_off">Subtitrarea este oprită. Atingeți pentru a o afișa.</string>
+    <string name="mcv2_cc_is_on">Subtitrarea este pornită. Atingeți pentru a o ascunde.</string>
+    <string name="mcv2_error_dialog_button">OK</string>
+    <string name="mcv2_ffwd_button_desc">Înainte cu 30 de secunde</string>
+    <string name="mcv2_full_screen_button_desc">Ecran complet</string>
+    <string name="mcv2_launch_button_desc">Deschide link-ul</string>
+    <string name="mcv2_music_artist_unknown_text">Artist necunoscut</string>
+    <string name="mcv2_music_title_unknown_text">Titlu piesă necunoscut</string>
+    <string name="mcv2_next_button_desc">Următoarea piesă</string>
+    <string name="mcv2_non_music_title_unknown_text">Titlu videoclip necunoscut</string>
+    <string name="mcv2_overflow_left_button_desc">Înapoi la lista de butoane anterioară</string>
+    <string name="mcv2_overflow_right_button_desc">Vedeți mai multe butoane</string>
+    <string name="mcv2_pause_button_desc">Pauză</string>
+    <string name="mcv2_play_button_desc">Redă</string>
+    <string name="mcv2_playback_error_text">Nu s-a putut reda elementul solicitat</string>
+    <string name="mcv2_previous_button_desc">Piesa anetrioară</string>
+    <string name="mcv2_replay_button_desc">Redă din nou</string>
+    <string name="mcv2_rewind_button_desc">Înapoi cu 10 secunde</string>
+    <string name="mcv2_seek_bar_desc">Progresul redării</string>
+    <string name="mcv2_settings_button_desc">Setări</string>
+    <string name="mcv2_video_quality_button_desc">Selecție Calitate Video</string>
     <string name="measure_date">Data măsurării</string>
     <string name="measure_time">Ora măsurării</string>
     <string name="medical_file_desc1">Informații medicale importante esențiale pentru situațiile de urgență</string>
@@ -820,6 +883,9 @@ Reluați măsurarea."</string>
     <string name="mi_health">Sănătate Xiaomi</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
+    <string name="miao_course_info">%1$d/%2$d %3$s</string>
+    <string name="miao_course_progress_info">%1$d/%2$d</string>
+    <string name="miao_course_progress_info_2">%1$d/%2$d''</string>
     <string name="middle">Mediu</string>
     <string name="middle_intensity_description">Rata respiratorie mai rapidă care vă permite să terminați propozițiile</string>
     <string name="midnight">Noapte</string>
@@ -854,6 +920,11 @@ Reluați măsurarea."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
+    <string name="miuix_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_search_history_clear">Goliți istoricul de căutare</string>
+    <string name="miuix_search_history_default_title">Istoric de căutare</string>
+    <string name="miuix_search_recommendation_default_title">V-ar putea interesa acestea</string>
+    <string name="miuix_search_recommendation_item_del_des">Ștergeți</string>
     <string name="model_card_setting">Setări file</string>
     <string name="moderately_abnormal">Stadiul 2 de hipertensiune</string>
     <string name="moderately_abnormal_tip">În fiecare zi după trezire și înainte de culcare</string>
@@ -975,6 +1046,7 @@ Reluați măsurarea."</string>
     <string name="passport_oauth_sucess_tip">Autorizat cu succes</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pause">Pauză</string>
+    <string name="pause_button_content_description">Pauză</string>
     <string name="per_count_minutes1">%d SPM</string>
     <string name="per_time_minutes">%d pe minut</string>
     <string name="per_time_minutes1">" pe minut"</string>
@@ -998,6 +1070,7 @@ Reluați măsurarea."</string>
     <string name="placement_tips_warn">Nerecomandat</string>
     <string name="placement_tips_warn_1">Bandă de alergat</string>
     <string name="play">Redați</string>
+    <string name="play_button_content_description">Redați</string>
     <string name="please_choose">Selectați</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Înot în piscină</string>
@@ -1080,6 +1153,8 @@ Reluați măsurarea."</string>
     <string name="retry">Încercați din nou</string>
     <string name="revert_to_default">Restaurați setările implicite</string>
     <string name="rope_skipping">Sărit coarda</string>
+    <string name="rope_skipping_environment_warning">Vă rugăm să evitați zonele zgomotoase</string>
+    <string name="rope_skipping_ways">Identifică vocal coarda de sărit</string>
     <string name="rowing_machine">Vâslire</string>
     <string name="run">Alergare</string>
     <string name="saturday">Sâmbătă</string>
@@ -1124,6 +1199,26 @@ Reluați măsurarea."</string>
     <string name="severe_abnormal_tip">În fiecare zi după trezire, după masă și înainte de a merge la culcare</string>
     <string name="share">Partajați</string>
     <string name="skip">Omiteți</string>
+    <string name="skip_to_next_item_button_content_description">Treci la piesa următoare</string>
+    <string name="skip_to_previous_item_button_content_description">Treci la piesa anterioară</string>
+    <string name="skipping_count">Sărituri</string>
+    <string name="skipping_detection_no">Nu s-a putut detecta antrenamentul.</string>
+    <string name="skipping_detection_no_hint">Evitați zonele zgomotoase și mențineți acest dispozitiv în apropiere.</string>
+    <string name="skipping_kcal">Calorii</string>
+    <string name="skipping_pause">Se ignoră expirarea</string>
+    <string name="skipping_pause_tips">În pauză | Reluați antrenamentul pentru a continua urmărirea automată</string>
+    <string name="skipping_ready">Puteți începe antrenamentul acum</string>
+    <string name="skipping_ready_hint_one">Păstrați acest dispozitiv la maxim 1 metru distanță.</string>
+    <string name="skipping_ready_hint_two">Antrenamentul va fi oprit și reluat automat în funcție de zgomotul produs.</string>
+    <string name="skipping_ready_toast">Am crescut volumul pentru a putea auzi mai bine instrucțiunile.</string>
+    <string name="skipping_reset_time">Odihnă</string>
+    <string name="skipping_start_counting">Start</string>
+    <string name="skipping_time">Durată</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Accept și încarc</string>
+    <string name="skipping_upload_dialog_msg">Pentru a oferi o experiență mai precisă de numărare a săriturilor, Sănătate Xiaomi va încărca fișierul de înregistrare al săritului corzii în condiții Wi-Fi pentru a optimiza efectul de recunoaștere a săriturilor corzii. Pentru a vă proteja confidențialitatea, încărcarea și stocarea fișierelor de înregistrare vor fi strict criptate.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Respinge și nu mai întreba din nou</string>
+    <string name="skipping_upload_dialog_title">Încărcați înregistrarea săritului corzii pentru a optimiza recunoașterea</string>
+    <string name="skipping_upload_tips">Încărcați această înregistrare a săritului corzii pentru a ne ajuta să îmbunătățim efectul de recunoaștere</string>
     <string name="sleep">Somn</string>
     <string name="sleep_and_get_up_time">Programul de somn</string>
     <string name="sleep_auto_start_perm_grant">Permisiuni acordate</string>
@@ -1304,6 +1399,9 @@ despre somn"</string>
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="sport_audio_permission_dialog_content">Această aplicație are nevoie de permisiuni pentru a înregistra sunete audio pentru a putea urmări antrenamentele pe baza sunetelor pe care le produceți.</string>
+    <string name="sport_audio_permission_dialog_desc">Pentru urmărirea antrenamentelor pe baza sunetelor pe care le produceți</string>
+    <string name="sport_audio_permission_dialog_title">Sunt necesare unele permisiuni</string>
     <string name="sport_btn_continue">Reluați</string>
     <string name="sport_btn_finish">Încheiați</string>
     <string name="sport_btn_lock">Blocați</string>
@@ -1317,6 +1415,7 @@ despre somn"</string>
     <string name="sport_invalid_dialog_title">Prea repede!</string>
     <string name="sport_menu_share">Partajați</string>
     <string name="sport_no_internet_toast">Nu vă pot accesa locația precisă din cauza semnalului de rețea slab.</string>
+    <string name="sport_outdoor_running">Alergare</string>
     <string name="sport_pace_chart_last_km">Mai puțin de 1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
     <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
@@ -1413,6 +1512,8 @@ despre somn"</string>
     <string name="sustain_title">"Nu v-ați mișcat timp de "</string>
     <string name="swim">Înot</string>
     <string name="swim_type">Stil</string>
+    <string name="swipe_right_to_end">Glisați spre dreapta pentru a finaliza</string>
+    <string name="swipe_up_to_end">Glisați în sus pentru a finaliza</string>
     <string name="sync_health_data">Sincronizați datele despre Sănătate</string>
     <string name="sync_immediately">Sincronizați</string>
     <string name="sync_is_not_closed">Sincronizarea este acum activă</string>
@@ -1571,6 +1672,7 @@ despre somn"</string>
     <string name="tb_weight_pre_time">Cântărirea anterioară</string>
     <string name="tb_weight_result">Rezultatul estimat: %s</string>
     <string name="temporary_not_available">indisponibil temporar</string>
+    <string name="test">implicit 360dp</string>
     <string name="text_edit_exercise_goal">Modificați ținta</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Finalizat</string>
@@ -1658,6 +1760,7 @@ despre somn"</string>
     <string name="total_distance_label">Distanța totală</string>
     <string name="total_slip">Numărul repetărilor</string>
     <string name="total_time_label">Timpul total</string>
+    <string name="try_again">Încercați din nou</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
@@ -1701,6 +1804,7 @@ Actualizați acum?"</string>
     <string name="value_error_correct">Editați înregistrarea</string>
     <string name="visceral_fat">Grăsime viscerală</string>
     <string name="visceral_fat_descripe_content">Grăsimead viscerală este esențială pentru stabilizarea și protejarea organelor interne. Totuși, grăsimea viscerală ridicată crește riscul bolilor cardiovasculare și metabolice.</string>
+    <string name="voice_remind">Am crescut volumul pentru a putea auzi mai bine instrucțiunile.</string>
     <string name="walk">Mers</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

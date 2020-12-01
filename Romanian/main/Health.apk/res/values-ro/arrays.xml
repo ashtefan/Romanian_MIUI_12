@@ -4,11 +4,19 @@
         <item>Sănătate</item>
         <item>Exerciții</item>
     </string-array>
+    <string-array name="MediaControlView_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Alergare</item>
         <item>Plimbare</item>
         <item>Ciclism</item>
-        <item>Bandă de alergat</item>
+        <item>Coardă de sărit</item>
         <item>Antrenament</item>
     </string-array>
     <string-array name="alphabet_table">
@@ -243,6 +251,15 @@
         <item>Sâmbătă</item>
     </string-array>
     <string-array name="week_label">
+        <item>Dum</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="week_short">
         <item>Dum</item>
         <item>Lun</item>
         <item>Mar</item>
