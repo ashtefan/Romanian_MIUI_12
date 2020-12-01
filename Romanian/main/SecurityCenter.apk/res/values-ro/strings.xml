@@ -1500,7 +1500,7 @@ cardul de sănătate"</string>
     <string name="gb_advance_settings_edge_gear4">Mare</string>
     <string name="gb_advance_settings_edge_suppression">Zonă rezistentă la atingeri</string>
     <string name="gb_advance_settings_edge_suppression_summary">Reduce sensibilitatea ecranului în zona marginilor pentru a evita declanșarea accidentală. Țineți telefonul de zonele evidențiate pentru a menține difuzoarele libere.</string>
-    <string name="gb_advance_settings_finger_up">Senzitivitatea la atingeri repetate</string>
+    <string name="gb_advance_settings_finger_up">Senzitivitatea la atingere continuă</string>
     <string name="gb_advance_settings_follow_up">Răspuns ecran tactil</string>
     <string name="gb_advance_settings_reset">Restaurați setările implicite</string>
     <string name="gb_advance_settings_reset_dialog_content">Restaurați setările implicite acum?</string>
@@ -2679,7 +2679,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_loading">Încărcare</string>
     <string name="power_optimize_open_hide_mode">Activați Economisirea acumulatorului</string>
     <string name="power_optimize_power_save_extend_time">Adăugați %s</string>
-    <string name="power_optimize_power_save_summary">Treceți la modul întunecat și aplicați mai multe optimizări ale sistemului care limitează activitatea de fundal și economisesc bateria</string>
+    <string name="power_optimize_power_save_summary">Activați Economisirea acumulatorului pentru a aplica mai multe optimizări de sistem ce limitează activitatea din fundal</string>
     <string name="power_optimize_prohibit_app_autostart">Nu permiteți aplicațiilor să pornească automat</string>
     <string name="power_optimize_reduce_fps">Scădeți rata de reîmprospătare a ecranului la %d Hz</string>
     <string name="power_optimize_reduce_fps_summary">Rata de reîmprospătare mai mică funcționează pentru majoritatea scenariilor</string>

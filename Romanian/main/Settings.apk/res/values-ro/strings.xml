@@ -329,6 +329,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="additional_system_update_menu" />
     <string name="additional_system_update_settings_list_item_title">Actualizări de sistem suplimentare</string>
     <string name="adjust_3d_depth_title">Ajustaţi adâncimea 3D în jocuri</string>
+    <string name="adjust_font_size_answer_cn">Încercați să ajustați dimensiunea textului și grosimea fontului folosind glisoarele de mai jos!</string>
+    <string name="adjust_font_size_answer_global">Încercați să ajustați dimensiunea textului folosind glisoarele de mai jos!</string>
     <string name="adjust_temperature_title">Temperatura de culoare</string>
     <string name="admin_device_owner_message">"Administratorul poate monitoriza și gestiona aplicațiile și datele asociate acestui dispozitiv, inclusiv setări, permisiuni, acces corporate, activitate în rețea și informații despre localizarea dispozitivului."</string>
     <string name="admin_disabled_other_options">Alte opțiuni sunt dezactivate de către administrator.</string>
@@ -2842,6 +2844,9 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fluency_mode">Animații de sistem</string>
     <string name="fluency_mode_confirm_and_reboot">Reporniți acum</string>
     <string name="fold_title">Reguli pentru notificările grupate</string>
+    <string name="font_settings_jump">Accesibilitate > Dimensiunea textului</string>
+    <string name="font_settings_recommend_title">Dimensiunea textului nu este destul de mare?</string>
+    <string name="font_settings_summary_cn">Fonturi și dimensiunea textului</string>
     <string name="font_size_exhuge">Imens</string>
     <string name="font_size_huge">Imens</string>
     <string name="font_size_kddi">Mediu</string>
@@ -3179,6 +3184,7 @@ Puteți modifica acest lucru mai târziu în Setări > Aplicații și notificăr
     <string name="homepage_all_settings">Toate Setările</string>
     <string name="homepage_condition_footer_content_description">Restrângeți</string>
     <string name="homepage_personal_settings">Sugestii</string>
+    <string name="how_adjust_font_size">Cum pot ajusta dimensiunea textului?</string>
     <string name="how_backup_content">"Puteți salva copiile de rezervă pe dispozitiv sau în cloud. Copiile de rezervă locale pot fi stocate pe telefonul mobil, pe computer sau pe un dispozitiv USB.
 
 Telefon mobil
@@ -4103,6 +4109,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="miheadset_in_ear_check">Detectați prezența căștii din ureche</string>
     <string name="miheadset_in_ear_check_summary">Întrerupeți și reluați automat redarea în timp ce purtați sau scoateți căștile</string>
     <string name="miheadset_last_version">Firmware-ul este actualizat</string>
+    <string name="miheadset_local_ota">ota local</string>
     <string name="miheadset_moreSettingsInAi">Setări adiționale</string>
     <string name="miheadset_next">următorul</string>
     <string name="miheadset_ok_device">OK</string>
@@ -5016,6 +5023,7 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="personal_data_section_title">Date personale</string>
     <string name="personal_device_admin_title">Personal</string>
     <string name="personal_section_title">Personalizare</string>
+    <string name="personalize_title">Imagine de fundal și personalizare</string>
     <string name="phone_backup_summary">Creați o copie de rezervă și restaurați elemente pe acest dispozitiv</string>
     <string name="phone_backup_title">Dispozitiv mobil</string>
     <string name="phone_call_noise_suppression">Suprimarea zgomotului în timpul apelurilor</string>
@@ -7072,6 +7080,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_font2">Font</string>
     <string name="title_font_current">Fontul sistemului</string>
     <string name="title_font_current2">Fontul sistemului</string>
+    <string name="title_font_settings">Setări font</string>
     <string name="title_font_size">Dimensiune text</string>
     <string name="title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="title_layout_current">Dimensiunea textului</string>
@@ -7080,6 +7089,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_miui_music_mute_by_user">Modul Silențios</string>
     <string name="title_of_auto_launch_manage">Pornire automată</string>
     <string name="to_close">Dezactivați</string>
+    <string name="toast_apply_font_fail">Nu pot seta fontul</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Nu se poate proiecta când conexiunea Wi-Fi este stabilită și hotspotul este pornit."</string>
