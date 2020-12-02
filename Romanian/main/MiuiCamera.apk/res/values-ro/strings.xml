@@ -142,6 +142,12 @@
     <string name="accessibility_portrait_depth_effect_panel_on">Panou portret</string>
     <string name="accessibility_preview_button">Previzualizați</string>
     <string name="accessibility_preview_effect_button">Efect previzualizare</string>
+    <string name="accessibility_preview_expand">Mărire</string>
+    <string name="accessibility_preview_front">Previzualizare cameră frontală</string>
+    <string name="accessibility_preview_select_tip">Poziția %1$d</string>
+    <string name="accessibility_preview_selected">Selectată</string>
+    <string name="accessibility_preview_shrink">Micșorare</string>
+    <string name="accessibility_preview_zoom_tip">%1$.1fX previzualizare zoom</string>
     <string name="accessibility_pro_video_simple_mode">Mod Ușor</string>
     <string name="accessibility_protrait">Portret</string>
     <string name="accessibility_pull_down_to_open_camera">Glisați în jos pentru a porni camera</string>
@@ -516,6 +522,7 @@ documentele scanate în mod automat"</string>
     <string name="download_cancel_hint">Anulați descărcarea %1$s?</string>
     <string name="download_confirm">Descărcați</string>
     <string name="download_hint">%1$s MB date mobile vor fi utilizate pentru a descărca elementele. Descărcați oricum?</string>
+    <string name="download_in_progress">Se descarcă…</string>
     <string name="download_title">Avertisment utilizare date</string>
     <string name="dual_camera_lens_covered_toast">Lentilele sunt acoperite.</string>
     <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
@@ -1368,6 +1375,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_hdr10_video_mode_description">Optimizează culorile și contrastul pentru videoclipuri 4K și 8K în mod automat. Videoclipurile optimizate pot fi redate doar pe dispozitive compatibile HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
+    <string name="pref_hdr10plus_video_mode_description">Optimizați culorile și ajustați contrastul pentru videoclipurile 4K și 8K. Această funcție funcționează numai pe dispozitive compatibile HDR10+.</string>
     <string name="pref_lens_dirty_detect_summary">Primiți o notificare când lentila este murdară</string>
     <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
@@ -1544,6 +1552,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="timbre_normal">Original</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">"Nu se poate utiliza această dimensiune video pentru înregistrarea în intervale de timp"</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">qqxxzzyyzztthhzzssggbbjj</string>
     <string name="timefreeze_guide_tip3">ssyyzz，zzttjjllbbccbbdd</string>
     <string name="timefreeze_guide_tip4">yyccddzzll</string>

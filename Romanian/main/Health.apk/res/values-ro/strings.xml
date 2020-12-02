@@ -991,6 +991,7 @@ Reluați măsurarea."</string>
     <string name="need_auto_start_permission">Pentru a obține statistici mai precise, permiteți Sănătate Xiaomi să pornească în mod automat.</string>
     <string name="need_unrestricted_permission">Pentru a obține statistici mai precise, permiteți Sănătate Xiaomi să ruleze în permanență în fundal.</string>
     <string name="network_connect_failure">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_name_china">Wi-Fi</string>
     <string name="network_not_available">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="network_not_available2">Nu s-a putut conecta la rețea</string>
     <string name="next_step">Următorul</string>
@@ -1204,7 +1205,7 @@ Reluați măsurarea."</string>
     <string name="skipping_detection_no">Nu s-a putut detecta antrenamentul.</string>
     <string name="skipping_detection_no_hint">Evitați zonele zgomotoase și mențineți acest dispozitiv în apropiere.</string>
     <string name="skipping_kcal">Calorii</string>
-    <string name="skipping_pause">Se ignoră expirarea</string>
+    <string name="skipping_pause">Omitere în pauză</string>
     <string name="skipping_pause_tips">În pauză | Reluați antrenamentul pentru a continua urmărirea automată</string>
     <string name="skipping_ready">Puteți începe antrenamentul acum</string>
     <string name="skipping_ready_hint_one">Păstrați acest dispozitiv la maxim 1 metru distanță.</string>
@@ -1214,7 +1215,7 @@ Reluați măsurarea."</string>
     <string name="skipping_start_counting">Start</string>
     <string name="skipping_time">Durată</string>
     <string name="skipping_upload_dialog_agree_and_upload">Accept și încarc</string>
-    <string name="skipping_upload_dialog_msg">Pentru a oferi o experiență mai precisă de numărare a săriturilor, Sănătate Xiaomi va încărca fișierul de înregistrare al săritului corzii în condiții Wi-Fi pentru a optimiza efectul de recunoaștere a săriturilor corzii. Pentru a vă proteja confidențialitatea, încărcarea și stocarea fișierelor de înregistrare vor fi strict criptate.</string>
+    <string name="skipping_upload_dialog_msg">Pentru a oferi o experiență mai precisă de numărare a săriturilor, Sănătate Xiaomi va încărca fișierul de înregistrare al săritului corzii în condiții %s pentru a optimiza efectul de recunoaștere a săriturilor corzii. Pentru a vă proteja confidențialitatea, încărcarea și stocarea fișierelor de înregistrare vor fi strict criptate.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Respinge și nu mai întreba din nou</string>
     <string name="skipping_upload_dialog_title">Încărcați înregistrarea săritului corzii pentru a optimiza recunoașterea</string>
     <string name="skipping_upload_tips">Încărcați această înregistrare a săritului corzii pentru a ne ajuta să îmbunătățim efectul de recunoaștere</string>
@@ -1759,6 +1760,7 @@ despre somn"</string>
     <string name="total_distance_label">Distanța totală</string>
     <string name="total_slip">Numărul repetărilor</string>
     <string name="total_time_label">Timpul total</string>
+    <string name="treadmill">Bandă de alergat</string>
     <string name="try_again">Încercați din nou</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>

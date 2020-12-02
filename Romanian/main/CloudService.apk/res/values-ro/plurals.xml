@@ -72,6 +72,10 @@
         <item quantity="other">%d rețele Wi-Fi</item>
         <item quantity="one">%d rețea Wi-Fi</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Încercați din nou în %d secunde</item>
+        <item quantity="one">Încercați din nou în %d secundă</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Elemente ce așteaptă sincronizarea: %d</item>
         <item quantity="one">Elementul care așteaptă sincronizarea: %d</item>

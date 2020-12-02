@@ -118,11 +118,13 @@
     <string name="dialog_title_recommend">Dezactivați sursele recomandate</string>
     <string name="disable">Dezactivaţi</string>
     <string name="display_expire_netiv1">În această lună</string>
-    <string name="do_not_support_url">"Acest tip de URL nu este acceptat"</string>
+    <string name="do_not_support_url">Acest tip de URL nu este acceptat</string>
     <string name="doc_filter">Documente</string>
     <string name="download">Descărcări</string>
     <string name="download_auth">Obţinere autorizare…</string>
     <string name="download_complete">Descărcări finalizate</string>
+    <string name="download_description_content">Descărcări este o aplicație de sistem. Nu veți putea să vă gestionați descărcările după ce le eliminați.</string>
+    <string name="download_description_title">Eliminați \"Descărcări\" de pe Ecranul principal?</string>
     <string name="download_detail">Detalii</string>
     <string name="download_error">Nereuşit</string>
     <string name="download_error_download_file_not_exists">"Fișierul nu există"</string>

@@ -92,6 +92,7 @@
     <string name="classes_isNull">Nu ați adăugat nicio clasă încă</string>
     <string name="classes_titlt">Programul clasei</string>
     <string name="classes_topTitle">Scanați programul clasei dvs.</string>
+    <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close_hotspot_when_connecting_to_wifi">Hotspot-ul este pornit. Activați Wi-Fi-ul.</string>
     <string name="common_retake_picture">Reluați</string>
     <string name="common_retry">Încercați din nou</string>
@@ -209,6 +210,9 @@
     <string name="general_title">Faceți o fotografie a unui obiect pe care doriți să-l recunoașteți</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
+    <string name="gravity_center">centru</string>
+    <string name="gravity_left">stânga</string>
+    <string name="gravity_right">dreapta</string>
     <string name="grayscale">Scară tonuri de gri</string>
     <string name="history">Istoric</string>
     <string name="history_empty">Niciun element aici încă</string>
@@ -465,6 +469,7 @@
     <string name="wechatcode_auto_processing_function_requires_permissions">Funcția de procesare automată a codurilor WeChat necesită ca această aplicație să aibă permisiuni pentru accesarea camerei și permisiuni de accesare a stocării.</string>
     <string name="weixin_code_tip">Scanați acest cod QR utilizând WeChat</string>
     <string name="welcome_to_thesweepversion">Bine ați venit în aplicația Scaner Beta!</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Hotspotul Wi-Fi \"%1$s\" există deja. Ștergeți-l și încercați din nou.</string>
     <string name="wifi_low_version_prompt">solicitare wi-fi</string>
