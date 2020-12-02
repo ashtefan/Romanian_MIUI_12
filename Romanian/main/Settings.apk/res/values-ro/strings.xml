@@ -2844,6 +2844,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fluency_mode">Animații de sistem</string>
     <string name="fluency_mode_confirm_and_reboot">Reporniți acum</string>
     <string name="fold_title">Reguli pentru notificările grupate</string>
+    <string name="font_setting_weight_toast">Fontul curent nu suportă ajustarea grosimii acestuia</string>
     <string name="font_settings_jump">Accesibilitate > Dimensiunea textului</string>
     <string name="font_settings_recommend_title">Dimensiunea textului nu este destul de mare?</string>
     <string name="font_settings_summary_cn">Fonturi și dimensiunea textului</string>

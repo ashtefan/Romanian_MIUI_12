@@ -2,6 +2,9 @@
 <resources>
     <string name="ai_assistant">Asistent AI Apelare</string>
     <string name="ai_assistant_not_installed">Instalați mai întâi Asistentul AI de Apelare</string>
+    <string name="ai_mode_auto">Auto</string>
+    <string name="ai_mode_manual">Manual</string>
+    <string name="ai_mode_subtitles">Subtitrări</string>
     <string name="antispam_local_marked">Marcat local</string>
     <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
     <string name="antispam_notification_title">Număr necunoscut</string>

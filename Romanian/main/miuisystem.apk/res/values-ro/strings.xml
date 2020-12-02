@@ -138,6 +138,7 @@ mm"</string>
     <string name="vip_not_login">Neconectat</string>
     <string name="vip_sign">Semnătură:</string>
     <string name="wallpaper_group_black_white_title">Alb-Negru</string>
+    <string name="wallpaper_group_color_move_title">Culori lichide</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebula Dinamic</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
@@ -148,6 +149,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Modele din natură</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitatea din Arizona</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
+    <string name="wallpaper_group_sgn_mountain_title">Muntele Siguniang</string>
     <string name="waterdrop_preview">Natură - Stropi</string>
     <string name="windchime">Adieri de vânt</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>

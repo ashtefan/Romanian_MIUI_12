@@ -352,6 +352,10 @@
     <string name="call_record_text_auto_delete_half_year">După %d luni</string>
     <string name="call_record_text_auto_delete_never">Niciodată</string>
     <string name="call_record_text_auto_delete_one_month">După %d lună</string>
+    <string name="call_record_user_notice_all_purpose">Găsiți apelurile pe durata cărora au fost menționate anumite cuvinte</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Pentru înregistrarea apelurilor</string>
+    <string name="call_record_user_notice_permission_desc_storage">Pentru salvarea înregistrărilor</string>
+    <string name="call_record_user_notice_title">Căutare apeluri vocale</string>
     <string name="call_record_whitelist_custom">Apelurile selectate</string>
     <string name="call_recording_notification_summary">Primiți o notificare după ce un apel este înregistrat</string>
     <string name="call_recording_notification_title">Notifică despre apelurile înregistrate</string>

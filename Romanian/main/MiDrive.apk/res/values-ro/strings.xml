@@ -586,6 +586,9 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="waiting_upload">În așteptare</string>
     <string name="warning_bar_title_cloud_space_already_full">Spațiul de stocare în cloud este aproape epuizat. Este posibil ca fotografiile să nu fie sincronizate.</string>
     <string name="warning_bar_title_cloud_space_full">Spațiul de stocare în cloud este epuizat. Nu se pot sincroniza fotografiile, istoricul de apelare sau alte elemente.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>

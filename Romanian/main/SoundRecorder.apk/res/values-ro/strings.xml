@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Conectate</string>
     <string name="call_record_list_group_unconnected">Neconectate</string>
     <string name="cancel_rename">Renunțați</string>
+    <string name="clear_data_dialog_content">Elementele memorate în cache, datele aplicației și setările personalizate vor fi șterse, dar înregistrările dvs. vor rămâne la locul lor.</string>
+    <string name="clear_data_dialog_title">Ștergeți datele acum?</string>
     <string name="clear_records">Ștergeți înregistrările sincronizate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
     <string name="cloud_record_tip">Sincronizare înregistrări cu Xiaomi Cloud.</string>
@@ -179,6 +181,7 @@
     <string name="pay_error_unknown">Eroare necunoscută</string>
     <string name="playback_delete_records">Ștergeți înregistrarea</string>
     <string name="playback_share_records">Partajați înregistrarea</string>
+    <string name="preference_clear_data">Goliți datele</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_enable_earpiece_summary">Utilizați difuzorul frontal pentru redare audio</string>
     <string name="preference_enable_earpiece_title">Utilizați difuzorul frontal</string>

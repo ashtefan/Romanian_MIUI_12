@@ -244,6 +244,7 @@
     <string name="app_behavior_key_camera">Realizare fotografii</string>
     <string name="app_behavior_key_location">Locație</string>
     <string name="app_behavior_key_protect">Protejare informații personale</string>
+    <string name="app_behavior_link_start">Start declanșat</string>
     <string name="app_behavior_list_load_more">Se încarcă…</string>
     <string name="app_behavior_location">%1s v-a accesat locația</string>
     <string name="app_behavior_location_bg">%1s v-a accesat locația în fundal</string>
@@ -305,6 +306,8 @@
     <string name="app_behavior_settings_category_privacy">Protejare informații personale</string>
     <string name="app_behavior_settings_perm_tips">Afișează o notificare în bara de stare atunci când aplicațiile vă accesează locația, înregistrează sunete audio sau când realizează fotografii</string>
     <string name="app_behavior_settings_privacy_tips">Afișează o notificare atunci când aplicația citește/scrie informații sensibile în fundal (contactele, istoricul de apelare, etc.)</string>
+    <string name="app_behavior_share_file">Partajați fișierul</string>
+    <string name="app_behavior_share_picture">Partajați imaginea</string>
     <string name="app_behavior_sms_read">%1s v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_read_single">Această aplicație v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_send">%1s a trimis un mesaj SMS</string>
@@ -3052,7 +3055,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="privacy_risk_result_uninstall_btn">Dezinstalați</string>
     <string name="privacy_risk_sensitive">Permisiuni sensibile</string>
     <string name="privacy_risk_sensitive_bar_title">Permisiuni sensibile</string>
-    <string name="privacy_risk_sensitive_call_records">Permiteți aplicațiilor să acceseze sau să apeleze din istoricul apelurilor</string>
+    <string name="privacy_risk_sensitive_call_records">Permiteți aplicațiilor să acceseze sau să editeze istoricul apelurilor</string>
     <string name="privacy_risk_sensitive_contact">Permiteți aplicațiilor să acceseze sau să editeze contactele</string>
     <string name="privacy_risk_sensitive_location">Permiteți aplicațiilor să vă localizeze dispozitivul utilizând rețelele disponibile sau sateliții</string>
     <string name="privacy_risk_sensitive_permissions">Permisiuni sensibile</string>

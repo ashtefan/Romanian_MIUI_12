@@ -113,8 +113,8 @@
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">S-au găsit %1$d contacte</item>
-        <item quantity="one">S-a găsit %1$d contact</item>
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contacte</item>
