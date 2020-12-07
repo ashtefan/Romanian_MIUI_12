@@ -149,6 +149,7 @@
     <string name="alert_back_milink_hangup_tips_content">"Proiectarea nu va fi înteruptă cât timp încheiați un apel. Puteți apăsa butonul Pornire pentru a trezi ecranul."</string>
     <string name="alert_back_milink_hangup_tips_content_vb">Proiectarea nu va fi înteruptă cât timp ecranul este închis și aplicația rulează în fundal. Puteți apăsa butonul de Pornire pentru a reactiva ecranul.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
+    <string name="allow_all">Permiteți tot</string>
     <string name="already_close_gamebooster">Jocurile turbo sunt dezactivate</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
@@ -878,6 +879,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
     <string name="comprehensive_protection_measures">Protecție sporită</string>
     <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
+    <string name="confirm_allow_all_permission">Permiteți tuturor acestor aplicații să utilizeze această caracteristică?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Se adaugă contul Mi</string>
     <string name="confirm_fingerprint_msg">Verificați-vă amprenta</string>
     <string name="confirm_leave">Nu, mulțumesc</string>

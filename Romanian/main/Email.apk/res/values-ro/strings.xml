@@ -961,6 +961,7 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare, contacte și informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_contacts_permission">Permiteți accesul aplicației de E-mail la stocare și la contacte din Setări</string>
   <string name="open_notification_kingagent">Activați notificările despre punctul de îngropare??</string>
+    <string name="open_pdf_error">Nu s-a putut deschide fișierul pdf. Vă rugăm să descărcați altă unealtă de deschidere și să încercați din nou mai târziu.</string>
     <string name="optimization_suggestion">Sugestii de optimizare</string>
     <string name="others_mail">Altul</string>
     <string name="others_mail_des">Alte servicii de e-mail private sau de servici</string>

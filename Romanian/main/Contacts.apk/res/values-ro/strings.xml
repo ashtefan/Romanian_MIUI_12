@@ -899,10 +899,8 @@ Motivul: \"%s\""</string>
   <string name="heduohao_label">HeDuoHao</string>
   <string name="heduohao_main_call_menu_title">Formați pe principal</string>
   <string name="heduohao_popup_txt">Sub%d</string>
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
-    <string name="help_url_people_main" />
-    <string name="hint_distance" />
+    <string name="hide_app_description_content">Contacte este o aplicație de sistem. O veți putea utiliza în continuare prin intermediul aplicației Telefon după ce eliminați scurtătura de pe Ecranul principal.</string>
+    <string name="hide_app_description_title">Eliminați \"Contacte\" de pe Ecranul principal?</string>
     <string name="hint_findContacts">Găsiţi contacte</string>
     <string name="hint_more_contact">Îmbinați contactele dublate</string>
     <string name="hybrid_check_network">Setări de rețea</string>
@@ -1467,6 +1465,10 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="residual_time_description2">%1$dh</string>
     <string name="residual_time_description3">%1$dm</string>
     <string name="residual_time_description4">%1$dz</string>
+    <string name="restore_app_btn_cancel">Renunțați</string>
+    <string name="restore_app_btn_restore">OK</string>
+    <string name="restore_app_description_content">Adăugați o scurtătură pe Ecranul principal pentru a putea accesa contactele mai rapid.</string>
+    <string name="restore_app_description_title">Adăugați \"Contacte\" pe Ecranul principal?</string>
     <string name="restore_nickname">Restabiliţi</string>
     <string name="ret_sign">"
 "</string>
