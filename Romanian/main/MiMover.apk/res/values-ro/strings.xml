@@ -342,6 +342,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="launcher">Dispunerea ecranului principal</string>
     <string name="less_than_1_minute">Mai puțin de 1 minut</string>
     <string name="loading_data">Doar o secundă…</string>
+    <string name="location_permission_request">Pentru conectarea la alte dispozitive din apropiere</string>
     <string name="login">Conectați-vă</string>
     <string name="login_failed">Nu s-a putut conecta. Încercați din nou.</string>
     <string name="logining">Se conectează…</string>
@@ -360,7 +361,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="manual_connection_content3">3. Introduceți această parolă pe vechiul dispozitiv pentru a vă conecta.</string>
     <string name="manual_connection_summary2">Dacă nu găsiți acest hotspot, reîmprospătați lista rețelelor Wi-Fi disponibile și încercați din nou.</string>
     <string name="manual_connection_title">Conectați-vă manual la vechiul dispozitiv</string>
-    <string name="message_request_package_stats_perm">Atingeți \"Continuați\" pentru a accesa Setările și acordați Mi Mover permisiunile necesare.</string>
+    <string name="message_request_package_stats_perm">Mi Mover are nevoie de această permisiune pentru a învăța ce aplicații sunt instalate pe un dispozitiv și pentru a transfera aceste aplicații pe un alt dispozitiv.</string>
     <string name="midnight">AM</string>
     <string name="miui_need_location_permission_summary">Permiteți Mi Mover să vă acceseze locația pentru a găsi dispozitivele din apropiere. Nu veți putea utiliza Mi Mover decât dacă veți acorda această permisiune.</string>
     <string name="miui_need_location_permission_title">Permiteți accesul la locație</string>
@@ -675,6 +676,9 @@ Eliberați cel puțin %s."</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="succ_description">Finalizat</string>
+    <string name="summary_open_wlan">Mi Mover are nevoie de această permisiune pentru a asigura stabilitatea procesului de transfer.</string>
+    <string name="summary_request_alert_window_prem">Mi Mover are nevoie de această permisiune pentru a asigura stabilitatea procesului de transfer.</string>
+    <string name="summary_request_write_settings_prem">Mi Mover are nevoie de această permisiune pentru a activa Wi-Fi și pentru a crea un hotspot pentru transferarea fișierelor.</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
@@ -742,8 +746,10 @@ Eliberați cel puțin %s."</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_spent">Ora: <g id="time">%1$s</g></string>
+    <string name="title_open_wlan">Activați Wi-Fi-ul</string>
+    <string name="title_request_alert_window_perm">Permiteți ferestrele plutitoare</string>
     <string name="title_request_package_stats_perm">Sunt necesare unele permisiuni</string>
-    <string name="title_request_write_settings_perm">Sunt necesare permisiuni de modificare a setărilor de sistem</string>
+    <string name="title_request_write_settings_perm">Permiteți modificarea setărilor de sistem</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="trans_detail_item_app_data_skip_data">Nu se pot transfera datele aplicației</string>
