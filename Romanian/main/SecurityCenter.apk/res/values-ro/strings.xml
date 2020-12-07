@@ -143,6 +143,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizată ieri la %s</string>
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
     <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
+    <string name="ai_allow_all">Notifică atunci când permisiunea este utilizată pentru toate</string>
     <string name="alert_back_diving_mode_summary">Dezactivați modul Imersiv acum?</string>
     <string name="alert_back_diving_mode_title">Modul Imersiv</string>
     <string name="alert_back_milink_hangup_tips_content">"Proiectarea nu va fi înteruptă cât timp încheiați un apel. Puteți apăsa butonul Pornire pentru a trezi ecranul."</string>
@@ -2559,16 +2560,16 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_battery_level_general">Normal</string>
     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
     <string name="power_center_battery_software">Software %s</string>
-    <string name="power_center_battery_status">Utilizarea acumulatorului</string>
+    <string name="power_center_battery_status">Utilizare</string>
     <string name="power_center_battery_temperature">Temperatură</string>
     <string name="power_center_battery_used_time">Pe acumulator</string>
     <string name="power_center_batteryrank_all">Toate utilizările acumulatorului</string>
     <string name="power_center_batteryrank_hardware">Utilizare acumulator Hardware %s</string>
     <string name="power_center_batteryrank_software">Utilizare acumulator Software %s</string>
     <string name="power_center_batteryscan_normal">Nu există probleme de utilizare a acumulatorului. Vedeți rezultatele.</string>
-    <string name="power_center_charge_status">Se încarcă</string>
+    <string name="power_center_charge_status">Încărcare</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
-    <string name="power_center_consume_fast">Descarcă acumulatorul</string>
+    <string name="power_center_consume_fast">Descărcare</string>
     <string name="power_center_dialog_msg_bottom">Puteți crește durata de viață a acumulatorului cu %1$dh și %2$dm. Activați Economisirea acumulatorului?</string>
     <string name="power_center_dialog_msg_title">Activați pentru a obține %1$s timp suplimentar. Următoarele acțiuni vor fi realizate pentru a economisi energia acumulatorului:</string>
     <string name="power_center_dialog_msg_top">Când Economisirea acumulatorului este activă, MIUI va face următoarele optimizări:</string>

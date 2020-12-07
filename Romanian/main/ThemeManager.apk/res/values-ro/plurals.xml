@@ -101,6 +101,14 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Înapoi %d secunde</item>
+        <item quantity="one">Înapoi %d secundă</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Aplicat pe %1$d dispozitive</item>
         <item quantity="one">Aplicat pe %1$d dispozitiv</item>

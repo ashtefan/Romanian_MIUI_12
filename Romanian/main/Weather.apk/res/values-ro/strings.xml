@@ -361,7 +361,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="receive_net_mock_success">Rețea fictivă primită cu succes</string>
     <string name="refresh_empty_data">Nu s-au putut încărca datele. Așteptați un minut sau două și încercați din nou.</string>
     <string name="refresh_fail">Nu s-a putut conecta la rețea</string>
-    <string name="reminder_from_xiaomi_weather_app">Alertă Meteo Xiaomi</string>
+    <string name="reminder_from_xiaomi_weather_app">Alertă Meteo Mi</string>
     <string name="request_cta_connect_net">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii listate mai jos.</string>
     <string name="request_permission_location_dialog_content">Pentru afișarea datelor meteo relevante în locația curentă</string>
     <string name="request_permission_main_purpose">Afișarea datelor meteo</string>
@@ -387,12 +387,12 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="settings_atmospheric_pressure_mmhg">Milimetri coloană de mercur (mmHg)</string>
     <string name="settings_atmospheric_pressure_title">Unitatea pentru presiunea atmosferică</string>
     <string name="share">Partajați</string>
-    <string name="share_button">Distribuiţi prin</string>
+    <string name="share_button">Distribuiţi</string>
     <string name="share_menu_title">Distribuiți</string>
-    <string name="share_subject">Distribuiţi prin</string>
+    <string name="share_subject">Distribuiţi</string>
     <string name="share_weather_desc">\#Meteo MIUI# Astăzi %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">"Nu s-a putut efectua captura de ecran"</string>
+    <string name="share_weather_save_pic_fail">Nu s-a putut efectua captura de ecran</string>
     <string name="shortcut_short_label_24_hour_forecast">Prognoza pe 24 de ore</string>
     <string name="shortcut_short_label_recent_forecast">Prognoza pe 5 zile</string>
     <string name="some_where_on_earth">Undeva pe Pământ</string>

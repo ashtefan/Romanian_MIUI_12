@@ -327,9 +327,13 @@
     <string name="clipboard_deny_notification_operation">Gestionați</string>
     <string name="clipboard_deny_notification_title">%1$s încearcă să acceseze elementele din clipboard</string>
     <string name="clipboard_may_sensitive">Informație posibil sensibilă</string>
+    <string name="clipboard_read_ai_deny_once">S-a refuzat %1$s să acceseze elementele din clipboard în mod automat</string>
     <string name="clipboard_read_allow_once">%1$s a accesat elementele din clipboard</string>
+    <string name="clipboard_read_deny_dialog_title">Accesul la clipboard refuzat pentru %1$s</string>
     <string name="current_permission_template">%1$s din %2$s</string>
     <string name="default_permission_description">executarea de acțiuni necunoscute</string>
+    <string name="forbid_notice_me">Nu notifica din nou</string>
+    <string name="go_behavior_record">Vedeți comportamentul aplicației</string>
     <string name="go_perm_manager">Gestionați permisiunile</string>
     <string name="grant_dialog_button_allow">Permite</string>
     <string name="grant_dialog_button_allow_always">Permiteți întotdeauna</string>
@@ -343,10 +347,12 @@
     <string name="grant_dialog_storage_category_title">Această aplicație necesită permisiunea de a accesa Galeria și mesajele din aplicațiile de socializare</string>
     <string name="grant_dialog_storage_gallery_title">Galerie</string>
     <string name="grant_dialog_storage_sociality_title">Mesajele din aplicațiile de socializare</string>
+    <string name="keep_notice_me">Continuă notificările</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="never_ask_again">Nu mai întreba din nou după restricționare</string>
     <string name="no">Nu</string>
+    <string name="notification_click_tip">Atingeți pentru a vedea detalii</string>
     <string name="ok">OK</string>    
     <string name="perm_action_allow">Permiteți</string>
     <string name="perm_action_deny">Nu permiteți niciodată</string>
