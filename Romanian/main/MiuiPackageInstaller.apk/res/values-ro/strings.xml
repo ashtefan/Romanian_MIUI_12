@@ -325,6 +325,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_confirm_question_update_system">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_system_no_perms">Doriți să instalați o actualizare a acestei aplicații de sistem? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
     <string name="install_confirm_text_gms">Această aplicație este compilată de către Google. Instalați serviciile Google Play înainte de a instala această aplicație. Fără acestea, este posibil ca aplicația să nu funcționeze în mod corect.</string>
+    <string name="install_continue">Instalați</string>
     <string name="install_control_cancel_install">Nu instala</string>
     <string name="install_control_cancel_vip_account_install">Ieșiți</string>
     <string name="install_control_continue_install">Instalează oricum</string>
@@ -467,12 +468,13 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_failed_solution_3">Încercați să salvați pachetul de instalare într-o locație diferită.</string>
     <string name="miui_failed_solution_4">Eliberați spațiu de stocare în Securitate > Curățare și încercați din nou.</string>
     <string name="miui_failed_solution_5">Încercați să utilizați un pachet de instalare compatibil.</string>
-    <string name="miui_failed_solution_6">Dezinstalați această aplicație din Spațiul secundar și încercați din nou.</string>
+    <string name="miui_failed_solution_6">Ștergeți versiunea deja instalată și încercați să o instalați din nou.</string>
     <string name="miui_failed_solution_7">Descărcați cea mai recentă versiune a aplicației din GetApps.</string>
+    <string name="miui_failed_solution_8">Descărcați aplicația din GetApps.</string>
     <string name="miui_failed_system_incompatible">Pachet de instalare incompatibil</string>
     <string name="miui_failed_update_incompatible">Semnături conflictuale ale aplicației</string>
     <string name="miui_failed_version_downgrade">Nu s-au putut retrograda versiunile aplicațiilor</string>
-    <string name="miui_failed_version_downgrade_space">Există o versiune mai recentă a acestei aplicații în Spațiul secundar.</string>
+    <string name="miui_failed_version_downgrade_space">Există o nouă versiune a acestei aplicații instalată în Spațiul secundar sau în Spațiul copilului.</string>
     <string name="miui_help_feedback_label">Ajutor și feedback</string>
     <string name="miui_install_confirm_question">Instalați această aplicație?</string>
     <string name="miui_install_confirm_question_update">Suprascrieți aplicația existentă?</string>

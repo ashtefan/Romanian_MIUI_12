@@ -64,6 +64,9 @@
     <string name="framwork_base_service">Pentru a vă oferi aceste servicii, Mi Services Framework (Contul Mi, Mi Push, Mi Stats, MIUI BI) trebuie să se conecteze la internet, să vă acceseze numărul de telefon, IMEI-ul și IMSI-ul și să permită dispozitivului dvs. să primească notificări push.</string>
     <string name="game_introduction">Suplimentul pentru jocuri vă permite să vă conectați, să creați comenzi, să plătiți, să utilizați cupoane și să participați la evenimente de promovare.</string>
     <string name="google_service_introduction">Pentru a putea funcționa normal, Google Play trebuie să se conecteze la internet, să vă acceseze locația, să poată înregistra audio, să efectueze apeluri, să acceseze evenimentele din calendar, istoricul apelurilor, informațiile de la senzori, stocarea dispozitivului, camera foto, informațiile despre dispozitiv și conturi.</string>
+    <string name="home_settings_miui_home">Clasic</string>
+    <string name="home_settings_poco_launcher">Sertar de aplicații</string>
+    <string name="home_settings_title">Selectați lansatorul implicit</string>
     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
@@ -101,8 +104,9 @@
     <string name="next_fingerprint">Următoarea</string>
     <string name="note_introduction">Această aplicație vă permite să creați, să vizualizați și să editați notițe.</string>
     <string name="other_settings">Setări adiţionale</string>
-    <string name="other_settings_ad_dialog_content">"După dezactivarea acestei funcții, nu veți mai primi reclame personalizate. Cu toate acestea, veți primi în continuare anunțuri care nu au relevanță pentru interesele dvs. Puteți afla mai multe despre anunțurile personalizate în Politica de Confidențialitate Xiaomi.
-Dezactivați oricum anunțurile personalizate?"</string>
+    <string name="other_settings_ad_dialog_agree">Activați</string>
+    <string name="other_settings_ad_dialog_content">Când recomandările de anunțuri personalizate sunt dezactivate, veți vedea în continuare aceeași cantitate de anunțuri ca atunci când funcția este activată. Cu toate acestea, anunțurile nu vor mai fi relevante, deoarece nu se vor baza pe preferințele dvs. personale</string>
+    <string name="other_settings_ad_dialog_disagree">Dezactivați</string>
     <string name="other_settings_ad_disable_summary">Activați anunțurile personalizate</string>
     <string name="other_settings_ad_enable">Anunțuri personalizate</string>
     <string name="other_settings_ad_enable_summary">Anunțuri personalizate în funcție de interesele dvs.</string>
@@ -265,6 +269,15 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
 2. Când ascultați muzică cu ecranul stins."</string>
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>
+    <string name="wc_dialog_agree">Accept</string>
+    <string name="wc_dialog_reject">Nu accept</string>
+    <string name="wc_dialog_summary">Caruselul de imagini de fundal oferă zilnic imagini uimitoare și povești captivante pe ecranul dvs. de blocare.</string>
+    <string name="wc_dialog_title">Blocare Ecran reinventată</string>
+    <string name="wc_double_check_agree">Încercați</string>
+    <string name="wc_double_check_reject">Nu, mulțumesc</string>
+    <string name="wc_double_check_summary">Puteți activa Caruselul de imagini de fundal pentru a vedea dacă funcționează pentru dvs. Amintiți-vă că puteți activa sau dezactiva oricând Caruselul de imagini de fundal din Setări> Blocare ecran.</string>
+    <string name="wc_double_check_title">Încercați Caruselul de imagini de fundal</string>
+    <string name="wc_notice_link_announcement_summary">Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a> furnizorului terț de conținut înainte de a utiliza această caracteristică.</string>
     <string name="welcome">Bine aţi venit</string>
     <string name="zone_picker_title">Selectați fusul orar</string>
 </resources>

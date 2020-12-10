@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_back">Înapoi</string>
     <string name="accessibility_desc_close">Închideți</string>
     <string name="accessibility_desc_edit">Editați</string>
     <string name="accessibility_menu">Meniu</string>
@@ -240,7 +241,7 @@
     <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
     <string name="quick_settings_tiles_stock">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,mod pc,mod energie,freeformhang,vibrare,hotspot,sincronizare,butoane ecran,putere wireless,nfc,editare,mod mașină</string>
     <string name="quick_settings_wireless_label">Încărcare inversă wireless</string>
-    <string name="reboot_info_auto_boot">Dispozitivul este programat să pornească la %s</string>
+    <string name="reboot_info_auto_boot">Alarma următoare: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarmă oprire: %s</string>
     <string name="reset">Resetați</string>
     <string name="restart">Reporniți</string>
@@ -252,6 +253,7 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="saturday_shortest">Sâ</string>
     <string name="save">Salvați</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="slider_view_content_description">Glisați în sus pentru a opri sau în jos pentru a reporni</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>

@@ -501,6 +501,9 @@ Se accelerează descărcările pe toate dispozitivele."</string>
     <string name="web_dialog_cancel">Renunțați</string>
     <string name="web_dialog_confirm">OK</string>
     <string name="xiaomi_account_not_exist_message">Acest cont Mi nu există</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="xl_annual_vip_open">Abonament anual (%1$s Credite Mi sau %2$s lunar)</string>
     <string name="xl_annual_vip_renew">Reînnoire pentru 1 an (%1$s Credite Mi sau %2$s lunar)</string>
     <string name="xl_bind_account">Adaugați un cont Xunlei existent</string>
