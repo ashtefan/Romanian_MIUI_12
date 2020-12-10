@@ -387,7 +387,11 @@
     <string name="hotel_event_delete_successfully">Rezervare hotelieră ștearsă cu succes</string>
   <string name="huangli_bad_type">Evitaţi</string>
   <string name="huangli_good_type">Bun</string>
+    <string name="icon_add_description">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="icon_content_description">Pictogramă dialog</string>
+    <string name="icon_remove_confirm">Eliminați</string>
+    <string name="icon_remove_description_content">Calendar este o aplicație de sistem. Aceasta vă permite să creați evenimente și să le gestionați. Veți putea utiliza în continuare Calendar prin widgetul de pe Ecranul principal sau din Asistentul inteligent după ce ați eliminat comanda rapidă de pe Ecranul de pornire.</string>
+    <string name="icon_remove_description_title">Eliminați \"Calendarul\" de pe Ecranul principal?</string>
     <string name="ics_file_not_found">Nu există fișiere calendar pentru a fi importate</string>
     <string name="ics_import_from_local_file">Importați fișiere calendar</string>
     <string name="ics_import_from_url">Adăugați un abonament URL</string>
@@ -655,6 +659,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="pm">PM</string>
     <string name="portrait_week_view">Agenda săptămânală în orientarea portret</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
+    <string name="pref_default_popup_alert_value">nimic</string>
     <string name="pref_reminder_time">Oră memento</string>
     <string name="pref_title_alarm_remind">Alarmă memento</string>
     <string name="pref_title_no_remind">Niciun memento</string>
@@ -796,6 +801,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_title_import_todo">Importați sarcini</string>
   <string name="setting_title_yiji_display">Almanac spectacol Taboo</string>
   <string name="setting_toast_dump_mylog_done">Construi reușește, jurnal în managerul de fișiere\"telefon/MIUI/debug_log/com.android.calendar/dump\"Dosar</string>
+    <string name="share_by_qq">QQ</string>
     <string name="share_not_install_wechat">Vă rugăm să instalați aplicația WeChat.</string>
     <string name="share_not_install_weibo">Vă rugăm să instalați aplicația Weibo.</string>
     <string name="share_title">Partajați</string>

@@ -1003,7 +1003,7 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_endc_available1">NR ENDC disponibil :</string>
     <string name="fiveg_endc_available2">NR ENDC disponibil[Slot 2] :</string>
     <string name="fiveg_endc_status1">Stare Endc :</string>
-    <string name="fiveg_hosted_mode_summary">Comută în mod automat la cele mai bune rețele atunci când conexiunea 5G este slabă</string>
+    <string name="fiveg_hosted_mode_summary">Selectează în mod automat cea mai bună rețea pentru a economisi acumulatorul</string>
     <string name="fiveg_hosted_mode_title">Comutare inteligentă 5G</string>
     <string name="fiveg_icon_type1">Tip pictogramă Nr :</string>
     <string name="fiveg_icon_type2">Tip pictogramă Nr[Slot 2] :</string>

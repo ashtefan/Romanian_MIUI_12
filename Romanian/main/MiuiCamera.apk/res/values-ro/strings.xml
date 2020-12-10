@@ -385,6 +385,8 @@
     <string name="cannot_connect_camera_volte_call">Apelul video este în desfășurare; încercați din nou mai târziu.</string>
     <string name="cannot_move_warning_message">Fotografiere; țineți dispozitivul nemişcat</string>
     <string name="capture_back_pressed_hint">Atingeți din nou pentru a ieși</string>
+    <string name="capture_shortcut_long">Selfie</string>
+    <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">Dispozitivul dvs este supraîncălzit. Camera se va opri în %d secunde. Fotografiile și videoclipurile vor fi salvate în mod automat.</string>
     <string name="ccc_temperature_warning_title">Dispozitivul dvs este supraîncălzit</string>
     <string name="clone_do_not_move_phone">Nu mișcați telefonul</string>
@@ -496,7 +498,10 @@
     <string name="dialog_ok_time">OK (%ds)</string>
     <string name="dirty_tip_toast">Lentila este murdară. Curățați-o.</string>
     <string name="do_not_remind_me">Nu arăta din nou</string>
+    <string name="doc_shortcut_long">Documente</string>
+    <string name="doc_shortcut_short">Documente</string>
     <string name="document_blackwhite">A/N</string>
+    <string name="document_blur_warn">Textul este blurat</string>
     <string name="document_mode_use_hint_text_body">"Aliniați și îmbunătățiți
 documentele scanate în mod automat"</string>
     <string name="document_mode_use_hint_text_title">Scanați documente</string>
@@ -1474,6 +1479,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="preparing_sd">Verificare card SD…</string>
     <string name="preview_back_pressed_hint">Apăsați din nou pentru a reveni la previzualizare</string>
     <string name="pro_color_mode">Culori Pro</string>
+    <string name="professional_shortcut_long">Pro</string>
+    <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Încercați modul Macro</string>
     <string name="recommend_portrait">Încercați modul Portret</string>
     <string name="recommend_soft_light_tip">Activați blițul</string>
@@ -1638,6 +1645,8 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_hdr10_tip">HDR10</string>
     <string name="video_hdr10plus_tip">HDR10+</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
+    <string name="video_shortcut_long">Video</string>
+    <string name="video_shortcut_short">Video</string>
     <string name="video_tag_flag_title">Etichete</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>

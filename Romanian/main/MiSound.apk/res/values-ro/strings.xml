@@ -154,6 +154,8 @@
     <string name="music_headset_calibrate_volume_up">Creştere volum</string>
     <string name="music_headset_calibrate_wrong_key">Acesta este butonul greșit</string>
     <string name="music_headset_control_setting">Controlul căștilor</string>
+    <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+    <string name="music_headset_effect_harman_kardon_summary">Certified pro audio</string>
     <string name="music_headset_effect_settings">Efecte vizuale</string>
     <string name="music_headset_improve_sound">Ajustează sunetul la căști</string>
     <string name="music_headset_is_open">Pornit</string>

@@ -114,6 +114,7 @@
     <string name="description_image_button_two">doi</string>
     <string name="description_image_button_video_answer">Apel video</string>
     <string name="description_image_button_zero">zero</string>
+    <string name="description_incoming_video">Profil video pentru apelurile primite</string>
     <string name="description_message_list_title">Lista răspunsurilor rapide</string>
     <string name="description_target_answer">Răspundeţi</string>
     <string name="dialog_activate_livetalk">Verificați numărul</string>

@@ -347,6 +347,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="advanced_security_title">Avansat</string>
     <string name="advanced_settings">Setări adiționale</string>
     <string name="advanced_settings_summary">Activaţi mai multe opţiuni pentru setări</string>
+    <string name="aggregate_rule_group_disabled">Nu grupa</string>
+    <string name="aggregate_rule_group_enabled">Grupează</string>
     <string name="aggregate_title">Reguli pentru notificările grupate</string>
     <string name="agps_roaming">A-GPS în roaming</string>
     <string name="agps_roaming_dia">Utilizarea A-GPS în roaming poate crește utilizarea datelor mobile. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
@@ -450,6 +452,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_mode_turn_off">Oprit</string>
     <string name="aod_mode_turn_on">Pornit</string>
     <string name="aod_name_wanxiang">Afișaj activ permanent</string>
+    <string name="aod_notification_style">Efect notificare</string>
     <string name="aod_notification_style_animation">Afișează animații</string>
     <string name="aod_notification_style_none">Nimic</string>
     <string name="aod_notification_style_screen_on">Aprinde ecranul</string>
@@ -2634,6 +2637,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="error_mnc_not23">Câmpul MNC trebuie să conţină 2 sau 3 cifre.</string>
     <string name="error_name_empty">"Câmpul Nume nu poate fi necompletat."</string>
     <string name="error_title" />
+    <string name="error_xcap_not_add">Tipul APN-ului nu poate fi XCAP.</string>
     <string name="estimated_charging_time_left">Până la încărcarea completă</string>
     <string name="estimated_time_description">Estimarea se poate modifica în funcție de utilizare</string>
     <string name="estimated_time_left">Timpul rămas estimat</string>
@@ -2843,6 +2847,9 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="floating_window_switch_label_disable">Dezactivaţi fereastra plutitoare</string>
     <string name="fluency_mode">Animații de sistem</string>
     <string name="fluency_mode_confirm_and_reboot">Reporniți acum</string>
+    <string name="fold_rule_default">Recomandate</string>
+    <string name="fold_rule_important">Importante</string>
+    <string name="fold_rule_unimportant">Neimportante</string>
     <string name="fold_title">Reguli pentru notificările grupate</string>
     <string name="font_setting_weight_toast">Fontul curent nu suportă ajustarea grosimii acestuia</string>
     <string name="font_settings_jump">Accesibilitate > Dimensiunea textului</string>
