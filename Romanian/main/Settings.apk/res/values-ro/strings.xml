@@ -7803,6 +7803,10 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wake_suppression_title">Arie mică</string>
     <string name="wakeup_and_sleep_settings_category_name">Setări pentru Blocarea ecranului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
+    <string name="wallet_reset">Puteți elimina cardurile Mi Pay, cartelele de transport și cardurile cheie doar din Portofel Mi Wallet. Deschideți Portofel Mi acum?</string>
+    <string name="wallet_reset_cancel_btn">Omiteți</string>
+    <string name="wallet_reset_ok_btn">Deschideți</string>
+    <string name="wallet_reset_title">Eliminați cardurile din Portofel Mi</string>
     <string name="wallpaper_attributions">Imagini de fundal</string>
     <string name="wallpaper_attributions_values">"Furnizori imagini din satelit:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>

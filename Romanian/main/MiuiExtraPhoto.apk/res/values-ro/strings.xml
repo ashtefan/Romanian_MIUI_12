@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel">Renunțați</string>
     <string name="doc_photo_adjust_section_title">Trageți pentru a ajusta</string>
     <string name="doc_photo_cancel">Renunțați</string>
     <string name="doc_photo_confirm">Ieșiți</string>
@@ -13,6 +14,8 @@
     <string name="doc_photo_idcard_portrait">Față</string>
     <string name="doc_photo_not_support">Nu se poate edita această imagine ca document</string>
     <string name="doc_photo_view_effect">Previzualizați</string>
+    <string name="exit_alert_msg">Toate modificările nesalvate vor fi pierdute.</string>
+    <string name="exit_alert_title">Renunțați la modificări?</string>
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">Nu s-a putut salva</string>
     <string name="extra_photo_common_saving">Salvare…</string>
@@ -28,6 +31,7 @@
     <string name="motion_photo_toast_default">Implicit</string>
     <string name="motion_photo_toast_long_press_play">Apăsați și mențineți apăsat pe fotografie pentru a reda</string>
     <string name="motion_photo_toast_suggest">Recomandat</string>
+    <string name="ok">OK</string>
     <string name="refocus_discard_confirm_message">Salvați modificările?</string>
     <string name="refocus_discard_negative_btn">Renunțați</string>
     <string name="refocus_discard_positive_btn">Salvați</string>

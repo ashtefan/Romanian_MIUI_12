@@ -92,7 +92,9 @@
     <string name="album_from_format">Din %s</string>
     <string name="album_hidden_item_button_title">Afișați</string>
     <string name="album_hidden_page_title">Ascundeți</string>
+    <string name="album_homepage_show_all_photos">Afișează toate fotografiile</string>
     <string name="album_jump_failed">Așteptați finalizarea sincronizării albumelor în cloud și încercați din nou</string>
+    <string name="album_lockscreen_wallpapers">Imagini de fundal în Blocarea ecranului</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_midrop">Mi Drop</string>
     <string name="album_name">Nume album</string>
@@ -545,7 +547,7 @@
     <string name="document_provider_guide_step_4">4. Selectați \"Card SD\".</string>
     <string name="document_provider_guide_step_5">5. Atingeți \"Selectare\".</string>
     <string name="double_tap_for_hr_preview_108m">Atingeți din nou de 2 ori pentru a comuta la previzualizarea 108 MP</string>
-    <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru previzualizarea HD</string>
+    <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru a deschide previzualizarea HD</string>
     <string name="download_canceled">Descărcarea a fost întreruptă</string>
     <string name="download_error_format">"Nu s-a putut descărca %s"</string>
     <string name="download_error_tip">. Descărcările au fost întrerupte.</string>
@@ -1109,9 +1111,17 @@ pentru a personaliza Galeria"</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Sincronizează automat fotografiile și videoclipurile (este necesar un cont Mi)</string>
     <string name="midnight">Noapte</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
+    <string name="miuix_appcompat_confirm_description">Confirmați</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1501,7 +1511,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="pic_to_pdf_exit_notice">Acest .pdf nu va fi salvat dacă ieșiți acum. Ieșiți oricum?</string>
     <string name="pic_to_pdf_not_support_video">Videoclipurile nu pot fi salvate ca pdf-uri</string>
     <string name="pic_to_pdf_preview_loading">Se încarcă previzualizarea…</string>
-    <string name="pic_to_pdf_save_in">PDF-ul a fost salvat în %s</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">Salvat cu succes. Vedeți elementul în Gestionarea fișierelor.</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>
     <string name="pick_people_cover_fail">A apărut o eroare. Încercați din nou.</string>
     <string name="pick_people_cover_page_title">Selectați o fotografie de copertă</string>
@@ -1861,7 +1871,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="special_type_ai_audio">AI Audio</string>
     <string name="special_type_eye_repair">S-au remediat ochii închiși utilizând AI</string>
     <string name="special_type_hdr">HDR</string>
-    <string name="special_type_hdr10">HDR10</string>
+    <string name="special_type_hdr10">HDR</string>
     <string name="special_type_heif">HEIF</string>
     <string name="special_type_log">LOG</string>
     <string name="special_type_night_beauty">Portret AI în lumină redusă</string>
@@ -2034,6 +2044,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="toast_invalid_char">Numele fișierelor nu pot conține \"%s\"</string>
     <string name="toast_invalid_prefix">Numele fișierelor nu pot începe cu \".\" sau \"_\"</string>
     <string name="toast_orientation_locked">Orientare blocată cu succes</string>
+    <string name="toast_orientation_unlock">Orientarea ecranului este deblocată</string>
     <string name="toast_rename_exit">Acest fișier există deja</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
@@ -2068,7 +2079,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="unsupport_raw">%s nu funcționează cu imagini RAW</string>
     <string name="unsupport_raw_and_video">%s nu funcționează cu videoclipuri și imagini RAW</string>
-    <string name="unsupport_type">Acest tip de fișier nu este suportat</string>
+    <string name="unsupport_type">Acest format nu este suportat</string>
     <string name="unsupport_video">%s nu funcționează cu videoclipuri</string>
     <string name="unsupported_media_downloading_tip_common">Vizualizarea imaginilor originale în acest format nu este suportată în această versiune Android. Descărcați oricum?"</string>
     <string name="unsupported_media_downloading_tip_format">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android. Descărcați oricum?"</string>
