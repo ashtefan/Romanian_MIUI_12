@@ -21,7 +21,7 @@
         <item quantity="one">Puteți crea maxim %d clonă o dată.</item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d mins</item>
+        <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="fastmotion_pro_sec_unit">

@@ -495,8 +495,8 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="one">" oră"</item>
     </plurals>
     <plurals name="power_center_battery_duration_min_time_format">
-        <item quantity="other">" mins"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" minute"</item>
+        <item quantity="one">" minut"</item>
     </plurals>
     <plurals name="power_center_battery_health_summary">
         <item quantity="other">Încărcați complet dispozitivul cel puțin de %2$d ori pentru a obține statistici precise</item>

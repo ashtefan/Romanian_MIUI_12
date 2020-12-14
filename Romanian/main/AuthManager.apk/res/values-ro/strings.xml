@@ -320,6 +320,7 @@
     <string name="app_name">Permisiuni</string>
     <string name="background_location_access_reminder_notification_content">Această aplicație vă poate accesa permanent locația. Atingeți pentru a modifica.</string>
     <string name="background_location_access_reminder_notification_title">%s v-a monitorizat locația</string>
+    <string name="blur_location_now_tip">Localizarea aproximativă este activă</string>
     <string name="clipboard_ai_allow_once">S-a permis %1$s să acceseze elementele din clipboard în mod automat</string>
     <string name="clipboard_data">"Conținut: "</string>
     <string name="clipboard_data_request">%1$s încearcă să acceseze elementele din clipboard</string>
@@ -335,6 +336,7 @@
     <string name="forbid_notice_me">Nu mai notifica</string>
     <string name="go_behavior_record">Istoricul comportamentului aplicației</string>
     <string name="go_perm_manager">Gestionați permisiunile</string>
+    <string name="go_setting">Setări</string>
     <string name="grant_dialog_button_allow">Permite</string>
     <string name="grant_dialog_button_allow_always">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_background">Permiteți întotdeauna</string>
@@ -407,6 +409,8 @@
     <string name="permission_warning_template">Permiteți %1$s să %2$s ?</string>
     <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni?</string>
     <string name="permisson_reject_notice_toast_text2">"nu are permisiunea de %1$s."</string>
+    <string name="real_location_off">Localizarea aproximativă este pornită</string>
+    <string name="real_location_on">Localizarea aproximativă este oprită</string>
     <string name="screen_overlay_button">Accesați Setările</string>
     <string name="screen_overlay_message">Pentru a modifica această permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații.</string>
     <string name="screen_overlay_title">Suprapunere elemente vizuale detectată</string>

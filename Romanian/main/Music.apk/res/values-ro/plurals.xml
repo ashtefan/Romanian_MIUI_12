@@ -134,6 +134,14 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d urmăritori</item>
+        <item quantity="one">%d urmăritor</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Se urmăresc %d persoane</item>
+        <item quantity="one">Se urmărește %d persoană</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
