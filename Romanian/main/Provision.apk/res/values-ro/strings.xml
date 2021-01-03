@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigați Acasă</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vedeți tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Goliți solicitarea</string>
+    <string name="abc_searchview_description_query">Solicitare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți solicitarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați prin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="accessibility_enabled">Accesibilitate activată.</string>
     <string name="agree">De acord</string>
     <string name="agree_and_next">De acord</string>
@@ -20,6 +47,8 @@
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
     <string name="backup_introduction">Puteți utiliza această aplicație pentru a crea copii de rezervă și restaura elemente pe dispozitiv.</string>
+    <string name="boot_video_replay">Redați din nou</string>
+    <string name="boot_video_skip">Omiteți</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
@@ -74,6 +103,7 @@
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
     <string name="item_fingerprint">Amprentă</string>
     <string name="item_lock_screen_password">Doar blocarea ecranului</string>
+    <string name="item_lock_screen_password_only">Blocarea ecranului</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Partajarea informațiilor despre locație cu agențiile de salvare de urgență</string>
     <string name="language_picker_other_languages_title">Mai multe limbi</string>
@@ -95,6 +125,8 @@
     <string name="move_data_dialog_cancel">Renunțați</string>
     <string name="move_data_dialog_title">Puteți restricționa conexiunea de date mobile mai târziu din Setări</string>
     <string name="move_data_dialog_use">Utilizați</string>
+    <string name="msim_setting_default_data">SIM pentru date</string>
+    <string name="msim_setting_default_voice">Cartela SIM implicită pentru apeluri</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
     <string name="navigation_picker_gesture_guide">Ghidare prin gesturi</string>
@@ -176,13 +208,17 @@
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="protect_persoanl_info_statement">Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.</string>
+    <string name="provision_back">Înapoi</string>
     <string name="provision_inputmethod_policy_description">
 Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
+    <string name="provision_next">Următorul</string>
+    <string name="provision_skip_underline">Omiteți</string>
     <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și efectuarea de copii de rezervă în cloud.</string>
     <string name="require_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să vă conectați la internet și să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="screen_recording_introduction">Această aplicație vă permite să înregistrați ce se întâmplă pe ecran.</string>
+    <string name="search_menu_title">Căutați</string>
     <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inutile din dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile, permisiunile și multe altele.</string>
     <string name="security_mobile_account_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="service_agreement">Am citit și am acceptat termenii și condițiile.</string>
@@ -210,13 +246,14 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="service_policy"><Data>Citiți și acceptați &lt;a href=%1$s>Politica de Confidențialitate&lt;/a >.</Data></string>
     <string name="service_policy_download"><Data>Înainte de a utiliza serviciile noastre, citiți și acceptați &lt;a href=%1$s>Politica de Confidențialitate Xunlei&lt;/a >.</Data></string>
     <string name="service_privacy_index">Politica de Confidențialitate</string>
+    <string name="service_security_over_r"><Data>Citiți și acceptați &lt;a href=%1$s>Politica noastră de Confidențialitate&lt;/a > înainte de a utiliza aplicația Securitate.&lt;br/>&lt;br/>În conformitate cu standardele Android 11, o permisiune unică va fi retrasă în 5 secunde după ce aplicația corespunzătoare încetează să ruleze. Dacă deschideți aplicația în această perioadă scurtă de timp, permisiunea va fi retrasă atunci.</Data></string>
     <string name="servicestate_title">Declarație privind serviciile de bază</string>
     <string name="setting_locale">Setare regiune…</string>
     <string name="shut_down">Închidere</string>
     <string name="sim_card_detecting">Verificare cartelă SIM…</string>
     <string name="sim_card_detecting_check">"Nu s-a găsit cartela SIM. Asigurați-vă că este instalată corect și că aveți credit suficient."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permiteți conectarea la rețelele de date mobile? Dacă acceptați, cartela SIM introdusă va fi utilizată pentru a vă conecta la rețelele de date mobile.</string>
-    <string name="sim_card_detecting_title">Verificaţi cartela SIM</string>
+    <string name="sim_card_detecting_title">Se caută cartela SIM…</string>
     <string name="sim_card_detection">Introduceţi o cartelă SIM</string>
     <string name="sim_card_detection_info"></string>
     <string name="sim_card_detection_mobile_not_available">"Cartela SIM nu s-a putut conecta la rețea"</string>

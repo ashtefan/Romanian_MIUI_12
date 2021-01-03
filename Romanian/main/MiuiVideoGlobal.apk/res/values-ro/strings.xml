@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_denied_info">Prea multe încercări. Așteptați un minut sau două și încercați din nou.</string>
     <string name="account_bind_secure_email_title">Adăugați e-mailul pentru recuperare</string>
     <string name="account_bind_secure_phone_title">Adăugați numărul de telefon pentru recuperare</string>
     <string name="account_crop_user_avatar">Decupați fotografia</string>
@@ -67,6 +68,8 @@
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în decurs de 24 de ore</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
     <string name="ad">Reclamă</string>
+    <string name="ad_bar_notification_setting_sub_title">Afișează evenimentele în Perdeaua de notificări</string>
+    <string name="ad_bar_notification_setting_title">Evenimente</string>
     <string name="ad_buy">Achiziționați</string>
     <string name="ad_download">Descărcați</string>
     <string name="ad_join">Alăturați-vă comunității</string>
@@ -148,6 +151,7 @@
     <string name="cast_tracks_chooser_dialog_ok">OK</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtitrări</string>
     <string name="cast_unmute">Activați sunetul</string>
+    <string name="catchplay_video">Catchplay</string>
     <string name="change_activate_email">Modificați adresa de e-mail</string>
     <string name="change_password">Modificați parola</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
@@ -423,7 +427,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_gallery_video_save_video">Se crează videoclipul…</string>
     <string name="galleryplus_gallery_video_slow_edit">Mișcare lentă</string>
     <string name="galleryplus_gallery_view_tags">Afișează marcajele</string>
-    <string name="galleryplus_is_higher_definition">S-a deschis previzualizarea HD</string>
+    <string name="galleryplus_is_higher_definition">Previzualizare HD</string>
     <string name="galleryplus_network_connect_check">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_network_connect_confirm">Conectați-vă la Wi-Fi sau activați datele mobile din setările de rețea.</string>
     <string name="galleryplus_network_error">Nu s-a putut conecta la rețea</string>
@@ -433,6 +437,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_online_cta_disagree">Nu sunt de acord</string>
     <string name="galleryplus_online_cta_title">Termeni și condiții</string>
     <string name="galleryplus_online_video_loading">Doar o secundă…</string>
+    <string name="galleryplus_orientation_lock">Orientare blocată cu succes</string>
+    <string name="galleryplus_orientation_unlock">Orientarea ecranului este deblocată</string>
     <string name="galleryplus_permission_content">Acordați Mi Video permisiunile necesare pentru a putea utiliza această caracteristică.</string>
     <string name="galleryplus_permission_content2">"Pentru a putea utiliza această caracteristică, mergeți la Setări > Aplicații > Mi Video > Permisiunile aplicației și permiteți Mi Video următoarele:
 
@@ -488,6 +494,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Populare</string>
+    <string name="i_know">Am înțeles</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
@@ -510,14 +517,10 @@ pentru videoclipuri"</string>
     <string name="language_setting_tips">Selectați preferințele pentru limbă pentru a primi recomandări mai relevante. Puteți modifica preferințele pentru limbă din Profil>Limbă.</string>
     <string name="language_setting_tips_dialog">Puteți selecta preferințele pentru limbă pentru conținut din Cont > Limbă.</string>
     <string name="later">Mai târziu</string>
-    <string name="lbl_connection_failed_alert_title">Conexiunea a eșuat</string>
-    <string name="lbl_player_local_video_deleted_alert_dialog_text">Acest videoclip nu poate fi redat.</string>
-    <string name="lbl_player_no_network">Nicio conexiune la rețea detectată. Vă rugăm să vă asigurați că sunteți conectat la o sursă de rețea și să reîncercați.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">"Ne pare rău, însă solicitarea dumneavoastră nu poate fi încheiată acum. Vă rugăm să încercați din nou după o perioadă de timp."</string>
-    <string name="lbl_setting_playback_streaming_auto">Auto</string>
-    <string name="lbl_url_alert">Informații</string>
-    <string name="library_roundedimageview_author">Vince Mi</string>
-  <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
+    <string name="library_roundedimageview_author">Mi Vince</string>
+    <string name="library_roundedimageview_libraryDescription">Un ImageView rapid (și desenabil) care acceptă colțuri rotunjite (și ovale sau cercuri) pe baza exemplului original de la Romain Guy.</string>
     <string name="live_now">Live acum</string>
     <string name="live_title">Live</string>
     <string name="live_tv_title">TV Live</string>
@@ -698,8 +701,10 @@ pentru videoclipuri"</string>
     <string name="my_favorite_channels">Canalele mele</string>
     <string name="my_feedback_title">Feedback-ul meu</string>
     <string name="need_update_app">Actualizați Mi Video pentru a utiliza toate funcțiile</string>
-    <string name="network_connect_info">Nu se poate conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
-    <string name="network_failed">Nu se poate conecta la rețea</string>
+    <string name="network_connect_info">Nu s-a putut conecta la rețea.</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_failed">Nu s-a putut conecta la rețea</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="neverthink_player_loading">Se încarcă videoclipul Neverthink…</string>
     <string name="new_channel_tip">Aruncați o privire la noile canale!</string>
     <string name="next">Următorul</string>
@@ -732,6 +737,7 @@ pentru videoclipuri"</string>
     <string name="off_tip_firework_recommend">Nu veți mai primi recomandări personalizate de conținut de la Firework</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">Veți primi recomandări personalizate de conținut de la Firework</string>
+    <string name="open_settings">Setări</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
     <string name="order_recently_updated">Actualizate recent</string>
@@ -975,6 +981,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_menu_delete_popup_text">Ștergeți acum?</string>
     <string name="plus_menu_properties">Proprietăți</string>
     <string name="plus_menu_rename">Redenumiți</string>
+    <string name="plus_menu_rename_cant_empty">Numele fișierului nu poate fi necompletat</string>
     <string name="plus_menu_rename_fail">Numele fișierului nu poate conține \"/\"</string>
     <string name="plus_menu_share">Distribuiți</string>
     <string name="plus_mine_gallery">Albumele mele</string>
@@ -1070,6 +1077,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_sort_type_time">Dată</string>
     <string name="plus_tab_gallery">Dosare</string>
     <string name="plus_tab_time">Cronologie</string>
+    <string name="progressbar_title">Se caută probleme de securitate…</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Glisați în sus pentru a reîmprospăta…</string>
@@ -1148,6 +1156,7 @@ Verificați alte videoclipuri!"</string>
     <string name="report_content_violence">Discurs ostil</string>
     <string name="report_fail">"Nu s-a putut raporta. Încercați din nou."</string>
     <string name="report_success">Raportat cu succes</string>
+    <string name="request_camera_permission_message">Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Utilizarea camerei (pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți restricționa oricând permisiunile sau revoca autorizația din Setări.</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">"Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu a ajuns în dosarul Spam."</string>
     <string name="resend_email_reach_limit_title">Prea multe încercări</string>
@@ -1263,6 +1272,7 @@ Verificați alte videoclipuri!"</string>
     <string name="sync_favorites_limit">"Există mai mult de 500 videoclipuri în favoritele dvs. Va trebui să ștergem unele mai vechi pentru a continua sincronizarea."</string>
     <string name="sync_favorites_message">Sincronizați favoritele de pe acest dispozitiv în contul dvs.? Elementele care nu mai există vor fi șterse.</string>
     <string name="sync_favorites_title">Sincronizați favoritele</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="t_check_hide_file">Selectați videoclipurile de ascuns</string>
     <string name="t_check_unhide_file">Selectați elementele de reafișat</string>
     <string name="t_downloading">Se descarcă:</string>
@@ -1315,6 +1325,7 @@ Verificați alte videoclipuri!"</string>
     <string name="ugc_no_net">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="ui_log_tip">Atingeți această zonă pentru a ascunde, atingeți și mențineți apăsat pentru a șterge jurnalele vechi. Trageți jurnalele manual.</string>
     <string name="unknow">Necunoscut</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="update">Actualizați</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a vă actualiza e-mailul pentru recuperare.</string>
     <string name="update_email_address_dialog_title">Actualizați e-mailul de recuperare</string>
