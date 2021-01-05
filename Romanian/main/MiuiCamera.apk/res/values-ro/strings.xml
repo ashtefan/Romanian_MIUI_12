@@ -313,7 +313,7 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Folosiți un trepied</string>
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
-  <string name="app_name">Preference</string>
+    <string name="app_name">JpegEncoder</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
     <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
@@ -715,6 +715,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
 să pară mai mari în fotografii"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
     <string name="makeup_reset_toast">Efecte de machiaj îndepărtate cu succes</string>
+    <string name="manual_picture_style">Parametri</string>
     <string name="manually_raw_hint">RAW</string>
     <string name="message_snap_double_confirm">Actualmente apăsarea lungă a butonului de volum activează modul NFC. Modificați această acțiune?</string>
     <string name="mimoji_app_name">Camera haioasă</string>
@@ -915,6 +916,7 @@ să pară mai mari în fotografii"</string>
     <string name="parameter_lens_w">LARG (lentile cu unghi larg)</string>
     <string name="parameter_log_format_description">Acest format înregistrează videoclipul cu o funcție logaritmică aplicată curbei de expunere pentru a capta mai multe detalii în lumini și umbre, oferindu-vă mai multe opțiuni de post-procesare.</string>
     <string name="parameter_log_format_title">Format LOG</string>
+    <string name="parameter_manual_picturestyle_description">Saturația vă permite să controlați adâncimea și intensitatea culorilor, reglarea contrastului scoate la iveală sau minimizează diferența dintre lumină și întuneric, iar claritatea redă detaliile de-a lungul contururilor.</string>
     <string name="parameter_metering_description">Măsurarea ponderată ia în considerare toate zonele imaginii, mergând foarte bine pentru scenele luminate uniform. Măsurarea centrată se concentrează în principal pe zona centrală a cadrului și oferă atenție sporită luminozității zonei înconjurătoare, mod care este potrivit pentru fotografierea subiecților din centrul cadrului. Măsurarea punctuală acoperă numai zona dintr-un singur punct, oferindu-vă un control precis asupra expunerii.</string>
     <string name="parameter_metering_title">Moduri de măsurare</string>
     <string name="parameter_peak_focus_description">Atunci când focalizați în mod manual, utilizați concentrarea focusului pentru a plasa o zonă iluminată în roșu în aria de focalizare."</string>
@@ -923,7 +925,7 @@ să pară mai mari în fotografii"</string>
     <string name="parameter_peak_raw_title">Format RAW</string>
     <string name="parameter_wb_description">Înafară de setările predefinite ale balansului de alb (incandescent, lumină de zi, fluorescent, înnorat), puteți seta o valoare personalizată cuprinsă între 2.000 și 8.000 de grade Kelvin.</string>
     <string name="parameter_wb_title">Balans de alb</string>
-    <string name="parameter_zoom_slider_description">Trageți glisorul pentru zoom în sus și în jos pentru a schimba ușor fotografia de la o fotografie cu bătaie lungă la una în prim-plan.</string>
+    <string name="parameter_zoom_slider_description">Trageți glisorul pentru zoom orizontal pentru a schimba ușor fotografia de la o fotografie cu bătaie lungă la una în prim-plan.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
     <string name="photo_assistance_tips_title">Sfaturi live</string>
@@ -1486,6 +1488,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="recommend_soft_light_tip">Activați blițul</string>
     <string name="recommend_super_night">Încercați modul Nocturn</string>
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
+    <string name="reset_manual_picture_style_toast">Parametri resetați cu succes</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Resetați</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracteristică, apăsați simultan butoanele de creștere a volumului și Înapoi.</string>
