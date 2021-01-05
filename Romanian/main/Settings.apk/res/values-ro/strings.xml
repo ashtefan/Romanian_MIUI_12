@@ -3336,6 +3336,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="instruction_privacy_password">Această parolă protejează următoarele elemente</string>
     <string name="instruction_title">Informații importante de securitate</string>
     <string name="insufficient_storage">Nu există suficient spaţiu de stocare.</string>
+    <string name="intelligence_suppression_summary">Reglați dinamic dimensiunea zonei din apropierea marginilor în care atingerea accidentală va fi ignorată pe baza aderenței</string>
+    <string name="intelligence_suppression_title">Auto (Recomandat)</string>
     <string name="intent_sender_account_label">Cont:</string>
     <string name="intent_sender_action_label">Acţiune:</string>
     <string name="intent_sender_data_label">Date:</string>
@@ -4119,7 +4121,12 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="miheadset_enhence_high">spori ridicat</string>
     <string name="miheadset_enhence_low">îmbunătățește frecvența redusă</string>
     <string name="miheadset_equalizer">Egalizator</string>
-    <string name="miheadset_formal">stand</string>
+    <string name="miheadset_fitness_check">fitness check</string>
+    <string name="miheadset_fitness_check_result_not_ok">fitness rău</string>
+    <string name="miheadset_fitness_check_result_ok">fitness ok</string>
+    <string name="miheadset_fitness_check_result_unkown">fitness necunoscut</string>
+    <string name="miheadset_fitness_check_start">verificare start fitness, așteptați</string>
+    <string name="miheadset_formal">stând</string>
     <string name="miheadset_game_mode">Mod Jocuri</string>
     <string name="miheadset_game_mode_summary">Reduceți întârzierea audio în timp ce jucați jocuri</string>
     <string name="miheadset_ignore">Ștergeți acest dispozitiv</string>
@@ -6051,6 +6058,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_sync_settings">Sincronizare;Auto;Doar în Wi-Fi</string>
     <string name="search_system_app_settings">Aplicații de sistem</string>
     <string name="search_theme_settings_title">Teme;Temă;Personalizare;Personalizați</string>
+    <string name="search_title_font_settings">dimensiune font;grosime font;stil font</string>
     <string name="search_touch_assistant">Asistent ecran;Ajutor ecran</string>
     <string name="search_touch_sensitive_title">Mod cu mănuși;mănuși;mănușă</string>
     <string name="search_trusted_credentials">Acreditări de încredere;Semnătura aplicației;Semnăturile aplicației;Credențiale;Semnătură</string>
@@ -7144,7 +7152,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="translation_contributors_title">Contribuitori</string>
     <string name="trigger_carrier_provisioning">Furnizare de dispozitive de transport</string>
     <string name="trust_agents_extend_unlock_summary">Dacă este activat, agenții de încredere vor menține dispozitivul deblocat mai mult timp, dar nu mai pot debloca un dispozitiv blocat.</string>
-    <string name="trust_agents_extend_unlock_title">Agenții de încredere extind doar deblocarea</string>
+    <string name="truetone_summary">Ajustează culorile în funcție de lumina ambientală</string>
+    <string name="truetone_title">Culori adaptive</string>
     <string name="trust_lost_locks_screen_summary">Dacă este activat, dispozitivul se va bloca când ultimul agent de încredere își va pierde încrederea</string>
     <string name="trust_lost_locks_screen_title">Blocați ecranul atunci când se pierde încrederea</string>
     <string name="trusted_credentials">Acreditări de încredere</string>
@@ -7810,6 +7819,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wake_suppression_title">Arie mică</string>
     <string name="wakeup_and_sleep_settings_category_name">Setări pentru Blocarea ecranului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
+    <string name="wallet_header_title">Portofel și plăți</string>
     <string name="wallet_reset">Puteți elimina cardurile Mi Pay, cartelele de transport și cardurile cheie doar din Portofel Mi Wallet. Deschideți Portofel Mi acum?</string>
     <string name="wallet_reset_cancel_btn">Omiteți</string>
     <string name="wallet_reset_ok_btn">Deschideți</string>

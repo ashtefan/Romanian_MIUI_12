@@ -651,6 +651,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>
     <string name="no_delivery_report">Niciun raport de livrare</string>
+    <string name="no_dialogue_yet">Selectați o conversație</string>
     <string name="no_longer_recommend">"Nu afișa din nou"</string>
     <string name="no_network_description">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="no_subject">(Niciun subiect)</string>

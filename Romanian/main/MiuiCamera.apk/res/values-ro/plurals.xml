@@ -36,6 +36,10 @@
         <item quantity="other">%1$s minute</item>
         <item quantity="one">%1$s minut</item>
     </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Înregistrați %d secunde</item>
+        <item quantity="one">Înregistrați %d secundă</item>
+    </plurals>
     <plurals name="timefreeze_guide_tip1">
         <item quantity="other">dsfdf %d cdcsdcii</item>
         <item quantity="one">dfsdf %d sdfdfsdf</item>
