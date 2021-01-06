@@ -142,9 +142,21 @@
         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicații nu au fost utilizate de mult timp; aruncați o privire."&lt;/Data></item>
         <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicație nu a fost utilizată de mult timp; aruncați o privire."&lt;/Data></item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Suficient pentru %d fotografii</item>
+        <item quantity="one">Suficient pentru %d fotografie</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Suficient pentru %d melodii</item>
+        <item quantity="one">Suficient pentru %d melodie</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d secunde</item>
         <item quantity="one">%1$d secundă</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d aplicații cu videoclipuri în cache</item>
+        <item quantity="one">%d aplicație cu videoclipuri în cache</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s vizualizări</item>

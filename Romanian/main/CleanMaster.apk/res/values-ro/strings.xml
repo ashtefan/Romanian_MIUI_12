@@ -344,6 +344,8 @@
     <string name="function_app_lock_title">%d aplicații cu risc de încălcare a confidențialității​</string>
     <string name="garbage_clean_detail">Detalii</string>
     <string name="garbage_month">Curățat în această lună %s</string>
+    <string name="gb_global_icon_ad_card_btn">OBȚINEȚI</string>
+    <string name="gb_global_icon_ad_card_title">Sugerate pentru dvs.</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Audio</string>
     <string name="global_wa_audio_item_title">Mesaje vocale</string>
@@ -458,6 +460,7 @@
     <string name="hints_quick_cleanning">Curăţare…</string>
     <string name="hints_quick_cleanuping">Optimizare…</string>
     <string name="hints_quick_deep_clean">Curățați acum</string>
+    <string name="hints_quick_deep_clean2">Eliberați %s</string>
     <string name="hints_quick_deep_scanning">Scanare</string>
     <string name="hints_quick_deep_uninstall">Ștergeți acum</string>
     <string name="hints_quick_prepare">Pregătire…</string>
@@ -622,6 +625,19 @@
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Căutare Google</string>
     <string name="positive_confirm">OK</string>
+    <string name="powerful_acceleration">Defragmentare</string>
+    <string name="powerful_acceleration_after">După</string>
+    <string name="powerful_acceleration_before">Înainte</string>
+    <string name="powerful_acceleration_enable_summary">Defragmentarea va fi efectuată în mod automat în timp ce nu utilizați dispozitivul</string>
+    <string name="powerful_acceleration_enable_title">Efectuați defragmentarea în fundal</string>
+    <string name="powerful_acceleration_item_button">Activați</string>
+    <string name="powerful_acceleration_item_tip_normal">Spațiul dvs. de stocare arată bine!</string>
+    <string name="powerful_acceleration_notification_summary">Atingeți pentru a elibera mai mult spațiu de stocare</string>
+    <string name="powerful_acceleration_notification_title">Defragmentare finalizată</string>
+    <string name="powerful_acceleration_tip">Stocarea internă suferă de fragmentare, ceea ce ar putea încetini semnificativ viteza dispozitivului. Defragmentarea vă organizează fizic fișierele în cel mai mic număr de fragmente, reducând decalajul.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Stocarea dvs. este &lt;font color=#ff0000 >sever&lt;/font> fragmentată. Defragmentarea poate rezolva problema.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Stocarea dvs. este &lt;font color=#ff0000 >ușor&lt;/font> fragmentată. Defragmentarea poate rezolva problema.</Data></string>
+    <string name="powerful_acceleration_toast">Defragmentarea va fi efectuată atunci când nu utilizați dispozitivul</string>
     <string name="pref_about_privacy_title">Politica de Confidențialitate</string>
     <string name="pref_category_title_auto_clean_config_settings">Curățare automată</string>
     <string name="pref_category_title_auto_clean_settings">Memento curăţare</string>
@@ -690,6 +706,9 @@
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Puteți goli &lt;font color=#ff0000 >%1$s&lt;/font> din memoria cache generate de QQ</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> din cache-ul WeChat. Eliberați mai mult spațiu.</Data></string>
+    <string name="rs_clean_size_free_space">Eliberați %s</string>
+    <string name="rs_clean_size_storage_size">Ocupat %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Stocare</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
     <string name="scanning">Scanare…</string>
@@ -809,6 +828,26 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="video_clean">Goliți videoclipurile din cache</string>
+    <string name="video_clean_auto_clean">Goliți în mod automat</string>
+    <string name="video_clean_auto_clean_summary">Ștergeți automat videoclipurile memorate în cache după scanare</string>
+    <string name="video_clean_cache_tip">Videoclipurile șterse pot fi încărcate din nou după aceea</string>
+    <string name="video_clean_create_desktop_icon">Comandă rapidă pe Ecranul principal</string>
+    <string name="video_clean_create_desktop_icon_summary">Adăugați o comandă rapidă pe ecranul de pornire pentru a șterge videoclipurile memorate în cache dintr-o singură atingere</string>
+    <string name="video_clean_desktop_icon_created">S-a adăugat cu succes o comandă rapidă pe Ecranul principal</string>
+    <string name="video_clean_garbage">Videoclipuri în cache</string>
+    <string name="video_clean_garbage_cleared">Videoclipurile memorate în cache au fost șterse</string>
+    <string name="video_clean_notification_summary">Ștergeți videoclipurile memorate în cache de către aplicații</string>
+    <string name="video_clean_notification_title">Eliberați %s</string>
+    <string name="video_clean_personal_settings_title">Setări adiționale</string>
+    <string name="video_clean_qq_clean_summary">Ștergeți coșul de gunoi pentru a elibera spațiu de stocare</string>
+    <string name="video_clean_qq_clean_title">Curățare QQ</string>
+    <string name="video_clean_remind_settings_title">Amintește-mi să curăț</string>
+    <string name="video_clean_scan_app_tip">Se scanează aplicațiile %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Gestionați toate videoclipurile stocate pe dispozitivul dvs.</string>
+    <string name="video_clean_video_manager_title">Manager videoclipuri</string>
+    <string name="video_clean_wechat_clean_summary">Goliți coșul de gunoi pentru a crește viteza</string>
+    <string name="video_clean_wechat_clean_title">Curățare WeChat</string>
     <string name="virus_scan">Scanare de securitate</string>
   <string name="vungle_ad_name">ad-Vungle</string>
     <string name="wechat_chat_data_type_cache">Cache WeChat</string>

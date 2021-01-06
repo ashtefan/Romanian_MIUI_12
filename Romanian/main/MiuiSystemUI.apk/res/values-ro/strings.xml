@@ -32,6 +32,18 @@
     <string name="abc_searchview_description_voice">Căutare vocală</string>
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
+    <string name="abc_slice_error">Nu s-a putut conecta</string>
+    <string name="abc_slice_more">Mai mult</string>
+    <string name="abc_slice_more_content">+ %1$d</string>
+    <string name="abc_slice_permission_allow">Permiteți</string>
+    <string name="abc_slice_permission_checkbox">Permiteți %1$s să afișeze porțiuni din orice aplicație</string>
+    <string name="abc_slice_permission_deny">Refuzați</string>
+    <string name="abc_slice_permission_text_1">- Poate citi informații din %1$s</string>
+    <string name="abc_slice_permission_text_2">- Poate realiza acțiuni în interiorul %1$s</string>
+    <string name="abc_slice_permission_title">Permiteți %1$s să afișeze %2$s porțiuni?</string>
+    <string name="abc_slice_show_more">Afișează mai mult</string>
+    <string name="abc_slice_updated">Actualizat %1$s</string>
+    <string name="abc_slices_permission_request">%1$s dorește să afișeze %2$s porțiuni</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="accessibility_accessibility_button">Accesibilitate</string>
     <string name="accessibility_action_divider_bottom_full">Ecran complet jos</string>
@@ -44,6 +56,7 @@
     <string name="accessibility_action_divider_top_50">Sus 50%</string>
     <string name="accessibility_action_divider_top_70">Sus 70%</string>
     <string name="accessibility_action_divider_top_full">Ecran complet sus</string>
+    <string name="accessibility_action_pip_resize">Redimensionați</string>
     <string name="accessibility_airplane_mode">Mod Avion.</string>
     <string name="accessibility_ambient_display_charging">Se încarcă</string>
     <string name="accessibility_aspect_button">Mod Ecran complet</string>
@@ -61,7 +74,7 @@
     <string name="accessibility_bluetooth_name">Conectată la %s.</string>
     <string name="accessibility_bluetooth_tether">Tethering prin Bluetooth.</string>
     <string name="accessibility_brightness">Iluminare ecran</string>
-    <string name="accessibility_brightness_slider">Cursor iluminare</string>
+    <string name="accessibility_bubble_dismissed">Mod Bule anulat.</string>
     <string name="accessibility_camera_button">Cameră</string>
     <string name="accessibility_carrier_network_change_mode">Schimbare rețea operator.</string>
     <string name="accessibility_cast_name">Conectat la %s.</string>
@@ -128,6 +141,8 @@
     <string name="accessibility_left_control_center_button">Scurtătură</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carusel de imagini de fundal</string>
     <string name="accessibility_location_active">Solicitare de localizare activă</string>
+    <string name="accessibility_long_click_tile">Deschideți setările</string>
+    <string name="accessibility_manage_notification">Gestionați notificările</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
     <string name="accessibility_manual_zen_less_time">Mai puțin timp.</string>
     <string name="accessibility_manual_zen_more_time">Mai mult timp.</string>
@@ -148,8 +163,10 @@
     <string name="accessibility_no_wimax">Fără WiMAX.</string>
     <string name="accessibility_not_connected">Neconectat.</string>
     <string name="accessibility_notification_dismissed">Notificare eliminată.</string>
+    <string name="accessibility_notification_section_header_gentle_clear_all">Goliți toate notificările silențioase</string>
     <string name="accessibility_notifications_button">Notificări.</string>
     <string name="accessibility_one_bar">O bară.</string>
+    <string name="accessibility_output_chooser">Comutați dispozitivul de ieșire</string>
     <string name="accessibility_overflow_action">Vedeți toate notificările</string>
     <string name="accessibility_phone_button">Telefon</string>
     <string name="accessibility_phone_one_bar">Semnal pentru telefon: o bară.</string>
@@ -849,8 +866,10 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="gxzw_use_password_to_unlock">Introduceți parola</string>
     <string name="hdcp_checking_dialog_title">Setați comportamentul verificării HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
+    <string name="heads_up_snooze_toast">Notificările de la această aplicație nu vor apărea până nu veți debloca dispozitivul din nou</string>
     <string name="headset">Set cu căști</string>
     <string name="help_feedback_label">Ajutor și feedback</string>
+    <string name="help_label">Ajutor și feedback</string>
     <string name="hidden_notifications_cancel">Nu, mulțumesc</string>
     <string name="hidden_notifications_setup">Setați</string>
     <string name="hidden_notifications_text">Vedeți-le înainte de deblocare</string>
