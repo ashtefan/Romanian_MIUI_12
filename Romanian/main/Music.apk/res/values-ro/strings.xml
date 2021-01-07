@@ -482,8 +482,8 @@
     <string name="equalizer">Egalizator</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
-    <string name="error_forbidden">Sincronizarea a fost oprită din cauza unor probleme legate de contul dvs.</string>
-    <string name="error_not_acceptable">Sincronizarea este oprită.</string>
+    <string name="error_message_no_internet_connection">Nu s-a putut conecta la internet. Vă rugăm să verificați conexiunea la internet și încercați din nou.</string>
+    <string name="error_message_something_went_wrong">Ceva nu a mers bine; vă rugăm să reîncercați.</string>
     <string name="error_not_support">Nesuportat</string>
     <string name="error_title">"Nu se poate sincroniza cu contul Mi"</string>
     <string name="error_unauthorized">Sincronizarea a fost oprită din cauza prea multor încercări de conectare.</string>
@@ -740,6 +740,7 @@
     <string name="input_hint_prefix">Introduceți %1$s</string>
     <string name="installing_apk">Instalare…</string>
     <string name="insufficient_space">"Nu există spațiu suficient în memoria internă a telefonului"</string>
+    <string name="invalid_number">Ne pare rău; numărul nu este valid</string>
     <string name="is_latest_version">Aplicația de Muzică este la zi.</string>
     <string name="is_loading_data">Încă se încarcă melodiile. Așteptați un minut sau două și încercați din nou.</string>
     <string name="is_scanning">Verificare stocare…</string>
@@ -806,6 +807,7 @@
     <string name="list_item_play_all_tracks">Redaţi toate melodiile</string>
     <string name="load_shuffle">Se încarcă…</string>
     <string name="loadercontainer_loading">Doar o secundă…</string>
+    <string name="loading">Se încarcă</string>
     <string name="loading_hint">Doar o secundă…</string>
     <string name="loading_reached_the_bottom">Asta este tot pentru moment.</string>
     <string name="local_header_title">Muzică locală</string>
@@ -884,6 +886,12 @@
     <string name="modify_progress_helper">Glisați în sus sau în jos pentru a ajusta viteza de derulare a versurilor.</string>
     <string name="modify_song_info">Editaţi informaţiile despre melodie</string>
     <string name="modify_song_info_success">Informațiile despre melodie au fost actualizate</string>
+    <string name="moe_inbox_name">Centrul de Notificări</string>
+    <string name="moe_message_to_register">Faceți clic pe butonul de înregistrare pentru a vă înregistra pentru validarea integrării.</string>
+    <string name="moe_message_to_unregister">Dispozitivul este înregistrat pentru verificarea integrării. Faceți clic pe buton pentru a vă anula înregistrarea</string>
+    <string name="moe_notification_center_empty">Centrul de Notificări este gol</string>
+    <string name="moe_register">ÎNREGISTREAZĂ</string>
+    <string name="moe_unregister">ANULEAZĂ ÎNREGISTRAREA</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>
