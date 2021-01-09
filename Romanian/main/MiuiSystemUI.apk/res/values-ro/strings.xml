@@ -1612,13 +1612,14 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cast_detail_empty_text">Niciun dispozitiv disponibil</string>
     <string name="quick_settings_cast_device_default_description">Pregătit de proiecție</string>
     <string name="quick_settings_cast_device_default_name">Dispozitiv fără nume</string>
+    <string name="quick_settings_cast_no_wifi">Wi-Fi neconectat</string>
     <string name="quick_settings_cast_title">Proiectare</string>
     <string name="quick_settings_casting">Se proiectează</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limită</string>
     <string name="quick_settings_cellular_detail_data_usage">Utilizare date</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizați</string>
     <string name="quick_settings_cellular_detail_data_warning">%s avertisment</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dacă dezactivați datele mobile, nu veți mai putea utiliza internetul decât dacă vă conectați la Wi-Fi. Veți putea trimite în continuare mesaje MMS. Dezactivați datele mobile oricum?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Datele mobile (WCDMA/LTE) vor fi dezactivate. Dacă nu utilizați Wi-Fi, nu veți mai putea utiliza aplicații care necesită conexiune de date. Trimiterea sau primirea de mesaje multimedia va fi restricționată.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Utilizarea datelor mobile poate duce la taxe suplimentare, în funcție de abonamentul dvs. Permiteți utilizarea datelor mobile oricum?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Renunțați</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Permiteți</string>
@@ -2324,6 +2325,10 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="zen_mode_forever">Până când îl dezactivați</string>
     <string name="zen_mode_settings_summary_off">Niciodată</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activați modul Nu deranjați</string>
+    <string name="zen_mode_warnings_all_time_content">Notificările și apelurile vor fi reduse la tăcere</string>
+    <string name="zen_mode_warnings_keyguard_content">Notificările și apelurile vor fi reduse la tăcere atunci când dispozitivul este blocat</string>
+    <string name="zen_mode_warnings_quit_immediately">Dezactivați</string>
+    <string name="zen_mode_warnings_title">Modul Nu deranjați este activ</string>
     <string name="zen_priority_customize_button">Personalizați</string>
     <string name="zen_priority_introduction">Nu veți mai fi deranjat de sunete și vibrații, cu excepția alarmei, memento-urilor, evenimentelor și apelanților pe care i-ați specificat. Veți auzi în continuare orice veți dori să redați inclusiv muzica, videoclipurile și jocurile.</string>
     <string name="zen_silence_introduction">Acest lucru blochează TOATE sunetele și vibrațiile, inclusiv cele ale alarmei, muzicii, videoclipurilor și jocurilor.</string>

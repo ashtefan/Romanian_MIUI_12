@@ -416,6 +416,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_login_instead_reg">Utilizați acest număr</string>
     <string name="passport_login_instead_reg_with_email">Utilizați acest e-mail</string>
     <string name="passport_login_other_account">Alt cont</string>
+    <string name="passport_login_other_phone">Utilizați alt cont</string>
+    <string name="passport_login_other_way">Alte modalități de conectare</string>
     <string name="passport_login_prompt">Toate serviciile Mi. Un singur cont Mi.</string>
     <string name="passport_login_recycle_account_no">Nu</string>
     <string name="passport_login_recycle_account_yes">Da</string>

@@ -723,6 +723,12 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="macro_mode_use_hint_text_body">"Utilizați modul pentru a face ca obiectele mici
 să pară mai mari în fotografii"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
+    <string name="makeup_effect_entry_apricot_white">Alabastru</string>
+    <string name="makeup_effect_entry_dusk_night">Obscur</string>
+    <string name="makeup_effect_entry_neutral">Neutru</string>
+    <string name="makeup_effect_entry_palm">Palmier</string>
+    <string name="makeup_effect_entry_taro">Taro</string>
+    <string name="makeup_effect_entry_vitality">Vervă</string>
     <string name="makeup_reset_toast">Efecte de machiaj îndepărtate cu succes</string>
     <string name="manual_picture_style">Parametri</string>
     <string name="manually_raw_hint">RAW</string>
