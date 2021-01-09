@@ -36,7 +36,8 @@
     <string name="bluetooth_sap_notif_message">Cereți clientului să se deconecteze?</string>
     <string name="bluetooth_sap_notif_ticker">Acces SIM prin Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Acces SIM prin Bluetooth</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+    <string name="bt_audio_share_notification_content">Atingeți pentru a vedea opțiunile</string>
+    <string name="bt_audio_share_notification_title">Partajare audio</string>
     <string name="bt_enable_cancel">Anulaţi</string>
     <string name="bt_enable_line1">Pentru a putea utiliza serviciile Bluetooth, trebuie mai întâi să activaţi Bluetooth-ul.</string>
     <string name="bt_enable_line2">Activaţi acum Bluetooth?</string>
@@ -100,7 +101,7 @@
     <string name="not_exist_file">Niciun fişier</string>
     <string name="not_exist_file_desc">"Fişierul nu există.
 "</string>
-    <string name="noti_caption">%1$s cu succes, %2$s fără succes.</string>
+    <string name="notice_audio_share_disconnected">Nu se mai distribuie sunet din cauza conexiunii întrerupte</string>
     <string name="notification_received">Distribuire prin Bluetooth: S-a primit %1$s</string>
     <string name="notification_received_fail">Distribuire prin Bluetooth: Fişierul %1$s nu s-a primit</string>
     <string name="notification_receiving">Distribuire prin Bluetooth: Se primeşte %1$s</string>

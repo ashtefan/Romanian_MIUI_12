@@ -48,6 +48,10 @@
         <item quantity="other">%d note</item>
         <item quantity="one">%d notă</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d notițe</item>
+        <item quantity="one">%d notiță</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d Intrări Asistent inteligent</item>
         <item quantity="one">%d Intrare Asistent inteligent</item>

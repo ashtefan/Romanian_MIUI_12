@@ -26,6 +26,18 @@
         <item>Creați o copie de rezervă pentru setările importante, inclusiv Wi-Fi și ecran</item>
         <item>Blocați telefonul de la distanță dacă îl pierdeți</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sincronizați contactele, mesajele, notele, calendarul și multe altele</item>
+        <item>Faceți backup pentru aplicații, aspectul ecranului de pornire și imaginea de fundal</item>
+        <item>Faceți backup pentru setările importante, inclusiv Wi-Fi și afișaj</item>
+        <item>Blocați dispozitivul de la distanță, dacă îl pierdeți</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sincronizați contactele, mesajele, notele, calendarul și multe altele</item>
+        <item>Faceți backup pentru aplicații, aspectul ecranului de pornire și imaginea de fundal</item>
+        <item>Faceți backup pentru setările importante, inclusiv Wi-Fi și afișaj</item>
+        <item>Blocați dispozitivul de la distanță, dacă îl pierdeți</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>
         <item>Salvați dispunerea ecranului Acasă</item>
@@ -96,6 +108,11 @@
     </string-array>
     <string-array name="settings_search_notes">
         <item>Sincronizați notițele cu Xiaomi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Note;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sincronizați notițele în Xiaomi Cloud</item>
         <item>Activați sincronizarea</item>
         <item>Note;Cloud;Sincronizare;Servicii Cloud;Xiaomi Cloud</item>
     </string-array>

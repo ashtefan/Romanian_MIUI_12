@@ -241,6 +241,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_camera_fast_check_title">Test rapid cameră</string>
     <string name="cit_camera_rearsub">Test pentru camera secundară posterioară în curs; vă rog așteptați…</string>
     <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
+    <string name="cit_camerasfr_test">Se analizează imaginea, vă rugăm să așteptați....</string>
     <string name="cit_charge_usb_dcp">Se încarcă： USB_DCP</string>
     <string name="cit_charge_usb_hvdcp">Se încarcă： USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Se încarcă： USB_PD</string>
@@ -277,7 +278,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_fm_audio_path_headset">Căști</string>
     <string name="cit_fm_audio_path_speaker">Difuzor</string>
     <string name="cit_fm_check_summary">"Se va testa funcția Radio a telefonului
-Înainte de a începe testul, trebuie să conectați căștile și să închideți toate aplicațiile corelate FM"</string>
+Înainte de a începe testul, trebuie să conectați căștile"</string>
     <string name="cit_fm_check_title">Radio FM</string>
     <string name="cit_fm_close">Închide Radio FM</string>
     <string name="cit_fm_not_supported">Acest telefon nu suportă funcția Radio FM</string>
@@ -579,10 +580,10 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tool_bluetooth_tx_burst_run">RULEAZĂ</string>
     <string name="cit_tool_bluetooth_tx_chain">antena:</string>
     <string name="cit_tool_bluetooth_tx_channel">canal:</string>
-    <string name="cit_tool_bluetooth_tx_h">Intrați în modul Test Frecvență operator Bluetooth 2,480GHz</string>
-    <string name="cit_tool_bluetooth_tx_l">Intrați în modul Test Frecvență operator 2,402GHz</string>
-    <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
-    <string name="cit_tool_bluetooth_tx_m">Intrați în modul Test Frecvență operator 2,441GHz</string>
+    <string name="cit_tool_bluetooth_tx_h">Intrați în modul Test Frecvență Bluetooth BR/EDR 2,480 GHz</string>
+    <string name="cit_tool_bluetooth_tx_l">Intrați în modul Test Frecvență Bluetooth BR/EDR 2,402 GHz</string>
+    <string name="cit_tool_bluetooth_tx_level">Put/Niv:</string>
+    <string name="cit_tool_bluetooth_tx_m">Intrați în modul Test Frecvență Bluetooth BR/ER 2,441 GHz</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse">"TX: RSE     "</string>
     <string name="cit_tool_bluetooth_tx_rse_run">RULEAZĂ</string>
@@ -727,6 +728,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="fingerprint">Amprentă:</string>
     <string name="fingerprint_input_title">test introducere amprentă</string>
     <string name="fod_check_title">Verificare senzor de amprentă</string>
+    <string name="get_dsi_tips">Obțineți DSI</string>
     <string name="image_quality_test">TEST CALITATE IMAGINE</string>
     <string name="info">Informații</string>
     <string name="init">inițializare</string>

@@ -223,11 +223,14 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
+    <string name="provision_back">Înapoi</string>
     <string name="provision_background_restore_more_data">Restaurați mai multe elemente în fundal</string>
     <string name="provision_error_connect_msg">"Testați rețeaua și încercați din nou. Copiile de rezervă nu sunt disponibile când telefonul este offline."</string>
     <string name="provision_error_connect_title">"Nu se poate conecta"</string>
+    <string name="provision_next">Următorul</string>
     <string name="provision_restore_data">Se restaurează elementele</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_skip_underline">Omiteți</string>
     <string name="query_restore_description">Restaurați aplicațiile și setările ecranului de pornire utilizând această copie de rezervă. Această operațiune va suprascrie datele aplicațiilor deja instalate pe dispozitiv. Aplicațiile neincluse în această copie de rezervă vor fi mutate pe ultima pagină din ecranul principal.</string>
     <string name="query_restore_summary">A fost găsită o copie de rezervă Xiaomi Cloud pentru acest dispozitiv. Restaurați aplicațiile și setările din ecranul principal sau utilizați ca dispozitiv nou și ștergeți copiile de rezervă anterioare din Xiaomi Cloud?</string>
     <string name="recover_home_settings">Restabiliţi setările ecranului de pornire</string>
