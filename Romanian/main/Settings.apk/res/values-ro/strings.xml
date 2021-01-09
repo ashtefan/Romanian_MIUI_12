@@ -8469,7 +8469,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI-ul pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="wifi_wakeup">Activați Wi-Fi în mod automat</string>
-    <string name="wifi_wakeup_summary">Wi-Fi-ul se va reactiva în preajma rețelelor de calitate înaltă salvate, cum ar fi rețeaua dumneavoastră de acasă</string>
+    <string name="wifi_wakeup_location_summary">Activați serviciile de localizare pentru a putea utiliza această caracteristică.</string>
     <string name="wifi_wakeup_negative_button">Renunțați</string>
     <string name="wifi_wakeup_positive_button">Activați</string>
     <string name="wifi_wakeup_scan_summary">Permiteți aplicațiilor și serviciilor să caute rețele Wi-Fi pentru a putea activa Wi-Fi-ul în mod automat. Activarea acestei funcții va permite dispozitivului dvs. să se conecteze automat la rețelele salvate din apropiere.</string>
