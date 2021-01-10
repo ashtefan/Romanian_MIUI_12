@@ -102,6 +102,7 @@
     <string name="bh_app_name">Servicii Operator Mi</string>
     <string name="bh_app_name_short">Servicii Operator</string>
     <string name="bh_b">B</string>
+    <string name="bh_back">Înapoi</string>
     <string name="bh_bill_balance">Balanță</string>
     <string name="bh_bill_charge">Suplimentați soldul</string>
     <string name="bh_bugreport">Feedback funcționare</string>
@@ -126,6 +127,7 @@
     <string name="bh_close_traffic_package">Închideți detaliile planului operatorului</string>
     <string name="bh_close_traffic_service">Dezactivați planul operatorului</string>
     <string name="bh_cmcc">China Mobile</string>
+    <string name="bh_confirm">OK</string>
     <string name="bh_connect_address">Numele destinatarului</string>
     <string name="bh_connect_name">Destinatar</string>
     <string name="bh_connect_number">Numărul de telefon al destinatarului</string>
@@ -156,7 +158,7 @@
     <string name="bh_flow_order">Date mobile</string>
     <string name="bh_flow_service">Date mobile</string>
     <string name="bh_flow_unlimited">Nelimitat</string>
-    <string name="bh_funtion_desc">Bine ați venit în aplicația Servicii Operator Mi! Puteți utiliza această aplicație pentru a vă verifica soldul telefonului, pentru a cumpăra minute de apel și date mobile și multe altele.</string>
+    <string name="bh_funtion_desc">Bine ați venit în aplicația Servicii Operator Mi! Puteți utiliza această aplicație pentru a vă verifica soldul telefonului, pentru a cumpăra minute de apel și date mobile și multe altele. Această aplicație trebuie să se conecteze la rețea pentru a putea funcționa normal.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Verificat cu succes. Informațiile ar putea fi actualizate cu o întârziere aici.</string>
     <string name="bh_get_charge_phone_number">Selectați din contacte</string>

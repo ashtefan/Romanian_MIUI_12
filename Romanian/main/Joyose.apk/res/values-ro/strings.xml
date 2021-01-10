@@ -7,7 +7,8 @@
     <string name="cc_version">"Versiunea curentă: "</string>
     <string name="connect_wifi">Neconectat la Wi-Fi</string>
     <string name="detect_fakecell">Recunoaștere SMS-uri de la stații de bază false</string>
-    <string name="forbidden_fakecell">"Nu conecta la stațiile de bază false"</string>
+    <string name="end_title">Joaca s-a încheiat</string>
+    <string name="forbidden_fakecell">Nu conecta la stațiile de bază false</string>
     <string name="forbidden_fakecell_summary">Previne conectarea telefonului dvs. la stații de bază false</string>
     <string name="foreground_text">Utilizați serviciile în fundal pentru a crește nivelul de prioritate</string>
     <string name="foreground_title">Servicii în fundal</string>

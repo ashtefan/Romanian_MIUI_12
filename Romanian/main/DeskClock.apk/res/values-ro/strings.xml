@@ -262,6 +262,7 @@
     <string name="legal_workday_invalidate">Date expirate (în prezent, alarma sună de Luni până Vineri)</string>
     <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în Setări)</string>
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
+    <string name="lib_name">Filament Android</string>
     <string name="life_post_setting">Raport matinal</string>
     <string name="life_post_setting_FBE_remind">Datorită restricțiilor de sistem, informațiile matinale despre starea vremii pot fi afișate incorect după repornire</string>
     <string name="life_post_setting_close_title">Închideți rapoartele matinale</string>
@@ -694,5 +695,8 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">La fel cu fusul local</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yesterday">Ieri</string>
 </resources>

@@ -12,6 +12,11 @@
         <item>1,5x</item>
         <item>2x</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagine</item>
+        <item>Rută</item>
+        <item>Card</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Alergare</item>
         <item>Plimbare</item>
