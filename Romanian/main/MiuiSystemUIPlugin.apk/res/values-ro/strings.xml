@@ -89,6 +89,8 @@
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendar Chinezesc Tradițional</string>
     <string name="disabled">Indisponibil</string>
+    <string name="dnd_popup_close_message">Am înțeles</string>
+    <string name="dnd_popup_message">Puteți activa modul Nu deranja pentru a reduce la tăcere apelurile și notificările fără a dezactiva sunetele media.</string>
     <string name="early_morning">Dimineață</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
@@ -169,11 +171,12 @@
     <string name="miui_ringer_status_open">Pornit</string>
     <string name="miui_ringer_total">Nu deranjați</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, cu excepția alarmei</string>
-    <string name="miui_toast_zen_dnd_to_off">Modul Nu deranjați este dezactivat acum. Sunetele și vibrațiile sunt restaurate la normal.</string>
-    <string name="miui_toast_zen_standard_to_off">Modul Silențios este dezactivat acum. Sunetele de apel sunt restaurate la normal.</string>
+    <string name="miui_toast_zen_dnd_to_off">Apelurile și notificările nu vor mai fi reduse la tăcere</string>
+    <string name="miui_toast_zen_standard_to_off">Modul Silențios este dezactivat</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modul Silențios este dezactivat acum. Sunetele de apel, precum și sunetele pentru notificări și cele multimedia vor fi redate.</string>
-    <string name="miui_toast_zen_to_dnd">S-a comutat la modul Nu deranjați. Sunetele sunt reduse la tăcere iar vibrațiile sunt dezactivate acum.</string>
-    <string name="miui_toast_zen_to_standard">S-a comutat la modul Silențios. Sunetele de apel și cele pentru notificări sunt reduse la tăcere.</string>
+    <string name="miui_toast_zen_to_dnd">Apelurile și notificările vor fi reduse la tăcere</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Apelurile și notificările vor fi reduse la tacere atunci când dispozitivul este blocat</string>
+    <string name="miui_toast_zen_to_standard">Modul silențios este activat</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S-a comutat la modul Silențios. Sunetele de apel, precum și cele pentru notificări și sunete multimedia sunt reduse la tăcere acum.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
@@ -400,7 +403,8 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="wireless_charging_saver_message">Economisirea acumulatorului este activă acum. Mențineți disponibilă încărcarea inversă wireless?</string>
     <string name="wireless_charging_saver_ok">Mențineți</string>
     <string name="wireless_charging_tips_disable">Nu afișa din nou</string>
-    <string name="wireless_charging_tips_message">Așezați dispozitivele care acceptă încărcarea fără fir Qi (telefoane, accesorii, etc.) pe spatele acestui dispozitiv.</string>
+    <string name="wireless_charging_tips_message">Așezați dispozitivele pe care doriți să le încărcați fără fir (de ex. telefoane, ceasuri inteligente, accesorii, etc.) pe spatele acestui telefon. Asigurați-vă că acest telefon este încărcat la cel puțin %d%% înainte de a utiliza incărcarea wireless inversă.</string>
+    <string name="wireless_charging_tips_sub_message">Celălalt dispozitiv trebuie să accepte standardul de încărcare wireless Qi.</string>
     <string name="wireless_charging_tips_title">Încărcare inversă wireless</string>
     <string name="yesterday">Ieri</string>
 </resources>
