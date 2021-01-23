@@ -423,6 +423,8 @@
     <string name="clone_video_mode">Video</string>
     <string name="close_back_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_front_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
+    <string name="close_night_algo_toast_low_power">Încărcați dispozitivul pentru a putea seta expunerea</string>
+    <string name="close_night_algo_toast_thermal">Răcoriți dispozitivul pentru a putea seta expunerea</string>
     <string name="color_effect_entry_berry">Fructe de padure</string>
     <string name="color_effect_entry_blackgold">Vibrații de aur</string>
     <string name="color_effect_entry_blackgold_describe">Acest filtru cu contrast ridicat păstrează doar culorile galben și albastru închis. Folosiți-l pe străzile bine iluminate noaptea ale unui oraș.</string>
@@ -904,6 +906,10 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_multi_camera">Multicameră</string>
     <string name="module_name_new_slow_motion">Mișcare cu viteză redusă</string>
     <string name="module_name_panorama">Panoramă</string>
+    <string name="module_name_pixel_108m">108 MP</string>
+    <string name="module_name_pixel_48m">48 MP</string>
+    <string name="module_name_pixel_50m">50 MP</string>
+    <string name="module_name_pixel_64m">64 MP</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_square">Pătrat</string>
@@ -1214,7 +1220,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
     <string name="pref_camera_hfr_entry_off">Dezactivat</string>
-    <string name="pref_camera_high_quality_preferred_description">Îmbunătățește calitatea imaginii utilizând algoritmi inteligenți. Viteza de fotografiere poate scădea când este activată această funcție.</string>
+    <string name="pref_camera_high_quality_preferred_description">Îmbunătățiți calitatea imaginii utilizând algoritmul inteligent. Viteza de captare a imaginii poate scădea când această funcție este activată. Modul nocturn va fi activat automat atunci când sunt detectate condiții de lumină slabă.</string>
     <string name="pref_camera_high_quality_preferred_title">Crește calitatea imaginii</string>
     <string name="pref_camera_histogram_entry_disable">Dezactivaţi</string>
     <string name="pref_camera_histogram_entry_enable">Activaţi</string>
@@ -1488,6 +1494,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_skin_beautify_slim_title">Zvelt</string>
     <string name="pref_skin_beautify_smooth_title">Ten</string>
     <string name="pref_smart_guide_title">Sugestii inteligente</string>
+    <string name="pref_super_night_se_summary">Detectați condițiile de iluminare slabă și îmbunătățiți automat calitatea imaginii</string>
+    <string name="pref_super_night_se_title">Mod noapte automat</string>
     <string name="pref_userdefine_watermark_title">Amprentă personalizată</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
     <string name="pref_video_denoise_off">Oprită</string>

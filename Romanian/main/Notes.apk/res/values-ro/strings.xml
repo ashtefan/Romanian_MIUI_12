@@ -61,6 +61,7 @@
     <string name="audio_toast_file_invalid">Fișer audio nevalid</string>
     <string name="audio_toast_file_undownload">"Fișierul audio nu este complet descărcat sau lipsește"</string>
     <string name="audio_toast_network_is_not_available">"Nu s-a putut conecta la rețea"</string>
+    <string name="blackboard_note">Tablă inteligentă</string>
     <string name="brush_AirBrush">Arograf</string>
     <string name="brush_BallpointPen">Pix</string>
     <string name="brush_Bamboo1">Bambus1</string>
@@ -135,6 +136,7 @@
     <string name="db_downgrade_clear_button">Ștergeți datele aplicației</string>
     <string name="db_downgrade_clear_date_reminder">"Schimbarea versiunii MIUI necesită ștergerea datelor aplicației Note. Înainte de a face acest lucru, asigurați-vă că ați sincronizat notițele în cloud."</string>
     <string name="default_folder_name">Dosar fără nume</string>
+    <string name="default_update_documents">Este disponibilă o actualizare. Actualizați acum?</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
     <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a asigura securitatea contului dvs., conectați-vă la i.mi.com înainte de a revoca autorizarea pentru serviciile de cloud."</string>
     <string name="dialog_share_as_pic">Partajați nota ca și fotografie</string>
@@ -407,7 +409,9 @@
     <string name="note_link_tel">Apelaţi</string>
     <string name="note_link_web">Deschideți în browser</string>
     <string name="note_mindnote_entrance_hint">"Începeți să tastați "</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Începeți să tastați "</string>
     <string name="note_mindnote_entrance_icon_text">Creați o hartă mentală</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">Creați o hartă mentală</string>
     <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>

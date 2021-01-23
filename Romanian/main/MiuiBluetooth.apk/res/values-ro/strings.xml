@@ -307,6 +307,8 @@ Atingeți 'Ștergere și conversie…' pentru a continua."</string>
     <string name="headset_fw_error_failed">eșuat</string>
     <string name="headset_fw_file_position_failed">eșuat</string>
     <string name="headset_fw_file_readfailed">eșuat</string>
+    <string name="headset_loss_notify_summary">Se pare că cel puțin una dintre căști nu se află în carcasă. Priviți cu atenție!</string>
+    <string name="headset_loss_notify_title">Alertă lipsă căști</string>
     <string name="headset_read_fw_state">eșuat</string>
     <string name="headset_update_failed">eșuat</string>
     <string name="headset_update_ok">ok</string>

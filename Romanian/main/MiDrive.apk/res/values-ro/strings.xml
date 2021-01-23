@@ -573,7 +573,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="user_avatar_update_title">Modificați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_id_hint">E-mail/Telefon/ID cont Mi</string>
-    <string name="user_protocol_and_privacy_protocol">Am citit și accept Acordul Utilizatorului și Politica de Confidențialitate.</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>"Am citit și acceptat &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>."</Data></string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="v_code_title">Introduceți codul de verificare</string>

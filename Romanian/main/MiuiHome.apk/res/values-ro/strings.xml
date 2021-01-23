@@ -181,6 +181,7 @@
     <string name="change_wallpaper">Modificați</string>
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
+    <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="cloud_app_restore_title">În așteptare</string>
     <string name="common_home_search_delete">Se elimină bara de căutare</string>
     <string name="common_home_search_delete_cancle">Renunțați</string>

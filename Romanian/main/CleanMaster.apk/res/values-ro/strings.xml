@@ -837,6 +837,8 @@
     <string name="video_clean_desktop_icon_created">S-a adăugat cu succes o comandă rapidă pe Ecranul principal</string>
     <string name="video_clean_garbage">Videoclipuri în cache</string>
     <string name="video_clean_garbage_cleared">Videoclipurile memorate în cache au fost șterse</string>
+    <string name="video_clean_image_clean_summary">Ștergeți fotografiile dublate pentru a elibera spațiu de stocare</string>
+    <string name="video_clean_image_clean_title">Ștergeți fotografiile dublate</string>
     <string name="video_clean_notification_summary">Ștergeți videoclipurile memorate în cache de către aplicații</string>
     <string name="video_clean_notification_title">Eliberați %s</string>
     <string name="video_clean_personal_settings_title">Setări adiționale</string>

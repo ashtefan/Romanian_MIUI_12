@@ -6985,6 +6985,10 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="swipe_up_to_switch_apps_title">Navigare cu 2 butoane</string>
     <string name="switchNetworkToast">Conectarea la rețele mobile poate genera taxe suplimentare</string>
     <string name="switch_access_service_on">Comutați Accesul</string>
+    <string name="switch_bootup_sound">Sunet de boot</string>
+    <string name="switch_headset_anti_lost">Alertă lipsă căști</string>
+    <string name="switch_headset_anti_lost_summary">Primiți o alertă ori de câte ori una dintre căști este departe de ureche sau de husa de încărcare timp de mai mult de un minut</string>
+    <string name="switch_headset_anti_lost_title">Alertă lipsă căști</string>
     <string name="switch_off_text">Oprit</string>
     <string name="switch_on_text">Pornit</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
@@ -8118,7 +8122,12 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_empty_list_wifi_on">Se caută reţele Wi-Fi…</string>
     <string name="wifi_enable">Activaţi Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Utilizaţi reţeaua Wi-Fi doar atunci când conexiunea la internet este puternică</string>
+    <string name="wifi_enhanced_handover">Transmisie îmbunătățită</string>
+    <string name="wifi_enhanced_handover_summary">Comutați rapid între diferite puncte de acces</string>
+    <string name="wifi_enhanced_mac_randomization">Randomizare MAC îmbunătățită prin Wi-Fi</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Când acest mod este activat, adresa MAC a acestui dispozitiv se poate schimba de fiecare dată când se conectează la o rețea care are activată randomizarea MAC.</string>
     <string name="wifi_error">Eroare</string>
+    <string name="wifi_expiry_time">Expiră la %1$s</string>
     <string name="wifi_fail_to_scan">Nu se pot scana reţelele</string>
     <string name="wifi_failed_connect_message">Nu s-a putut stabili conexiunea la reţea</string>
     <string name="wifi_failed_forget_message">Nu s-a putut elimina reţeaua</string>
