@@ -129,10 +129,8 @@
     <string name="delete_file_success">Șters cu succes</string>
     <string name="delete_record_only">Elementele la care se referă înregistrările selectate nu vor fi șterse.</string>
     <string name="delete_success">Șters cu succes</string>
-    <string name="diagnosis_log_send_failed">Nu s-au putut trimite jurnalele. Încercați din nou.</string>
-    <string name="diagnosis_log_sent_format">"Jurnalele au fost trimise cu succes.
-ID:%s
-Trimiteți acest cod supervizor-ului."</string>
+    <string name="detail_download_path">"Locație: "</string>
+    <string name="detail_download_time">"Descărcat: "</string>
     <string name="dialog_content_delete_pdf_content">Ștergeți acest PDF acum?</string>
     <string name="dialog_copy_storage_full_desc">Nu se pot copia elemente datorită spațiului de stocare în cloud insuficient. Actualizați-vă abonamentul pentru a obține mai mult spațiu de stocare.</string>
     <string name="dialog_copy_storage_full_title">Nu se poate copia</string>
@@ -219,8 +217,8 @@ Trimiteți acest cod supervizor-ului."</string>
     <string name="file_sort_modify_time">Sortați după data modificării</string>
     <string name="file_sort_name">Sortați după nume</string>
     <string name="file_sort_size">Sortați după dimensiune</string>
-    <string name="file_status_text">%1$s | %2$s %3$s: %4$s</string>
-    <string name="file_status_text_no_size">%1$s %2$s: %3$s</string>
+    <string name="file_status_text">%1$s | %2$s</string>
+    <string name="file_status_text_no_size">%1$s</string>
     <string name="file_upload_dialog_cancel">Renunțați</string>
     <string name="file_upload_dialog_title">Selectați categoria</string>
     <string name="find_psw">Am uitat parola</string>

@@ -268,9 +268,14 @@ Atingeți 'Ștergere și conversie…' pentru a continua."</string>
     <string name="fast_connect_device_title_connecting">Se conectează…</string>
     <string name="fast_connect_device_title_find_headset">Găsiți %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
+    <string name="fast_connect_new_feture_anti_lost">Anti Pierdere</string>
+    <string name="fast_connect_new_feture_same_account">Același cont fără pereche</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Normalizator sunet</string>
+    <string name="fast_connect_new_feture_title">Noi caracteristici</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Mențineți apăsat butonul superior pentru %1$s secunde în timp ce îl închideți</string>
     <string name="fast_connect_reset_common">Resetați acest dispozitiv pentru a-l putea asocia</string>
+    <string name="fast_connect_same_accout_devices_title">Acesta este celălalt dispozitiv conectat: %1$s</string>
     <string name="fast_connect_wbs_name">Difuzor pentru încărcător wireless Mi</string>
     <string name="fast_connect_wbs_reset">Mențineți apăsat butonul superior timp de %1$s secunde în timp ce îl închideți</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>

@@ -125,6 +125,7 @@
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="close_feedback_main">Ascundeți</string>
     <string name="collect_diagnosis_log">Colectați jurnale de diagnoză</string>
     <string name="confirm_activate_email">Verificată</string>
@@ -141,6 +142,7 @@
     <string name="customer_service_complain">Raportați serviciu clienți</string>
     <string name="customer_service_station">Locații asistență</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="description">Descrieţi problema</string>
     <string name="diagnosis_log_send_failed">Nu s-au putut trimite jurnalele. Încercați din nou.</string>
     <string name="diagnosis_log_sent_format">"Jurnalele au fost trimise cu succes.
@@ -480,11 +482,13 @@ Trimiteți acest cod supervizorului."</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
-    <string name="min_error">%1$s dvs ar trebui să fie mai lung.</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -800,8 +804,8 @@ Pentru a vă activa contul, accesați
     <string name="section_description">Descriere</string>
     <string name="section_err_type">Tipul erorii</string>
     <string name="section_screenshot">Captură de ecran</string>
-    <string name="select_system_app_tag">Selectați o problemă</string>
-    <string name="send_diagnosis_log">Trmiteți jurnalele</string>
+    <string name="send">Trimiteți</string>
+    <string name="send_diagnosis_log">Trimiteți jurnalele</string>
     <string name="send_email_activate_message">E-mail de verificare trimis cu succes</string>
     <string name="sending">Se trimite…</string>
     <string name="service_error">Eroare de server</string>

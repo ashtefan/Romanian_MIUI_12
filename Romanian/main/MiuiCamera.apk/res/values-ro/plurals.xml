@@ -41,8 +41,8 @@
         <item quantity="one">Înregistrați %d secundă</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">dsfdf %d cdcsdcii</item>
-        <item quantity="one">dfsdf %d sdfdfsdf</item>
+        <item quantity="other">Puteți înregistra videoclipuri cu înghețarea timpului cu până la %d subiecți.</item>
+        <item quantity="one">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiect.</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s fotografii</item>

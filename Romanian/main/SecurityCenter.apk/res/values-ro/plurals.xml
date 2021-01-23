@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">S-au adăugat %d jocuri</item>
         <item quantity="one">S-a adăugat %d joc</item>
@@ -214,6 +243,13 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Obțineți o variantă gratuită de încercare pentru %d zile</item>
         <item quantity="one">Obțineți o variantă gratuită de încercare pentru %d zi</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">Felicitări! Ați deblocat %s Ouă de Paști.</item>
+        <item quantity="one">Felicitări! Ați deblocat %s Ou de Paști.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    încă +%1$d caractere</item>
         <item quantity="one">    încă +%1$d caracter</item>
@@ -286,6 +322,19 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Ștergeți %d imagini</item>
         <item quantity="one">Ștergeți %d imagine</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">Au fost adăugate %d jocuri</item>
         <item quantity="one">A fost adăugat %d joc</item>
@@ -302,9 +351,16 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%s minute</item>
         <item quantity="one">%s minut</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Conectați cel puțin %d puncte</item>
         <item quantity="one">Conectați cel puțin %d punct</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Conectați cel puțin %s puncte</item>
+        <item quantity="one">Conectați cel puțin %s punct</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Așteptați %d secunde și încercați din nou. "</item>
@@ -334,6 +390,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%d actualizări disponibile</item>
         <item quantity="one">%d actualizare disponibilă</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Introduceți cel puțin %d caractere</item>
         <item quantity="one">Introduceți cel puțin %d caracter</item>
@@ -345,6 +405,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="network_restrict_count">
         <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicații"</item>
         <item quantity="one">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicație"</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d zile de la ultima scanare de securitate</item>
+        <item quantity="one">%d zi de la ultima scanare de securitate</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">S-a descărcat %2$d%% din acumulator în ultimele %1$d minute</item>
@@ -358,6 +422,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Ștergeți %d pachete de instalare</item>
         <item quantity="one">Ștergeți %d pachet de instalare</item>
     </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Ștergeți %d .apk-uri reziduale</item>
+        <item quantity="one">Ștergeți %d .apk rezidual</item>
+    </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d probleme de utilizare a acumulatorului</item>
         <item quantity="one">%d problemă de utilizare a acumulatorului</item>
@@ -369,6 +437,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d zile de la ultima verificare</item>
         <item quantity="one">%d zi de la ultima verificare</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicații blocate</item>
