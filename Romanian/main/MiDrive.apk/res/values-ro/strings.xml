@@ -93,12 +93,15 @@
     <string name="category_select">Selectați</string>
     <string name="category_video">Videoclipuri</string>
     <string name="category_video_title">Videoclipuri</string>
-    <string name="change_activate_email">Modificați adresa de e-mail</string>
-    <string name="change_password">Modificați parola</string>
-    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="choose_to_signin">Da</string>
-    <string name="choose_to_signup">Nu, voi crea unul</string>
+    <string name="channel_pc_edit">Editat pe computer</string>
+    <string name="channel_pc_upload">Încărcat de pe computer</string>
+    <string name="channel_pc_view">Vizualizat pe computer</string>
+    <string name="channel_phone_edit">Editat pe telefon</string>
+    <string name="channel_phone_upload">Încărcat de pe telefon</string>
+    <string name="channel_phone_view">Vizualizat pe telefon</string>
+    <string name="channel_web_edit">Editat în browser</string>
+    <string name="channel_web_upload">Încărcat în browser</string>
+    <string name="channel_web_view">Vizualizat în browser</string>
     <string name="clear_cache_success">Golită cu succes</string>
     <string name="cloud_gallery_to_pdf">Generat în mod automat</string>
     <string name="cloud_storage_already_full">Stocarea în cloud este plină: %1$s/%2$s</string>
@@ -127,6 +130,8 @@
     <string name="create_pdf_manual">PDF nou</string>
     <string name="current_speed_content">Viteza curentă: %1$s</string>
     <string name="delete_file_success">Șters cu succes</string>
+    <string name="delete_operation_record">Ștergeți această înregistrare?</string>
+    <string name="delete_operation_record_timeout">Nu s-a putut șterge înregistrarea. Așteptați un minut sau două și încercați din nou.</string>
     <string name="delete_record_only">Elementele la care se referă înregistrările selectate nu vor fi șterse.</string>
     <string name="delete_success">Șters cu succes</string>
     <string name="detail_download_path">"Locație: "</string>
@@ -241,6 +246,7 @@
     <string name="input_email_address_notice">Vom folosi această adresă de e-mail pentru a vă verifica contul</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
+    <string name="jump_to_directory">Deschideți dosarul</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="just_now">Chiar acum</string>
     <string name="license_host_unreachable">Dispozitivul dvs. nu este conectat la serviciile cloud. Pentru a vedea acest element, vizitați %s de pe un dispozitiv conectat.</string>
@@ -298,6 +304,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
     <string name="no_phone">Niciun număr de telefon</string>
+    <string name="no_recent_activity">Niciun element recent aici</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_upload_file_for_overseas_users">Încărcarea nu este disponibilă înafara Mainland China</string>
     <string name="notification_channel_remind">Memento-uri</string>
@@ -319,6 +326,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="operation_dialog_copy_message">Se copie…</string>
     <string name="operation_dialog_create_folder_message">Se crează dosarul…</string>
     <string name="operation_dialog_delete_message">Se șterge…</string>
+    <string name="operation_dialog_jump_message">Se deschide dosarul…</string>
     <string name="operation_dialog_move_message">Se mută…</string>
     <string name="operation_dialog_rename_message">Se redenumește…</string>
     <string name="operation_download">Descărcați</string>
@@ -335,6 +343,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="operation_save">Salvați</string>
     <string name="operation_sure_to_delete">Ștergeți acum?</string>
     <string name="operation_transport_success">Adăugată cu succes la transferuri</string>
+    <string name="operation_will_not_show_after_delete">Înregistrarea nu va mai apărea aici dacă o ștergeți.</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_label">Contul Mi</string>
     <string name="passport_account_name">Cont: %1$s</string>
@@ -451,6 +460,8 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="private_empty_sub_desc">Încercați să mutați fișierele aici sau încărcați-le în mod direct.</string>
     <string name="private_folder_name">Fișiere private</string>
     <string name="ptp_ai_recommend_empty_page">Niciun PDF generat în mod automat aici</string>
+    <string name="recent_file">Recente</string>
+    <string name="recent_jump_to_privacy_fail_notice">Acest fișier este privat. Reveniți la pagina de pornire și glisați în jos pentru a vizualiza.</string>
     <string name="refresh_label_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="refresh_label_refreshed">Reîmprospătat cu succes</string>
     <string name="refresh_label_refreshing">Se reîmprospătează…</string>

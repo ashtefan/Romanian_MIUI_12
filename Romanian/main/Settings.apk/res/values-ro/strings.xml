@@ -1100,8 +1100,10 @@ Aplicații:
     <string name="bluetooth_empty_list_user_restricted">"Nu aveți permisiunea de a modifica setările Bluetooth."</string>
     <string name="bluetooth_enable">Activaţi Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Codul PIN conţine litere sau simboluri</string>
-    <string name="bluetooth_enable_inband_ringing">Activați in-band ringing</string>
-    <string name="bluetooth_enable_inband_ringing_summary">Permite redarea sunetelor de apel de pe telefon pe dispozitivele Bluetooth</string>
+    <string name="bluetooth_enable_gabeldorsche">Activați Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Activează stiva de caracteristici Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_page_scan">activați pagina de scanare Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">dezactivați/activați scanarea paginii pentru testul Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Introduceţi cheia de acces apoi apăsați Înapoi sau Enter</string>
     <string name="bluetooth_enter_passkey_other_device">Ar putea fi necesar, de asemenea, să introduceţi această parolă pe celălalt dispozitiv.</string>
     <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN şi pe celălalt dispozitiv.</string>

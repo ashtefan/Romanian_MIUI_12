@@ -188,4 +188,8 @@
         <item quantity="other">Se încarcă… %1$d elemente rămase (%2$s%%)</item>
         <item quantity="one">Se încarcă… %1$d element rămas (%2$s%%)</item>
     </plurals>
+    <plurals name="view_all">
+        <item quantity="other">1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
 </resources>

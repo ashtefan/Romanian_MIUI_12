@@ -404,6 +404,10 @@
     <string name="bluetooth_disconnecting">Deconectare…</string>
     <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Utilizat pentru accesul în rețelele de tip dial-up</string>
+    <string name="bluetooth_enable_gabeldorsche">Activați Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Activează stiva de caracteristici Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_page_scan">activați pagina de scanare Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">dezactivați/activați scanarea paginii pentru testul Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectat la sistemul audio al telefonului</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizat pentru sistemul audio al telefonului</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectat la Ajutorul Ascultare</string>

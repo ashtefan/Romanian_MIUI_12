@@ -68,6 +68,7 @@ dd/MM"</string>
     <string name="aod_show_style_title">Elemente de afișat</string>
     <string name="aod_signature_12">hh:mm aa</string>
     <string name="aod_style">Temă</string>
+    <string name="aod_theme_store">Teme afișaj activ permanent</string>
     <string name="aod_to_close">Dezactivați</string>
     <string name="app_name">Preference</string>
     <string name="apply">Aplicați</string>
