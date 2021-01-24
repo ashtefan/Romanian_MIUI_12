@@ -376,7 +376,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="alarm_stop_info">Modul Silențios va fi dezactivat când sună alarma</string>
     <string name="alarm_template">la %1$s</string>
     <string name="alarm_template_far">pe %1$s</string>
-    <string name="alarm_volume_option_title">Volum alarmă</string>
+    <string name="alarm_volume_option_title">Alarmă</string>
     <string name="alarm_volume_title">Alarmă</string>
     <string name="all_volume_title">Volume</string>
     <string name="allow">Permiteţi</string>
@@ -4012,7 +4012,9 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="media_output_summary_unavailable">Indisponibil</string>
     <string name="media_output_title">Redați multimedia pe</string>
     <string name="media_transfer_this_device_name">Acest dispozitiv</string>
-    <string name="media_volume_option_title">Volum muzică și videoclipuri</string>
+    <string name="media_transfer_wired_device_name">Dispozitiv audio cu fir</string>
+    <string name="media_transfer_wired_usb_device_name">Căști cu fir</string>
+    <string name="media_volume_option_title">Multimedia</string>
     <string name="media_volume_summary">Setaţi volumul pentru muzică şi videoclipuri</string>
     <string name="media_volume_title">Media</string>
     <string name="megabyteShort">MB</string>
@@ -4482,6 +4484,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
     <string name="mute">Mod Silențios</string>
+    <string name="mute_media_sound_summary">Jocuri, muzică, videoclipuri și alte aplicații</string>
+    <string name="mute_media_sound_title">Reduceți la tăcere sunetele media în modul Silențios</string>
     <string name="mute_music_stream">Opriți muzica prin rețea</string>
     <string name="mute_voiceassist_stream">Reduceți la tăcere asistentul vocal</string>
     <string name="mvno_match_data">Valoare MVNO</string>
@@ -5551,7 +5555,9 @@ Interfață UT: %5$s"</string>
     <string name="remove_managed_profile_label">Eliminați profilul Servici</string>
     <string name="repeat">Repetare</string>
     <string name="repeat_call">Notifică despre apelurile repetate</string>
-    <string name="repeat_call_info">Permite sunetul pentru apelurile repetate în interval de 15 minute în modul Silențios</string>
+    <string name="repeat_call_info">Sună sau vibrează când se primește un al doilea apel de la același număr de telefon în interval de %d minute</string>
+    <string name="repeat_days_in_week">Repetă</string>
+    <string name="repeat_never">Niciodată</string>
     <string name="repeat_title">Repetare</string>
     <string name="requires_modern_control_center">Funcționează cu noua versiune a Centrului de Control</string>
     <string name="reset_aaid">Resetați identificatorul pentru reclame</string>
@@ -5644,11 +5650,14 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="retry">Încercați din nou</string>
     <string name="rgb_face_data_manage_delete_msg">Ștergeți datele faciale 2D</string>
     <string name="rgb_manage_facerecoginition_text">Gestionați datele faciale 2D</string>
+    <string name="right_edge">Marginea din dreapta</string>
     <string name="right_function_key">Scurtătura din dreapta</string>
     <string name="ring_to_you">Sunet de apel personalizat</string>
     <string name="ring_to_you_info">Setați un sunet de apel personalizat pe care alte persoane îl vor auzi înainte de a prelua apelul</string>
-    <string name="ring_volume_option_title">Volum sonerie</string>
-    <string name="ring_volume_title">Volum sonerie</string>
+    <string name="ring_volume_option_title">Sunet de apel</string>
+    <string name="ring_volume_title">Volum sonerie și notificări</string>
+    <string name="ringer_mode_setting_summary">Redu la tăcere apelurile și notificările</string>
+    <string name="ringer_mode_setting_title">Mod Silențios</string>
     <string name="ringtone_slot_setting_title">Setări SIM unic</string>
     <string name="ringtone_title">Ton de apel</string>
     <string name="ringtone_uniform_setting_title">Setări Dual SIM</string>
@@ -7664,7 +7673,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vibrate_when_ringing_title">Vibrează când sună</string>
     <string name="video_calling_settings_title">Operator apel video</string>
     <string name="video_tool_box_title">Cutia cu instrumente video</string>
-    <string name="vip_list">Permite apelurile de intrare</string>
+    <string name="vip_list">Notifică despre apeluri</string>
     <string name="virtual_keyboard_category">Tastatură virtuală</string>
     <string name="virtual_keyboards_for_work_title">Tastatură virtuală pentru servici</string>
     <string name="virtual_sim_category_title">Roaming Mi</string>
@@ -8795,6 +8804,8 @@ Când dezactivați modul Nu deranjați, găsiți notificările pierdute glisând
     <string name="zen_mode_starred_callers">persoane din agendă marcate cu stea</string>
     <string name="zen_mode_starred_contacts_title">Persoane din agendă marcate cu stea</string>
     <string name="zen_mode_start_time">Ora de pornire</string>
+    <string name="zen_mode_summary">Redu la tăcere apelurile primite, notificările, sunetele media și dezactivează vibrațiile</string>
+    <string name="zen_mode_summary2">Nu vor exista mementouri pentru apelurile primite și nici pentru notificări</string>
     <string name="zen_mode_summary_alarms_only_by_time">Schimbă în doar pentru alarme până la %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Schimbă în doar pentru alarme pe o perioadă nedefinită</string>
     <string name="zen_mode_summary_always">Schimbă în întrerupe întotdeauna</string>

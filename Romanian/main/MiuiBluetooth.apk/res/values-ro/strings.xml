@@ -255,6 +255,8 @@ Atingeți 'Ștergere și conversie…' pentru a continua."</string>
     <string name="external_source_trusted">Permis</string>
     <string name="external_source_untrusted">Nepermis</string>
     <string name="failed_to_open_app_settings_toast">Nu s-au putut accesa setările pentru %1$s</string>
+    <string name="fast_connect_anti_lost_content">"Setați o alertă care va avertiza atunci când una din căști lipsește.
+Verificați Setările pentru detalii."</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
     <string name="fast_connect_bt_speaker2_name">Boxă portabilă MI</string>
     <string name="fast_connect_device_battery">Acumulator</string>
@@ -272,14 +274,19 @@ Atingeți 'Ștergere și conversie…' pentru a continua."</string>
     <string name="fast_connect_device_title_connecting">Se conectează…</string>
     <string name="fast_connect_device_title_find_headset">Găsiți %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs: %1$s</string>
-    <string name="fast_connect_new_feture_anti_lost">Anti Pierdere</string>
-    <string name="fast_connect_new_feture_same_account">Același cont fără pereche</string>
-    <string name="fast_connect_new_feture_sound_normalizer">Normalizator sunet</string>
-    <string name="fast_connect_new_feture_title">Noi caracteristici</string>
+    <string name="fast_connect_new_feture_anti_lost">Alertă pierdere cască</string>
+    <string name="fast_connect_new_feture_same_account">Conectați dispozitivele sincronizate</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Sunet îmbunătățit</string>
+    <string name="fast_connect_new_feture_title">Ce este nou</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Mențineți apăsat butonul superior pentru %1$s secunde în timp ce îl închideți</string>
     <string name="fast_connect_reset_common">Resetați acest dispozitiv pentru a-l putea asocia</string>
-    <string name="fast_connect_same_accout_devices_title">Acesta este celălalt dispozitiv conectat: %1$s</string>
+    <string name="fast_connect_same_account_content">Dispozitivele Bluetooth pot fi sincronizate în contul Mi și conectate fără asocierea cu alte dispozitive.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Conectare via Xiaomi Cloud…</string>
+    <string name="fast_connect_same_accout_devices_title">Ați conectat %1$s la alte dispozitive</string>
+    <string name="fast_connect_same_accout_ok">Am înțeles</string>
+    <string name="fast_connect_sound_normalizer_content">"Sunet îmbunătățit în apelurile vocale.
+Protocol de conectare mai rapid."</string>
     <string name="fast_connect_wbs_name">Difuzor pentru încărcător wireless Mi</string>
     <string name="fast_connect_wbs_reset">Mențineți apăsat butonul superior timp de %1$s secunde în timp ce îl închideți</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
@@ -698,6 +705,7 @@ Stocarea credențialelor poate fi inactivă"</string>
   <string name="wifi_whitelist_roaming">SSID Bridging - Comutare rapidă</string>
   <string name="wifi_whitelist_roaming_summary">Activați roaming-ul între diferite AP-uri SSID WPA / WPA2-PSK cu aceeași adresă MAC de gateway</string>
     <string name="window_animation_scale_title">Scală animație fereastră</string>
+    <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="zen_alarm_warning">Nu veți mai auzi următoarea alarmă %1$s</string>
     <string name="zen_alarm_warning_indef">Nu veți mai auzi următoarea alarmă %1$s decât dacă dezactivați asta până atunci</string>
     <string name="zen_interruption_level_priority">Doar prioritate</string>

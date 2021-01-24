@@ -104,7 +104,7 @@
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">Preferințe</string>
+    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>

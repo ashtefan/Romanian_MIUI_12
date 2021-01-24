@@ -282,6 +282,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="host_memory_insuff_confirm">Selectați din nou</string>
     <string name="host_memory_insuff_summary">Nu există suficient spațiu de stocare pe noul dispozitiv pentru a începe un transfer.</string>
     <string name="host_memory_insuff_title">Nu există suficient spațiu de stocare</string>
+    <string name="host_new_device_hint">Acest dispozitiv</string>
     <string name="hsa_code_null">Codul de verificare nu poate fi lăsat necompletat</string>
     <string name="hsa_input_tip">ID-ul dvs. Apple folosește autentificarea cu doi factori. Introduceți codul de verificare.</string>
     <string name="hsa_send_again">Trimiteți din nou</string>
