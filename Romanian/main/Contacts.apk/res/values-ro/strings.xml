@@ -106,6 +106,10 @@
     <string name="bh_bill_balance">Balanță</string>
     <string name="bh_bill_charge">Suplimentați soldul</string>
     <string name="bh_bugreport">Feedback funcționare</string>
+    <string name="bh_business_hall_is_here">Serviciile Operatorului sunt aici</string>
+    <string name="bh_business_style">Selectați interfața</string>
+    <string name="bh_business_style_new">Nouă</string>
+    <string name="bh_business_style_old">Veche</string>
     <string name="bh_button_finish">Finalizat</string>
     <string name="bh_buy_now">Achiziționați</string>
     <string name="bh_call_used">Minute utilizate</string>
@@ -247,7 +251,8 @@
     <string name="bh_sim_one">SIM 1</string>
     <string name="bh_sim_two">SIM 2</string>
     <string name="bh_similar_number_hint">Acest număr este similar cu %1$s. Suplimentați acest număr oricum?</string>
-    <string name="bh_status_activating"><Data>&lt;font color =#0D84FF>Se activează&lt;/font></Data></string>
+    <string name="bh_system_recommend">Recomandări de sistem</string>
+    <string name="bh_system_recommend_des">Ne permite să analizăm traficul și să recomandăm produse digitale bazate pe aceste rezultate</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Numere de telefon utilizate frecvent</string>
     <string name="bh_tags_number_exceed">Nu se mai pot salva alte numere de telefon</string>
@@ -554,7 +559,15 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contactsList">Agendă</string>
     <string name="contacts_default_notification_channel">Notificări</string>
     <string name="contacts_hybrid_activity_label">Restabiliți contactele</string>
-    <string name="contacts_setting_title">Setări Contacte</string>
+    <string name="contacts_trash_activity_hint">Selectați contactele de restaurat</string>
+    <string name="contacts_trash_activity_title">Contacte șterse recent</string>
+    <string name="contacts_trash_delete">Ștergeți</string>
+    <string name="contacts_trash_delete_dialog_continue">Ștergeți</string>
+    <string name="contacts_trash_delete_dialog_hint">Nu veți putea anula această acțiune.</string>
+    <string name="contacts_trash_delete_dialog_loading">Se șterg…</string>
+    <string name="contacts_trash_delete_dialog_title">Ștergeți contactele selectate?</string>
+    <string name="contacts_trash_restore">Restaurați</string>
+    <string name="contacts_trash_restore_loading">Se restaurează…</string>
     <string name="contacts_unavailable_add_account">Conectaţi-vă la un cont</string>
     <string name="contacts_unavailable_create_contact">Creaţi o intrare nouă în Agendă</string>
     <string name="contacts_unavailable_import_contacts">Importaţi dintr-un fişier</string>

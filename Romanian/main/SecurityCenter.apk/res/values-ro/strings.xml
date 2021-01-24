@@ -69,10 +69,11 @@
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
     <string name="ac_mask_all_apps">Ascundeți pentru toate</string>
-    <string name="ac_notification_contentText">Atingeți pentru a activa</string>
-    <string name="ac_notification_contentTitle">Protejați aplicațiile cu Blocarea aplicațiilor</string>
-    <string name="ac_post_notification_contentText">Obțineți protecție la nivel de sistem</string>
-    <string name="ac_post_notification_contentTitle">Activați Blocarea aplicațiilor</string>
+    <string name="ac_notification_action_text">Activați</string>
+    <string name="ac_notification_contentText">Ascundeți informațiile sensibile utilizând o parolă</string>
+    <string name="ac_notification_contentTitle">Încercați Blocarea aplicațiilor!</string>
+    <string name="ac_post_notification_contentText">Vă poate proteja de toate aplicațiile sensibile</string>
+    <string name="ac_post_notification_contentTitle">Protejați aplicațiile cu Blocarea aplicațiilor</string>
     <string name="ac_pre_notification_contentText">Protejați-vă informațiile personale</string>
     <string name="ac_pre_notification_contentTitle">Încercați Blocarea Aplicațiilor</string>
     <string name="ac_recommend_guide_dialog_app_content">Utilizați Blocarea aplicațiilor pentru această aplicație pentru a vă proteja informațiile personale și pentru a evita pierderea datelor.</string>
@@ -205,6 +206,10 @@
     <string name="app_behavior_about_content_no_link">MIUI vă poate arăta când aplicațiile sunt lansate de către aplicații, când pornesc automat, când utilizează permisiuni și când realizează acțiuni senzitive. Datorită problemelor de compatibilitate a versiunii Android, unele din aceste înregistrări pot fi eronate. În cazul în care găsiți o înregistrare a unei aplicații care nu este acurată, raportați-o utilizând aplicația \"Servicii și feedback\".</string>
     <string name="app_behavior_about_negative">Raportați anomaliile</string>
     <string name="app_behavior_about_positive">Am înțeles</string>
+    <string name="app_behavior_access_gallery">%1s a accesat Galeria</string>
+    <string name="app_behavior_access_gallery_single">Această aplicație a accesat Galeria</string>
+    <string name="app_behavior_access_sociality">%1s a accesat aplicațiile de socializare</string>
+    <string name="app_behavior_access_sociality_single">Această aplicație a accesat aplicațiile de socializare</string>
     <string name="app_behavior_allowed">Permiteți</string>
     <string name="app_behavior_audio">%1s a înregistrat sunete audio</string>
     <string name="app_behavior_audio_bg">%1s a înregistrat sunete audio în fundal</string>
@@ -1574,6 +1579,19 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_ad_game_size"> MB</string>
     <string name="gb_add_game_hint">Adăugați elemente din lista de aplicații</string>
     <string name="gb_add_game_loading_tips">Doar o secundă…</string>
+    <string name="gb_adv_touch_adv_title">Mod Clasic (implicit)</string>
+    <string name="gb_adv_touch_custom1">Răspuns la glisare</string>
+    <string name="gb_adv_touch_custom2">Sensibilitate la apăsări continue</string>
+    <string name="gb_adv_touch_custom3">Precizia țintirii</string>
+    <string name="gb_adv_touch_custom4">Stabilitatea atingerii</string>
+    <string name="gb_adv_touch_custom_tip1">Răspunsul la glisare mai mare crește viteza de reacție la acest gest, în timp ce răspunsul la glisare mai mic face gestul mai stabil.</string>
+    <string name="gb_adv_touch_custom_tip2">Sensibilitatea mai mare la atingeri continue crește viteza de reacție la acest gest, în timp ce sensibilitatea mai mică face gestul mai stabil.</string>
+    <string name="gb_adv_touch_custom_tip3">O precizie mai ridicată face ca glisajele mai mici să fie mai precise, în timp ce o precizie mai mică de vizare face acest gest mai stabil.</string>
+    <string name="gb_adv_touch_custom_tip4">Stabilitatea mai mare a atingerii face ca atingerile să fie mai stabile, în timp ce stabilitatea mai mică a atingerii crește precizia glisărilor mici.</string>
+    <string name="gb_adv_touch_custom_title">Personalizați</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Acest mod este conceput pentru jucătorii profesioniști. Jucătorii obișnuiți ar putea găsi acest mod incomod.</string>
+    <string name="gb_adv_touch_mode_select_title">Gesturi</string>
+    <string name="gb_adv_touch_pro_title">Mod Pro</string>
     <string name="gb_advance_settings_edge_gear1">Niciunul</string>
     <string name="gb_advance_settings_edge_gear2">Mic</string>
     <string name="gb_advance_settings_edge_gear3">Mediu</string>
@@ -1795,6 +1813,8 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Creșteți viteza de conectare cu 10%-20% atunci când este conectat la routere Mi/Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Optimizare rețea 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Creștere viteză Mi Wi-Fi</string>
+    <string name="gtb_spring_festival_back_game">Înapoi în joc</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Vedeți</string>
     <string name="gtb_wlan_speed_tips">Se utilizează Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operator eronat?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
@@ -2110,7 +2130,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="menu_summary_power_manager_4">%s până la încărcarea completă</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupat</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s ocupat</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
     <string name="menu_text_garbage_cleanup_danger">%s gunoi</string>
     <string name="menu_text_license_manager">Permisiuni</string>
@@ -2313,6 +2333,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_abnormal_consume_app_title">%s descarcă acumulatorul</string>
     <string name="notification_abnormal_consume_cpu">Resursele procesorului sunt abuzate în fundal</string>
     <string name="notification_abnormal_consume_wakelock">Sistemul este menținut pornit în fundal</string>
+    <string name="notification_antivirus_button_text">Scanați</string>
+    <string name="notification_antivirus_message">Scanați acum pentru a neutraliza riscurile</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Atingeți pentru a remedia problema</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s descarcă acumulatorul</string>
@@ -2333,6 +2355,15 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_garbage_clean_size_new">Eliberați %s spațiu de stocare</string>
     <string name="notification_garbage_cleanup_summary">Goliți coșul de gunoi (%s) pentru a crește viteza de lucru a dispozitivului</string>
     <string name="notification_garbage_cleanup_title">Ștergeți fișierele inutile</string>
+    <string name="notification_link_cleaner_2001">Goliți %s gunoi acum</string>
+    <string name="notification_link_cleaner_2002">Goliți gunoiul pentru a crește viteza de lucru a telefonului</string>
+    <string name="notification_link_cleaner_2003">Mai puțin de %s spațiu de stocare disponibil. Eliberați spațiul de stocare acum.</string>
+    <string name="notification_link_cleaner_2004">Doar %s spațiu de stocare disponibil. Eliberați spațiul de stocare acum.</string>
+    <string name="notification_link_cleaner_2005">Goliți memoria pentru a crește viteza de lucru a telefonului</string>
+    <string name="notification_link_cleaner_3001">Goliți gunoiul WeChat pentru a crește viteza de lucru a telefonului</string>
+    <string name="notification_link_cleaner_3002">Goliți gunoiul WeChat</string>
+    <string name="notification_link_cleaner_4000">Goliți gunoiul QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% din memorie este ocupată. Goliți-o acum.</string>
     <string name="notification_low_battery_action_btn">Activați</string>
     <string name="notification_low_battery_need_charge">Încărcați dispozitivul</string>
     <string name="notification_low_battery_open_save_mode">Activați Economisirea acumulatorului</string>
@@ -2345,8 +2376,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_low_storage_size_1p5_gb_hint">Goliți gunoiul pentru a crește viteza dispozitivului</string>
     <string name="notification_mask_summary">Nu afișa conținutul notificărilor pentru aplicațiile protejate</string>
     <string name="notification_mask_title">Ascundeți conținutul notificărilor</string>
-    <string name="notification_masked_item">Cum să ascundeți conținutul notificărilor?</string>
-    <string name="notification_masked_subtitle">Utilizați Blocarea aplicațiilor pentru a ascunde conținutul notificărilor pentru aplicațiile selectate</string>
+    <string name="notification_masked_item">Doriți să ascundeți conținutul notificărilor?</string>
+    <string name="notification_masked_subtitle">Blocarea aplicațiilor poate face asta</string>
+    <string name="notification_optimize_button_text">Goliți</string>
+    <string name="notification_optimize_message">Goliți memoria pentru a crește viteza de lucru</string>
+    <string name="notification_optimize_title">%d%% memorie este ocupată</string>
     <string name="notification_power_consume_issue_summary">Consum crescut de energie</string>
     <string name="notification_power_consume_suggest_summary">Reparați problemele pentru a economisi acumulatorul</string>
     <string name="notification_qq_clean_hint">Gunoiul vă încetinește telefonul</string>
@@ -2917,8 +2951,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_hide_app_form_desktop">Eliminați pictogramele aplicației din Ecranul de pornire</string>
     <string name="pp_icon_layout_status_bg_content_enable">Protejat</string>
     <string name="pp_icon_layout_status_bg_content_unable">Oprit</string>
-    <string name="pp_interception_net_visit_content_manager">Protejează Galeria și aplicațiile de socializare</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Selectați ce aplicații au permisiunea de a accesa fotografiile, videoclipurile și istoricul chaturilor</string>
+    <string name="pp_interception_net_visit_content_manager">Protejează Galeria și fișierele din aplicațiile de socializare</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Selectați ce aplicații au permisiunea de a accesa Galeria și fișierele din aplicațiile de socializare</string>
     <string name="pp_local_msg">Informații despre locație</string>
     <string name="pp_manage_apps_location_information">Permiteți aplicațiilor să vă acceseze locația</string>
     <string name="pp_one_app_two_use">Folosiți două conturi fără a vă deconecta</string>
@@ -2941,7 +2975,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_prohibit_use_camera_in_background_detail">Aplicațiile nu vor putea folosi camera în fundal, în mod prestabilit</string>
     <string name="pp_record_msg">Înregistrarea audio</string>
     <string name="pp_safe_box">Spațiu de lucuru privat</string>
-    <string name="pp_safe_box_detail">Pentru a vă proteja confidențialitatea, MIUI vă permite să controlați modul în care aplicațiile vă accesează fotografiile și istoricul chaturilor din rețelele sociale.</string>
+    <string name="pp_safe_box_detail">Elementele private sunt criptate și stocate numai pe acest dispozitiv. Alte persoane nu le vor putea accesa în timp ce utilizează acest dispozitiv, iar dispozitivului în sine nu i se va permite să acceseze articole criptate și să le folosească în niciun fel.</string>
     <string name="pp_safe_box_summary">Protecția confidențialității</string>
     <string name="pp_safe_input_pwd">Protejați-vă parolele</string>
     <string name="pp_safe_keyboard">Securizați tastatura</string>
@@ -3844,6 +3878,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="summary_mms">Filtrare mesaje nedorite (vânzări, anunțuri, etc.)</string>
     <string name="summary_network_switch">Permiteţi aplicației de Securitate să se conecteze la internet</string>
     <string name="summary_never_flow_verify">"Acest număr nu a fost verificat de operatorul dvs."</string>
+    <string name="summary_password_manager">Managerul de parole vă permite să criptați parolele și să le stocați în cloud</string>
     <string name="summary_payment_risk">"Se pare că mediul de plată nu este sigur"</string>
     <string name="summary_permission">Protejează-mi confidențialitatea faţă de aplicații terțe potențial periculoase</string>
     <string name="summary_permission_root">Se pare că aveți activat accesul la root. Acest lucru poate duce la scăderea gradului de siguranță.</string>
@@ -4133,6 +4168,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_network_switch">Conexiunea la rețea</string>
     <string name="title_of_app_manage">Aplicații</string>
     <string name="title_of_auto_launch_manage">Pornire automată</string>
+    <string name="title_password_manager">Activați Managerul de parole</string>
     <string name="title_payment_protection">Plățile sunt securizate</string>
     <string name="title_payment_risk">Au fost găsite riscuri pentru plăți</string>
     <string name="title_permission_no">Gestionare permisiuni dezactivată</string>
@@ -4343,6 +4379,15 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_video_effects_settings_liquid">Claritate</string>
     <string name="vb_video_effects_settings_stereo">Volum</string>
     <string name="vb_video_effects_srs_premium_sound">Sunet</string>
+    <string name="vb_video_super_division">Crește rezoluția</string>
+    <string name="vb_video_super_division_desc">"Crește rezoluția în mod automat când este ≤720p.
+
+Utilizarea acestei caracteristici crește consumul de energie.
+
+Această caracteristică nu funcționează cu liniarizarea mișcării.
+Activarea uneia dintre funcții o va opri pe cealaltă."</string>
+    <string name="vb_video_super_division_tips">"Inadecvat de clar?
+Încercați creșterea rezoluției!"</string>
     <string name="video_repeat">Redați din nou</string>
     <string name="videobox_hangup_tips_content">Această caracteristică permite aplicației să ruleze în fundal atunci când ecranul este oprit. Porniți acum?</string>
     <string name="videobox_hangup_tips_title">Atenție</string>
@@ -4354,7 +4399,10 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="videobox_settings_manager_apps">Gestionați aplicațiile video</string>
     <string name="videobox_settings_switch_desc">Efecte speciale și funcții pentru redarea video</string>
     <string name="videobox_settings_switch_title">Cutie de instrumente video</string>
+    <string name="videobox_settings_timing">Alertă vizionare excesivă</string>
+    <string name="videobox_settings_timing_desc">Primiți o alertă la fiecare oră care să vă reamintească să faceți o pauză</string>
     <string name="videobox_settings_title">Cutie de instrumente video</string>
+    <string name="view_traffic_detail">Vedeți detaliile</string>
     <string name="virus_auto_update_engine">Actualizări automate： %s</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">Avertisment</string>

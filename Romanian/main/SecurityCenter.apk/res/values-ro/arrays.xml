@@ -95,6 +95,13 @@
         <item>Da</item>
         <item>Nu</item>
     </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Cea mai mică</item>
+        <item>Redusă</item>
+        <item>Obișnuită</item>
+        <item>Ridicată</item>
+        <item>Cea mai ridicată</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Când telefonul este blocat</item>
         <item>Când telefonul este blocat sau după ieșirea din aplicație</item>

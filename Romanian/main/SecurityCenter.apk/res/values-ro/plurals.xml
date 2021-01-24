@@ -798,9 +798,23 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">"Nu s-au adăugat %d jocuri"</item>
         <item quantity="one">"Nu s-a adăugat %d joc"</item>
     </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Conectați cel puțin %s puncte</item>
+        <item quantity="one">Conectați cel puțin %s punct</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Introduceți %s cifre</item>
+        <item quantity="one">Introduceți %s cifră</item>
+    </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicații</item>
         <item quantity="one">%d aplicație</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"V-ați uitat la filme timp de %d ore.
+Faceți o pauză!"</item>
+        <item quantity="one">"V-ați uitat la filme timp de %d oră.
+Faceți o pauză!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vizualizări</item>

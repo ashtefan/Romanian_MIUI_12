@@ -73,6 +73,14 @@
         <item quantity="other">%1$d contacte</item>
         <item quantity="one">%1$d contact</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">S-au șters definitiv %d contacte</item>
+        <item quantity="one">S-a șters definitiv %d contact</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">S-au restaurat cu succes %d contacte</item>
+        <item quantity="one">S-a restaurat cu succes %d contact</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacte importate</item>
         <item quantity="one">%1$d contact importat</item>

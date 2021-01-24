@@ -361,6 +361,7 @@
     <string name="clipboard_read_deny_dialog_title">S-a restricționat accesul la clipboard pentru %1$s</string>
     <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="default_permission_description">executarea de acțiuni necunoscute</string>
     <string name="early_morning">Dimineață</string>
     <string name="evening">După amiază</string>

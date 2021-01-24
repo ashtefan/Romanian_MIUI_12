@@ -84,7 +84,7 @@ pentru a adăuga carduri"</string>
     <string name="altitude_pressure_hint">* Altitudinea calculată pe baza presiunii atmosferice este aproximativă</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
-    <string name="app_name">MiaoCourse</string>
+    <string name="app_name">ILogger</string>
     <string name="app_setting">Aplicații</string>
     <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
     <string name="audio_permission_dialog_title">Acordați permisiunea de înregistrare audio</string>
@@ -372,6 +372,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_keep">Păstrați</string>
     <string name="dialog_known">Am înțeles</string>
     <string name="dialog_menstruation_purpose">Bine ați venit în aplicația Sănătate Xiaomi! \"Menstruația\" vă permite să înregistrați ciclurile, să determinați zilele estimate pentru ciclurile următoare și să primiți memento-uri. Toate datele corelate vor fi păstrate local în telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
+    <string name="dialog_new_version_title">Este disponibilă o actualizare</string>
     <string name="dialog_no_more_prompt">Nu arăta din nou</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Permiteți</string>
@@ -396,6 +397,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_user_agreement_purpose2">Bine ați venit în aplicația Sănătate Xiaomi. Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, serviciile Xiaomi Health Cloud și pentru alte funcții.</string>
     <string name="diastolic_pressure">Diasistolică</string>
     <string name="disable">Oprit</string>
+    <string name="discard_update">Nu, mulțumesc</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
@@ -511,6 +513,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="feedback_need_permission_msg">Permiteți Sănătate Xiaomi să scrie în stocarea externă pentru a putea genera jurnale utilizate pentru feedback.</string>
     <string name="feedback_permission_denied_msg">Sănătate Xiaomi nu poate salva jurnale în memoria externă. Acordați Sănătate Xiaomi permisiunile necesare din setări.</string>
     <string name="fewer">Redus</string>
+    <string name="find_new_verision">Versiunea %s este disponibilă acum</string>
     <string name="finish">Finalizați</string>
     <string name="finish_stand">Da</string>
     <string name="finish_stand2">Ridicare</string>
@@ -712,6 +715,7 @@ Reluați măsurarea."</string>
     <string name="hr_strength_lowest">Cel mai redus</string>
     <string name="hr_strength_mid">Mediu</string>
     <string name="icon_content_description">Pictogramă dialog</string>
+    <string name="immediately_experience">Actualizați</string>
     <string name="improve_step_target">Ați atins ținta prea des. Încercați să vă setați o țintă mai ambițioasă.</string>
     <string name="improve_your_health_default_tips">Faceți exerciții și odihniți-vă îndeajuns pentru a vă menține sănătos.</string>
     <string name="inactivated">Neactivat</string>
@@ -771,6 +775,7 @@ Reluați măsurarea."</string>
     <string name="light_sleep_time_normal_description">Aveți un somn ușor suficient</string>
     <string name="load_failed">Nu s-au putut încărca elementele. Așteptați un minut sau două și încercați din nou.</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="location_perm_description">Pentru monitorizarea exercițiilor exterioare și înregistrarea rutelor</string>
     <string name="location_permission_dialog_content">Permiteți aplicației Sănătate Xiaomi să vă acceseze locația din \"Sănătate Xiaomi\" > \"Gestionați permisiunile\" pentru a vă putea monitoriza exercițiile din exterior.</string>
     <string name="location_permission_dialog_negative">Nu acum</string>
     <string name="location_permission_dialog_positive">Permiteți</string>
@@ -1213,7 +1218,7 @@ Reluați măsurarea."</string>
     <string name="share_card_title_free_training">Antrenament liber</string>
     <string name="share_card_title_high_interval_training">HIIT</string>
     <string name="share_card_title_indoor_rinding">Bicicletă staționară %s</string>
-    <string name="share_card_title_indoor_running">Alergare %s</string>
+    <string name="share_card_title_indoor_running">Alergare în interior %s</string>
     <string name="share_card_title_open_swimming">Înot în ape deschise %s</string>
     <string name="share_card_title_outdoor_hiking">Drumeție %s</string>
     <string name="share_card_title_outdoor_riding">Ciclism %s</string>
@@ -1860,17 +1865,10 @@ Actualizați acum?"</string>
     <string name="welcome_sleep_description">Puneți telefonul aproape de dvs. pentru a obține informații despre ciclul de somn dimineața</string>
     <string name="welcome_start_use">Începeți</string>
     <string name="well">Bine</string>
-    <string name="write_strorage_perm_description">Înregistrați problemele pe care le întâmpinați în utilizare</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de Descărcare a eșuat; vă rugăm să verificați starea Managerului de Descărcare din Gestionarea Aplicațiilor.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
-Dimensiune: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Vă prezentăm versiunea %1$s
-Dimensiunea actualizării Delta: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Stocare indisponibilă; vă rugăm să verificați cardul SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="write_strorage_perm_description">Pentru salvarea informațiilor despre problemele pe care le întâmpinați</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="year">An</string>
     <string name="yesterday">Ieri</string>
     <string name="yoga">Yoga</string>
