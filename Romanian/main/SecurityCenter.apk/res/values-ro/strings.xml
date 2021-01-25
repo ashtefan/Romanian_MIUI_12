@@ -1940,7 +1940,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="list_empty_text">Gol</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
-    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Se verifică dacă fotografiile conțin informații private (%d/%d)…</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="lock_all_title">Blocați toate aplicațiile</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
@@ -2726,6 +2726,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_battery_duration">Timp rămas</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
+    <string name="power_center_battery_health_poor_tip">Se pare că starea acumulatorului este precară. Verificați acumulatorul într-un centru de service autorizat</string>
+    <string name="power_center_battery_health_summary">Încărcați complet acumulatorul și apoi descărcați-l de %1$d-%2$d ori pentru a crește acuratețea statisticilor despre starea lui</string>
     <string name="power_center_battery_last">%s rămas</string>
     <string name="power_center_battery_level">Încărcat %s</string>
     <string name="power_center_battery_level_general">Normal</string>

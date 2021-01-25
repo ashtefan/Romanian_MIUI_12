@@ -234,6 +234,7 @@
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
     <string name="goto_sign_up">Creați un cont</string>
+    <string name="home_action_up">Înapoi</string>
     <string name="i_know">Am înțeles</string>
     <string name="identity">Identificare</string>
     <string name="image_picker_title">Selectați imaginile</string>

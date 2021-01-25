@@ -548,6 +548,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_wx_bind_account_limit">Nu se poate crea un cont nou acum. Încercați alte metode de conectare.</string>
     <string name="passport_yes">Da</string>
     <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="password_view_hide_password">Ascunde parola</string>
+    <string name="password_view_show_password">Afișează parola</string>
     <string name="permission_group_contacts">Contacte</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>
@@ -647,5 +649,6 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="vip_account_settings">Setări cont VIP</string>
     <string name="vip_settings_info">Setări VIP</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">Conectați-vă cu WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

@@ -124,7 +124,7 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_divider">Delimitare ecran scindat</string>
-    <string name="accessibility_drag_hint_message">Trageți elementele în partea de sus a ecranului</string>
+    <string name="accessibility_enter_lock_setting">Atingeți pentru a deschide setările Caruselului de imagini de fundal</string>
     <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide Caruselul de imagini de fundal</string>
     <string name="accessibility_ethernet_connected">Ethernet conectat.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet deconectat.</string>
@@ -138,6 +138,14 @@
     <string name="accessibility_home">Ecranul de pornire</string>
     <string name="accessibility_ime_switch_button">Buton comutare metodă de introducere.</string>
     <string name="accessibility_key">Buton personalizat de navigare</string>
+    <string name="accessibility_keyboard_delete_button">Ștergeți</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Litere mari</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Cifre</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Simboluri</string>
+    <string name="accessibility_keyboard_ok_button">Introducere</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Litere</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Doar simboluri</string>
+    <string name="accessibility_keyguard_face_unlock_view">Deblocare facială</string>
     <string name="accessibility_left_control_center_button">Scurtătură</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carusel de imagini de fundal</string>
     <string name="accessibility_location_active">Solicitare de localizare activă</string>

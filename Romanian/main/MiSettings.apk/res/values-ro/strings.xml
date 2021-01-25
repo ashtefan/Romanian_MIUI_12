@@ -255,9 +255,9 @@
     <string name="focus_mode_timer_pick_dialog_title">Introduceți durata</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
-    <string name="fps_nature_summary">O rată de reîmprospătare ridicată menține totul vioi și clar</string>
-    <string name="fps_nature_title">Ridicată</string>
-    <string name="fps_smooth_summary">O rată de reîmprospătare medie adaugă mai multă claritate detaliilor</string>
+    <string name="fps_nature_summary">Rata de reîmprospătare maximă menține totul vioi și clar</string>
+    <string name="fps_nature_title">Maximă</string>
+    <string name="fps_smooth_summary">O rată de reîmprospătare ridicată adaugă mai multă claritate detaliilor</string>
     <string name="fps_smooth_title">Medie</string>
     <string name="fps_standard_summary">O rată de reîmprospătare standard economisește acumulatorul</string>
     <string name="fps_standard_title">Standard</string>
