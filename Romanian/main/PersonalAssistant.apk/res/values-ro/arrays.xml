@@ -11,6 +11,12 @@
         <item>Transport public</item>
         <item>Taxi</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 min.</item>
+        <item>20 min.</item>
+        <item>30 min.</item>
+        <item>60 min.</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>excelent</item>
         <item>bun</item>

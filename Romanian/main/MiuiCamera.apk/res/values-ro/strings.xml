@@ -1106,7 +1106,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_device_watermark_title">Amprenta dispozitivului pe fotografie</string>
     <string name="pref_camera_dual_enable_title">Activați camera duală</string>
     <string name="pref_camera_dual_sat_enable_title">Activați camera duală SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Descrește rata de cadre în condiții de iluminare redusă de la %1$d la %2$d FPS pentru a îmbunătăți calitatea video</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Rata de cadre va fi redusă în mod automat în condiții de iluminare redusă pentru a îmbunătăți calitatea videoclipurilor</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajustează rata de cadre în condiții de iluminare redusă</string>
     <string name="pref_camera_eis_entry_normal">Videoclip stabilizat</string>
     <string name="pref_camera_eis_entry_off">Oprit</string>
@@ -1306,6 +1306,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_portrait_mode_entry_on">Modul Portret este activat</string>
     <string name="pref_camera_portrait_mode_title">Mod Portret</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Înfrumusețare în modul Portret</string>
+    <string name="pref_camera_predictive_shutter_description">Urmăriți mișcarea pentru a minimiza neclaritatea fotografiilor copiilor, a animalelor de companie și a altor subiecți activi</string>
+    <string name="pref_camera_predictive_shutter_title">Urmărire mișcare</string>
     <string name="pref_camera_proximity_lock_summary">Blocați atingerile când este în poșetă/buzunar</string>
     <string name="pref_camera_proximity_lock_title">Mod poșetă/buzunar</string>
     <string name="pref_camera_quick_settings">Setări rapide</string>

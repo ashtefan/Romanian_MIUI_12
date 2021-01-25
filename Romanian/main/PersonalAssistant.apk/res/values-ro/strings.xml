@@ -251,6 +251,15 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_express_tail_number">Comanda: %1$s</string>
     <string name="app_health_card_completion">Ținta</string>
     <string name="app_health_card_step">Numărul de pași de astăzi:</string>
+    <string name="app_health_setting_music_name_fire">Cuptor</string>
+    <string name="app_health_setting_music_name_forest">Pădure</string>
+    <string name="app_health_setting_music_name_night">Noapte de vară</string>
+    <string name="app_health_setting_music_name_ocean">Plajă</string>
+    <string name="app_health_setting_music_name_rain">Burniță</string>
+    <string name="app_health_setting_text_default_duration">Durată</string>
+    <string name="app_health_setting_text_download_alert_message">Se pare că nu sunteți conectat la Wi-Fi. Utilizați %1$s date mobile pentru a descărca elementele?</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Somn</string>
+    <string name="app_health_setting_text_title">Sănătate</string>
     <string name="app_label">Asistent inteligent</string>
     <string name="app_memory_free">Disponibil</string>
     <string name="app_memory_info">%1$.1fGB/%2$dGB</string>
@@ -393,6 +402,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_sports_fav_add">Adăugați</string>
     <string name="app_sports_fav_cancel_club">Eliminați acest club</string>
     <string name="app_sports_fav_cancel_league">Eliminați această ligă</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">Programul clubului din %s și %s nu vă va mai fi trimis</string>
     <string name="app_sports_fav_club">Concern club</string>
     <string name="app_sports_fav_league">Concern league</string>
     <string name="app_sports_fav_title">My concern</string>
@@ -400,6 +410,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_sports_title">Sporturi</string>
     <string name="app_sports_title_add_team">Adăugați echipe</string>
     <string name="app_sports_title_all_leagues">Toate meciurile</string>
+    <string name="app_sports_title_tip">Date despre meciuri furnizate de către o terță parte</string>
     <string name="app_stock_more_add_stock">Adăugați</string>
     <string name="app_stock_name_hszs">Hang Sen</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -438,6 +449,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_surround_title_my_fav">Favoritele mele</string>
     <string name="app_travel_btn_all_travel">Toate călătoriile</string>
     <string name="app_travel_btn_flight_detail">Detalii</string>
+    <string name="app_travel_card_none">Nu există date</string>
     <string name="app_travel_card_title">Călătorii</string>
     <string name="app_travel_card_title_add">Adăugați</string>
     <string name="app_travel_card_title_no_arr">Călătorie următoare</string>

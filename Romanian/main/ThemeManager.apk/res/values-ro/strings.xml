@@ -107,6 +107,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
+    <string name="can_not_apply_error">Acest format video nu este suportat</string>
+    <string name="can_not_apply_size_invalid">Videoclipul este prea mare</string>
     <string name="cancel_download">Descărcare anulată</string>
     <string name="card_data_request_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="card_loading">Doar o secundă…</string>
@@ -256,7 +258,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="exo_controls_cc_enabled_description">Dezactivați subtitrarea</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
-    <string name="exo_controls_fullscreen_enter_description">Mod ecran complet</string>
+    <string name="exo_controls_fullscreen_description">Mod ecran complet</string>
     <string name="exo_controls_fullscreen_exit_description">Ieșiți din Modul ecran complet</string>
     <string name="exo_controls_hide">Ascunde controalele playerului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
@@ -365,6 +367,14 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="font_compat_dialog_buy_confirm">Cumpărați</string>
+    <string name="font_compat_dialog_buy_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Cumpărați oricum acest font?</string>
+    <string name="font_compat_dialog_cancel">Renunțați</string>
+    <string name="font_compat_dialog_download_confirm">Descărcați</string>
+    <string name="font_compat_dialog_download_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Descărcați oricum acest font?</string>
+    <string name="font_compat_dialog_title">Probleme de compatibilitate</string>
+    <string name="font_compat_dialog_trial_confirm">Încercați</string>
+    <string name="font_compat_dialog_trial_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Încercați oricum acest font?</string>
     <string name="font_trial_end_purchase">Cumpărați fontul</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal transparentă în Spațiul principal.</string>
     <string name="forbid_video_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal dinamică în Spațiul principal.</string>
@@ -430,8 +440,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="hide_mamual_hide_theme">"Nu afișa temele ascunse"</string>
     <string name="hide_mamual_hide_wallpaper">"Nu afișa imaginile de fundal ascunse"</string>
     <string name="hide_pull_down_message">Ascundeți brelocul?</string>
-    <string name="hide_pull_down_negative">"Nu ascunde"</string>
+    <string name="hide_pull_down_negative">Nu ascunde</string>
     <string name="hide_pull_down_positive">Ascunde</string>
+    <string name="hide_retract_button">Ascundeți</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="home_daily">Repere zilnice</string>
@@ -951,6 +962,8 @@ mm"</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="scrollable_wallpaper_close">S-a dezactivat derularea</string>
+    <string name="scrollable_wallpaper_open">S-a activat derularea</string>
     <string name="sdcard_not_mounted_dialog_message">"Introduceţi cardul SD acum
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Cardul SD nu a fost detectat</string>
@@ -968,7 +981,8 @@ mm"</string>
     <string name="search_sort_top">Cele mai populare mai întâi</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="set_color_ring_back_tone">Setați un sunet de apel personalizat</string>
+    <string name="set_as_colorring">Setați ca sunet de apel personalizat</string>
+    <string name="set_color_ring_back_tone">Setați un sunet de apelare înapoi personalizat</string>
     <string name="set_home_wallpaper_failed">"%s. Nu se poate aplica imaginea de fundal pentru Ecranul principal."</string>
     <string name="set_wallpaper_group_success">"%1$s a fost aplicată.
 Veți vedea o nouă imagine în fiecare oră."</string>

@@ -463,8 +463,10 @@
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="vender_info_translation_kingsoft">Oferit de Kingsoft</string>
+    <string name="visit">Vizitați</string>
     <string name="waybill_num">"Comanda: "</string>
     <string name="web">Site:</string>
+    <string name="web_url">URL</string>
     <string name="website_details">Website:</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">Funcția de procesare automată a codurilor WeChat necesită ca această aplicație să aibă permisiuni pentru accesarea camerei și permisiuni de accesare a stocării.</string>
     <string name="weixin_code_tip">Scanați acest cod QR utilizând WeChat</string>
