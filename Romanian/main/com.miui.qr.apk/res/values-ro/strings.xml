@@ -29,8 +29,9 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="app_name">Cit_QR</string>
     <string name="close">Închideți</string>
-    <string name="important_ration_info">Informații cantitative importante</string>
-    <string name="no_important_ration_info">Informații cantitative neimportante</string>
+    <string name="close_hit_again">Apăsați din nou pentru a părăsi ecranul</string>
+    <string name="important_ration_info">Informații importante</string>
+    <string name="no_important_ration_info">Informații depanare</string>
     <string name="qr_load">Se încarcă... Vă rugăm să așteptați...</string>
     <string name="qualitative_info">Informații calitative</string>
     <string name="qualitative_title">Informații de consistență</string>

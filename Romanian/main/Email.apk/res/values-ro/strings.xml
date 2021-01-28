@@ -336,7 +336,7 @@ Actualizaţi acum?"</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Se validează setările serverului…"</string>
     <string name="choose_an_office365_international">Ediție Internațională</string>
-    <string name="choose_an_office365_provider">alegeți un furnizor de servicii office365</string>
+    <string name="choose_an_office365_provider">Alegeți un furnizor de servicii Office365</string>
     <string name="choose_an_office365_sj">Ediție 21Vianet</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear">Eliminaţi</string>
@@ -426,6 +426,7 @@ Actualizaţi acum?"</string>
     <string name="conversation_quick_button_disapprove">Renunțați</string>
     <string name="conversation_quick_button_received">Primite</string>
     <string name="conversation_report_spam">Raportați mesajele nedorite</string>
+    <string name="conversation_report_un_spam">Nu este spam</string>
     <string name="conversation_spam_dig_msg">Marcați acest mesaj ca nedorit? Mesajul va fi mutat în dosarul \"Spam\" iar expeditorul va fi adăugat în lista blocărilor.</string>
     <string name="conversation_spam_tips">Marcați acest mesaj ca nedorit?</string>
     <string name="conversation_view">Vizualizare conversație</string>
@@ -517,8 +518,8 @@ Actualizaţi acum?"</string>
     <string name="editor_max_length_limit_hint">Mesajul introdus este prea lung</string>
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
-    <string name="email_setting">E-mail</string>
-    <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
+    <string name="email_netease">NetEase Mail</string>
+    <string name="email_no_snippet">[Acest mesaj nu are corp text]</string>
     <string name="email_sync_failed">Nu s-a putut sincroniza e-mailul</string>
     <string name="eml_parse_message">Se deschide fișierul EML…</string>
     <string name="empty_account_tip">Nu s-a putut găsi contul</string>
@@ -651,6 +652,8 @@ Actualizaţi acum?"</string>
     <string name="general_preference_text_zoom_normal">Prestabilită</string>
     <string name="general_preference_text_zoom_small">Mică</string>
     <string name="general_preference_text_zoom_tiny">Minusculă</string>
+    <string name="general_preference_trash_contact">Spam screening</string>
+    <string name="general_preference_trash_contact_sum">Gestionarea scrisorilor de la expeditori care au fost raportați de multe ori</string>
     <string name="generic_attachment_problem">Nu se poate ataşa fişierul.</string>
     <string name="get_database_exception">Eliminaţi datele acestei aplicaţii în Setări > Aplicaţii de sistem şi încercaţi din nou.</string>
     <string name="get_oauth_code">Obțineți codul</string>
@@ -763,6 +766,14 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
+    <string name="mailbox_name_server_all_unread">Necitite</string>
+    <string name="mailbox_name_server_drafts">Nefinalizate</string>
+    <string name="mailbox_name_server_inbox">Primite</string>
+    <string name="mailbox_name_server_junk">Coș</string>
+    <string name="mailbox_name_server_outbox">De trimis</string>
+    <string name="mailbox_name_server_sent">Trimise</string>
+    <string name="mailbox_name_server_starred">Cu stea</string>
+    <string name="mailbox_name_server_trash">Gunoi</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronizare: Oprită</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronizare: Pornită</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
@@ -1498,6 +1509,7 @@ Atingeţi "<b>Sincronizaţi acum</b> pentru a sincroniza e-mailurile, sau <b>Mod
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
     <string name="wait_help_context">așteptați</string>
     <string name="wait_while_update_db">Se actualizează baza de date…</string>
+    <string name="web_view_load_error_tip">Au apărut unele probleme iar corpul acestui e-mail nu poate fi afișat corect. Dacă întâmpinați această problemă, adăugați grupul de QQ 952315061 pentru a ne oferi feedback.</string>
     <string name="webview_logout">Puteți să încercați să vă conectați din nou</string>
     <string name="webview_logout_cancel">Nu acum</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>

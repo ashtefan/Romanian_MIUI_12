@@ -142,8 +142,8 @@
         <item quantity="one">%d videoclip</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Colajele pot conține 1-%d fotografii</item>
-        <item quantity="one">Colajele pot conține 1-%d fotografie</item>
+        <item quantity="other">Colajele pot conține %1$d-%2$d fotografii</item>
+        <item quantity="one">Colajele pot conține %1$d-%2$d fotografie</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Selectați maxim %d fotografii</item>
