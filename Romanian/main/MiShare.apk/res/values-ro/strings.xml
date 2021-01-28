@@ -74,7 +74,9 @@
     <string name="error_ap_or_screen_already_hosting">Nu se pot trimite articole către alte dispozitive în timp ce proiectați sau utilizați hotspot-ul portabil.</string>
     <string name="error_device_lost">Se pare că celălalt dispozitiv nu este în raza de detectare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="error_has_occurred">A apărut o eroare</string>
+    <string name="error_mirror_working">Nu se pot partaja elementele pe durata partajării ecranului</string>
     <string name="error_msg_network_error">A apărut o eroare de rețea. Încercați din nou.</string>
+    <string name="error_permission_denied">Pentru a putea utiliza această caracteristică, acordați Partajării Mi toate permisiunile necesare din Setări.</string>
     <string name="error_receive_file_cannot_read">Nu s-a putut primi fișierul</string>
     <string name="error_receive_file_changed">Nu se poate primi. Elementul a fost modificat.</string>
     <string name="error_receive_file_file_opened">Nu s-a putut primi acest articol. Se pare că acesta este utilizat acum.</string>
@@ -84,6 +86,7 @@
     <string name="error_receive_user_interrupted">Cealaltă persoană a anulat transferul</string>
     <string name="error_refuse_receive">S-a anulat transferul</string>
     <string name="error_remote_busy">Se pare că celălalt dispozitiv este ocupat. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="error_remote_mirror_working">Celălalt dispozitiv nu poate accepta articole în timp ce partajează ecranul</string>
     <string name="error_self_busy">Dispozitivul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="error_send_file_cannot_read">Nu s-a putut trimite fișierul. Încercați din nou.</string>
     <string name="error_send_file_no_enough_space">Nu se poate trimite. Spațiul de stocare insuficient pe celălalt dispozitiv.</string>
@@ -128,9 +131,8 @@
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mishare_folder_in_file_explorer">Gestionare fișiere > Partajare Mi</string>
     <string name="mishare_service_channel_desc">Notificări despre procesele Partajării Mi</string>
-    <string name="mishare_settings_summary_international">"Puteți utiliza Partajarea Mi pentru a trimite articole către dispozitivele din apropiere.
-Partajarea Mi este compatibilă cu telefoanele Mi și Redmi.
-OPPO, vivo, realme și alte mărci vor fi în curând compatibile cu Partajarea Mi. Puteți verifica lista dispozitivelor compatibile pe site-ul nostru."</string>
+    <string name="mishare_settings_summary_international">"Partajarea Mi vă permite să trimiteți elemente wireless dispozitivelor din apropiere.
+Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți producători de telefoane. Puteți verifica lista dispozitivelor acceptate pe site-ul oficial al oricărei mărci selectate."</string>
     <string name="mishare_state_protection">Activați Partajarea Mi în mod automat</string>
     <string name="mishare_state_protection_summary">Activați din nou în mod automat Partajarea Mi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
     <string name="mishare_state_protection_summary_china">Activați din nou în mod automat Partajarea Mi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
@@ -145,6 +147,7 @@ OPPO, vivo, realme și alte mărci vor fi în curând compatibile cu Partajarea 
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
+    <string name="nearby_share">Partajare în apropiere</string>
     <string name="no_longer_prompt">Blocați</string>
     <string name="no_longer_receive">Blocați acest dispozitiv? Nu veți mai putea primi fișiere de la acesta.</string>
     <string name="not_set">Nesetat</string>

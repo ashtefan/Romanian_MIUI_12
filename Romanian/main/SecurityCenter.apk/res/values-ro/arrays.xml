@@ -10,7 +10,7 @@
     <string-array name="alarm_repeat_type_no_workdays">
         <item>O dată</item>
         <item>În fiecare zi</item>
-        <item>Zilele săptămânii</item>
+        <item>Zilele lucrătoare</item>
         <item>Personalizat</item>
     </string-array>
     <string-array name="app_behavior_type_menu">

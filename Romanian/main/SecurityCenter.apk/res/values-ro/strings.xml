@@ -962,6 +962,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="databooster_tips_message">Activați pentru a restricționa cartelele SIM, cu excepția cardului de date. Dezactivați această caracteristică dacă întâmpinați erori în jocuri.</string>
     <string name="databooster_tips_title">Atenție</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="day_overflow_tips">Avertisment utilizare zilnică de date</string>
     <string name="debug_open_final_tip">Activați depanarea USB?</string>
     <string name="debug_open_title">Această caracteristică este destinată dezvoltării și poate fi greu de gestionat de către utilizatorii obișnuiți. Activarea depanării USB poate aduce următoarele modificări:</string>
@@ -1814,7 +1815,19 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_setting_item_title_smart_5g">Optimizare rețea 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Creștere viteză Mi Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Înapoi în joc</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">Nu s-a putut conecta la rețea</string>
     <string name="gtb_spring_festival_goto_gameturbo">Vedeți</string>
+    <string name="gtb_spring_festival_guide">"Comutați la modul peisaj
+pentru a vă alătura vânătorii de ouă!"</string>
+    <string name="gtb_spring_festival_guide_know">Am înțeles</string>
+    <string name="gtb_spring_festival_push_active_desc">Câștigați telefoane, dispozitive inteligente și cupoane</string>
+    <string name="gtb_spring_festival_push_active_title">Vânătoarea ouălor de Paște este pornită!</string>
+    <string name="gtb_spring_festival_push_desc">Alăturați-vă vânătorii noastre de ouă pentru a câștiga premii</string>
+    <string name="gtb_spring_festival_push_egg_title">Ați primit un Ou de Paște!</string>
+    <string name="gtb_spring_festival_push_gift_title">Premiile pentru vânătoarea de ouă vin!</string>
+    <string name="gtb_spring_festival_push_join">Alăturați-vă</string>
+    <string name="gtb_spring_festival_push_see">Vedeți</string>
+    <string name="gtb_spring_festival_shortcut_create">Creați o scurtătură pe Ecranul principal</string>
     <string name="gtb_wlan_speed_tips">Se utilizează Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operator eronat?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
@@ -3427,6 +3440,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="see_detail">Detalii</string>
     <string name="see_more_content">Actualizați aplicația de Jocuri pentru a vedea mai multe noutăți</string>
     <string name="select_province_and_city">Selectați locația</string>
+    <string name="send">Trimiteți</string>
     <string name="send_msg_to_query">Trimiteți un mesaj text pentru a verifica</string>
     <string name="set_applock_password">Setați parola</string>
     <string name="set_complete">Setată cu succes</string>
