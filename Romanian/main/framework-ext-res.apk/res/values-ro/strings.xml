@@ -83,10 +83,16 @@
     <string name="device_status_success">Trimis cu succes</string>
     <string name="device_status_waiting">Se așteaptă…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="disable_nfc">S-a dezactivat NFC pentru încărcarea fără fir</string>
+    <string name="disable_nfc_reverse">S-a dezactivat NFC pentru încărcarea inversă fără fir</string>
+    <string name="double_click_power_key">niciuna</string>
+    <string name="double_knock">niciuna</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">Economisiți 70% din costurile apelurilor</string>
     <string name="enable_livetalk_title">Activați pachetul de suplimentare</string>
     <string name="enable_midrop">Activați</string>
+    <string name="enable_nfc">Nu se mai încarcă. NFC-ul este activat din nou.</string>
+    <string name="enable_nfc_reverse">Nu se mai încarcă invers. NFC-ul este activat din nou.</string>
     <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea acestei probleme și nu va fi niciodată partajat în scop comercial.</string>
     <string name="fc_dialog_jump_to_preview">Vizualizare sumar</string>
     <string name="file_cannot_print">Nu se poate tipări acest element.</string>

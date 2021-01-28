@@ -667,6 +667,7 @@
     <string name="v7_preference_on">PORNIT</string>
     <string name="vibrate_pref_summary">Vibrare în timpul alarmei</string>
     <string name="vibrate_when_ringing">Vibrare în tim ce sună</string>
+    <string name="voice_add_alarm">Adăugați o alarmă utilizând o comandă vocală</string>
     <string name="volume_button_setting_desc">Atribuiți funcții butoanelor de Pornire și Volum +/-</string>
     <string name="volume_button_setting_summary">Setaţi funcţiile butoanelor de volum în timpul unei alarme</string>
     <string name="volume_button_setting_title">Butoane de volum</string>

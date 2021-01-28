@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC activat.</string>
+    <string name="action_confirm_url_open">Deschideți link-ul</string>
     <string name="android_beam">Android Beam</string>
     <string name="app_name">Serviciu NFC</string>
     <string name="ask_nfc_tap">Atingeți alt dispozitiv pentru a finaliza</string>
@@ -28,6 +29,8 @@
     <string name="disconnecting_peripheral">Se deconectează %1$s</string>
     <string name="failed_to_enable_bt">Nu s-a putut activa Bluetooth-ul</string>
     <string name="nfcUserLabel">NFC</string>
+    <string name="nfc_blocking_alert_message">Apăsați pentru a afla cum să rezolvați.</string>
+    <string name="nfc_blocking_alert_title">NFC-ul poate fi blocat</string>
     <string name="pair_no">Nu</string>
     <string name="pair_yes">Da</string>
     <string name="pairing_peripheral">Se asociază %1$s</string>
@@ -36,9 +39,13 @@
     <string name="prompt_connect_to_network">Vă conectați la rețeaua %1$s?</string>
     <string name="status_unable_to_connect">Nu s-a putut conecta la rețea</string>
     <string name="status_wifi_connected">Conectat</string>
+    <string name="summary_confirm_url_open">Telefonul dvs. a primit un link prin NFC:</string>
+    <string name="tag_dispatch_failed">Nicio aplicație suportată pentru această etichetă NFC</string>
+    <string name="tag_read_error">Eroare citire NFC. Încercați din nou.</string>
     <string name="tap_again_to_complete">Atingeți din nou pentru a finaliza prin %1$s</string>
     <string name="tap_again_to_pay">Atingeți din nou pentru a plăti prin %1$s</string>
     <string name="tap_to_beam">Atingeți pentru a trimite</string>
+    <string name="title_confirm_url_open">Deschideți link-ul?</string>
     <string name="title_connect_to_network">Conectați-vă la rețea</string>
     <string name="transaction_failure">"Această tranzacție nu s-a putut finaliza prin %1$s."</string>
     <string name="wifi_connect">Conectați-vă</string>

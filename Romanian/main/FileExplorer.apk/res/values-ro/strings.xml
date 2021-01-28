@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_limit">Restricții acces</string>
+    <string name="access_tips">Nu se pot accesa elementele. Încercați să utilizați în schimb Android Storage Access Framework.</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
     <string name="actionbar_button_up_description">Înapoi</string>
@@ -121,6 +123,7 @@
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
     <string name="click_to_switch_volume_pad">Atingeți pentru a comuta între memoria internă și cardul SD</string>
     <string name="clock_in">Verificare…</string>
+    <string name="close">Închideți</string>
     <string name="comment_delete_message">Comentariul va fi șters definitiv.</string>
     <string name="comment_delete_title">Ștergeți comentariul</string>
     <string name="comment_hint">Adăugați un comentariu</string>
@@ -337,6 +340,7 @@
     <string name="get_user_info_err">"Nu s-au putut obține informații despre această persoană"</string>
     <string name="get_verification_code_fail">"Nu s-a putut obține codul de verificare"</string>
     <string name="gigabyteShort">GB</string>
+    <string name="go_ahead">Deschideți</string>
     <string name="grid_mode">Vizualizare tip grilă</string>
     <string name="group_title">%2$s din %1$s</string>
     <string name="group_title_extra_backup">Copii de rezervă</string>
@@ -432,6 +436,9 @@
     <string name="mirror_can_not_drag_mask">Trageți pentru a utiliza Partajarea Mi</string>
     <string name="mirror_new_name">Creați dosar (%s)</string>
     <string name="mirror_new_name_first">Creați dosar</string>
+    <string name="mirror_no_recommended_app">Nicio aplicație recomandată</string>
+    <string name="mirror_open_mode_error">Nu s-au putut încărca elementele</string>
+    <string name="mirror_open_mode_loading">Doar o secundă…</string>
     <string name="mirror_paste_no_file">Acest fișier nu există</string>
     <string name="mirror_progress_copy">Se copie…</string>
     <string name="mirror_side_bar_tab_app_name">Aplicații</string>
@@ -621,6 +628,7 @@
     <string name="operation_moving">Mutare…</string>
     <string name="operation_new_folder">Creați un dosar</string>
     <string name="operation_open">Deschideți</string>
+    <string name="operation_open_mode">Deschideți cu</string>
     <string name="operation_other_apps">Deschideți cu altă aplicație</string>
     <string name="operation_paste">Lipiţi</string>
     <string name="operation_paste_to_folder">Lipiţi în dosar</string>
@@ -714,8 +722,10 @@
     <string name="pull_to_enter_private">Glisați în jos pentru a deschide dosarul privat</string>
     <string name="qq_btn_bind">QQ</string>
     <string name="qq_login_btn_str">QQ</string>
+    <string name="qq_msg">Datorită restricțiilor Android 11, Managerul de fișiere nu poate accesa și afișa documentele QQ.</string>
     <string name="qq_not_installed">"QQ nu este instalată"</string>
     <string name="qq_platform">QQ</string>
+    <string name="qq_title">Nu se pot accesa documentele WeChat</string>
     <string name="qzone_platform">Qzone</string>
     <string name="recommend">Recomandat</string>
     <string name="recommend_topic">Subiecte recomandate</string>
@@ -784,6 +794,7 @@
     <string name="select_music">Selectaţi melodiile</string>
     <string name="select_video">Selectaţi videoclipurile</string>
     <string name="select_volume">Selectați volumul</string>
+    <string name="send">Trimiteți</string>
     <string name="send_comment">Trimiteți</string>
     <string name="send_sticker">Trimiteți sticker</string>
     <string name="send_to_qq">Trimiteți la QQ</string>
@@ -1107,7 +1118,9 @@
     <string name="wechat_btn_bind">WeChat</string>
     <string name="wechat_btn_str">WeChat</string>
     <string name="wechat_login_btn_str">WeChat</string>
+    <string name="wechat_msg">Datorită restricțiilor Android 11, Managerul de fișiere nu poate accesa și afișa documentele previzualizate în WeChat. Deschideți și salvați documentele în WeChat pentru a le face să apară aici.</string>
     <string name="wechat_platform">WeChat</string>
+    <string name="wechat_title">Nu se pot accesa documentele WeChat</string>
     <string name="wechat_video">Video la %s</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

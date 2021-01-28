@@ -486,6 +486,7 @@
     <string name="item_title_process_mode">Selectați o acțiune</string>
     <string name="junk_tag_RF_EmptyFolders">Dosare goale</string>
     <string name="junk_tag_RF_ImageThumbnails">Miniaturi din Galerie</string>
+    <string name="junk_temporary_file">Fișiere temporare</string>
     <string name="just_now">Chiar acum</string>
     <string name="kilobyteShort">KB</string>
     <string name="label_image_list_none">Niciuna</string>

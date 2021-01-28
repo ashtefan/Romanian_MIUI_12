@@ -206,8 +206,16 @@
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="evening">După amiază</string>
     <string name="exceed_todo_text_limitation">Descrierea sarcinii este prea lungă.</string>
+    <string name="excerpt">Extrase</string>
+    <string name="excerpt_bubble_tips">Textul copiat și imaginile salvate vor fi salvate în Note</string>
+    <string name="excerpt_link_bubble_tips">Atingeți pentru a salva în Note</string>
+    <string name="excerpt_note">Extrasele mele</string>
+    <string name="excerpted_to_note">S-au salvat extrasele în Note</string>
+    <string name="excerpting">Se crează un extras…</string>
     <string name="expand_button_title">Avansate</string>
     <string name="first_enter_custom_folder_hint">Puteți redenumi sau șterge dosarele aici</string>
+    <string name="float_note_empty">Nicio notiță aici</string>
+    <string name="float_note_title">Note</string>
     <string name="float_todo_guide_cancel">Renunțați</string>
     <string name="float_todo_guide_message">Scurtătura pentru Ecranul principal vă permite să glisați dinspre marginea ecranului pentru a vedea și pentru a crea sarcini. Creați scurtătura acum?</string>
     <string name="float_todo_guide_message_v2">Scurtătura prin gesturi vă pemite să vedeți și să creți sarcini glisând de la marginea ecranului. Puteți activa sau dezactiva această caracteristică din Setări.</string>

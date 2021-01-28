@@ -4130,6 +4130,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="miheadset_closeAnc">Oprit</string>
     <string name="miheadset_connectHeadsetForFw">Conectați căștile pentru a vedea versiunea de firmware</string>
     <string name="miheadset_connect_play_music">Începeți automat redarea când sunt conectate căștile</string>
+    <string name="miheadset_connect_toast_tips">Conectați căștile mai întâi</string>
     <string name="miheadset_define_self">Personalizat</string>
     <string name="miheadset_disconnect">Deconectați</string>
     <string name="miheadset_disconnect_device">Deconectați acest dispozitiv?</string>
@@ -4179,6 +4180,7 @@ Mai există și alți utilizatori pe acest dispozitiv.
     <string name="miheadset_transparent">Transparență</string>
     <string name="miheadset_triple_click_key_mode">apăsați de trei ori butonul mod</string>
     <string name="miheadset_triple_click_key_mode_summary">mapare apăsare triplă</string>
+    <string name="miheadset_unpair_device_text">%1$s va fi deconectat de la toate dispozitivele asociate acestui cont Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fişiere diverse</string>
     <string name="misc_files_selected_count">au fost selectate %1$d din %2$d</string>

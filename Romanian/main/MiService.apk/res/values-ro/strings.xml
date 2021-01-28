@@ -32,11 +32,14 @@
     <string name="am">AM</string>
     <string name="app_name">aplicație principală</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendar Chinez Tradițional</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="early_morning">Dimineață</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">După amiază</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -212,9 +215,20 @@
     <string name="miui_main_update_success_sub_title">Faceți cunoștință cu noul MIUI</string>
     <string name="miui_main_update_success_title">Viața devine mai ușoară</string>
     <string name="miui_main_update_success_title_12">Dvs. singur</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
+    <string name="miuix_appcompat_confirm_description">Confirmați</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -266,6 +280,7 @@
     <string name="morning">Dimineață</string>
     <string name="night">Seară</string>
     <string name="noon">Amiază</string>
+    <string name="not_set">Nesetat</string>
     <string name="permission_agree">De acord</string>
     <string name="permission_china_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.</Data></string>
     <string name="permission_complete">Finalizat</string>
@@ -287,6 +302,7 @@
     <string name="permission_storage_introduce">Pentru salvarea elementelor în dispozitiv</string>
     <string name="permission_user_protocol">Acordul Utilizatorului (obligatoriu)</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="public_loading_text">Doar o secundă…</string>
     <string name="public_net_error_retry">Încercați din nou</string>
     <string name="public_net_error_sub_title">Verificați setările de rețea și încercați din nou</string>
@@ -332,6 +348,7 @@
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Dum</string>
@@ -387,6 +404,8 @@
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
