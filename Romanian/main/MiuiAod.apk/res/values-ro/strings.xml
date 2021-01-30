@@ -240,7 +240,7 @@ dd/MM"</string>
     <string name="morning">Dimineață</string>
     <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Mai mult decât %1$d notificări noi</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Treceți la luna viitoare</string>
     <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
@@ -291,8 +291,8 @@ dd/MM"</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="photo_editor_saving">Se salvează…</string>
     <string name="please_input_signature">Introduceți semnătura</string>
-    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

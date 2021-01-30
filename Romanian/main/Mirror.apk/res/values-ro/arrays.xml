@@ -68,18 +68,18 @@
         <item>1 Mb</item>
     </array>
     <string-array name="settings_search_mirror">
-        <item>Ecran Combo</item>
-        <item>Conectare și partajare/Ecran Combo</item>
-        <item>Ecran Combo;Ecran multiplu;Oglindire ecran;PC;Computer</item>
+        <item>MIUI+ Beta</item>
+        <item>Conectare și partajare/MIUI+ Beta</item>
+        <item>Ecran Combo;Duet;Ecran multiplu;Duo;Computer;Oglindă;MIUI+</item>
     </string-array>
     <string-array name="settings_tips_message">
-        <item>"1. Dezactivați hotspot-ul portabil, Partajarea Mi sau partajarea dispozitivului mobil înainte de a utiliza Ecran Combo.
+        <item>"1. Dezactivați hotspot-ul portabil, Partajarea Mi sau partajarea dispozitivului mobil înainte de a utiliza această funcție.
 2. Dezactivați Wi-Fi-ul atât pe dispozitivul mobil, cât și pe computer.
-3. Asigurați-vă că dispozitivul dvs. mobil este aproape de computer."</item>
-        <item>Computerul dvs. utilizează Bluetooth-ul pentru a detecta dispozitivele mobile care au fost conectate anterior. Verificați dacă Bluetooth-ul este activat pe dispozitivul dvs. mobil.</item>
-        <item>Dispozitivele mobile nu pot sincroniza date cu computerele atunci când ecranul este blocat. În mod implicit, Ecran Combo nu permite blocarea ecranului atunci când dispozitivul dvs. mobil este conectat la un computer. Puteți modifica acest lucru din Setări.</item>
-        <item>"1. Telefoanele Xiaomi selectate care rulează Android Q sau ulterior acceptă Ecran Combo. Dacă vedeți site-ul MIUI după scanarea codului QR, dispozitivul dvs. nu este acceptat încă.
-2. Pentru a utiliza Ecran Combo pe computer, instalați mai întâi cea mai recentă versiune a Partajării inteligente Mi."</item>
+3. Asigurați-vă că dispozitivul dvs. mobil este aproape de computer. Nu veți putea conecta dispozitivele dacă acestea se află în locuri diferite"</item>
+        <item>Computerul dvs. utilizează Bluetooth-ul pentru a detecta dispozitivele mobile din apropiere care au fost conectate anterior. Verificați dacă Bluetooth-ul este activat pe dispozitivul dvs. mobil.</item>
+        <item>Dispozitivele mobile nu pot sincroniza date cu computerele atunci când ecranul este blocat. În mod implicit, această aplicație nu permite blocarea ecranului atunci când dispozitivul dvs. mobil este conectat la un computer. Puteți modifica acest lucru din Setări.</item>
+        <item>"1. Dispozitive mobile compatibile: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Dacă sunteți redirecționat către site-ul nostru oficial după scanarea codului QR, dispozitivul dvs. nu este încă acceptat.
+2. Computere compatibile: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Descărcați MIUI+ Beta pentru computer de aici: https://pc.mi.com/aiot."</item>
     </string-array>
     <string-array name="settings_tips_title">
         <item>Nu vă puteți conecta utilizând codul QR?</item>

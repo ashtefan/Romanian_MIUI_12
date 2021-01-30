@@ -202,6 +202,7 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="scanning_only_xiaomi_device">Acest element poate fi transferat doar către dispozitive Xiaomi sau Black Shark</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send_file">TRIMITEȚI FIȘIERUL</string>
+    <string name="send_files_by">Trimiteți fișierele prin</string>
     <string name="send_files_to">Trimiteți elementele către</string>
     <string name="send_files_to_remote_success">S-au trimis cu succes elementele către %1$s</string>
     <string name="send_files_to_remote_success_title">Trimis cu succes</string>
@@ -223,7 +224,7 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="tile_state_active">Activ</string>
     <string name="tile_state_inactive">Inactiv</string>
     <string name="tile_state_unavailable">Indisponibil</string>
-    <string name="tips_prompt_enable_midrop">Partajați fișiere cu dispozitivele din apropiere</string>
+    <string name="tips_prompt_enable_midrop">Partajare Mi</string>
     <string name="to_feedback">Raportați</string>
     <string name="transfer_intercept_to_remote">Nu s-a putut trimite: %1$s</string>
     <string name="transfer_to_pc_summary">Cea mai recentă versiune a software-ului AIoT instalat pe notebook-urile Mi este compatibilă cu Partajarea Mi. Puteți verifica lista modelelor de laptopuri acceptate pe site-ul MIUI. Dacă laptopul dvs. este pe listă, dar AIoT nu este instalat pe acesta, actualizați BIOS-ul laptopului și driverul adaptorului de rețea și descărcați AIoT.</string>
