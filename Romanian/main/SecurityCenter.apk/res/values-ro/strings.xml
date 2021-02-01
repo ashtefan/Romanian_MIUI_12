@@ -29,6 +29,7 @@
     <string name="Setting_lock">Setări</string>
     <string name="Settings_title_anti_spam">Setări listă blocări</string>
     <string name="Settings_title_anti_virus">Setări scanare de securitate</string>
+    <string name="Settings_title_anti_virus_kddi">Setări scanare de securitate</string>
     <string name="Settings_title_garbage_cleanup">Setări curăţare</string>
     <string name="Settings_title_network_assistants">Setări utilizare date</string>
     <string name="Settings_title_power_center">Setări de optimizare a acumulatorului</string>
@@ -99,6 +100,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activity_title_antispam">Listă blocări</string>
     <string name="activity_title_antivirus">Scanare de securitate</string>
+    <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
     <string name="activity_title_create_shortcut">Gestiune comenzi rapide</string>
@@ -185,12 +187,15 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Pentru a detecta și neutraliza virușii mai eficient, vom încărca numele și detaliile pachetelor pentru a le scana utilizând un motor din cloud.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary"><Data>Această caracteristică este furnizată de către un motor antivirus terț. Pentru a afla mai multe, citiți &lt;a href=\"%1$s\">Acordul de licență&lt;/a> furnizat de către terț.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Când efectuați o scanare de securitate, modelul dispozitivului și rezultatele scanării vor fi încărcate în serverele %1$s și utilizate în concordanță cu &lt;a href=\"%2$s\">termenii și condițiile corespunzătoare&lt;/a>.&lt;br/>&lt;br/>Citiți și acceptați termenii și condițiile %3$s înainte de a face o scanare de securitate.&lt;br/>&lt;br/>Dacă nu acceptați să încărcați datele pe serverele %4$s, puteți utiliza în continuare definițiile de virus stocate local pe dispozitivul dvs.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast, AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către AVL și Tencent. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast și AVL. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_title">Politica de confidențialitate</string>
-    <string name="antivirus_sec_network_unavailable">"Aplicația de Securitate nu se poate actualiza deoarece ați restricționat accesul la internet. Permiteți aplicației de Securitate să se conecteze la internet?"</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Termeni și condiții</string>
+    <string name="antivirus_sec_network_unavailable">Aplicația de Securitate nu se poate actualiza deoarece ați restricționat accesul la internet. Permiteți aplicației de Securitate să se conecteze la internet?</string>
+    <string name="antivirus_third_privacy_title">Politici de confidențialitate terțe</string>
     <string name="antivirus_toast_already_update">La zi</string>
     <string name="antivirus_toast_network_unavailable">"Nu s-a putut conecta la rețea"</string>
     <string name="antivirus_toast_update_failed">"Nu s-a putut actualiza"</string>
@@ -2143,6 +2148,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="menu_summary_power_manager_4">%s până la încărcarea completă</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
+    <string name="menu_text_antivirus_kddi">Scanare de securitate</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s ocupat</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
     <string name="menu_text_garbage_cleanup_danger">%s gunoi</string>
@@ -2739,7 +2745,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_battery_duration">Timp rămas</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
-    <string name="power_center_battery_health_poor_tip">Se pare că starea acumulatorului este precară. Verificați acumulatorul într-un centru de service autorizat</string>
+    <string name="power_center_battery_health_poor_tip">Se pare că starea acumulatorului este precară. Verificați acumulatorul într-un centru de service autorizat.</string>
     <string name="power_center_battery_health_summary">Încărcați complet acumulatorul și apoi descărcați-l de %1$d-%2$d ori pentru a crește acuratețea statisticilor despre starea lui</string>
     <string name="power_center_battery_last">%s rămas</string>
     <string name="power_center_battery_level">Încărcat %s</string>

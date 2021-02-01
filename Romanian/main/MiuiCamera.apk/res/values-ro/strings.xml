@@ -1115,6 +1115,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_eis_entry_off">Oprit</string>
     <string name="pref_camera_eis_entry_pro">Videoclip stabilizat Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">previzualizați</string>
     <string name="pref_camera_exposuretime_entry_0_3">0,3s</string>
     <string name="pref_camera_exposuretime_entry_0_4">0,4s</string>
     <string name="pref_camera_exposuretime_entry_0_5">0,5s</string>

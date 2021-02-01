@@ -171,6 +171,7 @@
     <string name="downloads_operating">Operare…</string>
     <string name="dredge_xunlei_account">Creați un cont Xunlei</string>
     <string name="edit_hint"> Introduceţi http, torrent sau adresa eMule</string>
+    <string name="edit_hint2">Introduceți un link HTTP, FTP, magnet, sau ed2k</string>
     <string name="editmode_menu_delete">Ştergeţi</string>
     <string name="editmode_menu_share">Distribuiţi</string>
     <string name="engine_open">Activaţi</string>
@@ -256,6 +257,7 @@
     <string name="network_error">Nu se poate conecta la reţea</string>
     <string name="new_add">Descărcare nouă</string>
     <string name="new_add_bt">Adăugare torrent</string>
+    <string name="new_add_bt2">Adăugați o sarcină torrent</string>
     <string name="no_downloads">Nicio descărcare</string>
     <string name="no_file_hint">Fișierul există deja în lista de descărcări</string>
     <string name="no_net">Nu s-a putut conecta la rețea</string>
@@ -450,6 +452,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="subbt_wait">Aşteptare…</string>
     <string name="subfile_list">Fișiere</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="task_add">Se adaugă sarcina…</string>
     <string name="task_detail">Sarcini</string>
     <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">Nu s-a putut finaliza sarcina</string>

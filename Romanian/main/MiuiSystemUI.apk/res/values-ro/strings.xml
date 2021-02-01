@@ -570,6 +570,7 @@ Selecție"</string>
     <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="content_description_menu_button">Meniu</string>
+    <string name="control_center_notification_switch_guide">Glisați pentru a comuta între Centrul de Control și Perdeaua de Notificări</string>
     <string name="convert_to_fbe_warning">"Convertește partiția de date la criptarea pe baza fișierului.
 !!ATENȚIE!! Acest lucru va șterge toate datele.
 Această caracteristică este experimentală și poate funcționa necorespunzător.

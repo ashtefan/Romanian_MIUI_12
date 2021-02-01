@@ -114,6 +114,8 @@
     <string name="category_type_other">Altele</string>
     <string name="category_video">Video</string>
     <string name="category_zip">Arhive</string>
+    <string name="cdd_message">Datorită restricțiilor Android 11, nu veți putea vizualiza unele fișiere generate în aplicații terțe în Managerul de fișiere.</string>
+    <string name="cdd_title">Atenție</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="chip_text">Fragment de text</string>
@@ -434,6 +436,7 @@
     <string name="midrop_msg_2">Când Mi Drop este activ, puteți găsi dispozitivele din apropiere și trimite fișiere</string>
     <string name="midrop_send_files">Selectați fișierele de trimis</string>
     <string name="mirror_can_not_drag_mask">Trageți pentru a utiliza Partajarea Mi</string>
+    <string name="mirror_can_not_drag_mask_new">Trageți elementele în %s</string>
     <string name="mirror_new_name">Creați dosar (%s)</string>
     <string name="mirror_new_name_first">Creați dosar</string>
     <string name="mirror_no_recommended_app">Nicio aplicație recomandată</string>
@@ -445,6 +448,7 @@
     <string name="mirror_side_bar_tab_mine_name">Partajare Mi</string>
     <string name="mirror_side_bar_tab_phone_name">Stocare telefon mobil</string>
     <string name="mirror_side_bar_tab_recent_name">Recente</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Transferuri și descărcări</string>
     <string name="mirror_side_bar_tab_type_name">Fișiere</string>
     <string name="mirror_storage_internal_desc">Stocare telefon mobil</string>
     <string name="mirror_tip_add_file">Creați un dosar</string>
@@ -970,8 +974,10 @@
     <string name="top_videos">Partajați evaluările</string>
     <string name="topic_follow">Urmăriți</string>
     <string name="topic_followed">Urmărit</string>
+    <string name="transfer">Transferuri și descărcări</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>
+    <string name="transfer_summary">Descărcări și elemente transferate prin Partajare Mi</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
