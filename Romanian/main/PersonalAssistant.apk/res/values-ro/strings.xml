@@ -309,6 +309,8 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_pa_setting_private_policy">Politica de Confidențialitate</string>
     <string name="app_pa_setting_service_commute">Comutați</string>
     <string name="app_pa_setting_service_commute_summary">Pentru construirea de rute de navigație și furnizarea de servicii de transport auto</string>
+    <string name="app_pa_setting_service_covid">Informații despre COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Vedeți cele mai recente informații despre COVID-19</string>
     <string name="app_pa_setting_service_forecast">Sugestii inteligente</string>
     <string name="app_pa_setting_service_forecast_summary">Primiți sugestii de aplicații și funcții pe care este foarte probabil să le folosiți</string>
     <string name="app_pa_setting_service_management">Gestionați serviciile</string>
