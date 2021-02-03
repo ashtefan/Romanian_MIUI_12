@@ -114,6 +114,7 @@
     <string name="bh_buy_now">Achiziționați</string>
     <string name="bh_call_used">Minute utilizate</string>
     <string name="bh_cancel">Renunțați</string>
+    <string name="bh_cannot_action">Nu s-a putut utiliza %1$s. Instalați mai întâi aplicația corespunzătoare.</string>
     <string name="bh_cannot_fetch_num">Număr de telefon necunoscut</string>
     <string name="bh_cannot_login_miacount">Nu s-a putut conecta la contul Mi</string>
     <string name="bh_card_order_detail">Informații despre comandă</string>
@@ -206,7 +207,7 @@
     <string name="bh_order_detail">Detaliile comenzii</string>
     <string name="bh_order_id">ID-ul comenzii</string>
     <string name="bh_order_loading">Doar o secundă…</string>
-    <string name="bh_order_status">Starea comenzii</string>
+    <string name="bh_order_pay">Plată</string>
     <string name="bh_order_time">Data tranzacției</string>
     <string name="bh_other_charge">Alt număr de telefon</string>
     <string name="bh_other_operator">Alți operatori</string>

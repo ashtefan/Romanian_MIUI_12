@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">S-a deschis Recente, aplicații disponibile: %d.</item>
-        <item quantity="one">S-a deschis Recente, aplicații disponibile: %d.</item>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">cu %d zile în urmă</item>
+        <item quantity="one">cu %d zi în urmă</item>
     </plurals>
-    <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
-        <item quantity="one">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">cu %d min în urmă</item>
+        <item quantity="one">cu %d min în urmă</item>
     </plurals>
-    <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Se închide în %1$d secunde</item>
-        <item quantity="one">Se închide în %1$d secundă</item>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">cu %d ani în urmă</item>
+        <item quantity="one">cu %d an în urmă</item>
     </plurals>
-    <plurals name="fold_tips_title">
-        <item quantity="other">%d notificări neimportante</item>
-        <item quantity="one">%d notificare neimportantă</item>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controale adăugate.</item>
+        <item quantity="one">%s control adăugat.</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Cod PIN incorect, %d încercări rămase</item>
@@ -69,16 +69,24 @@
         <item quantity="one">%1$dh și %2$dm disponibil</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Introduceți codul PIN SIM, mai aveți %d încercări rămase.</item>
-        <item quantity="one">Introduceți codul PIN SIM, mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
+        <item quantity="other">Introduceți codul PIN SIM. Mai aveți %d încercări rămase.</item>
+        <item quantity="one">Introduceți codul PIN SIM. Mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Introduceți codul PIN SIM%1$d, mai aveți %2$d încercări rămase.</item>
+        <item quantity="one">Introduceți codul PIN SIM%1$d, mai aveți %2$d încercare rămasă înainte de a contacta operatorul pentru a vă debloca dispozitivul.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">Cartela SIM este acum dezactivată. Introduceți codul PUK pentru a continua. Mai aveți %d încercări rămase până când cartela SIM va deveni permanent inutilizabilă. Contactați operatorul pentru detalii.</item>
         <item quantity="one">Cartela SIM este acum dezactivată. Introduceți codul PUK pentru a continua. Mai aveți %d încercare rămasă până când cartela SIM va deveni permanent inutilizabilă. Contactați operatorul pentru detalii.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Cod PIN incorect. Mai aveți %d încercări rămase.</item>
-        <item quantity="one">Cod PIN incorect. Mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
+        <item quantity="other">Cod PIN incorect, mai aveți %d încercări rămase.</item>
+        <item quantity="one">Cod PIN incorect, mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Cod PIN SIM%1$d incorect, mai aveți %2$d încercări rămase.</item>
+        <item quantity="one">Cod PIN SIM%1$d, mai aveți %2$d încercare rămasă înainte de a contacta operatorul pentru a vă debloca dispozitivul.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Cod PUK incorect, mai aveți %d încercări rămase până când cartela SIM va deveni permanent inutilizabilă.</item>
@@ -95,6 +103,10 @@
     <plurals name="kg_prompt_reason_time_pin">
         <item quantity="other">"Dispozitivul nu a mai fost deblocat de %d ore. Confirmați codul PIN."</item>
         <item quantity="one">"Dispozitivul nu a mai fost deblocat de %d oră. Confirmați codul PIN."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Încercați din nou în %d secunde.</item>
+        <item quantity="one">Încercați din nou într-o secundă.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d notificări noi</item>
@@ -124,17 +136,24 @@
         <item quantity="other">Încercați din nou în %d secunde</item>
         <item quantity="one">Încercați din nou într-o secundă</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d butoane de deasupra acestei bare sunt active</item>
-        <item quantity="one">%1$d buton de deasupra acestei bare este active</item>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dispozitive</item>
+        <item quantity="one">%d dispozitiv</item>
     </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d ecrane în Overview</item>
-        <item quantity="one">1 ecran în Overview</item>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d ore</item>
+        <item quantity="few">%d ore</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Senin</item>
-        <item quantity="one">Senin</item>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Puteți adăuga maxim %d utilizatori.</item>
+        <item quantity="one">Poate fi creat un singur utilizator.</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispozitive conectate</item>

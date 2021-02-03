@@ -24,7 +24,11 @@
     <string name="change_passwork_dialog_title">Actualizați parola?</string>
     <string name="delete">Ștergeți</string>
     <string name="invalid_package_signature">Semnătură nevalidă a aplicației</string>
+    <string name="login_mi_account_alert">Întreabă</string>
+    <string name="login_mi_account_summary">Pentru a activa managerul de parole, trebuie să vă conectați la contul Xiaomi; doriți să vă conectați?</string>
     <string name="ok">OK</string>
+    <string name="password_manager">Manager de parole</string>
+    <string name="password_manager_summary">Manager parole în cloud, faceți o copie de rezervă în contul Xiaomi</string>
     <string name="save_content_tip">"Următoarele elemente vor fi salvate: "</string>
     <string name="search">Căutați</string>
     <string name="settings_clear_data_confirmation_description">"Dacă eliminați parolele acum, va trebui să le introduceți în mod manual data viitoare când vă conectați.

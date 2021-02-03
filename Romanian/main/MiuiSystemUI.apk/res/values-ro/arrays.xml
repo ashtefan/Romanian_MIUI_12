@@ -23,24 +23,24 @@
         <item>Nu afișa această pictogramă</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -57,21 +57,21 @@
         <item>Cea mai bună opțiune (Bit rate adaptiv)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -86,7 +86,7 @@
         <item>Dezactivați Codecurile Opționale</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -97,8 +97,8 @@
         <item>LHDC v3</item>
         <item>LHDC v2</item>
         <item>LHDC v1</item>
-        <item>Activați Codecurile Opționale</item>
-        <item>Dezactivați Codecurile Oopționale</item>
+        <item>Activați codecurile opționale</item>
+        <item>Dezactivați codecurile opționale</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -112,12 +112,17 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Implicit)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Dezactivat</item>
-        <item>Filtrare activată</item>
-        <item>Filtrare anteturi activată</item>
-        <item>\"Filtrare anteturi\" activată</item>
-        <item>\"Filtrare pachete media\" activată</item>
+        <item>Filtrate</item>
+        <item>Activat</item>
+        <item>Anteturi filtrate</item>
+        <item>Pachete media filtrate</item>
     </string-array>
     <string-array name="carrier_name">
         <item>Digi Mobil</item>
@@ -183,17 +188,14 @@
         <item>TȚUV</item>
         <item>WXYZ</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Oprit</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>2 ore</item>
-        <item>8 ore</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Acesta este conținut recomandat.</item>
+        <item>Aceasta este o reclamă.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Clipboard</item>
         <item>Cod cheie</item>
-        <item>Comutator tastatură</item>
+        <item>Confirmare rotire, comutare tastatură</item>
         <item>Nimic</item>
     </string-array>
     <string-array name="nav_bar_layouts">
@@ -285,7 +287,7 @@
         <item>MTP (Protocol Transfer Media)</item>
         <item>PTP (Protocol Transfer Fotografii)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Sursă Audio</item>
+        <item>Sursă audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="weather_type">

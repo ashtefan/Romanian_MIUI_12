@@ -330,8 +330,11 @@
     <string name="home_screen">Ecranul principal</string>
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
     <string name="home_switch_personal_assistant">Ecran -1</string>
+    <string name="icon_customize_summary">Selectați stilul și ajustați dimensiunea</string>
+    <string name="icon_form">Pictograme</string>
     <string name="icon_reorganize_channel">Aranjați pictogramele</string>
     <string name="icon_size">Dimensiunea pictogramelor</string>
+    <string name="icon_style">Stil</string>
     <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact nevalid</string>
@@ -349,6 +352,7 @@
     <string name="launcher_slide_up_title">Glisați în sus în Ecranul principal</string>
     <string name="launcher_sliding_up_gesture">Glisați în sus pe Ecranul principal pentru a deschide căutarea</string>
     <string name="launcher_title">Ecranul principal și Recente</string>
+    <string name="lib_name">Filament Android</string>
     <string name="like">Adăugați la favorite</string>
     <string name="liked">Adăugat la favorite</string>
     <string name="loading_desktop">Doar o secundă…</string>

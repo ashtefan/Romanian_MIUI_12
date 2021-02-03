@@ -6,7 +6,7 @@
     <string name="edit_frequent_phrases">Editați frazele frecvente</string>
     <string name="frequent_phrases_des">Introduceți fraze frecvente cu doar câteva atingeri când editați un text</string>
     <string name="frequent_phrases_size_exceeded">Puteți adăuga maxim %1$d fraze frecvente. Ștergeți-le pe cele inutile pentru a putea adăuga altele.</string>
-    <string name="input_method_clipboard_add_to_phrase_success">Adăugați la fraze frecvente</string>
+    <string name="input_method_clipboard_add_to_phrase_success">Adăugată la fraze frecvente</string>
     <string name="input_method_clipboard_check_more_add_to_phrase">Adăugați o frază frecventă</string>
     <string name="input_method_clipboard_check_more_copy">Copiați</string>
     <string name="input_method_clipboard_check_more_delete">Ștergeți</string>

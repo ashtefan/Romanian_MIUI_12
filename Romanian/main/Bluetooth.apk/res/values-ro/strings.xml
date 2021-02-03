@@ -134,6 +134,8 @@
     <string name="repair_for_adv_phonebook_feature">Asociați din nou pentru Caracteristica Avansată a agendei</string>
     <string name="repair_for_phonebook_access_version_comp">Asociați din nou pentru Versiunea Compatibilitate a accesării agendei</string>
     <string name="sharedUserId" />
+    <string name="snapdragon_sound_notification_content">Acest dispozitiv suportă tehnologia Qualcomm® Snapdragon Sound™</string>
+    <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="start_server">Porniţi serverul TCP</string>
     <string name="status_canceled">Transfer anulat de către utilizator.</string>
     <string name="status_connection_error">Conectare eşuată.</string>

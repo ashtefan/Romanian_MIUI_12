@@ -368,6 +368,7 @@
     <string name="button_front_camera_title">Realizați un selfie</string>
     <string name="button_normal_video_title">Înregistrați un videoclip</string>
     <string name="camcorder_tip_8k_max_video_duration">Puteți înregistra până la 6 minute în 8K</string>
+    <string name="camcorder_tip_current_max_video_duration">Măriți rezoluția videoclipurilor %d minute la rezoluția curentă</string>
     <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_facedetection_sub_option_hint">Caracteristică experimentală</string>
@@ -390,6 +391,7 @@
     <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">Dispozitivul dvs. este supraîncălzit. Camera se va opri în %d secunde. Fotografiile și videoclipurile vor fi salvate în mod automat.</string>
     <string name="ccc_temperature_warning_title">Dispozitivul dvs. este supraîncălzit</string>
+    <string name="center_mark">Marcaj centru</string>
     <string name="clone_adjust">Ajustați</string>
     <string name="clone_copy_mode">Îngheață cadrul</string>
     <string name="clone_do_not_move_phone">Nu mișcați telefonul</string>
@@ -1326,8 +1328,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_reference_capture_title">Linii de referință</string>
     <string name="pref_camera_reference_capture_title_golden_section">Rația de aur</string>
     <string name="pref_camera_reference_capture_title_jiugongge">Grilă</string>
-    <string name="pref_camera_reference_capture_title_left_golden_spiral">Spirala aurie A</string>
-    <string name="pref_camera_reference_capture_title_right_golden_spiral">Spirala aurie B</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Spirala de aur A</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Spirala de aur B</string>
     <string name="pref_camera_referenceline_title">Afișare caroiaj</string>
     <string name="pref_camera_saturation_title">Saturaţie</string>
     <string name="pref_camera_scenemode_entry_auto">Automat</string>
@@ -1452,6 +1454,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_google_lens_summary">Îndreptați camera către informații de contact, URL-uri sau coduri QR pentru a vedea opțiunile disponibile</string>
     <string name="pref_google_lens_title">Sugestii de lentile</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimizează culorile pentru videoclipurile 4K (HDR10+) și 8K (HDR10). Această funcție funcționează doar cu dispozitivele compatibile HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Optimizează culorile și contrastul pentru videoclipuri 4K și 8K în mod automat. Videoclipurile optimizate pot fi redate doar pe dispozitive compatibile HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimizați culorile și ajustați contrastul pentru videoclipurile 4K și 8K. Această funcție funcționează numai pe dispozitive compatibile HDR10+.</string>
@@ -1676,9 +1679,11 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD este oprit</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100 MP</string>
     <string name="ultra_pixel_108mp">108 MP</string>
     <string name="ultra_pixel_32mp">32 MP</string>
     <string name="ultra_pixel_48mp">48 MP</string>
+    <string name="ultra_pixel_50mp">50 MP</string>
     <string name="ultra_pixel_64mp">64 MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD oprit</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD pornit</string>
@@ -1719,6 +1724,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_bokeh_blur">Estompare</string>
     <string name="video_bokeh_color_point">Pete de culoare</string>
     <string name="video_bokeh_spin">Rotire</string>
+    <string name="video_bokeh_zoom">Zoom</string>
     <string name="video_bokeh_zoom_in">Mărire</string>
     <string name="video_bokeh_zoom_out">Micșorare</string>
     <string name="video_camera_label">Cameră video</string>

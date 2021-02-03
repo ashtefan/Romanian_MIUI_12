@@ -74,6 +74,7 @@
     <string name="ew_detail_receive_time_title">Ora de început</string>
     <string name="ew_detail_receive_warn_time_message">%ss</string>
     <string name="ew_detail_receive_warn_time_title">Timpul înainte de start</string>
+    <string name="ew_save_title">Slvați</string>
     <string name="ew_share_logo_title">Avertizare de cutremur</string>
     <string name="ew_share_save_tips">Salvat în %s</string>
     <string name="ew_share_title">Partajați</string>
