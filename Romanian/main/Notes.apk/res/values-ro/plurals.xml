@@ -73,6 +73,10 @@
         <item quantity="other">în %d minute</item>
         <item quantity="one">într-un minut</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s elemente</item>
+        <item quantity="one">%1$s element</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>

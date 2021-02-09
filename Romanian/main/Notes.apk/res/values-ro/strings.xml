@@ -668,10 +668,10 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="todo_edit_btn_today">Astăzi</string>
     <string name="todo_edit_btn_tomorrow">Mâine</string>
     <string name="todo_edit_text_hint">Introduceți descrierea sarcinii</string>
-    <string name="todo_event_description_a_week_ago">Cu o săptămână în urmă</string>
+    <string name="todo_event_description_a_week_ago">Cu %1$d săptămână în urmă</string>
     <string name="todo_event_description_a_week_later">Într-o săptămână</string>
-    <string name="todo_event_description_day_after_tomorrow">În 2 zile</string>
-    <string name="todo_event_description_day_before_yesterday">Cu 2 zile în urmă</string>
+    <string name="todo_event_description_day_after_tomorrow">În %1$d zile</string>
+    <string name="todo_event_description_day_before_yesterday">Cu %1$d zile în urmă</string>
     <string name="todo_event_description_today">Astăzi</string>
     <string name="todo_event_description_tomorrow">Mâine</string>
     <string name="todo_event_description_yesterday">Ieri</string>
@@ -732,7 +732,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toolbar_undo_description">Anulați</string>
     <string name="toolbar_voice_description">Voce</string>
     <string name="trash_folder_name">Gunoi</string>
-    <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în 30 de zile.</string>
+    <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în %1$d de zile.</string>
     <string name="trash_folder_reminder_new">Notițele sunt păstrate în coșul de gunoi timp de %d de zile înainte de a fi șterse definitiv</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
