@@ -34,6 +34,12 @@
     <string name="add_custom_image">Imagine personalizată</string>
     <string name="add_from_album">Adăugați din Galerie</string>
     <string name="afternoon">După amiază</string>
+    <string name="align_center_horizontally">Orizontal și aliniat la centru</string>
+    <string name="align_center_vertically">Stivuite și aliniate la centru</string>
+    <string name="align_left_horizontally">Orizontal și aliniat la stânga</string>
+    <string name="align_left_vertically">Stivuite și aliniate la stânga</string>
+    <string name="align_right_horizontally">Orizontal și aliniat la dreapta</string>
+    <string name="align_right_vertically">Stivuite și aliniate la dreapta</string>
     <string name="align_type">Aliniați</string>
     <string name="always_style">Întotdeauna</string>
     <string name="always_style_symmary">Consumă mai multă energie</string>

@@ -2995,7 +2995,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_prohibit_use_camera_in_background">Limitați utilizarea camerei în fundal</string>
     <string name="pp_prohibit_use_camera_in_background_detail">Aplicațiile nu vor putea folosi camera în fundal, în mod prestabilit</string>
     <string name="pp_record_msg">Înregistrarea audio</string>
-    <string name="pp_safe_box">Spațiu de lucuru privat</string>
+    <string name="pp_safe_box">Spațiu de lucru privat</string>
     <string name="pp_safe_box_detail">Elementele private sunt criptate și stocate numai pe acest dispozitiv. Alte persoane nu le vor putea accesa în timp ce utilizează acest dispozitiv, iar dispozitivului în sine nu i se va permite să acceseze articole criptate și să le folosească în niciun fel.</string>
     <string name="pp_safe_box_summary">Protecția confidențialității</string>
     <string name="pp_safe_input_pwd">Protejați-vă parolele</string>
