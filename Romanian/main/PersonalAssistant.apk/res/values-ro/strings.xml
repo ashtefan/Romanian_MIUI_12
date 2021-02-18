@@ -593,11 +593,15 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="card_expand_note_clear_all">Goliți</string>
     <string name="card_expand_note_dialog_button">Am înțeles</string>
     <string name="card_expand_note_dialog_message">O notiță nouă este salvată de fiecare dată când apăsați butonul \"Salvare\" în Asistentul inteligent.</string>
+    <string name="card_expand_note_dialog_message_new">O notiță nouă este salvată de fiecare dată când apăsați butonul \"Salvare\" în Asistentul inteligent.</string>
     <string name="card_expand_note_dialog_title">Salvare notițe</string>
+    <string name="card_expand_note_dialog_title_new">Salvare notițe</string>
     <string name="card_expand_note_sure_clear_all">Goliți acum</string>
     <string name="card_expand_note_toast_clear_null">Golit cu succes</string>
     <string name="card_expand_note_toast_install">Instalați aplicația Note pentru a putea utiliza această caracteristică</string>
+    <string name="card_expand_note_toast_install_new">Instalați aplicația Note pentru a putea utiliza această caracteristică</string>
     <string name="card_expand_note_toast_save_done">Salvat în Notițe</string>
+    <string name="card_expand_note_toast_save_done_new">Salvat în Notițe</string>
     <string name="card_expand_note_toast_save_dup">Salvat cu succes</string>
     <string name="card_expand_note_toast_share_null">Această notiță este goală</string>
     <string name="card_hint_noteboard">Atingeți aici pentru a lua o notiță.</string>
@@ -1640,6 +1644,7 @@ Verificați numărul de urmărire."</string>
     <string name="save">Salvați</string>
     <string name="save_edit">Salvați modificările</string>
     <string name="save_to_note">Salvați în Notițe</string>
+    <string name="save_to_note_new">Salvați în Notițe</string>
     <string name="scan">Scanați</string>
     <string name="scan_app">Scanați</string>
     <string name="scan_card">Carte de vizită</string>
@@ -1925,6 +1930,7 @@ Verificați numărul de urmărire."</string>
     <string name="toast_function_add_limit">Puteți adăuga maxim %d scurtături</string>
     <string name="toast_function_remove_not_allowed">Ar trebui să adăugați cel puțin o scurtătură</string>
     <string name="toast_reach_text_limit_truncate">Notița este prea lungă. Conținutul excedentar a fost trunchiat.</string>
+    <string name="toast_reach_text_limit_truncate_new">Notița este prea lungă. Conținutul excedentar a fost trunchiat.</string>
     <string name="today">Azi</string>
     <string name="tomorrow">Mâine</string>
     <string name="total_month_desc_text">Luna aceasta</string>

@@ -739,6 +739,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
+    <string name="pref_summary_enable_ad_notification">Activați notificările de grup despre mesajele promoționale în Perdeaua de Notificări</string>
     <string name="pref_summary_enable_classify">Mutați mesajele promoționale și pe cele financiare în file separate</string>
     <string name="pref_summary_manage_sim_messages">Gestionaţi mesajele stocate pe cartela SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Descărcați fotografiile și videoclipurile din mesaje în mod automat</string>
@@ -759,6 +760,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_card_format">Formatare card partajare</string>
     <string name="pref_title_collapse_ad_notification">Grupează notificările despre mesajele promoționale</string>
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
+    <string name="pref_title_enable_ad_notification">Mesaje promoționale</string>
     <string name="pref_title_enable_classify">Grupează mesajele în mod automat</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
     <string name="pref_title_manage_sim_messages">Gestionaţi mesajele de pe cartela SIM</string>

@@ -248,6 +248,8 @@
     <string name="app_behavior_contacts_bg">%1s v-a accesat contactele în fundal</string>
     <string name="app_behavior_contacts_bg_single">Această aplicație v-a accesat contactele în fundal</string>
     <string name="app_behavior_contacts_single">Această aplicație v-a accesat contactele</string>
+    <string name="app_behavior_delete_pic">%1s a șters elemente din Galerie</string>
+    <string name="app_behavior_delete_pic_single">Această aplicație a șters elemente din Galerie</string>
     <string name="app_behavior_denied">Restricționați</string>
     <string name="app_behavior_desc_allow_once">Permis la %1$s</string>
     <string name="app_behavior_desc_deny_once">Restricționat la %1$s</string>
@@ -260,7 +262,7 @@
     <string name="app_behavior_key_camera">Realizare fotografii</string>
     <string name="app_behavior_key_location">Locație</string>
     <string name="app_behavior_key_protect">Protejare informații personale</string>
-    <string name="app_behavior_link_start">Start declanșat</string>
+    <string name="app_behavior_link_start">Pornire în lanț</string>
     <string name="app_behavior_list_load_more">Se încarcă…</string>
     <string name="app_behavior_location">%1s v-a accesat locația</string>
     <string name="app_behavior_location_bg">%1s v-a accesat locația în fundal</string>
@@ -322,8 +324,8 @@
     <string name="app_behavior_settings_category_privacy">Protejare informații personale</string>
     <string name="app_behavior_settings_perm_tips">Afișează o notificare în bara de stare atunci când aplicațiile vă accesează locația, înregistrează sunete audio sau când realizează fotografii</string>
     <string name="app_behavior_settings_privacy_tips">Afișează o notificare atunci când aplicația citește/scrie informații sensibile în fundal (contactele, istoricul de apelare, etc.)</string>
-    <string name="app_behavior_share_file">Partajați fișierul</string>
-    <string name="app_behavior_share_picture">Partajați imaginea</string>
+    <string name="app_behavior_share_file">Partajați fișiere</string>
+    <string name="app_behavior_share_picture">Partajați imagini</string>
     <string name="app_behavior_sms_read">%1s v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_read_single">Această aplicație v-a citit mesajele SMS</string>
     <string name="app_behavior_sms_send">%1s a trimis un mesaj SMS</string>
@@ -1019,6 +1021,14 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_roaming_warning_checkbox">"Nu arăta din nou"</string>
     <string name="dialog_roaming_warning_message">Operatorul vă va taxa după ce activați roamingul internațional de date. Îl activați oricum?</string>
     <string name="dialog_roaming_warning_ok">Activez</string>
+    <string name="dialog_skt_roaming_warning_cancel">Nu sunt de acord</string>
+    <string name="dialog_skt_roaming_warning_message">"Citiți și acceptați condițiile de mai jos pentru a utiliza roamingul de date. Se pot aplica taxe internaționale de roaming pentru date. Fără un plan de roaming de date, se pot aplica taxe semnificative aplicațiilor care se actualizează automat, cum ar fi aplicațiile legate de rețelele sociale, e-mail și vreme.
+ * Când nu sunteți de acord să utilizați roamingul de date, acesta va fi dezactivat.
+ * HD Voice este utilizat implicit în rețelele acceptate.
+ * Roamingul de date 5G este disponibil numai în rețelele noastre partenere.
+"</string>
+    <string name="dialog_skt_roaming_warning_ok">De acord</string>
+    <string name="dialog_skt_roaming_warning_title">Acord pentru roamingul de date</string>
     <string name="dialog_title_attention">Atenție</string>
     <string name="dialog_title_auto_start_declare">Despre pornirea automată</string>
     <string name="dialog_title_stop_virus_scan">Opriţi scanarea de securitate</string>
@@ -1325,6 +1335,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="face_unlock_verity_dialog_summary">Verificați datele faciale</string>
     <string name="face_unlock_verity_dialog_title_failed">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_verity_dialog_title_succeed">Verificat cu succes</string>
+    <string name="file_confirm_start_activity">%s nu are permisiunea de a accesa Galeria și aplicațiile de socializare. Această aplicație dorește să acceseze fișierele stocate pe acest dispozitiv pentru a partaja articole. Permiteți?</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
@@ -1519,7 +1530,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="fw_blocked_join">" și "</string>
     <string name="fw_oversea">Blochează apelurile din străinătate</string>
     <string name="fw_oversea_content">Blochează apelurile de la numere de telefon străine</string>
-    <string name="gallery_confirm_start_activity">%s încearcă să acceseze imaginile printr-o altă aplicație. Permiteți?</string>
+    <string name="gallery_confirm_start_activity">%s nu are permisiunea de a accesa Galeria și aplicațiile de socializare. Această aplicație dorește să acceseze imaginile stocate pe acest dispozitiv pentru a partaja articole. Permiteți?</string>
     <string name="game_ad_recommendation">Toată lumea joacă</string>
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
     <string name="game_booster">Jocuri Turbo</string>
@@ -2618,7 +2629,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permgroupdesc_sms">Citirea și trimiterea de SMS-uri</string>
     <string name="permgroupdesc_storage">Accesarea fotografiilor și a fișierelor din dispozitiv</string>
     <string name="permission_action_accept">Acceptaţi</string>
-    <string name="permission_action_ai_prompt">Notifică atunci când sunt utilizate permisiuni</string>
+    <string name="permission_action_ai_prompt">Decide pentru mine</string>
     <string name="permission_action_always">Permiteți întotdeauna</string>
     <string name="permission_action_desc">Acordați permisiunile dar returnează mesaje goale aplicației pentru a proteja confidențialitatea</string>
     <string name="permission_action_desc_always">Această permisiune poate fi utilizată mereu</string>
@@ -3298,6 +3309,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="prompt_input_time_illegal">"Nu se poate seta această oră; modificați-o și încercați din nou"</string>
     <string name="protocol_exception_title">Diagnosticare protocol de rețea</string>
     <string name="protocol_loop_back_exception_summary">Bucla locală de testare a eșuat. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de pe dispozitivul dvs.</string>
+    <string name="provision_back">Înapoi</string>
+    <string name="provision_next">Următorul</string>
+    <string name="provision_skip_underline">Omiteți</string>
     <string name="qucick_replay_instrument">Utilizați răspunsuri rapide în notificările aplicațiilor de mesagerie selectate (de ex. WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Scanare</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"Nu s-a putut extinde durata de viață a acumulatorului"</string>
@@ -3317,13 +3331,16 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="reach_daily_limit_value_title">S-a atins limita zilnică de utilizare a datelor</string>
     <string name="read_all_sms">Citiți-le pe toate</string>
     <string name="read_and_write_clipboard">Accesarea și salvarea elementelor din clipboard</string>
+    <string name="read_clipboard_ai_action_desc">Primiți notificări ori de câte ori este permis sau restricționat accesul</string>
     <string name="read_clipboard_ai_close_no">Nu acum</string>
     <string name="read_clipboard_ai_close_tip">Nu veți mai primi notificări când aplicațiile accesează clipboard-ul. În schimb, li se va permite să folosească această permisiune numai în timp ce utilizați aplicația. Modificați permisiunile?</string>
     <string name="read_clipboard_ai_close_yes">Modifică</string>
-    <string name="read_clipboard_op_content">În loc să acordați permisiunea numai atunci când utilizați aplicația, veți primi o notificare de fiecare dată când aplicațiile vă accesează clipboardul.</string>
+    <string name="read_clipboard_op_content">Primiți notificări ori de câte ori este permis sau restricționat accesul</string>
     <string name="read_clipboard_op_title">Notifică atunci când aplicațiile accesează elementele din clipboard</string>
     <string name="read_clipboard_tip_content">Această permisiune permite aplicațiilor să citească orice conținut pe care îl copiați, care poate include informații private (de exemplu, detalii de cont, numere de card bancar și parole).</string>
     <string name="read_clipboard_tip_title">Accesarea elementelor din clipboard</string>
+    <string name="real_location_off">Localizarea aproximativă este activă</string>
+    <string name="real_location_on">Localizarea aproximativă este inactivă</string>
     <string name="receive_now">Recepționați</string>
     <string name="recently_reject_message">Instalarea %1$s și a altor %2$d aplicații a fost respinsă</string>
     <string name="recently_reject_message_one">Solicitarea de instalare a %1$s a fost respinsă</string>

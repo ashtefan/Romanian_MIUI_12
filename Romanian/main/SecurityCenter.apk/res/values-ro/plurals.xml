@@ -221,6 +221,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Încercați Modificarea vocii acum
+pentru a obține o versiune gratuită de %d zile!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">Nu s-a putut primi varianta gratuită de încercare pentru %d zile</item>
         <item quantity="one">Nu s-a putut primi varianta gratuită de încercare pentru %d zi</item>

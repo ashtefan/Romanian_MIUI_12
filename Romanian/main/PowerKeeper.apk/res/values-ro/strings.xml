@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_extreme_mode">Modul Extrem de economisire a acumulatorului</string>
     <string name="about_hide_mode">Despre Economisirea acumulatorului în aplicații</string>
-    <string name="accessibility_service_description">Economisire inteligentă a energiei</string>
+    <string name="accessibility_service_description">Economisirea acumulatorului</string>
     <string name="action_bar_delete">Ştergeţi</string>
     <string name="action_settings">Setări</string>
     <string name="active_classify">Sortați după starea activității</string>
@@ -66,7 +66,7 @@
     <string name="config_mode_title">Setări pentru activitățile din fundal</string>
     <string name="config_no_restrict_description">"Economisirea acumulatorului nu restricționează activitățile aplicației"</string>
     <string name="config_no_restrict_title">Nicio restricție</string>
-    <string name="config_restrict_function_description">"Unele caracteristici(de ex. notificările instant) pot fi afectate, dar aplicațiile nu vor fi închise"</string>
+    <string name="config_restrict_function_description">Închide aplicațiile după 10 minute de activitate în fundal</string>
     <string name="config_restrict_function_title">Restricționați aplicațiile din fundal</string>
     <string name="config_restrict_running_description">Aplicațiile vor fi închise pentru a economisi acumulatorul</string>
     <string name="config_restrict_running_title">Restricționați activitățile din fundal</string>

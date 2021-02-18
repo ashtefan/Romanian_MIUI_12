@@ -88,6 +88,14 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">S-au găsit %1$s notițe</item>
+        <item quantity="one">S-a găsit %1$s notiță</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">S-au găsit %1$s sarcini</item>
+        <item quantity="one">S-a găsit %1$s sarcină</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d secunde rămase</item>
         <item quantity="one">%d secundă rămasă</item>

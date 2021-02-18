@@ -274,6 +274,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
         <item>Mod calitate ridicată (Implicit)</item>
@@ -284,24 +285,24 @@
         <item>Mod latență redusă</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -342,14 +343,14 @@
         <item>Cea mai bună (Bit Rate automat)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
@@ -397,6 +398,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Implicit)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Utilizați setarea prestabilită a sistemului: %1$d</item>
         <item>1</item>
@@ -413,10 +419,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Dezactivată</item>
-        <item>Filtrare activată</item>
+        <item>Filtrare</item>
         <item>Activată</item>
-        <item>\"Filtrare anteturi\" activată</item>
-        <item>\"Filtrare pachete media\" activată</item>
+        <item>Anteturi filtrate</item>
+        <item>Pachete media filtrate</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 secundă</item>
@@ -434,10 +440,17 @@
         <item>Ridicat</item>
         <item>Apăsat</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Dimensiune foarte mică a textului</item>
+        <item>Dimensiune mică a textului</item>
+        <item>Dimensiune implicită a textului</item>
+        <item>Dimensiune mare a textului</item>
+        <item>Dimensiune foarte mare a textului</item>
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Foarte mic</item>
         <item>Mic</item>
-        <item>Normal</item>
+        <item>Implicit</item>
         <item>Mare</item>
         <item>Foarte mare</item>
     </string-array>
@@ -448,7 +461,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Utilizat implict de către aplicație</item>
+        <item>Setat de către aplicație</item>
         <item>Alb pe negru</item>
         <item>Negru pe alb</item>
         <item>Galben pe negru</item>
@@ -1158,11 +1171,21 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Nu valida</item>
+        <item>Solicitați starea certificatului</item>
+        <item>Solicitați statutul certificatului</item>
+        <item>Solicitați toate stările certificatelor care nu sunt de încredere</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Niciuna</item>
         <item>Logcat</item>
         <item>Systrace (Grafic)</item>
         <item>Apelați stiva pentru glGetError</item>
+    </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>Doar LTE</item>
+        <item>GSM/WCDMA/LTE</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
@@ -1428,11 +1451,27 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Doar NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Doar GSM</item>
+        <item>Doar WCDMA</item>
+        <item>De preferat GSM/WCDMA</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Stocarea internă</item>
@@ -1572,13 +1611,13 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Oprit</item>
         <item>Toate jurnalele</item>
         <item>Toate jurnalele înafară de radio</item>
-        <item>Doar jurnalele kernel</item>
+        <item>Doar jurnalele Kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Oprit</item>
         <item>Toate</item>
         <item>Toate fără radio</item>
-        <item>Doar kernel</item>
+        <item>Doar Kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Oprit</item>
@@ -1687,6 +1726,18 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Rapidă</item>
         <item>Cea mai rapidă</item>
     </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TDSCDMA</item>
+        <item>LTE</item>
+        <item>Mod triplu</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Mod triplu</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Durată de utilizare</item>
         <item>Ultima utilizare</item>
@@ -1697,7 +1748,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>MTP (Protocol de Transfer Multimedia)</item>
         <item>PTP (Protocol de Transfer Fotografii)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Sursă Audio</item>
+        <item>Sursă audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -1737,6 +1788,9 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>IPSec Xauth PSK</item>
         <item>IPSec Xauth RSA</item>
         <item>IPSec Hybrid RSA</item>
+        <item>IKEv2/IPSec MSCHAPv2</item>
+        <item>IKEv2/IPSec PSK</item>
+        <item>IKEv2/IPSec RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -1745,6 +1799,9 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>IPSec VPN cu chei predistribuite şi autentificare Xauth</item>
         <item>IPSec VPN cu certificate şi autentificare Xauth</item>
         <item>IPSec VPN cu certificate şi autentificare hibridă</item>
+        <item>IKEv2/IPSec VPN cu certificate și autentificare nume utilizator/parolă</item>
+        <item>IKEv2/IPSec VPN cu chei predistribuite</item>
+        <item>IKEv2/IPSec VPN cu certificate</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Pornire sesiune…</item>
@@ -1770,9 +1827,20 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Date mobile</item>
         <item>Doar Wi-Fi</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>De preferat Ims</item>
+        <item>Wi-Fi</item>
+        <item>Mobil</item>
+        <item>Doar Wi-Fi</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Date mobile</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>De preferat Ims</item>
+        <item>Wi-Fi</item>
+        <item>Mobil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectare automată</item>
@@ -1805,6 +1873,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="wifi_eap_method_add_sim_for_cmcc">
         <item>PEAP</item>
         <item>SIM</item>
+    </string-array>
+    <string-array name="wifi_eap_method_target_strings">
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_eap_method_tts_strings">
+        <item>AKA prim</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automat</item>
@@ -1916,6 +1990,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Fără succes</item>
         <item>Blocat</item>
         <item>Se evită temporar conexiunile slabe</item>
+    </string-array>
+    <string-array name="wifi_ttls_phase2_entries">
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
