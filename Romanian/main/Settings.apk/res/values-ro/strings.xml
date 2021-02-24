@@ -3860,7 +3860,6 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="keywords_sounds_and_notifications_interruptions">"nu deranjați întrerupe întrerupere pauză"</string>
     <string name="keywords_spell_checker">ortografie</string>
     <string name="keywords_storage">spațiu, disc, hard disk, utilizare dispozitiv</string>
-    <string name="keywords_storage">spațiu disc HDD</string>
     <string name="keywords_storage_files">Descărcare</string>
     <string name="keywords_storage_menu_free">curățare, stocare</string>
     <string name="keywords_storage_settings">memorie, cache, date, ștergere, golire, liber, spațiu</string>
@@ -8109,7 +8108,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usagestats_device_notification_des_over">Ați ajuns deja la limita de timp a ecranului.</string>
     <string name="usagestats_device_notification_des_reset">Limita de azi: %1$s | %2$s rămas</string>
     <string name="usagestats_device_notification_title">Alertă durată de utilizare</string>
-    <string name="usagestats_device_timeout_des">Astăzi ați utilizat dispozitivul timp de %dh și %dm. Odihniți-vă!</string>
+    <string name="usagestats_device_timeout_des">"Astăzi ați utilizat dispozitivul timp de %dh și %dm. Odihniți-vă!"</string>
     <string name="usagestats_device_timeout_negative">Reaminteşte-mi într-o oră</string>
     <string name="usagestats_device_timeout_positive">Am înțeles</string>
     <string name="usagestats_device_timeout_title">Alertă durată de utilizare</string>
