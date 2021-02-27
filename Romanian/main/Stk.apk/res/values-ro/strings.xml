@@ -34,7 +34,7 @@
     <string name="button_ok">OK</string>
     <string name="button_yes">Da</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
-    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chip_text">Fragment de text</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
