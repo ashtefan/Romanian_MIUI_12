@@ -47,7 +47,7 @@
     <string name="activate_popup_desc_2_intl_sim_cards">2 mesaje text internaţionale vor fi trimise pentru activarea %s (TARIFARE DE LA OPERATOR!). </string>
     <string name="activate_popup_desc_2_intl_sim_cards_msg">Pentru a activa %2$s, %1$d SMS internațional va fi trimis. Operatorul vă va taxa pentru aceste mesaje.</string>
     <string name="activate_popup_desc_2_sim_cards">2 mesaje text vor fi trimise pentru activarea %s (TARIFARE DE LA OPERATOR!). </string>
-    <string name="activate_popup_desc_2_sim_cards_msg">Pentru a activa %2$s, %1$d SMS obișnuit va fi trimis. Operatorul vă va taxa pentru aceste mesaje.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg">Pentru a activa %2$s, %1$d SMS obișnuite vor fi trimise. Operatorul vă va taxa pentru aceste mesaje.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Nu se poate găsi numărul de telefon. Asigurați-vă că a fost activată cartela SIM.
 Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nu s-a putut trimite un mesaj de activare. Asigurați-vă că a fost activată cartela SIM.

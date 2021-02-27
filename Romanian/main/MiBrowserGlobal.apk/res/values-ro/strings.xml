@@ -1659,7 +1659,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="pref_site_settings_reset">Ștergeți și resetați</string>
     <string name="pref_site_settings_reset_confirmation">Ștergeți datele acestui site (inclusiv cookie-urile) și resetați acum permisiunile?</string>
     <string name="pref_site_settings_site">Site</string>
-    <string name="pref_site_settings_title">Setări site</string>
+    <string name="pref_site_settings_title">Setări site-uri</string>
     <string name="pref_title_dns_prefetch">Pre-preluare DNS</string>
     <string name="pref_ua_string">Agent utilizator</string>
     <string name="pref_version_info">Informaţii despre versiune</string>
@@ -1929,10 +1929,10 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="source_cancel">X</string>
     <string name="source_dislike">Nu-mi place</string>
     <string name="source_dislike_not_trans">Nu-mi place</string>
-    <string name="speed_test_download">Descărcați</string>
+    <string name="speed_test_download">Descărcare</string>
     <string name="speed_test_no_network">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="speed_test_ping">Întârziere</string>
-    <string name="speed_test_upload">Încărcați</string>
+    <string name="speed_test_upload">Încărcare</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_bad_expired_warning">Acest canal este furnizat de %1$s. Cu toate acestea, data și ora setate pe dispozitivul dvs.(%2$s) nu permit stabilirea unei conexiuni sigure cu %1$s. Puteți seta data și ora corecte sau atingeți \"Continuați\" dacă doriți în continuare să utilizați acest canal.</string>
@@ -2069,7 +2069,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="translate">Traduceți</string>
     <string name="translate_cur_page">Traduceți această pagină?</string>
     <string name="translate_into">Traduceți în</string>
-    <string name="translate_page">Traduceți pagina</string>
+    <string name="translate_page">Traducere pagină</string>
     <string name="translation_other">Alte limbi</string>
     <string name="translation_query_error">Traducerea nu este acceptată pentru limba selectată.</string>
     <string name="translation_query_error_network">Nu s-a putut traduce. Verificați conexiunea la rețea și încercați din nou.</string>

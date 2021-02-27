@@ -696,6 +696,7 @@ mm"</string>
     <string name="personalize_charge_style_title">Încărcare</string>
     <string name="personalize_default_font">Font implicit</string>
     <string name="personalize_fingerprint_style_title">Amprentă</string>
+    <string name="personalize_font_demo_content">Aa</string>
     <string name="personalize_icon_title">Pictograme</string>
     <string name="personalize_notify_ringtone_title">Notificări</string>
     <string name="personalize_notify_style_title">Efecte</string>
@@ -1056,6 +1057,8 @@ Veți vedea o nouă imagine în fiecare oră."</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="super_wallpaper">Super imagini de fundal</string>
+    <string name="super_wallpaper_download_progress">%1$d%%</string>
+    <string name="super_wallpaper_list_footer_text">Rămâneți la curent cu noile noastre versiuni!</string>
     <string name="super_wallpaper_list_label">Super imagini de fundal</string>
     <string name="super_wallpaper_setting_apply_success_toast">Aplicată cu succes</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicați</string>

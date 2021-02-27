@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Chitară acustică</string>
+    <string name="africaanimals_preview">Savana</string>
     <string name="alarmclock">Alarmă</string>
+    <string name="amazonanimals_preview">Pădure tropicală</string>
     <string name="android_ringtone_default_with_actual">Ton de apel prestabilit (%1$s)</string>
     <string name="android_ringtone_silent">Niciunul</string>
     <string name="android_ringtone_unknown">Ton de apel necunoscut</string>
+    <string name="arcticanimals_preview">Arctica</string>
     <string name="asend">Trimiteți</string>
     <string name="atlantis">Atlantis (stereo)</string>
+    <string name="australiaanimals_preview">Australia</string>
     <string name="beep">Beep</string>
     <string name="bells">Clopoței</string>
-    <string name="birdcicada_preview">Sunete din natură 2</string>
+    <string name="birdcicada_preview">Păsări și licurici</string>
     <string name="blues">Blues</string>
     <string name="bottle">Sticlă</string>
     <string name="breeze">Adiere</string>
@@ -125,8 +129,10 @@ mm"</string>
     <string name="reveries">Reverii (stereo)</string>
     <string name="robot">Robot</string>
     <string name="secretgarden">Grădina secretă</string>
+    <string name="southwestmountain_preview">Munți</string>
     <string name="spaceage">Era spatiala</string>
     <string name="spring">Primăvară</string>
+    <string name="stoneskimming_preview">Pași lenți</string>
     <string name="sunrise">Răsărit</string>
     <string name="surprise">Surpriză</string>
     <string name="swoosh">Swoosh</string>
@@ -150,7 +156,7 @@ mm"</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitatea din Arizona</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="wallpaper_group_sgn_mountain_title">Muntele Siguniang</string>
-    <string name="waterdrop_preview">Natură - Stropi</string>
+    <string name="waterdrop_preview">Stropi</string>
     <string name="windchime">Adieri de vânt</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nu se pot trimite mesaje în modul Vizitator"</string>

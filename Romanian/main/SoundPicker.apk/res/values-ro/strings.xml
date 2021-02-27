@@ -27,14 +27,16 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
-    <string name="app_name">CQR</string>
-    <string name="close">Închideți</string>
-    <string name="close_hit_again">Apăsați din nou pentru a părăsi ecranul</string>
-    <string name="important_ration_info">Informații importante</string>
-    <string name="no_important_ration_info">Informații depanare</string>
-    <string name="qr_load">Se încarcă... Vă rugăm să așteptați...</string>
-    <string name="qualitative_info">Informații calitative</string>
-    <string name="qualitative_title">Informații de consistență</string>
-    <string name="ration_title">Informații clasă ID</string>
+    <string name="add_alarm_text">Adăugați o alarmă</string>
+    <string name="add_notification_text">Adăugați o notificare</string>
+    <string name="add_ringtone_text">Adăugați un sunet de apel</string>
+    <string name="alarm_sound_default">Sunet implicit alarmă</string>
+    <string name="app_label">Sunete</string>
+    <string name="delete_ringtone_text">Ștergeți</string>
+    <string name="notification_sound_default">Sunet implicit pentru notificări</string>
+    <string name="ringtone_default">Sunet de apel implicit</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unable_to_add_ringtone">Nu s-a putut adăuga un sunet de apel personalizat</string>
+    <string name="unable_to_delete_ringtone">Nu s-a putut șterge sunetul de apel personalizat</string>
 </resources>

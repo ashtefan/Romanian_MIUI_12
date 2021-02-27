@@ -28,7 +28,7 @@
     <string name="autofill">Completare automată</string>
     <string name="autofill_save_message">Permiteți MIUI să salveze informațiile conturilor și parolele?</string>
     <string name="autofill_save_ok">Permiteți</string>
-    <string name="autofill_save_sub_message">Puteți vedea și gestiona parolele în Setări > Parole și Securitate > %s.</string>
+    <string name="autofill_save_sub_message">Veți putea gestiona parolele salvate în Setări > Parole și Securitate > %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
     <string name="back_double_tap">nimic</string>
@@ -108,6 +108,8 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activați</string>
     <string name="fp_nav_center_action_choose_dlg_title">Activați Apăsarea scurtă a butonului Acasă</string>
+    <string name="freeform_exchange_tip">Eliberați pentru a deschide aplicația</string>
+    <string name="freeform_exchange_tip2">Trageți către colț pentru a anula</string>
     <string name="frequent_email">E-mailuri utilizate frecvent</string>
     <string name="frequent_phrases">Expresii frecvente</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Fiți pe fază!</string>
@@ -153,6 +155,8 @@
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spaţiu</string>
     <string name="knock_gesture_v">nimic</string>
+    <string name="knock_long_press_horizontal_slid">nimic</string>
+    <string name="knock_slide_shape">nimic</string>
     <string name="livetalk_not_enable">Pachetul de suplinire este dezactivat</string>
     <string name="location_usage_restricted_body">Atingeți pentru a permite.</string>
     <string name="location_usage_restricted_title">Localizarea în fundal restricționată</string>
@@ -160,6 +164,7 @@
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_detected">Model finalizat</string>
     <string name="lockscreen_access_pattern_start">Model început</string>
+    <string name="magic_window_toast">Multiplicator Aplicație activat.</string>
     <string name="maml_component_customization_title">Setări</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -247,7 +252,7 @@
     <string name="screen_on_proximity_sensor_summary">Nu acoperiți zona difuzorului</string>
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar/poșetă</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
-    <string name="screen_rotation_freeze_message">Orientare ecran blocată în modul peisaj</string>
+    <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
     <string name="screenshot_gesture_detect_alert_button">Activați din Setări</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Nu arăta din nou</string>
     <string name="screenshot_gesture_detect_alert_msg">Glisați în jos cu 3 degete simultan pentru a realiza o captură de ecran?</string>
@@ -291,9 +296,9 @@
     <string name="status_bar_toggle_auto_brightness">Luminozitate</string>
     <string name="status_bar_toggle_battery_saver">Economisire acumulator</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_cast">Proiectați</string>
+    <string name="status_bar_toggle_cast">Proiectare</string>
     <string name="status_bar_toggle_data">Date mobile</string>
-    <string name="status_bar_toggle_edit">Sortare</string>
+    <string name="status_bar_toggle_edit">Sortați</string>
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Blocare</string>
@@ -303,7 +308,7 @@
     <string name="status_bar_toggle_paper_mode">Mod lectură</string>
     <string name="status_bar_toggle_power_mode">Performanţă</string>
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
-    <string name="status_bar_toggle_rotate">Blocare orientare</string>
+    <string name="status_bar_toggle_rotate">Blocare rotire</string>
     <string name="status_bar_toggle_screen_button">Butoane</string>
     <string name="status_bar_toggle_screenshot">Captură ecran</string>
     <string name="status_bar_toggle_sync">Sincronizare</string>

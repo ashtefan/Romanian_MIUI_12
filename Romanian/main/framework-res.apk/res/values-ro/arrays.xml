@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="config_backGestureInsetScales">
+        <item>0,75</item>
+        <item>1,0</item>
+        <item>1,33</item>
+        <item>1,66</item>
+    </array>
+    <string-array name="config_globalActionsList">
+        <item>urgență</item>
+        <item>carantină</item>
+        <item>energie</item>
+        <item>repornire</item>
+        <item>deconectare</item>
+        <item>raportare probleme</item>
+    </string-array>
     <string-array name="emailAddressTypes">
         <item>Domiciliu</item>
         <item>Serviciu</item>

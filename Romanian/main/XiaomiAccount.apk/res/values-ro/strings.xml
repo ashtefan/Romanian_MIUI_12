@@ -193,6 +193,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="diagnosis_log_sent_format">"Jurnal trimis cu succes.
 ID:%s
 Trimmiteți acest cod supervizorului."</string>
+    <string name="download_file">Se descarcă %s…</string>
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
     <string name="ep_unsupported">Dispozitivul dvs. nu suportă conectarea la contul Xiaomi</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Mi.</string>
@@ -435,6 +436,10 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_prev">Înapoi</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
     <string name="passport_privacy_policy_required">Politica de confidențialitate (obligatoriu)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Datele dvs. personale vor fi stocate în conformitate cu legile și reglementările din regiunea pe care o selectați.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caractere de cel puțin <xliff id="min_pwd_type" refersto="2">%3$d</xliff> următoarele tipuri: litere, cifre, simboluri speciale</string>
     <string name="passport_pwd_generate_failure">Nu s-a putut genera parola</string>
     <string name="passport_pwd_generating">Se generează…</string>
     <string name="passport_querying_phone_info">Se solicită informații despre cont…</string>
@@ -471,6 +476,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
     <string name="passport_register_using_other_ways">Alte modalități de a crea un cont</string>
     <string name="passport_registered_phone_num">Telefon: %s</string>
+    <string name="passport_registered_phone_num_v2">Numărul de telefon</string>
     <string name="passport_registered_phone_user_ID">ID utilizator: %s</string>
     <string name="passport_registered_phone_user_name">Nume utilizator: %s</string>
     <string name="passport_reject_recycle_account">Nu</string>
@@ -557,6 +563,9 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="provision_back">Înapoi</string>
+    <string name="provision_next">Următorul</string>
+    <string name="provision_skip_underline">Omiteți</string>
     <string name="push_notification_content">Obțineți codul de verificare</string>
     <string name="push_notification_title">V-ați conectat la contul Mi de pe un dispozitiv necunoscut</string>
     <string name="push_notify_dialog_message">Un dispozitiv necunoscut este folosit pentru conectarea la contul dumneavoastră Mi. Introduceți acest cod de verificare pe dispozitiv. Dacă nu ați fost dumneavoastră, schimbați parola contului Mi imediat. Nu transmiteți codul de verificare altor persoane.</string>
