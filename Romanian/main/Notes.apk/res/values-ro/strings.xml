@@ -635,6 +635,10 @@
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="sync_all_terms">%1$s, %2$s și %3$s</string>
+    <string name="sync_desc_state_complete">Sincronizat în cloud</string>
+    <string name="sync_desc_state_complete_china">Toate %1$s au fost sincronizate</string>
+    <string name="sync_desc_state_disable">Activați sincronizarea în cloud</string>
+    <string name="sync_desc_state_running">Se sincronizează în cloud</string>
     <string name="sync_folder_todo">%1$s și %2$s</string>
     <string name="sync_note_folder">%1$s și %2$s</string>
     <string name="sync_note_todo">%1$s și %2$s</string>

@@ -501,6 +501,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_request_permission_title">Xiaomi Cloud necesită acordarea unor permisiuni</string>
     <string name="micloud_request_sync_too_frequent">Prea multe solicitări. Așteptați un minut sau două și încercați din nou.</string>
     <string name="micloud_setting_antispam_summary">Excepții și numere de telefon blocate</string>
+    <string name="micloud_setting_bluetooth_summary">Sincronizați informațiile despre dispozitivele asociate în cloud</string>
     <string name="micloud_setting_browser_summary">Marcaje, istoric şi file</string>
     <string name="micloud_setting_calendar_summary">Evenimente</string>
     <string name="micloud_setting_calllog_summary">Istoric de apelare</string>

@@ -144,6 +144,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Se asociază Ajutorul Ascultare dreapta…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectat la dispozitivul de intrare</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizat pentru intrare</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectat la LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilizat pentru LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Conectat la MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectat la serverul de transfer de fișiere</string>
@@ -172,6 +174,7 @@
     <string name="bluetooth_profile_headset">Apeluri</string>
     <string name="bluetooth_profile_hearing_aid">Ajutor Ascultare</string>
     <string name="bluetooth_profile_hid">Dispozitiv de intrare</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Utilizat pentru accesul la mesaje</string>
     <string name="bluetooth_profile_opp">Transfer de fișiere</string>
     <string name="bluetooth_profile_pan">Acces la internet</string>

@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Minute rămase: %1$s naționale sau %2$s internaționale</string>
     <string name="always">Întotdeauna</string>
     <string name="alwaysUsePrompt">Se memorează această alegere</string>
+    <string name="application_cannot_open_alipay_health_code">Nu s-a putut deschide codul de sănătate Alipay</string>
     <string name="application_cannot_open_alipay_payment_code">Nu s-a putut accesa codul de plată Alipay</string>
     <string name="application_cannot_open_alipay_scanner">Nu s-a putut accesa scanerul Alipay</string>
+    <string name="application_cannot_open_weixin_health_code">Nu s-a putut deschide codul de sănătate WeChat</string>
     <string name="application_cannot_open_weixin_payment_code">Nu s-a putut accesa codul de plată WeChat</string>
     <string name="application_cannot_open_weixin_scanner">Nu s-a putut accesa scanerul WeChat</string>
     <string name="application_not_install_content">Se pare că aplicația care realizează această acțiune nu este instalată pe dispozitivul dumneavoastră. Puteți instala această aplicație sau să atribuiți o altă acțiune pentru acest gest.</string>

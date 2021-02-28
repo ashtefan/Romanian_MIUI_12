@@ -144,6 +144,7 @@
     <string name="accessibility_preview_effect_button">Efect previzualizare</string>
     <string name="accessibility_preview_expand">Mărire</string>
     <string name="accessibility_preview_front">Previzualizare cameră frontală</string>
+    <string name="accessibility_preview_remote">Previzualizare înregistrare telefon dual</string>
     <string name="accessibility_preview_select_tip">Poziția %1$d</string>
     <string name="accessibility_preview_selected">Selectată</string>
     <string name="accessibility_preview_shrink">Micșorare</string>
@@ -546,6 +547,15 @@
     <string name="custom_watermark_words_save_success">Salvat cu succes</string>
     <string name="dd_f_t">xxxxxxx</string>
     <string name="dd_unf_t">xxxxxxxxxxxxx</string>
+    <string name="dialog_button_accept">Accept</string>
+    <string name="dialog_button_back">Înapoi</string>
+    <string name="dialog_button_cancel">Renunțați</string>
+    <string name="dialog_button_connect">Conectați-vă</string>
+    <string name="dialog_button_disconnect">Ieșire</string>
+    <string name="dialog_button_exit">Dezactivați</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_reject">Respingeți</string>
+    <string name="dialog_button_scan">Căutați dispozitive</string>
     <string name="dialog_google_lens_option_0">Lentile Google (Recomandat)</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">OK (%ds)</string>
@@ -861,6 +871,7 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_eyebrow_shape">Forma sprâncenelor</string>
     <string name="mimoji_eyeglass">Ochelari</string>
     <string name="mimoji_eyelash">Gene</string>
+    <string name="mimoji_eyelid">Pleoape</string>
     <string name="mimoji_featured_face">Chip</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Pistrui</string>
@@ -952,6 +963,12 @@ să pară mai mari în fotografii"</string>
     <string name="network_access_user_notice_message_sticker"><Data>Aplicația Cameră trebuie să se conecteze la internet pentru a furniza stickere pentru această caracteristică.&lt;br/>&lt;br/>Atingând butonul \"De acord\" de mai jos, acceptați &lt;a href =%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href =%2$s>Politica noastră de Confidențialitate&lt;/a> și permiteți conectarea la internet a aplicației.</Data></string>
     <string name="network_access_user_notice_message_voice_caption"><Data>Aplicația Cameră trebuie să se conecteze la internet pentru a furniza funcționalitatea de transformare vorbire-în-text.&lt;br/>&lt;br/>Atingând butonul \"De acord\" de mai jos, acceptați &lt;a href =%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href =%2$s>Politica noastră de Confidențialitate&lt;/a> și permiteți conectarea la internet a aplicației.</Data></string>
     <string name="network_access_user_notice_title">Se conectează la internet</string>
+    <string name="network_connection_failed">Nu s-a putut conecta</string>
+    <string name="network_connection_ongoing">Se conectează…</string>
+    <string name="network_connection_prerequisites">Porniți Bluetooth și Wi-Fi pentru a putea utiliza înregistrarea telefon dual.</string>
+    <string name="network_connection_prerequisites_china">Porniți Bluetooth și Wi-Fi pentru a putea utiliza înregistrarea telefon dual.</string>
+    <string name="network_connection_rejected">Respinsă</string>
+    <string name="network_connection_timed_out">Conexiunea a expirat</string>
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Stocarea internă este plină</string>
     <string name="not_set">Nesetat</string>
@@ -1490,6 +1507,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_module_settings">Moduri</string>
     <string name="pref_more_mode_style_title">Moduri Cameră</string>
     <string name="pref_multi_camera_dual_video_front">Camera frontală</string>
+    <string name="pref_multi_camera_dual_video_remote">Înregistrare telefon dual</string>
     <string name="pref_n_s_a">Setări audio</string>
     <string name="pref_n_s_o_l">Pornit</string>
     <string name="pref_n_s_o_m">Oprit</string>
@@ -1526,6 +1544,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_super_night_se_title">Mod noapte automat</string>
     <string name="pref_userdefine_watermark_title">Amprentă personalizată</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
+    <string name="pref_video_cast_setting_summary">Porniți pentru a putea înregistra un videoclip cu mai multe dispozitive</string>
+    <string name="pref_video_cast_setting_title">Înregistrare telefon dual</string>
     <string name="pref_video_denoise_off">Oprită</string>
     <string name="pref_video_denoise_on">Pornită</string>
     <string name="pref_video_denoise_title">Filtrare zgomot</string>
@@ -1594,6 +1614,19 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="recommend_soft_light_tip">Activați blițul</string>
     <string name="recommend_super_night">Încercați modul Nocturn</string>
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
+    <string name="remote_online_connecting">Selectați dispozitivul de conectat</string>
+    <string name="remote_online_disconnect_confirmation">Anulați conectarea la %1$s?</string>
+    <string name="remote_online_exit_confirmation">Dezactivați înregistrarea telefon dual acum?</string>
+    <string name="remote_online_exit_connecting">Deconectați și ieșiți din înregistrarea telefon dual acum?</string>
+    <string name="remote_online_guide">Porniți Înregistrarea telefon dual pe celălalt dispozitiv folosind comutatorul din centrul de control.</string>
+    <string name="remote_online_interrupted">Deconectat. Conectați-vă din nou pentru a continua.</string>
+    <string name="remote_online_introduction_i">Înregistrarea telefon dual permite combinarea fluxurilor de la două dispozitive diferite într-un singur videoclip. Veți putea previzualiza ambele fluxuri și videoclipul final de pe acest dispozitiv. Rețineți că sunetul va fi înregistrat numai de acest dispozitiv.</string>
+    <string name="remote_online_introduction_ii">Pentru ca această funcție să funcționeze, celălalt dispozitiv Mi sau Redmi trebuie să accepte înregistrarea telefon dual. Poate fi activată folosind comutatorul din centrul de control.</string>
+    <string name="remote_online_searching">Se caută dispozitive…</string>
+    <string name="remote_online_service_name">Înregistrare telefon dual</string>
+    <string name="remote_online_unavailable">Nu s-au găsit dispozitive în apropiere</string>
+    <string name="remote_online_waiting">Se așteaptă conectarea celuilalt dispozitiv…</string>
+    <string name="remote_online_whats">Cum funcționează Înregistrarea telefon dual?</string>
     <string name="reset_manual_picture_style_toast">Parametri resetați cu succes</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Resetați</string>
@@ -1689,7 +1722,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="timer_burst_manu_param_interval">Interval de timp fără expunere</string>
     <string name="timer_burst_param_interval">Interval de timp</string>
     <string name="timer_burst_param_total_count">Numărul de fotografii</string>
-    <string name="timer_burst_setting_total_count">Contor: %1$s</string>
+    <string name="timerburst_pressed_hint">Apăsați din nou pentru a opri</string>
     <string name="title_snap_double_confirm">Confirmați din nou</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
     <string name="toast_saving">Salvare fotografii…</string>
@@ -1747,6 +1780,16 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_bokeh_zoom_in">Mărire</string>
     <string name="video_bokeh_zoom_out">Micșorare</string>
     <string name="video_camera_label">Cameră video</string>
+    <string name="video_cast_connecting">Se conectează…</string>
+    <string name="video_cast_exit_confirmation">Ieșiți acum?</string>
+    <string name="video_cast_exit_warning">Fluxul dvs. nu va fi disponibil pentru celălalt dispozitiv.</string>
+    <string name="video_cast_inviting">%1$s dorește să utilizeze înregistrarea telefon dual cu acest dispozitiv.</string>
+    <string name="video_cast_notification_content">Apăsați pentru a opri</string>
+    <string name="video_cast_notification_title">Folosirea mai multor camere în fundal…</string>
+    <string name="video_cast_service_error">Nu s-a putut activa înregistrarea cu telefon dual în fundal</string>
+    <string name="video_cast_service_name">Telefon dual</string>
+    <string name="video_cast_state_exited">S-a ieșit din înregistrarea cu telefon dual</string>
+    <string name="video_cast_state_paused">În pauză</string>
     <string name="video_effect_entry_blackwhite">Alb-negru</string>
     <string name="video_effect_entry_bygone">Trecut</string>
     <string name="video_effect_entry_central">Central</string>

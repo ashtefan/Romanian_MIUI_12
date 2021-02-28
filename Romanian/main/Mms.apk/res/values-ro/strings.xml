@@ -842,6 +842,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="rcs_chat_bot_subject">Proprietar: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Ați primit un mesaj A2P. Atingeți pentru a vedea detalii.</string>
     <string name="rcs_chatbot_audio_message">Ați primit un mesaj audio. Atingeți pentru a vedea detalii.</string>
+    <string name="rcs_chatbot_blocked_tip">Această miniaplicație a fost blocată. Nu se poate porni conversația.</string>
     <string name="rcs_chatbot_card_message">Ați primit un card. Atingeți pentru a vedea detalii.</string>
     <string name="rcs_chatbot_file_message">Ați primit un fișier. Atingeți pentru a vedea detalii.</string>
     <string name="rcs_chatbot_geo_message">Ați primit un mesaj ce conține informații de localizare. Atingeți pentru a vedea detalii.</string>

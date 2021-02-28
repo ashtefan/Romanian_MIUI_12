@@ -1247,6 +1247,8 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_is_discoverable">Vizibil pt. dispoz. Bluetooth din aprop. (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Activ: Acest dispozitiv este vizibil pentru toate dispozitivele Bluetooth din apropiere</string>
     <string name="bluetooth_is_visible_message">%1$s este vizibil pentru dispozitivele din apropiere atunci când se accesează setările Bluetooth.</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectat la LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilizat pentru LE_AUDIO</string>
     <string name="bluetooth_left_name">Stânga</string>
     <string name="bluetooth_lock_voice_dialing">Blocaţi apelarea vocală</string>
     <string name="bluetooth_lock_voice_dialing_summary">Împiedicaţi apelarea prin Bluetooth atunci când este blocat ecranul</string>
@@ -1325,6 +1327,7 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_profile_headset">Componenta audio a telefonului</string>
     <string name="bluetooth_profile_hearing_aid">Ajutor ascultare</string>
     <string name="bluetooth_profile_hid">Dispozitiv de intrare</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Utilizat pentru accesarea mesajelor</string>
     <string name="bluetooth_profile_opp">Transfer de fişiere</string>
     <string name="bluetooth_profile_pan">Acces internet</string>
@@ -1470,7 +1473,7 @@ Selecție"</string>
     <string name="bootloader_status_locked">Blocat</string>
     <string name="bootloader_status_locked_info">Acest telefon este blocat</string>
     <string name="bootloader_status_locked_summary">Telefonul este securizat</string>
-    <string name="bootloader_status_privacy_dialog_message">Deblocarea Mi trebuie să vă acceseze contul Mi, CPU ID, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Deblocarea Mi trebuie să vă acceseze contul Mi, CPU ID, IMSI pentru a funcționa în mod normal. Citiți și acceptați &lt;a href=\"%1$s\">Politica noastră de Confidențialitate&lt;/a>. Sunteți de acord?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Renunțați</string>
     <string name="bootloader_status_privacy_dialog_title">Permisiuni necesare</string>
     <string name="bootloader_status_privacy_dialog_url_text">Politica noastră de Confidențialitate</string>
@@ -1793,12 +1796,12 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="color_game_led_game_mode_summary">Afișează efectele pentru jocuri atunci când Jocuri Turbo este activ</string>
     <string name="color_game_led_game_mode_title">Utilizați pentru Jocuri Turbo</string>
     <string name="color_game_led_incall_pulse_title">Utilizați pentru apelurile primite</string>
-    <string name="color_game_led_notification_pulse_title">Pulsează pentru notificări când ecranul este oprit</string>
-    <string name="color_game_led_remind_title">Efecte memento</string>
+    <string name="color_game_led_notification_pulse_title">Pulsează pentru notificări în Afișajul activ permanent</string>
+    <string name="color_game_led_remind_title">Efecte</string>
     <string name="color_game_led_special_scene_title">Efecte speciale</string>
-    <string name="color_game_led_start_time">Ora de început</string>
+    <string name="color_game_led_start_time">Pornire</string>
     <string name="color_game_led_summary">Nu funcționează în modul Nu deranjați</string>
-    <string name="color_game_led_time_title">Lumina LED-ului activă în timp</string>
+    <string name="color_game_led_time_title">Programați pornirea</string>
     <string name="color_game_led_title">Lumina LED-ului</string>
     <string name="color_gray">Gri</string>
     <string name="color_green">Verde</string>
@@ -1812,7 +1815,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="color_led_applications_title">Selectați aplicațiile</string>
     <string name="color_led_applications_title_summary">Puteți restricționa utilizarea LED-ului pentru aplicații individuale</string>
     <string name="color_led_battery_title">Mențineți activ pe durata încărcării</string>
-    <string name="color_led_charging_summary">Va fi dezactivat când acumulatorul este încărcat complet</string>
+    <string name="color_led_charging_summary">Va fi dezactivat când acumulatorul este încărcat</string>
     <string name="color_led_end_time">Ora de oprire</string>
     <string name="color_led_game_mode_summary">Afișează efectele pentru jocuri când este activat modul Jocuri Turbo</string>
     <string name="color_led_game_mode_title">Utilizați pentru Jocuri Turbo</string>
@@ -2463,8 +2466,8 @@ Pentru a încerca să remediați această problemă, puteți opri %1$s și preve
     <string name="dialog_check_button_negative">Încercați din nou</string>
     <string name="dialog_check_button_positive">Conectați-vă la Wi-Fi</string>
     <string name="dialog_check_context">"Dispozitivul dvs. nu se poate conecta la internet acum.
-1. Apăsați \"Conectați-vă la Wi-Fi\" pentru a selecta una din rețelele disponibile.
-2. Dacă doriți să utilizați datele mobile, apăsați \"Încercați din nou\" sau scoateți și introduceți cartela SIM."</string>
+· Apăsați \"Conectați-vă la Wi-Fi\" pentru a selecta una din rețelele disponibile.
+· Dacă doriți să utilizați datele mobile, apăsați \"Încercați din nou\" sau scoateți și introduceți cartela SIM."</string>
     <string name="dialog_check_title">Nu se poate conecta la internet</string>
     <string name="dialog_chose_item">Selectați un element de afișat</string>
     <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
@@ -2670,7 +2673,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dpp_cannot_connect_target">Nu se poate conecta la rețeaua țintă</string>
     <string name="dpp_connect_success">Conectat cu succes</string>
     <string name="dpp_not_support">Nu se poate partaja această rețea</string>
-    <string name="dpp_qr_code_summary">Conectați-vă la o rețea Wi-Fi prin scanarea acestui cod QR.</string>
+    <string name="dpp_qr_code_summary">Rugați cealaltă persoană să scaneze acest cod QR utilizând scanerul din setările Wi-Fi</string>
     <string name="dpp_qrcode_generator_summary">Scanați acest cod QR cu un dispozitiv care suportă funcția Easy Connect</string>
     <string name="dpp_scanner_summary">Plasați codul QR în interiorul ramei</string>
     <string name="dpp_shared_fail">Nu s-a putut partaja rețeaua Wi-Fi</string>
@@ -2939,6 +2942,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="expandable_under_keyguard_title">Afișează în Blocarea ecranului</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
+    <string name="expert_detail_content_description">Vedeți detalii</string>
     <string name="extended_power_menu">Meniu extins de repornire</string>
     <string name="exterior">Schema de culori</string>
     <string name="external_code_size_label">Aplicaţie pe stocarea USB</string>
@@ -3908,6 +3912,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
     <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
+    <string name="launch_alipay_health_code">Cod sănătate Alipay</string>
+    <string name="launch_alipay_health_code_auto_close">Comanda rapidă pentru codul de sănătate Alipay nu mai este disponibilă. Puteți comuta la o altă comandă rapidă.</string>
     <string name="launch_alipay_payment_code">Cod de plată Alipay</string>
     <string name="launch_alipay_scanner">Scaner Alipay</string>
     <string name="launch_by_default">Deschide ca implicit</string>
@@ -3925,6 +3931,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="launch_notification_center">Perdeaua de notificări</string>
     <string name="launch_recents">Lansați Recente</string>
     <string name="launch_voice_assistant">Lansează asistentul vocal</string>
+    <string name="launch_wechat_health_code">Cod sănătate WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">Comanda rapidă pentru codul de sănătate WeChat nu mai este disponibilă. Puteți trece la o altă comandă rapidă.</string>
     <string name="launch_wechat_payment_code">Cod de plată WeChat</string>
     <string name="launch_wechat_scanner">Scaner WeChat</string>
     <string name="launch_wifi_text">Vedeți detalii</string>
@@ -4623,7 +4631,7 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_lab_install_drive_mode_title">Instalați modul Auto</string>
     <string name="miui_lab_settings">Laborator MIUI</string>
     <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
-    <string name="miui_master_clear_prompt_battery_low">Nu se poate face o renirela setările din fabrică dacă aveți mai puțin de %1$s acumulator disponibil. Încărcați dispozitivul înainte de a continua.</string>
+    <string name="miui_master_clear_prompt_battery_low">Nu se poate face o revenire la setările din fabrică dacă aveți mai puțin de %1$s acumulator disponibil. Încărcați dispozitivul înainte de a continua.</string>
     <string name="miui_master_clear_summary">Șterge toate datele de pe acest dispozitiv</string>
     <string name="miui_more_special_feature">Explorați funcțiile noi</string>
     <string name="miui_optimization_disabled">Dezactivați optimizarea MIUI</string>
