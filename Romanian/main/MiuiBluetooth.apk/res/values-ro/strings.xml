@@ -439,6 +439,10 @@ Protocol de conectare mai rapid."</string>
     <string name="mi_key_summary_open_camera">Apăsați de două ori butonul Mi Key pentru a deschide Camera</string>
     <string name="mi_key_summary_take_photo">Atingeți butonul Mi Key pentru a realiza o fotografie</string>
     <string name="mi_key_take_photo">Realizați o fotografie</string>
+    <string name="miheadset_notification_Box">Decodor</string>
+    <string name="miheadset_notification_Disconnect">Deconectați</string>
+    <string name="miheadset_notification_LeftEar">S</string>
+    <string name="miheadset_notification_RightEar">D</string>
     <string name="mihome_app_download">Instalați acum</string>
     <string name="mihome_app_update">Actualizați acum</string>
     <string name="mihome_download_tips">Instalați aplicația Mi Home, conectați-vă și mențineți telefonul în apropierea dispozitivului.</string>

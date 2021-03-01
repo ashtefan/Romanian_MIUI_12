@@ -317,6 +317,7 @@
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
     <string name="app_name">JpegEncoder</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
+    <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
     <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
     <string name="autozoom_disabled_hint">S-a oprit urmărirea obiectelor în mișcare</string>
@@ -698,6 +699,7 @@ dacă rotiți telefonul"</string>
     <string name="hint_slow_motion">Videoclipul înregistrat va fi redat la viteză redusă.</string>
     <string name="hint_subtitle">Dictați subtitrarea în timp ce înregistrați videoclipul</string>
     <string name="hint_subtitle_prompt">Puteți dicta subtitrarea acum</string>
+    <string name="histogram_summary_tip">Afișați feedback în timp real pentru expunere</string>
     <string name="hunt_dual_water_mark">Amprenta camerei duale va fi adăugată în mod automat.</string>
     <string name="id_card_mode_hint_back">Scanați partea din spate a cărții de identitate</string>
     <string name="id_card_mode_hint_front">Scanați partea din față a cărții de identitate</string>
@@ -1821,7 +1823,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
     <string name="vv_duartion_hint">%1$s | Segmentul %2$d | %3$ss</string>
-    <string name="vv_hint">Puteți filma vloguri doar în modul peisaj</string>
+    <string name="vv_hint">Puteți filma doar vloguri în modul peisaj</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mențineți telefonul nemișcat</string>
     <string name="vv_start">Filmați un vlog</string>

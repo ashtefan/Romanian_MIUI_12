@@ -156,6 +156,7 @@
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime. Detalii</string>
     <string name="other_settings_user_experience_summary_index">Detalii</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon vă permite să transferați date de pe dispozitiv atunci când ecranul său este deteriorat.</string>
     <string name="permission_account">Accesare conturi din dispozitiv:</string>
     <string name="permission_account_introduction">Pentru conectarea la contul Mi</string>
     <string name="permission_application_package_introduction">Pentru accesarea stocării ce va permite analizarea și scanarea pachetelor de instalare</string>
@@ -188,6 +189,10 @@
     <string name="permission_picture_introduction">Pentru salvarea, editarea și sincronizarea fotografiilor și a videoclipurilor</string>
     <string name="permission_read_call_records">Editare istoric apeluri:</string>
     <string name="permission_read_call_records_introduction">Pentru adăugarea elementelor în istoricul apelurilor și ștergerea apelurilor blocate</string>
+    <string name="permission_read_contacts">Accesarea contactelor</string>
+    <string name="permission_read_contacts_introduction">Pentru verificarea identității dvs.</string>
+    <string name="permission_read_message">Accesarea mesajelor text</string>
+    <string name="permission_read_message_introduction">Pentru verificarea proprietății asupra dispozitivului</string>
     <string name="permission_read_note_introduction">Pentru accesarea notițelor și a atașamentelor</string>
     <string name="permission_read_write_file">Accesare și salvare fișiere și fotografii pe dispozitiv:</string>
     <string name="permission_read_write_file_introduction">Pentru accesarea, salvarea și memorarea în cache a elementelor de pe dispozitiv</string>
@@ -225,6 +230,7 @@
     <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inutile din dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile, permisiunile și multe altele.</string>
     <string name="security_mobile_account_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="service_agreement">Am citit și am acceptat termenii și condițiile.</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Instalator de pachete</string>
     <string name="service_name_backup">Copii de rezervă</string>

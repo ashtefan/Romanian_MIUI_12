@@ -102,7 +102,8 @@
     <string name="am">AM</string>
     <string name="android_sdk_too_low">Actualizați versiunea Android pentru a putea actualiza aplicația Muzică.</string>
     <string name="apk_filter">APK</string>
-    <string name="app_downloads">%s descărcări</string>
+    <string name="app_description_content">Aplicația Muzică este o aplicație de sistem care conține un player audio și vă permite să gestionați fișierele audio. Veți putea reda în continuare fișiere audio după ce eliminați comanda rapidă de pe Ecranul principal.</string>
+    <string name="app_description_title">Eliminați \"Muzică\" de pe Ecranul principal?</string>
     <string name="app_label">Descărcări</string>
     <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">Am înțeles</string>
@@ -1400,6 +1401,7 @@ Fiți fericit"</string>
     <string name="talkback_back">Mergeți înapoi</string>
     <string name="talkback_batch_process">Elemente multiple</string>
     <string name="talkback_clear">Goliți</string>
+    <string name="talkback_cut">Editor sunet de apel</string>
     <string name="talkback_device">Redați pe alte dispozitive</string>
     <string name="talkback_download">Descărcați</string>
     <string name="talkback_favorite">Dați un Like melodiei</string>
