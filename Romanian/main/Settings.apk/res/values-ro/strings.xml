@@ -4523,6 +4523,10 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_LeftEar">Stânga</string>
     <string name="miheadset_RightEar">Dreapta</string>
     <string name="miheadset_active">Energic</string>
+    <string name="miheadset_ancClosed">Oprit</string>
+    <string name="miheadset_ancHigh">Înalt</string>
+    <string name="miheadset_ancLow">Jos</string>
+    <string name="miheadset_ancMedium">Mediu</string>
     <string name="miheadset_anc_indicate">Conectați și asociați căștile</string>
     <string name="miheadset_audio_mode">Calitate audio</string>
     <string name="miheadset_audio_mode_high">Ridicată</string>
@@ -4545,6 +4549,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_double_click_key_mode_summary">modificați maparea apăsării duble</string>
     <string name="miheadset_double_click_left">Atingeți de două ori casca din stânga</string>
     <string name="miheadset_double_click_right">Atingeți de două ori casca din dreapta</string>
+    <string name="miheadset_enhanceVoice">Amplificare voce</string>
     <string name="miheadset_enhence_high">Înalte îmbunătățite</string>
     <string name="miheadset_enhence_low">Bass îmbunătățit</string>
     <string name="miheadset_equalizer">Egalizator</string>
@@ -4575,7 +4580,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_key_config_close_summary">Dezactivați anularea zgomotului și transparența</string>
     <string name="miheadset_key_config_gesture_control">Gesturi</string>
     <string name="miheadset_key_config_next_music">Melodia următoare</string>
-    <string name="miheadset_key_config_noise_control">Control activ al zgomotului</string>
+    <string name="miheadset_key_config_noise_control">Controlul zgomotului</string>
     <string name="miheadset_key_config_noise_control_summary">Țineți apăsat pentru a comuta între două moduri de control al zgomotului selectate</string>
     <string name="miheadset_key_config_noise_summary">Blochează sunetele externe</string>
     <string name="miheadset_key_config_press_left">Apăsați și țineți apăsat pe casca din stânga</string>
@@ -4600,6 +4605,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_rename_device">Redenumiți</string>
     <string name="miheadset_soft">Ușor</string>
     <string name="miheadset_transparent">Transparență</string>
+    <string name="miheadset_transparentMode">Transparență</string>
     <string name="miheadset_triple_click_key_mode">Apăsare triplă</string>
     <string name="miheadset_triple_click_key_mode_summary">mapare apăsare triplă</string>
     <string name="miheadset_unpair_device_text">%1$s va fi deconectat de la toate dispozitivele asociate acestui cont Mi.</string>

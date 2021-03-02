@@ -16,6 +16,8 @@
     <string name="apply_password_action">OK</string>
     <string name="apply_password_confirm_dlg_msg">Utilizați parola de blocare a ecranului curentă pentru a accesa setările aplicației %s?</string>
     <string name="apply_password_confirm_dlg_title">parolă pentru %s</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Butoanele de navigare sunt dezactivate; apăsați de două ori pe orice buton pentru a le reactiva</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Butoanele de navigare sunt activate</string>
     <string name="auto_disable_screenbuttons_float_text">Apăsați pentru a dezactiva butoanele de navigare</string>
@@ -129,6 +131,8 @@
     <string name="handy_mode_title">Modul Operare cu o mână</string>
     <string name="help">Nu puteți găsi alte dispozitive?</string>
     <string name="help_content">Dacă nu găsiți dispozitivul pe care îl căutați, rugați cealaltă persoană să activeze Partajarea Mi.</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasați degetul pe butonul Acasă</string>
     <string name="input_method_clipboard_check_more_add_to_phrase">Adăugați fraze utilizate frecvent</string>
     <string name="input_method_clipboard_check_more_copy">Copiați</string>
@@ -193,6 +197,8 @@
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Partajare în apropiere</string>
     <string name="notification_channel_hotspot">Notificare hotspot</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 de minute</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
@@ -223,6 +229,8 @@
     <string name="popup_camera_takeback_falied_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
     <string name="popup_camera_tip">Atenție</string>
     <string name="popup_camera_using_camera_background">%s utilizează camera frontală</string>
+    <string name="realme">realme</string>
+    <string name="realme_phone">realme</string>
     <string name="reboot_confirm_title">Reporniți acum telefonul?</string>
     <string name="reboot_info_auto_boot">Telefonul va porni în mod automat la %s</string>
     <string name="reboot_info_shutdown_alarm">Următoarea alarmă: %s</string>
@@ -246,6 +254,8 @@
     <string name="resolver_other_method">Alte opțiuni</string>
     <string name="resolver_recommend_options_tag">Opțiuni recomandate</string>
     <string name="resource_select">Selectați</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="scanning_device_tips">Se caută dispozitivele din apropiere… Asigurați-vă că celălalt dispozitiv este în modul descoperire.</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Pornire simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
@@ -288,6 +298,8 @@
     <string name="slavewifi_disconnect">Deconectați</string>
     <string name="slavewifi_notification_title">Se utilizează Wi-Fi dual band</string>
     <string name="slavewifi_settings">Atingeți pentru a modifica setările</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="standard">Silențios</string>
@@ -388,4 +400,6 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Aplicație clonată</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

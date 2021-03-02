@@ -98,6 +98,8 @@
     <string name="alert_dialog_download_prepare">Se pregătește descărcarea…</string>
     <string name="alert_dialog_download_progress">"Se descarcă aplicația: "</string>
     <string name="all">Afișați tot</string>
+    <string name="app_description_content">Mi Video este o aplicație de sistem care conține un player video local. Veți putea reda în continuare fișiere video după ce eliminați comanda rapidă de pe Ecranul principal.</string>
+    <string name="app_description_title">Eliminați \"Mi Video\" de pe Ecranul principal?</string>
     <string name="app_name">Mi Video</string>
     <string name="auth_again">De acord</string>
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
@@ -106,6 +108,7 @@
     <string name="back_to_mainpage">Descoperiți</string>
     <string name="before_yestoday">Cu 2 zile în urmă</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
+    <string name="brvah_app_name">Librărie</string>
     <string name="cancel">Anulare</string>
     <string name="cancel_choose">Deselectați</string>
     <string name="cancel_subscribe_tips">Anulați urmărirea acum?</string>
@@ -266,6 +269,13 @@ ID:%s
 Trimiteți acest cod supervizorului."</string>
     <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=%2$s&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
     <string name="dialog_privacy_info_new3">Pentru a putea utiliza acest serviciu, trebuie să permiteți %1$s să colecteze, să proceseze și să utilizeze informațiile dvs. personale în concordanță cu Politica de Confidențialitate. Atingând butonul \"De acord\" de mai jos, acceptați &lt;a href=%2$s&gt;Politica de Confidențialitate&lt;/a&gt; și &lt;a href=%3$s&gt;Acordul Utilizatorului Xiaomi&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Dacă atingeți butonul \"de acord\" de mai jos, Mi Video permite, de asemenea, accesul la lista de aplicații instalate pe dispozitiv. Cu această permisiune, Mi Video va putea să partajeze articole, să înțeleagă dacă o aplicație este instalată pe dispozitivul dvs., ce versiune a unei aplicații este instalată și dacă o aplicație este sigură.</string>
+    <string name="dialog_privacy_revoke_cancel">Renunțați</string>
+    <string name="dialog_privacy_revoke_count_down">Retrageți (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">Dezactivând comutatorul, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Mi Video. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Retragerea consimțământului dvs. privind Politica de confidențialitate va fi considerată ca refuz de acceptare pentru servicii online bazate pe informațiile personale colectate.</string>
+    <string name="dialog_privacy_revoke_fail">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a vă putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
+    <string name="dialog_privacy_revoke_ok">Retrageți</string>
+    <string name="dialog_privacy_revoke_success">Retras cu succes</string>
+    <string name="dialog_privacy_revoking">Se retrage consimțământul…</string>
     <string name="dialog_privacy_title">Autorizaţie</string>
     <string name="dialog_revoke_privacy_info_new2">După revocarea autorizației, aplicația va opri colectarea datelor și toate datele asociate vor fi șterse de pe serverele noastre. Acest lucru poate face aplicația practic inutilizabilă. Anulați oricum autorizația?</string>
     <string name="dialog_revoke_privacy_title">Revocarea autorizației</string>
@@ -711,6 +721,7 @@ pentru videoclipuri"</string>
     <string name="next_step">Următorul</string>
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
+    <string name="no_history">Niciun element aici</string>
     <string name="no_longer_prompt">Nu arăta din nou</string>
     <string name="no_more_content">Asta e tot pentru acum</string>
     <string name="no_network_tips">"Nu se poate utiliza această funcție acum. Accesul la rețea este restricționat."</string>
@@ -1077,6 +1088,8 @@ Spori securitatea contului dvs."</string>
     <string name="plus_sort_type_time">Dată</string>
     <string name="plus_tab_gallery">Dosare</string>
     <string name="plus_tab_time">Cronologie</string>
+    <string name="privacy_revoke_setting">Dezactivând comutatorul, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Mi Video.</string>
+    <string name="privacy_revoke_title">Retragerea consimțământului</string>
     <string name="progressbar_title">Se caută probleme de securitate…</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
@@ -1186,7 +1199,8 @@ Verificați alte videoclipuri!"</string>
     <string name="screenshot_8k_save_toast">Captură de ecran 8K salvată în %s</string>
     <string name="screenshot_8k_saving">Se salvează captura de ecran 8K…</string>
     <string name="screenshot_8k_share">Trimiteți fișierul la</string>
-    <string name="search">Caută</string>
+    <string name="search">Căutați</string>
+    <string name="search_bar_hint">Căutați videoclipuri</string>
     <string name="search_choose_language">Selectați limba</string>
     <string name="search_choose_voice_language">Selectați limba utilizată pentru căutare vocală</string>
     <string name="search_hot_words">Populare</string>
@@ -1427,4 +1441,12 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="year">an</string>
     <string name="yesterday">Ieri</string>
+    <string name="ytb_account">Conturi</string>
+    <string name="ytb_author_video">Videoclipuri</string>
+    <string name="ytb_login">Conectați-vă</string>
+    <string name="ytb_login_btn">Conectați-vă</string>
+    <string name="ytb_login_hint">Conectați-vă pentru a vedea abonamentele YouTube</string>
+    <string name="ytb_logout">Deconectați-vă</string>
+    <string name="ytb_play_next">Urmează</string>
+    <string name="ytb_subscribed">Abonamente</string>
 </resources>
