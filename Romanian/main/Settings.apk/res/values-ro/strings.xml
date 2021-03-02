@@ -4691,6 +4691,9 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_sos_menu_add">Adăugați</string>
     <string name="miui_sos_menu_edit">Editați</string>
     <string name="miui_sos_msg_call_log_prefix">"Acesta este istoricul meu de apelare din ultima oră:"</string>
+    <string name="miui_sos_pa_title">Locație de urgență</string>
+    <string name="miui_sos_pa_turn_off">Oprit</string>
+    <string name="miui_sos_pa_turn_on">Pornit</string>
     <string name="miui_sos_play_voice">Redați mesajul SOS</string>
     <string name="miui_sos_remind_add">Adăugați</string>
     <string name="miui_sos_remind_close">Modul Urgență SOS este activ. Îl opriți împreună cu toate funcționalitățile aferente?</string>
@@ -7811,6 +7814,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_layout_current2_weight">Dimensiunea textului și grosimea fontului</string>
     <string name="title_miui_music_mute_by_user">Modul Silențios</string>
     <string name="title_of_auto_launch_manage">Pornire automată</string>
+    <string name="title_special_features_health_global">Ritm cardiac</string>
     <string name="to_close">Dezactivați</string>
     <string name="toast_apply_font_fail">Nu pot seta fontul</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>

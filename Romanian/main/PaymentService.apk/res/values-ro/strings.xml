@@ -22,6 +22,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ștergere</string>
+    <string name="abc_menu_enter_shortcut_label">introducere</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sim+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
     <string name="abc_search_hint">Căutați…</string>
     <string name="abc_searchview_description_clear">Goliți interogarea</string>
     <string name="abc_searchview_description_query">Interogare de căutare</string>
@@ -72,6 +82,7 @@
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
     <string name="change_activate_email">Modificați adresa de e-mail</string>
     <string name="change_password">Modificați parola</string>
+    <string name="character_counter_content_description">Limita de caractere a depășit %1$d of %2$d</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="collect_diagnosis_log">Colectați jurnale de diagnoză</string>
@@ -329,6 +340,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permiteți trimiterea de mesaje SMS din Setări pentru a utiliza această funcție.</string>
     <string name="mibi_prepaid_card_order_info">%1$s card cadou: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selectați operatorul</string>
+    <string name="mibi_prepaid_dialog_content">Orice pierdere cauzată de discrepanța dintre numărul cardului, valoarea nominală, parola și informațiile reale va fi suportată de dvs. Verificați de două ori informațiile pe care le furnizați înainte de a continua.</string>
+    <string name="mibi_prepaid_dialog_title">Atenție</string>
     <string name="mibi_prepaid_edit_limit">cifre</string>
     <string name="mibi_prepaid_error_card_length">Număr de card sau parolă invalidă.</string>
     <string name="mibi_prepaid_error_card_number">Număr de card invalid.</string>
@@ -342,6 +355,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Valoarea nominală selectată trebuie să fie în concordanță cu cea a cardului preplătit. Selectarea altei valori va anula cardul. Această acțiune nu poate fi anulată."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Dacă valoarea nominală a cardului preplătit nu este &lt;font color=red>￥%1$s&lt;/font>, cardul va fi anulat. Xiaomi nu este responsabil pentru nicio daună materială ce apare ca urmare a unei erori de utilizator.</string>
+    <string name="mibi_prepaid_picker_hint_3_1">3.</string>
+    <string name="mibi_prepaid_picker_hint_3_2">Introduceți numărul cardului, valoarea nominală și parola. <b>Orice pierdere cauzată de discrepanța dintre informațiile pe care le furnizați și informațiile reale va fi suportată de dvs..</b></string>
     <string name="mibi_prepaid_picker_title_default">Selectați suma</string>
     <string name="mibi_prepaid_picker_title_selected">suma</string>
     <string name="mibi_privacy_license_name">Politica de Confidențialitate</string>
@@ -437,6 +452,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_web_login_description">Conectare</string>
     <string name="mibi_web_login_waiting">Așteptați vă rog…</string>
     <string name="mibi_web_sso_login_fail">Trebuie să vă conectați din nou</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="nick_name">Pseudonim</string>
     <string name="no_account">Neconectat</string>
     <string name="no_network">Nu se poate conecta la rețea</string>
@@ -659,7 +675,7 @@ Pentru activarea contului, deschideți
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus este nevalid</string>
     <string name="passport_wrong_vcode">Codul introdus este incorect</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
-    <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat câtorva conturi Mi într-o scurtă perioadă de timp. Încercați să utilizați alt număr de telefon.</string>
     <string name="phone_hint">Număr de telefon</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>

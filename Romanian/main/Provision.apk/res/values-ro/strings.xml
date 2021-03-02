@@ -101,9 +101,12 @@
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="item_contents_wwarning">Dacă vă pierdeți dispozitivul, nu veți putea împiedica alte persoane să îl folosească și să vă acceseze datele decât dacă setați o blocare a ecranului. Omiteți oricum?</string>
     <string name="item_fingerprint">Amprentă</string>
     <string name="item_lock_screen_password">Doar blocarea ecranului</string>
     <string name="item_lock_screen_password_only">Blocarea ecranului</string>
+    <string name="item_return">Setați</string>
+    <string name="item_skip">Omiteți</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Partajarea informațiilor despre locație cu agențiile de salvare de urgență</string>
     <string name="language_picker_other_languages_title">Mai multe limbi</string>
@@ -307,6 +310,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="terms_privacy_policy_input_method_facemoji">Politica de Confidențialitate Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
+    <string name="title_set_fingerprint">Blocarea ecranului</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O., Manager de Permisiuni și Actualizări se vor conecta la rețea. Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
     <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>

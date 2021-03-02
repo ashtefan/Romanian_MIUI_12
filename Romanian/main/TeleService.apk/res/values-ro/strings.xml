@@ -2058,6 +2058,7 @@ Interfață UT: %5$s"</string>
     <string name="search_menu">Căutați setări</string>
     <string name="search_menu_title">Căutați</string>
     <string name="selectContact">selectați o persoană din agendă</string>
+    <string name="select_apn_list_title">Selectați APN-ul implicit: pentru cartela %1$s</string>
     <string name="select_application">Selectați aplicația</string>
     <string name="select_automatically">Selectaţi în mod automat</string>
     <string name="select_dds_dialog_title">Selectați cartela SIM implicită pentru date mobile</string>

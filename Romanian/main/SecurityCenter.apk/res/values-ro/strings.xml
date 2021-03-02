@@ -198,7 +198,7 @@
     <string name="antivirus_third_privacy_title">Politici de confidențialitate terțe</string>
     <string name="antivirus_toast_already_update">La zi</string>
     <string name="antivirus_toast_network_unavailable">"Nu s-a putut conecta la rețea"</string>
-    <string name="antivirus_toast_update_failed">"Nu s-a putut actualiza"</string>
+    <string name="antivirus_toast_update_failed">Serverele noastre sunt ocupate. Așteptați un minut sau două și încercați din nou.</string>
     <string name="antivirus_toast_update_success">Actualizată cu succes</string>
     <string name="antivirus_toast_updating">Actualizare…</string>
     <string name="antivirus_update_btn_contiue">Continuați</string>
@@ -464,17 +464,24 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
+    <string name="app_manager_tab_app">Aplicații</string>
+    <string name="app_manager_tab_manager">Gestionați</string>
     <string name="app_manager_thumbnail_blur_summary">Previzualizări blurate ale aplicațiilor în Recente</string>
     <string name="app_manager_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="app_manager_title">Gestionare aplicații</string>
+    <string name="app_manager_to_appstore">Descoperiți mai multe aplicații</string>
     <string name="app_manager_total_size">Total</string>
     <string name="app_manager_uninstall">Dezinstalați</string>
+    <string name="app_manager_uninstall_button_text">Dezinstalați</string>
+    <string name="app_manager_uninstall_notify_title">Dezinstalați aplicațiile utilizate rar</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica buna funcționare a unor componente MIUI. Dezinstalați oricum?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele aplicației.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Dezinstalarea aplicațiilor clonate va șterge toate datele aplicației.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Dezinstalați aplicația clonată?</string>
     <string name="app_manager_unstall_application">Dezinstalați</string>
+    <string name="app_manager_update">Actualizați</string>
+    <string name="app_manager_updater_notify_message">Actualizați aplicațiile pentru a avea acces la noile funcții</string>
     <string name="app_managere_not_have_app">Gol</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Date mobile</string>
@@ -621,12 +628,12 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_edit_choose_condition_title">Selectați condițiile</string>
     <string name="auto_task_edit_choose_new_operation">Adăugați o acțiune</string>
     <string name="auto_task_edit_choose_operation_title">Selectați acțiunile</string>
-    <string name="auto_task_edit_condition_summary">De exemplu, \"La ora 23:00\"</string>
+    <string name="auto_task_edit_condition_summary_new">De examplu, \"La ora %s\"</string>
     <string name="auto_task_edit_condition_title">Adăugați o condiție</string>
     <string name="auto_task_edit_my_custom_task">Nume</string>
     <string name="auto_task_edit_operation_summary">De exemplu, \"Activare mod Avion\"</string>
-    <string name="auto_task_edit_step1">1.</string>
-    <string name="auto_task_edit_step2">2.</string>
+    <string name="auto_task_edit_step1_new">%d.</string>
+    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Nume</string>
     <string name="auto_task_main_title">Sarcini automate</string>
     <string name="auto_task_mamange_activity_title">Setări</string>
@@ -635,7 +642,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_manager_group_title">Automatizările mele</string>
     <string name="auto_task_notify_do_task_title">Sarcina automată a început</string>
     <string name="auto_task_notify_exit_task_title">Sarcina automată s-a încheiat</string>
-    <string name="auto_task_notify_task_cancel_count_down">Acțiunea automată va fi anulată în 5 secunde</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Acțiunea automată va fi anulată în %d secunde</string>
     <string name="auto_task_notify_task_cancel_do">Opriți sarcina</string>
     <string name="auto_task_notify_task_canceled_summary">Veți putea efectua și primi apeluri</string>
     <string name="auto_task_notify_task_canceled_summary2">Se pare că jucați un joc acum.</string>
@@ -643,7 +650,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_notify_task_canceled_summary4">Anulată de Spațiul Principal</string>
     <string name="auto_task_notify_task_canceled_title">Acțiunea este anulată</string>
     <string name="auto_task_notify_task_continue_do">Lansați acțiunea</string>
-    <string name="auto_task_notify_task_count_down">Acțiunea automată va porni în 5 secunde</string>
+    <string name="auto_task_notify_task_count_down_new">Acțiunea automată va porni în %d secunde</string>
     <string name="auto_task_notify_task_exit_task">Anulați sarcina</string>
     <string name="auto_task_operation_airplane_mode">Modul Avion</string>
     <string name="auto_task_operation_auto_brightness">Luminozitatea automată</string>
@@ -860,6 +867,9 @@ Nu veți pierde datele aplicațiilor."</string>
  3. Este posibil ca operatorul dvs. să nu permită trimiterea de mesaje text datorită soldului curent. Contactați operatorul pentru mai multe detalii.
  4. Este posibil să existe o eroare a datelor mobile de la operator. Încercați diagnosticarea rețelei pentru a rezolva acest lucru.
  5. Nimic nu este de ajutor? Atingeți \"Raportați prin SMS\" pentru a trimite comentariul dvs. către Xiaomi printr-un mesaj text."</string>
+ <string name="card_uninstall_button_text">Gestionați</string>
+    <string name="card_uninstall_summary">Dezinstalați aplicațiile utilizate rar pentru a elibera spațiul de stocare</string>
+    <string name="card_uninstall_title_1">Dezinstalați aplicațiile utilizate rar</string>
     <string name="cd_back">Înapoi</string>
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Verificați în mod automat</string>
@@ -979,7 +989,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="deep_clean_never_memory_clean">Niciodată</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajustați în mod automat iluminarea ecranului pentru a conserva energia acumulatorului</string>
     <string name="deep_power_save_item_summary_bluetooth">Dezactivați Bluetooth-ul pentru a conserva energia acumulatorului</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Puneți ecranul în stand-by după 15 secunde de inactivitate pentru a conserva energia acumulatorului</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Puneți ecranul în stand-by după %d secunde de inactivitate pentru a conserva energia acumulatorului</string>
     <string name="deep_power_save_item_title_auto_brightness">Activați iluminarea automată</string>
     <string name="deep_power_save_item_title_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="deep_power_save_item_title_lock_screen_time">Puneți ecranul în stand-by</string>
@@ -1576,6 +1586,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gamebox_immersion_tips_content">Modul Imersiv restricționează toate funcțiile cartelei SIM, cu excepția conexiunii de date mobile. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
     <string name="gamebox_immersion_tips_title">Atenție</string>
     <string name="gamebox_immerson_open">"Se activează modul Imersiv; nu schimbați rețelele…"</string>
+    <string name="gamebox_macro">Combo-uri</string>
     <string name="gamebox_manual_record">Înregistrați</string>
     <string name="gamebox_milink">Proiectați</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
@@ -1665,6 +1676,9 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_title">Jocuri Turbo</string>
     <string name="gb_game_end_toast">Revedeți momentele cheie din jocurile dvs.</string>
+    <string name="gb_game_macro_bubble_tips">Încercați combo-urile</string>
+    <string name="gb_game_macro_toast_tips">"Încercați combo-urile!
+Înregistrați secvențe și utilizați-le oricând!"</string>
     <string name="gb_game_video_bottom_tips">Revizitați momentele cheie din sesiunile dvs. de jocuri din Jocuri Turbo. Videoclipurile vor fi șterse automat după 7 zile.</string>
     <string name="gb_game_video_item_tag">Moment cheie</string>
     <string name="gb_game_video_page_delete_success">Șters cu succes</string>
@@ -1694,6 +1708,20 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_new_feature">Caracteristică nouă</string>
     <string name="gb_operat_frequently">Nu așa de repede!</string>
     <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
+    <string name="gb_shoulder_key">Butoane de umăr</string>
+    <string name="gb_shoulder_key_add_show_btn">Afișați butoanele virtuale în timpul jocurilor</string>
+    <string name="gb_shoulder_key_add_tips">Mutați butoanele [S] și [D] în orice poziție funcțională și utilizați-le prin butoane de umăr</string>
+    <string name="gb_shoulder_key_btn_cancel">Renunțați</string>
+    <string name="gb_shoulder_key_btn_save_exit">Salvați</string>
+    <string name="gb_shoulder_key_circle_left">S</string>
+    <string name="gb_shoulder_key_circle_right">D</string>
+    <string name="gb_shoulder_key_dialog_txt">Puteți activa Game Turbo folosind butoanele de umăr.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Am înțeles</string>
+    <string name="gb_shoulder_key_guide_btn_next">Următorul</string>
+    <string name="gb_shoulder_key_guide_tips">Configurați butoanele de umăr pentru a juca ca un profesionist!</string>
+    <string name="gb_shoulder_key_guide_tips1">Deschideți caseta de instrumente și configurați butoanele de umăr</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Mutați butoanele [S] și [D] în orice poziție funcțională pentru a finaliza configurarea</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Utilizați butoanele de umăr pentru funcțiile pe care le-ați atribuit în timpul jocurilor</string>
     <string name="gb_sign_gift">Verificați pentru a primi recompense</string>
     <string name="gb_sign_gift_button_text">Primiți</string>
     <string name="gb_sign_notification_summary">Jucați jocuri fără întârzieri datorate rețelei</string>
@@ -1969,7 +1997,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="list_empty_text">Gol</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
-    <string name="loading_text_format" formatted="false">Se verifică dacă fotografiile conțin informații private (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Se verifică dacă fotografiile conțin informații private %d/%d</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="lock_all_title">Blocați toate aplicațiile</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
@@ -2343,7 +2371,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="network_traffic_warning_title">Utilizarea datelor pentru aplicațiile de sistem</string>
     <string name="networkchanged_exception_summary">Conexiunea la rețea s-a modificat. Testați din nou.</string>
     <string name="networkchanged_exception_title">Conexiune modificată</string>
-    <string name="never">O dată</string>
+    <string name="never_new">%d dată</string>
     <string name="news_change">Modificați</string>
     <string name="nickname">Pseudonim</string>
     <string name="night">Seară</string>
@@ -2790,6 +2818,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_haptic_feedback_summary">Gesturile și comenzile sistemului nu vor fi însoțite de feedback haptic</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Blocați dispozitivul după %d secunde de inactivitate</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Opriți ecranul după %d de secunde de inactivitate</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Blocarea mai rapidă a dispozitivului economisește acumulatorul</string>
     <string name="power_center_list_item_wake_notification">Nu porni ecranul pentru notificări</string>
     <string name="power_center_list_item_wake_notification_summary">Notificările primite vor fi afișate numai atunci când porniți ecranul</string>
@@ -2895,7 +2924,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_set_lockscreen_time_holder">Blochează dispozitivul după %d secunde de inactivitate</string>
     <string name="power_phone">Apeluri vocale</string>
     <string name="power_save_mode">Economisire acumulator</string>
-    <string name="power_save_mode_auto_exit_summary">Dezactivați când acumulatorul are peste 60% sau este încărcat complet​</string>
+    <string name="power_save_mode_auto_exit_summary_new">Dezactivați când acumulatorul are %s sau când este încărcat complet​</string>
     <string name="power_save_mode_auto_exit_title">Dezactivați când este încărcat</string>
     <string name="power_save_mode_close_aod_display_summary">Dezactivează afișajul Activ permanent când este pornită Economisirea acumulatorului</string>
     <string name="power_save_mode_close_aod_display_title">Dezactivează afișajul Activ permanent</string>
@@ -3886,6 +3915,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="suggest_app_tolock_unmasked">Notificări vizibile</string>
     <string name="suggest_scan_again">Finalizați scanarea pentru e evita riscurile legate de securitate.</string>
     <string name="summary_app_lock_disable">Protejați-vă datele cu Blocarea aplicațiilor</string>
+    <string name="summary_app_update_new">Actualizați aplicațiile pentru a accesa funcții noi</string>
     <string name="summary_auto_update">MIUI va selecta ora cea mai potrivită pentru descărcarea și instalarea actualizărilor.</string>
     <string name="summary_background_connection">Ați restricționat conectarea în fundal pentru această aplicație.</string>
     <string name="summary_block_calls_from_cantacts">Apelurile de la contacte sunt blocate.</string>
@@ -3944,7 +3974,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_notification_summary">Activați Ultra economisirea acumulatorului</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
-    <string name="superpower_notification_title">Mai puțin de 10% acumulator disponibil</string>
+    <string name="superpower_notification_title_new">Mai puțin de %s acumulator disponibil</string>
     <string name="superpower_progress_content">Se activează Ultra economisirea acumulatorului…</string>
     <string name="superpower_progress_left_time">%1$dh și %2$dm</string>
     <string name="superpower_progress_switch_home">Se comută la tema întunecată</string>
@@ -3958,9 +3988,9 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_savemode_limit3">Se restricționează activitățile consumatoare de energie (sincronizarea, GPS-ul, vibrațiile, afișajul activ permanent, etc.)</string>
     <string name="superpower_savemode_limit4">Se permite aplicațiilor selectate să funcționeze în mod normal</string>
     <string name="superpower_settings">Ultra economisirea acumulatorului</string>
-    <string name="superpower_settins_autoenter_summary">Activați Ultra economisirea acumulatorului în mod automat atunci când nivelul acumulatorului scade sub 10%</string>
+    <string name="superpower_settins_autoenter_summary_new">Activați Ultra economisirea acumulatorului în mod automat atunci când nivelul acumulatorului scade sub %s</string>
     <string name="superpower_settins_autoenter_title">Activați în mod automat</string>
-    <string name="superpower_settins_autoleave_summary">Dezactivați Ultra economisirea acumulatorului în mod automat atunci când acumulatorul are 50% energie</string>
+    <string name="superpower_settins_autoleave_summary_new">Dezactivați Ultra economisirea acumulatorului în mod automat atunci când acumulatorul are %s energie</string>
     <string name="superpower_settins_autoleave_title">Dezactivați în mod automat</string>
     <string name="superpower_settins_other">Setări adiționale</string>
     <string name="superpower_settins_switch_summary">Se restricționează activitățile intens consumatoare de energie pentru a menține funcțiile de bază (de ex. apelurile, SMS-urile și aplicațiile selectate) active cât mai mult timp posibil.</string>
@@ -4069,6 +4099,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tc_sms_report_get_success_notify_title">A fost primit SMS-ul cu raportul despre utilizarea datelor</string>
     <string name="tc_sms_report_geting_sms">Obţinere informaţii SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Mergeţi la aplicația Utilizarea datelor în Centrul de securitate și încercați din nou manual.</string>
+    <string name="tc_sms_report_notify_correction_business_hall">Calibrați din nou în Servicii Operator</string>
     <string name="tc_sms_report_notify_correction_failure_title">Nu se pot actualiza informaţiile despre utilizarea datelor</string>
     <string name="tc_sms_report_notify_get_failure_body">"Nu s-a putut trimite raportul de utilizare a datelor. Asigurați-vă că sunteți conectat la o rețea mobilă."</string>
     <string name="tc_sms_report_notify_get_failure_title">Nu se poate obține SMS-ul utilizării datelor</string>
@@ -4318,6 +4349,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrieţi mesajul aici</string>
     <string name="traffic_setting_fragment_title">Setări interogare utilizare date</string>
     <string name="traffic_setting_fragment_title_guide">Operatori și planuri de date</string>
+    <string name="traffic_to_limit_warning">Ați utilizat %s din limita de date</string>
     <string name="traffic_usage_warning_body">"Ați utilizat deja %s date mobile luna aceasta."</string>
     <string name="traffic_usage_warning_limit">Avertisment limită utilizare date</string>
     <string name="traffic_usage_warning_title">Avertisment utilizare date</string>
@@ -4400,6 +4432,11 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_ve_settings_pic_border_stronger">Contururi îmbunătățite</string>
     <string name="vb_ve_settings_picture_stronger">Animații îmbunătățite</string>
     <string name="vb_video_effects_display_style">Stil</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Dialog îmbunătățit</string>
+    <string name="vb_video_effects_dolby_headset">" (Doar căști)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos este activ</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Stereo extins</string>
     <string name="vb_video_effects_setting_black_white">A/N</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Fard</string>
@@ -4442,6 +4479,7 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="videobox_settings_timing_desc">Primiți o alertă la fiecare oră care să vă reamintească să faceți o pauză</string>
     <string name="videobox_settings_title">Cutie de instrumente video</string>
     <string name="view_traffic_detail">Vedeți detaliile</string>
+    <string name="view_traffic_details">Vizualizați statisticile privind utilizarea datelor</string>
     <string name="virus_auto_update_engine">Actualizări automate： %s</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">Avertisment</string>
@@ -4538,6 +4576,22 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="warningcenter_mijia_page_title">Alerte</string>
     <string name="warningcenter_mijia_search_keywords">Alerte Mi Home</string>
     <string name="warningcenter_mijia_title">Alerte de la dispozitivele inteligente domestice</string>
+    <string name="warningcenter_policeassist_charge_tips">*Este posibil să fiți taxat pentru mesajele text primite. Contactați operatorul pentru a afla tarifele.</string>
+    <string name="warningcenter_policeassist_close_btn">Dezactivați</string>
+    <string name="warningcenter_policeassist_flow_locating">Se obțin informații…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">Nu s-a putut partaja locația</string>
+    <string name="warningcenter_policeassist_flow_privacy">Politica de Confidențialitate</string>
+    <string name="warningcenter_policeassist_flow_send">S-a partajat locația cu poliția</string>
+    <string name="warningcenter_policeassist_flow_tips">Partajați-vă locația</string>
+    <string name="warningcenter_policeassist_noti_content">Trimiteți automat un mesaj text cu locația dvs.</string>
+    <string name="warningcenter_policeassist_noti_privacy">Atingeți pentru a consulta Politica de confidențialitate</string>
+    <string name="warningcenter_policeassist_noti_send">V-ați distribuit locația poliției</string>
+    <string name="warningcenter_policeassist_noti_title">Partajați locația în timpul apelurilor de urgență</string>
+    <string name="warningcenter_policeassist_open_btn">Activați</string>
+    <string name="warningcenter_policeassist_open_content">Trimiteți informațiile despre locație poliției prin SMS sau date mobile în mod automat în timp ce sunați la numărul 112.</string>
+    <string name="warningcenter_policeassist_open_title">Partajați-vă locația cu poliția în timpul apelurilor de urgență</string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Am citit și accept &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_title">Locația de urgență</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Centrul de avertizare MIUI</string>
     <string name="website">Website</string>

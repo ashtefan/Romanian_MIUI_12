@@ -40,6 +40,11 @@
     <string name="customization_continue">Continuați</string>
     <string name="customization_pause_tip">Opriți testul acum? Conectați căștile pentru a continua.</string>
     <string name="customization_quit">Ieșiți</string>
+    <string name="dolby_dax_geq_select_title">Presetări</string>
+    <string name="dolby_dax_geq_title">Egalizator grafic</string>
+    <string name="dolby_dax_profile_dynamic">Dinamic</string>
+    <string name="dolby_dax_setting">Efecte Dolby</string>
+    <string name="dolby_dax_title">Sunet Surround</string>
     <string name="end_wireless_transmission">Opriți</string>
     <string name="eq_auto">Personalizat</string>
     <string name="eq_blues">Blues</string>
@@ -76,6 +81,7 @@
     <string name="input_hint_prefix">Introduceți %1$s</string>
     <string name="keep_sound">Salvați presetarea</string>
     <string name="low_pitch">Sunet jos</string>
+    <string name="misound_effect_setting">Sunet Mi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

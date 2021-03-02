@@ -962,6 +962,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="face_unlock_rotated_right">Mișcați capul către stânga</string>
     <string name="face_unlock_sc_status">Glisați în jos pe ecran pentru a deschide Camera</string>
     <string name="face_unlock_stay_away_screen">Stați la 25-40 cm de ecran</string>
+    <string name="face_unlock_success">Deblocat cu succes</string>
     <string name="face_unlock_success_show_message_dialog_msg">Permiteți vizualizarea notificărilor în Blocarea ecranului.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Nu, mulțumesc</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permiteți</string>
