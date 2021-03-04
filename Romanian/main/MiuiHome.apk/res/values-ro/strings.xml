@@ -152,6 +152,8 @@
     <string name="aqi_quality_index_light_pollution">Atenţie</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Nesănătos</string>
+    <string name="assistant_edge_gesture_summary">Glisați în sus de la marginea din stânga-jos sau dreapta-jos pentru a porni Asistentul Google</string>
+    <string name="assistant_edge_gesture_title">Glisați în sus de la marginile ecranului pentru Asistentul Google</string>
     <string name="auto_add_app_shortcut">Plasați aplicațiile noi pe Ecranul principal</string>
     <string name="auto_delete_category_dialog_content">Aplicațiile curente vor fi eliminate din această categorie iar categoria va fi ștearsă. Ștergeți această categorie acum?</string>
     <string name="auto_delete_category_dialog_title">Se șterge categoria</string>

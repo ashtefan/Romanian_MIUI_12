@@ -1473,6 +1473,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_custom_feature_layout_title">Aspectul caracteristicilor</string>
     <string name="pref_custom_shutter_sound_title">Sunet</string>
     <string name="pref_custom_tint_title">Culori</string>
+    <string name="pref_customization_style">Stil personalizat</string>
     <string name="pref_customization_title">Personalizați</string>
     <string name="pref_document_mode">Documente</string>
     <string name="pref_dual_camera_video">Dual video</string>

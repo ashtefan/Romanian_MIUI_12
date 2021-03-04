@@ -2391,6 +2391,7 @@ Acest lucru afectează toți utilizatorii acestui dispozitiv."</string>
     <string name="development_settings_summary">Setaţi opţiuni pentru dezvoltarea aplicaţiei</string>
     <string name="development_settings_title">Opţiuni dezvoltator</string>
     <string name="device_actionbar_title">Mi 5</string>
+    <string name="device_activation_info">Activarea dispozitivului</string>
     <string name="device_admin_add_title">Administrator de dispozitive</string>
     <string name="device_admin_settings_title">Setări de administrare a dispozitivului</string>
     <string name="device_admin_status">Acest administrator este activ şi permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
