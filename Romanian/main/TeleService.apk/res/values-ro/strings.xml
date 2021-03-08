@@ -1357,6 +1357,9 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="message_decode_error">A apărut o eroare la decodificarea mesajului.</string>
     <string name="mhh_disable">Medicină, sănătate şi spitale dezactivate</string>
     <string name="mhh_enable">Medicină, sănătate şi spitale activate</string>
+    <string name="mi_mobile_sim_activate_message">Activați cartela SIM %d pentru a putea să utilizați Mi Mobile. Acest lucru poate dura până la 5 minute.</string>
+    <string name="mi_mobile_sim_activate_ok">Activați</string>
+    <string name="mi_mobile_sim_activate_title">Bine ați venit la Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Utilizați datele mobile fără a avea o cartelă SIM</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">Codurile PIN introduse nu se potrivesc. Încercaţi din nou.</string>
@@ -2537,6 +2540,7 @@ Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mob
     <string name="wifi_auto_sel_wapi_cert">Selectează în mod automat</string>
     <string name="wifi_call_accept">Omiteți</string>
     <string name="wifi_call_available_message">"Puteți realiza apeluri prin Wi-Fi acum. Dacă sunteți conectat la o rețea Wi-Fi, veți putea vorbi chiar și atunci când vă aflați într-o zonă fără acoperire a operatorului."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Sunteți pe cale să vă conectați la o rețea Wi-Fi; calitatea apelului poate varia în funcție de rețea.</string>
     <string name="wifi_call_available_title">Se activează apelarea prin Wi-Fi</string>
     <string name="wifi_call_cancel">Mai multe informații</string>
     <string name="wifi_call_help">Ajutor</string>
