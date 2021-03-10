@@ -136,6 +136,7 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="gradienter_title">Nivel</string>
     <string name="guide_toast">Pentru a calibra busola, mişcaţi telefonul conform imaginii de mai jos.</string>
     <string name="keywords_search_compass">Busolă;Calibrare busolă;Presiune;Altitudine;Latitudine;Longitudine;Verificare longitudine; Verificare latitudine;Busolă MIUI;Aplicația Busolă;Aplicația de busolă MIUI;Unde este Busola;Descărcați aplicația Busolă;Presiune atmosferică; Verificare altitudine;Care este altitudinea</string>
     <string name="latitude">Latitudine</string>

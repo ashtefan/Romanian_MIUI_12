@@ -417,6 +417,10 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="other">%1$d sugestii</item>
         <item quantity="one">1 sugestie</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Primiți o alertă ori de câte ori una dintre căști este departe de ureche sau de husa de încărcare pentru mai mult de %d minute</item>
+        <item quantity="one">Primiți o alertă ori de câte ori una dintre căști este departe de ureche sau de husa de încărcare pentru mai mult de %d minut</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elemente</item>
         <item quantity="one">1 element</item>

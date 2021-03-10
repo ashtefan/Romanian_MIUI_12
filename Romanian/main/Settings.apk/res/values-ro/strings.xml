@@ -1523,6 +1523,10 @@ Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive
     <string name="bt_ldac_open_dialog_title">Activați LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Proprietăți</string>
+    <string name="bt_leaudio_open_dialog_summary">Nu veți putea conecta mai multe dispozitive la setul cu cască când LC3 este pornit. Alte dispozitive conectate vor fi deconectate dacă activați această funcție. Porniți LC3 oricum?</string>
+    <string name="bt_leaudio_open_dialog_title">Atenție</string>
+    <string name="bt_leaudio_pre_title">LC3</string>
+    <string name="bt_leaudio_summary">Experiență audio de înaltă calitate</string>
     <string name="bt_lhdc_declaration">Atunci când un dispozitiv Bluetooth suportă LHDC, el va fi conectat în mod implicit. LDHC vă permite să redați sunete audio de înaltă calitate și reduce latența în timpul jocurilor, dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">LHDC vă permite să redați sunete audio de înaltă calitate și reduce latența în timpul jocurilor dar aduce de asemenea și un consum crescut de energie. Această caracteristică poate fi dezactivată din Setări.</string>
     <string name="bt_lhdc_dialog_title">Dispozitivul curent suportă LHDC, care a fost conectat în mod implicit:</string>

@@ -76,6 +76,7 @@ Nu se poate face o copie de rezervă"</string>
     <string name="btn_retry">Verificați din nou</string>
     <string name="btn_skip">Omiteți acest pas</string>
     <string name="button_cancel">Anulaţi</string>
+    <string name="button_confirm">Am înțeles</string>
     <string name="button_delete">Ștergeţi</string>
     <string name="button_next">Înainte</string>
     <string name="can_not_backup_in_lite_mode">"Nu se poate crea copia de rezervă în modul Lite"</string>
@@ -229,6 +230,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="other_device_second_space">Spațiul secundar</string>
     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">Nu se pot restaura elementele în modul PC. Dezactivați modul PC și încercați din nou.</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
     <string name="provision_back">Înapoi</string>

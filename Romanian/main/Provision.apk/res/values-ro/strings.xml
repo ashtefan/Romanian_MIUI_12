@@ -327,7 +327,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="wc_double_check_reject">Nu, mulțumesc</string>
     <string name="wc_double_check_summary">Puteți activa Caruselul de imagini de fundal pentru a vedea dacă funcționează pentru dvs. Amintiți-vă că puteți activa sau dezactiva oricând Caruselul de imagini de fundal din Setări> Blocare ecran.</string>
     <string name="wc_double_check_title">Încercați Caruselul de imagini de fundal</string>
-    <string name="wc_notice_link_announcement_summary">Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a> furnizorului terț de conținut înainte de a utiliza această caracteristică.</string>
+    <string name="wc_notice_link_announcement_summary">Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> furnizorului de conținut terță parte înainte de a utiliza această caracteristică.</string>
     <string name="welcome">Bine aţi venit</string>
     <string name="zone_picker_title">Selectați fusul orar</string>
 </resources>

@@ -598,10 +598,13 @@ documentele scanate în mod automat"</string>
     <string name="dual_camera_too_close_toast">Camera este prea aproape de obiect.</string>
     <string name="dual_camera_use_hint">Asigurați-vă că obiectul se află la cel mult 2 metri</string>
     <string name="dual_video_record_merged">Combinat</string>
+    <string name="dual_video_record_remote">Înregistrare telefon dual</string>
     <string name="dual_video_record_standalone">Separate</string>
     <string name="dual_video_user_guide_main_content">Pentru a crea videoclipuri multicam, selectați două camere de pe dispozitiv și fotografiați simultan. Înregistrările pot fi stocate separat sau combinate într-o vizualizare divizată sau videoclip imagine în imagine.</string>
     <string name="dual_video_user_guide_main_title">Videoclip multicam</string>
     <string name="dual_video_user_guide_merge_content">Înregistrați simultan cu două camere și combinați înregistrările într-o vizualizare divizată sau videoclip imagine în imagine.</string>
+    <string name="dual_video_user_guide_remote_content">Înregistrarea telefon dual permite combinarea fluxurilor de la două dispozitive diferite într-un singur videoclip. Veți putea previzualiza ambele fluxuri și videoclipul final pe acest dispozitiv. Rețineți că sunetul va fi înregistrat numai de acest dispozitiv.</string>
+    <string name="dual_video_user_guide_remote_p">Telefonul %d</string>
     <string name="dual_video_user_guide_standalone_content">Înregistrați simultan cu două camere și salvați ambele înregistrări ca videoclipuri separate.</string>
     <string name="edit_blusher">Fardare</string>
     <string name="edit_chin">Bărbie</string>
@@ -1546,6 +1549,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_super_night_se_summary">Detectați condițiile de iluminare slabă și îmbunătățiți automat calitatea imaginii</string>
     <string name="pref_super_night_se_title">Mod noapte automat</string>
     <string name="pref_userdefine_watermark_title">Amprentă personalizată</string>
+    <string name="pref_video_ai_audio_single">Sunet frontal</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
     <string name="pref_video_cast_setting_summary">Porniți pentru a putea înregistra un videoclip cu mai multe dispozitive</string>
     <string name="pref_video_cast_setting_title">Înregistrare telefon dual</string>
@@ -1607,6 +1611,11 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_watermark_title">Amprentă fotografie</string>
     <string name="pref_wind_denoise_title">Filtru pentru vânt</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="prek_b_j_o">Recreați efectul surround stereo</string>
+    <string name="prek_b_j_p">Reduceți impactul vântului asupra înregistrării sunetului</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Sunetele provenite de la subiectul în focus sunt îmbunătățite</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Sunetele din spatele ecranului sunt filtrate</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Zoomul audio nu funcționează cu monitorul intraauricular live și cu microfonul extern</string>
     <string name="preparing_sd">Verificare card SD…</string>
     <string name="preview_back_pressed_hint">Apăsați din nou pentru a reveni la previzualizare</string>
     <string name="pro_color_mode">Culori Pro</string>

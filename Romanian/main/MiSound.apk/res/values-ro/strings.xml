@@ -40,6 +40,7 @@
     <string name="customization_continue">Continuați</string>
     <string name="customization_pause_tip">Opriți testul acum? Conectați căștile pentru a continua.</string>
     <string name="customization_quit">Ieșiți</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
     <string name="dolby_dax_geq_select_title">Presetări</string>
     <string name="dolby_dax_geq_title">Egalizator grafic</string>
     <string name="dolby_dax_profile_dynamic">Dinamic</string>

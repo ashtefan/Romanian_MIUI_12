@@ -1753,7 +1753,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="picker_title_format">Selectați %1$d din %2$d fotografii</string>
     <string name="picker_title_format_video">Selectați videoclipurile (%1$d)</string>
     <string name="picker_title_selection_format">Au fost selectate %d fotografii</string>
-    <string name="picker_title_selection_format_multiple">Selectați %1$d la %2$d fotografii (%3$d)</string>
+    <string name="picker_title_selection_format_multiple">Selectați între %1$d și %2$d fotografii (%3$d)</string>
     <string name="picker_title_specify_format">Selectați %d fotografii</string>
     <string name="picker_title_specify_format_one">Selectați %d fotografie</string>
     <string name="picker_title_unlimit">Selectați fotografiile</string>
