@@ -253,6 +253,11 @@
     <string name="notification_aggregate_title">Grupați notificările</string>
     <string name="notification_display_setting">Perdeaua de notificări</string>
     <string name="notification_display_style">Stilul notificărilor</string>
+    <string name="notification_fold_description1">Dosarul de notificări a fost introdus în MIUI 9. Această caracteristică filtrează notificările neimportante și le plasează într-un dosar separat.</string>
+    <string name="notification_fold_description2">MIUI va reține ce notificări atingeți, apoi va folosi mai multe criterii pentru a determina dacă acestea sunt importante.</string>
+    <string name="notification_fold_description3">Dacă notificările pe care le considerați importante ajung în dosarul de Notificări, asigurați-vă că ne raportați astfel de probleme. Vom aprecia feedback-ul dvs.</string>
+    <string name="notification_fold_footer_icon_summary">Afișează pictogramele aplicației atunci când notificările neimportante sunt grupate</string>
+    <string name="notification_fold_footer_icon_title">Afișează pictogramele aplicației</string>
     <string name="notification_fold_summary">Toate notificările neimportante vor apărea într-un dosar separat</string>
     <string name="notification_fold_title">Dosarul cu notificări</string>
     <string name="notification_keyguard_hide_content">Afișează notificările dar ascunde conținutul</string>

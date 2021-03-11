@@ -494,7 +494,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_overlay_description">Permiteți acestei aplicații să se afișeze peste alte aplicații pe care le utilizați. Această aplicație va putea vedea unde atingeți sau ce modificați din ceea ce este afișat pe ecran.</string>
     <string name="allow_sound_title">Permiteți redarea de sunete</string>
     <string name="allow_vibrate_title">Permiteți vibrații</string>
-    <string name="alpha_build">" | Alfa"</string>
+    <string name="alpha_build">Alfa</string>
+    <string name="already_delete_system_app">Aplicații de sistem dezinstalate</string>
     <string name="always">Întotdeauna</string>
     <string name="always_allow_bind_appwidgets_text">Aţi ales să permiteţi acestei aplicaţii să creeze widgeturi şi să acceseze datele acestora.</string>
     <string name="always_running">Rulează întotdeauna (%s)</string>
@@ -1786,6 +1787,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="cmcc_hardware_version">Versiune hardware</string>
     <string name="codec_low_latency_summary">Minimizează latența pe durata sincronizării audio/video din jocuri</string>
     <string name="codec_low_latency_title">Latență redusă</string>
+    <string name="codec_low_latency_video_summary">Oferă o experiență audio cu latență redusă pentru jocuri și videoclipuri, făcând sincronizarea sunetului și a imaginii mai naturală.</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
     <string name="color_calibration_none">Acest dispozitiv</string>
@@ -2967,6 +2969,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="face_data_input_ok_title">Adăugate cu succes</string>
     <string name="face_data_input_structure_title">Date faciale 3D</string>
     <string name="face_data_input_title">Adăugați datele faciale</string>
+    <string name="face_data_introduction_add">Începeți</string>
     <string name="face_data_introduction_msg">Datele faciale pot fi folosite pentru a debloca dispozitivul sau pentru a vă verifica identitatea. Adăugați parola de blocare a ecranului înainte de a adăuga datele faciale.</string>
     <string name="face_data_introduction_next">Următorul</string>
     <string name="face_data_introduction_title">Recunoaștere facială</string>
@@ -2979,7 +2982,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="face_data_manage_unlock_title">Deblocați folosind datele faciale</string>
     <string name="face_data_siggesstion_next">Următorul</string>
     <string name="face_data_siggesstion_next_time">Următorul (%ds)</string>
-    <string name="face_data_suggesstion_first">Probleme de securitate: deblocarea facială este mai puțin sigură decât un cod PIN, o parolă sau un model. Dispozitivul dvs. ar putea fi deblocat cu fotografia dvs., precum și de către persoane sau obiecte cu aspect similar.</string>
+    <string name="face_data_suggesstion_first">Deblocarea facială este mai puțin sigură decât un cod PIN, o parolă sau un model. Dispozitivul dvs. ar putea fi deblocat cu fotografia dvs., precum și de către persoane sau obiecte cu aspect similar.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că toate părțile feței dvs. nu sunt acoperite de obiecte și sunt clar vizibile. Fața ta ar trebui să fie și bine iluminată.</string>
     <string name="face_intro_error_max">Ați adăugat numărul maxim de chipuri</string>
     <string name="face_intro_error_unknown">Nu se mai pot adăuga chipuri</string>
@@ -3471,6 +3474,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
     <string name="headset_connectiong">Se conectează…</string>
+    <string name="headset_notification_switch_summary">Afișează starea în widgetul din Perdeaua de Notificări atunci când sunt conectate căștile</string>
+    <string name="headset_notification_switch_title">Widget în Perdeaua de Notificări</string>
     <string name="headset_remove_message">Eliminați dispozitivul?</string>
     <string name="headset_remove_message_indicate">%1$s vor fi deconectate de pe toate dispozitivele asociate acestui cont Mi</string>
     <string name="headset_settings_title">Efecte sunet</string>
@@ -3776,6 +3781,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="keyboard_settings_title">Tastatură Android</string>
     <string name="keyboard_shortcuts_helper">Scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
+    <string name="keyboard_skin_follow_system_enable">Treceți la modul Întunecat odată cu sistemul</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
     <string name="keyguard_double_tap_to_sleep_title">Atingeți de două ori ecranul pentru a trece în hibernare</string>
     <string name="keyguard_notification_status_title">Când sunt primite notificări și ecranul este oprit</string>
@@ -4626,6 +4632,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Renunțați</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Atenție</string>
     <string name="miui_face_enroll_success">"Acum puteți debloca acest dispozitiv utilizând datele faciale.
 Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_input_method_settings">Setări privind metoda de introducere</string>

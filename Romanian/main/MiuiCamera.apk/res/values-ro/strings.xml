@@ -315,7 +315,7 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Folosiți un trepied</string>
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
-    <string name="app_name">JpegEncoder</string>
+    <string name="app_name">InterfaceProtocol</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
