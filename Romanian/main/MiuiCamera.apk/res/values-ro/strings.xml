@@ -315,7 +315,7 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Folosiți un trepied</string>
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
-    <string name="app_name">InterfaceProtocol</string>
+    <string name="app_name">JpegEncoder</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
@@ -994,7 +994,7 @@ să pară mai mari în fotografii"</string>
     <string name="parameter_description_sub_title">Controlați mai creativ fotografiile și videoclipurile dvs.</string>
     <string name="parameter_ef_split_description">Puteți trage inelul de expunere afară din cel pentru focalizare și să ajustați separat cei 2 parametri.</string>
     <string name="parameter_ef_split_title">Măsurare separată a focalizării și a expunerii</string>
-    <string name="parameter_et_description">Viteza automată a obturatorului este determinată de către cantitatea de lumină măsurată de camera fotoe. Când selectați manual viteza obturatorului, țineți minte că odată cu creșterea duratei în care obturatorul este deschis, crește și cantitatea de lumină ajunsă pe senzor, facând fotografiile mai luminoase.</string>
+    <string name="parameter_et_description">Viteza automată a obturatorului este determinată de către cantitatea de lumină măsurată de camera foto. Când selectați manual viteza obturatorului, țineți minte că odată cu creșterea duratei în care obturatorul este deschis, crește și cantitatea de lumină ajunsă pe senzor, facând fotografiile mai luminoase.</string>
     <string name="parameter_et_title">Viteza obturatorului</string>
     <string name="parameter_exposure_description">Această caracteristică vă permite să compensați expunerea atunci când doriți ca imaginile dvs. să fie mai luminoase sau mai întunecate decât este sugerat de către dispozitivul de măsurare.</string>
     <string name="parameter_exposure_feecback_description">Evidențiază zonele subexpuse în albastru și pe cele supraexpuse în roșu pentru a putea ajusta în mod corect expunerea.</string>
