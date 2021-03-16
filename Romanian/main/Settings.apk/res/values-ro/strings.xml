@@ -4586,6 +4586,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_ignore">Anulați asocierea</string>
     <string name="miheadset_in_ear_check">Detectați prezența căștii din ureche</string>
     <string name="miheadset_in_ear_check_summary">Întrerupeți și reluați automat redarea în timp ce purtați sau scoateți căștile</string>
+    <string name="miheadset_key_config_ANC_list_title">Control zgomot</string>
     <string name="miheadset_key_config_call_ai">Asistent vocal</string>
     <string name="miheadset_key_config_close">Oprit</string>
     <string name="miheadset_key_config_close_summary">Dezactivați anularea zgomotului și transparența</string>

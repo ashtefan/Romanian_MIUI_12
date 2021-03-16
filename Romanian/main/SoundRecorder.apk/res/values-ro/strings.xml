@@ -268,6 +268,7 @@
     <string name="notification_playback">Redare…</string>
     <string name="notification_recording">Înregistrare…</string>
     <string name="notification_recording_ticker">Sunete dezactivate</string>
+    <string name="notification_save_as_complete">Salvat cu succes</string>
     <string name="notification_stopped">Înregistrare oprită</string>
     <string name="notification_title_all_paused">Descărcare în pauză</string>
     <string name="offline_recognize_progress">Transcriere offline %s…</string>
@@ -421,6 +422,7 @@
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="save_as">Salvați ca</string>
     <string name="save_record_dialog_title">Salvați înregistrarea</string>
     <string name="search_app">Înregistrare</string>
     <string name="search_empty">Nu s-au găsit rezultate</string>
