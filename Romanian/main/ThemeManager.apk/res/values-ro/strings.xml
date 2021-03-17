@@ -959,6 +959,8 @@ mm"</string>
     <string name="resource_wallpaper_download">Descărcați imaginea de fundal</string>
     <string name="restore_home_icon_text">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="restore_icon_later">Puteți adăuga din nou comanda rapidă pe Ecranul principal din Setări</string>
+    <string name="ringtone_confirm_dialog_message">Durata acestui ton de apel este relativ lungă. Îl utilizați oricum?</string>
+    <string name="ringtone_confirm_dialog_title">Atenție</string>
     <string name="ringtone_set_success">Setat cu succes</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
@@ -985,8 +987,7 @@ mm"</string>
     <string name="set_as_colorring">Setați ca sunet de apel personalizat</string>
     <string name="set_color_ring_back_tone">Setați un sunet de apelare înapoi personalizat</string>
     <string name="set_home_wallpaper_failed">"%s. Nu se poate aplica imaginea de fundal pentru Ecranul principal."</string>
-    <string name="set_wallpaper_group_success">"%1$s a fost aplicată.
-Veți vedea o nouă imagine în fiecare oră."</string>
+    <string name="set_wallpaper_group_success">Imaginea de fundal \"%1$s\" a fost aplicată cu succes</string>
     <string name="setting_font_online">Fonturi online</string>
     <string name="settings">Setări</string>
     <string name="settings_search_keyword_font_free">Fonturi gratuite</string>

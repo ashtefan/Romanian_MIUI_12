@@ -4535,9 +4535,9 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_RightEar">Dreapta</string>
     <string name="miheadset_active">Energic</string>
     <string name="miheadset_ancClosed">Oprit</string>
-    <string name="miheadset_ancHigh">Înalt</string>
-    <string name="miheadset_ancLow">Jos</string>
-    <string name="miheadset_ancMedium">Mediu</string>
+    <string name="miheadset_ancHigh">Avion</string>
+    <string name="miheadset_ancLow">Birou</string>
+    <string name="miheadset_ancMedium">Zilnic</string>
     <string name="miheadset_anc_indicate">Conectați și asociați căștile</string>
     <string name="miheadset_audio_mode">Calitate audio</string>
     <string name="miheadset_audio_mode_high">Ridicată</string>

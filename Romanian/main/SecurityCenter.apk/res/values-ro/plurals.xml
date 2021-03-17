@@ -169,9 +169,13 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">cu %d zile în urmă</item>
         <item quantity="one">cu %d zi în urmă</item>
     </plurals>
-    <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data>Închideți &lt;font color=#0099ff>%d&lt;/font> aplicațiile pentru a crește viteza telefonului?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Închideți &lt;font color=#0099ff>%d&lt;/font> aplicația pentru a crește viteza telefonului?&lt;/Data></item>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Derulați înainte %d secunde</item>
+        <item quantity="one">Derulați înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Derulați înapoi %d secunde</item>
+        <item quantity="one">Derulați înapoi %d secundă</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
@@ -565,6 +569,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="people_million">
         <item quantity="other">Descărcat de %1$d persoane</item>
         <item quantity="one">Descărcat de %1$d persoane</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Dispozitivul dvs. se va închide în %d secunde</item>
+        <item quantity="one">Dispozitivul dvs. se va închide în %d secundă</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">ori</item>
