@@ -30,9 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
-    <string name="about_checking_update">se caută actualizări ...</string>
-    <string name="about_go_to_update">Mergeți la actualizare</string>
-    <string name="about_lasted_version">Aveți cea mai recentă versiune</string>
+    <string name="about_checking_update">Se caută actualizări ...</string>
+    <string name="about_go_to_update">Către actualizare</string>
+    <string name="about_lasted_version">Este cea mai recentă versiune</string>
     <string name="account_add_title">Selectați serviciul de e-mail</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
@@ -83,7 +83,7 @@ Actualizaţi acum?"</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
-    <string name="account_settings_only_notify_inbox">Împingeți numai mesajele primite</string>
+    <string name="account_settings_only_notify_inbox">Memento de notificare doar pentru mesajele primite</string>
     <string name="account_settings_param">Setări cont</string>
     <string name="account_settings_policies">Politici de securitate</string>
     <string name="account_settings_preference_att_save_path">Locația implicită pentru atașamente</string>
@@ -225,7 +225,7 @@ Actualizaţi acum?"</string>
     <string name="always_bcc_myself">Mi se trimite întotdeauna copie CCI</string>
     <string name="always_show_images">Afișați întotdeauna imaginile de la acest expeditor</string>
     <string name="app_name">E-mail</string>
-    <string name="app_uninstall_content">E-mail este o aplicație de sistem MIUI. După dezinstalare, nu veți putea adăuga conturi de e-mail, trimite și primi e-mailuri și sincroniza programele de e-mail.</string>
+    <string name="app_uninstall_content">E-mail este o aplicație de sistem. După dezinstalare, nu veți mai putea gestiona conturile de e-mail, trimite și primi e-mailuri sau sincroniza evenimentele.</string>
     <string name="app_uninstall_title">Dezinstalați aplicația \"E-mail\"?</string>
     <string name="appraise_des">Vă place aplicația noastră?</string>
     <string name="appraise_good">Da</string>
@@ -309,7 +309,7 @@ Actualizaţi acum?"</string>
     <string name="bottom_bar_more_share">Partajaţi</string>
     <string name="bottom_bar_no_quickreply_toast">Niciun răspuns rapid</string>
     <string name="bytes">%s B</string>
-    <string name="calendar_remind_dialog_title">Reamintește-mi mai târziu</string>
+    <string name="calendar_remind_dialog_title">Adăugați în calendar</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
     <string name="calendar_skip_no_account_alert">Nu s-a găsit acest cont</string>
     <string name="cancel">Anulaţi</string>
@@ -390,7 +390,7 @@ Actualizaţi acum?"</string>
     <string name="contact_list_title">Contacte</string>
     <string name="contact_permission_error">"Accesul la agenda telefonului este restricționat"</string>
     <string name="contact_select">Selectaţi contacte</string>
-    <string name="contain_view_all_body">Vedeți textul complet al mesajului</string>
+    <string name="contain_view_all_body">Vedeți e-mailul complet</string>
     <string name="content_description">%1$s despre %2$s, %3$s pe data de %4$s, %5$s</string>
     <string name="content_description_today">%1$s despre %2$s, %3$s la ora %4$s, %5$s</string>
     <string name="contextmenu_add">Adăugaţi la Contacte</string>
@@ -505,10 +505,10 @@ Actualizaţi acum?"</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
-    <string name="drive_card_button_tips">Copiați codul extras și obțineți conținutul partajat</string>
-    <string name="drive_card_code">cod de extragere</string>
-    <string name="drive_card_tips">S-a găsit linkul de partajare de la %s</string>
-    <string name="drive_card_title">Linkul discului</string>
+    <string name="drive_card_button_tips">Copiați codul de extragere și obțineți conținutul partajat</string>
+    <string name="drive_card_code">Codul de extragere este:</string>
+    <string name="drive_card_tips">S-a găsit un link de partajare a netdiscului de la %s</string>
+    <string name="drive_card_title">Linkul netdiscului</string>
     <string name="dtend">Se încheie</string>
     <string name="dtstart">Începe</string>
     <string name="due">Scadență</string>
@@ -652,8 +652,8 @@ Actualizaţi acum?"</string>
     <string name="general_preference_text_zoom_normal">Prestabilită</string>
     <string name="general_preference_text_zoom_small">Mică</string>
     <string name="general_preference_text_zoom_tiny">Minusculă</string>
-    <string name="general_preference_trash_contact">Spam screening</string>
-    <string name="general_preference_trash_contact_sum">Gestionarea scrisorilor de la expeditori care au fost raportați de multe ori</string>
+    <string name="general_preference_trash_contact">Filtrare spam</string>
+    <string name="general_preference_trash_contact_sum">Filtrează e-mailurile de la expeditori care au fost raportați de mai mulți utilizatori</string>
     <string name="generic_attachment_problem">Nu se poate ataşa fişierul.</string>
     <string name="get_database_exception">Eliminaţi datele acestei aplicaţii în Setări > Aplicaţii de sistem şi încercaţi din nou.</string>
     <string name="get_oauth_code">Obțineți codul</string>
@@ -690,17 +690,17 @@ Actualizaţi acum?"</string>
     <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
     <string name="input_password_prompt">Introduceţi parola dvs.</string>
     <string name="install_mime_encrypt_cert">Instalați certificatul de criptare S/MIME</string>
-    <string name="install_mime_sign_cert">Instalați semnătura certificatului S/MIME</string>
+    <string name="install_mime_sign_cert">Instalați certificatul de semnare S/MIME</string>
     <string name="interact_with_server_error">"Nu s-a putut conecta la server"</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
-    <string name="invoice_card_amount">suma</string>
-    <string name="invoice_card_buyer">cumpărător</string>
+    <string name="invoice_card_amount">Suma totală percepută</string>
+    <string name="invoice_card_buyer">Cumpărător</string>
     <string name="invoice_card_date">data</string>
-    <string name="invoice_card_open">deschideți factura</string>
-    <string name="invoice_card_save">salvați factura</string>
-    <string name="invoice_card_seller">vânzător</string>
-    <string name="invoice_card_title">e-factură</string>
+    <string name="invoice_card_open">Deschideți factura</string>
+    <string name="invoice_card_save">Salvați factura</string>
+    <string name="invoice_card_seller">Vânzător</string>
+    <string name="invoice_card_title">Factură electronică</string>
     <string name="kilobytes">%s KB</string>
     <string name="list_empty_to_fresh">Niciun e-mail deocamdată.</string>
     <string name="load_from_remote">Căutaţi pe server</string>
@@ -729,13 +729,13 @@ Actualizaţi acum?"</string>
     <string name="login_des_yangdex">Conectați-vă la Yandex Mail</string>
     <string name="login_err_message">Folosiți coduri autorizate pentru a vă conecta la %1$s dacă ați selectat această opțiune anterior. Accesați https://email.163.com/ pentru a vă reseta parola sau codul de autorizare.</string>
     <string name="login_err_outlook_msg">"%s
-Vă rugăm să confirmați dacă parola aplicației este activată, dacă este activată, accesați site-ul web Microsoft pentru a reseta parola aplicației"</string>
+Bună, vă rugăm să confirmați dacă parola aplicației este activată; dacă este activată, accesați site-ul web oficial Microsoft pentru a reseta parola aplicației"</string>
     <string name="login_err_sina_message">Folosiți coduri autorizate pentru a vă conecta la %1$s dacă ați selectat această opțiune anterior. Accesați https://mail.sina.com.cn/ pentru a vă reseta parola sau codul de autorizare.</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_tip">"Contactați-ne prin WeChat pentru a primi ajutor: "</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="login_mail">Conectați-vă</string>
-    <string name="login_manual">Setare manuală</string>
+    <string name="login_manual">setare manuală</string>
     <string name="login_qq_psw">Introduceți manual codul</string>
     <string name="login_support_tip_text">Suportă autentificarea în toate conturile de e-mail frecvent utilizate</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
@@ -751,8 +751,8 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="mail_login_help_details2">2. Codurile de autorizare terțe pot fi utilizate pentru conectarea în clienți de e-mail terți atunci când sunt activate serviciile POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Parola contului de e-mail/client terț de e-mail:</string>
     <string name="mail_outlook_login_tips">Veți fi redirecționat către portalul Microsoft pentru a introduce parola</string>
-    <string name="mail_outlook_oauth_login">"Conectați-vă prin OAuth
-(Utilizatorii Outlook personal nu își pot sincroniza calendarele atunci când se conectează cu OAuth)"</string>
+    <string name="mail_outlook_oauth_login">"Utilizați conectarea mult mai sigură OAuth
+ (Utilizatorii Outlook personal nu își pot sincroniza calendarele atunci când se conectează cu OAuth)"</string>
     <string name="mail_outlook_psw_login">Conectare utilizând parola</string>
     <string name="mailbox_list_account_selector_combined_view">Cont combinat</string>
     <string name="mailbox_name_display_ad">Reclame</string>
@@ -861,7 +861,7 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="menu_search">Căutaţi</string>
     <string name="menu_settings">Setări</string>
     <string name="merged_mailbox_compose_select_account">Selectaţi contul</string>
-    <string name="message_all_body">Text Complet</string>
+    <string name="message_all_body">Textul complet al e-mailului</string>
     <string name="message_body_load_set_description">Încărcați mesajele când se utilizează datele mobile</string>
     <string name="message_compose_insert_quick_response_list_title">Introduceţi un răspuns rapid</string>
     <string name="message_count_spacer">  </string>
@@ -949,6 +949,7 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="ntes_do_not_sms_uplink">Trimiteți un SMS de pe numărul de telefon asociat și apoi apăsați \"Mesaj trimis\".</string>
     <string name="ntes_had_send">Mesaj trimis</string>
     <string name="ntes_had_send_to_content">Dacă ați trimis deja un SMS de pe numărul de telefon asociat, apăsați \"Mesaj trimis\" pentru a continua.</string>
+    <string name="ntes_login_auth_too_much">Nu se pot adăuga mai mult de 5 coduri de verificare. Conectați-vă la căsuța de e-mail de pe un computer și ștergeți codurile pe care nu le utilizați.</string>
     <string name="ntes_login_error_message" formatted="false">Nu se pot obține informațiile despre cont (Eroare %s). %s.</string>
     <string name="ntes_password_error_hint">Dacă eroarea apare în timp ce introduceți parola, închideți această pagină și deschideți-o din nou.</string>
     <string name="ntes_phone_send">Trimiteți un mesaj text de pe numărul de telefon asociat</string>
@@ -972,7 +973,7 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare, contacte și informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_contacts_permission">Permiteți accesul aplicației de E-mail la stocare și la contacte din Setări</string>
   <string name="open_notification_kingagent">Activați notificările despre punctul de îngropare??</string>
-    <string name="open_pdf_error">Nu s-a putut deschide fișierul pdf. Vă rugăm să descărcați altă unealtă de deschidere și să încercați din nou mai târziu.</string>
+    <string name="open_pdf_error">Nu s-a putut deschide fișierul pdf. Instalați o aplicație de citire .pdf-uri și încercați din nou.</string>
     <string name="optimization_suggestion">Sugestii de optimizare</string>
     <string name="others_mail">Altul</string>
     <string name="others_mail_des">Alte servicii de e-mail private sau de servici</string>
@@ -1034,17 +1035,17 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="path_about_upload_logs">E-mail/Setări/Încărcare jurnale cu erori</string>
     <string name="pdf_has_signature_prompt_cancel">Deschideți fișierul original</string>
     <string name="pdf_has_signature_prompt_confirm">Deschideți copia</string>
-    <string name="pdf_has_signature_prompt_message">A fost detectată o copie semnată a acestui atașament. O deschideți sau nu?</string>
-    <string name="pdf_save_error">Corpul este prea mare, nu poate fi exportat ca fișier .pdf</string>
-    <string name="pdf_save_no_body">Așteptați încărcarea completă a textului și încercați din nou</string>
+    <string name="pdf_has_signature_prompt_message">A fost detectată o copie semnată a acestui atașament; o deschideți?</string>
+    <string name="pdf_save_error">Deoarece corpul e-mailului este prea mare, nu poate fi exportat ca fișier .pdf</string>
+    <string name="pdf_save_no_body">Vă rugăm să așteptați încărcarea completă a textului și încercați din nou</string>
     <string name="pdf_save_to">Salvat în</string>
-    <string name="pdf_signature_create_title">Creați o semnătură</string>
-    <string name="pdf_signature_manager_max_count">A fost atins numărul maxim de semnături; vă rugăm să ștergeți semnătura existentă și să încercați din nou</string>
+    <string name="pdf_signature_create_title">Desenați semnătura</string>
+    <string name="pdf_signature_manager_max_count">A fost atins numărul maxim de semnături care pot fi create. Vă rugăm să ștergeți din semnăturile existente înainte de a crea alta</string>
     <string name="pdf_signature_manager_title">Gestionare semnături</string>
-    <string name="pdf_viewer_actionbar_more_other">Deschideți cu altă aplicație</string>
+    <string name="pdf_viewer_actionbar_more_other">Deschideți cu alte aplicații</string>
     <string name="pdf_viewer_actionbar_more_wps">Deschideți cu WPS</string>
-    <string name="pdf_viewer_file_damage_toast">Fișierul .pdf este corupt. Vă rugăm să verificați fișierul și să înercați din nou</string>
-    <string name="pdf_viewer_new_email">E-mail nou</string>
+    <string name="pdf_viewer_file_damage_toast">Fișierul .pdf este deteriorat; vă rugăm să verificați fișierul și să încercați din nou</string>
+    <string name="pdf_viewer_new_email">trimiteți prin e-mail</string>
     <string name="pdf_viewer_reply">Răspundeți cu acest fișier</string>
     <string name="pdf_viewer_save_signature">Salvați semnătura</string>
     <string name="pdf_viewer_sign_file_damage_toast">Fișierul nu există</string>
@@ -1057,8 +1058,8 @@ Vă rugăm să confirmați dacă parola aplicației este activată, dacă este a
     <string name="perference_setup_send_tag">Server mesaje trimise</string>
     <string name="permission_access_provider_desc">Se permite aplicaţiei să acceseze baza de date e-mail, inclusiv mesajele recepţionate, mesajele trimise, numele de utilizatori şi parolele.</string>
     <string name="permission_access_provider_label">Accesare date e-mail oferite de KingSoft</string>
-    <string name="permission_des_calendar">Pentru sincronizarea evenimentelor din calendar</string>
-    <string name="permission_des_contact">Pentru accesarea adreselor de e-mail ale contactelor în vederea completării automate a destinatarilor</string>
+    <string name="permission_des_calendar">Este folosit pentru a vă sincroniza e-mailurile cu informațiile de programare din calendar. Se recomandă insistent să selectați Permite Întotdeauna</string>
+    <string name="permission_des_contact">Folosit pentru a vă sincroniza instantaneu contactele de e-mail cu contactele mobile, este recomandat să selectați Permite Întotdeauna</string>
     <string name="permission_des_detail">"Dacă nu acceptați să acordați aceste permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această aplicație. În acest caz puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări."</string>
     <string name="permission_des_external_storage">Pentru compunerea de e-mailuri dar și pentru adăugarea și salvarea atașamentelor</string>
     <string name="permission_des_phone_status">Pentru accesarea IMEI-ului în vederea identificării dispozitivului</string>
@@ -1345,6 +1346,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="server_cet_issuer_no_trust">Furnizorul certificatului nu este o organizație de încredere.</string>
     <string name="server_cet_subject_cn">"Domeniu suportat: "</string>
     <string name="server_cet_title">Detaliile certificatului</string>
+    <string name="server_log">Acordul Serviciului</string>
     <string name="service_protocol_discribe"><u>Am citit și sunt de acord cu \"Acordul Serviciului WPS Mail\"</u></string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
@@ -1369,7 +1371,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="silent_ringtone">Silențios</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="sms_not_found_tip">Imposibil de pornit aplicația SMS de sistem, porniți manual aplicația SMS și trimiteți un SMS de verificare.</string>
+    <string name="sms_not_found_tip">Nu s-a putut deschide aplicația de mesagerie SMS implicită. Deschideți aplicația și trimiteți manual SMS-ul de verificare.</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="sort_attachment">Sortaţi după</string>
     <string name="special_text_1">Redactare:</string>
@@ -1426,8 +1428,11 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="toast_bar_send_fail_remind">"Nu s-a putut trimite e-mailul. Acesta a fost salvat în dosarul \"De trimis\"."</string>
     <string name="toast_bar_sync_failed_client_cert">Nu s-a putut sincroniza datorită lipsei unui certificat. Atingeți pentru a adăuga din nou certificatul.</string>
     <string name="toast_bar_sync_failed_mi_authority">Conectați-vă pentru a vă autoriza dispozitivul</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Programarea și informațiile de contact nu au fost sincronizate în timp real, permisiunea de accesare a Contactelor este setată la</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Pentru a sincroniza contactele și informațiile calendarului, acordați aplicației E-mail permisiunile solicitate din Setări</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">Aplicația de E-mail nu a reușit să programeze sincronizarea în timp real, setați permisiunile calendarului la Permite întotdeauna</string>
     <string name="toastbar_calendar_permission_switch_close">Pentru a primi memento-uri de la Calendar, acordați aplicației E-mail permisiunile solicitate din Setări</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">Informațiile de contact nu au fost sincronizate în timp real, permisiunea de accesare a Contactelor este setată la Permite întotdeauna</string>
     <string name="toastbar_contacts_permission_switch_close">Pentru a adăuga contacte, acordați aplicației E-mail permisiunile solicitate din Setări</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Activați sincronizarea calendarului și a contactelor pentru a le putea sincroniza</string>
     <string name="toastbar_local_calendar_sync_switch_close">Activați sincronizarea calendarului pentru a primi memento-uri de la Calendar</string>
@@ -1442,7 +1447,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="topic_merge">Setări afișare</string>
     <string name="topic_merge_summary">Grupare după subiect</string>
     <string name="train_card_title">Bilet de tren achiziționat cu succes</string>
-    <string name="train_card_title_alternate">Așteptare bilet de tren cu succes</string>
+    <string name="train_card_title_alternate">Funcția listă de așteptare a biletelor a reușit</string>
     <string name="train_card_title_change">Bilet de tren schimbat cu succes</string>
     <string name="train_card_title_change_arrival">Bilet de tren schimbat cu succes</string>
     <string name="train_card_title_refund">Bilet de tren rambursat cu succes</string>
@@ -1487,6 +1492,12 @@ Eliminați contul?"</string>
     <string name="upload_logs">Trimiteți jurnalul de eroare</string>
     <string name="upload_logs_keywords">trimiteți jurnalul de eroare</string>
     <string name="uploading_logs">Doar o secundă…</string>
+    <string name="user_experience_content">Vă rugăm să confirmați că ați citit și sunteți de acord cu Programul de experiență a utilizatorilor</string>
+    <string name="user_experience_log">Programul de experiență a utilizatorilor</string>
+    <string name="user_experience_login">Alăturați-vă</string>
+    <string name="user_experience_logout">Părăsiți Programul de experiență a utilizatorilor</string>
+    <string name="user_experience_positive">Sunt de acord și continui</string>
+    <string name="user_experience_title">Declarație și termeni</string>
     <string name="user_new_auth_code">Folosiți un alt cod pentru a vă conecta</string>
     <string name="user_privacy_settings">Setări de Confidențialitate</string>
     <string name="user_privacy_settings_agreement_authorization">(Atingând butonul \"De acord\", acordați aplicației E-mail toate permisiunile necesare)</string>
@@ -1509,11 +1520,11 @@ Atingeţi "<b>Sincronizaţi acum</b> pentru a sincroniza e-mailurile, sau <b>Mod
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
     <string name="wait_help_context">așteptați</string>
     <string name="wait_while_update_db">Se actualizează baza de date…</string>
-    <string name="web_view_load_error_tip">Au apărut unele probleme iar corpul acestui e-mail nu poate fi afișat corect. Dacă întâmpinați această problemă, adăugați grupul de QQ 952315061 pentru a ne oferi feedback.</string>
+    <string name="web_view_load_error_tip">Corpul acestui e-mail nu a putute fi afișat corect. Raportați această problemă în grupul nostru QQ (952315061).</string>
     <string name="webview_logout">Puteți să încercați să vă conectați din nou</string>
     <string name="webview_logout_cancel">Nu acum</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>
-    <string name="webview_not_found">Pagina nu poate fi deschisă, deoarece componenta WebView nu poate fi găsită.</string>
+    <string name="webview_not_found">Nu s-a putut deschide pagina datorită lipsei componentei WebView</string>
     <string name="webview_sslerror_handle_cancel">Renunțați</string>
     <string name="webview_sslerror_handle_continue">Continuați</string>
     <string name="webview_sslerror_handle_hitmessage">A apărut o eroare de Certificat; Continuați oricum?</string>
@@ -1524,7 +1535,7 @@ Atingeţi "<b>Sincronizaţi acum</b> pentru a sincroniza e-mailurile, sau <b>Mod
     <string name="wipe_account_fail_description_remind">Datorită restricțiilor de utilizare a datelor, pot rămâne date reziduale în Contacte și Calendar după ștergerea contului. Vă rugăm să ștergeți manual aceste date.</string>
     <string name="wipe_account_fail_title">"Nu s-au putut șterge informațiile personale"</string>
     <string name="wps_card_button_tips">Deschideți Kingsoft Document</string>
-    <string name="wps_card_tips">S-a găsit linkul de partajare de la \"%s\"</string>
+    <string name="wps_card_tips">S-a găsit un link de partajare Kingsoft Document de la %s</string>
     <string name="wps_card_title">Kingsoft Document</string>
     <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>

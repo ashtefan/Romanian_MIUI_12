@@ -1788,6 +1788,8 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="codec_low_latency_summary">Minimizează latența pe durata sincronizării audio/video din jocuri</string>
     <string name="codec_low_latency_title">Latență redusă</string>
     <string name="codec_low_latency_video_summary">Oferă o experiență audio cu latență redusă pentru jocuri și videoclipuri, făcând sincronizarea sunetului și a imaginii mai naturală.</string>
+    <string name="codec_low_latency_zmi_summary">Reduceți întârzierea audio și îmbunătățiți efectele sonore pentru jocuri în mod automat</string>
+    <string name="codec_low_latency_zmi_title">Latență redusă în jocuri</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
     <string name="color_calibration_none">Acest dispozitiv</string>
