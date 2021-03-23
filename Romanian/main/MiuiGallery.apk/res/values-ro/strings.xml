@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Obţinere informaţii album…</string>
     <string name="album_share_title_new_album">Distribuiţi un album nou</string>
     <string name="album_show_local_only">Arată doar albumele locale</string>
-    <string name="album_show_local_only_summary">O opțiune doar pentru ștergerea albumelor locale va deveni disponibilă atunci când această funcție este activată</string>
+    <string name="album_show_local_only_summary">Activați pentru a vedea sau șterge fotografiile doar de pe dispozitiv</string>
     <string name="album_sort_type">Ordinea de sortare</string>
     <string name="album_sort_type_create_time_asc">De la cele mai vechi la cele mai noi</string>
     <string name="album_sort_type_create_time_desc">De la cele mai noi la cele mai vechi</string>
@@ -221,7 +221,7 @@
     <string name="authorize_to_device_failed">Nu s-a putut autoriza</string>
     <string name="authorize_watch_on_tv_failed">Nu s-a putut autoriza vizualizarea pe TV</string>
     <string name="auto_backup_introduce">Sincronizare automată fotografii și videoclipuri (este necesar un cont Mi)</string>
-    <string name="auto_download_media_title">Descărcați în mod automat</string>
+    <string name="auto_download_media_title">Descărcați fotografiile din Xiaomi Cloud în mod automat</string>
     <string name="auto_download_title">Selectați calitatea imaginii</string>
     <string name="auto_update_face">Adăugați fotografii în mod automat</string>
     <string name="auto_update_face_summary">Se potrivesc și se adaugă în mod automat fotografii la Albumul Copilului</string>
@@ -312,7 +312,7 @@
     <string name="backuping_title_gprs">Sincronizare utilizând datele mobile…</string>
     <string name="backuping_title_normal">Sincronizare…</string>
     <string name="base_btn_cancel">Renunțați</string>
-    <string name="base_btn_download">Descărcați</string>
+    <string name="base_btn_download">Continuați</string>
     <string name="begin_share">S-a creat albumul copilului \"%s\", partajați-l chiar acum</string>
     <string name="begin_share_toast">Creați separat un Album al Copilului înainte de a-l partaja?</string>
     <string name="blackshark">Black Shark</string>
@@ -472,8 +472,8 @@
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
     <string name="cloud_login_ok">am înțeles</string>
     <string name="cloud_login_settings_title">Setări sincronizare</string>
-    <string name="cloud_privacy_with_ai_album">Caracteristici și confidențialitate</string>
-    <string name="cloud_privacy_with_face">Caracteristici și confidențialitate</string>
+    <string name="cloud_privacy_with_ai_album">Declarația de confidențialitate privind sincronizarea automată și procesarea imaginilor</string>
+    <string name="cloud_privacy_with_face">Declarația de confidențialitate privind sincronizarea automată și recunoașterea facială</string>
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_settings">Sincronizare</string>
     <string name="cloud_storage_extend">Extindeți spațiul de stocare în cloud</string>
@@ -941,14 +941,18 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_dynamic_snow">Ninsoare</string>
     <string name="filter_sky_dynamic_stop_saving">Atingeți din nou pentru a anula</string>
     <string name="filter_sky_dynamic_text_yanhua">Text</string>
-    <string name="filter_sky_dynamic_text_yanhua_hint">Introduceți între %1$d și %1$d caractere</string>
+    <string name="filter_sky_dynamic_text_yanhua_hint">Introduceți între %1$d și %2$d caractere</string>
     <string name="filter_sky_dynamic_unavailable">Nu se poate aplica acest filtru la asemenea imagini</string>
     <string name="filter_sky_dynamic_yanhua">Artificii</string>
     <string name="filter_sky_dynamic_yinhe">Calea lactee</string>
     <string name="filter_sky_glow">Strălucitor</string>
     <string name="filter_sky_haoyue">Luna</string>
     <string name="filter_sky_hint">Cer scăpărând</string>
+    <string name="filter_sky_hongxi">Purpuriu</string>
+    <string name="filter_sky_huanxia">Vis</string>
+    <string name="filter_sky_jiyun">Cumulus</string>
     <string name="filter_sky_nimbus">Nimbus</string>
+    <string name="filter_sky_nuanyang">Căldură</string>
     <string name="filter_sky_qixia">Zori</string>
     <string name="filter_sky_rainbow">Curcubeu</string>
     <string name="filter_sky_random_download_failed">Nu s-a putut descărca. Codul erorii: </string>
@@ -960,6 +964,9 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_sunset">Apus</string>
     <string name="filter_sky_text_yanhua">Text</string>
     <string name="filter_sky_twilight">Amurg</string>
+    <string name="filter_sky_xiaying">Stacojiu</string>
+    <string name="filter_sky_xieyang">Seară</string>
+    <string name="filter_sky_xiguang">Raze</string>
     <string name="filter_sky_xingchen">Stele</string>
     <string name="filter_sky_xinggui">Traiectorii</string>
     <string name="filter_sky_xinghe">Galaxie</string>
@@ -971,6 +978,8 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_yingyue">Lună plină</string>
     <string name="filter_sky_yinhe">Calea lactee</string>
     <string name="filter_sky_yuhui">Lumină decolorată</string>
+    <string name="filter_sky_yunbo">Valuri</string>
+    <string name="filter_sky_yunmeng">Fantezie</string>
   <string name="filter_sky_yunxu">Cirrus</string>
     <string name="filter_texture_shadow">Amurg</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Xiaomi Cloud</string>
@@ -1171,6 +1180,7 @@ efecte pentru fotografii"</string>
     <string name="macarons_select_video">Nu se pot utiliza videoclipuri pentru a crea viniete magice</string>
     <string name="magic_add_full">Puteți adăuga maxim %1$d persoane</string>
     <string name="magic_background">Fundal</string>
+    <string name="magic_bitmap_damaged">Fișierul imagine este corupt</string>
     <string name="magic_brush">Pensulă</string>
     <string name="magic_camera">Camera</string>
     <string name="magic_cancel">Renunțați</string>
@@ -1217,6 +1227,7 @@ efecte pentru fotografii"</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Descărcați pluginul \"Magic\"</string>
     <string name="magic_matting_download_with_metered_network_msg">Se pare că dispozitivul dvs. este conectat la o rețea cu plată. Descărcarea fișierelor originale poate duce la taxe suplimentare. Descărcați oricum?</string>
     <string name="magic_matting_download_with_metered_network_title">Rețea cu plată</string>
+    <string name="magic_matting_error_px">Această dimensiune a imaginii nu este suportată</string>
     <string name="magic_matting_face_fail">Nu s-a putut procesa chipul</string>
     <string name="magic_matting_load_data_fail">Nu s-au putut încărca datele</string>
     <string name="magic_matting_module_finish">Pluginul \"Magic\" a fost descărcat cu succes</string>
@@ -1246,6 +1257,8 @@ efecte pentru fotografii"</string>
     <string name="magic_stroke">Contur</string>
     <string name="magic_typesetting_n">Aspect</string>
     <string name="magic_value_exceed">Valoarea introdusă de dvs. a depășit limita</string>
+    <string name="magic_video_cut_frame">Se procesează…</string>
+    <string name="magic_video_cut_frame_back">Atingeți din nou pentru a anula</string>
     <string name="magic_video_cut_max">Selectați până la %1$d secunde</string>
     <string name="magic_video_cut_min">Selectați cel puțin %1$d secundă</string>
     <string name="magic_video_long_press">Atingeți și mențineți pentru a adăuga</string>
@@ -1443,6 +1456,8 @@ pentru a personaliza Galeria"</string>
     <string name="need_to_turn_on_sync_first">Activaţi sincronizarea în cloud mai întâi</string>
     <string name="need_to_turn_on_wlan">Conectaţi-vă la Wi-Fi mai întâi</string>
     <string name="network_connected_rescan">Nu se poate conecta la reţea</string>
+    <string name="network_message">Această caracteristică trebuie să se conecteze la rețea pentru a funcționa în mod normal. Se pare că acest dispozitiv nu este conectat la Wi-Fi. Folosiți datele mobile pentru a continua? Utilizarea datelor mobile poate genera taxe suplimentare de la operator.</string>
+    <string name="network_title">Conectați-vă la rețea</string>
     <string name="new_album_invalid_byte">Acest nume este prea lung</string>
     <string name="new_album_invalid_char">"Numele albumului nu poate conține \"%s\"; introduceți doar litere sau cifre."</string>
     <string name="new_album_invalid_name">\"%s\" este un album de sistem; redenumiți-l.</string>
@@ -1520,6 +1535,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_failed">Operaţiune eşuată</string>
     <string name="operation_favorites">Favorite</string>
     <string name="operation_force_top">Fixați</string>
+    <string name="operation_google_lens">Google Lens</string>
     <string name="operation_hide">Ascundeți</string>
     <string name="operation_hide_time">Ascundeți datele</string>
     <string name="operation_in_process">Procesare…</string>
@@ -2030,7 +2046,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="share_public_url_text">Am distribuit albumul %1$s. Îl poţi vedea la %2$s</string>
     <string name="share_with_family">Partajați cu cei din familie</string>
     <string name="sharer_quota_fulfiled">Aţi distribuit deja acest album unui număr maxim de persoane.</string>
-    <string name="show_cloud_albumlist_summary">Noile elemente din albumele selectate nu vor fi încărcate în cloud după ce veți dezactiva sincronizarea.</string>
+    <string name="show_cloud_albumlist_summary">Gestionați albumele sincronizate în cloud</string>
     <string name="show_hidden_album_summary">Vedeți și gestionați albumele ascunse</string>
     <string name="show_hidden_album_title">Arată albumele invizibile</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Mutat cu succes. Mergeți la Alte albume pentru a-l vedea</string>
