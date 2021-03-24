@@ -114,7 +114,9 @@
   <string name="book_card_rating_text">|   %1$s recenzii</string>
     <string name="calendar_account_settings">Setările contului</string>
     <string name="calendar_import_source">Sursa</string>
+    <string name="calendar_privacy_policy">Politica de Confidențialitate</string>
     <string name="calendar_subscription_group_title">Abonament calendar</string>
+    <string name="calendar_user_agreement">Acordul Utilizatorului</string>
     <string name="can_not_create_long_event">Numele evenimentului este prea lung</string>
     <string name="can_not_modify_allday_event">Nu se poate modifica evenimentul pentru o zi întreagă</string>
     <string name="can_not_modify_event">Nu se poate schimba evenimentul</string>
@@ -147,6 +149,7 @@
     <string name="click_paste">Apăsați pentru a lipi</string>
     <string name="close_alarm">Dezactivați</string>
     <string name="content_confirm_close_chinese_calendar">Toate evenimentele dvs. bazate pe calendarul Chinezesc Tradițional vor fi convertite la calendarul Gregorian după ce veți dezactiva această caracteristică. Anii și lunile din calendarul Gregorian vor fi utilizate pentru evenimentele repetate.</string>
+    <string name="copy">Copiați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
@@ -285,6 +288,7 @@
     <string name="event_title">Titlu</string>
     <string name="event_view">Vizualizaţi evenimentul</string>
     <string name="every_weekday">De Luni până Vineri</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="festival_detail_title">Festival</string>
     <string name="flight_check_in">Verificare</string>
@@ -503,10 +507,13 @@
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -633,6 +640,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="no_visiable_calendar_select_account">Adăugare cont</string>
     <string name="no_visiable_calendar_title">Adăugați un cont</string>
     <string name="noon">Amiază</string>
+    <string name="not_set">Nesetat</string>
     <string name="notification_channel_description"/>
     <string name="notification_channel_name">Memento-uri obișnuite</string>
     <string name="notification_channel_name_no_sound">Memento-uri reduse la tăcere</string>
@@ -663,6 +671,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="pref_reminder_time">Oră memento</string>
     <string name="pref_title_alarm_remind">Alarmă memento</string>
     <string name="pref_title_no_remind">Niciun memento</string>
+    <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preferences_alarms_category_title">Memento-uri cu alarmă</string>
     <string name="preferences_alarms_default_event">Selectați evenimentele</string>
     <string name="preferences_alarms_sound">Sunet</string>
@@ -686,6 +695,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
+    <string name="prefsx_notify_sound_none">Silențios</string>
     <string name="premission_description_agree">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii de mai jos.</string>
     <string name="premission_description_calendar">Pentru adăugarea și afișarea evenimentelor</string>
     <string name="premission_description_contact">Pentru afișarea zilei de naștere a contactelor dvs.</string>
@@ -1021,6 +1031,8 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Înainte de a utiliza aplicația Calendar trebuie să acceptați %1$s și %2$s. Pentru a vă furniza date acurate referitoare la sărbătorile locale, zile de naștere, rambursări card de credit și călătorii planificate, aplicația Calendar trebuie să vă acceseze locația, contactele și mesajele și să se conecteze la internet. Sunteți de acord?</string>
     <string name="user_notice_title">Atenție</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="view_event_calendar_label">Calendar:</string>
     <string name="view_event_organizer_label">Organizator:</string>
     <string name="view_event_response_label">Participaţi?</string>

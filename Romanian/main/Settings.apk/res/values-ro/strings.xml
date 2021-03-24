@@ -4532,7 +4532,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Zona centrală</string>
     <string name="miheadet_up_music">Piesa anterioară</string>
-    <string name="miheadset_Box">Decodor</string>
+    <string name="miheadset_Box">Carcasă</string>
     <string name="miheadset_LeftEar">Stânga</string>
     <string name="miheadset_RightEar">Dreapta</string>
     <string name="miheadset_active">Energic</string>
@@ -8687,7 +8687,7 @@ Vă rugăm să consultați politica de confidențialitate a furnizorului de serv
     <string name="wifi_assistant_auto_confirm_data_message">Utilizați rețelele mobile atunci când dispozitivul dvs. nu se poate conecta la internet prin Wi-Fi.</string>
     <string name="wifi_assistant_confirm_always">Nu întreba din nou</string>
     <string name="wifi_assistant_confirm_connection_title">Nu se poate conecta la internet</string>
-    <string name="wifi_assistant_data_prompt">Avertizează</string>
+    <string name="wifi_assistant_data_prompt">Afișează un avertisment de utilizare a datelor</string>
     <string name="wifi_assistant_data_prompt_summary">Afișează o avertizare pentru utilizarea datelor când se comută la date mobile</string>
     <string name="wifi_assistant_description">"Iată cum funcționează această funcție:
 1. Atunci când conexiunea Wi-Fi este slabă, sistemul va încerca în mod automat să conecteze telefonul la alte rețele Wi-Fi disponibile.
@@ -8943,12 +8943,13 @@ Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_link_turbo_customize">Aplicații personalizate</string>
     <string name="wifi_link_turbo_customize_summary">Selectați aplicațiile care vor funcționa cu asistentul Wi-Fi, după preferințele dumneavoastră</string>
     <string name="wifi_link_turbo_list">Aplicații</string>
+    <string name="wifi_link_turbo_mode">Mod Creștere viteză</string>
     <string name="wifi_link_turbo_no_app">Nu există nicio aplicație încă.</string>
     <string name="wifi_link_turbo_off">Oprit</string>
     <string name="wifi_link_turbo_on">Pornit</string>
     <string name="wifi_link_turbo_recommendation">Aplicații recomandate</string>
     <string name="wifi_link_turbo_recommendation_summary">Primiți recomandări în funcție de statisticile de utilizare a datelor</string>
-    <string name="wifi_link_turbo_summary">Se amplifică viteză de conectare a aplicațiilor selectate utilizând datele mobile, atunci când conexiunea Wi-Fi este slabă</string>
+    <string name="wifi_link_turbo_summary">Utilizați datele mobile pentru a spori viteza conexiunii. Utilizarea acestei funcții poate genera taxe suplimentare de la operator.</string>
     <string name="wifi_menu_advanced">Avansate</string>
     <string name="wifi_menu_configure">Configurați</string>
     <string name="wifi_menu_connect">Conectaţi-vă la reţea</string>

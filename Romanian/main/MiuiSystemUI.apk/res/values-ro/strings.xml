@@ -988,7 +988,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="fingerprint_try_again_msg">Nu s-a putut verifica amprenta; încercați din nou.</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>
     <string name="float_incall_ignore">Ignorați</string>
-    <string name="float_incall_message">Mesaj</string>
+    <string name="float_notification_snooze_strategy">Ascunde temporar notificările plutitoare</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
     <string name="force_allow_on_external_summary">Permite oricărei aplicații să fie scrisă în memoria externă, fără a se ține cont de valorile atribuite</string>
     <string name="force_msaa">Forțează 4x MSAA</string>
@@ -1495,6 +1495,15 @@ o captură de ecran derulantă"</string>
     <string name="miui_notification_menu_title_not_allow">Restricționați</string>
     <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
     <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
+    <string name="miui_snooze_always_float">Nu ascunde</string>
+    <string name="miui_snooze_cancel">Renunțați</string>
+    <string name="miui_snooze_default_time">Pentru %d minut</string>
+    <string name="miui_snooze_to_settings">Setări</string>
+    <string name="miui_snooze_toast_hint_default">Notificările viitoare vor fi ascunse pentru %d minut. </string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Notificările viitoare vor fi ascunse până când dispozitivul este blocat. "</string>
+    <string name="miui_snooze_until_unlock_screen">Până la blocare</string>
+    <string name="miui_snooze_user_set_fail">Mergeți la Setări > Notificări și Centru de control pentru mai multe opțiuni</string>
+    <string name="miui_snooze_user_set_success">Aplicat cu succes. Mergeți la Setări > Notificări și Centru de control pentru mai multe opțiuni.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

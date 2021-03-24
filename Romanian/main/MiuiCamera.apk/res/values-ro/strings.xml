@@ -554,6 +554,7 @@
     <string name="dialog_button_connect">Conectați-vă</string>
     <string name="dialog_button_disconnect">Ieșire</string>
     <string name="dialog_button_exit">Dezactivați</string>
+    <string name="dialog_button_goto">Setări</string>
     <string name="dialog_button_ok">OK</string>
     <string name="dialog_button_reject">Respingeți</string>
     <string name="dialog_button_scan">Căutați dispozitive</string>
@@ -1502,7 +1503,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_hdr10plus_video_mode_description">Optimizați culorile și ajustați contrastul pentru videoclipurile 4K și 8K. Această funcție funcționează numai pe dispozitive compatibile HDR10+.</string>
     <string name="pref_i_n_r_b">Reducere inteligentă a zgomotului</string>
     <string name="pref_k_h">Monitorizare in-ear în direct</string>
-    <string name="pref_k_s_i">Redați sunetul înregistrat în căști atunci când acestea sunt conectate</string>
+    <string name="pref_k_s_i">Monitorizează sunetul înregistrat utilizând căștile, atunci când acestea sunt conectate</string>
     <string name="pref_lens_dirty_detect_summary">Primiți o notificare când lentila este murdară</string>
     <string name="pref_lens_dirty_detect_title">Notifică despre lentile murdare</string>
     <string name="pref_live_duration_title">Durată videoclip live</string>
@@ -1614,7 +1615,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="prek_b_j_o">Recreați efectul surround stereo</string>
     <string name="prek_b_j_p">Reduceți impactul vântului asupra înregistrării sunetului</string>
     <string name="prep_video_ai_audio_new_desc_tip">Sunetele provenite de la subiectul în focus sunt îmbunătățite</string>
-    <string name="prep_video_ai_audio_single_desc_tip">Sunetele din spatele ecranului sunt filtrate</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Sunetele provenite din spatele ecranului sunt filtrate</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Zoomul audio nu funcționează cu monitorul intraauricular live și cu microfonul extern</string>
     <string name="preparing_sd">Verificare card SD…</string>
     <string name="preview_back_pressed_hint">Apăsați din nou pentru a reveni la previzualizare</string>
@@ -1626,6 +1627,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="recommend_soft_light_tip">Activați blițul</string>
     <string name="recommend_super_night">Încercați modul Nocturn</string>
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
+    <string name="remote_device_type_phone">Xiaomi</string>
     <string name="remote_online_connecting">Selectați dispozitivul de conectat</string>
     <string name="remote_online_disconnect_confirmation">Anulați conectarea la %1$s?</string>
     <string name="remote_online_exit_confirmation">Dezactivați înregistrarea telefon dual acum?</string>
@@ -1634,6 +1636,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="remote_online_interrupted">Deconectat. Conectați-vă din nou pentru a continua.</string>
     <string name="remote_online_introduction_i">Înregistrarea telefon dual permite combinarea fluxurilor de la două dispozitive diferite într-un singur videoclip. Veți putea previzualiza ambele fluxuri și videoclipul final de pe acest dispozitiv. Rețineți că sunetul va fi înregistrat numai de acest dispozitiv.</string>
     <string name="remote_online_introduction_ii">Pentru ca această funcție să funcționeze, celălalt dispozitiv Mi sau Redmi trebuie să accepte înregistrarea telefon dual. Poate fi activată folosind comutatorul din centrul de control.</string>
+    <string name="remote_online_permission">Modificați permisiunea de localizare pentru aplicația Cameră la \"Permite doar când se utilizează aplicația\" pentru a putea utiliza înregistrarea telefon dual.</string>
     <string name="remote_online_searching">Se caută dispozitive…</string>
     <string name="remote_online_service_name">Înregistrare telefon dual</string>
     <string name="remote_online_unavailable">Nu s-au găsit dispozitive în apropiere</string>

@@ -70,6 +70,8 @@
     <string name="feedback_tip_cancel">Datele notificărilor nu vor fi colectate.</string>
     <string name="feedback_tip_msg">Pentru a grupa notificările mai precis, trebuie să colectăm numele aplicației, titlul notificării și descrierea și ora când notificarea a fost trimisă. Trimiteți feedback-ul dvs.?</string>
     <string name="feedback_tip_title">Feedback despre categoriile notificărilor</string>
+    <string name="float_notification_snooze_strategy">Ascunde temporar</string>
+    <string name="float_notification_snooze_summary">Glisați în sus o notificare plutitoare pentru a le ascunde temporar pe cele viitoare</string>
     <string name="float_notifications">Notificări plutitoare</string>
     <string name="float_notifications_short">Plutitoare</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -156,6 +158,10 @@
     <string name="menu_setting_toast_show_in_home">Notificările de la %s nu vor fi grupate</string>
     <string name="menu_setting_unfold">Importante</string>
     <string name="midnight">Noapte</string>
+    <string name="miui_snooze_always_float">Nu ascunde</string>
+    <string name="miui_snooze_cancel">Renunțați</string>
+    <string name="miui_snooze_default_time">Pentru %d minut</string>
+    <string name="miui_snooze_until_unlock_screen">Până la blocare</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud</string>

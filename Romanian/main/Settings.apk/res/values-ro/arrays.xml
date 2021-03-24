@@ -1893,6 +1893,14 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>DHCP</item>
         <item>Static</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Auxiliar</item>
+        <item>Complet</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Creșteți viteza folosind datele mobile numai atunci când semnalul Wi-Fi este slab</item>
+        <item>Combinați datele Wi-Fi și mobile pentru a crește viteza conexiunii</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detectează în mod automat</item>
         <item>Tratează ca rețea contorizată</item>

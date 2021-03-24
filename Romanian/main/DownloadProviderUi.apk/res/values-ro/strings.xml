@@ -677,9 +677,13 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="tip_download_icon_restore">Adăugați o scurtătură pe Ecranul principal pentru Descărcări</string>
+    <string name="tip_download_icon_retry">Nu s-a putut adăuga scurtătura. Încercați din nou.</string>
     <string name="title_homepage_infoflow">Actualizări recente</string>
     <string name="title_tips">Atenţie</string>
     <string name="title_unbind_xunlei">Eliminaţi contul Xunlei</string>
+    <string name="toast_download_icon_restore_fail">Nu s-a putut adăuga scurtătura</string>
+    <string name="toast_download_icon_restore_success">Adăugată cu succes</string>
     <string name="toast_only_wifi_download">Conectați-vă la Wi-Fi pentru a descărca acest element</string>
     <string name="toast_update_data_limit_fail">Nu s-a putut seta</string>
     <string name="toast_xunlei_engine_open">Acceleratorul descărcărilor Xunlei este activat</string>

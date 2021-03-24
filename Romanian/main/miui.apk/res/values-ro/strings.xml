@@ -92,6 +92,7 @@
     <string name="click_to_restore">Restaurați elementele de sistem pentru a putea utiliza MIUI în mod normal după o revenire la setările din fabrică. Atingeți pentru a începe.</string>
     <string name="close">Închideţi</string>
     <string name="com_android_email">E-mail</string>
+    <string name="com_android_soundrecorder">Înregistrare</string>
     <string name="com_mi_liveassistant">Asistent redare live</string>
     <string name="com_miui_calculator">Calculator</string>
     <string name="com_miui_cleanmaster">Curățare</string>
@@ -105,6 +106,7 @@
     <string name="com_xiaomi_drivemode">Mod Mașină</string>
     <string name="com_xiaomi_gamecenter">Jocuri</string>
     <string name="com_xiaomi_jr">Finanțe Mi</string>
+    <string name="com_xiaomi_midrop">Partajare</string>
     <string name="com_xiaomi_scanner">Scaner</string>
     <string name="com_xiaomi_shop">Magazin Mi</string>
     <string name="com_xiaomi_vipaccount">Comunitatea Mi</string>
