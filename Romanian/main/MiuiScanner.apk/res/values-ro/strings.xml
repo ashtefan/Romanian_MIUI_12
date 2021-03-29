@@ -463,6 +463,7 @@
     <string name="phone_can_not_be_empty">Numărul de telefon nu poate rămâne necompletat</string>
     <string name="phone_number">Număr de telefon</string>
     <string name="phone_storage">Stocare internă</string>
+    <string name="picture">Galerie</string>
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_is_being_saved">Fotografia este salvată</string>
     <string name="pdf_saved_failed">salvarea .pdf-ului a eșuat</string>

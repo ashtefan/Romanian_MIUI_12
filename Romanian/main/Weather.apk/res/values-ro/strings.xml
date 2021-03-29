@@ -686,8 +686,10 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="xiaomi_weather_description_content">"Aplicația Meteo vă furnizează date meteo precise. Fără această aplicație bara de stare și widgetul meteo de pe ecranul principal nu vor mai funcționa corect. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a dezinstala aplicația."</string>
-    <string name="xiaomi_weather_description_title">Despre aplicația Meteo</string>
+    <string name="xiaomi_weather_description_content">"Aplicația Meteo este o aplicație de sistem. Nu veți mai putea vedea informații despre starea vremii sau să utilizați widget-urile înrudite după ce veți dezinstala aplicația."</string>
+    <string name="xiaomi_weather_description_content_remove">"Aplicația Meteo este o aplicație de sistem. Nu veți mai putea vedea informații despre starea vremii sau să utilizați widget-urile înrudite după ce veți elimina scurtătura de pe Ecranul principal."</string>
+    <string name="xiaomi_weather_description_title">Dezinstalați aplicația \"Meteo\"?</string>
+    <string name="xiaomi_weather_description_title_remove">Eliminați \"Vremea\" de pe Ecranul principal?</string>
     <string name="yes_vote_ratio">Pentru %1$s%%</string>
     <string name="yesterday">Ieri</string>
 </resources>

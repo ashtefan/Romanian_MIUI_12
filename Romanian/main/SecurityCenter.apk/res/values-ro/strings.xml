@@ -1584,6 +1584,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
+    <string name="gamebox_collimator">Ochire</string>
     <string name="gamebox_display_1">Niciunul</string>
     <string name="gamebox_display_2">Saturat</string>
     <string name="gamebox_display_3">Luminos</string>
@@ -1612,6 +1613,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
     <string name="gamebox_recent_task_expand_fail">"Aplicațiile care funcționează cu aceste scurtături nu sunt instalate"</string>
     <string name="gamebox_simcard">Comutați cartelele SIM</string>
+    <string name="gamebox_time">Temporizator</string>
     <string name="gamebox_type_close">"Nu arăta"</string>
     <string name="gamebox_type_float">Scurtătură fixată</string>
     <string name="gamebox_type_gesture">Glisați pentru a afișa</string>
@@ -1663,6 +1665,10 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrează când apar sincope în jocuri</string>
     <string name="gb_audition_instruction">Apăsați și mențineți apăsat pentru a înregistra (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
+    <string name="gb_collimator_color">Culoare</string>
+    <string name="gb_collimator_size">Dimensiune</string>
+    <string name="gb_collimator_style">Tip</string>
+    <string name="gb_collimator_toast">Un vizor de ochire face țintirea mai precisă</string>
     <string name="gb_create_icon_summary">Crează o scurtătură pe Ecranul principal</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
@@ -1698,6 +1704,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_game_macro_bubble_tips">Încercați combo-urile</string>
     <string name="gb_game_macro_toast_tips">"Încercați combo-urile!
 Înregistrați secvențe și utilizați-le oricând!"</string>
+    <string name="gb_game_time_toast">Temporizatorul este disponibil acum!</string>
     <string name="gb_game_video_bottom_tips">Revizitați momentele cheie din sesiunile dvs. de jocuri din Jocuri Turbo. Videoclipurile vor fi șterse automat după 7 zile.</string>
     <string name="gb_game_video_item_tag">Moment cheie</string>
     <string name="gb_game_video_page_delete_success">Șters cu succes</string>
@@ -1725,6 +1732,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
     <string name="gb_network_status_bad">A apărut o eroare de conexiune.</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
+    <string name="gb_not_support_on_device">Această aplicație nu poate fi utilizată pe ecranul extern</string>
     <string name="gb_operat_frequently">Nu așa de repede!</string>
     <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
     <string name="gb_shoulder_key">Butoane de umăr</string>
@@ -4458,6 +4466,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_quick_func_screen_record">Înregistrați</string>
     <string name="vb_quick_func_screening">Proiectați</string>
     <string name="vb_settings">Setări</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Aceste efecte sunt aplicate întregului ecran</string>
     <string name="vb_ve_settings_pic_border_stronger">Contururi îmbunătățite</string>
     <string name="vb_ve_settings_picture_stronger">Animații îmbunătățite</string>
@@ -4516,6 +4525,7 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="virus_wait_network_dialog_message">"Telefonul nu este conectat la Wi-Fi. Utilizați conexiunea de date mobile?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_func_desc">Despre această funcție</string>
+    <string name="vtb_func_display_style_desc0">AI poate recunoaște persoane, animale, plante, cer, clădiri și alte obiecte prezentate în videoclipuri și le poate îmbunătăți dinamic.</string>
     <string name="vtb_func_display_style_desc1">Efectele selectate nu vor fi aplicate videoclipurilor HDR pe dispozitivele selectate.</string>
     <string name="vtb_func_display_style_desc2">Aceste efecte nu se pot aplica la capturile de ecran.</string>
     <string name="vtb_func_frc_desc0">Fluidizarea mișcării reduce estomparea și adaugă detalii obiectelor în mișcare. Utilizarea acestei caracteristici crește consumul de energie.</string>

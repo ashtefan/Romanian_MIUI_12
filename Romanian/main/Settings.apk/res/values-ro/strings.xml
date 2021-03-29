@@ -410,7 +410,11 @@ Pentru a comuta între funcții, glisați în sus cu 3 degete și mențineți ap
     <string name="add_fingerprint_toast_text">Plasați degetul pe scanerul de amprente</string>
     <string name="add_front_fingerprint_instruction_msg">Senzorul de amprentă este încorporat în butonul Acasă al telefonului.</string>
     <string name="add_new">Adăugați</string>
+    <string name="add_one_text_app_name_once">Puteți adăuga un singur pachet o dată</string>
     <string name="add_rule">Adăugați reguli</string>
+    <string name="add_text_app_name">Adăugați un pachet de aplicații de testare</string>
+    <string name="add_text_app_name_here">Introduceți numele pachetului</string>
+    <string name="add_text_app_package_name">Adăugați un pachet de aplicații de testare</string>
     <string name="add_virtual_keyboard">Gestionați tastaturile de pe ecran</string>
     <string name="adding_profile_owner_warning">"Continuând, contul dumneavoastră de Utilizator va fi administrat de către Administratorul dumneavoastră, care va putea stoca de asemenea datele personale asociate.
 
@@ -4536,6 +4540,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_LeftEar">Stânga</string>
     <string name="miheadset_RightEar">Dreapta</string>
     <string name="miheadset_active">Energic</string>
+    <string name="miheadset_adaptive">Adaptiv</string>
     <string name="miheadset_ancClosed">Oprit</string>
     <string name="miheadset_ancHigh">Avion</string>
     <string name="miheadset_ancLow">Birou</string>
