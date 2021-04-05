@@ -825,6 +825,8 @@
     <string name="toast_updater_open_4g_text">Aplicațiile vor fi actualizate utilizând datele mobile (4G)</string>
     <string name="total_clean">Curățat în total: %s</string>
     <string name="total_clean_text">Curățat</string>
+    <string name="unit_gb">%s GB</string>
+    <string name="unit_mb">%s MB</string>
     <string name="unlike">Nu, mulțumesc</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">OPRIT</string>
@@ -890,6 +892,7 @@
     <string name="wechat_qq_deep_clean_button_text">Curățare profundă</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="whatsapp_btn_quick_cleanup">Ștergeți elementele selectate (%s)</string>
+    <string name="whatsapp_cache_clear">Se curăță memoria cache…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Scanează în continuare</string>
     <string name="whatsapp_clean_exit_confirm_msg">"Încă nu s-a încheiat scanarea WhatsApp. Opriți scanarea acum?"</string>
     <string name="whatsapp_clean_exit_confirm_ok">Opriți</string>
@@ -899,6 +902,10 @@
     <string name="whatsapp_delete_confirm_message">Ștergeți acum?</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
     <string name="whatsapp_delete_done">Gata</string>
+    <string name="whatsapp_detail_cache_result">Eliberat %s</string>
+    <string name="whatsapp_detail_sort_created">Sortați după dată</string>
+    <string name="whatsapp_file_recv">Primit</string>
+    <string name="whatsapp_file_send">Trimis</string>
     <string name="whatsapp_file_show_order">Astăzi</string>
     <string name="whatsapp_function_summery">Curățați atașamentele WhatsApp</string>
     <string name="whatsapp_function_title">Curățare WhatsApp</string>

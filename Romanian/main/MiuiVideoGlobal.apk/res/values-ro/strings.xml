@@ -281,7 +281,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_privacy_revoke_ok">Retrageți</string>
     <string name="dialog_privacy_revoke_success">Retras cu succes</string>
     <string name="dialog_privacy_revoking">Se retrage consimțământul…</string>
-    <string name="dialog_privacy_title">Autorizaţie</string>
+    <string name="dialog_privacy_title">Termeni și condiții</string>
     <string name="dialog_revoke_privacy_info_new2">După revocarea autorizației, aplicația va opri colectarea datelor și toate datele asociate vor fi șterse de pe serverele noastre. Acest lucru poate face aplicația practic inutilizabilă. Anulați oricum autorizația?</string>
     <string name="dialog_revoke_privacy_title">Revocarea autorizației</string>
     <string name="disagree">Nu sunt de acord</string>
@@ -1207,6 +1207,7 @@ Verificați alte videoclipuri!"</string>
     <string name="screenshot_8k_share">Trimiteți fișierul la</string>
     <string name="search">Căutați</string>
     <string name="search_bar_hint">Căutați videoclipuri</string>
+    <string name="search_bar_video_download_hint">Căutați sau introduceți URL-ul</string>
     <string name="search_choose_language">Selectați limba</string>
     <string name="search_choose_voice_language">Selectați limba utilizată pentru căutare vocală</string>
     <string name="search_hot_words">Populare</string>
@@ -1408,7 +1409,19 @@ Verificați alte videoclipuri!"</string>
     <string name="v_txt_login">Conectați-vă pentru a vă sincroniza favoritele</string>
     <string name="v_update">Actualizați</string>
     <string name="video_already_download_tip">Ați descărcat deja acest element</string>
+    <string name="video_download_btn">Descărcați</string>
     <string name="video_download_fail">Nu s-a putut descărca videoclipul</string>
+    <string name="video_download_fail_hint">Nu s-a putut descărca</string>
+    <string name="video_download_floating_guide">Descărcați gratuit videoclipuri</string>
+    <string name="video_download_forbidden">Nu se poate descărca de pe acest site</string>
+    <string name="video_download_network_error">Eroare de rețea</string>
+    <string name="video_download_play_video_guide">Mai întâi, redați videoclipul.</string>
+    <string name="video_download_play_video_guide2">Apoi apăsați butonul pentru a descărca.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Descărcare Web</string>
+    <string name="video_download_start">Se descarcă…</string>
+    <string name="video_download_storage_error">Nu există suficient spațiu de stocare</string>
+    <string name="video_downloading">Se descarcă…</string>
     <string name="video_live_over">Această sesiune s-a încheiat</string>
     <string name="video_noyet_download_tip">Acest video încă se descarcă</string>
     <string name="video_offline">Acest element nu mai este disponibil</string>

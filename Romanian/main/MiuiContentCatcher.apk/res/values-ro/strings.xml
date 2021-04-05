@@ -19,6 +19,7 @@
     <string name="autofill_password_activity_label">Coduri de verificare</string>
     <string name="autofill_service_label">Gestionați parolele</string>
     <string name="autofill_setting_activity_label">Gestionați parolele</string>
+    <string name="back_button_label">Înapoi</string>
     <string name="cancel">Renunțați</string>
     <string name="change_passwork_dialog_content">"Ați salvat deja o parolă pentru acest cont. Actualizați parola acum?"</string>
     <string name="change_passwork_dialog_title">Actualizați parola?</string>

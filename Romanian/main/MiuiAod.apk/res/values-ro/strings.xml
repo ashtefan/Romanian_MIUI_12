@@ -76,7 +76,7 @@ dd/MM"</string>
     <string name="aod_style">Temă</string>
     <string name="aod_theme_store">Teme afișaj activ permanent</string>
     <string name="aod_to_close">Dezactivați</string>
-    <string name="app_name">Preference</string>
+    <string name="app_name">blur</string>
     <string name="apply">Aplicați</string>
     <string name="apply_succeed">Aplicat cu succes</string>
     <string name="background_icon">Fundal</string>
@@ -92,6 +92,7 @@ dd/MM"</string>
     <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="clock_panel_icon">Cadranul ceasului</string>
+    <string name="close">Închideți</string>
     <string name="color_change_with_time_description">Modifică în mod automat culoarea textului în timp</string>
     <string name="color_change_with_time_title">Modifică în mod automat culoarea</string>
     <string name="component_battery">Acumulator</string>
@@ -103,6 +104,7 @@ dd/MM"</string>
     <string name="copy">Copiați</string>
     <string name="custom_image">Imagine personalizată</string>
     <string name="date_picker_lunar">Calendar Chinez Tradițional</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="deep_space_planet">Spațiu exterior</string>
     <string name="deep_space_planet_des">Această temă reflectă modificarea luminii înconjurătoare pe parcursul zilei. De asemenea apusul și răsăritul sunt sincronizate cu locația dvs.</string>
     <string name="delete">Ștergeți</string>
@@ -189,10 +191,13 @@ dd/MM"</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -314,6 +319,7 @@ dd/MM"</string>
     <string name="search_menu_title">Căutați</string>
     <string name="select_notification_animation_style">Selectați efectul special</string>
     <string name="select_notification_notify_style">Selectați efectul de notificare</string>
+    <string name="send">Trimiteți</string>
     <string name="share">Partajați</string>
     <string name="share_to_community">Partajați Comunității Mi</string>
     <string name="show_battery">Afișează starea bateriei</string>

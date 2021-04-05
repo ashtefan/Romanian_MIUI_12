@@ -670,6 +670,9 @@
     <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="version_update_dialog_negative_desc">Nu acum</string>
+    <string name="version_update_dialog_positive_desc">Actualizați</string>
+    <string name="version_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="vibrate_pref_summary">Vibrare în timpul alarmei</string>
     <string name="vibrate_when_ringing">Vibrare în tim ce sună</string>
     <string name="voice_add_alarm">Adăugați o alarmă utilizând o comandă vocală</string>

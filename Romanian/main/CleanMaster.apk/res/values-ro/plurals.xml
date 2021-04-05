@@ -170,10 +170,6 @@
         <item quantity="other">(%1$d fișiere goale)</item>
         <item quantity="one">(%1$d fișier gol)</item>
     </plurals>
-    <plurals name="whatsapp_delete_files">
-        <item quantity="other">Ștergeți %1$d elemente?</item>
-        <item quantity="one">Ștergeți %1$d element?</item>
-    </plurals>
     <plurals name="wechat_video_time_p1">
         <item quantity="other">%1$s:</item>
         <item quantity="one">%1$s:</item>
@@ -181,5 +177,13 @@
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Ștergeți %1$d elemente?</item>
+        <item quantity="one">Ștergeți %1$d element?</item>
+    </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s fișiere audio</item>
+        <item quantity="one">%1$s fișier audio</item>
     </plurals>
 </resources>

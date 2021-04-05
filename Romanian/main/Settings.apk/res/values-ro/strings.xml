@@ -8162,7 +8162,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usagestats_device_notification_des_over">Ați ajuns deja la limita de timp a ecranului.</string>
     <string name="usagestats_device_notification_des_reset">Limita de azi: %1$s | %2$s rămas</string>
     <string name="usagestats_device_notification_title">Alertă durată de utilizare</string>
-    <string name="usagestats_device_timeout_des">"Astăzi ați utilizat dispozitivul timp de %1$dh %2$dm. Odihniți-vă!"</string>
+    <string name="usagestats_device_timeout_des">"Astăzi ați utilizat dispozitivul timp de %1$dh și %2$dm. Odihniți-vă!"</string>
     <string name="usagestats_device_timeout_negative">Reaminteşte-mi într-o oră</string>
     <string name="usagestats_device_timeout_positive">Am înțeles</string>
     <string name="usagestats_device_timeout_title">Alertă durată de utilizare</string>

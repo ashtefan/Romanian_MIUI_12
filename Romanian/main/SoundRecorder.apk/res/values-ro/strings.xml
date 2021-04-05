@@ -412,6 +412,8 @@
     <string name="reg_error_server">A apărut o eroare de server. Raportați această eroare și încercați din nou.</string>
     <string name="reg_error_upload_audio">"Nu s-a putut încărca fișierul; încercați din nou."</string>
     <string name="reg_error_upload_order">"Nu s-a putut încărca; încercați din nou."</string>
+    <string name="remove_icon_description_content">Aplicația de Înregistrare este o aplicație de sistem. Nu veți putea gestiona înregistrările după ce eliminați comanda rapidă de pe Ecranul principal.</string>
+    <string name="remove_icon_description_title">Eliminați \"Înregistrare\" de pe Ecranul principal?</string>
     <string name="rename">Redenumiţi</string>
     <string name="rename_dialog_title">Redenumiţi înregistrarea</string>
     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
