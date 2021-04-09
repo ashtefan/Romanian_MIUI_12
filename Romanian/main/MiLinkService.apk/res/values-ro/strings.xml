@@ -76,6 +76,8 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
 2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea \"Ajutor\" pentru a afla mai multe."</string>
     <string name="dialog_scanning_device">Se caută dispozitive în apropiere…</string>
     <string name="dialog_scanning_precondition">Activați Wi-Fi-ul și Bluetooth-ul pe telefonul dvs. pentru a utiliza Ecranul Wireless.</string>
+    <string name="dialog_scanning_precondition_new_china">Activați Wi-Fi, Bluetooth-ul și serviciile de localizare pentru a putea utiliza proiectarea. Activați acum?</string>
+    <string name="dialog_scanning_precondition_new_global">Activați Wi-Fi, Bluetooth-ul și serviciile de localizare pentru a putea utiliza proiectarea. Activați acum?</string>
     <string name="dialog_select_tv">Selectați dispozitivul (%d)</string>
     <string name="dialog_show_help">Ajutor</string>
     <string name="disconnect">Opriți proiectarea</string>

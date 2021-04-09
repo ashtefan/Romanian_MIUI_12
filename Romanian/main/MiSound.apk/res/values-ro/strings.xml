@@ -147,10 +147,12 @@
     <string name="music_headphone_settings">Alegeți tipul căștilor</string>
     <string name="music_headset_audio_visual">Efecte vizuale</string>
     <string name="music_headset_audio_visual_apply">Aplicați</string>
+    <string name="music_headset_audio_visual_mute">Previzualizați fără sunet</string>
     <string name="music_headset_audio_visual_style">Stilul efectelor vizuale</string>
     <string name="music_headset_audio_visual_style_summary">Selectați stilul efectelor vizuale</string>
     <string name="music_headset_audio_visual_summary">Însoțește sunetul cu efecte vizuale afișate pe Ecranul principal</string>
     <string name="music_headset_audio_visual_toast">Aplicat cu succes</string>
+    <string name="music_headset_audio_visual_unmute">Previzualizați cu sunet</string>
     <string name="music_headset_button_settings">Atribuiți butoane</string>
     <string name="music_headset_calibrate">Atribuire butoane</string>
     <string name="music_headset_calibrate_apply">Utilizaţi</string>
@@ -203,6 +205,8 @@
     <string name="music_upper_sixty_years">Mai mult de 60 de ani</string>
     <string name="name">Nume</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_support_sound_transmission_content">Această caracteristică nu este suportată de către dispozitivul conectat. Încercați cu alt dispozitiv Bluetooth.</string>
+    <string name="not_support_sound_transmission_prompt">Atenție</string>
     <string name="now_here">Și acum?</string>
     <string name="original_sound">Redați sunetul original</string>
     <string name="personal_sound">Redați aplicând presetarea</string>

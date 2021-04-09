@@ -539,6 +539,8 @@ Selecție"</string>
     <string name="call_barring_sum">Setările restricţionării apelurilor vocale</string>
     <string name="call_category">Apelare</string>
     <string name="call_description_recording">Înregistrare…</string>
+    <string name="call_fold_setting">Pliere și depliere</string>
+    <string name="call_fold_setting_title">Pliere și depliere</string>
     <string name="call_forward_option">Redirecționare apel</string>
     <string name="call_forwarding_number_hint">Redirecţionare apeluri la</string>
     <string name="call_forwarding_settings">Redirecţionare apeluri</string>
@@ -1104,6 +1106,8 @@ Utilizați datele mobile oricum?"</string>
     <string name="fiveg_upperlayer_indication2">Stare Indicator Strat Superior[Slot 2] :</string>
     <string name="flash_when_ring_summary">Utilizați lanterna pentru a notifica despre apelurile primite</string>
     <string name="flash_when_ring_title">LED activ la apelurile primite</string>
+    <string name="fold_answer_pref_summary">Pliați dispozitivul pentru a accepta automat un apel primit</string>
+    <string name="fold_answer_pref_title">Pliați pentru a accepta apelurile</string>
     <string name="forbidden_network">(interzisă)</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației externe</string>
     <string name="force_allow_on_external_summary">Permite oricărei aplicații să fie scrisă în memoria externă, fără a se ține cont de valorile atribuite</string>
@@ -2383,6 +2387,10 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria, vibrațiile și va opri pulsarea LED-ulului de notificare.</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
     <string name="undefined">Nimic</string>
+    <string name="unfold_close_camera_pref_summary">Depliați dispozitivul în timpul unui apel video pentru a opri camera</string>
+    <string name="unfold_close_camera_pref_title">Depliați pentru a opri camera</string>
+    <string name="unfold_speaker_pref_summary">Depliați dispozitivul în timpul unui apel pentru a activa difuzorul</string>
+    <string name="unfold_speaker_pref_title">Depliați pentru a utiliza difuzorul</string>
     <string name="unknown">Necunoscut</string>
     <string name="unlock_failed">Solicitare deblocare rețea fără succes.</string>
     <string name="unlock_success">Deblocare rețea SIM finalizată cu succes.</string>
@@ -2533,6 +2541,7 @@ Apelurile de urgență sunt posibile doar în zonele cu acoperire a rețelei mob
     <string name="wapi_password_length_is_min_to_max">Parola trebuie să conțină între 8 și 64 de caractere</string>
     <string name="wapi_yes">da</string>
     <string name="wfc_provisioned_switch_string">Apel Wi-Fi furnizat</string>
+    <string name="wfcmode_ims_preferred">De preferat IMS</string>
     <string name="wfcmode_mobile_preferred">De preferat rețele mobile</string>
     <string name="wfcmode_wifi_only">Doar Wi-Fi</string>
     <string name="wfcmode_wifi_preferred">De preferat Wi-Fi</string>

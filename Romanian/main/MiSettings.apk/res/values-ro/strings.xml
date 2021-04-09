@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="actionbar_button_up_description">Înapoi</string>
+    <string name="adaptive_fps_tip">2. Obțineți cel mai bun echilibru între fluiditate și durata de viață a bateriei, ajustând dinamic rata de reîmprospătare.</string>
     <string name="advanced_mode">Setări avansate</string>
     <string name="africa_introduction">Viața sălbatică prosperă în Africa - găzduind multe dintre cele mai faimoase animale din lume.</string>
     <string name="african_bush_elephant">Elefant african de tufiș</string>
@@ -120,6 +121,7 @@
     <string name="class_breast_feeding">Mamifere</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_save">Apăsați \"Finalizat\" pentru a seta un sunet de apel general.</string>
+    <string name="close">Închideți</string>
     <string name="color_gamut">Gamă de culori</string>
     <string name="common_brushtail">Oposum cu coadă perie</string>
     <string name="common_ostrich">Struț</string>
@@ -282,7 +284,7 @@
     <string name="fps_smooth_title">Medie</string>
     <string name="fps_standard_summary">O rată de reîmprospătare standard economisește acumulatorul</string>
     <string name="fps_standard_title">Standard</string>
-    <string name="fps_user_tip">Aceste animații demonstrative sunt redate la viteză mică pentru referință. Performanța reală ar putea arăta diferit pe baza diferiților factori.</string>
+    <string name="fps_user_tip">1. Aceste animații demonstrative sunt redate la viteză mică pentru referință. Performanța reală ar putea arăta diferit pe baza diferiților factori.</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -528,6 +530,7 @@
     <string name="search_app_name">Căutați aplicații</string>
     <string name="search_empty">Nicio aplicație găsită</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="send">Trimiteți</string>
     <string name="several_days_use_time">Timp de ecran: %2$s</string>
     <string name="short_eared_owl">Bufniță cu urechi scurte</string>
     <string name="shortcut_created">Această scurtătură există deja</string>

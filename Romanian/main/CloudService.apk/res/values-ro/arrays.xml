@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Pentru identificarea dispozitivului dvs.</item>
-        <item>Pentru localizarea dispozitivului și comutarea la modul pierdut</item>
+        <item>Pentru localizarea dispozitivului și comutarea la modul Pierdut</item>
     </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Pentru sincronizarea evenimentelor</item>

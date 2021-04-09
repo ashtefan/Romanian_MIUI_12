@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Obţinere informaţii album…</string>
     <string name="album_share_title_new_album">Distribuiţi un album nou</string>
     <string name="album_show_local_only">Arată doar albumele locale</string>
-    <string name="album_show_local_only_summary">Activați pentru a vedea sau șterge fotografiile doar de pe dispozitiv</string>
+    <string name="album_show_local_only_summary">O opțiune pentru ștergerea numai a albumelor locale va deveni disponibilă atunci când această funcție este activată</string>
     <string name="album_sort_type">Ordinea de sortare</string>
     <string name="album_sort_type_create_time_asc">De la cele mai vechi la cele mai noi</string>
     <string name="album_sort_type_create_time_desc">De la cele mai noi la cele mai vechi</string>
@@ -218,10 +218,12 @@
     <string name="assistant_page_label">Amintiri</string>
     <string name="assistant_page_server_error">Verificați setările de rețea</string>
     <string name="associate_face_album">Selectați un album</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="authorize_to_device_failed">Nu s-a putut autoriza</string>
     <string name="authorize_watch_on_tv_failed">Nu s-a putut autoriza vizualizarea pe TV</string>
     <string name="auto_backup_introduce">Sincronizare automată fotografii și videoclipuri (este necesar un cont Mi)</string>
-    <string name="auto_download_media_title">Descărcați fotografiile din Xiaomi Cloud în mod automat</string>
+    <string name="auto_download_media_title">Descărcați în mod automat</string>
     <string name="auto_download_title">Selectați calitatea imaginii</string>
     <string name="auto_update_face">Adăugați fotografii în mod automat</string>
     <string name="auto_update_face_summary">Se potrivesc și se adaugă în mod automat fotografii la Albumul Copilului</string>
@@ -465,15 +467,15 @@
     <string name="cloud_backup_title">Sincronizare în cloud</string>
     <string name="cloud_bacup_disable_button">Dezactivați sincronizarea</string>
     <string name="cloud_bacup_disable_processing">Se procesează…</string>
-    <string name="cloud_camera_display_name">Cameră</string>
+    <string name="cloud_camera_display_name">Fotografii Cameră</string>
     <string name="cloud_cancel_authorizing_to_device">Se anulează autorizarea…</string>
     <string name="cloud_guide_auto_backup_title">Selectați albumele ce vor fi sincronizate</string>
     <string name="cloud_guide_login_title">Crează în mod automat o copie de rezervă pentru fotografii și videoclipuri</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_login_ok">am înțeles</string>
+    <string name="cloud_login_ok">Am înțeles</string>
     <string name="cloud_login_settings_title">Setări sincronizare</string>
-    <string name="cloud_privacy_with_ai_album">Declarația de confidențialitate privind sincronizarea automată și procesarea imaginilor</string>
-    <string name="cloud_privacy_with_face">Declarația de confidențialitate privind sincronizarea automată și recunoașterea facială</string>
+    <string name="cloud_privacy_with_ai_album">Caracteristici și confidențialitate</string>
+    <string name="cloud_privacy_with_face">Caracteristici și confidențialitate</string>
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_settings">Sincronizare</string>
     <string name="cloud_storage_extend">Extindeți spațiul de stocare în cloud</string>
@@ -558,6 +560,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Chinez Tradițional</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="datetimepicker_dialog_title">Modificați ora</string>
     <string name="datetimepicker_updatetime_failed">"Nu s-a putut modifica ora"</string>
     <string name="datetimepicker_updatetime_success">Oră modificată cu succes</string>
@@ -971,13 +974,15 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_xinggui">Traiectorii</string>
     <string name="filter_sky_xinghe">Galaxie</string>
     <string name="filter_sky_xingji">Urme de stele</string>
+    <string name="filter_sky_xingye">Noapte înstelată</string>
     <string name="filter_sky_xizhao">Auroră</string>
     <string name="filter_sky_xuanguang">Boreal</string>
     <string name="filter_sky_xuanyue">Semilună</string>
     <string name="filter_sky_yingxia">Dimineață</string>
     <string name="filter_sky_yingyue">Lună plină</string>
     <string name="filter_sky_yinhe">Calea lactee</string>
-    <string name="filter_sky_yuhui">Lumină decolorată</string>
+    <string name="filter_sky_youyue">Lună întunecată</string>
+    <string name="filter_sky_yuhui">Lumină estompată</string>
     <string name="filter_sky_yunbo">Valuri</string>
     <string name="filter_sky_yunmeng">Fantezie</string>
   <string name="filter_sky_yunxu">Cirrus</string>
@@ -1063,6 +1068,8 @@ efecte pentru fotografii"</string>
     <string name="help">Nu găsiți dispozitivul?</string>
     <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați cealaltă persoană să activeze Partajarea Mi.</string>
     <string name="hidden_album_display_name">Album ascuns</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="home_menu_art_still">Artă</string>
     <string name="home_menu_cleaner">Eliberați spațiu</string>
     <string name="home_menu_collage">Colaj</string>
@@ -1074,6 +1081,12 @@ efecte pentru fotografii"</string>
     <string name="home_menu_video_post">Efecte video</string>
     <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
+    <string name="homepage_allphotos_tip_dialog_button_negative">Omiteți</string>
+    <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
+    <string name="homepage_allphotos_tip_dialog_description_all">Toate</string>
+    <string name="homepage_allphotos_tip_dialog_description_only_camera">Realizate cu Camera</string>
+    <string name="homepage_allphotos_tip_dialog_subtitle">Puteți alege mai târziu din Setări</string>
+    <string name="homepage_allphotos_tip_dialog_title">Ce imagini doriți să vedeți în fila \"Fotografii\"?</string>
     <string name="how_to_set_relation">Apăsați și mențineți apăsat un album pentru a crea un grup</string>
     <string name="hr_preview_108m">S-a comutat la previzualizarea 108 MP</string>
     <string name="hybrid_check_network">Setări reţea</string>
@@ -1081,6 +1094,7 @@ efecte pentru fotografii"</string>
     <string name="hybrid_locating_fail">Nu s-a putut găsi locația dvs.</string>
     <string name="hybrid_network_access_denied">Acces la rețea refuzat</string>
     <string name="hybrid_network_unavaliable">Nu se poate conecta la reţea</string>
+    <string name="hybrid_provider">Furnizat de %1$s</string>
     <string name="hybrid_pull_to_refresh_pull_label">Trageți pentru a reîmprospăta…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Doar o secundă…</string>
     <string name="hybrid_pull_to_refresh_release_label">Eliberați pentru a actualiza…</string>
@@ -1319,10 +1333,13 @@ pentru a personaliza Galeria"</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1451,6 +1468,7 @@ pentru a personaliza Galeria"</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">Partajare în apropiere</string>
     <string name="need_to_turn_on_network">Nu aveţi o conexiune la internet</string>
     <string name="need_to_turn_on_sync">Activaţi sincronizarea în cloud</string>
     <string name="need_to_turn_on_sync_first">Activaţi sincronizarea în cloud mai întâi</string>
@@ -1470,6 +1488,7 @@ pentru a personaliza Galeria"</string>
     <string name="no">Nu</string>
     <string name="no_ignore_faces">Nicio persoană</string>
     <string name="no_map_app">Aplicaţia pentru hărţi lipseşte</string>
+    <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="no_network_connect">Nu s-a putut finaliza acțiunea. Verificați setările de rețea și încercați din nou.</string>
     <string name="no_network_connected">Reţeaua nu este conectată</string>
     <string name="noon">Amiază</string>
@@ -1479,6 +1498,8 @@ pentru a personaliza Galeria"</string>
     <string name="not_remind_any_more">Nu se afişează din nou</string>
     <string name="not_set">Nesetat</string>
     <string name="notice_click_lock_orientation">Apăsați pentru a bloca orientarea</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="ocr_abnormal">Nu s-a putut recunoaște textul.</string>
     <string name="ocr_abnormal_pic_format">Nu s-a putut recunoaște textul. Acest format de imagine nu este suportat.</string>
     <string name="ocr_abnormal_pic_too_large">Nu s-a putut recunoaște textul. Această imagine este prea mare.</string>
@@ -1492,6 +1513,7 @@ pentru a personaliza Galeria"</string>
     <string name="ocr_ongoing">Se recunoaște textul…</string>
     <string name="ocr_revise">Revizuiți</string>
     <string name="ocr_save_to_note">Salvați</string>
+    <string name="ocr_save_to_note_new">Salvați în Notițe</string>
     <string name="ocr_send">Partajați</string>
     <string name="ocr_text_copied">Copiat cu succes</string>
     <string name="ocr_title">Rezultat</string>
@@ -1898,6 +1920,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="risk_control_deleted_message">Cineva a șters elementele dvs. din Galeria cloud utilizând un %3$s pe %1$s la %2$s. Ați fost dumneavoastră?</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Avertisment de securitate</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="rubbish_album_move_to_other_album_success">Acum puteți vedea aceste elemente în \"Alte albume\".</string>
     <string name="rubbish_nomedia_manager_button_text">Gestionați albumele cu fișiere \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Aplicația Galerie s-a închis datorită unei permisiuni încălcate</string>
@@ -2009,6 +2033,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="select_image_operation">Se adaugă fotografii</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
+    <string name="send">Trimiteți</string>
     <string name="send_file_beautify_failed">Nu s-a putut partaja</string>
     <string name="send_files_by">Trimiteți fișierele prin</string>
     <string name="send_files_to">Trimiteți elementele către</string>
@@ -2046,7 +2071,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="share_public_url_text">Am distribuit albumul %1$s. Îl poţi vedea la %2$s</string>
     <string name="share_with_family">Partajați cu cei din familie</string>
     <string name="sharer_quota_fulfiled">Aţi distribuit deja acest album unui număr maxim de persoane.</string>
-    <string name="show_cloud_albumlist_summary">Gestionați albumele sincronizate în cloud</string>
+    <string name="show_cloud_albumlist_summary">Noile elemente din albumele selectate nu vor fi încărcate în cloud după ce veți dezactiva sincronizarea.</string>
     <string name="show_hidden_album_summary">Vedeți și gestionați albumele ascunse</string>
     <string name="show_hidden_album_title">Arată albumele invizibile</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Mutat cu succes. Mergeți la Alte albume pentru a-l vedea</string>
@@ -2058,6 +2083,13 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="signature_view_max_signature_limit_string">Ștergeți elementele mai vechi pentru a le putea adăuga pe cele noi</string>
     <string name="signature_view_signature_with_finger">Semnați aici</string>
     <string name="similar_keep_clear">Păstrați cele mai bune fotografii</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sky_dynamic">Dinamic</string>
     <string name="sky_night">Seară</string>
     <string name="sky_nocturne">Noapte</string>
@@ -2081,6 +2113,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_running">Se optimizează…</string>
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -2296,6 +2330,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="to_enable_sync_dialog_message">Activați întâi sincronizarea</string>
     <string name="to_enable_sync_dialog_positive_button_text">Mergeți la Setări</string>
     <string name="to_enable_sync_dialog_title">Sincronizare</string>
+    <string name="toast_download_with_metered_network_btn_continue">Descărcați</string>
+    <string name="toast_download_with_metered_network_msg">Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Descărcați elementele utilizând datele mobile?</string>
+    <string name="toast_download_with_metered_network_title">Avertisment utilizare date</string>
     <string name="toast_invalid_char">Numele fișierelor nu pot conține \"%s\"</string>
     <string name="toast_invalid_prefix">Numele fișierelor nu pot începe cu \".\" sau \"_\"</string>
     <string name="toast_orientation_locked">Orientare blocată cu succes</string>
@@ -2567,6 +2604,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_download_with_metered_network_title">Utilizarea conexiunii la rețelele cu plată</string>
     <string name="vlog_downloading_cloud_file">Se descarcă elementele din cloud…</string>
     <string name="vlog_end_of_film">Se închide</string>
+    <string name="vlog_estimated_size_x">≈%d MB</string>
     <string name="vlog_exit_ddit_message">Toate modificările vor fi pierdute dacă renunțați acum. Renunțați oricum?</string>
     <string name="vlog_exit_edit_title">Se părășește editorul</string>
     <string name="vlog_exit_message">Toate modificările nesalvate vor fi pierdute. Renunțați oricum?</string>
@@ -2606,6 +2644,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_load_data_fail">Nu s-au putut încărca datele</string>
     <string name="vlog_mi_clip">Editor video</string>
     <string name="vlog_mi_clip_cn">Editor video</string>
+    <string name="vlog_min_resolution_hint">Rezoluția curentă este cea mai mică disponibilă</string>
     <string name="vlog_nav_title_audio">Coloane sonore</string>
     <string name="vlog_nav_title_caption">Legende</string>
     <string name="vlog_nav_title_clip">Editor</string>
@@ -2618,6 +2657,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_ratio_choose">Selectați rația aspectului</string>
     <string name="vlog_ratio_fullsize">Ecran complet</string>
     <string name="vlog_ratio_original">Original</string>
+    <string name="vlog_resolution_origin">Rezoluția originală</string>
     <string name="vlog_reverse_dialog_cancel">Anulați inversarea</string>
     <string name="vlog_reverse_dialog_msg">Se inversează redarea…</string>
     <string name="vlog_reverse_fail">Nu s-a putut inversa</string>
@@ -2667,6 +2707,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_video_trans_code_cons">Se procesează un fișier cu rezoluție înaltă…</string>
     <string name="voice_assistant">Introducere vocală</string>
     <string name="watch_all_photo">Galerie</string>
+    <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
+    <string name="web_sso_login_message">Se conectează…</string>
+    <string name="webview_reload">Încercați din nou</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
@@ -2710,4 +2753,6 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="yuzhitiaojie">Scara de ajustare a grosimii</string>
     <string name="zi_ding_yi_wenben">Dimensiune personalizată</string>
     <string name="zman_title">Partajare în siguranță</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

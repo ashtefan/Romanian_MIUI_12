@@ -667,6 +667,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="clock_alarm">Alarmă</string>
     <string name="clock_parent">Ceas</string>
+    <string name="close">Închideți</string>
     <string name="closed">Închis</string>
     <string name="collect_diagnosis_log">Colectați jurnalul de diagnoză</string>
     <string name="commute">Sugestii destinații</string>
@@ -733,6 +734,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="data_error">A apărut o eroare; așteptați un minut sau două și reîncercați</string>
     <string name="data_error_show">Comanda este finalizată, nu se pot afișa detalii</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="debug_card_brief">Se depanează setările și uneltele</string>
     <string name="debug_card_detail">Se depanează setările și uneltele</string>
     <string name="debug_card_title">Se depanează</string>
@@ -1418,10 +1420,13 @@ Verificați numărul de urmărire."</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1682,6 +1687,7 @@ Verificați numărul de urmărire."</string>
     <string name="search_category_video">Videoclipuri</string>
     <string name="search_change_header">Înlocuiți coperta</string>
     <string name="search_clear_header">Eliminați coperta</string>
+    <string name="search_header_dialog_title">Schimbați fundalul</string>
     <string name="search_hint">Căutați în telefon și online</string>
     <string name="search_label">Căutare…</string>
     <string name="search_menu_title">Căutați</string>
@@ -1689,6 +1695,7 @@ Verificați numărul de urmărire."</string>
     <string name="search_tip">Căutare…</string>
     <string name="security">Securitate</string>
     <string name="selected_shortcuts_title">Pagina de pornire</string>
+    <string name="send">Trimiteți</string>
     <string name="send_action_title">Adăugați la Favorite</string>
     <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
     <string name="send_express">Livrare expres</string>

@@ -876,6 +876,13 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Verificați în mod automat</string>
     <string name="cellular_package_daily_input">Introduceți</string>
+    <string name="cetus_invisible_mode">Incognito</string>
+    <string name="cetus_invisible_mode_description_card">Suspendați permisiunile</string>
+    <string name="cetus_invisible_mode_description_switch">Activați pentru a suspenda permisiunile legate de microfon, cameră și locație pentru toate aplicațiile</string>
+    <string name="cetus_invisible_mode_warn_all">Sunteți în modul incognito. Permisiunile pentru microfon, cameră și locație sunt suspendate.</string>
+    <string name="cetus_invisible_mode_warn_camera">Sunteți în modul incognito. Permisiunile pentru cameră sunt suspendate.</string>
+    <string name="cetus_invisible_mode_warn_location">Sunteți în modul incognito. Permisiunile pentru locație sunt suspendate.</string>
+    <string name="cetus_invisible_mode_warn_record_audio">Sunteți în modul incognito. Permisiunile pentru microfon sunt suspendate.</string>
     <string name="charger_detect_button_ok">Am înțeles</string>
     <string name="charger_detect_info1">Verificați dacă încărcătorul și cablul sunt conectate corespunzător.</string>
     <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
@@ -2854,6 +2861,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_wake_notification">Nu porni ecranul pentru notificări</string>
     <string name="power_center_list_item_wake_notification_summary">Notificările primite vor fi afișate numai atunci când porniți ecranul</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
+    <string name="power_center_night_charge_noti_subtitle">Acumulatorul va fi încărcat complet de %s</string>
+    <string name="power_center_night_charge_noti_title">Încărcarea optimizată este activă</string>
+    <string name="power_center_night_charge_protection">Încărcare optimizată</string>
+    <string name="power_center_night_charge_protection_setting">Vedeți mai multe opțiuni în Securitate > Acumulator.</string>
+    <string name="power_center_night_charge_protection_summary">Pentru a reduce îmbătrânirea acumulatorului, MIUI învață din rutina zilnică de încărcare pentru a reduce încărcarea continuă inutilă</string>
     <string name="power_center_one_key_save">Optimizați</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
@@ -2893,6 +2905,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_consume_rank_title">Utilizare energie</string>
     <string name="power_consume_software_total_format">Aplicații: %s</string>
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>
+    <string name="power_dailog_night_charge_protection_done">Am înțeles</string>
+    <string name="power_dailog_night_charge_protection_summary">Se pare că acumulatorul dvs. este complet încărcat de cele mai multe ori, ceea ce poate accelera îmbătrânirea. MIUI a activat încărcarea optimizată pentru a evita astfel de probleme.</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">"Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici și scade performanța dispozitivului dvs. pentru a menține funcțiile de bază (de ex. apeluri, SMS-uri ți conectarea la rețea) disponibile pentru un timp cât mai lung. Activați ultra economisirea acumulatorului?"</string>
@@ -3910,6 +3924,12 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="storage_available_total_size">%1$s din %2$s disponibil</string>
     <string name="storage_available_total_size1">Ocupat: %1$s | Total: %2$s</string>
     <string name="storage_category_title">Opțiuni adiționale</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s ocupat | %2$s disponibil</string>
+    <string name="storage_clear_cache">Eliberați %s</string>
+    <string name="storage_clear_cache_deep">Eliberați spațiul de stocare</string>
+    <string name="storage_clear_cache_large">Eliberați %s</string>
+    <string name="storage_clear_more_tools">Mai multe instrumente de curățare</string>
+    <string name="storage_clear_video">Goliți memoria cache video</string>
     <string name="storage_deepclean_entry">Curățare profundă</string>
     <string name="storage_dialog_unmountable">"Acest ^1 este corupt.
 

@@ -1264,10 +1264,15 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Selectați numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_max_connected_audio_devices_string">Numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_menu_advanced">Avansate</string>
+    <string name="bluetooth_message_access_dialog_content">"Un dispozitiv Bluetooth care nu este încredere, %1$s, dorește să vă acceseze mesajele.
+
+Nu v-ați conecta la %2$s înainte."</string>
+    <string name="bluetooth_message_access_dialog_title">Permiteți accesul la mesaje?</string>
+    <string name="bluetooth_message_access_notification_content">Un dispozitiv care nu este de încredere dorește să vă acceseze mesajele. Atingeți pentru detalii.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Deblocați %1$s acum?</string>
     <string name="bluetooth_mi_fast_connect">Asociați dispozitivele compatibile</string>
     <string name="bluetooth_mi_fast_connect_summary">Conectați-vă la dispozitivele din apropiere utilizând un proces simplificat de asociere</string>
-  <string name="bluetooth_middle_name">Caz</string>
+    <string name="bluetooth_middle_name">Carcasă</string>
     <string name="bluetooth_move_out_of_blacklist">Deblocați dispozitivul</string>
     <string name="bluetooth_name_not_set">Nu a fost setat niciun nume, se utilizează numele contului</string>
     <string name="bluetooth_no_devices_found">Nu există disp. Bluetooth în apropiere.</string>
@@ -1308,6 +1313,11 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_pan_user_profile_summary_connected">Conectat la disp. pt. acces internet</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s doreşte să acceseze Agenda dvs. şi istoricul apelurilor. Permiteţi accesul pentru %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Nu doresc să fiu întrebat din nou</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Un dispozitiv Bluetooth care nu este încredere, %1$s, dorește să vă acceseze contactele și jurnalul de apeluri. Acesta include date despre apelurile primite și efectuate.
+
+Nu v-ați conectat la %2$s înainte."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Permiteți accesul la contacte și la jurnalul de apeluri?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Dispozitivul care nu este de încredere dorește să vă acceseze contactele și jurnalul de apeluri. Atingeți pentru detalii.</string>
     <string name="bluetooth_phonebook_request">Solicitare de agendă</string>
     <string name="bluetooth_pin_values_hint">De obicei 0000 sau 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Trebuie să conțină 16 cifre</string>
@@ -3480,6 +3490,22 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
     <string name="headset_connectiong">Se conectează…</string>
+    <string name="headset_find_both">Ambele</string>
+    <string name="headset_find_cancel">Renunțați</string>
+    <string name="headset_find_connected">Conectat</string>
+    <string name="headset_find_disconnect">Neconectat</string>
+    <string name="headset_find_handle_tip">Atingeți pentru a reda alarma</string>
+    <string name="headset_find_left">Stânga</string>
+    <string name="headset_find_notify_connected">Conectat</string>
+    <string name="headset_find_notify_disconnect">Deconectat. Conectați și încercați din nou.</string>
+    <string name="headset_find_play_warning">Se pare că cel puțin una dintre căști este în ureche. Redarea alarmei acum vă poate deteriora auzul. Scoateți căștile de pe urechi înainte de a continua.</string>
+    <string name="headset_find_playing">Se redă…</string>
+    <string name="headset_find_query_play">Redați</string>
+    <string name="headset_find_right">Dreapta</string>
+    <string name="headset_find_tip">Căștile dvs. ar trebui să fie în apropiere și conectate la acest dispozitiv pentru a le găsi. Redarea alarmei în timp ce cel puțin una dintre căști este în ureche vă poate deteriora auzul.</string>
+    <string name="headset_find_tip_title">Atenție</string>
+    <string name="headset_find_title">Găsiți-vă căștile</string>
+    <string name="headset_find_voice_warning">Avertisment volum audio ridicat</string>
     <string name="headset_notification_switch_summary">Afișează starea în widgetul din Perdeaua de Notificări atunci când sunt conectate căștile</string>
     <string name="headset_notification_switch_title">Widget în Perdeaua de Notificări</string>
     <string name="headset_remove_message">Eliminați dispozitivul?</string>
@@ -4430,6 +4456,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="max_fingerprint_number_reached">"Nu se pot adăuga mai mult de 5 amprente. Pentru a putea adăuga o nouă amprentă va trebui să eliminați una sau mai multe amprente existente."</string>
     <string name="max_fingerprint_reached_toast">Puteți adăuga maxim 5 amprente</string>
     <string name="maximum_memory_use">Utilizare maximă a memoriei</string>
+    <string name="mechanical_ime">Tastatură mecanică</string>
+    <string name="mechanical_ime_hint">Suportat doar de tastaturile personalizate pentru Xiaomi</string>
     <string name="media_button">Butonul media</string>
     <string name="media_category">Muzică și videoclipuri</string>
     <string name="media_feedback_enable_title">Vibrare după ritm</string>
@@ -4591,8 +4619,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_game_mode">Mod Jocuri</string>
     <string name="miheadset_game_mode_summary">Reduceți întârzierea audio în timp ce jucați jocuri</string>
     <string name="miheadset_ignore">Anulați asocierea</string>
-    <string name="miheadset_in_ear_check">Detectați prezența căștii din ureche</string>
-    <string name="miheadset_in_ear_check_summary">Întrerupeți și reluați automat redarea în timp ce purtați sau scoateți căștile</string>
+    <string name="miheadset_in_ear_check">Detectare căști în ureche</string>
+    <string name="miheadset_in_ear_check_summary">Întrerupeți redarea audio atunci când sunt scoase căștile și reluați automat redarea atunci când sunt repuse</string>
     <string name="miheadset_key_config_ANC_list_title">Control zgomot</string>
     <string name="miheadset_key_config_call_ai">Asistent vocal</string>
     <string name="miheadset_key_config_close">Oprit</string>
@@ -9365,6 +9393,8 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
     <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
     <string name="xiaomi_custom_input_method">Personalizat pentru Xiaomi</string>
+    <string name="xiaomi_hp_location">Acces la locația precisă</string>
+    <string name="xiaomi_hp_location_description">Informațiile precise despre locație permit o navigare acurată</string>
     <string name="xiaomi_money_service">Monede Mi</string>
     <string name="xiaomi_router_available_notif_summary">Apăsați pentru a vizualiza mai multe informații.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponibil</string>
