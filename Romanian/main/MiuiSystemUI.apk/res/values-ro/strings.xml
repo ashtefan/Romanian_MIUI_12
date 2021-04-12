@@ -2264,6 +2264,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="ssl_ca_cert_warning">"Rețeaua poate fi
 monitorizată"</string>
     <string name="standby_bucket_summary">Starea aplicației în standby: %s</string>
+    <string name="start_camera_error_try_again">Nu s-a putut lansa Camera. Încercați din nou.</string>
     <string name="start_dreams">Economisire ecran</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
     <string name="status_bar">Bara de stare</string>

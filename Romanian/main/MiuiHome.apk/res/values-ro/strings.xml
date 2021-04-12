@@ -434,6 +434,7 @@
     <string name="navigation_type_full_screen">Gesturi</string>
     <string name="navigation_type_title">Navigare în sistem</string>
     <string name="navigation_type_virtual_key">Butoane</string>
+    <string name="network_error">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="no_detail_page">Nicio pagină cu detalii</string>
     <string name="no_space_toast">Spațiu insuficient</string>
     <string name="no_space_toast_when_click_widget">Nu există spațiu suficient pe această pagină. Încercați să trageți acest element pe altă pagină.</string>
@@ -531,6 +532,8 @@
     <string name="remove_dialog_message">Aplicațiile selectate conțin caracteristici esențiale ale sistemului. Puteți elimina doar comenzile rapide de pe Ecranul principal.</string>
     <string name="remove_dialog_title_format">Eliminați \"%s\" de pe Ecranul principal?</string>
     <string name="remove_invalidate_gadget_tips">Unul din widgeturile folosite nu mai este disponibil. Puteți adăuga altul.</string>
+    <string name="remove_sys_app_content">Veți putea adăuga din nou comanda rapidă de pe ecranul de pornire din Setări > Aplicații > Gestionați scurtăturile de pe Ecranul principal. Eliminați acum?</string>
+    <string name="remove_sys_app_title">Eliminați scurtătura de pe Ecranul principal?</string>
     <string name="reset_cate_tip_content">Dacă veți continua, grupurile implicite de aplicații vor fi restaurate. Continuați oricum?</string>
     <string name="reset_cate_tip_title">Restaurați grupurile implicite</string>
     <string name="reset_description_first_time">Puteți restaura dispunerea %1$s în 2 ore</string>
@@ -541,6 +544,7 @@
     <string name="resource_canary_leak_tip">are scăpări!</string>
   <string name="resource_canary_wait_for_heapdump_message">Dumping heap snapshot...</string>
     <string name="restore_icon_successful">Adăugată cu succes</string>
+    <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="screen_cells_config_title">Dispunerea Ecranului principal</string>
     <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
@@ -550,6 +554,7 @@
     <string name="select_all">Selectaţi tot</string>
     <string name="select_frame">Cadru</string>
     <string name="select_photo">Fotografie</string>
+    <string name="server_error">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="setting_wallpaper_tip">Ciupiți sau glisaţi pentru a ajusta</string>
     <string name="settings">Setări</string>
     <string name="settings_shortcut">Setări</string>

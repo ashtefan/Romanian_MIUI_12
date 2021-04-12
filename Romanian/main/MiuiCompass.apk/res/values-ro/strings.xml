@@ -231,6 +231,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Presiune</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">Busola este o aplicație de sistem. Nu o veți mai putea utiliza pentru verificarea direcțiilor, coordonatelor, presiunii atmosferice și altitudinii actuale după ce veți elimina comanda rapidă de pe Ecranul principal.</string>
+    <string name="remove_icon_description_title">Eliminați \"Busola\" de pe Ecranul principal?</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

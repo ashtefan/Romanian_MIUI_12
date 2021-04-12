@@ -158,7 +158,7 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Nimic</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>Systrace (Grafic)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">

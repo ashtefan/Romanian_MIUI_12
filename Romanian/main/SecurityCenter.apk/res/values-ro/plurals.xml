@@ -642,6 +642,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">elemente</item>
         <item quantity="one">element</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Renunțați (%ds)</item>
+        <item quantity="one">Renunțați (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s zile rămase</item>
         <item quantity="one">%s zi rămasă</item>

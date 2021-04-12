@@ -104,6 +104,8 @@
     <string name="dialog_content_limit0">Restricționați descărcările</string>
     <string name="dialog_content_limit_max">Nelimitat</string>
     <string name="dialog_delete_positive">Ștergeți</string>
+    <string name="dialog_download_dir_content" formatted="false">Dosarul implicit pentru descărcări a fost modificat din \"%s\" în \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Dosar destinație nou</string>
     <string name="dialog_failed_body">Doriți să reîncercaţi descărcarea fişierului mai târziu sau îl ştergeţi din lista de aşteptare?</string>
     <string name="dialog_file_already_exists">"Nu se poate descărca. Fişierul de destinaţie există deja."</string>
     <string name="dialog_file_missing_body">"Nu se poate găsi fişierul descărcat."</string>
