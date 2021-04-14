@@ -2894,6 +2894,16 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_stop_scan_title">Opriți scanarea</string>
     <string name="power_center_super_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
     <string name="power_center_super_save_title_text">Ultra economisire acumulator</string>
+    <string name="power_center_super_wireless_charge">Încărcare rapidă fără fir</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Mențineți</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">Acest mod crește viteza ventilatorului de răcire a încărcătorului fără fir. Păstrați acest mod activat pentru a încărca dispozitivul mai repede sau opriți-l dacă credeți că zgomotul este prea puternic.</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Mergeți la Securitate > Acumulator > Setări pentru mai multe opțiuni.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">Încărcare rapidă fără fir</string>
+    <string name="power_center_super_wireless_charge_noti_summary">Atingeți pentru a deschide Setările</string>
+    <string name="power_center_super_wireless_charge_noti_switch">Notifică despre încărcarea rapidă fără fir</string>
+    <string name="power_center_super_wireless_charge_noti_title">Încărcarea rapidă fără fir este activată</string>
+    <string name="power_center_super_wireless_charge_summary">Măriți viteza ventilatorului de răcire a încărcătorului fără fir</string>
+    <string name="power_center_super_wireless_charge_toast_close">Încărcarea rapidă fără fir este dezactivată</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
     <string name="power_center_title">Acumulator</string>

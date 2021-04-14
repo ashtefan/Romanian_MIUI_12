@@ -3089,6 +3089,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
     <string name="fingerprint_apply_to_privacy_password">Parola de protejare a confidențialității</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Parola de protejare a confidențialității vă protejează mesajele, fotografiile, fișierele, notițele și aplicațiile.</string>
+    <string name="fingerprint_base_title">Amprenta %s</string>
     <string name="fingerprint_delete_message">Doriți să eliminați această amprentă?</string>
     <string name="fingerprint_delete_title">Eliminați %1$s</string>
     <string name="fingerprint_double_tap">Atingeți de două ori senzorul de amprentă</string>
@@ -3099,6 +3100,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului mai întâi)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_gesture_screen_title">Glisați amprenta</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Salvată ca \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
     <string name="fingerprint_identify_try_again_msg">"Scanare nereușită, încercați din nou"</string>
@@ -4610,8 +4612,10 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_fitness_check_result_dialog1">Vă rugăm să puneți căștile în ambele urechi înainte de a începe testul.</string>
     <string name="miheadset_fitness_check_result_dialog2">Vă rugăm să încheiați apelul curent înainte de a începe testul.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Atenție</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Reajustați căștile</string>
     <string name="miheadset_fitness_check_result_not_ok">Potrivire slabă</string>
     <string name="miheadset_fitness_check_result_ok">Se potrivesc bine</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Reajustați căștile</string>
     <string name="miheadset_fitness_check_result_summary1">Căștile pe care le purtați se potrivesc perfect!</string>
     <string name="miheadset_fitness_check_result_summary2">Reglați sau încercați alt set de căști și testați din nou.</string>
     <string name="miheadset_fitness_check_start">Porniți</string>
@@ -8475,6 +8479,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="voice_search_settings_title">Căutare vocală</string>
     <string name="voice_service_preference_section_title">Servicii intrare voce</string>
     <string name="voicemail_number_not_set">&lt;Nesetat></string>
+    <string name="voip_assistant_settings">Asistent VoIP</string>
     <string name="volte_5G_limited_text">"Aceasta oprește și conexiunea 5G.
 În timpul unui apel vocal, nu puteți utiliza internetul și este posibil ca unele aplicații să nu funcționeze."</string>
     <string name="volte_5G_limited_title">Dezactivați VoLTE?</string>

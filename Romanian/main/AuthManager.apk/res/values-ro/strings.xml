@@ -349,6 +349,10 @@
     <string name="blur_location_is_on_tip">%1$s utilizează locația dvs aproximativă. Continuați să o utilizați în schimbul localizării precise?</string>
     <string name="blur_location_now_tip">Localizarea aproximativă este activă</string>
     <string name="blur_location_title">Locație aproximativă</string>
+    <string name="cetus_invisible_mode_notice_audio">Sunteți în modul incognito. Nu se poate utiliza microfonul acum.</string>
+    <string name="cetus_invisible_mode_notice_camera">Sunteți în modul incognito. Nu se poate utiliza camera acum</string>
+    <string name="cetus_invisible_mode_notice_location">Sunteți în modul incognito. Nu se pot utiliza serviciile de localizare acum.</string>
+    <string name="cetus_invisible_mode_notice_tip">Atingeți pentru a opri modul Incognito din Setări</string>
     <string name="clipboard_ai_allow_once">S-a permis %1$s să acceseze elementele din clipboard în mod automat</string>
     <string name="clipboard_data">"Conținut: "</string>
     <string name="clipboard_data_request">%1$s încearcă să acceseze elementele din clipboard</string>
@@ -575,6 +579,13 @@
     <string name="screen_overlay_message">Pentru a modifica această permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații.</string>
     <string name="screen_overlay_title">Suprapunere elemente vizuale detectată</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>

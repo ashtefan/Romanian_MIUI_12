@@ -367,6 +367,7 @@ Protocol de conectare mai rapid."</string>
     <string name="headset_device_error_box_close">Carcasa de încărcare este oprită</string>
     <string name="headset_device_error_disconnect">Ambele căști sunt deconectate. Închideți carcasa de încărcare și deschideți-o din nou pentru a relua actualizarea.</string>
     <string name="headset_device_error_failed">Nu se poate actualiza</string>
+    <string name="headset_device_error_multconnect">Nu se poate actualiza atunci când sunt mai multe dispozitive conectate</string>
     <string name="headset_device_error_no_device">Din carcasa de încărcare lipsește cel puțin o cască</string>
     <string name="headset_device_error_single_device">Nu se poate actualiza o singură cască. Asociați din nou.</string>
     <string name="headset_device_sync_donot_move_device">Sincronizare… Așteptați până când sincronizarea este terminată înainte de a utiliza căștile.</string>

@@ -1117,6 +1117,8 @@ Utilizați datele mobile oricum?"</string>
     <string name="force_resizable_activities_summary">Face toate aplicațiile redimensionabile pentru ecran multiplu, fără a se ține cont de valorile atribuite.</string>
     <string name="force_rtl_layout_all_locales">Forțează direcția de dispunere RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forțează dispunerea RTL pentru toate setările regionale</string>
+    <string name="four_point_five_switch_summary">Utilizați 4,5G pentru a crește viteza de acces la date și calitatea vocală.</string>
+    <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">nr. canal lte</string>
     <string name="fw_change_failed">"Nu s-a putut schimba numărul de redirecţionare.
 Contactaţi operatorul dvs. în cazul în care această problemă persistă."</string>

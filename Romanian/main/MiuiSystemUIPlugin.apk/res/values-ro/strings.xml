@@ -91,6 +91,7 @@
     <string name="disabled">Indisponibil</string>
     <string name="dnd_popup_close_message">Am înțeles</string>
     <string name="dnd_popup_message">Puteți activa modul Nu deranja pentru a reduce la tăcere apelurile și notificările fără a dezactiva sunetele media.</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">Dimineață</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
@@ -157,7 +158,7 @@
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
     <string name="midnight">Noapte</string>
-    <string name="miui_dnd_count_down">Temporizator Nu deranjați</string>
+    <string name="miui_dnd_count_down">Glisați pentru a seta temporizatorul</string>
     <string name="miui_dnd_count_down_time">"Temporizator Nu deranjați
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Setări</string>
