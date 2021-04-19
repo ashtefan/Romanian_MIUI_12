@@ -56,6 +56,8 @@
     <string name="atrace_saving">Se salvează jurnalul ATrace…</string>
     <string name="atrace_start">Se înregistrează jurnalul ATrace…</string>
     <string name="base_info">Informații de bază</string>
+    <string name="checking_intranet">Se verifică conexiunea intranet; vă rugăm să așteptați...</string>
+    <string name="clear_temperature">Clr_Temp</string>
     <string name="cloud_addr_info">Informații Cloud</string>
     <string name="cloud_china_addr">Actualizați datele serverului din China</string>
     <string name="cloud_international_addr">Actualizați datele serverului internațional</string>
@@ -77,9 +79,10 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="config_suggest_suffix_title">Economisire acumulator (recomandat)</string>
     <string name="config_suggest_title">Economisire acumulator</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Vă rugăm să vă conectați la intranet</string>
     <string name="copy">Copiați</string>
     <string name="current_cloud_addr_is">Adresa serverului de control Cloud este:</string>
-    <string name="disabled">Dezactivat</string>
+    <string name="delete_data_confirm">Confirmați ștergerea acestor date</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
     <string name="enable_sleep_mode">Activați modul Somn pentru a optimiza utilizarea acumulatorului pe durata nopții</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
@@ -112,6 +115,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="hints_loading_text">Doar o secundă…</string>
     <string name="important_warning">Atenție</string>
     <string name="invalid_size_value">"Nu s-a putut obține dimensiunea pachetului."</string>
+    <string name="insert_data">Introduceți datele</string>
     <string name="lasttime_applist_cloud">Aplicații actualizate：</string>
     <string name="lasttime_feature_cloud">Funcții actualizate：</string>
     <string name="location_disable_description">Se interzice utilizarea locației</string>
@@ -137,6 +141,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="mode_export">Export</string>
     <string name="mode_import">Import</string>
     <string name="mode_settings">Setări</string>
+    <string name="modify_data">Modificați datele</string>
     <string name="movie">Film</string>
     <string name="new_group_name">Mod personalizat</string>
     <string name="no_applications">Gol</string>
@@ -247,6 +252,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="pref_config_title">Optimizarea Performanței</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy">Politica de Confidențialitate</string>
+    <string name="save_data">Salvați datele</string>
     <string name="scenario_policies_summary">Aplică diferite strategii de economisire a energiei pentru scenarii diferite</string>
     <string name="scenario_policies_title">Scenarii inteligente</string>
     <string name="scenario_policies_warmcontrol">Controlul temperaturii</string>
@@ -272,6 +278,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="sleepmode_privacy_title">Mod Somn</string>
     <string name="sucess">Finalizat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="thermal_cancel">NU</string>
+    <string name="thermal_confirm">DA</string>
     <string name="update_profile_failture_not_connect_wifi">"Nu s-a putut actualiza. Conectați-vă la Wi-Fi și reîncercați."</string>
     <string name="update_profile_sucess">Actualizat de la server cu succes</string>
     <string name="v7_preference_off">OPRIT</string>

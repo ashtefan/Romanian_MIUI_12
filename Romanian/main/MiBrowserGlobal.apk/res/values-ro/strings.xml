@@ -1878,6 +1878,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="setting">Setări</string>
     <string name="setting_app_language">Limba browser-ului</string>
     <string name="setting_feed_language">Limba fluxului de conținut</string>
+    <string name="setting_home_page_show_title">Pagina de pornire</string>
     <string name="setting_privacy_password">Setați modelul de deblocare</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>

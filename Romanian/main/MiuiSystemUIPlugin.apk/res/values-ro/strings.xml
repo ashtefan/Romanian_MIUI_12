@@ -158,7 +158,7 @@
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
     <string name="midnight">Noapte</string>
-    <string name="miui_dnd_count_down">Glisați pentru a seta temporizatorul</string>
+    <string name="miui_dnd_count_down">Temporizator Nu deranjați</string>
     <string name="miui_dnd_count_down_time">"Temporizator Nu deranjați
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Setări</string>
