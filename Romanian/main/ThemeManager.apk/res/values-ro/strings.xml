@@ -654,9 +654,7 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Nu arăta din nou"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Probleme de compatibilitate</string>
-    <string name="my_gifts">Cadouri</string>
-    <string name="my_gifts_purchased">Achiziționată</string>
-    <string name="my_gifts_received">Primit</string>
+    <string name="multiwindow_no_support_icon">Nu se pot modifica pictogramele când se utilizează Ecranul scindat</string>
     <string name="network_exception">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">PM</string>

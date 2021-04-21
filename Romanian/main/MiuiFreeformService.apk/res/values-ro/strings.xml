@@ -31,6 +31,7 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">Ferestre plutitoare</string>
+    <string name="bottom_bar_smallwindow_text">Eliberați pentru a fixa</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="contentDescription">Mutarea ferestrei</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
@@ -96,6 +97,10 @@
     <string name="freeform_demo_go_on">Următorul</string>
     <string name="freeform_demo_title_finish">Drăguț!</string>
     <string name="freeform_demo_title_skip">Omiteți</string>
+    <string name="freeform_slide_to_small_freeform">Glisați forma liberă în formă liberă mică</string>
+    <string name="freeform_slide_to_small_freeform_summary">Apăsați și glisați la bara de acțiune a unei ferestre plutitoare în colțul din dreapta sus</string>
+    <string name="fullscreen_slide_to_small_freeform">Diapozitiv pe ecran complet la formă liberă</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Glisați din partea de jos a ecranului în colțul din dreapta sus a ecranului</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>

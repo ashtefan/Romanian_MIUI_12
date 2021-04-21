@@ -3287,6 +3287,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="freeform_guide_notification_drop_down_summary">Apăsați și mențineți apăsat, și apoi glisați în jos bara de acțiuni a unei notificări</string>
     <string name="freeform_guide_notification_drop_down_title">Accesarea ferestrelor plutitoare</string>
     <string name="freeform_guide_settings">Ferestre plutitoare</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Glisați din partea de jos a ecranului în colțul din dreapta sus a ecranului</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Glisarea către ferestre plutitoare</string>
     <string name="freeform_guide_slide_up_to_close_summary">Glisați în sus bara de acțiuni a unei ferestre plutitoare</string>
     <string name="freeform_guide_slide_up_to_close_title">Închiderea ferestrelor plutitoare</string>
     <string name="freeform_vedio_description">"·Apăsați și mențineți apăsat, și apoi glisați în jos o notificare pentru a o deschide într-o fereastră plutitoare.
@@ -4600,6 +4602,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_double_click_key_mode_summary">modificați maparea apăsării duble</string>
     <string name="miheadset_double_click_left">Atingeți de două ori casca din stânga</string>
     <string name="miheadset_double_click_right">Atingeți de două ori casca din dreapta</string>
+    <string name="miheadset_double_press_left">Apăsați de două ori casca din stânga</string>
+    <string name="miheadset_double_press_right">Apăsați de două ori casca din dreapta</string>
     <string name="miheadset_enhanceVoice">Amplificare voce</string>
     <string name="miheadset_enhence_high">Înalte îmbunătățite</string>
     <string name="miheadset_enhence_low">Bass îmbunătățit</string>
@@ -4661,7 +4665,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_transparent">Transparență</string>
     <string name="miheadset_transparentMode">Transparență</string>
     <string name="miheadset_triple_click_key_mode">Apăsare triplă</string>
-    <string name="miheadset_triple_click_key_mode_summary">mapare apăsare triplă</string>
+    <string name="miheadset_triple_press_left">Apăsați de trei ori casca din stânga</string>
+    <string name="miheadset_triple_press_right">Apăsați de trei ori casca din dreapta</string>
     <string name="miheadset_unpair_device_text">%1$s va fi deconectat de la toate dispozitivele asociate acestui cont Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fişiere diverse</string>
