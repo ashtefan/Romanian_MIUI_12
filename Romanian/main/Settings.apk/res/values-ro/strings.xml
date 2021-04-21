@@ -6487,7 +6487,7 @@ Pentru a utiliza fixarea aplicației: \u0009
     <string name="screen_projection_title">Proiectare</string>
     <string name="screen_reader_category_title">Cititoare de ecran</string>
     <string name="screen_reader_mode_input_type_summary">Selectați gestul pentru activarea introducerii textului atunci când TalkBack este activ</string>
-    <string name="screen_reader_mode_input_type_title">Introducere text</string>
+    <string name="screen_recorder_title">Înregistrare Ecran</string>
     <string name="screen_resolution_dialog_title">Schimbați rezoluția</string>
     <string name="screen_resolution_high_format">Înaltă (%1$s)</string>
     <string name="screen_resolution_normal_format">Normală (%1$s)</string>

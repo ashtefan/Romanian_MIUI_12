@@ -149,6 +149,8 @@
     <string name="app_name_miuiwallpaper">Imagini de fundal</string>
     <string name="app_name_screenshot">Capturi de ecran</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
+    <string name="app_uninstall_description_content">Browser-ul este o aplicație de sistem. Nu veți putea utiliza serviciile de căutare și navigare web pe care le oferă după ce dezinstalați aplicația.</string>
+    <string name="app_uninstall_description_title">Dezinstalați Browser-ul?</string>
     <string name="app_update_install">Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application_name">Browser</string>
     <string name="aqi_quality_index_break">Extrem de periculos</string>

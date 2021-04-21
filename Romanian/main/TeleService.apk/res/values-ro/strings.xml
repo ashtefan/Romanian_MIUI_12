@@ -1363,6 +1363,8 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="message_decode_error">A apărut o eroare la decodificarea mesajului.</string>
     <string name="mhh_disable">Medicină, sănătate şi spitale dezactivate</string>
     <string name="mhh_enable">Medicină, sănătate şi spitale activate</string>
+    <string name="mi_mobile_settings_summary">Planuri de date furnizate de către Xiaomi</string>
+    <string name="mi_mobile_settings_title">Mi Mobile</string>
     <string name="mi_mobile_sim_activate_message">Activați cartela SIM %d pentru a putea să utilizați Mi Mobile. Acest lucru poate dura până la 5 minute.</string>
     <string name="mi_mobile_sim_activate_ok">Activați</string>
     <string name="mi_mobile_sim_activate_title">Bine ați venit la Mi Mobile!</string>
