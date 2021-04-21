@@ -2276,6 +2276,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="mixed_recording_intro_header">Introduceți %1$s-%2$s caractere</string>
     <string name="mixed_retry_button_text">Renunțați</string>
     <string name="mixed_settings_help_how_to_record">Cum setez parola</string>
+    <string name="mm_app_name">Mi SIM</string>
     <string name="modify_cellular_type">Atingeți pentru a selecta planul</string>
     <string name="modify_password_mode"><u>Modificați tipul parolei</u></string>
     <string name="modifypassword">Modificați tipul parolei</string>
