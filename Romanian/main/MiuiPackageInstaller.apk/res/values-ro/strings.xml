@@ -448,7 +448,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_clean">Curățați</string>
     <string name="miui_clear_apk_desc">Pachet de instalare șters și date reziduale (%s)</string>
     <string name="miui_clear_apks_summary">Total %s</string>
-    <string name="miui_clear_apks">Ștergeți pachetul de instalare și datele reziduale (%s)</string>
+    <string name="miui_clear_apks_title">Șterge pachetele de instalare în mod automat</string>
     <string name="miui_compatibility_desc">Această aplicație nu este optimizată pentru dispozitivul dumneavoastră. Dacă o instalați, este posibil să nu funcționeze corespunzător. Așteptați până când dezvoltatorul rezolvă problemele existente de compatibilitate și instalați o nouă versiune a aplicației după o perioadă de timp.</string>
     <string name="miui_delete">Ștergeți</string>
     <string name="miui_failed_already_exists">Această aplicație este deja instalată</string>

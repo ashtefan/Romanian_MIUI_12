@@ -171,6 +171,7 @@
     <string name="bill_list_fragment_title">Chart-uri</string>
     <string name="bluetooth_device">Dispozitiv audio Bluetooth</string>
     <string name="btn_text_edit">Editați</string>
+    <string name="btn_text_view_all">Vedeți tot</string>
     <string name="buffering">Încărcare memorie tampon…</string>
     <string name="button_add">Adăugaţi</string>
     <string name="button_cancel_download">Renunțați</string>
@@ -539,6 +540,8 @@
     <string name="fail_to_play">"Nu se poate reda melodia"</string>
     <string name="failed_not_access_sd_card">Permiteți mai întâi accesul la cardul SD</string>
     <string name="failed_obtain_permissions">"Nu s-au putut obține permisiunile"</string>
+    <string name="failed_to_connect_hint">Verificați setările de rețea și încercați din nou</string>
+    <string name="failed_to_connect_text">Nu s-a putut conecta la rețea</string>
     <string name="fans">Urmăritori</string>
     <string name="fav_login_msg">Conectați-vă la contul Mi pentru a descărca melodiile</string>
     <string name="favorite_canceled">Eliminat din favorite</string>
@@ -685,6 +688,7 @@
     <string name="high_sound_quality">Înaltă</string>
     <string name="higher_quality_music">Muzică la calitate superioară</string>
     <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică la calitate superioară</string>
+    <string name="hint_search_songs_playlists_artists">Căutați melodii, liste de redare și artiști</string>
     <string name="home_tab_home">Acasă</string>
     <string name="home_tab_joox">Muzică JOOX</string>
     <string name="home_tab_local">Muzica mea</string>
@@ -811,6 +815,7 @@
     <string name="loading">Se încarcă</string>
     <string name="loading_hint">Doar o secundă…</string>
     <string name="loading_reached_the_bottom">Asta este tot pentru moment.</string>
+    <string name="loading_text">Doar o secundă…</string>
     <string name="local_header_title">Muzică locală</string>
     <string name="local_music">Melodii locale</string>
     <string name="local_music_empty">"Nu există melodii locale pentru a fi redate."</string>
@@ -1481,6 +1486,7 @@ Fiți fericit"</string>
     <string name="title_online_release">Albume noi</string>
     <string name="title_online_song">Melodii populare</string>
     <string name="title_online_suggest">S-ar putea să vă placă</string>
+    <string name="title_recently_played">Redate recent</string>
     <string name="title_search_history">Istoric căutare</string>
     <string name="title_search_hot">Populare</string>
     <string name="toast_cant_collect_mine_playlist">Nu se pot adăuga propriile liste de redare la favorite</string>
