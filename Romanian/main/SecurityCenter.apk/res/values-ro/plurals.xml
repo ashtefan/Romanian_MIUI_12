@@ -33,6 +33,14 @@
         <item quantity="other">S-au adăugat %d jocuri</item>
         <item quantity="one">S-a adăugat %d joc</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permis de %3$d ori între %1$s și %2$s</item>
         <item quantity="one">Permis %3$d dată între %1$s și %2$s</item>

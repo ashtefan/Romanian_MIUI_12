@@ -470,7 +470,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_failed_solution_5">Încercați să utilizați un pachet de instalare compatibil.</string>
     <string name="miui_failed_solution_6">Ștergeți versiunea deja instalată și încercați să o instalați din nou.</string>
     <string name="miui_failed_solution_7">Descărcați cea mai recentă versiune a aplicației din GetApps.</string>
-    <string name="miui_failed_solution_8">Descărcați aplicația din GetApps.</string>
+    <string name="miui_failed_solution_8">Descărcați aplicația dintr-o sursă de încredere.</string>
     <string name="miui_failed_system_incompatible">Pachet de instalare incompatibil</string>
     <string name="miui_failed_update_incompatible">Semnături conflictuale ale aplicației</string>
     <string name="miui_failed_version_downgrade">Nu s-au putut retrograda versiunile aplicațiilor</string>
@@ -609,7 +609,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="retail_demo_reset_title">Parola este necesară</string>
     <string name="review_button_cancel">Renunțați</string>
     <string name="review_button_continue">Continuați</string>
-    <string name="risk_warning_bottom_button">Instalați din GetApps</string>
+    <string name="risk_warning_bottom_button">Instalați dintr-o sursă de încredere</string>
     <string name="risk_warning_msg">Semnătura acestui pachet de instalare pare nelegitimă. Pentru a evita posibilele riscuri, instalați această aplicație dintr-o sursă de încredere."</string>
     <string name="risk_warning_title">Riscuri detectate</string>
     <string name="risk_warning_top_button">Nu instala</string>

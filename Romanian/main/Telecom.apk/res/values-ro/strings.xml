@@ -315,6 +315,7 @@ Selecție"</string>
     <string name="disabled">Dezactivată</string>
     <string name="disabled_by_admin">Dezactivată de către administrator</string>
     <string name="disabled_by_admin_summary_text">Controlată de administrator</string>
+    <string name="do_not_show_again">Nu afișa din nou</string>
     <string name="duplicate_video_call_not_allowed">Nu se poate adăuga apelul acum.</string>
     <string name="enable_account_preference_title">Conturi de apelare</string>
     <string name="enable_adb">Depanare USB</string>
@@ -525,6 +526,11 @@ Selecție"</string>
     <string name="runningservices_settings_summary">Vedeți și controlați serviciile care rulează în prezent</string>
     <string name="runningservices_settings_title">Servicii active</string>
     <string name="saved_network">Salvată de %1$s</string>
+    <string name="scam_cancle">Renunțați</string>
+    <string name="scam_message">Configurați redirecționarea apelurilor. După aceasta, la toate apelurile primite vi se va răspunde de la numărul de telefon %1$s. Dacă nu dețineți acest număr de redirecționare, este posibil să riscați să vă expuneți informațiile personale sau să compromiteți securitatea proprietății dvs. Folosiți această caracteristică cu precauție.</string>
+    <string name="scam_message_2">**21*Numărul de redirecționare# este codul pentru redirecționarea apelurilor. Contactați operatorul dacă aveți întrebări.</string>
+    <string name="scam_ok">Apelați</string>
+    <string name="scam_title">Memento risc de fraudă</string>
     <string name="screen_zoom_summary_custom">Personalizat (%d)</string>
     <string name="screen_zoom_summary_default">Implicit</string>
     <string name="screen_zoom_summary_extremely_large">Cel mai mare</string>

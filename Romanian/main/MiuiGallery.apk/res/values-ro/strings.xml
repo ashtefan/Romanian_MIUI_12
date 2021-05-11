@@ -287,7 +287,7 @@
     <string name="backup_no_wifi_btn_text">Utilizare date mobile</string>
     <string name="backup_no_wifi_desc">Puteți sincroniza elementele și prin date mobile</string>
     <string name="backup_no_wifi_title">Atingeți pentru a vă conecta la Wi-Fi</string>
-    <string name="backup_only_in_wifi">Se sincronizează fotografiile și videoclipurile doar dacă sunteți conectat la Wi-Fi</string>
+    <string name="backup_only_in_wifi">Utilizați doar Wi-Fi pentru a sincroniza fotografiile și videoclipurile</string>
     <string name="backup_only_in_wifi_summary">Nu utiliza niciodată conexiunea de date mobile pentru sincronizarea fotografiilor și a videoclipurilor</string>
     <string name="backup_only_wifi_dialog_message">Utilizați datele mobile pentru sincronizarea fotografiilor și videoclipurilor?</string>
     <string name="backup_pause">Opriți sincronizarea</string>
@@ -469,6 +469,10 @@
     <string name="cloud_bacup_disable_processing">Se procesează…</string>
     <string name="cloud_camera_display_name">Fotografii Cameră</string>
     <string name="cloud_cancel_authorizing_to_device">Se anulează autorizarea…</string>
+    <string name="cloud_full_space_tip_message">Actualizați planul de stocare în cloud pentru a vă putea sincroniza toate fotografiile și videoclipurile în cloud.</string>
+    <string name="cloud_full_space_tip_negative">Nu acum</string>
+    <string name="cloud_full_space_tip_positive">Actualizați</string>
+    <string name="cloud_full_space_tip_title">Spațiu de stocare în cloud insuficient</string>
     <string name="cloud_guide_auto_backup_title">Selectați albumele ce vor fi sincronizate</string>
     <string name="cloud_guide_login_title">Crează în mod automat o copie de rezervă pentru fotografii și videoclipuri</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -837,6 +841,7 @@ efecte pentru fotografii"</string>
     <string name="filter_food_dessert">Desert</string>
     <string name="filter_food_fruit">Fructe</string>
     <string name="filter_food_latte">Lapte</string>
+    <string name="filter_food_orangeflavor">Mandarină</string>
     <string name="filter_food_softdrink">Sifon</string>
     <string name="filter_food_wholemeal">Grâne</string>
     <string name="filter_general_blackice">Gheață neagră</string>
@@ -849,6 +854,7 @@ efecte pentru fotografii"</string>
     <string name="filter_general_lilt">Vioi</string>
     <string name="filter_general_movie">Cinema</string>
     <string name="filter_general_nature">Natură</string>
+    <string name="filter_general_past">Altădată</string>
     <string name="filter_general_pink">Roz</string>
     <string name="filter_general_portrait">Portret</string>
     <string name="filter_general_rise">Răsărit</string>
@@ -892,15 +898,18 @@ efecte pentru fotografii"</string>
     <string name="filter_popular_coldsmoke">Ceață rece</string>
     <string name="filter_popular_comic">Animație</string>
     <string name="filter_popular_dream">Reverie</string>
+    <string name="filter_popular_gingertea">Ghimbir</string>
     <string name="filter_popular_hill">Dealuri</string>
     <string name="filter_popular_humanity">Documentar</string>
     <string name="filter_popular_icesnow">Ninsoare</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Cerneală</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Violet</string>
     <string name="filter_popular_shallow_summer">Iunie</string>
     <string name="filter_popular_smokegreen">Salvie</string>
     <string name="filter_popular_watergreen">Smarald</string>
+    <string name="filter_popular_windchime">Zăngănit</string>
     <string name="filter_popular_wintersun">Miezul iernii</string>
     <string name="filter_portrait_greyish">Cenușă</string>
     <string name="filter_portrait_hint">Focalizare culoare</string>
@@ -987,6 +996,7 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_yunmeng">Fantezie</string>
   <string name="filter_sky_yunxu">Cirrus</string>
     <string name="filter_texture_shadow">Amurg</string>
+    <string name="filter_travel_charlotte">Șarlotă</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Xiaomi Cloud</string>
     <string name="finish_fill_baby">Creare</string>
     <string name="first_time_add_video_to_secret_tips">Actualizați aplicația Galerie pentru a putea adăuga videoclipuri în albumul privat</string>
@@ -1326,6 +1336,7 @@ pentru a personaliza Galeria"</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Sincronizează automat fotografiile și videoclipurile (este necesar un cont Mi)</string>
     <string name="midnight">Noapte</string>
+    <string name="mishare_all_devices">Toate dispozitivele</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -1954,7 +1965,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_backup_now">Activați</string>
     <string name="search_backup_sub_title">Activați pentru a găsi mai multe imagini</string>
     <string name="search_backup_title">Sincronizați în cloud</string>
-    <string name="search_clear_histories">Goliți</string>
+    <string name="search_clear_histories">Goliți istoricul de căutare</string>
     <string name="search_connection_error">"Nu s-a putut conecta la rețea"</string>
     <string name="search_connection_error_and_set">Atingeți pentru a verifica setările de rețea</string>
     <string name="search_empty_title">Găsiți în Galerie fotografiile în care apar anumite persoane, obiecte și locuri</string>
@@ -2217,6 +2228,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="sync_off_title">Activați sincronizarea în cloud pentru a face o copie de rezervă în mod automat pentru fotografii și videoclipuri</string>
     <string name="sync_pending_title">Se vor sincroniza în mod automat</string>
     <string name="sync_state_unknow">Se obțin informațiile</string>
+    <string name="synced_photo_video_count">S-au sincronizat %1$s și %2$s</string>
     <string name="synced_title">Fotografii și videoclipuri sincronizate cu succes</string>
     <string name="syncing_gprs_title">Sincronizare utilizând datele mobile</string>
     <string name="syncing_metadata_title">Se sincronizează datele Xiaomi Cloud</string>

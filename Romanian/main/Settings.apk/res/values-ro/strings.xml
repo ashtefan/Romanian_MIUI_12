@@ -2970,6 +2970,13 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="exterior">Schema de culori</string>
     <string name="external_code_size_label">Aplicaţie pe stocarea USB</string>
     <string name="external_data_size_label">Date stocare USB</string>
+    <string name="external_ram_dialog_btn_cancel">Mai târziu</string>
+    <string name="external_ram_dialog_btn_ok">Reporniți</string>
+    <string name="external_ram_dialog_message">Reporniți dispozitivul pentru a aplica modificările.</string>
+    <string name="external_ram_dialog_title">Reporniți dispozitivul</string>
+    <string name="external_ram_summary">Adăugați %1$s %2$s RAM ocupând spațiul de stocare. Utilizați această caracteristică numai atunci când există suficient spațiu de stocare disponibil pe dispozitivul dvs.</string>
+    <string name="external_ram_title">Extindere memorie</string>
+    <string name="external_ram_toast">Nu se poate utiliza extinderea memoriei din cauza spațiului de stocare insuficient</string>
     <string name="external_source_switch_title">Permiteți din această sursă</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
@@ -3493,6 +3500,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_system">Sistem</string>
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
+    <string name="headset_aac">AAC</string>
+    <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptiv</string>
     <string name="headset_connectiong">Se conectează…</string>
     <string name="headset_find_both">Ambele</string>
     <string name="headset_find_cancel">Renunțați</string>
@@ -3514,6 +3523,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="headset_notification_switch_title">Widget în Perdeaua de Notificări</string>
     <string name="headset_remove_message">Eliminați dispozitivul?</string>
     <string name="headset_remove_message_indicate">%1$s vor fi deconectate de pe toate dispozitivele asociate acestui cont Mi</string>
+    <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Efecte sunet</string>
     <string name="headset_unsaved_device">Eliminați dispozitivul</string>
     <string name="headset_unsaved_devices">nu salvați, conectați-vă la contul dvs. pe alt telefon</string>
@@ -4360,7 +4370,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="low_label">Redus</string>
     <string name="low_storage_summary">Spațiul de stocare este redus. %1$s utilizat - %2$s disponibil</string>
     <string name="macaddr_label">Adresa MAC:</string>
-    <string name="magic_window_name">Fereastră scindată</string>
+    <string name="magic_window_name">Fereastre paralele</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Testați conexiunea pentru a depista nefuncționalitățile rețelei</string>
     <string name="main_running_process_description">Procesul principal în uz.</string>
@@ -4654,6 +4664,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_moreSettingsInAi">Setări adiționale</string>
     <string name="miheadset_multi_connect_mode">Multipunct</string>
     <string name="miheadset_multi_connect_mode_summary">Conectați mai mult de un dispozitiv odată</string>
+    <string name="miheadset_network_not_available">Verificați setările de rețea și încercați din nou</string>
     <string name="miheadset_next">Piesa următoare</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Reducere zgomot</string>
@@ -5623,6 +5634,8 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="permission_manage_title">Permisiuni pentru %s</string>
     <string name="permission_manager">Permisiuni</string>
     <string name="permission_mgr">Permisiuni</string>
+    <string name="permission_records">Utilizare permisiuni</string>
+    <string name="permission_records_summary">Rezumatul modului în care aplicațiile folosesc permisiunile</string>
     <string name="permission_settings_summary">Gestionați permisiunile de localizare, stocare, telefonie, mesaje și contacte.</string>
     <string name="permission_settings_title">Permisiunile aplicațiilor</string>
     <string name="permissions_label">Permisiuni</string>

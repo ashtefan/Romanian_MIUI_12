@@ -7,6 +7,12 @@
         <item>La fiecare 4 ore</item>
         <item>La fiecare 12 ore</item>
     </string-array>
+    <string-array name="additional_cal_dialog_labels">
+        <item>None</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -105,10 +111,10 @@
     <string-array name="default_reminder_labels">
         <item>La momentul evenimentului</item>
         <item>Cu 5 minute înainte de eveniment</item>
-        <item>Cu 10 minute înainte de eveniment</item>
         <item>Cu 15 minute înainte de eveniment</item>
         <item>Cu 30 de minute înainte de eveniment</item>
         <item>Cu o oră înainte de eveniment</item>
+        <item>Cu 4 ore înainte de eveniment</item>
         <item>Cu o zi înainte de eveniment</item>
         <item>Cu 2 zile înainte de eveniment</item>
         <item>Cu o săptămână înainte de eveniment</item>
@@ -454,6 +460,34 @@
         <item>fecioară</item>
         <item>Fecioară</item>
         <item>23.08 - 22.09</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Senin</item>
+        <item>Înnorat</item>
+        <item>Acoperit de nori</item>
+        <item>Ceață</item>
+        <item>Furtună puternică</item>
+        <item>Furtună</item>
+        <item>Furtună ușoară</item>
+        <item>Furtună cu trăsnete</item>
+        <item>Averse</item>
+        <item>Ploaie torențială</item>
+        <item>Ploaie</item>
+        <item>Ploaie ușoară</item>
+        <item>Ploaie și zăpadă</item>
+        <item>Viscol</item>
+        <item>Averse de ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare slabă</item>
+        <item>Furtună puternică de nisip</item>
+        <item>Furtună de nisip</item>
+        <item>Praf</item>
+        <item>Furtună ușoară de nisip</item>
+        <item>Grindină</item>
+        <item>Praf plutitor</item>
+        <item>Ceață</item>
+        <item>Ploaie înghețată</item>
     </string-array>
     <string-array name="week_header_name">
         <item>DUM</item>

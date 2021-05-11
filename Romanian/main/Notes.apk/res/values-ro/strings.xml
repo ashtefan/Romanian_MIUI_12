@@ -551,10 +551,10 @@
     <string name="repeat_mode_set_item_none">Niciodată</string>
     <string name="repeat_mode_set_item_normal_workday">De luni până vineri</string>
     <string name="repeat_mode_set_item_week">În fiecare săptămână (%s)</string>
-    <string name="repeat_mode_set_item_week_detail">În fiecare săptămână (%s)</string>
+    <string name="repeat_mode_set_item_week_detail">%s</string>
     <string name="repeat_mode_set_item_year">În fiecare an (%s)</string>
-    <string name="repeat_mode_set_item_year_detail">În fiecare an (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+    <string name="repeat_mode_set_item_year_detail">%s</string>
+    <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
     <string name="repeat_mode_set_title">Repetă</string>
     <string name="repeat_mode_week">În fiecare săptămână</string>
     <string name="repeat_mode_year">În fiecare an</string>

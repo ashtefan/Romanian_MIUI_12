@@ -561,6 +561,7 @@
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dd_f_t">xxxxxxx</string>
+    <string name="dd_frn_f_t">Pliați dispozitivul pentru a utiliza camera frontală</string>
     <string name="dd_unf_t">xxxxxxxxxxxxx</string>
     <string name="dialog_button_accept">Accept</string>
     <string name="dialog_button_back">Înapoi</string>
@@ -644,6 +645,7 @@ documentele scanate în mod automat"</string>
     <string name="edit_solid">Contur</string>
     <string name="emoticon">Pachet de etichete</string>
     <string name="error_fail_to_start_audio_capture">Nu s-a putut porni înregistrarea vocală</string>
+    <string name="esp_tip">Previzualizare afișaj exterior</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
     <string name="extend_time_watermark_2_logo_text">SUPERLUNA</string>
@@ -1289,7 +1291,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_eis_entry_off">Oprit</string>
     <string name="pref_camera_eis_entry_pro">Videoclip stabilizat Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
-    <string name="pref_camera_esp">previzualizați</string>
+    <string name="pref_camera_esp">Previzualizare afișaj posterior</string>
     <string name="pref_camera_exposuretime_entry_0_3">0,3s</string>
     <string name="pref_camera_exposuretime_entry_0_4">0,4s</string>
     <string name="pref_camera_exposuretime_entry_0_5">0,5s</string>
@@ -1551,6 +1553,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_tip_id_card">Scaner ID</string>
     <string name="pref_camera_touchafaec_entry_off">Dezactivată</string>
     <string name="pref_camera_touchafaec_entry_on">Activată</string>
+    <string name="pref_camera_track_focus_preferred_description">Activați pentru a focaliza în mod automat asupra oamenilor și a animalelor. De asemenea, veți putea selecta subiectele pentru urmărire manuală.</string>
+    <string name="pref_camera_track_focus_preferred_title">Urmărirea focalizării</string>
     <string name="pref_camera_ubifocus_title">Refocusare</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corectează în mod automat obiectele distorsionate</string>
     <string name="pref_camera_ultra_wide_ldc_title">Corectați distorsiunile în fotografiile cu unghi foarte larg</string>
@@ -1745,12 +1749,15 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="prek_b_j_o">Recreați efectul surround stereo</string>
     <string name="prek_b_j_p">Reduceți impactul vântului asupra înregistrării sunetului</string>
     <string name="prep_video_ai_audio_new_desc_tip">Sunetele provenite de la subiectul în focus sunt îmbunătățite</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Sunetele provenite de la subiectul focalizat sunt îmbunătățite în modul peisaj</string>
     <string name="prep_video_ai_audio_single_desc_tip">Sunetele provenite din spatele ecranului sunt filtrate</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Sunetele provenite din spatele ecranului sunt filtrate în modul peisaj</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Zoomul audio nu funcționează cu monitorul intraauricular live și cu microfonul extern</string>
     <string name="preparing_sd">Verificare card SD…</string>
     <string name="preview_back_pressed_hint">Apăsați din nou pentru a reveni la previzualizare</string>
     <string name="pro_color_mode">Culori Pro</string>
-    <string name="professional_shortcut_long">Pro</string>
+    <string name="process_tips_1">Nu pliați dispozitivul înainte de salvarea videoclipului</string>
+    <string name="process_tips_2">Nu depliați dispozitivul înainte de salvarea videoclipului</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Încercați modul Macro</string>
     <string name="recommend_portrait">Încercați modul Portret</string>

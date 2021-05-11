@@ -206,6 +206,7 @@
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
     <string name="defalut_launcher_title">Lansatorul implicit</string>
     <string name="default_folder_title_game">Jocuri</string>
+    <string name="default_folder_title_hot">Aplicații populare</string>
     <string name="default_folder_title_meitu">Aplicații Meitu</string>
     <string name="default_folder_title_other_apps">Alte aplicații</string>
     <string name="default_folder_title_recommend">Alte aplicații</string>
@@ -219,6 +220,7 @@
     <string name="delete_category_dialog_title">Ștergeți această categorie?</string>
     <string name="delete_screen">Eliminați ecranul</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
+    <string name="deleted_system_applications">Aplicații de sistem dezinstalate</string>
     <string name="deselect_all">Deselectaţi tot</string>
     <string name="dialog_work_profile_button_1">Următorul</string>
     <string name="dialog_work_profile_button_2">Am înțeles</string>

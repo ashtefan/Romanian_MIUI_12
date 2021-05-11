@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">cu %d zile înainte de eveniment</item>
-        <item quantity="one">cu %d zi înainte de eveniment</item>
+        <item quantity="other">cu %d zile înainte</item>
+        <item quantity="one">cu %d zi înainte</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>
@@ -17,20 +17,20 @@
         <item quantity="one">%1$d天前</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">cu %1$d zile înainte de eveniment la %2$s</item>
-        <item quantity="one">cu %1$d zi înainte de eveniment la %2$s</item>
+        <item quantity="other">cu %1$d zile înainte la %2$s</item>
+        <item quantity="one">cu %1$d zi înainte la %2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">cu %d ore înainte</item>
         <item quantity="one">cu %d oră înainte</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">cu %d minute înainte de eveniment</item>
-        <item quantity="one">cu %d minut înainte de eveniment</item>
+        <item quantity="other">cu %d minute înainte</item>
+        <item quantity="one">cu %d minut înainte</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">cu %d săptămâni înainte de eveniment</item>
-        <item quantity="one">cu %d săptămână înainte de eveniment</item>
+        <item quantity="other">cu %d săptămâni înainte</item>
+        <item quantity="one">cu %d săptămână înainte</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Cu o oră în urmă</item>
@@ -66,8 +66,8 @@
         <item quantity="one">%1$s zi</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Aniversare: %2$d ani de la %1$s în 3 zile</item>
-        <item quantity="one">Aniversare: %2$d an de la %1$s în 3 zile</item>
+        <item quantity="other">Aniversare: %2$d ani de la %1$s în %3$d zile</item>
+        <item quantity="one">Aniversare: %2$d an de la %1$s în %3$d zile</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Aniversare: %2$d ani de la %1$s</item>
@@ -109,6 +109,10 @@
         <item quantity="other">%1$d zile înainte</item>
         <item quantity="one">%1$d zi înainte</item>
     </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+    </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">Puteți introduce maxim %1$d zile</item>
         <item quantity="one">Puteți introduce maxim %1$d zi</item>
@@ -117,44 +121,37 @@
         <item quantity="other">Se pot seta cel mult %d memento-uri</item>
         <item quantity="one">Se poate seta cel mult %d memento</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">Ascunde %d sarcini finalizate</item>
+        <item quantity="one">Ascunde %d sarcină finalizată</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Într-o oră</item>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Ziua %1$d (așteptată)</item>
+        <item quantity="one">Ziua %1$d (așteptată)</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Într-o jumătate de oră</item>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Ziua %1$d</item>
+        <item quantity="one">Ziua %1$d</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Imediat</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">în %d minute</item>
-        <item quantity="one">într-un minut</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Chiar acum</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elemente selectate</item>
-        <item quantity="one">%d element selectat</item>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Următorul ciclu în %1$d zile</item>
+        <item quantity="one">Următorul ciclu în %1$d zi</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+        <item quantity="one">+%d</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificări noi</item>
-        <item quantity="one">%d notificare nouă</item>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">zile</item>
+        <item quantity="one">zi</item>
     </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%d invitați</item>
-        <item quantity="one">%d invitat</item>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">săptămâni</item>
+        <item quantity="one">săptămână</item>
     </plurals>
-    <plurals name="n_weeks">
-        <item quantity="other">%d</item>
-        <item quantity="one">%d</item>
+    <plurals name="num_picker_hint">
+        <item quantity="other">" zile"</item>
+        <item quantity="one">" zi"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
@@ -200,13 +197,37 @@
         <item quantity="other">%1$d ani</item>
         <item quantity="one">%1$d an</item>
     </plurals>
-    <plurals name="travel_time_range_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d oră</item>
+    <plurals name="show_completed_notes">
+        <item quantity="other">Afișează %d sarcini finalizate</item>
+        <item quantity="one">Afișează %d sarcină finalizată</item>
     </plurals>
-    <plurals name="travel_time_range_mins">
-        <item quantity="other">%d minute</item>
-        <item quantity="one">%d minut</item>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Nu ați înregistrat timp de %1$d zile. Înregistrați ciclurile pentru a obține predicții mai acurate.</item>
+        <item quantity="one">Nu ați înregistrat timp de %1$d zi. Înregistrați ciclurile pentru a obține predicții mai acurate.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Acest ciclu durează în total %1$d zile</item>
+        <item quantity="one">Acest ciclu durează în total %1$d zi</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Ziua %1$d a acestui ciclu menstrual</item>
+        <item quantity="one">Ziua %1$d a acestui ciclu menstrual</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Ziua %1$d a acestui ciclu</item>
+        <item quantity="one">Ziua %1$d a acestui ciclu</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d zile până la următorul ciclu</item>
+        <item quantity="one">%1$d zi până la următorul ciclu</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Ziua estimată %1$d a ciclului</item>
+        <item quantity="one">Ziua estimată %1$d a ciclului</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s minute de condus până la %1$s.</item>
+        <item quantity="one">%2$s minut de condus până la %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SĂPTĂMÂNA %d</item>

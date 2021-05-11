@@ -92,6 +92,7 @@
     <string name="dialog_stop_desc">Puteți pune pe pauză sau puteți opri descărcarea; alegeți ce doriți să faceți.</string>
     <string name="dialog_stop_title">Opriți descărcarea?</string>
     <string name="dialog_twrp">Stocarea internă este criptată. După ce dispozitivul va reporni în modul de Recuperare, vă rugăm să introduceți parola dispozitivului pentru a continua.</string>
+    <string name="downgrade_warning">Retrogradare via OTA detectată și blocată! Acest lucru împiedică deteriorarea sistemului!</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>

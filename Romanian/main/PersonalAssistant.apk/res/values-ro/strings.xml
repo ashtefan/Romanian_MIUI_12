@@ -259,6 +259,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_express_shunfeng_verify_dialog_title">Verificare finalizată</string>
     <string name="app_express_shunfeng_verify_failed">Nu s-au putut verifica informațiile de contact. Verificați dacă ultimele patru cifre ale numărului de telefon introdus sunt corecte și încercați din nou.</string>
     <string name="app_express_tail_number">Comanda: %1$s</string>
+    <string name="app_first_loading_txt">Se încarcă cartelele…</string>
     <string name="app_health_card_completion">Progres</string>
     <string name="app_health_card_energy">Calorii</string>
     <string name="app_health_card_step">Pași</string>
@@ -365,11 +366,11 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_pa_setting_version">Versiunea: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Timp de ecran</string>
-    <string name="app_screen_time_no_time_title">Mai puțin de 1 min</string>
+    <string name="app_screen_time_no_time_title">&lt;1 min</string>
     <string name="app_screen_time_support_false">Acest serviciu nu este suportat</string>
     <string name="app_screen_time_time">%1$d ore și %2$d min</string>
     <string name="app_screen_time_time_minute">%1$d min</string>
-    <string name="app_screen_time_title">"Timp de ecran: "</string>
+    <string name="app_screen_time_title">"Timp de ecran"</string>
     <string name="app_setting">Setări Asistent inteligent</string>
     <string name="app_setting_account">Conturi</string>
     <string name="app_setting_account_binding">Adăugați</string>

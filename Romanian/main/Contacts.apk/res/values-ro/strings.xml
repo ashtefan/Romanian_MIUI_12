@@ -72,7 +72,7 @@
     <string name="am">AM</string>
     <string name="antispam_mark_my_contribution">Se afişează altor utilizatori că am etichetat acest număr</string>
     <string name="antispam_provider_format">Marcat ca spam de către %s</string>
-  <string name="app_name">SpringBack</string>
+    <string name="app_name">blur</string>
     <string name="attach_photo_dialog_title">Fotografie de contact din agendă</string>
     <string name="audio_chat">Chat vocal</string>
     <string name="auto_nickname">Automat</string>
@@ -459,6 +459,7 @@
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_close">Atingeţi pentru a închide</string>
     <string name="clip_dialog_title">Apelaţi numărul copiat?</string>
+    <string name="close">Închideți</string>
     <string name="close_dial_pad">Închideţi tastatura numerică</string>
     <string name="cloud_antispam_mark">Marcaţi ca spam</string>
     <string name="cloud_antispam_marked">Marcat</string>
@@ -607,7 +608,7 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Chinezesc Tradițional</string>
-    <string name="date_time_set">Setaţi</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_year_toggle">Indicaţi anul</string>
     <string name="default_ringtone">Ton de apel prestabilit</string>
     <string name="deleteCloudConfirmationDetail">Ștergeți informațiile despre contactul %s atât din cloud cât și din acest dispozitiv?</string>
@@ -840,7 +841,7 @@ Motivul: \"%s\""</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MMyyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -1131,10 +1132,13 @@ Motivul: \"%s\""</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1553,6 +1557,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="select_none">Niciun element selectat</string>
     <string name="select_show_contacts">Listă contacte</string>
     <string name="select_vcard_title">Alegeţi fişierul vCard</string>
+    <string name="send">Trimiteți</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Această scurtătură există deja</string>
     <string name="send_contact_shortcut_todesktop_failed">Nu s-a putut adăuga scurtătura pe Ecranul principal</string>
     <string name="send_contact_shortcut_todesktop_overflow">Nu se mai pot adăuga scurtături pe Ecranul principal</string>

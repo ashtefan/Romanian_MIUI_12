@@ -57,6 +57,7 @@
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="clock_introduction">Puteți utiliza această aplicație pentru a vedea ora, precum și pentru a utiliza cronometrul, ora pe glob, temporizatorul, să setați alarme și multe altele.</string>
+    <string name="close">Închideți</string>
     <string name="close_location_service_setting">Puteți alege să dezactivați accesul la locație în Setări > Setări adiționale > Confidențialitate sau să restricționați permisiunile pentru aplicații individuale în aplicația Securitate.</string>
     <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>
@@ -369,6 +370,7 @@
     <string name="search_menu_title">Căutați</string>
     <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inutile din dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile, permisiunile și multe altele.</string>
     <string name="security_mobile_account_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
+    <string name="send">Trimiteți</string>
     <string name="service_agreement">Am citit și am acceptat termenii și condițiile.</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galerie</string>

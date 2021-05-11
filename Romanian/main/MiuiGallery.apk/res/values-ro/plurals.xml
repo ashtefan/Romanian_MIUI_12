@@ -292,6 +292,10 @@
         <item quantity="other">%1$d videoclipuri aşteaptă sincronizarea</item>
         <item quantity="one">%1$d videoclip aşteaptă sincronizarea</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">În total %1$d elemente</item>
         <item quantity="one">În total %1$d element</item>
@@ -512,6 +516,14 @@
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">S-au sincronizat %d fotografii</item>
+        <item quantity="one">S-a sincronizat %d fotografie</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">S-au sincronizat %d videoclipuri</item>
+        <item quantity="one">S-a sincronizat %d videoclip</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>
         <item quantity="one">Nu veți putea restaura %d element selectat dacă îl ștergeți. Îl ștergeți oricum?</item>
@@ -535,5 +547,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fișiere</item>
         <item quantity="one">%1$d fișier</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
     </plurals>
 </resources>

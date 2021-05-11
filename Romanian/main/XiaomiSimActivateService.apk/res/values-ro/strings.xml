@@ -92,7 +92,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_desc_find_device_postfix">Un mesaj SMS de activare poate fi trimis după ce înlocuiți cartelele SIM(TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Pentru a activa %3$s, introduceți numărul de telefon al cartelei SIM %2$d. Dacă înlocuiți această cartelă SIM, va fi trimis un alt SMS de activare.</string>
     <string name="activate_popup_desc_intl_sim_card">Un mesaj text internaţional va fi trimis pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pentru a activa %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internațional cu plată&lt;/b>va fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pentru a activa %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internațional cu plată&lt;/b> va fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Consultați &lt;a href=https://account.xiaomi.com/helpcenter/faq>Manualul de utilizare al Contului Mi&lt;/a> dacă aveți întrebări.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">Un mesaj text local şi unul internaţional vor fi trimise pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg">Pentru a activa %3$s, %1$d SMS obișnuit și %2$d SMS internațional vor fi trimise. Operatorul vă va taxa pentru aceste mesaje.</string>
@@ -170,6 +170,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="app_name">Serviciul de activare SIM al Xiaomi</string>
     <string name="checking_client">Se verifică mediul de activare</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="early_morning">Dimineață</string>
@@ -323,6 +324,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="send">Trimiteți</string>
     <string name="sim_activated_failed_msg">Nu s-a putut activa serviciul. Atingeți pentru a încerca din nou.</string>
     <string name="sim_unactivated_feature_title">%s nu a fost activat</string>
     <string name="sim_unactivated_msg">Acest serviciu nu este activat. Atingeți pentru a încerca din nou.</string>
