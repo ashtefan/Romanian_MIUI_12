@@ -580,8 +580,6 @@
     <string name="mark_start">Start</string>
   <string name="match_ed">S-a încheiat</string>
   <string name="match_not_started">nu a început</string>
-    <string name="menu_general_preferences">Setări generale</string>
-    <string name="menu_reminder_preferences">Setări pentru memento</string>
     <string name="midnight">Noapte</string>
     <string name="match_select_activity_label">Ligi</string>
     <string name="match_zodiac">Potriviți zodiacul</string>
