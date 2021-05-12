@@ -1301,7 +1301,7 @@ prioritățile"</string>
     <string name="kg_invalid_confirm_pin_hint">Codurile PIN nu se potrivesc</string>
     <string name="kg_invalid_puk">Reintroduceți codul PUK corect. Încercările repetate vor dezactiva permanent cartela SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Introduceți un cod PIN format din 4 până la 8 cifre.</string>
-    <string name="kg_invalid_sim_puk_hint">Codul PUK trebuie să aibă cel puțin 8 cifre.</string>
+    <string name="kg_invalid_sim_puk_hint">Codul PUK trebuie să conțină %1$d cifre.</string>
     <string name="kg_login_too_many_attempts">Prea multe încercări de desenare a modelului</string>
     <string name="kg_password_instructions">Introduceți parola</string>
     <string name="kg_password_pin_failed">Operațiunea PIN SIM a eșuat!</string>

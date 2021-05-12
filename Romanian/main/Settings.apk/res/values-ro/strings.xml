@@ -3294,8 +3294,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="freeform_guide_notification_drop_down_summary">Apăsați și mențineți apăsat, și apoi glisați în jos bara de acțiuni a unei notificări</string>
     <string name="freeform_guide_notification_drop_down_title">Accesarea ferestrelor plutitoare</string>
     <string name="freeform_guide_settings">Ferestre plutitoare</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Glisați din partea de jos a ecranului în colțul din dreapta sus a ecranului</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Glisarea către ferestre plutitoare</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Apăsați lung pe partea de jos a ferestrei și trageți-o în colțul din dreapta sus</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimizați o aplicație</string>
     <string name="freeform_guide_slide_up_to_close_summary">Glisați în sus bara de acțiuni a unei ferestre plutitoare</string>
     <string name="freeform_guide_slide_up_to_close_title">Închiderea ferestrelor plutitoare</string>
     <string name="freeform_vedio_description">"·Apăsați și mențineți apăsat, și apoi glisați în jos o notificare pentru a o deschide într-o fereastră plutitoare.

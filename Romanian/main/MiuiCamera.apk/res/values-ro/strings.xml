@@ -326,7 +326,7 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Folosiți un trepied</string>
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
-    <string name="app_name">verecorder</string>
+    <string name="app_name">veeditor</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
@@ -1041,6 +1041,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_pixel_64m">64 MP</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Scaner</string>
     <string name="module_name_square">Pătrat</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Videoclip</string>
@@ -1785,6 +1786,9 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="scan_install_prompt_header">Instalați aplicația Scaner</string>
+    <string name="scan_install_prompt_loading">Se instalează aplicația Scaner…</string>
+    <string name="scan_install_prompt_message">Instalați aplicația Scaner și încercați din nou.</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracteristică, apăsați simultan butoanele de creștere a volumului și Înapoi.</string>
     <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
     <string name="search_menu_title">Căutați</string>

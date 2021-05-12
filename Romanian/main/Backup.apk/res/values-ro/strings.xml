@@ -75,6 +75,7 @@
     <string name="backup_finished">Creare copie de rezervă finalizată</string>
     <string name="backup_hint">Nu opriți telefonul!</string>
     <string name="backup_hint_onpad">Nu opriți telefonul!</string>
+    <string name="backup_hint_pad">Nu opriți telefonul</string>
     <string name="backup_is_running">Creare copie de rezervă în curs</string>
     <string name="backup_new">Nouă:</string>
     <string name="backup_progress">Creare copie de rezervă…</string>
@@ -454,7 +455,9 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
 %1$d. Copiați copiile de rezervă pe computer pentru a evita pierderea datelor. %2$s.
 %3$d. Copiile de rezervă vor fi salvate în MIUI-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Faceți o copie de rezervă</string>
+    <string name="new_local_tab_backup_pad">Faceți o copie de rezervă</string>
     <string name="new_local_tab_restore">Restaurați</string>
+    <string name="new_local_tab_restore_pad">Restaurați</string>
     <string name="new_low_storage_title">Nu aveți suficient spațiu de stocare</string>
     <string name="new_more_settings_label">Setări suplimentare</string>
     <string name="new_pc_backup_content1">%1$d. Deschideți \"%2$s\".</string>
@@ -462,11 +465,14 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_pc_backup_content3">%d. Găsiți copia de rezervă în MIUI-Backup-AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Copiați fișierul pe computer.</string>
     <string name="new_pc_backup_restore_link">Dispozitiv mobil</string>
+    <string name="new_pc_backup_restore_link_pad">Dispozitiv mobil</string>
     <string name="new_pc_backup_summary1">Selectați elementele și apăsați \"Creați o copie de rezervă\".</string>
     <string name="new_pc_backup_summary2">Conectați telefonul la computer printr-un cablu USB.</string>
+    <string name="new_pc_backup_summary2_pad">Conectați dispozitivul mobil la computer printr-un cablu USB.</string>
     <string name="new_pc_backup_summary4">Notă: puteți de asemenea copia fotografiile și videoclipurile din /DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conectați dispozitivul mobil la computer printr-un cablu USB.</string>
     <string name="new_pc_restore_content2">%d. Copiați copia de rezervă din computer în MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Copiați copia de rezervă din computer în MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Deschideți \"%2$s\" și selectați elementele de restaurat.</string>
     <string name="new_pc_title">Copiați copiile de rezervă</string>
     <string name="new_select_file">Audio, videoclipuri și fișiere</string>
@@ -492,6 +498,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="no_encrypt_password">Nicio parolă</string>
     <string name="no_network">"Nu se poate conecta la reţea"</string>
     <string name="noon">Amiază</string>
+    <string name="not_enough_storage_tips">Spațiu de stocare insuficient. Eliberați spațiu și încercați din nou.</string>
     <string name="not_set">Nesetat</string>
     <string name="note_title">Note</string>
     <string name="nothing_searched">Nu s-a găsit nimic</string>

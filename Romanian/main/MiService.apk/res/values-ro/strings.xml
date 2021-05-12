@@ -184,11 +184,14 @@
     <string name="miui_feedback_edit_toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="miui_feedback_main_answer_title">"Există un răspuns la această întrebare"</string>
     <string name="miui_feedback_main_frequent_question_title">Întrebări frecvente</string>
-    <string name="miui_feedback_main_menu_catch_full_log">Generați jurnalele</string>
-    <string name="miui_feedback_main_menu_feedback_list">Vedeți istoricul feedback-ului</string>
+    <string name="miui_feedback_main_item_catch_full_log">Obțineți jurnalele</string>
+    <string name="miui_feedback_main_item_customer_service">Servicii post-vanzare</string>
+    <string name="miui_feedback_main_item_feedback_list">Feedback-ul meu</string>
+    <string name="miui_feedback_main_menu_view_privacy">Politica de Confidențialitate</string>
     <string name="miui_feedback_main_search_footer">"Nu sunt acestea întrebările pe care doriți să le adresați?"</string>
     <string name="miui_feedback_main_search_footer_submit">Trimiteți feedback-ul</string>
     <string name="miui_feedback_main_search_issue">Introduceți cuvinte cheie pentru căutare</string>
+    <string name="miui_feedback_main_search_no_answer">Nu s-au găsit rezultate</string>
     <string name="miui_feedback_main_start_submit">Trimiteți feedback-ul</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Trimiteți</string>
     <string name="miui_feedback_main_submit_dialog_content">"Se pare că nu am putut găsi o soluție pentru problema dvs. Ne puteți trimite feedback-ul dumneavoastră."</string>

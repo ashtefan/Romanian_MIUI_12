@@ -399,6 +399,9 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="wireless_charging_connected_message">Nu se poate utiliza încărcarea fără fir inversă atunci când dispozitivul dvs. se încarcă wireless.</string>
+    <string name="wireless_charging_fg_control_cancel">Renunțați</string>
+    <string name="wireless_charging_fg_control_messgae">Încărcarea inversă wireless a fost dezactivată deoarece a rămas mai puțin de %d%% acumulator disponibil. Puteți regla setările pentru a permite încărcarea fără fir inversă să funcționeze mai mult.</string>
+    <string name="wireless_charging_fg_control_ok">Ajustați</string>
     <string name="wireless_charging_low_battery_level_message">Nu se poate utiliza încărcarea fără fir inversă când acumulatorul este încărcat la mai puțin de %d%%.</string>
     <string name="wireless_charging_ok">Am înțeles</string>
     <string name="wireless_charging_saver_cancel">Dezactivați</string>
