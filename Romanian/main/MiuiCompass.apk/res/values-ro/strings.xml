@@ -80,6 +80,7 @@
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansate</string>
     <string name="first_using_dialog_message">Busola trebuie să utilizeze conexiunea la rețea și camera dispozitivului pentru a lucra în mod normal.</string>
+    <string name="first_using_dialog_message_no_camera">Aplicația Busolă trebuie să se conecteze la internet și să acceseze informațiile despre locație pentru a putea funcționa în mod normal. Acceptați?</string>
     <string name="first_using_dialog_title">Permisiune acces</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -221,6 +222,7 @@
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="open_perm_msg">Aplicația Busolă trebuie să acceseze informațiile despre locație și Camera foto. Acestea sunt necesare pentru a vă determina coordonatele și pentru a vă oferi vederi în direct. Permiteți?</string>
+    <string name="open_perm_msg_no_camera">Aplicația Busolă trebuie să acceseze informațiile despre locație pentru a putea determina coordonatele. Permiteți?</string>
     <string name="open_perm_title">Permisiuni necesare</string>
     <string name="permission_camera_desc">Utilizarea nivelului de spirit?</string>
     <string name="permission_location_desc">Afișarea coordonatelor și a presiunii atmosferice</string>

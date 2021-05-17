@@ -202,6 +202,7 @@
     <string name="copy_verification_code_tip">Copiat cu succes</string>
     <string name="current_data_version">Versiunea Mesageriei Mi</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="debug_about_mms">Despre Mms</string>
     <string name="debug_category_db">Baza de date</string>
     <string name="debug_category_others">Altele</string>
@@ -485,7 +486,10 @@ Verificați cartela SIM."</string>
     <string name="message_too_big_for_audio">Mesajul este prea mare</string>
     <string name="message_too_big_for_video">Mesajul este prea mare pentru a ataşa un videoclip.</string>
     <string name="message_type_label">"Tip: "</string>
+    <string name="message_unread">Necitit</string>
     <string name="messagelist_sender_self">Eu</string>
+    <string name="messages_installed_notification_text_xiaomi">Atingeți pentru a porni o conversație</string>
+    <string name="messages_installed_notification_title_xiaomi">Aplicația Mesaje este instalată</string>
     <string name="messaging">Mesagerie</string>
     <string name="mi_message_title">Mesaje Mi</string>
     <string name="midnight">Noaptea</string>
@@ -500,10 +504,13 @@ Verificați cartela SIM."</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -667,6 +674,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="notification_add_todo_content">Codul de preluare: %s</string>
     <string name="notification_channel_msg_description">Notificări despre Mesaje</string>
     <string name="notification_channel_msg_name">Mesaje</string>
+    <string name="notification_channel_name_xiaomi">Notificări despre actualizările aplicației</string>
     <string name="notification_channel_other_description">Alte notificări</string>
     <string name="notification_channel_other_name">Altele</string>
     <string name="notification_channel_sim1_description">Notificări despre mesajele cartelei SIM 1</string>
@@ -806,6 +814,9 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_revoke_nonetwork_msg">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
+    <string name="privacy_revoke_nonetwork_ok">Am înțeles</string>
+    <string name="privacy_revoke_nonetwork_title">Nu se poate conecta la rețea</string>
     <string name="privacy_state_revoked_cancel">Renunțați</string>
     <string name="privacy_state_revoked_content">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Mesageriei. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Mesageria Mi și Mesageria inteligentă furnizate de aplicația Mesaje trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. de la politica de confidențialitate a Mesageriei va fi considerată ca refuz de acceptare a serviciilor pe baza informațiilor personale colectate furnizate de Mesageria Mi și Mesageria inteligentă.</string>
     <string name="privacy_state_revoked_dialog_title">Retragerea consimțământului</string>
@@ -820,6 +831,21 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="private_protect">Parole</string>
     <string name="private_settings">Setări</string>
     <string name="processing">Procesare…</string>
+    <string name="promo_back_btn_text_xiaomi">Înapoi la Mesaje Mi</string>
+    <string name="promo_install_btn_text">Următorul</string>
+    <string name="promo_install_bullet_1_xiaomi">Utilizați Asistentul Google pentru text și sarcini</string>
+    <string name="promo_install_bullet_2_xiaomi">Păstrați conversațiile curente și elementele media</string>
+    <string name="promo_install_bullet_3_xiaomi">Găsiți cu ușurință mesajele și elementele media partajate</string>
+    <string name="promo_install_bullet_4_xiaomi">Utilizați Mesaje ca aplicație implicită pentru SMS-uri</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></string>
+    <string name="promo_install_subtitle_xiaomi">Obțineți conversații la calitate ridicată și mai bogate prin Wi-Fi sau date mobile. Instalați aplicația Mesaje și utilizați-o ca aplicație implicită pentru SMS-uri. <a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></string>
+    <string name="promo_install_title_xiaomi">Xiaomi recomandă să treceți la Mesaje de la Google</string>
+    <string name="promo_launch_messages_btn_text">Deschideți aplicația Mesaje</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Nu, mulțumesc</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Aplicația Mesaje de la Google este acum aplicația dvs. prestabilită pentru SMS-uri. Pentru a plasa Google Messages ca favorit pe ecranul de pornire, apăsați lung Mi Message și mutați-l din favorite, apoi apăsați lung Mesaje și mutați-l în favorite.</string>
+    <string name="promo_post_install_title_no_default_xiaomi">Înlocuiți aplicația Mesaje Mi cu aplicația de calitate superioară de la Google</string>
+    <string name="promo_post_install_title_with_default_xiaomi">Începeți acum să trimiteți mesaje text de calitate superioară cu Mesaje de la Google</string>
+    <string name="promo_use_messages_btn_text">Utilizați aplicația Mesaje</string>
     <string name="prompt_area_code">+40</string>
     <string name="prompt_otp">Cod</string>
     <string name="prompt_phone">Număr de telefon</string>
@@ -1119,6 +1145,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="slide_show_part">Partea %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Glisați în sus pentru a renunța</string>
     <string name="slideshow_activity">Prezentare</string>
+    <string name="small_window_log_text">Camera nu poate fi utilizată în modul ferestre multiple</string>
     <string name="smart_message_title">Mesageria Inteligentă</string>
     <string name="smart_message_upgrade_title">Actualizarea Politicii de Confidențialitate a Mesageriei Inteligente</string>
     <string name="smart_messages_network_allow_message">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Permiteți acum?</string>

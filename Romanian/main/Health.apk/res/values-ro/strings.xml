@@ -72,6 +72,8 @@
     <string name="add_data_type_datasource">Adăugați o sursă de date (%1$s)</string>
     <string name="add_model_card">"Atingeți butonul din colțul din stânga sus
 pentru a adăuga carduri"</string>
+    <string name="add_model_card2">"Atingeți butonul de mai jos pentru a adăuga carduri.
+Vă veți putea urmări exercițiile și activitățile."</string>
     <string name="add_owned_device">Dispozitive disponibile</string>
     <string name="add_record">Adăugați</string>
     <string name="added_data_source">Surse adăugate</string>
@@ -363,6 +365,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_delete_record_confirm">Ștergeți această înregistrare?</string>
     <string name="dialog_exercise_purpose">Bine ați venit în aplicația Sănătate Xiaomi! \"Numărarea pașilor\" vă permite să vedeți câți pași faceți zilnic, dar și să setați și să gestionați țintele de activitate. Toate datele corelate vor fi păstrate local în telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
     <string name="dialog_exit">Ieșiți</string>
+    <string name="dialog_exit_use">Ieșiți</string>
     <string name="dialog_feedback_content">Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza unele funcții ale aplicații; oricum, funcțiile de bază vor fi totuși disponibile. Puteți oricând restricționa permisiunile sau revoca autorizarea din Setări.</string>
     <string name="dialog_feedback_purpose">Sănătate Xiaomi trebuie să poată accesa stocarea pentru a trimite feedback.</string>
     <string name="dialog_feedback_purpose2">Pentru trimiterea feedback-ului</string>
@@ -403,6 +406,8 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
+    <string name="download_apk">Se descarcă %s…</string>
+    <string name="download_background">Descărcați</string>
     <string name="drag_sort">Rearanjați</string>
     <string name="dream_talk">Vorbire %1$s</string>
     <string name="dream_talk_record">Ați fost înregistrat vorbind în timp ce dormeați</string>

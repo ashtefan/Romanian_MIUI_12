@@ -91,6 +91,10 @@
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s mesaje | "</item>
         <item quantity="one">"%s mesaj | "</item>

@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">Nu s-a putut deschide codul de sănătate Alipay</string>
     <string name="application_cannot_open_alipay_payment_code">Nu s-a putut accesa codul de plată Alipay</string>
     <string name="application_cannot_open_alipay_scanner">Nu s-a putut accesa scanerul Alipay</string>
+    <string name="application_cannot_open_au_pay">Instalați mai întâi au PAY</string>
     <string name="application_cannot_open_weixin_health_code">Nu s-a putut deschide codul de sănătate WeChat</string>
     <string name="application_cannot_open_weixin_payment_code">Nu s-a putut accesa codul de plată WeChat</string>
     <string name="application_cannot_open_weixin_scanner">Nu s-a putut accesa scanerul WeChat</string>
@@ -89,6 +90,11 @@
     <string name="device_type_pc">Computer</string>
     <string name="disable_nfc">S-a dezactivat NFC pentru încărcarea fără fir</string>
     <string name="disable_nfc_reverse">S-a dezactivat NFC pentru încărcarea inversă fără fir</string>
+    <string name="dock_tip_floatwindow">Țineți bara și trageți-o până la marginea ecranului pentru a intra în modul Ecranul scindat.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Trageți bara pe orizontală pentru a schimba pozițiile celor două ferestre ale aplicației.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Țineți apăsat și trageți în jos pentru a comuta la o fereastră plutitoare.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Trageți bara pe verticală pentru a schimba pozițiile celor două ferestre ale aplicației.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Țineți apăsat și trageți în partea stângă sau dreaptă a ecranului pentru a comuta la o fereastră plutitoare.</string>
     <string name="double_click_power_key">niciuna</string>
     <string name="double_knock">niciuna</string>
     <string name="eighthours">8 ore</string>
@@ -184,6 +190,8 @@
     <string name="miaudiovisual_notification_title">Efecte audio și vizuale</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">Nu se poate închide; telefonul este blocat.</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s nu suportă ferestre plutitoare</string>
+    <string name="miui_multiwindow_not_support_split">%1$s nu suportă Ecran scindat</string>
     <string name="miui_screen_ratio_hint">Probleme aspect ecran</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Nu arăta din nou</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Mergeți la Setări</string>
