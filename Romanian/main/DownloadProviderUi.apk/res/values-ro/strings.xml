@@ -71,12 +71,15 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancel_running_download">Anulaţi</string>
     <string name="cancle">Anulaţi</string>
+    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="choose_open_picture">Selectați acțiunea</string>
     <string name="choose_open_time">"Alegeți când doriți să începeți"</string>
     <string name="clear_data">Goliți</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="close_ad">Închideți reclama</string>
+    <string name="collect_diagnosis_log">Colectează jurnalul de diagnoză</string>
     <string name="complete_time">Finalizat:</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">%d descărcări vor fi şterse.</string>
@@ -95,6 +98,10 @@
     <string name="deselect_all">Deselectaţi-le pe toate</string>
     <string name="deselect_subfile_all">Deselectaţi-le pe toate</string>
     <string name="determine">OK</string>
+    <string name="diagnosis_log_send_failed">Trimiterea jurnalului de diagnoză a eșuat.</string>
+    <string name="diagnosis_log_sent_format">"Jurnalul de diagnoză a fost trimis.
+ID:%s
+Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="dialog_btn_cancel">Renunțați</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Setări de rețea</string>
@@ -251,6 +258,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="for_diagnosis_usage_only">Utilizați această informație doar pentru diagnoză.</string>
     <string name="force_touch_newdownload">Descărcare nouă</string>
     <string name="force_touch_rank">Evaluări</string>
     <string name="force_touch_search">Căutați pe net</string>
@@ -374,6 +382,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="net_error">Nu se poate conecta la rețea; reîncercați</string>
     <string name="network_error">Nu se poate conecta la reţea</string>
     <string name="new_add">Descărcare nouă</string>
@@ -399,6 +408,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="notify_install_guide_title">%s s-a instalat cu succes</string>
     <string name="notify_not_support">Asemenea notificări nu sunt suportate; actualizați acum</string>
     <string name="notify_only_wifi_download">Se așteaptă conectarea la Wi-Fi</string>
+    <string name="ok">OK</string>
     <string name="one_month">O lună</string>
     <string name="only_support_torrent">Sunt acceptate doar fișiere torrent</string>
     <string name="open">Deschideţi</string>
@@ -411,6 +421,9 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="other">Alte</string>
     <string name="other_filter">Altele</string>
     <string name="package_filter">Pachete</string>
+    <string name="passport_oauth_actionbar_title">Cont Mi</string>
+    <string name="passport_oauth_sucess_tip">Autorizat cu succes</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_no_available">"Această cale nu este disponibilă"</string>
     <string name="pause_download">Pauză</string>
     <string name="paused">Întrerupt</string>
@@ -506,6 +519,8 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="select_subfile_all">Selectaţi tot</string>
     <string name="selected_count">Selectat: %1$d din %2$d</string>
     <string name="send">Trimiteți</string>
+    <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
+    <string name="sending">Se trimite…</string>
     <string name="setting_close_debug">Modul Depanare dezactivat</string>
     <string name="setting_debug_fail">Nu s-a putut intra în Modul Depanare</string>
     <string name="setting_open_debug">Modul Depanare este activat. Apăsați aici de 6 ori pentru a dezactiva Modul Depanare.</string>
@@ -618,6 +633,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="task_detail">Sarcini</string>
     <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">Nu s-a putut finaliza sarcina</string>
+    <string name="temporary_not_available">indisponibil temporar</string>
     <string name="terabyteShort">TB</string>
     <string name="test_speed">Testați</string>
     <string name="test_speed_detail">Detalii</string>

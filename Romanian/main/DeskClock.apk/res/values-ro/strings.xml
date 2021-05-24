@@ -453,6 +453,7 @@
     <string name="search_stopwatch_keywords">Cronometru</string>
     <string name="search_timer_keywords">Temporizator</string>
     <string name="search_worldclock_keywords">Oră;Ora pe glob;Ceas</string>
+    <string name="select_operation">Selectați</string>
     <string name="send">Trimiteți</string>
     <string name="set_alarm">Selectați ora</string>
     <string name="set_alarm_choose_ringtone">Selectați sunetul</string>
@@ -468,6 +469,7 @@
     <string name="shortcut_stop_watch">Porniți temporizatorul</string>
     <string name="shut_down_keep_screen">Ecranul nu va fi menținut pornit</string>
     <string name="shutdown_alarm_alert_enable_summary">Alarmele la oprire vor suna cel puțin 10 minute după ce veți închide telefonul</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Activați pentru a face alarmele setate să se oprească atunci când dispozitivul este oprit. Numai alarmele setate pentru cel puțin %d minute după oprirea dispozitivului se vor opri.</string>
     <string name="shutdown_alarm_alert_title">Alarmă la oprire</string>
     <string name="shutdown_alarm_disable_summary">"Alarma nu va mai suna după ce închideți telefonul"</string>
     <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 10 minute după ce opriți telefonul"</string>
@@ -695,6 +697,7 @@
     <string name="worldclock_resident_city_text_detail">Ceasul dual este activ</string>
     <string name="worldclock_search_city">Selectați orașul</string>
     <string name="worldclock_second_time">Ora în %s</string>
+    <string name="worldclock_second_time_desc">"%s: "</string>
     <string name="worldclock_title">Ceas</string>
     <string name="worldclock_world_time">Fusuri orare</string>
     <string name="worldcolock_date_display_prefix">Data curentă: </string>

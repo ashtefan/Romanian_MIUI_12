@@ -720,7 +720,7 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="dialer_empty_text_loading">Doar o secundă…</string>
     <string name="dialer_empty_text_no_call_log">Nicio persoană contactată recent</string>
     <string name="dialer_empty_text_no_search_result">Nu a fost găsit niciun contact</string>
-    <string name="dialer_firewall_entry_name">Jurnalele apelurilor blocate</string>
+    <string name="dialer_firewall_entry_name">Jurnalul apelurilor blocate</string>
     <string name="dialer_menu_description">Apăsați pentru a accesa tastatura</string>
     <string name="dialer_menu_title">Opțiuni meniu</string>
     <string name="dialer_returnToInCallScreen">Reveniţi la apelul în curs</string>

@@ -383,7 +383,7 @@
     <string name="wifi_assistant_wifi_no_internet">Această rețea Wi-Fi nu are acces la internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Atingeți pentru a vedea detalii</string>
     <string name="wireless_charging_notification_message1">Nu s-au găsit dispozitive wireless pentru a fi încărcate. Încărcarea inversă wireless este dezactivată acum.</string>
-    <string name="wireless_charging_notification_message2">Acumulatorul are mai puțin de 30% energie disponibilă. Încărcarea inversă wireless este dezactivată acum.</string>
+    <string name="wireless_charging_notification_message2">Acumulatorul are mai puțin de %s energie disponibilă. Încărcarea inversă wireless este dezactivată acum.</string>
     <string name="wireless_charging_notification_message3">A apărut o eroare pe durata încărcării. Încărcarea inversă wireless este dezactivată acum.</string>
     <string name="wireless_charging_notification_titile">S-a dezactivat încărcarea inversă wireless</string>
     <string name="xiaomi">Mi</string>

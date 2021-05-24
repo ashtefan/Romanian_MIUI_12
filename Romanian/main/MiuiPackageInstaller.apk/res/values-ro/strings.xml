@@ -192,6 +192,7 @@ Sample Rate"</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe bază de fișier</string>
     <string name="convert_to_file_encryption_done">Fișier criptat deja</string>
     <string name="convert_to_file_encryption_enabled">Convertiți…</string>
+    <string name="close">Închideți</string>
     <string name="copy">Copiați</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_button_text_cancel">Ieșiți</string>
@@ -208,6 +209,7 @@ Sample Rate"</string>
     <string name="data_usage_uninstalled_apps">Aplicații eliminate</string>
     <string name="data_usage_uninstalled_apps_users">Aplicații și utilizatori eliminate</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="debug_app">Selectați aplicația de depanare</string>
     <string name="debug_app_not_set">Nicio aplicație de depanare setată</string>
     <string name="debug_app_set">Aplicația de depanare: %1$s</string>
@@ -750,6 +752,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="select_webview_provider_dialog_title">Setați implementarea WebView</string>
     <string name="select_webview_provider_title">Implementare WebView</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este validă. Încercați din nou.</string>
+    <string name="send">Trimiteți</string>
     <string name="settings">Setări</string>
     <string name="settings_warning_dialog_detail">"Veți fi întrebat în următoarele situații:
  "<li>Când o aplicație conține viruși.</li>"

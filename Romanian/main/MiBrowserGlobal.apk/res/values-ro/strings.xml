@@ -305,6 +305,9 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="columbus_player_close_video">ÎNCHIDEȚI VIDEOCLIPUL</string>
     <string name="columbus_player_install_now">INSTALAȚI ACUM</string>
     <string name="columbus_player_learn_more">Aflați mai multe</string>
+    <string name="columbus_player_speed_title">Omiteți Videoclipul?</string>
+    <string name="columbus_player_speed_video">Omite VIDEOCLIPUL</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată la descărcarea unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Conectarea WebView necesită permisiunea INTERNET</string>
@@ -1699,7 +1702,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="privacy_title">Bine ați venit la Mi Browser</string>
     <string name="private_title">Fișiere ascunse</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
-    <string name="project_id">new-mi-browser</string>
+    <string name="project_id">mi-browser-new</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă folosind parola</string>
     <string name="pull_to_refresh">Trageți în jos pentru a reîmprospăta</string>

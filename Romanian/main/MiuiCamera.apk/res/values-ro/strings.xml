@@ -326,7 +326,6 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Folosiți un trepied pentru a capta o expunere mai prelungită</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Folosiți un trepied</string>
     <string name="ambilight_tips_for_using_tripod">Folosiți un trepied</string>
-    <string name="app_name">veeditor</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
@@ -617,11 +616,15 @@ documentele scanate în mod automat"</string>
     <string name="dual_video_record_remote">Înregistrare telefon dual</string>
     <string name="dual_video_record_standalone">Separate</string>
     <string name="dual_video_user_guide_main_content">Pentru a crea videoclipuri multicam, selectați două camere de pe dispozitiv și fotografiați simultan. Înregistrările pot fi stocate separat sau combinate într-o vizualizare divizată sau videoclip imagine în imagine.</string>
+    <string name="dual_video_user_guide_main_content_new">"Videoclipurile Multicam sunt filmate simultan cu mai multe camere.
+Înregistrarea telefon dual vă permite, de asemenea, să vă conectați la celălalt dispozitiv și să creați un videoclip multicam selectând \"Combinat\"."</string>
     <string name="dual_video_user_guide_main_title">Videoclip multicam</string>
     <string name="dual_video_user_guide_merge_content">Înregistrați simultan cu două camere și combinați înregistrările într-o vizualizare divizată sau videoclip imagine în imagine.</string>
-    <string name="dual_video_user_guide_remote_content">Înregistrarea telefon dual permite combinarea fluxurilor de la două dispozitive diferite într-un singur videoclip. Veți putea previzualiza ambele fluxuri și videoclipul final pe acest dispozitiv. Rețineți că sunetul va fi înregistrat numai de acest dispozitiv.</string>
+    <string name="dual_video_user_guide_merge_content_new">Două înregistrări pot fi combinate într-o vizualizare divizată sau videoclip imagine-în-imagine.</string>
+    <string name="dual_video_user_guide_remote_content">Combinați fluxurile de la două dispozitive diferite într-un singur videoclip. Veți putea previzualiza ambele fluxuri și videoclipul final pe acest dispozitiv. Rețineți că sunetul va fi înregistrat numai de acest dispozitiv.</string>
     <string name="dual_video_user_guide_remote_p">Telefonul %d</string>
     <string name="dual_video_user_guide_standalone_content">Înregistrați simultan cu două camere și salvați ambele înregistrări ca videoclipuri separate.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Videoclipurile înregistrate simultan pot fi, de asemenea, separate și salvate ca două fișiere.</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_blusher">Fardare</string>
     <string name="edit_chin">Bărbie</string>
@@ -1101,8 +1104,8 @@ să pară mai mari în fotografii"</string>
     <string name="network_access_user_notice_title">Se conectează la internet</string>
     <string name="network_connection_failed">Nu s-a putut conecta</string>
     <string name="network_connection_ongoing">Se conectează…</string>
-    <string name="network_connection_prerequisites">Porniți Bluetooth și Wi-Fi pentru a putea utiliza înregistrarea telefon dual.</string>
-    <string name="network_connection_prerequisites_china">Porniți Bluetooth și Wi-Fi pentru a putea utiliza înregistrarea telefon dual.</string>
+    <string name="network_connection_prerequisites">Porniți Bluetooth și Wi-Fi din Centrul de Control pentru a putea utiliza înregistrarea telefon dual.</string>
+    <string name="network_connection_prerequisites_china">Porniți Bluetooth și Wi-Fi din Centrul de Control pentru a putea utiliza înregistrarea telefon dual.</string>
     <string name="network_connection_rejected">Respinsă</string>
     <string name="network_connection_timed_out">Conexiunea a expirat</string>
     <string name="night">Seară</string>

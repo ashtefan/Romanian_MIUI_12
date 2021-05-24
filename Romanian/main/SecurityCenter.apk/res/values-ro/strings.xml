@@ -583,6 +583,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil. Mutați puțin mai departe.</string>
     <string name="applock_lock_all">Blocați tot</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
+    <string name="applock_mixtype_hidepwd_icon">Ascundeți</string>
+    <string name="applock_mixtype_showpwd_icon">Afișați</string>
     <string name="applock_no_account_login">Nu sunteți conectat la contul dvs. Mi</string>
     <string name="applock_not_add_account"><u>Nu acum</u></string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
@@ -1304,6 +1306,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="examination_score_80_100">Câteva elemente pot fi optimizate</string>
     <string name="examination_score_80_60">Unele elemente pot fi optimizate</string>
     <string name="examination_score_has_virus">Au fost detectate unele aplicații suspecte.</string>
+    <string name="exception_checking">Se verifică…</string>
     <string name="exception_dialog_message">"Utilizarea datelor nu a putut fi calculată datorită unei erori. Fără statistici corecte aplicația de Securitate nu va putea să monitorizeze utilizarea datelor. Reporniți pentru a restaura această caracteristică?"</string>
     <string name="exception_dialog_ok_button">Reporniți</string>
     <string name="exception_notify_message">"Nu s-au putut calcula statisticile datelor datorită unei erori. Reporniți pentru a restaura."</string>
@@ -1606,6 +1609,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gamebooster_lowbattery_notification_summary">Încărcați acumulatorul telefonului înainte de a se închide.</string>
     <string name="gamebooster_lowbattery_notification_title">Nivelul acumulatorului este sub 5%%</string>
     <string name="gamebooster_main_activity_back">Înapoi</string>
+    <string name="gamebooster_network_dialog_cn_message">Nu puteți utiliza Jocuri Turbo atunci când aplicația Securitate nu are voie să se conecteze la internet și să vă acceseze locația. Permiteți acum?</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Jocurilor Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
@@ -1768,6 +1772,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_shoulder_key_btn_save_exit">Salvați</string>
     <string name="gb_shoulder_key_circle_left">S</string>
     <string name="gb_shoulder_key_circle_right">D</string>
+    <string name="gb_shoulder_key_dialog_message">Puteți utiliza ambele butoane de umăr simultan pentru a porni Jocuri Turbo atunci când nu jucați jocuri.</string>
     <string name="gb_shoulder_key_dialog_txt">Puteți activa Game Turbo folosind butoanele de umăr.</string>
     <string name="gb_shoulder_key_guide_btn_done">Am înțeles</string>
     <string name="gb_shoulder_key_guide_btn_next">Următorul</string>
@@ -1775,6 +1780,9 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_shoulder_key_guide_tips1">Deschideți caseta de instrumente și configurați butoanele de umăr</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Mutați butoanele [S] și [D] în orice poziție funcțională pentru a finaliza configurarea</string>
     <string name="gb_shoulder_key_settings_guide_tips2">Utilizați butoanele de umăr pentru funcțiile pe care le-ați atribuit în timpul jocurilor</string>
+    <string name="gb_shoulder_key_settings_summary">Folosiți ambele butoane de umăr pentru a porni Jocuri Turbo atunci când nu jucați jocuri</string>
+    <string name="gb_shoulder_key_settings_title">Utilizați butoanele de umăr pentru Jocuri Turbo</string>
+    <string name="gb_shoulder_key_settings_title_new">Pornire rapidă Jocuri Turbo</string>
     <string name="gb_sign_gift">Verificați pentru a primi recompense</string>
     <string name="gb_sign_gift_button_text">Primiți</string>
     <string name="gb_sign_notification_summary">Jucați jocuri fără întârzieri datorate rețelei</string>
@@ -1783,6 +1791,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="gb_signed_gift_loading_summary">Doar o secundă…</string>
     <string name="gb_signed_title">Verificat luna aceasta</string>
     <string name="gb_sound_audition">Încercați</string>
+    <string name="gb_storage_game_dialog_message">Puteți stoca jocuri în Jocuri Turbo în mod automat. Nu vor apărea pe ecranul de pornire dacă activați această funcție. Porniți acum?</string>
     <string name="gb_storage_game_uninstall">Dezinstalați jocuri</string>
     <string name="gb_storage_summary">Nu afișați jocurile care au fost adăugate în caseta de joc pe Ecranul principal.</string>
     <string name="gb_storage_title">Elimină jocurile adăugate pe Ecranul principal</string>
@@ -4290,6 +4299,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="timeshow_h_int">%dh</string>
     <string name="timeshow_m">%dm</string>
     <string name="timeshow_s">%ds</string>
+    <string name="tips">Atenție</string>
     <string name="tips_dialog_title">Nu cunoaşteţi limita</string>
     <string name="tips_message">"Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Ștergeți aplicațiile rar utilizate pentru a elibera spațiu de stocare</string>
@@ -4727,6 +4737,9 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="write_clipboard_tip_title">Salvarea elementelor din clipboard</string>
     <string name="wrong_password">Parolă incorectă</string>
     <string name="xiaomi_privacy_protection_measures">Măsuri de protejare a confidențialității</string>
+    <string name="xspace_warning_dialog_button">Am înțeles</string>
+    <string name="xspace_warning_dialog_message">Datorită restricțiilor introduse în Android %d, toate aplicațiile duale vor putea accesa doar fotografiile și videoclipurile generate și salvate în cadrul aplicației duale corespunzătoare.</string>
+    <string name="xspace_warning_dialog_title">Attention</string>
     <string name="xunyou_net_booster">Creșterea vitezei rețelei</string>
     <string name="xunyou_net_booster_detail">Utilizați serviciul de creștere a vitezei rețelei Xunyou în jocuri</string>
     <string name="xunyou_pay_webview">Servicii Xunyou</string>

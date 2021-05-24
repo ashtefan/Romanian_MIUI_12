@@ -428,6 +428,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="adjust_3d_depth_title">Ajustaţi adâncimea 3D în jocuri</string>
     <string name="adjust_font_size_answer_cn">Încercați să ajustați dimensiunea textului și grosimea fontului folosind glisoarele de mai jos!</string>
     <string name="adjust_font_size_answer_global">Încercați să ajustați dimensiunea textului folosind glisoarele de mai jos!</string>
+    <string name="adjust_ligth">Ajustare iluminare</string>
     <string name="adjust_temperature_title">Temperatura de culoare</string>
     <string name="admin_device_owner_message">"Administratorul poate monitoriza și gestiona aplicațiile și datele asociate acestui dispozitiv, inclusiv setări, permisiuni, acces corporate, activitate în rețea și informații despre localizarea dispozitivului."</string>
     <string name="admin_disabled_other_options">Alte opțiuni sunt dezactivate de către administrator.</string>
@@ -4674,6 +4675,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_plus">Creștere volum</string>
     <string name="miheadset_rename">Redenumiți</string>
     <string name="miheadset_rename_device">Redenumiți</string>
+    <string name="miheadset_single_ear_indicate">Utilizați ambele căști pentru a folosi reducerea zgomotului</string>
     <string name="miheadset_soft">Ușor</string>
     <string name="miheadset_transparent">Transparență</string>
     <string name="miheadset_transparentMode">Transparență</string>
@@ -7246,8 +7248,8 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
     <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
-    <string name="sms_access_restriction_enabled">Restricționați accesul la SMS-uri și istoricul de apelare</string>
-    <string name="sms_access_restriction_enabled_summary">Doar aplicațiile implicite de Telefon și mesagerie au permisiuni de accesare a SMS-urilor și a istoricului de apelare</string>
+    <string name="smooth_adjust_ligth">Neteziți tranzițiile</string>
+    <string name="smooth_adjust_ligth_summary">Faceți tranzițiile mai line pe măsură ce reglați luminozitatea manual. Când această caracteristică este activată, în unele cazuri pot apărea ușoare incoerențe de culoare.</string>
     <string name="sms_application_title">Mesagerie</string>
     <string name="sms_change_default_dialog_text">Utilizaţi %1$s în loc de %2$s ca aplicaţie pentru SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia pentru SMS?</string>
