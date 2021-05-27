@@ -414,7 +414,7 @@ Paginile pe care le vizitați nu vor apărea în istoric."</string>
     <string name="custom_page_guide_content">Marcajele, setările și instrumentele sunt aici!</string>
     <string name="dark_mode">Mod întunecat</string>
     <string name="data_error">Eroare date</string>
-    <string name="data_format_ymd">dd/MM/yyyy</string>
+    <string name="data_format_ymd">dd.MM.yyyy</string>
     <string name="data_traffic_continue">Redați oricum</string>
     <string name="data_traffic_download_cancel">Renunțați</string>
     <string name="data_traffic_download_prompt">În prezent se utilizează traficul de date; doriți să continuați să încărcați videoclipul?</string>
@@ -702,7 +702,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>

@@ -715,7 +715,7 @@ documentele scanate în mod automat"</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -1946,7 +1946,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="time_stamp_date_format">dd/MM/yyyy</string>
+    <string name="time_stamp_date_format">dd.MM.yyyy</string>
     <string name="timefreeze_guide_tip2">Puteți îngheța și dezgheța fundalul în orice moment, înainte sau în timpul fotografierii.</string>
     <string name="timefreeze_guide_tip3">Rugați subiectul să rămână în centrul cadrului.</string>
     <string name="timefreeze_guide_tip4">Faceți ca traficul să se oprească.</string>

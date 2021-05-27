@@ -134,7 +134,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="disable_find_device_success">Localizarea telefonului este oprită.</string>
     <string name="do_not_merge">Renunțați</string>
     <string name="early_morning">Dimineață</string>
-    <string name="due_date_format">dd/MM/yyyy</string>
+    <string name="due_date_format">dd.MM.yyyy</string>
     <string name="enableAll">Sincronizaţi tot</string>
     <string name="enable_cloud_service_notification">Trebuie să activați Mi Cloud</string>
     <string name="enable_find_device_error">Nu se poate opri localizarea dispozitivului. %1$s</string>
@@ -212,7 +212,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>

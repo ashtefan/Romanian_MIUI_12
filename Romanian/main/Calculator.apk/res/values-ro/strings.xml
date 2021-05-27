@@ -122,7 +122,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
-    <string name="dateformat">dd/MM/yyyy</string>
+    <string name="dateformat">dd.MM.yyyy</string>
     <string name="day">zi</string>
     <string name="degDesc">Unghi</string>
     <string name="del">DEL</string>

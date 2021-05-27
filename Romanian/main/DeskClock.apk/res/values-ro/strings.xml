@@ -189,7 +189,7 @@
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -701,9 +701,9 @@
     <string name="worldclock_title">Ceas</string>
     <string name="worldclock_world_time">Fusuri orare</string>
     <string name="worldcolock_date_display_prefix">Data curentă: </string>
-    <string name="worldcolock_time_date">dd/MM/yyyy</string>
+    <string name="worldcolock_time_date">dd.MM.yyyy</string>
     <string name="worldcolock_timezone_current">Data curentă: %1$s</string>
-    <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
+    <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">La fel cu fusul local</string>

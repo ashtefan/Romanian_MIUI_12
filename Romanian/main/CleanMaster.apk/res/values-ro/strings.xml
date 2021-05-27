@@ -479,7 +479,7 @@
     <string name="hot_today">Populare astăzi</string>
     <string name="information_setting">Recomandări</string>
     <string name="install_sucess">%s instalate cu succes</string>
-    <string name="install_time_format">dd/MM/yyyy</string>
+    <string name="install_time_format">dd.MM.yyyy</string>
     <string name="install_time_invalid">--</string>
     <string name="installed">Instalate</string>
     <string name="installing">Instalare</string>
@@ -828,7 +828,7 @@
     <string name="unit_gb">%s GB</string>
     <string name="unit_mb">%s MB</string>
     <string name="unlike">Nu, mulțumesc</string>
-    <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="update_date_format">dd.MM.yyyy</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="video_clean">Goliți videoclipurile din cache</string>

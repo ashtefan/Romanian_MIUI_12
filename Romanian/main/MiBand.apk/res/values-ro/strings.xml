@@ -840,11 +840,11 @@ measurement range (%s)"</string>
     <string name="record_weight">Adăugați greutatea</string>
     <string name="red">Roşu</string>
     <string name="refuse_fail">"Nu s-a putut respinge"</string>
-    <string name="refuse_relation_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="refuse_relation_date_format">dd.MM.yyyy HH:mm</string>
     <string name="refuse_success">Respinge cererea</string>
     <string name="register">Înregistrați-vă</string>
     <string name="relation_data_loading">Doar o secundă…</string>
-    <string name="relation_date_format">dd/MM/yyyy ah:mm</string>
+    <string name="relation_date_format">dd.MM.yyyy ah:mm</string>
     <string name="relation_loading">Încărcare…</string>
     <string name="relation_myqrcode">Codul meu QR</string>
     <string name="release_to_connect_mili">Eliberați pentru a conecta Mi Band</string>

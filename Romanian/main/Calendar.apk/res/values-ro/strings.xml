@@ -367,7 +367,7 @@
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -1032,10 +1032,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="short_date_format">dd MMM</string>
     <string name="show_day_view">Afișează ziua</string>
     <string name="show_indic_date_summary">Calendarul indic este disponibil atunci când una dintre limbile din India este setată ca limbă de sistem</string>
-    <string name="simple_date_format">dd/MM/yyyy</string>
+    <string name="simple_date_format">dd.MM.yyyy</string>
     <string name="single_selected_holiday">%1$s este o zi liberă</string>
     <string name="skip">Omiteți</string>
-    <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="small_week_date_format">EEE dd.MM.yyyy</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_date_content_desc">Data conform calendarului Gregorian</string>
     <string name="solar_lunar_convert_date"/>

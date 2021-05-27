@@ -222,7 +222,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -491,7 +491,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="search_history_month">dd/MM</string>
     <string name="search_history_title">Istoric</string>
     <string name="search_history_today">Astăzi</string>
-    <string name="search_history_year">dd/MM/yyyy</string>
+    <string name="search_history_year">dd.MM.yyyy</string>
     <string name="search_history_yesterday">Ieri</string>
     <string name="search_home_download_popup">Înapoi la descărcări</string>
     <string name="search_home_vif_show_more">Mai multe</string>

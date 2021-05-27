@@ -540,8 +540,8 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="base_search_empty">Nu s-au găsit rezultate</string>
     <string name="base_time_just_now">Chiar acum</string>
     <string name="base_time_month">dd/MM</string>
-    <string name="base_time_year">dd/MM/yyyy</string>
-    <string name="base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="base_time_year">dd.MM.yyyy</string>
+    <string name="base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
     <string name="base_yesterday">Ieri</string>
     <string name="battery_history">Acumulator</string>
     <string name="beijing">Beijing</string>
@@ -1124,7 +1124,7 @@ Verificați numărul de urmărire."</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -1955,7 +1955,7 @@ Verificați numărul de urmărire."</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="time_year">dd/MM/yyyy</string>
+    <string name="time_year">dd.MM.yyyy</string>
     <string name="timeline_headline">Evenimente viitoare</string>
     <string name="toast_function_add_limit">Puteți adăuga maxim %d scurtături</string>
     <string name="toast_function_remove_not_allowed">Ar trebui să adăugați cel puțin o scurtătură</string>
@@ -2035,7 +2035,7 @@ Verificați numărul de urmărire."</string>
     <string name="wx_timeline">Momente</string>
     <string name="xiaomi_search_label">Căutați</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
-    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
-    <string name="year_month_day_format">dd/MM/yyyy</string>
+    <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
+    <string name="year_month_day_format">dd.MM.yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>
