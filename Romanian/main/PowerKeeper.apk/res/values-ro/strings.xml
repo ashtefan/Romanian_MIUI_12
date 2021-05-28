@@ -116,6 +116,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="important_warning">Atenție</string>
     <string name="invalid_size_value">"Nu s-a putut obține dimensiunea pachetului."</string>
     <string name="insert_data">Introduceți datele</string>
+    <string name="kill_pkg_toast_message">Telefonul se supraîncălzește iar aplicația se va închide</string>
     <string name="lasttime_applist_cloud">Aplicații actualizate：</string>
     <string name="lasttime_feature_cloud">Funcții actualizate：</string>
     <string name="location_disable_description">Se interzice utilizarea locației</string>
@@ -276,6 +277,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="sleepmode_privacy_content">Această caracteristică va utiliza informații despre sistemul de operare al telefonului și despre dispozitiv. Aceste informații nu vor fi încărcate pe serverele noastre.</string>
     <string name="sleepmode_privacy_link">Aflați mai multe despre confidențialitate și securitate</string>
     <string name="sleepmode_privacy_title">Mod Somn</string>
+    <string name="stricter_high_temp_state_message">Telefonul se supraîncălzește; nu puteți utiliza alte aplicații decât Telefon și Contacte</string>
     <string name="sucess">Finalizat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="thermal_cancel">NU</string>

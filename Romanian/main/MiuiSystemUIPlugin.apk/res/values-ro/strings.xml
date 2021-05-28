@@ -152,6 +152,15 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Renunțați</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Activați</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Monitorul intraauricular live funcționează când Bluetooth este activat. Porniți Bluetooth-ul acum?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Activați Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Monitor intraauricular live</string>
+    <string name="hearing_assist_transmission_tips_cancel">Renunțați</string>
+    <string name="hearing_assist_transmission_tips_continue">Activați</string>
+    <string name="hearing_assist_transmission_tips_summary">Monitorul intraauricular live transmite fluxul microfonului telefonului către căștile Bluetooth conectate. Porniți acum?</string>
+    <string name="hearing_assist_transmission_tips_title">Monitor intraauricular live</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="item_view_role_description">Filă</string>
     <string name="loading">Stare necunoscută</string>
@@ -289,8 +298,8 @@
     <string name="quick_settings_pcmode_turn_off_description">Conținutul de pe ecranul telefonului va fi afișat pe monitorul extern. Dezactivați modul PC?</string>
     <string name="quick_settings_pcmode_turn_on_description">Conținutul de pe ecranul computerului va fi afișat pe monitorul extern. Activați modul PC?</string>
     <string name="quick_settings_scanner_label">Scaner</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),mod pc, personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
-    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,mod pc,mod energie,freeformhang,vibrare,hotspot,sincronizare,butoane ecran,putere wireless,nfc,editare,mod mașină</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,personalizat(com.miui.screenrecorder/.service.QuickService),scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),mod pc, personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,mod pc,mod energie,freeformhang,vibrare,hotspot,sincronizare,butoane ecran,putere wireless,nfc,editare,mod mașină,hearingassisttile</string>
     <string name="quick_settings_wireless_label">Încărcare inversă wireless</string>
     <string name="reboot_info_auto_boot">Alarma următoare: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarmă oprire: %s</string>

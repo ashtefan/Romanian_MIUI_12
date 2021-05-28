@@ -252,6 +252,11 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Reține alegerea mea</string>
+    <string name="relaunch_dialog_button_cancel">Renunțați</string>
+    <string name="relaunch_dialog_button_confirm">OK</string>
+    <string name="relaunch_dialog_message">Nu puteți ajusta dimensiunea ferestrei în timp ce utilizați aplicația. Puteți reporni aplicația pentru a regla dimensiunea ferestrei, dar datele aplicației generate în timpul acestei sesiuni vor fi pierdute. Reporniți oricum?</string>
+    <string name="relaunch_dialog_title">Reporniți \"%s\"?</string>
     <string name="remain">Rămas: %s</string>
     <string name="replace">Înlocuire</string>
     <string name="resolver_app_recommend_flag">Recomandați</string>
@@ -339,6 +344,8 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="stop_operate_camera_frequently">Porniți camera frontală prea frecvent.</string>
+    <string name="stylus_pen_mask_screenshot">Atingeți ecranul pentru a reliza o captură de ecran</string>
+    <string name="stylus_pen_mask_text">Atingeți ecranul pentru a începe să scrieți</string>
     <string name="subinfo_default_name">Cartela SIM %d</string>
     <string name="sunlight_notification_content">Ajustează iluminarea în funcție de lumina ambientală puternică în mod automat</string>
     <string name="sunlight_notification_title">Activați modul Lumina soarelui</string>

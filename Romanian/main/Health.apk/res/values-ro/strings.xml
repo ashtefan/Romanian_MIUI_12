@@ -250,7 +250,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="daily_distance_label">Distanță</string>
     <string name="daily_reminders">Memento zilnic</string>
     <string name="daily_steps">Pași</string>
-    <string name="daily_time_label">Ora</string>
+    <string name="daily_time_label">Durata</string>
     <string name="data">Date</string>
     <string name="data_account_info_loading">Se obțin informațiile contului…</string>
     <string name="data_delete_tip">Se șterg datele referitoare la sănătate din acest dispozitiv…</string>
@@ -703,9 +703,9 @@ Reluați măsurarea."</string>
     <string name="hr_report_regular_fast_desc">Ritmul cardiac actual este prea rapid. Activitatea fizică excesivă, consumul de alcool, munca fizică grea, nervozitatea, anxietatea sau administrarea anumitor medicamente pot provoca tahicardie fiziologică. În plus, bolile cardiovasculare, anemia, hipertiroidismul, hipoxia, insuficiența cardiacă și alte boli ar putea fi semnele tahicardiei patologice. Dacă vă simțiți rău, vă rugăm să consultați medicul imediat.</string>
     <string name="hr_report_regular_normal_desc">Ritmul cardiac actual este normal. Inima poate face față stresului bine, iar corpul dvs. poate rezista presiunii externe. Cu toate acestea, nu trebuie să uitați că modificările ritmului cardiac ar putea fi semnele bolilor de inimă. Fiți mereu cu ochii pe ritmul cardiac, mai ales în timpul exercițiului.</string>
     <string name="hr_report_regular_slow_desc">Ritmul cardiac actual este prea lent. Aproximativ 15% dintre oameni pot experimenta bradicardie fiziologică, care este un ritm sinusal lent mai mic de 60 BPM. Dacă această afecțiune nu provoacă amețeli, întreruperi, vertij sau leșin, probabil că nu veți avea nevoie de tratament. Cu toate acestea, dacă aveți senzație de apăsare toracică sau alte simptome, vă rugăm să consultați medicul imediat.</string>
-    <string name="hr_report_resting_fast_desc">Ritmul cardiac în repaus este mai rapid decât în mod normal, ceea ce ar putea fi semnul tahicardiei. O dietă cu conținut scăzut de sare și ulei, pierderea în greutate, renunțarea la fumat și alcool, conștientizarea sănătății mintale și activitatea fizică vă pot ajuta să încetiniți ritmul cardiac de odihnă.</string>
-    <string name="hr_report_resting_normal_desc">Ritmul cardiac de odihnă este normal. Ritmul cardiac în repaus este de câte ori vă bate inima pe minut când sunteți odihnit. Cel mai bun moment pentru a măsura ritmul cardiac de odihnă este când vă treziți dimineața, în timp ce stați întins în pat și nu faceți nicio activitate fizică. Luați ceva timp pentru a respira adânc înainte de a vă măsura ritmul cardiac de odihnă pentru a vă relaxa complet corpul.</string>
-    <string name="hr_report_resting_slow_desc">Ritmul cardiac de odihnă este mai lent decât în mod normal, ceea ce ar putea fi semnul bradicardiei. Perioadele prelungite de ritm cardiac lent pot provoca ischemie și hipoxie, precum și alte tulburări cardiovasculare și cerebrovasculare. Ritmul cardiac de odihnă este strâns legat de dieta, activitatea, nivelul de stres, obiceiurile de somn și starea fizică generală. Mențineți un stil de viață sănătos și acordați atenție corpului dvs. pentru a evita problemele. Dacă aveți senzație de apăsare toracică, amețeli, întreruperi, vertij sau leșin, vă rugăm să consultați medicul la timp.</string>
+    <string name="hr_report_resting_fast_desc">Ritmul cardiac în repaus este mai rapid decât în mod normal, ceea ce ar putea fi semnul tahicardiei. O dietă cu conținut scăzut de sare și ulei, pierderea în greutate, renunțarea la fumat și alcool, conștientizarea sănătății mintale și activitatea fizică vă pot ajuta să încetiniți ritmul cardiac în stare de odihnă.</string>
+    <string name="hr_report_resting_normal_desc">Ritmul cardiac în stare de odihnă este normal. Ritmul cardiac în repaus înseamnă de câte ori vă bate inima pe minut când sunteți odihnit. Cel mai bun moment pentru a măsura ritmul cardiac în stare de odihnă este atunci când vă treziți dimineața, în timp ce stați întins în pat și nu faceți nicio activitate fizică. Luați ceva timp pentru a respira adânc înainte de a vă măsura ritmul cardiac în stare de odihnă pentru a vă relaxa complet corpul.</string>
+    <string name="hr_report_resting_slow_desc">Ritmul cardiac în stare de odihnă este mai lent decât în mod normal, ceea ce ar putea fi semnul bradicardiei. Perioadele prelungite de ritm cardiac lent pot provoca ischemie și hipoxie, precum și alte tulburări cardiovasculare și cerebrovasculare. Ritmul cardiac în stare de odihnă este strâns legat de dieta, activitatea, nivelul de stres, obiceiurile de somn și starea fizică generală. Mențineți un stil de viață sănătos și acordați atenție corpului dvs. pentru a evita problemele. Dacă aveți senzație de apăsare toracică, amețeli, întreruperi, vertij sau leșin, vă rugăm să consultați medicul la timp.</string>
     <string name="hr_see_report">Vedeți raportul</string>
     <string name="hr_start_detect">Începeți să experimentați</string>
     <string name="hr_state">Stare</string>
@@ -1048,7 +1048,7 @@ Reluați măsurarea."</string>
     <string name="open_unrestricted_permissions">Pentru a monitoriza somnul mai precis, permiteți Sănătate Xiaomi să ruleze în permanență în fundal.</string>
     <string name="optional_data_source">Surse de date disponibile</string>
     <string name="organ_donation_volunteer">Donator voluntar de organe</string>
-    <string name="origin">Origine</string>
+    <string name="origin">Sursă</string>
     <string name="other_can_add_data_source">Surse disponibile</string>
     <string name="other_optional_data_sources">Alte surse de date disponibile</string>
     <string name="other_question">Altele</string>

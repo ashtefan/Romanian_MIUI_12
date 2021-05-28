@@ -130,6 +130,7 @@
     <string name="cta_v2_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare menționate mai jos.</string>
     <string name="cta_v2_app_purpose">Crearea, vizualizarea și gestionarea notițelor</string>
     <string name="cta_v2_app_purpose_v12">Bine ați venit în aplicația Note! Puteți utiliza această aplicație pentru a crea sarcini și notițe ce conțin text, imagini și elemente audio.</string>
+    <string name="data_empty_folder">Nu mai sunt dosare de afișat</string>
     <string name="data_empty_note">Nicio notiță aici deocamdată</string>
     <string name="data_empty_todo">Nicio sarcină aici deocamdată</string>
     <string name="date_calculate_today">0 zile</string>
@@ -307,6 +308,7 @@
     <string name="gesture_guide_message">Puteți atinge, apăsa și menține apăsat și să trageți elementele pentru a crea și rearanja notițele. Învățați aceste gesturi acum?</string>
     <string name="gesture_guide_ok">Învăț</string>
     <string name="gesture_guide_title">Gesturi</string>
+    <string name="handwrite_description">Notiță scrisă de mână</string>
     <string name="hear_note">Notițe dictate</string>
     <string name="hidden_notes_fragment_title">Notițe ascunse</string>
     <string name="hide_arrow_description">Ascundeți</string>
@@ -329,6 +331,7 @@
     <string name="menu_add_description">Adăugați o notă</string>
     <string name="menu_add_folder">Adăugați în dosar</string>
     <string name="menu_add_folder_description">Adăugați un dosar</string>
+    <string name="menu_add_handwrite_description">Adăugați o notiță scrisă de mână</string>
     <string name="menu_create_folder">Dosar nou</string>
     <string name="menu_delete">Ştergeţi</string>
     <string name="menu_delete_forever">Ștergeți definitiv</string>

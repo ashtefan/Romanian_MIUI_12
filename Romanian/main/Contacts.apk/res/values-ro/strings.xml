@@ -105,6 +105,7 @@
     <string name="bh_back">Înapoi</string>
     <string name="bh_bill_balance">Balanță</string>
     <string name="bh_bill_charge">Suplimentați soldul</string>
+    <string name="bh_bills_info_label">Detalii</string>
     <string name="bh_bugreport">Feedback funcționare</string>
     <string name="bh_business_hall_is_here">Serviciile Operatorului sunt aici</string>
     <string name="bh_business_style">Selectați interfața</string>
@@ -208,10 +209,11 @@
     <string name="bh_order_id">ID-ul comenzii</string>
     <string name="bh_order_loading">Doar o secundă…</string>
     <string name="bh_order_pay">Plată</string>
+    <string name="bh_order_status">Starea comenzii</string>
     <string name="bh_order_time">Data tranzacției</string>
     <string name="bh_other_charge">Alt număr de telefon</string>
     <string name="bh_other_operator">Alți operatori</string>
-    <string name="bh_other_v_operator">Alți operatori virtuali</string>
+    <string name="bh_other_traffic">Alt număr de telefon</string>
     <string name="bh_pay_fail_desc">Nu s-a putut conecta la rețea. Reveniți și finalizați din nou plata.</string>
     <string name="bh_pay_fee">Sumă</string>
     <string name="bh_pay_success_desc">Este posibil ca soldul dvs. să fie creditat cu o întârziere</string>
@@ -258,7 +260,16 @@
     <string name="bh_tag_phones">Numere de telefon utilizate frecvent</string>
     <string name="bh_tags_number_exceed">Nu se mai pot salva alte numere de telefon</string>
     <string name="bh_tb">TB</string>
+    <string name="bh_text_buy_time">Comandă creată</string>
+    <string name="bh_text_charge_name">Suma</string>
+    <string name="bh_text_no_order">Nicio comandă aici</string>
+    <string name="bh_text_operator">Operator</string>
+    <string name="bh_text_order_id">Numărul comenzii</string>
+    <string name="bh_text_paid_fee">Suma comenzii</string>
+    <string name="bh_text_phone_num">Numărul de telefon</string>
+    <string name="bh_text_traffic_package">Pachet de date</string>
     <string name="bh_time_before">cu %1$s %2$s în urmă</string>
+    <string name="bh_toast_copy">Copiat cu succes</string>
     <string name="bh_toast_start_intent_failed">Nu s-a găsit nicio aplicație care să gestioneze această acțiune</string>
     <string name="bh_today_pkg">Pachetul de astăzi</string>
     <string name="bh_traffic_charge">Obțineți date mobile</string>
@@ -1248,6 +1259,7 @@ Pentru a adăuga un contact în lista de favorite:
 • Creaţi în siguranţă copii de rezervă pentru agendă."</string>
     <string name="no_contact_details">Nu există informaţii suplimentare pentru acest contact.</string>
     <string name="no_contact_in_other_phone">Niciun contact detectat</string>
+    <string name="no_contact_selected">Selectați un contact pentru a vedea detaliile</string>
     <string name="no_contacts_dialog_message">Contactele dvs. pot fi stocate pe cartela SIM. Încercați să importați contactele de pe cartela SIM în memoria internă a telefonului și apoi încercați din nou.</string>
     <string name="no_contacts_dialog_title">Nu s-au găsit contacte</string>
     <string name="no_contacts_selected">Nu aţi selectat niciun contact din agendă.</string>

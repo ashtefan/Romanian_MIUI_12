@@ -40,10 +40,12 @@
     <string name="back_up_task_in_process">Creare copie de rezervă…</string>
     <string name="back_up_task_unfinished">"Nu s-a putut crea copia de rezervă"</string>
     <string name="backing_up_to_micloud">Creare copie de rezervă…</string>
+    <string name="backup_action_access_permission">Setări</string>
     <string name="backup_action_buy_cloud_space">Obțineți mai mult spațiu de stocare</string>
     <string name="backup_action_check_network">Verificați setările de rețea</string>
     <string name="backup_action_clean_disk_space">Eliberați spațiu</string>
     <string name="backup_action_retry_now">Încercați din nou</string>
+    <string name="backup_failed_reason_app_usage_denied">Acordați permisiunile necesare pentru a putea face o copie de rezervă</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nu există suficient spațiu de stocare în Xiaomi Cloud. Actualizați-vă planul sau eliberați spațiu de stocare.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nu există suficient spațiu de stocare. Eliberați mai întâi spațiu de stocare.</string>
     <string name="backup_failed_reason_network_error">Verificați setările de rețea și reîncercați.</string>
@@ -59,6 +61,8 @@
     <string name="backup_success">Crearea copiei de rezervă pentru ecranul de pornire a reuşit</string>
     <string name="backup_successfully">Copie de rezervă creată cu succes</string>
     <string name="backup_to_cloud">Creaţi o copie de rezervă în Mi Cloud</string>
+    <string name="backup_warning_reason_app_usage_denied">"Nu s-au putut sincroniza datele.
+Sunt necesare unele permisiuni."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Nu se poate face o copie de rezervă</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Nu există suficient spațiu de stocare
 Nu se poate face o copie de rezervă"</string>
@@ -164,8 +168,11 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="desktop_wait_network">În aşteptare…</string>
     <string name="desktop_waiting">În așteptare</string>
     <string name="device_delete_prompt">Ștergeți copia de rezervă a %s?</string>
+    <string name="dialog_app_usage_denied">Acordați aplicației Copie de rezervă permisiunea \"Acces la utilizare\" din Setări pentru a putea face copii de rezervă.</string>
     <string name="dialog_backup_failed">Nu s-a putut face o copie de rezervă</string>
     <string name="dialog_btn_cancel_backup">Renunțați</string>
+    <string name="dialog_btn_confirm2">Am înțeles</string>
+    <string name="dialog_btn_enter">Setări</string>
     <string name="dialog_btn_next">Următorul</string>
     <string name="dialog_btn_overwrite_backup">Suprascrie</string>
     <string name="dialog_btn_restore_skip">Restaurați mai târziu</string>
@@ -178,6 +185,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="dialog_msg_overwrite_backup">Copia de rezervă locală este diferită de cea din Xiaomi Cloud. Dacă veți continua, copia de rezervă curentă o va suprascrie pe cea anterioară.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
+    <string name="dialog_need_permission">Sunt necesare unele permisiuni</string>
     <string name="dialog_title_require_wlan">Conectați-vă la Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Conectați-vă la Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>

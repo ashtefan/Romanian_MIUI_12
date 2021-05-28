@@ -177,6 +177,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">cu %d zile în urmă</item>
         <item quantity="one">cu %d zi în urmă</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Scorul de performanță al dispozitivului dvs. este mai mic de %d puncte. Optimizați acum?</item>
+        <item quantity="one">Scorul de performanță al dispozitivului dvs. este mai mic de %d punct. Optimizați acum?</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Derulați înainte %d secunde</item>
         <item quantity="one">Derulați înainte %d secundă</item>
@@ -188,6 +192,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
         <item quantity="one">Căutați într-o aplicație</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riscuri legate de confidențialitate</item>
+        <item quantity="one">%d risc legat de confidențialitate</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probleme necesită optimizare</item>

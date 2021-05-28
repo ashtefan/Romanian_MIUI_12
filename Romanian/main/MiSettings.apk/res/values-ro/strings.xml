@@ -62,6 +62,8 @@
     <string name="atarctic_shag">Șanțul antarctic</string>
     <string name="australia_introduction">Continentul australian este un paradis pentru speciile endemice rare.</string>
     <string name="australian_magpie">Cochilă australiană</string>
+    <string name="authorization_btn_text">Porniți</string>
+    <string name="authorization_tips">Sunt necesare unele permisiuni</string>
     <string name="baboon_info">Babuinul de măsline trăiește în grupuri cu un rang social dezvoltat, în funcție de dominanța fiecărui individ.</string>
     <string name="back">Înapoi</string>
     <string name="bear_info">Urșii sunt cele mai mari carnivore terestre. Locuiesc în regiuni reci și sunt cunoscuți pentru simțul mirosului ascuțit.</string>
@@ -147,6 +149,8 @@
     <string name="dc_light_hint_other">Reducerea DC poate afecta rata de reîmprospătare și modul în care sunt afișate unele elemente.</string>
     <string name="dc_lignt_enable_hint">Modul anti-pâlpâire va seta rata de reîmprospătare a ecranului la 60 Hz. Treceți la modul anti-pâlpâire?</string>
     <string name="delete_first_to_add_animal">Pentru a adăuga un nou element, ștergeți mai întâi un altul.</string>
+    <string name="devices_type_pad">tabletă</string>
+    <string name="devices_type_phone">telefon</string>
     <string name="display_description">Pictograme mai mari, text mai mare, mai puțin dezordine vizuală</string>
     <string name="display_title">Elemente mai mari</string>
     <string name="dynamic_ringtone_desc">Am explorat diferite ecosisteme și le-am recreat sunetele distincte. Începeți să explorați sunetele naturii cu noi!</string>

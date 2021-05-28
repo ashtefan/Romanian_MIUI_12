@@ -564,8 +564,7 @@
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisiuni senzitive</string>
     <string name="permission_group_title_settings_related">Setări</string>
-    <string name="permission_list_include">"Inclusiv următoarele:
-"</string>
+    <string name="permission_list_include">Inclusiv următoarele:</string>
     <string name="permission_reminders">Memento-uri permisiuni</string>
     <string name="permission_warning_template">Permiteți %1$s să %2$s ?</string>
     <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni?</string>

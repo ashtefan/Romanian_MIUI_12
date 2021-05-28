@@ -29,22 +29,6 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
-    <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Atingeți și mențineți apăsat butonul de pe carcasă timp de %1$d secunde</item>
-        <item quantity="one">Atingeți și mențineți apăsat butonul de pe carcasă timp de %1$d secundă</item>
-    </plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Atingeți și mențineți apăsat pe orice suprafață senzitivă a căștilor timp de %1$d secunde</item>
-        <item quantity="one">Atingeți și mențineți apăsat pe orice suprafață senzitivă a căștilor timp de %1$d secundă</item>
-    </plurals>
-    <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Apăsați și mențineți apăsat timp de %1$d sec pentru a reseta</item>
-        <item quantity="one">Apăsați și mențineți apăsat timp de %1$d sec pentru a reseta</item>
-    </plurals>
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Apăsați și mențineți apăsat butonul pentru %1$s secunde când dispozitivul este oprit</item>
-        <item quantity="one">Apăsați și mențineți apăsat butonul superior pentru %1$s secundă când dispozitivul este oprit</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
@@ -71,9 +55,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu un minut în urmă</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispozitive conectate</item>
-        <item quantity="one">%1$d dispozitiv conectat</item>
     </plurals>
 </resources>

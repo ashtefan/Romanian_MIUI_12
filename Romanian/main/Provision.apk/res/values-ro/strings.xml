@@ -287,8 +287,12 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Acordul utilizatorului final</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să vă acceseze locația.</string>
-    <string name="other_settings_upload_debug_log_summary">Statisticile de utilizare care ne ajută să localizăm și să rezolvăm problemele apărute pot conține informații personale</string>
-    <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
+    <string name="other_settings_upload_debug_log_detail">"Contribuiți la îmbunătățirea experienței dispozitivului MIUI prin trimiterea automată a datelor de diagnostic, despre dispozitiv și utilizare a aplicației către Xiaomi. Acest lucru va ajuta la îmbunătățirea duratei de viață a acumulatorului, a sistemului MIUI și a stabilității aplicației și multe altele.
+Datele pe care le veți trimite vor conține informații generale despre dispozitivul dvs. și modul în care îl utilizați (de exemplu, nivelul bateriei, activitatea sistemului și a aplicației și erori). Datele vor fi utilizate pentru a îmbunătăți dispozitivele MIUI.
+Dezactivarea acestei funcții nu afectează capacitatea dispozitivului dvs. de a trimite informațiile necesare pentru servicii esențiale, cum ar fi actualizări de sistem și securitate.
+Puteți controla această caracteristică din Setări>Parole și securitate>Confidențialitate>Utilizare și diagnosticare."</string>
+    <string name="other_settings_upload_debug_log_summary">Contribuiți la îmbunătățirea experienței de utilizare a dispozitivului MIUI prin trimiterea automată a datelor de diagnosticare, despre dispozitiv și utilizare a aplicațiilor către Xiaomi. Acest lucru va ajuta la îmbunătățirea duratei de viață a acumulatorului, a sistemului MIUI și a stabilității aplicației și multe altele.</string>
+    <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare și de utilizare în mod automat</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime. Detalii</string>
     <string name="other_settings_user_experience_summary_index">Detalii</string>

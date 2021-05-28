@@ -372,6 +372,11 @@
     <string name="app_behavior_warning_location_title">%1s vă accesează locația</string>
     <string name="app_bg_restrict_dialog_message">Restricționarea conectării în fundal poate împiedica funcționarea aplicației. De exemplu, nu se vor mai primi mesaje sau actualiza conținutul.</string>
     <string name="app_check_no_issue">Se pare că nu există probleme legate de acumulator. Bravo!</string>
+    <string name="app_classification_activity_label">Toate aplicațiile</string>
+    <string name="app_classification_recent_add">Recente</string>
+    <string name="app_classification_search_all">Toate</string>
+    <string name="app_classification_search_hint">Căutați aplicații</string>
+    <string name="app_classification_suggest_app">Sugestii</string>
     <string name="app_detail">Detalii</string>
     <string name="app_error_tip_for_launcher">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face ca unele aplicații să se comporte necorespunzător, să se blocheze sau să se închidă forțat. Dacă întâmpinați astfel de probleme, împărtășiți-le dezvoltatorilor aplicației."</string>
     <string name="app_error_tip_for_store">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face imposibilă instalarea unor aplicații. Dacă întâmpinați astfel de probleme sau dacă unele aplicații se comportă necorespunzător, se blochează sau se închid forțat, așteptați rezolvarea acestor probleme de către dezvoltatori și încercați să reinstalați aplicația."</string>
@@ -529,6 +534,18 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_permission_use_neccesary">Permisiuni necesare</string>
     <string name="app_permission_use_no_neccesary">Permisiuni opționale</string>
     <string name="app_permission_use_title">Permisiuni</string>
+    <string name="app_predict_black_list_empty">Niciun element aici încă</string>
+    <string name="app_predict_black_list_setting_title">Listă sugerată pentru blocarea aplicațiilor</string>
+    <string name="app_predict_folder_name">Căutați</string>
+    <string name="app_predict_loading_text">Doar o secundă…</string>
+    <string name="app_predict_search_title">Toate aplicațiile</string>
+    <string name="app_predict_setting_black_list">Lista blocărilor</string>
+    <string name="app_predict_setting_black_list_message">Blocați aplicațiile pe care nu doriți să le vedeți printre sugestii</string>
+    <string name="app_predict_setting_privacy">Politica de Confidențialitate</string>
+    <string name="app_predict_setting_switch_message">Primiți sugestii de aplicații bazat pe obiceiurile dvs. de utilizare</string>
+    <string name="app_predict_setting_switch_title">Personalizați sugestiile</string>
+    <string name="app_predict_setting_title">Sugestii de aplicații</string>
+    <string name="app_predict_widget_name_2x4">Sugestii de aplicații</string>
     <string name="app_running_tip_dialog_negative">Renunțați</string>
     <string name="app_running_tip_dialog_positive">OK</string>
     <string name="app_running_tip_dialog_text">Părăsiți %1$s pentru a preveni rularea acesteia în fundal. Acest lucru va accelera viteza de lucru a dispozitivului și va reduce consumul de energie.</string>
@@ -986,6 +1003,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="daily_pkg_traffic">Limita de utilizare a datelor</string>
     <string name="data_booster_desc">Dezactivați alte sloturi SIM pentru a menține conexiunea stabilă</string>
     <string name="data_booster_title">Stabilizare conexiune de date</string>
+    <string name="data_local_processing_and_storage">Date stocate și procesate local</string>
+    <string name="data_local_processing_and_storage_detail">Introducerile dvs. vor fi stocate și procesate pe acest dispozitiv și nu vor fi încărcate în cloud.</string>
     <string name="data_network_blocked_notification_title">Nu există o conexiune la internet</string>
     <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
     <string name="data_usage_disabled_dialog">"Ați atins limita de utilizare a datelor din planul dvs. Dacă depăşiţi această limită, operatorul vă poate percepe taxe suplimentare.</string>
@@ -1073,6 +1092,8 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_title_auto_start_declare">Despre pornirea automată</string>
     <string name="dialog_title_stop_virus_scan">Opriţi scanarea de securitate</string>
     <string name="disable_air_mode">Dezactivaţi modul Avion mai întâi</string>
+    <string name="disable_sensitive_permissions">Permisiuni sensibile restricționate</string>
+    <string name="disable_sensitive_permissions_detail">Tastatura dvs. nu va putea utiliza permisiuni legate de confidențialitate (de exemplu accesare contacte sau informații despre locație).</string>
     <string name="dlg_add_blacklist">Blocați acest număr?</string>
     <string name="dlg_add_blacklist_title">Adăugați în lista blocărilor</string>
     <string name="dlg_add_keyword">Adăugați cuvinte cheie</string>
@@ -1280,6 +1301,31 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_main_warning_list">Vedeți avertizările</string>
     <string name="ew_main_warning_list_tips">Vizualizați</string>
     <string name="ew_main_warning_list_title">Vedeți istoricul de avertizare</string>
+    <string name="ew_monitor_content">Dispozitivul dvs. mobil poate deveni parte a rețelei de avertizare timpurie împotriva cutremurelor. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
+    <string name="ew_monitor_exit">Nu vă înrolați</string>
+    <string name="ew_monitor_exit_content">Salutare voluntar nr. %s! Dispozitivul dvs. poate monitoriza activitatea seismică și poate colecta date care ar ajuta la emiterea avertizărilor timpurii de cutremur. Anulați înscrierea oricum?</string>
+    <string name="ew_monitor_exit_title">Atenție</string>
+    <string name="ew_monitor_have_been">"Sunt mândru să fiu un "</string>
+    <string name="ew_monitor_info_title">Cum funcționează?</string>
+    <string name="ew_monitor_join_number">Numărul voluntarilor</string>
+    <string name="ew_monitor_join_path">Alăturați-vă programului folosind un dispozitiv Xiaomi: Securitate> Avertizare cutremur> Voluntar de monitorizare cutremur.</string>
+    <string name="ew_monitor_my_content">Dispozitivul meu mobil face parte din rețeaua de avertizare timpurie a cutremurului. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
+    <string name="ew_monitor_number_prex">Nr. %s</string>
+    <string name="ew_monitor_open">Alăturați-vă</string>
+    <string name="ew_monitor_read_privacy"><Data>"Am citit și acceptat &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>."</Data></string>
+    <string name="ew_monitor_share">Partajați</string>
+    <string name="ew_monitor_slogan">"Alăturați-vă programului nostru
+de monitorizare a cutremurelor"</string>
+    <string name="ew_monitor_summary1">Utilizați dispozitivul pentru monitorizarea seismică.</string>
+    <string name="ew_monitor_summary2">Raportați informații referitoare la alertele de cutremur.</string>
+    <string name="ew_monitor_summary3">Ajutați mai mulți oameni să primească alerte de cutremur mai repede.</string>
+    <string name="ew_monitor_support">Suport tehnic oferit de Chengdu Hi-tech Disaster Reduction Institute</string>
+    <string name="ew_monitor_support_rom">*Această caracteristică este acceptată de anumite dispozitive Xiaomi/Redmi și versiuni MIUI.</string>
+    <string name="ew_monitor_thanks_tips">"Vă mulțumim că ați devenit voluntarul nr. %s
+din programul pentru monitorizarea cutremurelor!"</string>
+    <string name="ew_monitor_title">Voluntar de monitorizare a cutremurelor</string>
+    <string name="ew_monitor_title_spilt">"Voluntar monitorizare
+cutremure"</string>
     <string name="ew_not_support_area">Avertizările nu sunt suportate în această zonă</string>
     <string name="ew_push_message">Intensitatea estimată: %s. Așteptați-vă la un cutremur moderat în apropiere.</string>
     <string name="ew_push_title">Avertizare de cutremur pentru %s</string>
@@ -1321,6 +1367,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="exit_dialog_release_memory_positive_button">Închideți</string>
     <string name="exit_dialog_release_memory_title"><Data>Creșteți viteza telefonului cu &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mai mult de 80% din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le utilizați.</string>
+    <string name="exit_dialog_release_storage_message_new">Mai mult de %s din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le-ați utilizat niciodată.</string>
     <string name="exit_dialog_release_storage_positive_button">Eliberați spațiu</string>
     <string name="exit_dialog_release_storage_title">Eliberați spațiu</string>
     <string name="exit_dialog_scan_message">"Scorul de performanță al telefonului este mai mic de 75 de puncte. Optimizați acum?"</string>
@@ -1990,6 +2037,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="image_protect_recover_success">Restaurată cu succes</string>
     <string name="image_protect_tips_title">Se șterg fotografiile</string>
     <string name="image_protect_total_activity_label">Primiți notificări despre fotografiile șterse</string>
+    <string name="ime_security_warning">%1$s poate înregistra orice tastați, inclusiv parolele sau alte informații sensibile. O utilizați oricum?</string>
     <string name="in_delete">Ștergere…</string>
     <string name="in_recover">Restaurare…</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
@@ -2267,6 +2315,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
     <string name="menu_white">Adăugați în lista excepțiilor</string>
+    <string name="mi_ime_not_used">Utilizați o tastatură autorizată de Xiaomi</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
@@ -2378,6 +2427,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="net_delay_title">Întârziere</string>
     <string name="net_overdue">Sesiunea s-a încheiat</string>
     <string name="network_assistant_privacy">Pentru a ține evidența utilizării datelor de către aplicație, colectăm informații cum ar fi numele pachetelor, utilizarea datelor Wi-Fi și mobile, utilizarea datelor de vârf și înafara vârfurilor și când Wi-Fi și datele mobile sunt activate. Aceste informații sunt stocate local pe dispozitivul dvs.</string>
+    <string name="network_assistant_privacy_title">Trimiteți date de diagnostic și de utilizare a aplicației și a rețelei</string>
     <string name="network_blocked_connected_open_wifi">Conectat la rețea publică</string>
     <string name="network_blocked_notification_summary">Testare reţea</string>
     <string name="network_blocked_switch_wifi">Comutare reţele</string>
@@ -2548,6 +2598,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="numeric_settings_help_how_to_record">Cum setez codul PIN</string>
     <string name="oaid_reset_content_tip">Dacă dezactivați ID-ul virtual acum, unele aplicații ar putea înceta să funcționeze corect, o parte din datele aplicației dvs. ar putea fi pierdute sau să devină inutilizabile.</string>
     <string name="oaid_reset_final_tip">Dezactivați oricum ID-ul virtual?</string>
+    <string name="offline_voice_input">Introducere vocală offline</string>
+    <string name="offline_voice_input_detail">Nu veți avea nevoie de internet pentru introducerea vocală.</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">"Această aplicație nu este compatibilă cu cele mai recente cerințe Android privind permisiunile. Permisiunile neacordate pot afecta modul în care funcționează aplicația."</string>
@@ -3117,6 +3169,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_optional_protection_function">Măsuri de protecție opționale</string>
     <string name="pp_permission_action_virtual_detail">Acordați permisiuni, dar acordați aplicațiilor fișiere goale în loc de informații personale</string>
     <string name="pp_permission_settings">Permisiuni</string>
+    <string name="pp_privacy_input_tips">Protejați-vă tastatura</string>
     <string name="pp_privacy_lab_blur_location">Locația aproximativă</string>
     <string name="pp_privacy_lab_blur_location_summary">Depersonalizați informațiile despre locație, permițând aplicațiilor să vă acceseze locația aproximativă</string>
     <string name="pp_privacy_lab_clipboard">Protejați clipboard-ul</string>
@@ -3294,6 +3347,13 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_guide_permission_use_text">MIUI va contoriza și afișa de câte ori o aplicație utilizează permisiuni senzitive, inclusiv locația, contactele, istoricul de apelare și accesarea stocării, ca și înregistrarea sunetelor audio. Puteți afla de câte ori fiecare aplicație utilizează aceste permisiuni și determina dacă trebuie să modificați setările permisiunilor.</string>
     <string name="privacy_hide_other_permissions">Ascunde alte permisiuni</string>
     <string name="privacy_informed_title">Statistici</string>
+    <string name="privacy_input_icon_layout_status_bg_content_enable">Protejat</string>
+    <string name="privacy_input_mode">Introducere securizată</string>
+    <string name="privacy_input_mode_img_detail">Funcționează cu tastaturile autorizate de Xiaomi</string>
+    <string name="privacy_input_mode_version_supported">Actualizați tastatura pentru a putea să utilizați această caracteristică</string>
+    <string name="privacy_input_model_guide_choose">Descărcați introducerea vocală offline</string>
+    <string name="privacy_input_model_guide_text">Această caracteristică vă protejează confidențialitatea în timp ce introduceți text. Când această funcție este activată, unele dintre funcționalitățile bazate pe rețea (de exemplu, opțiuni de personalizare, emoji, tastare predictivă) nu vor fi disponibile.</string>
+    <string name="privacy_input_model_tips">Introducerea securizată este activată. Tastatura dvs. nu poate afișa ferestre pop-up sau accesa contacte, informații despre locație și istoricul apelurilor.</string>
     <string name="privacy_location_info_summary">Gestionați accesul la locație</string>
     <string name="privacy_location_info_title">Informații localizare</string>
     <string name="privacy_look_all_permission_status">Toate permisiunile</string>
@@ -3439,6 +3499,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="promotion">Reclamă</string>
     <string name="prompt_all">Cereți pentru toate</string>
     <string name="prompt_input_time_illegal">"Nu se poate seta această oră; modificați-o și încercați din nou"</string>
+    <string name="protect_data_security">Date izolate</string>
+    <string name="protect_data_security_detail">Datele generate de tastatură vor fi izolate și inaccesibile de către alte aplicații.</string>
+    <string name="protect_screen_information">Ecranul dvs. este protejat</string>
+    <string name="protect_screen_information_detail">Nu veți putea face o captură de ecran sau înregistra ecranul în timp ce tastați.</string>
     <string name="protocol_exception_title">Diagnosticare protocol de rețea</string>
     <string name="protocol_loop_back_exception_summary">Bucla locală de testare a eșuat. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de pe dispozitivul dvs.</string>
     <string name="provision_back">Înapoi</string>
@@ -3520,6 +3584,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="risk_app_install_item_des">Versiunea: %1$s</string>
     <string name="risk_app_install_manager">Aplicații cu riscuri posibile</string>
     <string name="risk_count_suffix" />
+    <string name="risk_tip">Risc detectat</string>
     <string name="roaming_allow_network_dialog_title">Permiteți utilizarea datelor în roaming?</string>
     <string name="roaming_limit_dialog_message">A fost atinsă limita zilnică a datelor în roaming.</string>
     <string name="roaming_limit_network_notification_body">Apăsați pentru a vizualiza rețelele de date disponibile</string>
@@ -3601,6 +3666,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="set_complete">Setată cu succes</string>
     <string name="set_location">Setați locația</string>
     <string name="set_mixed_password_name">Setați parola</string>
+    <string name="set_now">Setări</string>
     <string name="set_numeric_password_name">Setați codul PIN</string>
     <string name="set_package_tips">Vom trimite un SMS gratuit operatorului pentru a vă verifica planul de date. Informațiile pe care le furnizați vor fi criptate și încărcate pe serverele noastre pentru a compune acest mesaj.</string>
     <string name="set_package_tips_detail">Informațiile încărcate pe serverele Xiaomi vor include detaliile operatorului dvs., precum și numărul dvs. de telefon, IMEI-ul și contul Mi.</string>
@@ -3931,6 +3997,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="status_bar_network_flow_purchase">"   Cumpărați >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Setați planul de date >"</string>
     <string name="still_retain_btn">Păstrați</string>
+    <string name="stop_collecting_data">Tastatura nu vă va învăța obiceiurile</string>
+    <string name="stop_collecting_data_detail">Tastatura nu va colecta date pentru îmbunătățirea tastării predictive și pentru a sugera fraze frecvente pe baza obiceiurilor dvs.</string>
     <string name="stop_milink_connect">S-a oprit proiectarea</string>
     <string name="storage_activity_title">Spațiul de stocare</string>
     <string name="storage_app_detail_activity_title">Spațiul ocupat</string>
@@ -4521,6 +4589,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>
     <string name="usbsharenet_pc_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului."</string>
     <string name="use_immediately">Utilizați</string>
+    <string name="use_other_ime_warn">Tastaturile terță parte pot înregistra tot ceea ce tastați, inclusiv parolele și alte informații sensibile.</string>
     <string name="user_define_title">Adăugați reguli</string>
     <string name="user_guide">Glisați în sus pentru a descoperi mai multe jocuri noi</string>
   <string name="user_guide_title">Joystick Picks</string>
@@ -4541,6 +4610,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_settings">Setări</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Aceste efecte sunt aplicate întregului ecran</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Efectele vor fi aplicate numai zonei de redare video</string>
     <string name="vb_ve_settings_pic_border_stronger">Contururi îmbunătățite</string>
     <string name="vb_ve_settings_picture_stronger">Animații îmbunătățite</string>
     <string name="vb_video_effects_display_style">Stil</string>

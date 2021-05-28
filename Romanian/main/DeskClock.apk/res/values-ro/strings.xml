@@ -120,6 +120,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Închideți</string>
     <string name="close_alarm">Dezactivați</string>
+    <string name="close_alarm_new">Opriți</string>
     <string name="common_settings">Setări</string>
     <string name="common_timer_selector">Selectați temporizatorul</string>
     <string name="confirm">Confirmați</string>
@@ -413,6 +414,7 @@
     <string name="noon">Amiază</string>
     <string name="normal_settings">Setări generale</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_set_temporarily">Nu, mulțumesc</string>
     <string name="not_update">Nu acum</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>
     <string name="open_keep_screen">Ecranul va fi păstrat pornit</string>
@@ -459,6 +461,7 @@
     <string name="set_alarm_choose_ringtone">Selectați sunetul</string>
     <string name="set_alarm_done">Finalizat</string>
     <string name="set_alarm_other">Altele</string>
+    <string name="set_now">Setați</string>
     <string name="setting_alarm_arriving_subtitle">Afișează notificări înainte de a suna alarma</string>
     <string name="setting_alarm_arriving_summary">Afișează o notificare înainte de a suna alarma</string>
     <string name="setting_alarm_arriving_title">Notificare înainte de sunetul alarmei</string>
@@ -499,6 +502,7 @@
     <string name="sleep_time">Ați adormit la</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
+    <string name="slider_text_new">Glisați în sus pentru a opri</string>
     <string name="snooze_confirm_cancel">Anulaţi alarma</string>
     <string name="snooze_duration">Amânare</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -639,6 +643,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_got_it_new">Reduceți la tăcere</string>
     <string name="timer_is_paused">Temporizatorul este oprit</string>
     <string name="timer_item_delete">Ștergeți</string>
     <string name="timer_item_duration_display">%1$d min și %2$d sec</string>
@@ -688,6 +693,7 @@
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="week_ringtone_recommend_desc">Alarma naturală redă diferite sunete în funcție de dată. O setați ca alarmă implicită?</string>
     <string name="white_noise_selector">Selectați sunetul</string>
     <string name="workday_alarm_clock">Alarmă în zilele lucrătoare</string>
     <string name="worldclock_empty_text">Niciun ceas</string>

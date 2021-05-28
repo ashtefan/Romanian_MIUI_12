@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">Cu %d zile în urmă</item>
         <item quantity="one">Cu %d zi în urmă</item>
@@ -153,13 +182,32 @@
         <item quantity="other">%1$d persoane conectate</item>
         <item quantity="one">%1$d persoană conectată</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s ore</item>
         <item quantity="one">1 oră</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">%d aplicații conectate</item>
         <item quantity="one">%d aplicație conectată</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d din %2$d aplicații au acces la locație</item>
@@ -253,6 +301,10 @@
         <item quantity="other">Wi-Fi va fi activat automat atunci când dispozitivul detectează rețelele salvate din apropiere și se va opri după %d minute dacă nu este stabilită nicio conexiune</item>
         <item quantity="one">Wi-Fi va fi activat automat atunci când dispozitivul detectează rețelele salvate din apropiere și se va opri după %d minut dacă nu este stabilită nicio conexiune</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM-uri</item>
         <item quantity="one">%1$d SIM</item>
@@ -284,6 +336,10 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">~%d notificări pe săptămână</item>
         <item quantity="one">~%d notificare pe săptămână</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aplicații active</item>

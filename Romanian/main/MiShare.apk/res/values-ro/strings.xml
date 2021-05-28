@@ -93,6 +93,7 @@
     <string name="error_receive_user_cancel">S-a anulat transferul</string>
     <string name="error_receive_user_interrupted">Cealaltă persoană a anulat transferul</string>
     <string name="error_refuse_receive">S-a anulat transferul</string>
+    <string name="error_remote_ap_working">Rugați cealaltă persoană să pornească hotspot-ul portabil</string>
     <string name="error_remote_busy">Se pare că celălalt dispozitiv este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="error_remote_mirror_working">Celălalt dispozitiv nu poate accepta articole în timp ce partajează ecranul</string>
     <string name="error_self_busy">Dispozitivul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
