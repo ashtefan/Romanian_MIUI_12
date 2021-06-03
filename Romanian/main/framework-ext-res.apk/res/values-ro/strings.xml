@@ -38,6 +38,8 @@
     <string name="autofill_service_name">Gestionați parolele</string>
     <string name="back_double_tap">nimic</string>
     <string name="back_triple_tap">nimic</string>
+    <string name="battery_authentic_failed_button">Am înțeles</string>
+    <string name="battery_authentic_failed_title">Atenție</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -214,6 +216,7 @@
     <string name="open_close_tip_content">Pentru a închide fereastra plutitoare, apăsați și mențineți apăsat pe bara de acțiune, apoi glisați în sus</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Alte tastaturi</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
     <string name="package_delete_confirm_step_2">Dezinstalarea acestei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">Nu veți mai putea deschide această aplicație după ce o veți dezinstala.</string>

@@ -1120,7 +1120,15 @@ Utilizați datele mobile oricum?"</string>
     <string name="four_point_five_switch_summary">Utilizați 4,5G pentru a crește viteza conexiunii de date și pentru a îmbunătăți calitatea vocală.</string>
     <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">nr. canal lte</string>
-    <string name="fw_change_failed">"Nu s-a putut schimba numărul de redirecţionare.
+    <string name="full_forwarding_number">Număr de redirecționare</string>
+    <string name="full_forwarding_number_error_msg">Doar numerele de telefon care încep cu \"0\" sunt suportate.</string>
+    <string name="full_forwarding_number_error_title">Număr de telefon nevalid</string>
+    <string name="full_forwarding_number_prefix">"Numărul de telefon: "</string>
+    <string name="full_forwarding_option_forwarding">Redirecționare</string>
+    <string name="full_forwarding_option_off">OPRITĂ</string>
+    <string name="full_forwarding_option_voicemail">Căsuță vocală</string>
+    <string name="full_forwarding_settings">Redirecționare totală</string>
+    <string name="fw_change_failed">"Nu s-a putut modifica numărul de redirecționare.
 Contactaţi operatorul dvs. în cazul în care această problemă persistă."</string>
     <string name="fw_get_in_vm_failed">"Nu s-au putut prelua şi salva setările actuale ale numărului de redirecţionare.
 Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
@@ -1202,6 +1210,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="invalid_pin2">Introduceţi un cod PIN2 format din %1$d până la %2$d cifre.</string>
     <string name="invalid_puk">Introduceţi un cod PUK format din %1$d până la %2$d cifre.</string>
     <string name="invalid_puk2">Introduceţi un cod PUK2 format din %d cifre.</string>
+    <string name="invalid_secretcode_format_txt">Format nevalid cod secret!</string>
     <string name="ivr_mo_area_code_settings">Codul zonei actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduceţi prefixul actual al zonei</string>
     <string name="ivr_parameter_settings">Setări parametri IVR</string>
@@ -1755,6 +1764,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pin_progress_unlock_icc">Deblocare cartelă SIM…</string>
     <string name="pin_puk_system_user_only">Numai proprietarul dispozitivului poate introduce coduri PIN/PUK.</string>
     <string name="ping_test_label">Rulați testul Ping</string>
+    <string name="play_voicemail_settings">Redați mesajele vocale</string>
     <string name="pointer_location">Locația indicatorului</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="police_type_description">Poliție</string>
@@ -2484,6 +2494,7 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="voice_service_warning_dialog_title">Apeluri VoLTE</string>
     <string name="voicemail">Mesaj vocal</string>
     <string name="voicemail_abbreviated">MV:</string>
+    <string name="voicemail_callforward_settings">Căsuță vocală și redirecționare apeluri</string>
     <string name="voicemail_change_pin_dialog_title">Schimbați codul PIN</string>
     <string name="voicemail_default">Operatorul dumneavoastră</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrează</string>

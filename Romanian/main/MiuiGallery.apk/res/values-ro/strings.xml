@@ -1075,6 +1075,7 @@ efecte pentru fotografii"</string>
     <string name="grant_permission_unlock_and_set">Deblocați și setați</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
+    <string name="hello_blank_fragment">Salutare fragment gol</string>
     <string name="help">Nu găsiți dispozitivul?</string>
     <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați cealaltă persoană să activeze Partajarea Mi.</string>
     <string name="hidden_album_display_name">Album ascuns</string>
@@ -1089,6 +1090,9 @@ efecte pentru fotografii"</string>
     <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Printați fotografiile</string>
     <string name="home_menu_video_post">Efecte video</string>
+    <string name="home_page_all_photos">Toate</string>
+    <string name="home_page_camera">Cameră</string>
+    <string name="home_page_custom">Personalizat</string>
     <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Omiteți</string>
@@ -2716,7 +2720,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="vlog_video_importing">Se importă videoclipul…</string>
     <string name="vlog_video_saved_in_my_create">Videoclip salvat cu succes</string>
     <string name="vlog_video_selected_not_support">Nu se poate edita videoclipul selectat</string>
-    <string name="vlog_video_trans_code_cons">Se procesează un fișier cu rezoluție înaltă…</string>
+    <string name="vlog_video_trans_code_cons">Se importă…</string>
     <string name="voice_assistant">Introducere vocală</string>
     <string name="watch_all_photo">Galerie</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>

@@ -349,6 +349,7 @@ Atingeți pentru a vedea"</string>
     <string name="using_record_confirm_ok">Permiteți</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="view_recorded_file">Atingeți pentru a vedea fișierul înregistrat</string>
     <string name="warning_recording_when_a2dp_connect">Dispozitivul dvs. nu suportă înregistrarea sunetelor de sistem cât timp se utilizează căștile Bluetooth.</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

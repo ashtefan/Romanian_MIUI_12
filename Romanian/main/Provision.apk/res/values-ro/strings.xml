@@ -87,6 +87,7 @@
     <string name="disagreement_exit_app">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="disagreement_function">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această caracteristică. Puteți alege să nu utilizați această caracteristică în astfel de cazuri.</string>
     <string name="disagreement_location_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
+    <string name="disagreement_terminate_miuidaemon">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu sau să restricționați permisiunile din Setări în astfel de cazuri. Rețineți că vom folosi permisiunile numai atunci când începeți să transferați date de pe dispozitiv atunci când ecranul acestuia este deteriorat.</string>
     <string name="disagreement_terminate_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="download_introduction">\"Descărcări\" utilizează Xunlei pentru a descărca elemente în dispozitiv. Această unealtă funcționează pentru GetApps, actualizările de sistem, teme, videoclipuri și descărcările din browser.</string>
     <string name="early_morning">Dimineață</string>
@@ -366,6 +367,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="provision_skip_underline">Omiteți</string>
     <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și efectuarea de copii de rezervă în cloud.</string>
     <string name="require_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
+    <string name="require_miuidaemon_authority_statement">Pentru a ne permite să vă oferim acest serviciu, trebuie să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să vă conectați la internet și să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>

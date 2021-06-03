@@ -452,6 +452,7 @@
     <string name="clone_start_capture">Începeți clonarea</string>
     <string name="clone_too_much_movement_stop">Ați mutat dispozitivul prea departe. S-a oprit captarea deocamdată.</string>
     <string name="clone_video_mode">Video</string>
+    <string name="close">Închideți</string>
     <string name="close_back_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_front_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_night_algo_toast_low_power">Încărcați dispozitivul pentru a putea seta expunerea</string>
@@ -586,11 +587,12 @@ documentele scanate în mod automat"</string>
     <string name="document_mode_use_hint_text_title">Scanați documente</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Intensificat</string>
-    <string name="dolly_zoom_capture_tip1">Așezați subiectul în cadru și țineți dispozitivul la cel puțin %d metru distanță</string>
-    <string name="dolly_zoom_capture_tip2">Îndepărtați dispozitivul constant de subiectul dvs.</string>
+    <string name="dolly_zoom_capture_tip1">Așezați subiectul în cadru</string>
+    <string name="dolly_zoom_capture_tip2">Mențineți subiectul în centru și îndepărtați dispozitivul constant</string>
     <string name="dolly_zoom_capture_tip3">S-a pierdut urma subiectului. Începeți din nou.</string>
     <string name="dolly_zoom_capture_tip4">Ați mutat dispozitivul prea departe. Începeți din nou.</string>
     <string name="dolly_zoom_capture_tip5">Nu s-a putut salva videoclipul</string>
+    <string name="dolly_zoom_capture_tip6">Mutați subiectul în centrul cadrului</string>
     <string name="dolly_zoom_guide_tip1">Asigurați-vă că există suficient spațiu între subiect și fundal.</string>
     <string name="dolly_zoom_guide_tip10">Și multe altele!</string>
     <string name="dolly_zoom_guide_tip2">Încercați să evitați suprafețele mari de culoare solidă.</string>
@@ -860,7 +862,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="live_sticker_updating">Actualizare…</string>
     <string name="live_workspace_title">Schițe</string>
     <string name="live_workspace_title_edit">Selectați elementele de șters</string>
-    <string name="location_access_allow">Permiteți</string>
+    <string name="location_access_allow">Accept</string>
     <string name="location_permission_des">Reține locația pentru fotografii și videoclipuri</string>
     <string name="location_permission_not_ask_again">Permiteți aplicației Cameră să vă acceseze locația din Setări.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>
@@ -1289,7 +1291,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_device_watermark_title">Amprenta dispozitivului pe fotografie</string>
     <string name="pref_camera_dual_enable_title">Activați camera duală</string>
     <string name="pref_camera_dual_sat_enable_title">Activați camera duală SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Rata de cadre va fi redusă în mod automat în condiții de iluminare redusă pentru a îmbunătăți calitatea videoclipurilor</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Rata de cadre va fi redusă în mod automat în condiții de iluminare redusă sau temperatură ridicată pentru a îmbunătăți calitatea videoclipurilor</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajustează rata de cadre în condiții de iluminare redusă</string>
     <string name="pref_camera_eis_entry_normal">Videoclip stabilizat</string>
     <string name="pref_camera_eis_entry_off">Oprit</string>
@@ -1797,6 +1799,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_settings">Setări cameră;Calitate;Calitatea imaginii;Localizare fotografie;Localizare imagine;Detectare față;Sunete cameră</string>
     <string name="see_qrcode_detals">Vizualizaţi detaliile codului QR</string>
+    <string name="send">Trimiteți</string>
     <string name="settings_camera_detect_card_description">Afișați o comandă rapidă ori de câte ori camera AI detectează o carte de identitate</string>
     <string name="settings_camera_detect_description_doc">Afișați o comandă rapidă ori de câte ori camera AI detectează un document sau o prezentare</string>
     <string name="settings_camera_near_range_description">Îndepărtați neclaritatea când focalizați pe suprafețe plane de foarte aproape</string>

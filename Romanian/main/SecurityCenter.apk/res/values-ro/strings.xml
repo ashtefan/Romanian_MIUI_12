@@ -2596,8 +2596,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="numeric_recording_intro_header">Introduceți parola</string>
     <string name="numeric_retry_button_text">Renunțați</string>
     <string name="numeric_settings_help_how_to_record">Cum setez codul PIN</string>
+    <string name="oaid_apps_title">Gestionați ID-ul virtual</string>
     <string name="oaid_reset_content_tip">Dacă dezactivați ID-ul virtual acum, unele aplicații ar putea înceta să funcționeze corect, o parte din datele aplicației dvs. ar putea fi pierdute sau să devină inutilizabile.</string>
     <string name="oaid_reset_final_tip">Dezactivați oricum ID-ul virtual?</string>
+    <string name="oaid_tips_content">ID-urile virtuale (OAID) pot fi utilizate pentru urmărirea comportamentului dvs. și personalizarea anunțurilor pentru dvs. Puteți selecta ce aplicații au permisiunea de a vă accesa ID-ul virtual. Rețineți că, dacă restricționați accesul, recomandările publicitare ar putea deveni irelevante sau aplicațiile ar putea să nu funcționeze normal.</string>
     <string name="offline_voice_input">Introducere vocală offline</string>
     <string name="offline_voice_input_detail">Nu veți avea nevoie de internet pentru introducerea vocală.</string>
     <string name="ok">OK</string>
@@ -2727,6 +2729,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
+    <string name="pc_hidemode_normal">Echilibrat</string>
+    <string name="pc_hidemode_performance">Performanță</string>
+    <string name="pc_hidemode_performance_title">Mod performanță</string>
+    <string name="pc_hidemode_power_save">Energie</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_main_activity_back">Înapoi</string>
     <string name="pc_main_battery_text_day">S-au adăugat %1$sm, aproximativ %2$sz rămase</string>
@@ -2738,6 +2744,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_main_power_manager_hour_minute">%1$sh și %2$sm până la încărcarea completă</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sz și %2$sh rămase</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh și %2$sm rămase</string>
+    <string name="pc_performance_mode_dialog_summary">Dispozitivul dvs. va putea lucra în Modul performanță timp de %s. Rețineți că modul Performanță crește consumul de energie și poate duce la supraîncălzire.</string>
+    <string name="pc_performance_mode_dialog_title">Mod performanță</string>
     <string name="pc_search_keywords_battery">Acumulator</string>
     <string name="pc_search_keywords_battery_save">Economisirea acumulatorului</string>
     <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>

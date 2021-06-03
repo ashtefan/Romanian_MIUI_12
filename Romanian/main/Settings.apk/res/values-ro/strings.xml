@@ -1743,10 +1743,14 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="charge_animation_style_lollipop">Curgere</string>
+    <string name="charge_animation_style_none">Oprită</string>
     <string name="charge_animation_style_summary">Selectați stilul de animație preferat pentru blocarea ecranului pe durata încărcării</string>
     <string name="charge_animation_style_title">Animație pe durata încărcării</string>
+    <string name="charge_animation_style_video">Strălucire</string>
+    <string name="charge_animation_style_wave">Val</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
-    <string name="charging_sounds_title">Sunete la încărcarea acumulatorului</string>
+    <string name="charging_sounds_title">Sunete la încărcarea acumulatorului și vibrații</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
@@ -5573,6 +5577,8 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="notifications_title">Notificări</string>
     <string name="now">Reporniţi acum</string>
     <string name="number_of_device_admins_none">Nicio aplicație activă</string>
+    <string name="oaid_apps_summary">Permiteți sau restricționați accesul pentru aplicații individuale</string>
+    <string name="oaid_apps_title">Gestionați ID-ul virtual</string>
     <string name="oaid_string">"ID-ul virtual curent:
 %1s"</string>
     <string name="oem_lock_info_message">Vă rugăm reporniți dispozitivul pentru a activa funcția de protejare a dispozitivului.</string>
@@ -6657,8 +6663,9 @@ Pentru a utiliza fixarea aplicației: \u0009
     <string name="screen_saturation">Saturaţie</string>
     <string name="screen_shot">Realizați o captură de ecran</string>
     <string name="screen_timeout">Inactivitate</string>
+    <string name="screen_timeout_subtitle">Afișarea conținutului static pentru perioade lungi de timp poate face culorile inegale</string>
     <string name="screen_timeout_summary">După %1$s de inactivitate</string>
-    <string name="screen_timeout_title">Mod Somn</string>
+    <string name="screen_timeout_title">Blochează ecranul în mod automat</string>
     <string name="screen_usage_summary">Timpul în care ecranul a fost pornit de la încărcarea completă</string>
     <string name="screen_zoom_big">L</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -6937,6 +6944,7 @@ Pentru a utiliza fixarea aplicației: \u0009
     <string name="secspace_fod_use_password">Introduceți parola</string>
     <string name="secure_keyguard_business_title">Setați metoda de blocare a ecranului</string>
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
+    <string name="security_center_title">Securitate</string>
     <string name="security_dashboard_summary">Blocare ecran, amprentă</string>
     <string name="security_dashboard_summary_face">Blocare ecran, deblocare facială</string>
     <string name="security_dashboard_summary_no_fingerprint">Blocare ecran</string>
@@ -7898,6 +7906,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="switch_headset_anti_lost_title">Alertă lipsă căști</string>
     <string name="switch_off_text">Oprit</string>
     <string name="switch_on_text">Pornit</string>
+    <string name="switch_power_sound">Sunete la încărcarea acumulatorului</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
     <string name="switch_screen_button_order_desc">Butoanele Înapoi și Meniu în oglindă</string>
     <string name="switch_select_to_speak_on">Selectați pentru a Vorbi</string>
@@ -8079,6 +8088,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
+    <string name="time_floating_window">Ceas plutitor</string>
+    <string name="time_floating_window_summary">Afișează ceasul în fereastra plutitoare de deasupra celorlalte aplicațiilor</string>
     <string name="time_format_category_title">Formatul de oră</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>

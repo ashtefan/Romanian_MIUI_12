@@ -981,6 +981,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="face_unlock_success_show_message_toast">Notificările vor fi afișate în Blocarea ecranului</string>
     <string name="face_unlock_success_stay_screen_msg">Rămâneți în Blocarea ecranului după ce se verifică datele faciale. Glisați în sus pentru a accesa Ecranul principal.</string>
     <string name="face_unlock_success_stay_screen_title">Rămâneți în Blocarea ecranului după deblocare</string>
+    <string name="face_unlock_swipe_up_retry">Glisați în sus pentru a încerca din nou</string>
     <string name="failed_to_open_app_settings_toast">Nu s-au putut accesa setările pentru %1$s</string>
     <string name="finger_error_single_mode">Nu se poate utiliza scanerul de amprente în modul Utilizare cu o singură mână. Ieșiți din modul Utilizare cu o singură mână și încercați din nou.</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
