@@ -93,7 +93,7 @@
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
-    <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">Ultima încărcare</string>

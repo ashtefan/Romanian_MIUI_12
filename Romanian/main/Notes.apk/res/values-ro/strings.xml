@@ -256,7 +256,7 @@
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
@@ -754,7 +754,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="today">Azi</string>
     <string name="todo_alert_title_delete">Ștergeți sarcinile finalizate</string>
     <string name="todo_audio_default_content">"[Sarcină vocală] "</string>
-    <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
+    <string name="todo_custom_remind_tag_pattern_with_md">dd.MM HH:mm</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
     <string name="todo_edit_audio_hint">Rostiți sarcina</string>
     <string name="todo_edit_btn_cancel_remind">Anulați memento-ul</string>
@@ -793,8 +793,8 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="todo_schedule_time_expired">" (Expirată)"</string>
     <string name="todo_schedule_time_for_picker_hm">H mm</string>
     <string name="todo_schedule_time_hm">HH:mm</string>
-    <string name="todo_schedule_time_md">dd/MM</string>
-    <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
+    <string name="todo_schedule_time_md">dd.MM</string>
+    <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>
     <string name="todo_schedule_time_repeat_day">, în fiecare zi</string>
     <string name="todo_schedule_time_repeat_month">, în fiecare lună</string>
     <string name="todo_schedule_time_repeat_normal_workday">, de luni până vineri</string>

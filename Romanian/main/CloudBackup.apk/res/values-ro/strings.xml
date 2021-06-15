@@ -217,7 +217,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>

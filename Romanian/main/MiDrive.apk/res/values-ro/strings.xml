@@ -280,7 +280,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
-    <string name="month_day_format">dd/MM</string>
+    <string name="month_day_format">dd.MM</string>
     <string name="move_file_success">Mutat cu succes</string>
     <string name="music_format_not_support">Nu se poate previzualiza acest fișier</string>
     <string name="music_picker_title">Selectați melodiile</string>

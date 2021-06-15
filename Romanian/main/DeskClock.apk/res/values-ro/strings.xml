@@ -188,7 +188,7 @@
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
@@ -480,7 +480,7 @@
     <string name="silent_alarm_summary">Silenţios</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="sleep_analysis">Statistici</string>
-    <string name="sleep_analysis_chart_date_format">dd/MM</string>
+    <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Date despre somn furnizate de către Sănătate Xiaomi</string>
     <string name="sleep_duration">"Durata somnului: "</string>
     <string name="sleep_duration_avg_text_diff">Durata medie a somnului (%1$s-%2$s)</string>

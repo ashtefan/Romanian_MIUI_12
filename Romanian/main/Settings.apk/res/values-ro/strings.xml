@@ -640,7 +640,7 @@ Modificați setările acum?"</string>
     <string name="app_list_preference_none">Niciuna</string>
     <string name="app_memory_use">Utilizarea memoriei</string>
     <string name="app_mobile">Date mobile</string>
-    <string name="app_name">blurare</string>
+    <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="app_name_label">Aplicaţie</string>
     <string name="app_name_na">Utilizare date</string>
     <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
@@ -1441,6 +1441,7 @@ Selecție"</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispozitiv</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicaţi la</string>
     <string name="bluetooth_unlock_settings_unlock_device">Deblocare dispozitiv</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Această caracteristică funcționează cu dispozitivele portabile selectate realizate de Xiaomi</string>
     <string name="bluetooth_unlock_state_disconnected">Neconectat</string>
     <string name="bluetooth_unlock_state_key_error">Parolă incorectă</string>
     <string name="bluetooth_unlock_state_label">"Stare: "</string>
@@ -1528,9 +1529,17 @@ Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive
     <string name="bt_absVolume_open_dialog_title">Atenție</string>
     <string name="bt_absVolume_pre_title">Volumul absolut</string>
     <string name="bt_absVolume_summary">Mențineți volumul dispozitivelor Bluetooth și al telefonului strict consecvent. Puteți activa sau dezactiva această caracteristică atunci când fișiere media nu se redau în fundal.</string>
+    <string name="bt_audio_repair_property">Remediați problemele audio</string>
     <string name="bt_audio_share_property">Se partajează</string>
     <string name="bt_audio_share_switch_summary">Partajați sunete audio cu dispozitivele Bluetooth conectate</string>
     <string name="bt_audio_share_switch_title">Partajați sunete audio</string>
+    <string name="bt_audiorepair_dialog_open_success">Remediat cu succes. Așteptați până când dispozitivul se reconectează.</string>
+    <string name="bt_audiorepair_dialog_openok">Reparați</string>
+    <string name="bt_audiorepair_open_dialog_summary">MIUI va detecta și remedia problemele care cauzează inconsistența audio Bluetooth. Bluetooth-ul va fi repornit în timpul acestui proces. Nu părăsiți această pagină până când nu vedeți rezultatul.</string>
+    <string name="bt_audiorepair_open_dialog_title">Remediați inconsistența audio</string>
+    <string name="bt_audiorepair_pre_title">Remediați inconsistența audio</string>
+    <string name="bt_audiorepair_summary">Remediați inconsistența audio a dispozitivului Bluetooth conectat</string>
+    <string name="bt_audiorepair_working">Se remediază inconsistența audio…</string>
     <string name="bt_dialog_remember_choice">Nu afișa din nou</string>
     <string name="bt_dialog_settings">Setări</string>
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
@@ -3226,7 +3235,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
@@ -4776,6 +4785,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="miui_face_enroll_risk_warning_title_text">Atenție</string>
     <string name="miui_face_enroll_success">"Acum puteți debloca acest dispozitiv utilizând datele faciale.
 Continuați pentru a accesa setările adiționale."</string>
+    <string name="miui_input_method_attention">Atenție</string>
     <string name="miui_input_method_settings">Setări privind metoda de introducere</string>
     <string name="miui_lab_3d_gesture_desc">Deschideți ecranul de pornire și mişcaţi telefonul în aer conform unuia din modele pentru a deschide aplicațiile selectate</string>
     <string name="miui_lab_3d_gesture_slogan">Desenați un model în aer cu telefonul pentru a deschide o aplicație</string>

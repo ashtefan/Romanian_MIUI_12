@@ -365,7 +365,7 @@
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
@@ -1223,7 +1223,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="train_event_error_train_info">"Nu s-a putut verifica biletul"</string>
     <string name="train_event_more_info">Program, Wi-Fi, etc.</string>
     <string name="train_event_service">Servicii feroviare</string>
-    <string name="train_event_station_date_format">dd/MM</string>
+    <string name="train_event_station_date_format">dd.MM</string>
     <string name="train_event_station_header_arrive_time">Ajunge</string>
     <string name="train_event_station_header_depart_time">Pleacă</string>
     <string name="train_event_station_header_name">Gară</string>

@@ -127,7 +127,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="close">Închideţi</string>
     <string name="common_applying">Se aplică…</string>
     <string name="common_downloading">Se descarcă…</string>
-    <string name="common_format_date_no_year">dd/MM</string>
+    <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_skip">Omiteți</string>
     <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Mi</string>
     <string name="community_community_message_trigger_title">Notifică despre activitate</string>

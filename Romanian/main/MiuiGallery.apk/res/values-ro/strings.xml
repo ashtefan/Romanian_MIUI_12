@@ -1931,7 +1931,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="request_sms_url_title">Sugestie</string>
     <string name="retry_to_create_album">Încercați din nou</string>
     <string name="retry_to_request_qr_code">Încercați din nou</string>
-    <string name="risk_control_deleted_date">dd/MM</string>
+    <string name="risk_control_deleted_date">dd.MM</string>
     <string name="risk_control_deleted_message">Cineva a șters elementele dvs. din Galeria cloud utilizând un %3$s pe %1$s la %2$s. Ați fost dumneavoastră?</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Avertisment de securitate</string>

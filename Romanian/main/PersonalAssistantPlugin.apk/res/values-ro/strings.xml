@@ -31,7 +31,7 @@
     <string name="arrive">Aterizare</string>
     <string name="assistant_day_deadline">Ultima zi</string>
     <string name="assistant_day_suffix">后</string>
-    <string name="assistant_format_MMdd">dd/MM</string>
+    <string name="assistant_format_MMdd">dd.MM</string>
     <string name="authorize_button">Permiteți</string>
     <string name="authorize_fav_tip">Adăugați favoritele din alte aplicații aici.</string>
     <string name="ball_CricketMatch_title">Cricket</string>
@@ -209,9 +209,9 @@
     <string name="map_title_office">Servici</string>
     <string name="map_title_prve">到</string>
     <string name="mi_wallet">Portofel Mi</string>
-    <string name="month_day_format">dd/MM</string>
-    <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
-    <string name="month_format_en">dd/MM</string>
+    <string name="month_day_format">dd.MM</string>
+    <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
+    <string name="month_format_en">dd.MM</string>
     <string name="music_card_error_str">A apărut o eroare; deschideți aplicația Muzică pentru a reda</string>
     <string name="no_install">Neinstalată</string>
     <string name="no_matches_for_now">Niciun meci programat pentru acum</string>
@@ -285,7 +285,7 @@
     <string name="taxi_local">Punct de plecare</string>
     <string name="taxi_target">Destinație     </string>
     <string name="time_just_now">Chiar acum</string>
-    <string name="time_month">dd/MM</string>
+    <string name="time_month">dd.MM</string>
     <string name="time_year">dd.MM.yyyy</string>
     <string name="train_C">Tren de tip C</string>
     <string name="train_D">Tren de tip D</string>

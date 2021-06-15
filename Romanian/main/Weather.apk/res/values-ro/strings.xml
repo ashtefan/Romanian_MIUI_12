@@ -87,7 +87,7 @@
     <string name="aqi_detail_so2">SO₂</string>
     <string name="aqi_detail_title">Indicele de Calitate a Aerului</string>
     <string name="aqi_detail_unit">Unitatea de măsură: µg/m³</string>
-    <string name="aqi_fifteen_dates_time_format">dd/MM</string>
+    <string name="aqi_fifteen_dates_time_format">dd.MM</string>
     <string name="aqi_first_sub_desc_locate">Stația: %1$s (la %2$s depărtare)</string>
     <string name="aqi_first_sub_desc_no_locate">Media ICA în %1$s</string>
     <string name="aqi_publish_time">Actualizat la %1$s</string>
@@ -249,7 +249,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>

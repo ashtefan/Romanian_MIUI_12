@@ -496,7 +496,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="arr_time">Ora de aterizare</string>
     <string name="arrive">Aterizare</string>
     <string name="assistant_day_deadline">Ultima zi</string>
-    <string name="assistant_format_MMdd">dd/MM</string>
+    <string name="assistant_format_MMdd">dd.MM</string>
     <string name="assistant_place">Recunoaștere locuri frecvent vizitate</string>
     <string name="assistant_summary">Obțineți sugestii utile, chiar atunci când aveți nevoie de ele</string>
     <string name="authorize_button">Permiteți</string>
@@ -539,7 +539,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="base_minute_second">mm:ss</string>
     <string name="base_search_empty">Nu s-au găsit rezultate</string>
     <string name="base_time_just_now">Chiar acum</string>
-    <string name="base_time_month">dd/MM</string>
+    <string name="base_time_month">dd.MM</string>
     <string name="base_time_year">dd.MM.yyyy</string>
     <string name="base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
     <string name="base_yesterday">Ieri</string>
@@ -1122,7 +1122,7 @@ Verificați numărul de urmărire."</string>
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_time">D T</string>
@@ -1450,15 +1450,15 @@ Verificați numărul de urmărire."</string>
     <string name="month_august">August</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_day_format">dd/MM</string>
-    <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
+    <string name="month_day_format">dd.MM</string>
+    <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
     <string name="month_december">Decembrie</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
     <string name="month_february">Februarie</string>
     <string name="month_february_short">Feb</string>
     <string name="month_february_shortest">Feb</string>
-    <string name="month_format_en">dd/MM</string>
+    <string name="month_format_en">dd.MM</string>
     <string name="month_january">Ianuarie</string>
     <string name="month_january_short">Ian</string>
     <string name="month_january_shortest">Ian</string>
@@ -1951,7 +1951,7 @@ Verificați numărul de urmărire."</string>
     <string name="thursday_shortest">Jo</string>
     <string name="time_default">—:—</string>
     <string name="time_just_now">Chiar acum</string>
-    <string name="time_month">dd/MM</string>
+    <string name="time_month">dd.MM</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>

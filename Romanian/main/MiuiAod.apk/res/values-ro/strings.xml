@@ -61,8 +61,8 @@ d/M"</string>
     <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
     <string name="aod_lock_screen_date_signature">dd.MM</string>
     <string name="aod_lock_screen_date_smartcover">"EE
-dd/MM"</string>
-    <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
+dd.MM"</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE dd.MM</string>
     <string name="aod_mode_preview">Previzualizați</string>
     <string name="aod_mode_style">Stilul ceasului și fundalul</string>
     <string name="aod_mode_style_title">Mai multe opțiuni</string>
