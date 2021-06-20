@@ -814,6 +814,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="development_settings_not_available">Opțiunile Dezvoltator nu sunt diponibile acestui utilizator</string>
     <string name="development_settings_summary">Setați opțiunile pentru dezvoltarea aplicațiilor</string>
     <string name="development_settings_title">Opțiuni dezvoltator</string>
+    <string name="device_locked_without_biometric">Detectarea biometrică nu poate fi efectuată datorită utilizării funcției terțe de blocare a ecranului cu o singură tastă</string>
     <string name="device_services">Servicii Dispozitiv</string>
     <string name="direct_boot_unaware_dialog_message">Notă: După o repornire, această aplicație nu va porni până când nu deblocați telefonul</string>
     <string name="disable_carrier_button_text">Dezactivați eSIM</string>
@@ -1197,7 +1198,7 @@ Continuați să le afișați?"</string>
     <string name="input_lockscreen_password_hint_text">Introduceți parola</string>
     <string name="input_lockscreen_pattern_hint_text">Desenați modelul</string>
     <string name="input_lockscreen_pin_hint_text">Introduceți codul PIN</string>
-    <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
+    <string name="input_password_after_boot_msg">Confirmarea blocării ecranului este necesară la repornirea dispozitivului</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nu se poate comuta între cele două spații în timpul unui apel</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Nu se poate comuta între spații când Controlul Parental este activ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nu se pot comuta spațiile de lucru cât timp este activă Ultra economisirea acumulatorului</string>
@@ -1557,9 +1558,11 @@ o captură de ecran derulantă"</string>
     <string name="miui_notification_menu_more_setting">Mai multe</string>
     <string name="miui_notification_menu_msg_fold">Grupați toate notificările de la %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">Restricționați toate notificările de la %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">Afișați %1$s notificări separat	?</string>
     <string name="miui_notification_menu_setting_success">Finalizat</string>
     <string name="miui_notification_menu_snooze">Reduceți la tăcere</string>
     <string name="miui_notification_menu_title_not_allow">Restricționați</string>
+    <string name="miui_notification_menu_unfold">Marcați ca importantă</string>
     <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,edit</string>
     <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,edit,drivemode</string>
     <string name="miui_screen_rotation_freeze_message">S-a blocat orientarea ecranului în modul peisaj</string>
@@ -1572,6 +1575,7 @@ o captură de ecran derulantă"</string>
     <string name="miui_snooze_until_unlock_screen">Până la blocare</string>
     <string name="miui_snooze_user_set_fail">Mergeți la Setări > Notificări și Centru de control pentru mai multe opțiuni</string>
     <string name="miui_snooze_user_set_success">Aplicat cu succes. Mergeți la Setări > Notificări și Centru de control pentru mai multe opțiuni.</string>
+    <string name="miui_unimportant_notifications">Notificări neimportante</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -2363,6 +2367,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="show_silently">Afișează silențios notificările</string>
     <string name="show_touches">Afișează atingerile</string>
     <string name="show_touches_summary">Arată atingerile ecranului</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Apăsați și mențineți apăsate butoanele &lt;font color=#e6e6e6>[Pornire]&lt;/font> și &lt;font color=#e6e6e6>[Volum +]&lt;/font> până vedeți &lt;img src=\"\">.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Selectați &lt;font color=#e6e6e6>[Ștergeți datele]&lt;/font> și apăsați &lt;font color=#e6e6e6>[Repornire]&lt;/font> după aceea.</Data></string>
     <string name="sim_state_locked_dialog_title">Cartelă SIM nevalidă</string>
     <string name="sim_state_locked_puk_dialog_message">Ați introdus un cod PUK incorect de cel puțin %d ori. Cartela dvs. SIM este nevalidă acum. Înlocuiți această cartelă SIM cu o alta.</string>
     <string name="simulate_color_space">Simulează spațiul de culoare</string>

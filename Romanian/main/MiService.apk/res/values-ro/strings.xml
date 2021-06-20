@@ -334,10 +334,12 @@
     <string name="permission_user_protocol">Acordul Utilizatorului (obligatoriu)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
+    <string name="public_authorize_now">Setări</string>
     <string name="public_loading_text">Doar o secundă…</string>
     <string name="public_net_error_retry">Încercați din nou</string>
     <string name="public_net_error_sub_title">Verificați setările de rețea și încercați din nou</string>
     <string name="public_net_error_title">"Nu s-a putut conecta la rețea"</string>
+    <string name="public_please_authorize">Sunt necesare unele permisiuni pentru a continua</string>
     <string name="rationale_ask">Este posibil ca această aplicație să nu funcționeze în mod normal fără permisiunile solicitate.</string>
     <string name="rationale_ask_again">Este posibil ca această aplicație să nu funcționeze în mod normal fără permisiunile solicitate. Accesați setările aplicației pentru a modifica permisiunile.</string>
     <string name="required_permissions">;</string>

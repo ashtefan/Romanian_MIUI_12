@@ -86,27 +86,30 @@
     <string name="bugreport_tool_log_dumping_title">Se crează raportul cu erori</string>
     <string name="catch_full_log_action_cancel">Renunțare</string>
     <string name="catch_full_log_action_complete">Finalizare și încărcare</string>
-    <string name="catch_full_log_action_start">Generați jurnalul</string>
+    <string name="catch_full_log_action_start">Începeți</string>
     <string name="catch_full_log_add_original_photo">Adăugați o fotografie originală sau un scurt videoclip</string>
     <string name="catch_full_log_add_photo">Adăugați o fotografie</string>
     <string name="catch_full_log_add_photo_dialog_content">"Dacă problema raportată este legată de calitatea camerei foto, adăugați o fotografie originală (nedecupată) pentru a ne ajuta să localizăm problema. Adăugați o fotografie acum?"</string>
+    <string name="catch_full_log_category">Tipurile de jurnal</string>
     <string name="catch_full_log_dialog_confirm_text">Mergeți la ecranul Acasă</string>
-    <string name="catch_full_log_dialog_content">"MIUI generează un jurnal. Acest lucru poate afecta performanța generală a dispozitivului. Dacă nu puteți reproduce problema pe care doriți să o raportați, mergeți înapoi la jurnale și apăsați \"Renunțare\"."</string>
+    <string name="catch_full_log_dialog_content">Acest lucru ar putea afecta performanța generală a dispozitivului dvs. Dacă nu puteți reproduce problema pe care doriți să o raportați, reveniți la jurnale și atingeți \"Renunțați\".</string>
+    <string name="catch_full_log_dialog_title">Se generează jurnalele…</string>
     <string name="catch_full_log_dump_hprof_failed">"Nu s-au putut genera jurnalele cu erori"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Mergeți înapoi la funcția pe care doriți să o raportați și reproduceți-o.
 2. Reveniți la această pagină și atingeți \"Finalizare și încărcare\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Atingeți \"Generare jurnal\".
-2. Mergeți înapoi la funcția pe care doriți să o raportați și reproduceți-o.
-3. Reveniți la această pagină și atingeți \"Finalizare și încărcare\"."</string>
-    <string name="catch_full_log_item_content_title">Pași:</string>
-    <string name="catch_full_log_item_title_audio">Audio, înregistrare sunet și volum în apeluri</string>
+    <string name="catch_full_log_item_content_catching">Se generează jurnalele…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Apăsați \"Începeți\" pentru a începe generarea jurnalelor.
+%2$d. Reproduceți problema pe care o întâmpinați.
+%3$d. Reveniți la această pagină și apăsați \"Finalizare și încărcare\"."</string>
+    <string name="catch_full_log_item_content_title">Cum să generați jurnalele</string>
+    <string name="catch_full_log_item_title_audio">Audio, sunet în apel și înregistrare audio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Încetinire</string>
     <string name="catch_full_log_item_title_gps">Servicii de localizare</string>
     <string name="catch_full_log_item_title_sensor">Senzori</string>
     <string name="catch_full_log_item_title_signal">Telefon, semnal și rețele mobile</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi și Partajare Mi</string>
-    <string name="catch_full_log_item_title_wifi_china">Wi-Fi și Partajare Mi</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Atingeți pentru a reveni la jurnale</string>
     <string name="catch_full_log_notification_title">Se generează jurnalul…</string>
     <string name="catch_full_log_privacy_content_audio">"Generați jurnale și le salvați în telefon. Jurnalele pot conține informații despre sistemul audio al dispozitivului, inclusiv istoricul de redare și cel al înregistrărilor. Tratați-le cu atenție și nu le trimiteți altor persoane. Atingând butonul \"De acord\" de mai jos, acceptați să colectăm datele de mai sus pe durata generării rapoartelor și apoi să le încărcăm pe serverele noastre pentru a putea localiza și remedia problemele pe care le-ați raportat."</string>

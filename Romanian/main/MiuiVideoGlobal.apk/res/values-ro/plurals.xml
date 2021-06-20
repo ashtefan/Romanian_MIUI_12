@@ -60,6 +60,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d dosare</item>
+        <item quantity="one">%d dosar</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
         <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>

@@ -466,7 +466,8 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
 Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
     <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
     <string name="terms_of_use_label_updater">, Actualizări</string>
-    <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, Servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Servicii Mi, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, MIUI Daemon, componente de sistem MSA, Servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
@@ -527,7 +528,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="title_fingerprint">Setați parola</string>
+    <string name="title_fingerprint">Setați blocarea ecranului</string>
     <string name="title_set_fingerprint">Blocarea ecranului</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
@@ -536,6 +537,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="tuesday_shortest">Ma</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O., Manager de Permisiuni și Actualizări se vor conecta la rețea. Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
+    <string name="user_agreement_declare_wifi_device">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de Comunicare prin Internet Xiaomi, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Aplicația Element Securizat, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O. și Actualizări se vor conecta la rețea. Cardurile inteligente, Gestionarea Permisiunilor și Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>

@@ -164,6 +164,7 @@
     <string name="document_rectify_tip_msg">Ajustare…</string>
     <string name="document_region">Ajustați</string>
     <string name="document_rename">Redenumiți</string>
+    <string name="document_rename_error">Redenumiți Eroarea</string>
     <string name="document_rnext_step">Următorul</string>
     <string name="document_save_succeed_tip">Document salvat în %1$s</string>
     <string name="document_save_text">Salvați</string>

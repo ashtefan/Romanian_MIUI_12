@@ -272,6 +272,8 @@
     <string name="resource_select">Selectați</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung">Samsung</string>
+    <string name="samsung_phone">Telefon Samsung</string>
     <string name="scanning_device_tips">Se caută dispozitivele din apropiere… Asigurați-vă că celălalt dispozitiv este în modul descoperire.</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Pornire simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>

@@ -36,6 +36,7 @@
     <string name="afternoon">După amiază</string>
     <string name="all_ringtone">Mai multe</string>
     <string name="all_ringtone_summary">Selectați tonuri de apel online</string>
+    <string name="all_ringtone_summary_pad">Selectați tonurile de apel</string>
     <string name="am">AM</string>
     <string name="amazon_introduction">Cea mai biodiversă regiune de pe planeta noastră este adesea denumită \"Plămânii Planetei\".</string>
     <string name="amazon_orange_winged_info">Amazonul cu aripi portocalii este un papagal mare, zgomotos, care face țipete puternice și înalte.</string>
@@ -582,6 +583,7 @@
     <string name="srgb_color_region_summary">Afișează tot conținutul ecranului în gama de culori sRGB</string>
     <string name="start_easymode">Activați modul Ușor</string>
     <string name="steady_on_screen_notification_title">Lăsați deoparte telefonul și faceți o pauză</string>
+    <string name="steady_on_screen_notification_title_pad">Lăsați deoparte dispozitivul și faceți o pauză</string>
     <string name="steady_on_screen_notify">Notifică despre utilizarea neîntreruptă</string>
     <string name="steady_on_screen_setting">Limita de timp pentru sesiunile neîntrerupte</string>
     <string name="steady_on_screen_summary">Limita de timp pentru sesiunile neîntrerupte</string>
@@ -827,6 +829,7 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_state_focus_level_summary">Nivelul curent: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">Modul Focusat permite doar utilizarea Camerei foto și realizarea de apeluri de urgență. Nu veți putea dezactiva modul Focusat mai devreme.</string>
     <string name="usage_state_focus_mode_experience_warning_message_pad">Modul Focusat permite doar utilizarea Camerei foto. Nu veți putea dezactiva prematur modul Focusat.</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Modul Focusat permite doar utilizarea Camerei foto și apelarea de urgență. Nu veți putea dezactiva prematur modul Focusat.</string>
     <string name="usage_state_focus_mode_summary">Restricționați toate funcțiile înafară de apelarea de urgență și Camera</string>
     <string name="usage_state_focus_mode_summary1">Ați început bine. Sunteți la mijlocul drumului</string>
     <string name="usage_state_focus_mode_summary2">Rămâneți concentrat</string>
@@ -834,6 +837,7 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="usage_state_focus_mode_title">Mod Focusat</string>
     <string name="usage_state_focus_mode_warning_message">Modul Focusat vă permite doar utilizarea Camerei și a apelării de urgență. Nu veți putea dezactiva modul Focus mai devreme.</string>
     <string name="usage_state_focus_mode_warning_message_pad">Modul Focusat permite doar utilizarea camerei. Nu veți putea dezactiva prematur modul Focusat.</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">Modul Focusat permite doar utilizarea Camerei foto și apelarea de urgență. Nu veți putea dezactiva prematur modul Focusat.</string>
     <string name="usage_state_focus_mode_warning_title">Atenție</string>
     <string name="usage_state_focus_success">Sarcină îndeplinită</string>
     <string name="usage_state_focus_take_photo">Camera</string>

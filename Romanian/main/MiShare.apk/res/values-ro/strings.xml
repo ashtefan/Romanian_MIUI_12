@@ -52,6 +52,7 @@
     <string name="cancel_receive">Renunțați</string>
     <string name="cancel_send">Transfer anulat</string>
     <string name="cancel_task">Renunțați</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme cu serviciile Google Play services. Vă rugăm să încercați din nou.</string>
     <string name="complete">Finalizat</string>
     <string name="confirm_cancel_receive">Nu veți mai putea primi acest element dacă anulați acum transferul. Renunțați oricum?</string>
     <string name="confirm_cancel_task_files">Anulați trimiterea fișierelor la %1$s?</string>
@@ -329,6 +330,8 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="retry_task">Trimiteți din nou</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung">Samsung</string>
+    <string name="samsung_phone">Telefon Samsung</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

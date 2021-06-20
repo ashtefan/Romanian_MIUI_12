@@ -144,6 +144,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
+    <string name="menu_title_show_notifications">Afișează notificări</string>
     <string name="message">%1$s</string>
     <string name="message_checkbox">Ascundeți mesajele viitoare de la echipa Xiaomi.eu</string>
     <string name="message_checkbox_device">Nu arăta din nou</string>

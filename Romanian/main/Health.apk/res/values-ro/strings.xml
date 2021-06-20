@@ -223,6 +223,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="collapse">Ascundeți</string>
     <string name="collect_diagnosis_log">Colectează un jurnal de diagnoză</string>
     <string name="complete_preference_basic_info">Completați-vă profilul</string>
+    <string name="complete_progress">Progres</string>
     <string name="completed">"Finalizat "</string>
     <string name="completed_stand">V-ați ridicat</string>
     <string name="confirm_opening">Activați</string>
@@ -1704,6 +1705,7 @@ despre somn"</string>
     <string name="tb_stand_day_ring">Episoade de ridicare astăzi: %1$s. Trebuie să faceți cel puțin 12 azi.</string>
     <string name="tb_stand_wm_column_chart">Episoade de ridicare între %1$s și%2$s. Glisați orizontal pentru a comuta între perioadele de timp. Atingeți pentru a vedea detaliile.</string>
     <string name="tb_stand_wm_column_click">%1$s. Episoade de ridicare: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Astăzi. %1$s. Progres: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Deselectați tot</string>
     <string name="tb_user_account_signed">Cont Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Atingeți pentru a vă conecta la contul Mi</string>
@@ -1852,6 +1854,7 @@ Actualizați acum?"</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="value_error_correct">Editați înregistrarea</string>
+    <string name="view_step_and_progress">Vedeți numărul de pași curent</string>
     <string name="visceral_fat">Grăsime viscerală</string>
     <string name="visceral_fat_descripe_content">Grăsimead viscerală este esențială pentru stabilizarea și protejarea organelor interne. Totuși, grăsimea viscerală ridicată crește riscul bolilor cardiovasculare și metabolice.</string>
     <string name="voice_remind">Am crescut volumul pentru a putea auzi mai bine instrucțiunile.</string>

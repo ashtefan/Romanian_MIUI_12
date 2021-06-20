@@ -3375,7 +3375,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="freeform_guide_notification_drop_down_summary">Apăsați și mențineți apăsat, și apoi glisați în jos bara de acțiuni a unei notificări</string>
     <string name="freeform_guide_notification_drop_down_title">Accesarea ferestrelor plutitoare</string>
     <string name="freeform_guide_settings">Ferestre plutitoare</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Apăsați lung pe partea de jos a ferestrei și trageți-o în colțul din dreapta sus</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Apăsați lung pe partea de jos a ferestrei și trageți-o în colțul din dreapta sus.
+Această caracteristică funcționează doar când navigarea în sistem este setată la gesturi."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizați o aplicație</string>
     <string name="freeform_guide_slide_up_to_close_summary">Glisați în sus bara de acțiuni a unei ferestre plutitoare</string>
     <string name="freeform_guide_slide_up_to_close_title">Închiderea ferestrelor plutitoare</string>
@@ -3451,8 +3452,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_setting_on">Pornit</string>
     <string name="gesture_settings_activity_title">Setări gesturi</string>
     <string name="gesture_settings_title">Scurtături gesturi</string>
-    <string name="gesture_wakeup_summary">Puteți atinge de două ori ecranul pentru a-l închide atunci când se utilizează tema Clasică sau implicită</string>
-    <string name="gesture_wakeup_title">Atingeți de două ori ecranul pentru a-l deschide sau închide</string>
+    <string name="gesture_wakeup_summary">Puteți atinge de două ori ecranul pentru a-l închide doar atunci când sunt aplicate temele preinstalate</string>
+    <string name="gesture_wakeup_title">Atingeți de două ori ecranul pentru a-l porni sau opri când dispozitivul este blocat</string>
     <string name="getConfiguredNetworks">obțineți configurările de rețea</string>
     <string name="getConnectionInfo">obțineți informații despre conexiune</string>
     <string name="giga_hertz">GHz</string>
@@ -4333,6 +4334,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockpassword_confirm_workspace_password">Verificați parola Spațiului pentru Servici</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirmați parola</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirmați modelul propriu</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">Confirmați codul PIN</string>
     <string name="lockpassword_confirm_your_password_details_frp">Telefonul dvs a fost resetat la configurarea din fabrică. Pentru a-l putea utiliza, introduceți parola anterioară.</string>
     <string name="lockpassword_confirm_your_password_generic">Introduceți parola dispozitivului pentru a continua.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Introduceți parola de Servici pentru a continua</string>
@@ -4703,6 +4705,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_double_click_right">Atingeți de două ori casca din dreapta</string>
     <string name="miheadset_double_press_left">Apăsați de două ori casca din stânga</string>
     <string name="miheadset_double_press_right">Apăsați de două ori casca din dreapta</string>
+    <string name="miheadset_dual_connect_mode">Conectați-vă la două dispozitive</string>
+    <string name="miheadset_dual_connect_mode_summary">Activați pentru a vă conecta căștile la două dispozitive Bluetooth simultan</string>
     <string name="miheadset_enhanceVoice">Amplificare voce</string>
     <string name="miheadset_enhence_high">Înalte îmbunătățite</string>
     <string name="miheadset_enhence_low">Bass îmbunătățit</string>
@@ -6336,7 +6340,7 @@ Interfață UT: %5$s"</string>
     <string name="remove_managed_profile_label">Eliminați profilul Servici</string>
     <string name="repeat">Repetare</string>
     <string name="repeat_call">Notifică despre apelurile repetate</string>
-    <string name="repeat_call_info">Sună sau vibrează când se primește un al doilea apel de la același număr de telefon în interval de %d minute</string>
+    <string name="repeat_call_info">Sună sau vibrează când se primește un al doilea apel de la același contact sau număr de telefon în interval de %d minute, daca modul Nu deranjați este activ</string>
     <string name="repeat_days_in_week">Repetă</string>
     <string name="repeat_never">Niciodată</string>
     <string name="repeat_title">Repetare</string>

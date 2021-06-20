@@ -1530,12 +1530,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Afişare meniu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimizare contrast pentru lumina disponibilă</item>
+        <item>Optimizare contrast pentru conținutul afișat</item>
         <item>Accentuează culorile întotdeauna</item>
         <item>Contrastul va rămâne constant</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Auto (recomandat)</item>
+        <item>Viu (recomandat)</item>
         <item>Saturat</item>
         <item>Standard</item>
     </string-array>
@@ -1685,12 +1685,12 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Animație la scara 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Se ajustează culorile în funcție de iluminarea curentă</item>
+        <item>Se ajustează culorile în funcție de conținutul afișat</item>
         <item>Se intensifică întotdeauna culorile</item>
         <item>Se restaurează culoarea standard a conținutului ecranului cu calibrarea culorii</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Automat (recomandat)</item>
+        <item>Viu (recomandat)</item>
         <item>Saturat</item>
         <item>Culoarea originală</item>
     </string-array>
