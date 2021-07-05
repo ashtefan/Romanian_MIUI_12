@@ -389,7 +389,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="loading"><CDATA>Doar o secundă…</CDATA></string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
     <string name="lock_screen_date_12">EEEE, dd MMMM</string>
-    <string name="lock_show_permission_exception">A apărut o eroare. Permiteți Caruselului de imagini de fundal să fie afișat în Blocarea ecranului din aplicația Securitate.</string>
+    <string name="lock_show_permission_exception">Permiteți Caruselului de imagini de fundal să afișeze elemente în Blocarea ecranului.</string>
     <string name="lockscreen_h5_back_tv">Înapoi</string>
     <string name="lockscreen_h5_close_tv">Oprit</string>
     <string name="lockscreen_h5_refresh_btn_tv">Reîmprospătați</string>

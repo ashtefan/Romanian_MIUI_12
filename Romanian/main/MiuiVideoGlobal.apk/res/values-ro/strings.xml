@@ -494,6 +494,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_copyright_unsported_video">Nu se poate reda videoclipul datorită restricțiilor drepturilor de autor</string>
     <string name="galleryplus_cta_tips">Ne puteți ajuta să ne îmbunătățim serviciile înrolându-vă în Programul de Experiența Utilizatorului și permițând Mi Video să se conecteze la internet. Sunteți de acord?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Atingeți de două ori din nou pentru a deschide previzualizarea HD</string>
+    <string name="galleryplus_file_edit_save">Fișier salvat în %s</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Rată de cadre nesuportată. S-a comutat la viteza obișnuită.</string>
     <string name="galleryplus_gallery_fold_tags">Ascunde marcajele</string>
     <string name="galleryplus_gallery_video_adjust_hint">Sunt suportate doar videoclipurile la 960fps</string>
@@ -1651,13 +1652,18 @@ Verificați alte videoclipuri!"</string>
     <string name="video_download_fail_hint">Nu s-a putut descărca</string>
     <string name="video_download_floating_guide">Descărcați gratuit videoclipuri</string>
     <string name="video_download_forbidden">Nu se poate descărca de pe acest site</string>
+    <string name="video_download_login_guide">Conectați-vă la %s pentru a putea descărca videoclipuri</string>
     <string name="video_download_network_error">Eroare de rețea</string>
     <string name="video_download_play_video_guide">Mai întâi, redați videoclipul.</string>
-    <string name="video_download_play_video_guide2">Apoi apăsați butonul pentru a descărca.</string>
+    <string name="video_download_play_video_guide2">Apoi apăsați butonul după ce se aprinde pentru a începe descărcarea.</string>
+    <string name="video_download_play_video_step1">Pasul %1$d</string>
+    <string name="video_download_play_video_step2">Pasul %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">Descărcare Web</string>
     <string name="video_download_start">Se descarcă…</string>
     <string name="video_download_storage_error">Nu există suficient spațiu de stocare</string>
+    <string name="video_download_title">Descărcați videoclipuri</string>
+    <string name="video_download_youtube_copyright_forbidden">Nu se pot descărca videoclipuri de pe YouTube datorită restricțiilor referitoare la drepturile de autor</string>
     <string name="video_downloading">Se descarcă…</string>
     <string name="video_live_over">Această sesiune s-a încheiat</string>
     <string name="video_noyet_download_tip">Acest video încă se descarcă</string>

@@ -140,9 +140,11 @@ Atingeți pentru a vedea"</string>
     <string name="is_go_home_summary">"Deschideți pagina de pornire a Înregistrării ecranului după ce opriți înregistrarea"</string>
     <string name="loopback_sound">Difuzor</string>
     <string name="low_battery">Încărcați acumulatorul înainte de a începe înregistrarea</string>
+    <string name="low_battery_for_pad">Încărcați acumulatorul înainte de a începe înregistrarea</string>
     <string name="low_battery_title">Acumulator descărcat</string>
     <string name="low_battery_warning">Acumulatorul este descărcat. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="low_memory">Aveți mai puțin de 1 GB spațiu de stocare disponibil. Mai puteți înregistra timp de 20 de minute.</string>
+    <string name="low_memory_for_pad">Aveți mai puțin de %1$d GB spațiu de stocare disponibil. Mai puteți înregistra timp de %2$d de minute.</string>
     <string name="low_memory_title">Spațiu de stocare insuficient</string>
     <string name="low_momery_warning">Spațiu de stocare insuficient. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="memory_not_allowed">Spațiu de stocare insuficient. Eliberați spațiu de stocare pentru a putea înregistra.</string>
@@ -350,6 +352,7 @@ Atingeți pentru a vedea"</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_recorded_file">Atingeți pentru a vedea fișierul înregistrat</string>
+    <string name="view_recorded_videos">Vedeți înregistrările</string>
     <string name="warning_recording_when_a2dp_connect">Dispozitivul dvs. nu suportă înregistrarea sunetelor de sistem cât timp se utilizează căștile Bluetooth.</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

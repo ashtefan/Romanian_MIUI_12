@@ -512,9 +512,9 @@
         <item>Nimic</item>
         <item>Utilizator nou</item>
     </string-array>
-    <string-array name="setting_home_page_show_list">
-        <item>Site-uri web</item>
-        <item>Mint Games</item>
+    <string-array name="setting_swipe_up_target">
+        <item>Căutați</item>
+        <item>Știri</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Ștergeți</item>

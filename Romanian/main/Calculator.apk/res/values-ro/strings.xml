@@ -321,8 +321,10 @@
     <string name="label_from_date">De la</string>
     <string name="label_history">Istoric</string>
     <string name="label_interest">Dobânda(procent)</string>
+    <string name="label_investment_disclaimer">Folosim o perioadă de compunere de trei luni pentru calculele recurente</string>
     <string name="label_investment_duration">Durata</string>
     <string name="label_loan_tenure">Mandatul împrumutului</string>
+    <string name="label_monthly_investment">Investiție lunară</string>
     <string name="label_months">Luni</string>
     <string name="label_no_history">Niciun element aici încă</string>
     <string name="label_powered_by">Susținut de către Calculator Mi</string>
@@ -1124,6 +1126,10 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="word_figure_unit_shi">ridica</string>
     <string name="word_figure_yuan">yuan</string>
     <string name="word_figure_zheng">întreg</string>
+    <string name="xiaomi_calculator_delete_description">Calculator este o aplicație de sistem. Nu veți putea utiliza mai multe convertoare și funcții suplimentare după ce dezinstalați aplicația.</string>
+    <string name="xiaomi_calculator_delete_title">Dezinstalați aplicația Calculator?</string>
+    <string name="xiaomi_calculator_remove_icon_description">Calculator este o aplicație de sistem. Nu veți putea utiliza mai multe convertoare și funcții suplimentare după ce veți elimina comanda rapidă de pe Ecranul principal.</string>
+    <string name="xiaomi_calculator_remove_icon_title">Eliminați \"Calculatorul\" de pe Ecranul principal?</string>
     <string name="xiaomi_connect_download_manager_fail">Conectarea la Managerul de Descărcare a eșuat. Vă rugăm să verificați dacă această aplicație are toate permisiunile acordate în Setări>Aplicații instalate.</string>
     <string name="xiaomi_external_storage_unavailable">Mediul de stocare nu este disponibil; verificați cardul SD.</string>
     <string name="xiaomi_kilobytes_unit">%1$s KB</string>

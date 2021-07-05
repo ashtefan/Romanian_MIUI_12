@@ -37,11 +37,14 @@
     <string name="add_one">(1)</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
+    <string name="added_category">Adăugată</string>
     <string name="afternoon">După amiază</string>
     <string name="aggree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare listate mai jos.</string>
     <string name="album_name">Selecția zilnică: %s</string>
     <string name="am">AM</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
+    <string name="app_all_purpose">Bine ați venit în aplicația Gestionare Fișiere! Puteți utiliza această aplicație pentru a gestiona fișierele stocate pe dispozitiv.</string>
+    <string name="app_all_purpose_pad">Bine ați venit în aplicația Gestionare Fișiere! Puteți utiliza această aplicație pentru a gestiona fișierele stocate pe dispozitiv.</string>
     <string name="app_function">Gestionarea fișierelor din telefon</string>
     <string name="app_name">Fişiere</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -61,6 +64,7 @@
     <string name="auto_play_recommend">Redați în mod automat</string>
     <string name="auto_play_recommend_tips">Redați videoclipurile în mod automat</string>
     <string name="auto_play_toast">Videoclipurile vor rula în mod automat. Puteți modifica acest lucru din setări.</string>
+    <string name="available_size">Disponibil: %s</string>
     <string name="backup_cancel">Nu, mulţumesc</string>
     <string name="backup_checkbox_msg">Crează copie de rezervă în mod automat</string>
     <string name="backup_confirm">Creare copie de rezervă</string>
@@ -81,6 +85,10 @@
     <string name="bind_phone_success_tip">Numărul de telefon a fost adăugat cu succes</string>
     <string name="bind_success_tip">Adăugat cu succes</string>
     <string name="black_list">"Sunteți blocat. Postați feedback-ul dumneavoastră pe forumul MIUI pentru a afla de ce."</string>
+    <string name="by_date">Data modificării</string>
+    <string name="by_name">Nume</string>
+    <string name="by_size">Dimensiune</string>
+    <string name="by_type">Tip</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">Nu se pot trimite aşa multe elemente odată</string>
     <string name="cancel">Anulaţi</string>
@@ -96,23 +104,29 @@
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documente</string>
     <string name="category_download">Descărcări</string>
+    <string name="category_editor_mode">Editați</string>
+    <string name="category_exit_editor_mode">Ieșiți</string>
     <string name="category_favorite">Favorite</string>
     <string name="category_file">Fișiere</string>
     <string name="category_files">Fișiere</string>
     <string name="category_installed_app">Aplicații instalate</string>
     <string name="category_midrive">MiDrive</string>
+    <string name="category_more">Mai multe</string>
     <string name="category_music">Muzică</string>
     <string name="category_other">Altele</string>
     <string name="category_photo">Fotografii</string>
     <string name="category_picture">Imagini</string>
+    <string name="category_qq">QQ</string>
     <string name="category_recent">Recente</string>
     <string name="category_source">Sursa</string>
+    <string name="category_taobao">Taobao</string>
     <string name="category_theme">Teme</string>
     <string name="category_time">Dată</string>
     <string name="category_type_document">Documente</string>
     <string name="category_type_meida">Media</string>
     <string name="category_type_other">Altele</string>
     <string name="category_video">Video</string>
+    <string name="category_wechat">WeChat</string>
     <string name="category_zip">Arhive</string>
     <string name="cdd_message">Datorită restricțiilor Android 11, nu veți putea vizualiza unele fișiere generate în aplicații terțe în Managerul de fișiere.</string>
     <string name="cdd_title">Atenție</string>
@@ -194,8 +208,7 @@
     <string name="dialog_type_video">Videoclip</string>
     <string name="disk_available">Disponibil: </string>
     <string name="disk_total">Total: </string>
-    <string name="dislike_toast">"Asemenea videoclipuri nu vă vor fi recomandate."</string>
-    <string name="dislike_video">"Nu mă interesează"</string>
+    <string name="display_setting">Elementele afișate</string>
     <string name="doc_all">Toate</string>
     <string name="doc_epub">EPUB</string>
     <string name="doc_pdf">PDF</string>
@@ -212,6 +225,7 @@
     <string name="early_morning">Dimineață</string>
     <string name="empty_comment">"Comentariul nu poate fi gol"</string>
     <string name="enable_documentsui">Activați mai întâi %s din Setări &gt; Aplicații instalate</string>
+    <string name="edit_quick_category">Editați</string>
     <string name="enable_sd_card">Introduceți cardul SD sau dezactivaţi stocarea USB</string>
     <string name="enable_usb">Conectați dispozitivul USB</string>
     <string name="encrypt_error">"Nu s-au putut ascunde fișierele; vă rog reîncercați"</string>
@@ -220,6 +234,10 @@
     <string name="encrypt_success">Toate fișierele au fost ascunse</string>
     <string name="encrypt_success_first_five">"Criptare efectuată și fișier ascuns. Glisați în jos în pagina de pornire a Exploratorului de fișiere pentru a vedea fișierele ascunse."</string>
     <string name="encrypting">Criptare…</string>
+    <string name="enter">Deschideți aplicația Gestionare Fișiere</string>
+    <string name="entry_phone_storage_internal">Stocarea internă</string>
+    <string name="entry_storage_cloned_app">Aplicații clonate</string>
+    <string name="entry_storage_usb">Dispozitiv USB</string>
     <string name="error_contains_sharer_path">"Nu se pot cripta fișierele din dosarul /MIUI/Gallery/cloud/sharer. Mutați fișierele în alt dosar și reîncercați."</string>
     <string name="error_create_dir">"Nu s-a putut crea dosarul"</string>
     <string name="error_create_file">"Nu s-a putut crea fișierul"</string>
@@ -350,6 +368,12 @@
     <string name="group_title_extra_new">Nou</string>
     <string name="guide_newfunc_content">Acum puteți filtra după formatul fișierului, rearanja elementele și comuta între modurile de vizualizare atingând scurtătura.</string>
     <string name="guide_newfunc_title">Caracteristică nouă</string>
+    <string name="guide_one_summary">Elementele recente sunt grupate după dată.</string>
+    <string name="guide_one_title">Elemente aranjate într-o cronologie</string>
+    <string name="guide_three_summary">Adăugați, eliminați și rearanjați comenzile rapide de pe paginia de pornire.</string>
+    <string name="guide_three_title">Rearanjați scurtăturile</string>
+    <string name="guide_two_summary">Fotografiile și capturile de ecran din Galerie sunt ascunse în mod implicit.</string>
+    <string name="guide_two_title">Vedeți doar elementele esențiale</string>
     <string name="hint_switch_to_grid_mode">S-a comutat la vederea tip grilă</string>
     <string name="hint_switch_to_list_mode">S-a comutat la vederea tip listă</string>
     <string name="home_action_up">Înapoi</string>
@@ -382,6 +406,7 @@
     <string name="launcher_icon_add_description">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="launcher_icon_remove_description_content">Managerul de Fișiere este o aplicație de sistem. Nu veți putea gestiona fișierele de pe dispozitiv după ce ați eliminat comanda rapidă de pe ecranul de pornire.</string>
     <string name="launcher_icon_remove_description_title">Eliminați \"Managerul de Fișiere\" de pe Ecranul principal?</string>
+    <string name="least_quick_category_hint">Adăugați cel puțin %d scurtătură</string>
     <string name="like_toast_1">Asemenea videoclipuri vă vor fi recomandate mai des.</string>
     <string name="like_toast_2">Vizualizați videoclipurile pe care le-ați apreciat.</string>
     <string name="like_toast_3">Conectați-vă pentru a vizualiza videoclipurile pe care le-ați apreciat.</string>
@@ -523,6 +548,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="most_quick_category_hint">Puteți adăuga maxim %d scurtături</string>
     <string name="move_failed">Nu s-au putut muta fișierele</string>
     <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul de fișiere să administreze fișierele mai eficient.</string>
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
@@ -572,6 +598,7 @@
     <string name="network_spent_reminding_title">Notificare trafic de date</string>
     <string name="new_comments">Comentarii noi</string>
     <string name="new_folder_name">Dosar fără nume</string>
+    <string name="next">Următorul</string>
     <string name="night">Seară</string>
     <string name="no">Nu</string>
     <string name="no_apk">Apăsați pentru a vedea cele mai populare aplicații.</string>
@@ -591,7 +618,7 @@
     <string name="no_topic">Niciun subiect</string>
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
     <string name="noon">Amiază</string>
-    <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
+    <string name="not_added_category">Disponibil</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_documentui">DocumentUI nu este suportat pe acest dispozitiv</string>
     <string name="not_use">Nu acum</string>
@@ -731,11 +758,13 @@
     <string name="qq_platform">QQ</string>
     <string name="qq_title">Nu se pot accesa documentele WeChat</string>
     <string name="qzone_platform">Qzone</string>
+    <string name="recent_hide_camera_and_screenshots">Nu afișa elementele și capturile de ecran din Galerie printre elementele recente</string>
     <string name="recommend">Recomandat</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
     <string name="refresh_success">Reîmprospătare finalizată</string>
     <string name="release_enter_private">Eliberați pentru a deschide dosarul privat</string>
+    <string name="remainder_size">Disponibil: %s</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
@@ -774,6 +803,8 @@
     <string name="save_to_local">Descărcați</string>
     <string name="search_app">Aplicații și dosare</string>
     <string name="search_app_more">Mai multe</string>
+    <string name="search_category">Căutați după categorie</string>
+    <string name="search_category_folder">Dosare</string>
     <string name="search_description">Căutați în toate fișierele din telefon</string>
     <string name="search_download">Descărcări;Descărcări recente</string>
     <string name="search_empty_view_hint">Niciun rezultat</string>
@@ -789,6 +820,7 @@
     <string name="search_keyword">Etichete</string>
     <string name="search_recent_file">Explorator fișiere;Explorator;Fișier;Fișiere;Gestionați fișierele;Gestionare fișiere</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="search_more_category">Mai multe</string>
     <string name="search_result">Rezultate</string>
     <string name="search_result_more">Mai multe</string>
     <string name="search_title">Căutare</string>
@@ -841,6 +873,12 @@
     <string name="shortcut_exists">Scurtătura există deja</string>
     <string name="shortcut_hotvideos">Videoclipuri populare</string>
     <string name="shortcut_msg">Adăugați o scurtătură pe ecranul principal pentru videoclipurile populare</string>
+    <string name="size_lv1">Mai mic de %d KB</string>
+    <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+    <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+    <string name="size_lv6">Mai mare de %d GB</string>
     <string name="skip">Omiteți</string>
     <string name="skip_file">Omiteți</string>
     <string name="smb_loading">Doar o secundă…</string>
@@ -873,6 +911,7 @@
     <string name="sort_hint_type">Sortat după tip</string>
     <string name="sort_size_asc">De la mic la mare</string>
     <string name="sort_size_desc">De la mare la mic</string>
+    <string name="start_all">Vedeți tot</string>
     <string name="start_doc">Fișiere</string>
     <string name="start_phone">Stocare</string>
     <string name="start_server">Porniţi serverul</string>
@@ -974,6 +1013,7 @@
     <string name="top_videos">Partajați evaluările</string>
     <string name="topic_follow">Urmăriți</string>
     <string name="topic_followed">Urmărit</string>
+    <string name="total_size">Total: %s</string>
     <string name="transfer">Transferuri și descărcări</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>

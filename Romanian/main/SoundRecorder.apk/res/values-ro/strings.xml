@@ -181,6 +181,7 @@
     <string name="loading_order_list_empty">Nicio comandă aici.</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">Acumulatorul dispozitivului are mai puțin de %s disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută.</string>
     <string name="low_battery_error_title">Acumulator descărcat</string>
     <string name="lyric_item_point_count">%1$d la %2$d</string>
     <string name="mark_point_list_title">Marcaje</string>
@@ -274,6 +275,7 @@
     <string name="notification_playback">Redare…</string>
     <string name="notification_recording">Înregistrare…</string>
     <string name="notification_recording_ticker">Sunete dezactivate</string>
+    <string name="notification_recording_ticker_for_pad">Dispozitivul dvs. înregistrează audio acum în modul Silențios. Utilizați butoanele de volum pentru a dezactiva modul Silențios.</string>
     <string name="notification_save_as_complete">Salvat cu succes</string>
     <string name="notification_stopped">Înregistrare oprită</string>
     <string name="notification_title_all_paused">Descărcare în pauză</string>

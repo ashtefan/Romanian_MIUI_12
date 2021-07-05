@@ -170,8 +170,8 @@
         <item quantity="one">Redă videoclipul în %1$d secundă</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d selectate</item>
-        <item quantity="one">%1$d selectat</item>
+        <item quantity="other">Au fost selectate %1$d elemente</item>
+        <item quantity="one">A fost selectat %1$d element</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">Nu ați văzut %d din videoclipurile dvs. preferate de mult timp.</item>

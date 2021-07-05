@@ -64,6 +64,7 @@
     <string name="animator_duration_scale_title">Durată scară de animație</string>
     <string name="anonymous_source_continue">Continuați</string>
     <string name="anonymous_source_warning">Telefonul dvs. și datele personale sunt mai vulnerabile la atacurile provenite de la aplicațiile necunoscute. Instalând această aplicație, sunteți de acord că vă asumați responsabilitatea pentru orice daune aduse telefonului sau pentru pierderea datelor ca urmare a utilizării ei.</string>
+    <string name="anonymous_source_warning_tablet">Dispozitivele și datele dvs. personale sunt mai vulnerabile la atacurile provenite de la aplicațiile necunoscute. Instalând această aplicație, sunteți de acord că vă asumați responsabilitatea pentru orice daune aduse telefonului sau pentru pierderea datelor ca urmare a utilizării ei.</string>
     <string name="app_install_failed_button_text">Căutați aplicații</string>
     <string name="app_name">Program de instalare a pachetelor</string>
     <string name="app_name_unknown">Necunoscut</string>
@@ -371,6 +372,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_confirm_dialog_title">Atenție</string>
     <string name="install_confirm_question">Instalaţi această aplicaţie? Va avea acces la:</string>
     <string name="install_confirm_question_des_10">Dacă vă asumați riscul și doriți să continuați instalarea, autorizați acest lucru din Securitate> Gestionați aplicațiile> Permisiuni> Aplicații cu riscuri posibile. Dacă nu găsiți \"Aplicații cu riscuri posibile\", actualizați aplicația de Securitate și încercați din nou.</string>
+    <string name="install_confirm_question_des_10_tablet">Dacă vă asumați riscul și doriți să continuați instalarea, autorizați acest lucru din Securitate> Gestionați aplicațiile> Permisiuni> Aplicații cu riscuri posibile. Dacă nu găsiți \"Aplicații cu riscuri posibile\", actualizați aplicația de Securitate și încercați din nou.</string>
     <string name="install_confirm_question_no_perms">Doriți să instalați această aplicație? Nu solicită permisiuni speciale.</string>
     <string name="install_confirm_question_update">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Aplicația actualizată va avea acces și la:</string>
     <string name="install_confirm_question_update_no_perms">Doriți să instalați o actualizare a aplicației deja instalate? Datele de utilizator vor fi păstrate. Actualizarea nu solicită permisiuni speciale.</string>
@@ -391,8 +393,10 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_failed_blocked">Instalarea pachetului a fost blocată.</string>
     <string name="install_failed_conflict">Pachetul intră în conflict cu un pachet existent cu același nume.</string>
     <string name="install_failed_incompatible">"Această aplicație nu este compatibilă cu telefonul dvs."</string>
+    <string name="install_failed_incompatible_tablet">"Această aplicație nu este compatibilă cu dispozitivul dvs."</string>
     <string name="install_failed_invalid_apk">Pachetul pare să fie corupt.</string>
     <string name="install_failed_msg">"%1$s nu a putut fi instalată pe telefonul dvs."</string>
+    <string name="install_failed_msg_tablet">"%1$s nu a putut fi instalată pe dispozitivul dvs."</string>
     <string name="install_failed_system_incompatible">Această aplicație nu este compatibilă cu MIUI"</string>
     <string name="install_finished_notification_summary">Atingeți pentru a elibera spațiu de stocare</string>
     <string name="install_finished_notification_title">%1$s s-a instalat cu succes. Puteți elibera %2$s din spațiul de stocare.</string>
@@ -758,6 +762,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
  "<li>Când o aplicație conține viruși.</li>"
  "<li>Pachetul de instalare provine dintr-o sursă necunoscută.</li></string>
     <string name="settings_warning_dialog_msg">Telefonul dumneavoastră este expus riscurilor de securitate. Nu veți mai fi atenționat să instalați versiuni sigure ale aplicațiilor dacă dezactivați această caracteristică. O dezactivați oricum?</string>
+    <string name="settings_warning_dialog_msg_tablet">Dispozitivul dumneavoastră este expus riscurilor de securitate. Nu veți mai fi atenționat să instalați versiuni sigure ale aplicațiilor dacă dezactivați această caracteristică. O dezactivați oricum?</string>
     <string name="settings_warning_dialog_title">Atenție</string>
     <string name="show_all_anrs">Afișați toate ANR-urile</string>
     <string name="show_all_anrs_summary">Afișează o fereastră de dialog pentru toate aplicațiile din fundal care nu răspund</string>
@@ -938,8 +943,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="untrusted_external_source_always_click">Permite întotdeauna</string>
     <string name="untrusted_external_source_title">Permiteți \"%1$s\" să instaleze aplicații?</string>
     <string name="untrusted_external_source_warning">Pentru siguranța dumneavoastră, nu se pot instala aplicații necunoscute din această sursă pe telefon.</string>
-    <string name="untrusted_external_source_warning_summary">Telefonul și datele dvs personale sunt vulnerabile la atacurile provenite de la aplicațiile instalate din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
-    <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
+    <string name="untrusted_external_source_warning_summary">Telefonul și datele dvs. personale sunt vulnerabile la atacurile provenite de la aplicațiile instalate din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
+    <string name="untrusted_external_source_warning_summary_tablet">Dispozitivul și datele dvs. personale sunt vulnerabile la atacurile provenite de la aplicațiile instalate din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
     <string name="usb_audio_disable_routing_summary">Dezactivați rutarea automată la perifericele audio USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizați limbile sistemului</string>
     <string name="user_guest">Gazdă</string>

@@ -1876,6 +1876,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="wifi_pad_disable_phone">Nu se pot efectua apeluri de pe acest dispozitiv</string>
     <string name="wipe_data">Ştergeţi datele</string>
     <string name="yellowPageNavigationIconLabel">Pagini Aurii</string>
     <string name="yellowPageNavigationLabel">Pagini Aurii</string>

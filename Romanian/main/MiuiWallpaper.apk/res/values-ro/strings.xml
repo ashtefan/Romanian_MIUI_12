@@ -38,6 +38,7 @@
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="download_button">Buton de descărcare</string>
     <string name="download_failed">Nu s-a putut descărca</string>
     <string name="early_morning">Dimineață</string>
     <string name="earth_id">pământ</string>

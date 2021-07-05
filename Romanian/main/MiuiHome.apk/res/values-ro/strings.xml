@@ -411,6 +411,7 @@
     <string name="launcher_icon_management">Gestionați scurtăturile de pe Ecranul principal</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="launcher_pull_down_title">Glisați în jos în Ecranul principal</string>
+    <string name="launcher_search">Căutare pe Ecranul principal</string>
     <string name="launcher_search_bar_provider_title">Furnizor bară de căutare</string>
     <string name="launcher_search_bar_title">Bara de căutare pe Ecranul principal</string>
     <string name="launcher_search_bar_value_disable">Oprită</string>

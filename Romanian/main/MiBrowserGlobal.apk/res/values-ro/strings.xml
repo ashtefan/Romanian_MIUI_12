@@ -136,6 +136,7 @@
     <string name="all">Toate</string>
     <string name="allow">Permiteţi</string>
     <string name="am">AM</string>
+    <string name="app_id">Firebase App ID(Click Pentru Export)</string>
     <string name="app_name">MarketDeveloper</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Camera</string>
@@ -798,6 +799,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="home_description">Acasă</string>
     <string name="home_feed_channel">Afișează \"Știri\" în bara de navigare</string>
     <string name="home_game_channel">Afișează \"Jocuri\" în bara de navigare</string>
+    <string name="home_list_item_click">Faceți clic pe elementul din lista de pornire</string>
     <string name="home_nf">Flux de conținut</string>
     <string name="home_nf_recommend_on">Recomandate pentru dumneavoastră</string>
     <string name="homepage_delete_card_menu">Ștergeți</string>
@@ -832,6 +834,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="input_new_pwd">Introduceți o parolă nouă</string>
     <string name="ins_login_tips">Conectați-vă pentru a descărca videoclipuri de pe Instagram</string>
     <string name="ins_register_btn">Creați un cont utilizând adresa de e-mail sau numărul de telefon</string>
+    <string name="instance_id">Firebase Instance ID(Click Pentru Export)</string>
     <string name="interest_card_button">Continuați</string>
     <string name="interest_card_title">Selectați-vă interesele</string>
     <string name="into_info_flow_guide">Vedeți mai multe articole</string>
@@ -849,6 +852,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="just_now">Chiar acum</string>
     <string name="le_download_failed_server_error">Nu s-a putut descărca datorită unei erori de server.</string>
     <string name="le_network_chagne_to_none">Deconectat de la rețea. Toate descărcările au fost întrerupte.</string>
+    <string name="list_item_click">Faceți clic pe elementul din listă</string>
     <string name="list_menu_add_to_pf">Mutați în dosarul privat</string>
     <string name="list_menu_delete_task">Ștergeți sarcina</string>
     <string name="list_menu_delete_task_and_file">Ștergeți sarcina și fișierul</string>
@@ -984,7 +988,10 @@ Trimiteți acest cod supervisorului."</string>
     <string name="more_option">Mai multe opțiuni</string>
     <string name="more_recommend">Mai multe recomandări</string>
     <string name="morning">Dimineață</string>
+    <string name="most_visited_sites">Cele mai vizitate</string>
+    <string name="most_visited_sites_switch">Afișează cele mai vizitate site-uri în pagina de pornire</string>
     <string name="move_bookmark">Mutați</string>
+    <string name="msg_token">Firebase Message Token(Click Pentru Export)</string>
     <string name="msn_ad_identification">Reclamă</string>
     <string name="msn_privacy">Declarația de confidențialitate Microsoft</string>
     <string name="msn_privacy_content">Pentru fluxul de conținut oferit de Microsoft News</string>
@@ -1698,6 +1705,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="privacy_message_welcome_tip_first">- Navigare rapidă și sigură pe web</string>
     <string name="privacy_message_welcome_tip_second">- Descărcarea de imagini și videoclipuri de pe platformele de socializare</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_reset_fail">Nu s-a putut reseta. Încercați din nou.</string>
     <string name="privacy_sub_title">Termeni și condiții</string>
     <string name="privacy_title">Bine ați venit la Mi Browser</string>
     <string name="private_title">Fișiere ascunse</string>
@@ -1752,6 +1760,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="regid">RegId(Faceți click pentru a exporta)</string>
     <string name="release_to_refresh">Eliberați pentru reîmprospătare</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
+    <string name="remote_config">Configurare de la distanță(Click Pentru Export)</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
     <string name="remove_bookmark_group">Ştergeţi grupul</string>
     <string name="remove_from_bookmarks">Eliminaţi din marcaje</string>
@@ -1885,6 +1894,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="setting_feed_language">Limba fluxului de conținut</string>
     <string name="setting_home_page_show_title">Pagina de pornire</string>
     <string name="setting_privacy_password">Setați modelul de deblocare</string>
+    <string name="setting_swipe_up">Glisați în sus în Ecranul principal</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Uite ce am partajat: %1$s</string>
@@ -2066,6 +2076,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="toast_exit_browser">Atingeți din nou pentru a ieși din browser</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="topsite_click">Faceți click pe TopSite</string>
     <string name="traffic_fail_device_limit">S-a atins limita pentru dispozitivele conectate</string>
     <string name="traffic_fail_free_no_left">Nu mai aveți trafic. Abonați-vă pentru a continua.</string>
     <string name="traffic_fail_no_left">Nu mai aveți trafic VPN</string>
@@ -2128,7 +2139,7 @@ Puteți oricând să renunțați din Setări> Confidențialitate și Securitate.
     <string name="username">Nume</string>
     <string name="uuid">UUID(Faceți click pentru a exporta)</string>
     <string name="v5_deselect_all">Deselectaţi tot</string>
-    <string name="v5_edit_mode_title_empty">0 selectate</string>
+    <string name="v5_edit_mode_title_empty">Selectați elemente</string>
     <string name="v5_select_all">Selectaţi tot</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
@@ -2157,7 +2168,7 @@ Puteți oricând să renunțați din Setări> Confidențialitate și Securitate.
     <string name="video_collection_empty">Nu există încă videoclipuri aici</string>
     <string name="video_collection_known">Am înțeles</string>
     <string name="video_collection_view">Vedeți</string>
-    <string name="video_download_complete">Descărcat cu succes</string>
+    <string name="video_download_complete">Videoclip descărcat cu succes</string>
     <string name="video_download_empty">Nu există videoclipuri</string>
     <string name="video_download_error">Eroare</string>
     <string name="video_download_error_http_gone">"Nu s-a găsit fișierul"</string>
