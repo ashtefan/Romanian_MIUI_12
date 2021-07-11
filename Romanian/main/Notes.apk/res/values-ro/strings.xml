@@ -314,6 +314,7 @@
     <string name="hide_arrow_description">Ascundeți</string>
     <string name="hint_cannot_view_hidden_note_content">"Nu se poate vedea conținutul notițelor ascunse"</string>
     <string name="hint_foler_name">Nume</string>
+    <string name="hybrid_provider">Furnizat de %1$s</string>
     <string name="image_action_annotate">Adăugați descrierea imaginii</string>
     <string name="image_action_browse">Vedeți imaginea</string>
     <string name="image_action_delete">Ștergeți imaginea</string>
@@ -431,6 +432,7 @@
     <string name="new_audio_create_talkback_des">Atingeți pentru a crea o notiță text. Apăsați și mențineți apăsat pentru a crea o notiță vocală. Eliberați butonul pentru a opri înregistrarea și a crea o notiță sau glisați în sus pentru a anula.</string>
     <string name="new_data_empty_note">Niciun element aici încă</string>
     <string name="night">Seară</string>
+    <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="noon">Amiază</string>
     <string name="not_now">Nu acum</string>
     <string name="not_set">Nesetat</string>
@@ -838,6 +840,9 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_all_notes">Vedeți tot</string>
+    <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
+    <string name="web_sso_login_message">Se conectează…</string>
+    <string name="webview_reload">Încercați din nou</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>

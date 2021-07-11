@@ -1203,6 +1203,7 @@ Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu ve�
 - Un player audio local
 
 - Servicii de streaming online"</string>
+    <string name="privacy_request_subtitle_offline">Bine ați venit în aplicația Muzică! Această aplicație furnizează un player local pentru fișierele audio.</string>
     <string name="privacy_request_title">Termeni și condiții</string>
     <string name="pro_member">Membru PRO</string>
     <string name="project_device">Telefon Mi</string>

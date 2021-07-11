@@ -109,6 +109,7 @@
     <string name="auto_play_next_off">Redarea automată este oprită</string>
     <string name="auto_play_next_on">Redarea automată este pornită</string>
     <string name="back_to_mainpage">Descoperiți</string>
+    <string name="background_playback_enabled">Redarea în fundal este activă</string>
     <string name="before_yestoday">Cu 2 zile în urmă</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
     <string name="brvah_app_name">Librărie</string>
