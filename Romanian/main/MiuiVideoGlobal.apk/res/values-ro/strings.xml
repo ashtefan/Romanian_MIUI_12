@@ -1652,6 +1652,7 @@ Verificați alte videoclipuri!"</string>
     <string name="video_download_fail">Nu s-a putut descărca videoclipul</string>
     <string name="video_download_fail_hint">Nu s-a putut descărca</string>
     <string name="video_download_floating_guide">Descărcați gratuit videoclipuri</string>
+    <string name="video_download_folder_title">Descărcări Mi Video</string>
     <string name="video_download_forbidden">Nu se poate descărca de pe acest site</string>
     <string name="video_download_login_guide">Conectați-vă la %s pentru a putea descărca videoclipuri</string>
     <string name="video_download_network_error">Eroare de rețea</string>

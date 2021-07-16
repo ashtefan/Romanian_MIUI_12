@@ -56,8 +56,11 @@
     <string name="adding_attachments_title">Se adaugă ataşamente</string>
     <string name="adding_recipients">Se adaugă destinatari…</string>
     <string name="afternoon">După amiază</string>
+    <string name="aim_show_card">Afișează cardul</string>
+    <string name="aim_show_original">Afișează mesajul</string>
     <string name="alert_dlg_cancel_button">Anulaţi</string>
     <string name="alert_dlg_ok_button">OK</string>
+    <string name="allow">OK</string>
     <string name="allow_network_hint">Activați \"Actualizați informațiile în mod automat\" sau verificați conexiunea la rețea</string>
     <string name="already_updated">La zi</string>
     <string name="am">AM</string>
@@ -118,6 +121,7 @@
     <string name="call_sender">Apelați expeditorul</string>
     <string name="can_not_send_by_rcs">Nu se poate utiliza Mesageria 5G</string>
     <string name="can_not_view_group_chat_stranger">"Nu puteți vedea detalii despre persoanele necunoscute."</string>
+    <string name="cancel">Renunțați</string>
     <string name="cannot_add_picture_and_video">Videoclipul şi fotografia nu pot fi adăugate în acelaşi diapozitiv.</string>
     <string name="cannot_add_slide_anymore">Nu se pot adăuga mai multe diapozitive</string>
     <string name="cannot_forward_drm_obj">Obiectul DRM inclus în mesaj nu poate fi redirecţionat</string>
@@ -377,6 +381,7 @@
     <string name="from_pkg_name">De la aplicația:</string>
     <string name="ft_cfs_dialog_content">Fișierele nu au putut fi livrate folosind RCS. Trimiteți în schimb un link într-un mesaj text?</string>
     <string name="ft_cfs_dialog_title">Transfer alternativ de fișiere</string>
+    <string name="go_close">Setări</string>
     <string name="go_to">"Deschideți "</string>
     <string name="google_message_promo_content">Xiaomi recomandă trecerea la Mesageria Google. Instalați-o acum pentru a putea partaja conținut media de înaltă calitate, să trimiteți mesaje prin Wi-Fi și multe altele. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></font></string>
     <string name="google_message_promo_title">Actualizați aplicația de mesagerie</string>
@@ -424,9 +429,15 @@
     <string name="invalid_destination">Adresă de destinaţie greşită.</string>
     <string name="invalid_private_contact">Contact privat greşit</string>
     <string name="invalid_recipient_message">"Corectaţi destinatarii, altfel nu vor primi mesajul."</string>
+    <string name="invisible_mode_on">Sunteți incognito</string>
     <string name="is_composing">Tastează…</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Aspect prezentare "</string>
+    <string name="leave_mms_tips_context_app">Părăsiți Mesageria și deschideți aplicația acum?</string>
+    <string name="leave_mms_tips_context_app_name">Părăsiți Mesageria și deschideți \"%s\" acum?</string>
+    <string name="leave_mms_tips_context_browser">Părăsiți Mesageria și deschideți browser-ul acum?</string>
+    <string name="leave_mms_tips_context_email">Părăsiți Mesageria și deschideți clientul de e-mail acum?</string>
+    <string name="leave_mms_tips_context_map">Părăsiți Mesageria și deschideți harta acum?</string>
     <string name="loading_all_messages">Doar o secundă…</string>
     <string name="loading_conversations">Doar o secundă…</string>
     <string name="loading_mms">Doar o secundă…</string>
@@ -758,6 +769,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_summary_on_system_mms_priority">Utilizaţi aplicaţia Mesagerie Mi ca aplicaţie prestabilită pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_privacy_authority">Comutați această opțiune pentru a acorda sau revoca autorizația</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
+    <string name="pref_summary_switch_aim_card">Afișează mesajele conținând videoclipuri, imagini și formatări complexe ca și carduri</string>
     <string name="pref_summary_voice_report">Activați pentru ca mesajele primite să fie rostite cu voce tare. Apăsați butonul Volum- sau butonul de oprire pentru a înceta redarea.</string>
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
@@ -791,6 +803,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_sms_delete">Limită mesaj text</string>
     <string name="pref_title_sms_validity_period">Expirare SMS</string>
     <string name="pref_title_storage_status">Starea stocării mesajelor</string>
+    <string name="pref_title_switch_aim_card">Convertește mesajele în carduri</string>
     <string name="pref_title_system_mms_priority">Setaţi ca prestabilit</string>
     <string name="pref_title_vcard">Trimiteţi prin vCard</string>
     <string name="pref_title_voice_report">Citiți mesajele cu voce tare</string>
@@ -1344,6 +1357,9 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="type_to_compose_text_or_leave_blank">Introduceţi mesajul sau lăsaţi necompletat</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">videoclip</string>
+    <string name="unable_connect_camera">Sunteți incognito. Nu se poate utiliza camera acum.</string>
+    <string name="unable_get_location">Sunteți incognito. Nu se pot utiliza serviciile de localizare acum.</string>
+    <string name="unable_use_microphone">Sunteți incognito. Nu se poate utiliza microfonul acum.</string>
     <string name="undelivered_msg_dialog_body">"Acest mesaj nu s-a putut trimite.
 Încercări efectuate: %s."</string>
     <string name="undelivered_msg_dialog_title">Mesaje neexpediate</string>
