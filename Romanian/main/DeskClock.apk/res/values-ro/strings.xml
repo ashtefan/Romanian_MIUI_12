@@ -71,7 +71,7 @@
     <string name="am">AM</string>
     <string name="analog_gadget">Ceas analogic</string>
     <string name="app_label">Ceas</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="auto_silence_never">Niciodată</string>
     <string name="auto_silence_summary">Setați timpul după care alarmele și temporizatoarele vor fi reduse la tăcere</string>
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>

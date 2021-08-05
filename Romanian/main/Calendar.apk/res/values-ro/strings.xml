@@ -1105,6 +1105,16 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="talk_back_read_date">%1$s (%2$s conform calendarului lunar).</string>
     <string name="talk_back_setting">Setări</string>
     <string name="talk_back_tab_switch">Comutați între vizualizări</string>
+    <string name="talkback_bengali">Bengali</string>
+    <string name="talkback_english">Engleză</string>
+    <string name="talkback_gujarati">Gujarati</string>
+    <string name="talkback_hindi">Hindi</string>
+    <string name="talkback_kannada">Kannada</string>
+    <string name="talkback_malayalam">Malayalam</string>
+    <string name="talkback_marathi">Marathi</string>
+    <string name="talkback_punjabi">Punjabi</string>
+    <string name="talkback_tamil">Tamil</string>
+    <string name="talkback_telugu">Telugu</string>
     <string name="tb_go_back_today">Reveniți la ziua de astăzi</string>
     <string name="tb_mens_month_date_selected">%1$s selectată.</string>
     <string name="tb_mens_month_date_unselected">%1$s. Atingeți pentru a selecta data.</string>

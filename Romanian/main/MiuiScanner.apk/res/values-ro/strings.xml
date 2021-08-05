@@ -485,6 +485,7 @@
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preparing_sd">Se pregătește mediul intern de stocare…</string>
     <string name="previous">Înapoi</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="processing">Se procesează…</string>
     <string name="prompt">Atenție</string>
     <string name="qr_code_details">Detalii cod QR:</string>
