@@ -157,6 +157,7 @@
     <string name="app_auth_setting_unbing_dialog_negative">Păstrați</string>
     <string name="app_bluetooth_device_type">Dispozitiv Bluetooth</string>
     <string name="app_cancel">Renunțați</string>
+    <string name="app_china_thanks_card_title">Asistență Fani Mi</string>
     <string name="app_commute_correction_button">Corect</string>
     <string name="app_commute_correction_text">\"%1$s\" este adresa %2$s dvs.?</string>
     <string name="app_commute_guide_button_text">Adăugați o adresă</string>

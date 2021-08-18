@@ -297,6 +297,7 @@
     <string name="grayscale">Scară tonuri de gri</string>
     <string name="half_covered_mode">Nemascat</string>
     <string name="hand_query">Verificați comanda</string>
+    <string name="hint_no_permissions_text">Faceți click pe butonul Setări și accesați Gestionarea permisiunilor pentru a activa permisiunea de utilizare a stocării pentru camera foto și pentru ca telefonul mobil să o utilizeze în mod normal. Scanează</string>
     <string name="history">Istoric</string>
     <string name="history_empty">Niciun element aici încă</string>
     <string name="hold_down">Apăsați și mențineți apăsat pentru a copia cuvântul</string>

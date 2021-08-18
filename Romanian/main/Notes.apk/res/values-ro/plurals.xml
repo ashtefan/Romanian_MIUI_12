@@ -84,6 +84,10 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s notițe</item>
         <item quantity="one">%1$s notiță</item>
