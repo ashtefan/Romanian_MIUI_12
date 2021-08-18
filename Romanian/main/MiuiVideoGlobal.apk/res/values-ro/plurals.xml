@@ -64,6 +64,14 @@
         <item quantity="other">%d dosare</item>
         <item quantity="one">%d dosar</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d sezoane</item>
+        <item quantity="one">%d sezon</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
         <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>

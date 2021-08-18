@@ -427,6 +427,7 @@ Paginile pe care le vizitați nu vor apărea în istoric."</string>
     <string name="data_traffic_stop">Opriți</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="debug_youtube_file">Depanați fișierul YouTube</string>
     <string name="debug_youtube_in_release">Depanare YouTube în versiune</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_bookmark">Ștergeți</string>

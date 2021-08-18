@@ -377,6 +377,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="failed_to_fetch_data">Nu s-au putut încărca informațiile.</string>
     <string name="failure">Nu s-a putut descărca</string>
+    <string name="favor_movie">Filme</string>
     <string name="favor_online_video">Videoclipuri</string>
     <string name="favor_playlist">Liste de redare</string>
     <string name="favorite">Favorite</string>
@@ -528,10 +529,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_orientation_lock">Orientare blocată cu succes</string>
     <string name="galleryplus_orientation_unlock">Orientarea ecranului este deblocată</string>
     <string name="galleryplus_permission_content">Acordați Mi Video permisiunile necesare pentru a putea utiliza această caracteristică.</string>
-    <string name="galleryplus_permission_content2">"Pentru a putea utiliza această caracteristică, mergeți la Setări > Aplicații > Mi Video > Permisiunile aplicației și permiteți Mi Video următoarele:
-
-1. Accesarea stocării
-2. Accesarea ID-ului dispozitivului"</string>
+    <string name="galleryplus_permission_content_opt">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Ștergeți toate datele aplicației din Setări și deschideți din nou aplicația.</string>
+    <string name="galleryplus_permission_content_xms">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Mergeți la Setări și acordați Mi Video permisiunile necesare.</string>
     <string name="galleryplus_permission_open_settings">Setări</string>
     <string name="galleryplus_permission_refuse">Nu, mulțumesc</string>
     <string name="galleryplus_permission_retry">Permisiuni</string>
@@ -639,6 +638,9 @@ pentru videoclipuri"</string>
     <string name="logo_neverthink">Curat de Neverthink.tv</string>
     <string name="logout">Deconectați-vă</string>
     <string name="logout_account">Deconectați-vă</string>
+    <string name="long_video_no_more_content">Asta e tot pentru moment</string>
+    <string name="long_video_watch_on">Fiți pe fază</string>
+    <string name="long_video_you_may_also_like">V-ar putea place și</string>
     <string name="lp_base_folder">Card SD</string>
     <string name="lp_play_mode_list_loop">Redați în buclă tot</string>
     <string name="lp_play_mode_pause">Redați unul</string>
@@ -918,6 +920,7 @@ pentru videoclipuri"</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
     <string name="order_recently_updated">Actualizate recent</string>
+    <string name="out_of_memory_background_playback_is_suspended">S-a oprit redarea în fundal datorită memoriei insuficiente</string>
     <string name="ovp_alert_dialog_download_install_task">Se descarcă supliment HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Încărcare tampon…</string>
     <string name="ovp_category">Categorii</string>
