@@ -427,7 +427,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_now">Deschideți</string>
     <string name="other_settings">Alte setări</string>
-    <string name="other_warning_settings">Alte avertizări</string>
+    <string name="pad_keyboard_add_city">Adăugați o locație</string>
+    <string name="pad_keyboard_left_switch">Locația anterioară</string>
+    <string name="pad_keyboard_right_switch">Locația următoare</string>
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>

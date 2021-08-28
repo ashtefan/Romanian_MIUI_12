@@ -30,6 +30,9 @@
     <string name="accessibility_back">Înapoi</string>
     <string name="accessibility_desc_close">Închideți</string>
     <string name="accessibility_desc_edit">Editați</string>
+    <string name="accessibility_description_hours">Ore</string>
+    <string name="accessibility_description_minutes">Minute</string>
+    <string name="accessibility_description_seconds">Secunde</string>
     <string name="accessibility_menu">Meniu</string>
     <string name="accessibility_quick_settings_page">Pagina %1$d din %2$d</string>
     <string name="accessibility_volume_collapse">Restrângeți</string>
@@ -38,6 +41,7 @@
     <string name="afternoon">După amiază</string>
     <string name="already_in_small_freeform">Unele aplicații sunt deschise în ferestre plutitoare</string>
     <string name="am">AM</string>
+    <string name="app_name">Extensie interfață de sistem</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -163,6 +167,8 @@
     <string name="hearing_assist_transmission_tips_title">Monitor intraauricular live</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="item_view_role_description">Filă</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">Modul Silențios este dezactivat. Apelurile și notificările nu vor mai fi reduse la tăcere.</string>
+    <string name="kddi_miui_toast_zen_to_standard">S-a comutat la Modul Silențios. Apelurile și notificările vor fi reduse la tăcere.</string>
     <string name="loading">Stare necunoscută</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
@@ -182,9 +188,11 @@
     <string name="miui_ringer_total">Nu deranjați</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, cu excepția alarmei</string>
     <string name="miui_toast_zen_dnd_to_off">Apelurile și notificările nu vor mai fi reduse la tăcere</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Notificările nu mai sunt reduse la tăcere</string>
     <string name="miui_toast_zen_standard_to_off">Modul Silențios este dezactivat</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modul Silențios este dezactivat acum. Sunetele de apel, precum și sunetele pentru notificări și cele multimedia vor fi redate.</string>
     <string name="miui_toast_zen_to_dnd">Apelurile și notificările vor fi reduse la tăcere</string>
+    <string name="miui_toast_zen_to_dnd_T">Notificările vor fi reduse la tăcere</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Apelurile și notificările vor fi reduse la tacere atunci când dispozitivul este blocat</string>
     <string name="miui_toast_zen_to_standard">Modul silențios este activat</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S-a comutat la modul Silențios. Sunetele de apel, precum și cele pentru notificări și sunete multimedia sunt reduse la tăcere acum.</string>
@@ -298,8 +306,9 @@
     <string name="quick_settings_pcmode_turn_off_description">Conținutul de pe ecranul telefonului va fi afișat pe monitorul extern. Dezactivați modul PC?</string>
     <string name="quick_settings_pcmode_turn_on_description">Conținutul de pe ecranul computerului va fi afișat pe monitorul extern. Activați modul PC?</string>
     <string name="quick_settings_scanner_label">Scaner</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,personalizat(com.miui.screenrecorder/.service.QuickService),scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),mod pc, personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
-    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,mod pc,mod energie,freeformhang,vibrare,hotspot,sincronizare,butoane ecran,putere wireless,nfc,editare,mod mașină,hearingassisttile</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,personalizat(com.miui.screenrecorder/.service.QuickService),scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),mod pc, personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,personalizat(com.xiaomi.aiasst.vision/.control.translation.AiTranslateTileService),mod energie,freeformhang,vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,dolbyatomssound,editare</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,mod pc,uwb_shp,mod energie,freeformhang,vibrare,hotspot,sincronizare,butoane ecran,putere wireless,nfc,dolbyatomssound,editare,mod mașină,hearingassisttile</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_wireless_label">Încărcare inversă wireless</string>
     <string name="reboot_info_auto_boot">Alarma următoare: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarmă oprire: %s</string>

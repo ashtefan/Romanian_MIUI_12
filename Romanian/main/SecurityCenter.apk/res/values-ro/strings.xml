@@ -2328,7 +2328,7 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
-    <string name="menu_text_optimize_manage_1">Creșteți viteza telefonului</string>
+    <string name="menu_text_optimize_manage_1">Creșteți viteza telef.</string>
     <string name="menu_text_power_manager">Acumulator</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>

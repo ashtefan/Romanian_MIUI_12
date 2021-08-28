@@ -613,6 +613,7 @@ pentru videoclipuri"</string>
     <string name="live_tv_title">TV Live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="local_play_tip">Se redă videoclipul local</string>
+    <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
     <string name="local_push_title">Populare astăzi</string>
     <string name="local_video_create_a_new_playlist">Listă de redare nouă</string>
     <string name="local_video_date">Dată</string>
@@ -1586,6 +1587,7 @@ Verificați alte videoclipuri!"</string>
     <string name="type_issue">Problemă</string>
     <string name="type_suggestion">Sugestie</string>
     <string name="ugc_no_net">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
+    <string name="ui_common_title_back">Înapoi</string>
     <string name="ui_log_tip">Atingeți această zonă pentru a ascunde, atingeți și mențineți apăsat pentru a șterge jurnalele vechi. Trageți jurnalele manual.</string>
     <string name="unknow">Necunoscut</string>
     <string name="unknown_error_info">Eroare necunoscută</string>

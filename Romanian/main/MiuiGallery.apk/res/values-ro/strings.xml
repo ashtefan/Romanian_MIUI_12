@@ -462,6 +462,9 @@
     <string name="clip_speedX_3.0x">3,0x</string>
     <string name="close">Închideți</string>
     <string name="close_dialog_desc">Închideți căsuța de dialog</string>
+    <string name="cloud_action_open">Activați</string>
+    <string name="cloud_action_upgrade">Actualizați</string>
+    <string name="cloud_action_view">Vedeți</string>
     <string name="cloud_authorize_to_share_to_device">Autorizați vizualizarea elementelor pe televizoarele asociate contului dvs Mi</string>
     <string name="cloud_authorizing_to_device">Se autorizează…</string>
     <string name="cloud_backup_enable_title">Sincronizați</string>
@@ -914,7 +917,9 @@ efecte pentru fotografii"</string>
     <string name="filter_popular_coffee">Cafea</string>
     <string name="filter_popular_coldsmoke">Ceață rece</string>
     <string name="filter_popular_comic">Animație</string>
+    <string name="filter_popular_cyan">Brebenoc</string>
     <string name="filter_popular_dream">Reverie</string>
+    <string name="filter_popular_french">Montmartre</string>
     <string name="filter_popular_freshfood">Gurmand</string>
     <string name="filter_popular_gingertea">Ghimbir</string>
     <string name="filter_popular_hill">Dealuri</string>
@@ -924,6 +929,7 @@ efecte pentru fotografii"</string>
     <string name="filter_popular_lnk">Cerneală</string>
     <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_pinellia">Pinellia</string>
+    <string name="filter_popular_polaroid">Fotografie instant</string>
     <string name="filter_popular_purple">Violet</string>
     <string name="filter_popular_shallow_summer">Iunie</string>
     <string name="filter_popular_smokegreen">Salvie</string>
@@ -1709,6 +1715,11 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_editor_crop_auto_tips">Decupată în mod automat</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
+    <string name="photo_editor_crop_size_former_latter" formatted="false">%d:%d</string>
+    <string name="photo_editor_crop_size_free">Personalizat</string>
+    <string name="photo_editor_crop_size_fullscreen">Ecran complet</string>
+    <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
+    <string name="photo_editor_crop_size_origin">Original</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
     <string name="photo_editor_filter">Filtru</string>
     <string name="photo_editor_font_default">Mi Lanting (Obișnuit)</string>
@@ -1829,6 +1840,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_purge_dialog_message_video">Nu veți putea restaura elementele dacă le ștergeți. Le ștergeți oricum?</string>
     <string name="photo_save_to_msg">Salvată în %s</string>
     <string name="photo_size_not_support">Această rezoluție a imaginii nu este suportată</string>
+    <string name="photo_video_count">%1$s și %2$s</string>
     <string name="photo_vlog_module_finish">Editorul video a fost descărcat cu succes</string>
     <string name="photo_vlog_module_loading">Se descarcă editorul video…</string>
     <string name="photodetail_failed_already_exist">Acest fișier există deja</string>
@@ -2025,6 +2037,21 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="screen_save_dialog_btn_cancel">Renunțați</string>
     <string name="screen_save_dialog_btn_delete">Ștergeți captura de ecran</string>
     <string name="screen_save_dialog_btn_save">Salvați în Galerie</string>
+    <string name="screen_talkback_a_little_large">Mare</string>
+    <string name="screen_talkback_a_little_small">Mică</string>
+    <string name="screen_talkback_alpha_x">Opacitate %s</string>
+    <string name="screen_talkback_color_x">Culoare %d</string>
+    <string name="screen_talkback_eraser">Radieră</string>
+    <string name="screen_talkback_large">Foarte mare</string>
+    <string name="screen_talkback_mark">Marcator</string>
+    <string name="screen_talkback_medium">Medie</string>
+    <string name="screen_talkback_mosaic">Mozaic</string>
+    <string name="screen_talkback_mosaic_size_x">Aria mozaicului: %s</string>
+    <string name="screen_talkback_pen">Stilou</string>
+    <string name="screen_talkback_row_x_column_x">Rândul %1$d. Poziția %2$d.</string>
+    <string name="screen_talkback_shape">Formă</string>
+    <string name="screen_talkback_small">Foarte mic</string>
+    <string name="screen_talkback_text">Text</string>
     <string name="search_backup_full_screen">Activați sincronizarea în cloud pentru a găsi mai multe persoane și obiecte</string>
     <string name="search_backup_full_screen_new">Activați sincronizarea în cloud pentru a face căutarea mai eficientă</string>
     <string name="search_backup_now">Activați</string>
