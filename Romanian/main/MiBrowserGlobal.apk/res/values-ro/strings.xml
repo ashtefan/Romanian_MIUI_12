@@ -1048,10 +1048,11 @@ Trimiteți acest cod supervisorului."</string>
     <string name="mw_accessibility_time_picker_minute">Minut</string>
     <string name="mw_accessibility_time_picker_second">Secundă</string>
     <string name="mw_actionbar_share">Partajați</string>
-    <string name="mw_actionbar_textselection_title">Selecție text</string>
+    <string name="mw_actionbar_textselection_title">Selectare text</string>
     <string name="mw_actionbar_web_search">Căutare web</string>
     <string name="mw_add_to_dictionary">Adăugați în dicționar</string>
-    <string name="mw_autofill_popup_content_description">Se afișează fereastra Completare automată</string>
+    <string name="mw_autofill_popup_content_description">Se afișează balonul de Completare automată</string>
+    <string name="mw_chip_remove_icon_content_description">Eliminați '%1$s'</string>
     <string name="mw_color_picker_button_black">Negru</string>
     <string name="mw_color_picker_button_blue">Albastru</string>
     <string name="mw_color_picker_button_cancel">Renunțați</string>
@@ -1112,8 +1113,8 @@ Rezultatul așteptat:
 ID-ul erorii: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">Eroare WebView</string>
     <string name="mw_crashes_num">Erori (%1$d)</string>
-    <string name="mw_data_traffic_prompt_change">"Utilizarea datelor mobile pentru vizionarea videoclipurilor va crește utilizarea datelor. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar."</string>
-    <string name="mw_data_traffic_prompt_message">"Utilizarea datelor mobile pentru căutarea videoclipurilor va crește utilizarea datelor. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar."</string>
+    <string name="mw_data_traffic_prompt_change">"Utilizarea datelor mobile pentru vizionarea videoclipurilor va crește utilizarea datelor. Dacă depășiți limita planului de date, operatorul vă poate taxa suplimentar."</string>
+    <string name="mw_data_traffic_prompt_message">"Utilizarea datelor mobile pentru căutarea videoclipurilor va crește utilizarea datelor. Dacă depășiți limita planului de date, operatorul vă poate taxa suplimentar."</string>
     <string name="mw_data_traffic_prompt_message_short">Utilizarea datelor mobile pentru a reda videoclipuri online poate duce la depășirea planului de date mobile.</string>
     <string name="mw_data_traffic_prompt_title">Avertisment utilizare date</string>
     <string name="mw_date_picker_dialog_clear">Goliți</string>
@@ -1128,12 +1129,13 @@ ID-ul erorii: http://crash/%1$s"</string>
 
 Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">Rămâneți pe această pagină</string>
-    <string name="mw_js_dialog_before_unload_positive_button">Părăsiți pagina</string>
-    <string name="mw_js_dialog_before_unload_title">Confirmare navigare</string>
+    <string name="mw_js_dialog_before_unload_positive_button">Părăsiți această pagină</string>
+    <string name="mw_js_dialog_before_unload_title">Confirmați navigarea</string>
     <string name="mw_js_dialog_title">Pagina \" %s \" transmite:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Luna trecută</string>
     <string name="mw_license_activity_title">Licențe System WebView</string>
+    <string name="mw_link_copied">Link copiat</string>
     <string name="mw_low_memory_error">Nu s-a putut finaliza operația anterioară datorită memoriei insuficiente</string>
     <string name="mw_menu_refresh">Reîmprospătați</string>
     <string name="mw_miui_content_copy">Copiați</string>
@@ -1228,7 +1230,7 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_no_matches">Nicio potrivire</string>
     <string name="mw_older">Mai vechi</string>
     <string name="mw_opening_file_error">Nu s-a putut deschide fișierul selectat</string>
-    <string name="mw_permission_alert_window">Pentru a utiliza această caracteristică, deschideți fereastra pop-up.</string>
+    <string name="mw_permission_alert_window">Pentru a utiliza această caracteristică, vă rugăm să deschideți fereastra pop-up de sistem cu opțiuni.</string>
     <string name="mw_permission_unknown">Opțiune Necunoscută</string>
     <string name="mw_private_browsing_warning">Această funcție nu este suportată în versiunea Android curentă.</string>
     <string name="mw_profiler_error_toast">Nu s-a putut porni profiler</string>
@@ -1240,6 +1242,7 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_save_password_notnow">Nu acum</string>
     <string name="mw_save_password_remember">Reține</string>
     <string name="mw_search_menu_title">Căutați</string>
+    <string name="mw_speech_recognition_service_not_found">Motorul de căutare vocală Google nu poate fi găsit</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
@@ -1248,13 +1251,13 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_time_picker_dialog_title">Setați ora</string>
     <string name="mw_url_copied">URL copiat.</string>
     <string name="mw_video_buffering_percent">"Încărcare "</string>
-    <string name="mw_video_download_no_permission">Sunt necesare unele permisiuni pentru descărcarea articolelor</string>
-    <string name="mw_video_float_drag_scale_msg">Trageți pentru a scala</string>
+    <string name="mw_video_download_no_permission">nu există permisiunea pentru descărcare</string>
+    <string name="mw_video_float_drag_scale_msg">trageți pentru a scala</string>
     <string name="mw_video_float_window">Pop-up</string>
-    <string name="mw_video_float_window_playing">Se redă videoclipul în modul imagine-în-imagine…</string>
-    <string name="mw_video_play_error">"Nu s-a putut reda videoclipul"</string>
+    <string name="mw_video_float_window_playing">Videoclipul este redat în modul fereastră plutitoare</string>
+    <string name="mw_video_play_error">Nu s-a putut reda videoclipul</string>
     <string name="mw_webview_find_on_page">Găsiți în pagină</string>
-    <string name="mw_webviewchromium_private_browsing_warning">Această funcție nu este suportată în această versiune Android.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">Această funcție nu este suportată în versiunea curentă Android.</string>
     <string name="mw_week_picker_dialog_title">Setați săptămâna</string>
     <string name="my_account">Contul meu</string>
     <string name="my_cahnnel">Canalele mele</string>

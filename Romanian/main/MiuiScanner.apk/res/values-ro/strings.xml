@@ -190,6 +190,7 @@
     <string name="error_empty_result">"Nu s-au găsit rezultate"</string>
     <string name="error_get_image">"Nu s-a putut obține imaginea"</string>
     <string name="error_media_storage_failure">"Nu s-a putut salva fotografia"</string>
+    <string name="error_not_found_activity">Nu s-a găsit nicio aplicație pentru a deschide în format .PDF</string>
     <string name="error_permissions">"Aplicația Scaner nu are permisiunile necesare pentru a funcționa normal. Mergeți la Setări și acordați permisiunile necesare pentru a continua."</string>
     <string name="error_server_error">A apărut o eroare de server.</string>
     <string name="evening">După amiază</string>
@@ -461,6 +462,7 @@
     <string name="pdf_is_being_saved">Se salvează pdf-ul</string>
     <string name="pdf_name">Numele fișierului</string>
     <string name="pdf_save_sucess">Salvat cu succes</string>
+    <string name="personalassistant_not_install">Această caracteristică nu este suportată încă!</string>
     <string name="phone">Telefon:</string>
     <string name="phone_can_not_be_empty">Numărul de telefon nu poate rămâne necompletat</string>
     <string name="phone_number">Număr de telefon</string>

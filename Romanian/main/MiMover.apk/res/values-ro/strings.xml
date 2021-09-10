@@ -889,6 +889,9 @@ Descărcați și instalați Mi Mover."</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de descărcare a eșuat. Vă rugăm să verificați starea Managerului de descărcare din Managementul aplicațiilor.</string>

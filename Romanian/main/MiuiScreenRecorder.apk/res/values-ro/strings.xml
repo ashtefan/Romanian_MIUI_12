@@ -246,7 +246,9 @@ Atingeți pentru a vedea"</string>
     <string name="settings_other">Altele</string>
     <string name="settings_privacy">Politica de Confidențialitate</string>
     <string name="show_hard_key">Afișează butoanele de navigare</string>
+    <string name="show_hard_key_new">Afișează atingerile butoanelor</string>
     <string name="show_hard_key_summary">Se indică apăsarea butoanelor Acasă, Meniu și Înapoi</string>
+    <string name="show_hard_key_summary_new">Vizualizați atingerile butoanelor de navigare</string>
     <string name="show_screen_touch">Afișează atingerile ecranului</string>
     <string name="show_screen_touch_summary">Se indică atingerile ecranului printr-un punct alb</string>
     <string name="size_byte">B</string>

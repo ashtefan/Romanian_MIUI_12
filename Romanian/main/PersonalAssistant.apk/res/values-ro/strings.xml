@@ -606,6 +606,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="btn_back">Înapoi</string>
     <string name="btn_more">Mai multe</string>
     <string name="bus_code">Transport în comun</string>
+    <string name="calc_convert">Convertiți</string>
     <string name="calc_currency">Rata de schimb</string>
     <string name="calc_name">Calculator științific</string>
     <string name="calc_num">Simboluri financiare</string>

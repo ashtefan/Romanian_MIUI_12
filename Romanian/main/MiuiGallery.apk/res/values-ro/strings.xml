@@ -206,6 +206,7 @@
     <string name="app_name_view_picture">Vizualizare imagini</string>
     <string name="app_name_view_video">Vizualizare videoclipuri</string>
     <string name="app_summary">Gestionarea și editarea fotografiilor dumneavoastră de pe dispozitiv și din Xiaomi Cloud</string>
+    <string name="app_summary_2">Stocarea, gestionarea și editarea fotografiilor și a videoclipurilor de pe acest dispozitiv</string>
     <string name="apply">Aplicați</string>
     <string name="art_still_cancel_download">Renunțați</string>
     <string name="art_still_download">Descărcați</string>
@@ -570,6 +571,8 @@
     <string name="create_quick_icon_on_desk">Creaţi o comandă rapidă</string>
     <string name="creating_baby_album">Creare album…</string>
     <string name="crop_label">Fotografii trunchiate</string>
+    <string name="cta_agreement_declare"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și modurile în care utilizăm datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza această aplicație.</Data></string>
+    <string name="cta_network_declare">Pentru a sincroniza fotografiile și videoclipurile în Xiaomi Cloud, această aplicație trebuie să se conecteze la internet.</string>
     <string name="custom_select_title_deselect_all">Deselectați</string>
     <string name="custom_select_title_quickly_share">Partajați</string>
     <string name="custom_select_title_select_all">Selectați tot</string>
@@ -1098,11 +1101,18 @@ efecte pentru fotografii"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Setați</string>
+    <string name="grant_permission_go_and_set_2">Setări</string>
+    <string name="grant_permission_go_and_set_3">Setări</string>
+    <string name="grant_permission_shortcut">Permiteți mai întâi acestei aplicații să creeze scurtături pe Ecranul principal.</string>
+    <string name="grant_permission_storage">Permiteți mai întâi acestei aplicații să acceseze stocarea.</string>
+    <string name="grant_permission_storage_unlock">Mai întâi deblocați dispozitivul și permiteți acestei aplicații să acceseze stocarea.</string>
     <string name="grant_permission_text">"Galeria necesită accesul la 
 %s
  pentru a funcționa normal, atingeți \"Setări\" pentru a merge la Permisiuni."</string>
     <string name="grant_permission_title">Permiteți accesul</string>
     <string name="grant_permission_unlock_and_set">Deblocați și setați</string>
+    <string name="grant_permission_unlock_and_set_2">Deblocați</string>
+    <string name="grant_permission_write_clipboard">Pentru a putea copia elemente, permiteți acestei aplicații să salveze elemente în clipboard.</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
     <string name="hello_blank_fragment">Salutare fragment gol</string>
@@ -1688,14 +1698,22 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
   <string name="people_mark_mode_title_no_mark_name">Selectați o persoană</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
+    <string name="permission_account_desc">Pentru autentificare și gestionarea contului sistemului</string>
+    <string name="permission_account_name">Accesarea conturilor</string>
+    <string name="permission_clipboard_desc">Pentru accesarea și salvarea elementelor în clipboard</string>
+    <string name="permission_clipboard_name">Accesarea sau salvarea elementelor în clipboard</string>
     <string name="permission_contacts_desc">Pentru atribuirea numelor persoanelor din fotografii</string>
+    <string name="permission_contacts_desc_2">Pentru asocierea persoanelor din fotografii cu agenda</string>
     <string name="permission_contacts_name">Contacte</string>
+    <string name="permission_contacts_name_2">Accesarea contactelor</string>
     <string name="permission_optional_category">Permisiuni opționale</string>
     <string name="permission_phone_desc">Pentru solicitări de rețea bazate pe ID-ul dispozitivului</string>
     <string name="permission_phone_name">Telefon</string>
     <string name="permission_require_category">Permisiuni obligatorii</string>
+    <string name="permission_storage_desc">Pentru stocarea, afișarea, editarea, sincronizarea și descărcarea fotografiilor și a videoclipurilor</string>
     <string name="permission_storage_desc">Pentru afișarea, editarea și salvarea fotografiilor</string>
     <string name="permission_storage_name">Stocare</string>
+    <string name="permission_storage_name_2">Accesarea și salvarea fotografiilor și a fișierelor pe dispozitiv</string>
     <string name="permission_use_desc">Permisiuni</string>
     <string name="pet_album_display_name">Fotografiile animalelor de companie</string>
     <string name="petabyteShort">PB</string>

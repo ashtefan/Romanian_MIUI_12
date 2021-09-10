@@ -115,6 +115,10 @@
         <item quantity="other">Ștergeți %1$s fotografii de pe toate dispozitivele?</item>
         <item quantity="one">Ștergeți %1$s fotografie de pe toate dispozitivele?</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">La fiecare %d zile</item>
+        <item quantity="one">La fiecare %d zi</item>
+    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>S-au eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> melodii)&lt;/Data></item>
         <item quantity="one">&lt;Data>S-a eliberat &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficient pentru &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> melodie)&lt;/Data></item>
@@ -166,6 +170,10 @@
     <plurals name="install_find_application_num">
         <item quantity="other">S-au găsit %d aplicații</item>
         <item quantity="one">S-a găsit %d aplicație</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Ultimele %d zile</item>
+        <item quantity="one">Ultima %d zi</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>

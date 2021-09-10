@@ -152,9 +152,9 @@
         <item quantity="other">%1$d în plus</item>
         <item quantity="one">%1$d în plus</item>
     </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">Mutați %1$d conversații</item>
-        <item quantity="one">Mutați conversația</item>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Afișează %1$d mesaje noi.</item>

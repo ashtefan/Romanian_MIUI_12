@@ -472,10 +472,12 @@
     <string name="goto_set">Setare</string>
     <string name="grabage_rank_title">Curățat astăzi</string>
     <string name="guide_dc_dialog_message">"Aveți mai puțin de 2GB spațiu liber de stocare. Acest lucru v-ar putea încetini telefonul. Faceți o curățare profundă pentru a elibera spațiu de stocare."</string>
+    <string name="guide_dc_dialog_message_new">Aveți mai puțin de %d GB spațiu liber de stocare. Acest lucru v-ar putea încetini telefonul. Faceți o curățare profundă pentru a elibera spațiu de stocare.</string>
     <string name="guide_dc_dialog_negative">Renunțați</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Spațiul de stocare este redus</string>
     <string name="guide_secure_dialog_message">Scorul de optimizare al telefonului este sub 80 de puncte. Optimizați acum?</string>
+    <string name="guide_secure_dialog_message_new">Scorul de optimizare al telefonului este mai mic de %d puncte. Optimizați acum?</string>
     <string name="guide_secure_dialog_negative">Renunțați</string>
     <string name="guide_secure_dialog_positive">Optimizați</string>
     <string name="guide_secure_dialog_title">Optimizați performanța</string>
@@ -561,6 +563,7 @@
     <string name="long_click_dialog_summary">Apăsați lung pentru a adăuga în lista de excepții.</string>
     <string name="long_click_dialog_title">Aviz</string>
     <string name="low_memory_clean_dialog_msg">Trebuie să curățați mai întâi cel puțin 100 MB</string>
+    <string name="low_memory_clean_dialog_msg_new">Eliberați mai întâi cel puțin %d MB de fișiere</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">Nu mai există suficient spațiu de stocare disponibil</string>
     <string name="low_memory_warning_dialog_cancel_button">Renunțați</string>
@@ -974,8 +977,11 @@
     <string name="time_picker_label_minute">M</string>
     <string name="tips_low_storage_dialog_cancel">Renunțați</string>
     <string name="tips_low_storage_dialog_msg_qq">Cache-ul QQ a atins 3 GB. Acest lucru poate încetini telefonul. Goliți cache-ul QQ acum?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">Cache-ul QQ a atins %d GB. Acest lucru poate încetini telefonul. Goliți cache-ul QQ acum?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Utilizați 90% din spațiul de stocare. Dezinstalați aplicațiile pe care nu le utilizați."</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">Utilizați %s din spațiul de stocare. Dezinstalați aplicațiile pe care nu le utilizați.</string>
     <string name="tips_low_storage_dialog_msg_wechat">Cache-ul WeChat a atins 3 GB. Acest lucru poate încetini telefonul. Goliți cache-ul WeChat acum?</string>
+    <string name="tips_low_storage_dialog_msg_wechat_new">Cache-ul WeChat a atins %d GB. Acest lucru poate încetini telefonul. Goliți cache-ul WeChat acum?</string>
     <string name="tips_low_storage_dialog_ok">Goliți</string>
     <string name="tips_low_storage_dialog_ok_storage">Goliți spațiul de stocare</string>
     <string name="tips_low_storage_dialog_title">Spațiul de stocare este redus</string>
@@ -1145,6 +1151,9 @@
     <string name="wqfile_group_chat_pic">Imagini din servicii de mesaje</string>
     <string name="wqfile_group_chat_video">Videoclipuri din servicii de mesaje</string>
     <string name="wqfile_group_chat_voice">Mesaje vocale</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>
