@@ -553,6 +553,10 @@
     <string name="navigation_guide_recent_summary">Glisați în sus de la baza ecranului și opriți-vă</string>
     <string name="navigation_guide_recent_title">Deschideți fila Recente</string>
     <string name="navigation_guide_settings">Demonstrații gesturi</string>
+    <string name="navigation_set_miui_home_as_default_dialog_cancel">Renunțați</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">Nu se pot utiliza gesturile pe ecranul complet când se folosește un lansator terță parte. Comutați la lansatorul de sistem și activați gesturile în ecran complet?</string>
+    <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
+    <string name="navigation_set_miui_home_as_default_dialog_title">Atenție</string>
     <string name="navigation_type_full_screen">Gesturi</string>
     <string name="navigation_type_title">Navigare în sistem</string>
     <string name="navigation_type_virtual_key">Butoane</string>
@@ -647,10 +651,10 @@
     <string name="recommend_app">Sugestii pentru aplicații</string>
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_no_data">Nu există date</string>
-    <string name="recommend_apps_no_data_toast">Nicio recomandare deocamdată.</string>
-    <string name="recommend_apps_notice">Aplicaţii promovate</string>
-    <string name="recommend_apps_notice_nodata">Aplicații promovate (Nu există date)</string>
-    <string name="recommend_apps_switch_title">Aplicaţii promovate</string>
+    <string name="recommend_apps_no_data_toast">Niciun element în \"Recomandările zilei\" încă</string>
+    <string name="recommend_apps_notice">Recomandările zilei</string>
+    <string name="recommend_apps_notice_nodata">Recomandările zilei (niciun element)</string>
+    <string name="recommend_apps_switch_title">Recomandările zilei</string>
     <string name="recommend_apps_tips">"Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar."</string>
     <string name="recommend_loading">Încărcare</string>
     <string name="recommend_refresh">Reîmprospătați</string>

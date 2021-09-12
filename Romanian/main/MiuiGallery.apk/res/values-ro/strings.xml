@@ -1711,7 +1711,6 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="permission_phone_name">Telefon</string>
     <string name="permission_require_category">Permisiuni obligatorii</string>
     <string name="permission_storage_desc">Pentru stocarea, afișarea, editarea, sincronizarea și descărcarea fotografiilor și a videoclipurilor</string>
-    <string name="permission_storage_desc">Pentru afișarea, editarea și salvarea fotografiilor</string>
     <string name="permission_storage_name">Stocare</string>
     <string name="permission_storage_name_2">Accesarea și salvarea fotografiilor și a fișierelor pe dispozitiv</string>
     <string name="permission_use_desc">Permisiuni</string>

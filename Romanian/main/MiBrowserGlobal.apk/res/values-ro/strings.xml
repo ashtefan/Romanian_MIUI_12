@@ -1052,7 +1052,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="mw_actionbar_web_search">Căutare web</string>
     <string name="mw_add_to_dictionary">Adăugați în dicționar</string>
     <string name="mw_autofill_popup_content_description">Se afișează balonul de Completare automată</string>
-    <string name="mw_chip_remove_icon_content_description">Eliminați '%1$s'</string>
+    <string name="mw_chip_remove_icon_content_description">"Eliminați '%1$s'"</string>
     <string name="mw_color_picker_button_black">Negru</string>
     <string name="mw_color_picker_button_blue">Albastru</string>
     <string name="mw_color_picker_button_cancel">Renunțați</string>

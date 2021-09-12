@@ -56,7 +56,7 @@
     <string name="action_item_favorite">Favorit</string>
     <string name="action_item_follow">Urmăriţi</string>
     <string name="action_item_hide">Ascundeţi</string>
-    <string name="action_item_hifi">Căști și efecte audio</string>
+    <string name="action_item_hifi">Căști</string>
     <string name="action_item_multiple">Editaţi</string>
     <string name="action_item_play_all">Amestecați tot</string>
     <string name="action_item_play_next">Redați mai târziu</string>
@@ -67,6 +67,7 @@
     <string name="action_item_share">Distribuiţi</string>
     <string name="action_settings">Setări</string>
     <string name="actionbar_button_up_description">Înapoi</string>
+    <string name="add">Adăugați</string>
     <string name="ad_close">Închideți</string>
     <string name="ad_data_exception">Eroare date promoții</string>
     <string name="ad_extension">Promoții</string>
@@ -321,6 +322,7 @@
     <string name="dialog_cannot_resume">"Descărcarea s-a întrerupt și nu poate fi reluată."</string>
     <string name="dialog_clear_history">Goliți lista de melodii recent redate?</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți de asemenea și fișierele de pe telefon</string>
+    <string name="dialog_continue">OK</string>
     <string name="dialog_failed_body">Încercați să descărcați din nou mai târziu sau eliminați definitiv din lista descărcărilor?</string>
     <string name="dialog_file_already_exists">"Nu se poate descărca. Fișierul există deja."</string>
     <string name="dialog_file_missing_body">"Nu s-a găsit fișierul descărcat."</string>
@@ -357,6 +359,7 @@
     <string name="dialog_song_view_type_artist">După artist</string>
     <string name="dialog_song_view_type_folder">După dosar</string>
     <string name="dialog_song_view_type_song">După melodie</string>
+    <string name="dialog_stop_audio_in">Temporizator redare</string>
     <string name="dialog_subtitle_make_playlist_public">Listele de redare publice sunt disponibile pentru alte persoane. Listele de redare private sunt vizibile doar pentru dumneavoastră, pe toate dispozitivele sincronizate.</string>
     <string name="dialog_title_clearlist_tracks">Goliți lista de redare</string>
     <string name="dialog_title_delete_tracks">Ştergeţi</string>
@@ -1006,6 +1009,7 @@
     <string name="mulit_choice_management">Gestionați mai multe elemente</string>
     <string name="music_browser_label">Muzică</string>
     <string name="music_filter">Filtrare fişiere audio</string>
+    <string name="music_quality">Calitate audio</string>
     <string name="music_recommendation">Recomandări melodii</string>
     <string name="music_service">Serviciul Muzică Mi</string>
     <string name="music_settings">Muzică</string>
@@ -1040,6 +1044,7 @@
     <string name="no_local_songs_selected">"Nu se pot trimite melodii deoarece nu au fost descărcate"</string>
     <string name="no_local_source_find">"Nu s-a putut găsi melodia"</string>
     <string name="no_longer_prompt">Nu arăta din nou</string>
+    <string name="no_lyrics">Nu există versuri</string>
     <string name="no_results_return">Niciun rezultat al căutării</string>
     <string name="no_scanned_songs">Gol</string>
     <string name="no_song">Nicio melodie</string>
@@ -1548,6 +1553,7 @@ Fiți fericit"</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
     <string name="toast_favorite_has_been_added">Adăugată cu succes în lista de redare</string>
     <string name="toast_follow_success">Urmărit cu succes</string>
+    <string name="toast_hungama_vip_song">Această melodie este disponibilă doar membrilor PRO. Obțineți un abonament pentru a o descărca.</string>
     <string name="toast_is_pro">"Sunteți deja membru PRO."</string>
     <string name="toast_my_playlist_illegal_name">"Titlul acestei liste de redare nu este valid. Redenumiți-o."</string>
     <string name="toast_my_playlist_set_to_private">"Această listă de redare este acum privată. Alte persoane nu o pot vedea."</string>

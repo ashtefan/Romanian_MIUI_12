@@ -304,6 +304,7 @@
     <string name="aiwatermark_location_absent_hint">Nu s-au putut obține informații despre locație</string>
     <string name="aiwatermark_location_list_title">Locație</string>
     <string name="aiwatermark_location_tips">Permiteți Camerei să vă acceseze locația pentru a obține watermark-uri mai relevante</string>
+    <string name="altitude_text">Alt.</string>
     <string name="am">AM</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">Despre expunerea prelungită</string>
@@ -791,6 +792,7 @@ Tipăriți copia pe o foaie A4 printr-o conexiune fără fir."</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Instalați</string>
     <string name="kaleidoscope_fragment_tab_name">Caleidoscop</string>
+    <string name="latitude_text">Lat.</string>
     <string name="lens_dirty_detected_content">"Se pare că lentila camerei este murdară.
 Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="lens_dirty_detected_title_back">Lentila camerei posterioare este murdară</string>
@@ -867,6 +869,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="location_permission_not_ask_again">Permiteți aplicației Cameră să vă acceseze locația din Setări.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>
     <string name="log_format">LOG</string>
+    <string name="longitude_text">Long.</string>
     <string name="lpl_dialog_item_name_burst">Atingeți și mențineți apăsat pentru a fotografia în rafală</string>
     <string name="lpl_dialog_item_name_record">Atingeți și mențineți apăsat pentru a înregistra un videoclip</string>
     <string name="lpl_dialog_title">Selectați funcția declanșatorului</string>
