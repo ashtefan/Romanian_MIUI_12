@@ -36,8 +36,10 @@
     <string name="character_counter_content_description">Limita caracterelor a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="download_button">Buton de descărcare</string>
     <string name="download_failed">Nu s-a putut descărca</string>
     <string name="early_morning">Dimineață</string>
@@ -157,10 +159,13 @@ mm"</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -227,6 +232,7 @@ mm"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Inelele îndepărtate</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="send">Trimiteți</string>
     <string name="snowmountain_id">snowmountain</string>
     <string name="snowmountain_summary">Pante montane luminate de soare ale muntelui Siguniang</string>
     <string name="snowmountain_super_wallpaper_label">Vârfuri înzăpezite</string>

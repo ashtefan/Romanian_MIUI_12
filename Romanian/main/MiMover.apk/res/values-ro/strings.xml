@@ -79,6 +79,7 @@
     <string name="button_return">Înapoi</string>
     <string name="button_scanning">Se scanează…</string>
     <string name="button_send">Trimiteți</string>
+    <string name="calendar_permission_desc">Pentru transferarea evenimentelor pe alte dispozitive</string>
     <string name="calllog">Istoricul de apelare</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_description">Renunțați</string>
@@ -140,11 +141,13 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="connection_tips_other_title">Dacă dispozitivul vechi este un telefon Android terț:</string>
     <string name="connection_tips_owner_message">Mi Mover este preinstalat pe toate dispozitivele care rulează MIUI 11. Dacă aveți o versiune mai veche MIUI, puteți descărca cea mai recentă versiune a Mi Mover în GetApps sau puteți utiliza acest link: %1$s.</string>
     <string name="connection_tips_owner_title">Dacă dispozitivul vechi este un telefon Mi:</string>
+    <string name="contact_records_permission_desc">Pentru transferarea istoricului de apelare pe alte dispozitive</string>
     <string name="contacts">Contacte</string>
+    <string name="contacts_permission_desc">Pentru transferarea contactelor pe alte dispozitives</string>
     <string name="copy">Copiați</string>
     <string name="current_user_not_supported_summary">Setările actuale ale sistemului restricționează transferul datelor folosind Mi Mover.</string>
     <string name="current_user_not_supported_title">Nu se pot transfera elementele</string>
-    <string name="date_picker_dialog_title">Setați data</string>
+    <string name="data_read_white_permission_desc">Pentru transferarea elementelor pe alte dispozitive</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -367,6 +370,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="launcher">Dispunerea ecranului principal</string>
     <string name="less_than_1_minute">Mai puțin de 1 minut</string>
     <string name="loading_data">Doar o secundă…</string>
+    <string name="location_permission_desc">Pentru descoperirea dispozitivelor din apropiere</string>
     <string name="location_permission_request">Pentru conectarea la alte dispozitive din apropiere</string>
     <string name="login">Conectați-vă</string>
     <string name="login_failed">Nu s-a putut conecta. Încercați din nou.</string>
@@ -460,7 +464,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai multe</string>
     <string name="morning">Dimineață</string>
-    <string name="name">Nume</string>
+    <string name="msg_permission_desc">Pentru transferarea mesajelor pe alte dispozitive</string>
     <string name="name_password_not_consistent">ID-ul Apple și parola introdusă nu se potrivesc</string>
     <string name="need_location_permission_confirm">Setări</string>
     <string name="need_location_permission_summary">Permiteți Mi Mover să acceseze locația dvs. pentru a putea găsi dispozitivele din apropiere.</string>
@@ -581,10 +585,13 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="permission_call_log_title">Accesarea istoricului de apelare</string>
     <string name="permission_contacts_summary">Pentru transferarea contactelor pe noul dispozitiv</string>
     <string name="permission_contacts_title">Accesarea contactelor</string>
+    <string name="permission_grant_request">Pentru a putea transfera acest element, Mi Mover are nevoie de permisiunea \"%1$s\".</string>
     <string name="permission_locale_summary">Pentru conectarea la dispozitivele din apropiere</string>
     <string name="permission_locale_title">Accesarea locației</string>
     <string name="permission_message_summary">Pentru transferarea mesajelor pe noul dispozitiv</string>
     <string name="permission_message_title">Accesarea conținutului SMS-urilor</string>
+    <string name="permission_request_title">Este necesară permisiunea \"%1$s\"</string>
+    <string name="permission_setting_button">Setări</string>
     <string name="permission_storage_summary">Pentru transferarea fișierelor și a fotografiilor pe noul dispozitiv</string>
     <string name="permission_storage_title">Accesarea și salvarea fișierelor și a fotografiilor stocate în dispozitiv</string>
     <string name="permission_wifi_summary">Pentru transferarea elementelor pe noul dispozitiv</string>
@@ -617,6 +624,13 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="reconnect">Conectați din nou</string>
     <string name="recovery_progress">Se restaurează elementele (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Atingeți butonul de mai jos pentru a încerca din nou.</string>
+    <string name="request_all_permission_content">"Mi Mover trebuie să poată accesa următoarele elemente pentru a putea transfera elemente pe un nou dispozitiv:
+- Locație
+- Contacte
+- Istoricul de apelare
+- Mesajele text
+- Stocare"</string>
+    <string name="request_all_permission_title">Sunt necesare unele permisiuni</string>
     <string name="restore_data_to_device_content">"Elementele dvs. au fost sincronizate în Xiaomi Cloud.
 Conectați-vă la contul Mi pentru a le restaura."</string>
     <string name="restore_data_to_device_title">Restaurați elementele pe acest dispozitiv</string>
