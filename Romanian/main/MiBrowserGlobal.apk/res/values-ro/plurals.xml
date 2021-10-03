@@ -115,10 +115,11 @@
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Ultimele %d zile</item>
+        <item quantity="one">Ultima %d zi</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d din %2$d</item>
-        <item quantity="one">1 potrivire</item>
+        <item quantity="one">%d potrivire</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>

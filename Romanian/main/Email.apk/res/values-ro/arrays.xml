@@ -84,11 +84,6 @@
         <item>Toți</item>
         <item>Doar expeditorii</item>
     </string-array>
-    <string-array name="sign_in_dialog_item">
-        <item>Outlook pentru afaceri (fără calendar)</item>
-        <item>IMAP (fără calendar)</item>
-        <item>EXCHANGE (inclusiv calendar)</item>
-    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>

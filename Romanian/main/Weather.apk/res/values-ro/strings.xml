@@ -127,6 +127,7 @@
     <string name="city_exceeded_warning">Nu se mai pot adăuga orașe. Pentru a adăuga un nou oraș, ștergeți mai întâi un oraș care se află deja în listă.</string>
     <string name="clear_net_mock_success">Rețea fictivă curățată cu succes</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">%1$s nu va funcționa dacă nu activați serviciile Google Play.</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -173,6 +174,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
      <string name="data_provided_by">Date furnizate parțial de către</string>
     <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dialog_internet_error_title">A apărut o eroare</string>
     <string name="dialog_msg_score_midrop">Ce părere aveți despre aplicația Meteo?</string>
     <string name="dialog_msg_score_not_good">Ne puteți trimite și un feedback?</string>
@@ -496,6 +498,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="search_menu_title">Căutați</string>
     <string name="search_weather">Meteo</string>
     <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
+    <string name="send">Trimiteți</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="settings">Setări</string>

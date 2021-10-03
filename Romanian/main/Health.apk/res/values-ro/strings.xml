@@ -111,6 +111,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="average_menstruation_days">Durata medie a ciclului</string>
     <string name="avg_altitude">Altitudinea medie</string>
     <string name="avg_day">Medie</string>
+    <string name="avg_earphone_listening_duration">Căști</string>
     <string name="avg_finish_stand">Media zilnică</string>
     <string name="avg_freq">Frecvența medie</string>
     <string name="avg_heart_rate">Ritmul cardiac mediu</string>
@@ -119,6 +120,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="avg_low_pressure">Media diasistolică (inferioară)</string>
     <string name="avg_pace">Ritmul mediu</string>
     <string name="avg_steps">Pași zilnici</string>
+    <string name="avg_treble_duration">Sunete puternice</string>
     <string name="awake_count">V-ați trezit</string>
     <string name="awake_count_abnormal_description">V-ați trezit de multe ori peste noapte.</string>
     <string name="awake_count_normal_description">V-ați trezit o singură dată peste noapte. Acest lucru este normal.</string>
@@ -213,6 +215,7 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_finish_stand">Atingeți pentru a înregistra</string>
+    <string name="click_to_solve">Ajutor</string>
     <string name="climb">Urcare trepte</string>
     <string name="climbing">Urcare</string>
     <string name="close">Dezactivați</string>
@@ -419,12 +422,15 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="each_week_day_format3">În fiecare %1$s până %2$s</string>
     <string name="early">Devreme</string>
     <string name="early_morning">Dimineață</string>
+    <string name="earphone_listening_duration">Căști</string>
     <string name="edit_aid_file">Editați</string>
     <string name="edit_basic_info_desc">Informații de bază</string>
     <string name="edit_immediately">Introduceți informațiile</string>
     <string name="edit_sleep_record_button">Editați</string>
     <string name="elliptical_machine">Eliptică</string>
     <string name="emergency_contact">Contact de urgență</string>
+    <string name="emergency_lock_show_subtitle">Găsiți ID-ul medical de urgență apăsând \"Urgență\" și \"ID medical de urgență\" cât timp ecranul este blocat.</string>
+    <string name="emergency_lock_show_title">Afișează când este blocat</string>
     <string name="empty" />
     <string name="empty_data">-</string>
     <string name="enable">Pornit</string>
@@ -441,6 +447,7 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="environment_detection_hint_two">Antrenamentul dvs. va fi întrerupt și reluat automat pe baza sunetelor pe care le produceți.</string>
     <string name="environment_detection_ing">Se verifică mediul de antrenament…</string>
     <string name="equivalent_exercise">≈ plimbare de %1$s km (%2$s kcal)</string>
+    <string name="evaluation_origin_health">Sugestiile sunt furnizate de către aplicația Sănătate.</string>
     <string name="evening">După amiază</string>
     <string name="every_day">În fiecare zi</string>
     <string name="excessive">Prea mult</string>
@@ -525,6 +532,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="finish_stand">Da</string>
     <string name="finish_stand2">Ridicare</string>
     <string name="finished_rate">Realizat %1$d%%</string>
+    <string name="first_aid_card">ID medical de urgență</string>
   <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -633,6 +641,7 @@ Dacă tot vă este greu să adormiți după ce sunteți de 30 de minute în pat,
     <string name="health_setting">Setări sănătate</string>
     <string name="health_uninstall_dialog_content">Aplicația Sănătate Xiaomi este o aplicație de sistem. Puteți utiliza această aplicație pentru a număra pașii, urmări somnul, perioadele și greutatea, precum și pentru a vă sincroniza statisticile în cloud. Nu veți mai putea folosi această aplicație după ce o dezinstalați.</string>
     <string name="health_uninstall_dialog_title">Dezinstalați aplicația Sănătate Xiaomi?</string>
+    <string name="hearing">Auz</string>
     <string name="heart_rate">Ritm cardiac</string>
     <string name="height">Înălțime</string>
     <string name="high">Ridicat</string>
@@ -780,6 +789,7 @@ Reluați măsurarea."</string>
     <string name="light_sleep_time_decrease_description">Somnul ușor este prea scurt</string>
     <string name="light_sleep_time_increase_description">Somnul ușor este prea lung</string>
     <string name="light_sleep_time_normal_description">Aveți un somn ușor suficient</string>
+    <string name="listening_duration">Căști</string>
     <string name="load_failed">Nu s-au putut încărca elementele. Așteptați un minut sau două și încercați din nou.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="location_perm_description">Pentru monitorizarea exercițiilor exterioare și înregistrarea rutelor</string>
@@ -793,6 +803,16 @@ Reluați măsurarea."</string>
     <string name="location_service_dialog_title">Serviciile de localizare sunt dezactivate</string>
     <string name="location_service_ntfc_content">Sănătate Xiaomi</string>
     <string name="location_service_ntfc_title">Se caută GPS-ul…</string>
+    <string name="lock_not_support_description">Pentru a face disponibil ID-ul medical de urgență din blocarea ecranului, atingeți Mai multe > Editați și activați Afișează când este blocat.</string>
+    <string name="lock_show_dialog_content">"ID-ul dvs. de urgență poate fi accesat fără să deblocați telefonul.
+Dacă nu doriți să partajați aceste informații, puteți dezactiva această funcție."</string>
+    <string name="lock_show_dialog_title">Atenție</string>
+    <string name="lock_show_solve_description">Pentru a afișa ID-ul medical de urgență în blocarea ecranului, permiteți aplicației Sănătate să fie afișată în Blocarea ecranului.</string>
+    <string name="lock_show_solve_go">Setări</string>
+    <string name="lock_show_solve_path">Atingeți butonul \"Setări\" de mai jos, alegeți \"Afișează în Blocarea ecranului\" și selectați \"Permite întotdeauna\".</string>
+    <string name="lock_show_solve_title">Adăugați informațiile în Blocarea ecranului</string>
+    <string name="lock_support_description">ID-ul medical de urgență poate fi văzut apăsând \"Urgență\" și \"ID medical de urgență\" când ecranul este blocat.</string>
+    <string name="lock_support_description2">Nu găsiți ID-ul medical de urgență în Blocarea ecranului?</string>
     <string name="login_and_open_sync">Conectați-vă și activați sincronizarea</string>
     <string name="login_and_open_sync2">Conectați-vă și activați sincronizarea</string>
     <string name="low">Scăzut</string>
@@ -910,6 +930,8 @@ Reluați măsurarea."</string>
     <string name="min_pace">Cel mai mic ritm</string>
     <string name="minimum">Minim</string>
     <string name="minute">m</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -927,6 +949,7 @@ Reluați măsurarea."</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1638,6 +1661,10 @@ despre somn"</string>
     <string name="tb_go_next_a_day">Ziua anterioară</string>
     <string name="tb_go_on_detection">Reluați</string>
     <string name="tb_has_snore_dream_talk">S-a detectat sforâit și vorbit în somn</string>
+    <string name="tb_hearing_card">Auz | Expunere căști: %1$s | Înregistrat: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Expunere căști: %2$s | Sunete puternice: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Expunere căști: %2$s | Sunete puternice: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Media expunerii la căști: %2$s | Media expunerii la sunete puternice: %3$s.</string>
     <string name="tb_heart_rate_max_min">Ritm cardiac. Cel mai mare: %1$d. Cel mai mic: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Presiunea arterială. Sistolică: %1$d. Diasistolică: %2$d. Înregistrată: %3$s. Starea: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Presiunea arterială. Nu există date.</string>
@@ -1714,6 +1741,7 @@ despre somn"</string>
     <string name="tb_user_step_card_info">Ținta zilnică: %1$s, circa %2$s sau %3$s.</string>
     <string name="tb_user_step_target_btn">Modificați ținta</string>
     <string name="tb_user_weight_card_info">IMC %1$s, %2$s. Greutatea recomandată: %3$s.</string>
+    <string name="tb_volume_list_item">%1$s | Sunete ambientale: %3$s (%2$d dB).</string>
     <string name="tb_weight_choice">%2$s de la %1$s este %3$s</string>
     <string name="tb_weight_decrease">Ați slăbit</string>
     <string name="tb_weight_has_record">Cântărire găsită</string>
@@ -1812,6 +1840,8 @@ despre somn"</string>
     <string name="total_slip">Numărul repetărilor</string>
     <string name="total_time_label">Timpul total</string>
     <string name="treadmill">Bandă de alergat</string>
+    <string name="treble_duration">Sunete puternice</string>
+    <string name="treble_sum_duration">Sunete puternice</string>
     <string name="try_again">Încercați din nou</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
@@ -1858,6 +1888,15 @@ Actualizați acum?"</string>
     <string name="visceral_fat">Grăsime viscerală</string>
     <string name="visceral_fat_descripe_content">Grăsimead viscerală este esențială pentru stabilizarea și protejarea organelor interne. Totuși, grăsimea viscerală ridicată crește riscul bolilor cardiovasculare și metabolice.</string>
     <string name="voice_remind">Am crescut volumul pentru a putea auzi mai bine instrucțiunile.</string>
+    <string name="volume_decibel">dB</string>
+    <string name="volume_decibel_abridge">dB</string>
+    <string name="volume_high">Puternic</string>
+    <string name="volume_high_description">Pentru a vă ajuta să vă protejați auzul, utilizați căști care reduc zgomotele parazite. Nu creșteți volumul pentru a acoperi aceste zgomote.</string>
+    <string name="volume_level">Sunete ambientale</string>
+    <string name="volume_normal">OK</string>
+    <string name="volume_normal_description">Expunerea la sunete reduse ca intensitate nu ar trebui să provoace deteriorarea auzului. Acestea pot crește concentrarea.</string>
+    <string name="volume_too_high">Foarte puternic</string>
+    <string name="volume_too_high_description">Expunerea repetată și prelungită la sunete puternice poate duce la deteriorarea auzului. Pentru a vă proteja auzul, evitați sunetele puternice sau folosiți căști care reduc zgomotele.</string>
     <string name="walk">Mers</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

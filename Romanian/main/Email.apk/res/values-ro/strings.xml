@@ -461,6 +461,7 @@ Actualizaţi acum?"</string>
     <string name="copy">Copiați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
+    <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="create_action">Creaţi</string>
     <string name="credit_limit_text">Limita de credit</string>
     <string name="cur_debt">Soldul contului</string>
@@ -582,6 +583,9 @@ Actualizaţi acum?"</string>
     <string name="failed_read_phone_state_permission">"Nu aveți permisiunea de a accesa starea telefonului"</string>
     <string name="failed_read_write_calendar_permission">Accesul la aplicația Calendar este restricționat</string>
     <string name="failed_read_write_contacts_permission">Accesul la aplicația Calendar este restricționat</string>
+    <string name="fallback_menu_item_copy_link">Copiați linkul</string>
+    <string name="fallback_menu_item_open_in_browser">Deschideți în browser</string>
+    <string name="fallback_menu_item_share_link">Partajați linkul</string>
     <string name="feedback">Trimiteţi feedback</string>
     <string name="feedback_body">Mesaj</string>
     <string name="feedback_sent">Mulţumim pentru feedback</string>
@@ -1602,6 +1606,9 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="show_images_all">Încarcă și afișează toate imaginile</string>
     <string name="show_password">Arată parola</string>
     <string name="show_server_cet">Vedeți certificatul</string>
+    <string name="sign_in_dialog_outlook_enterprise">Outlook pentru business (fără calendar)</string>
+    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (inclusiv calendar)</string>
+    <string name="sign_in_dialog_outlook_imap">IMAP (fără calendar)</string>
     <string name="sign_in_graph_error">Vă puteți conecta utilizând protocoalele de autentificare IMAP sau EXCHANGE doar atunci când organizația dvs. nu a modificat configurația generală a serverului. Dacă adresa serverului dvs. este personalizată de organizație sau protocoalele conexe sunt dezactivate, conectați-vă utilizând noul protocol Microsoft.</string>
     <string name="sign_in_no_useful_provider_error">Nu pot obține configurații de protocoale de la Microsoft. Utilizați un protocol diferit sau actualizați protocolul de la Microsoft.</string>
     <string name="signature">"
@@ -1871,7 +1878,9 @@ Atingeţi "<b>Sincronizaţi acum</b> pentru a sincroniza e-mailurile, sau <b>Mod
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Recunoaște facturile cardului de credit în mod automat</string>
     <string name="xiaomi_email">E-mail</string>
-    <string name="xiaomi_under_certification">Se autorizează…</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yes">Da</string>
     <string name="yesterday">Ieri</string>
     <string name="you_are_in_mobile_network">Utilizați datele mobile pentru a încărca jurnalele cu erori?</string>
