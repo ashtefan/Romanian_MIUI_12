@@ -1402,6 +1402,9 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="wednesday_shortest">Mi</string>
     <string name="wild_msg_processing">Procesare…</string>
     <string name="wild_msg_title">Selectați numerele de telefon pentru sincronizare</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yellowpage_recommend_msg">"Descoperiți caracteristicile serviciului de mesagerie MIUI"</string>
     <string name="yes">OK</string>
     <string name="yesterday">Ieri</string>

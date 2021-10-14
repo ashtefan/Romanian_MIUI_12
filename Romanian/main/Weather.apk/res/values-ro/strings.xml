@@ -314,10 +314,10 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="information_settings_title">Informații meteo</string>
     <string name="install">Instalați</string>
     <string name="install_progress">%1$s%%</string>
-    <string name="international_details_chance_of_rain">ȘANSE DE PLOAIE</string>
-    <string name="international_details_humidity">UMIDITATE</string>
+    <string name="international_details_chance_of_rain">@string/indices_title_chance_of_rain</string>
+    <string name="international_details_humidity">@string/realtime_humidity_title</string>
     <string name="international_details_pressure_title">PRESIUNE</string>
-    <string name="international_details_real_feel_title">TEMPERATURA RESIMȚITĂ®</string>
+    <string name="international_details_real_feel_title">@string/indices_title_feel</string>
     <string name="international_details_title">Detalii</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>

@@ -220,6 +220,7 @@
     <string name="bh_perm_ask_read_contacts">Permiteți mai întâi accesul la contacte pentru Serviciile de Operator Mi.</string>
     <string name="bh_perm_ask_read_phone_state">Permiteți accesul la stocare pentru Serviciile de Operator Mi din Setări.</string>
     <string name="bh_perm_desc_read_contacts">Pentru afișarea contactelor în timpul suplimentării</string>
+    <string name="bh_permission_contact_desc">Pentru suplimentarea soldului contactelor</string>
     <string name="bh_permission_get_accounts_desc">Pentru plasarea comenzilor și verificarea stării acestora</string>
     <string name="bh_permission_read_call_log_desc">Pentru afișarea duratei apelului</string>
     <string name="bh_permission_read_phone_state_desc">Pentru afișarea numerelor de telefon și a informațiilor despre operator</string>
@@ -1329,7 +1330,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="people">Contacte</string>
     <string name="permission_access_fine_location_desc">Pentru îmbunătățirea semnalului de rețea locală</string>
     <string name="permission_camera_desc">Pentru realizarea de fotografii în timpul verificării actului de identitate</string>
-    <string name="permission_contact_desc">Pentru suplimentarea soldului contactelor</string>
     <string name="permission_dailog_positive_button">Mergeți</string>
     <string name="permission_dailog_title">Sunt necesare unele permisiuni</string>
     <string name="permission_record_audio_desc">Pentru utilizarea vocii în timpul verificării ID-ului</string>

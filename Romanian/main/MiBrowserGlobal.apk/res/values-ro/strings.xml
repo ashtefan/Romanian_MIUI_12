@@ -300,6 +300,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="collect_video">Colectați video</string>
     <string name="collection_articles">Articole</string>
     <string name="collection_videos">Videoclipuri</string>
+    <string name="columbus_ad_flag_text">RECLAMĂ</string>
     <string name="columbus_player_close_desc">Veți pierde premiul</string>
     <string name="columbus_player_close_resume">RELUAȚI VIDEOCLIPUL</string>
     <string name="columbus_player_close_title">Închideți Videoclipul?</string>
@@ -309,6 +310,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="columbus_player_speed_title">Omiteți Videoclipul?</string>
     <string name="columbus_player_speed_video">Omite VIDEOCLIPUL</string>
     <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_skip_ad">Omiteți</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată la descărcarea unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Conectarea WebView necesită permisiunea INTERNET</string>
@@ -1052,7 +1054,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="mw_actionbar_web_search">Căutare web</string>
     <string name="mw_add_to_dictionary">Adăugați în dicționar</string>
     <string name="mw_autofill_popup_content_description">Se afișează balonul de completare automată</string>
-    <string name="mw_chip_remove_icon_content_description">"Eliminați '%1$s'"</string>
+    <string name="mw_chip_remove_icon_content_description">Eliminați \"%1$s\"</string>
     <string name="mw_color_picker_button_black">Negru</string>
     <string name="mw_color_picker_button_blue">Albastru</string>
     <string name="mw_color_picker_button_cancel">Renunțați</string>
@@ -1135,7 +1137,7 @@ Părăsiți această pagină acum?"</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Luna trecută</string>
     <string name="mw_license_activity_title">Licențe System WebView</string>
-    <string name="mw_link_copied">Link copiat</string>
+    <string name="mw_link_copied">URL copiat cu succes</string>
     <string name="mw_low_memory_error">Nu se poate finaliza operația anterioară datorită memoriei insuficiente</string>
     <string name="mw_menu_refresh">Reîmprospătați</string>
     <string name="mw_miui_content_copy">Copiați</string>
@@ -1242,7 +1244,7 @@ Părăsiți această pagină acum?"</string>
     <string name="mw_save_password_notnow">Nu acum</string>
     <string name="mw_save_password_remember">Reține</string>
     <string name="mw_search_menu_title">Căutați</string>
-    <string name="mw_speech_recognition_service_not_found">Motorul de căutare vocală Google nu poate fi găsit</string>
+    <string name="mw_speech_recognition_service_not_found">Nu s-a găsit motorul de căutare vocală Google</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
@@ -1343,6 +1345,13 @@ Părăsiți această pagină acum?"</string>
     <string name="notification_download_completed">Descărcat cu succes</string>
     <string name="notification_download_failed">Nu s-a putut descărca.</string>
     <string name="notification_wechat_expired_empty">WeChat a șters deja aceste videoclipuri.</string>
+    <string name="offline_notification_text">Atingeți pentru a deschide reclama</string>
+    <string name="offline_notification_title">Vedeți reclama salvată atunci când sunteți offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Veți primi o notificare cu linkul când sunteți din nou online</string>
+    <string name="offline_opt_in_decline">Nu, mulțumesc</string>
+    <string name="offline_opt_in_message">Vă vom trimite o notificare cu un link către site-ul advertiserului.</string>
+    <string name="offline_opt_in_title">Accesează reclama când sunteți din nou online.</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
@@ -1792,7 +1801,16 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="restart_phone_bind_message">Este posibil să dureze ceva timp pentru a primi SMS-ul. Reluați oricum?</string>
     <string name="restart_phone_bind_title">Schimbați telefonul de recuperare</string>
     <string name="return_to_homepage">Mergeţi înapoi la pagina de pornire</string>
-    <string name="rlv_last_refreshing_time">Actualizat %1$s</string>
+    <string name="risk_continue">Continuați</string>
+    <string name="risk_detail">Detalii</string>
+    <string name="risk_malicious_url">Acest site poate ascunde riscuri de securitate.</string>
+    <string name="risk_protect_browsing">Browserul Mi verifică site-urile pentru riscuri de securitate</string>
+    <string name="risk_safe_url">Acest website este sigur</string>
+    <string name="risk_setting_des">Permiteți Browser-ului Mi să verifice site-urile pentru probleme de securitate</string>
+    <string name="risk_setting_title">Navigare în siguranță</string>
+    <string name="risk_stop">Opriți</string>
+    <string name="risk_unspecified_url">Există o problemă cu certificatul de securitate a acestui site.</string>
+    <string name="rlv_last_refreshing_time">S-a actualizat %1$s</string>
     <string name="rlv_loading_more">Doar o secundă…</string>
     <string name="rlv_pull_to_refresh">Trageți în jos pentru a reîmprospăta</string>
     <string name="rlv_refreshing">Se reîmprospătează…</string>

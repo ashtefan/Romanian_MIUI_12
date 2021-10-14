@@ -75,8 +75,8 @@
     <string name="ad_download">Descărcați</string>
     <string name="ad_join">Alăturați-vă comunității</string>
     <string name="ad_more">Mai multe</string>
-    <string name="add_local_shortcut_add">+Adăugați</string>
-    <string name="add_local_shortcut_des">Adăugați “Videoclipurile mele” pe desktop pentru a vedea rapid videoclipurile locale.</string>
+    <string name="add_local_shortcut_add">Adăugați</string>
+    <string name="add_local_shortcut_des">Adăugați \"Videoclipurile mele\" pe Ecranul principal pentru a accesa videoclipurile locale printr-o singură apăsare.</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nume</string>
     <string name="add_search_channel_tip">Căutați \"%s\" pe site-ul țintă, apoi copiați și lipiți URL-ul aici.</string>
@@ -180,6 +180,7 @@
     <string name="cloud_online_switch_close_time">Puteți activa recomandările de conținut personalizat în %s</string>
     <string name="cloud_online_switch_open_time">Afișează recomandările de conținut personalizat</string>
     <string name="collect_diagnosis_log">Colectați jurnale</string>
+    <string name="columbus_ad_flag_text">RECLAMĂ</string>
     <string name="columbus_player_close_desc">Veți pierde recompensa</string>
     <string name="columbus_player_close_resume">RELUAȚI VIDEOCLIPUL</string>
     <string name="columbus_player_close_title">Închideți Videoclipul?</string>
@@ -189,6 +190,7 @@
     <string name="columbus_player_speed_title">Omiteți Video?</string>
     <string name="columbus_player_speed_video">Omiteți VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_skip_ad">Omiteți</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată pe durata descărcării unei imagini.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView login necesită permisiunea de accesare a INTERNETULUI</string>
@@ -275,6 +277,7 @@
     <string name="day">zi</string>
     <string name="default_filedownloader_notification_content">Descărcarea fișierelor rulează.</string>
     <string name="default_filedownloader_notification_title">Descărcare fișiere</string>
+    <string name="default_localization_key">sistem</string>
     <string name="default_upgrade_hint">"Salutare!
 Există o actualizare Mi Video.
 Actualizați aplicația acum pentru a evalua noile caracteristici!
@@ -285,6 +288,12 @@ Echipa Mi Video"</string>
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
 ID:%s
 Trimiteți acest cod supervizorului."</string>
+    <string name="dialog_app_comment_cancel">Renunțați</string>
+    <string name="dialog_app_comment_default_content">Cum apreciați Mi Video?</string>
+    <string name="dialog_app_comment_ok">OK</string>
+    <string name="dialog_app_comment_select_feedback">Ne puteți lăsa și un feedback?</string>
+    <string name="dialog_app_comment_select_praise">Drăguț! Apreciați Mi Video și în Magazinul de aplicații?</string>
+    <string name="dialog_app_comment_title">Apreciați-ne aplicația</string>
     <string name="dialog_disagree_privacychange_info">Nu veți putea utiliza serviciile de streaming online Mi Video dacă nu sunteți de acord cu politica noastră de confidențialitate. Apăsați \"Renunțare\" pentru a merge înapoi sau \"Nu accept\" pentru a continua și a utiliza Mi Video doar ca player local.</string>
     <string name="dialog_disagree_privacychange_title">Nu sunteți de acord?</string>
     <string name="dialog_privacy_change_info">Am actualizat Politica de confidențialitate Mi Video datorită modificărilor din serviciile pe care le oferim. Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a> înainte de a utiliza această aplicație.</string>
@@ -526,6 +535,12 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_network_connect_confirm">Conectați-vă la Wi-Fi sau activați datele mobile din setările de rețea.</string>
     <string name="galleryplus_network_error">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_network_not_wifi">Utilizarea datelor mobile pentru a reda videoclipuri online poate genera taxe suplimentare de la operator</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gestionați fișierele %$s Adăugați subtitrări %$s Proiectați videoclipuri %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">Protejați-vă videoclipurile private cu o parolă %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">Descărcați videoclipuri de pe TikTok, Instagram și Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s Testați toate funcțiile Mi Video!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s Atingeți pentru a vă gestiona videoclipurile</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Descărcați videoclipuri gratuit %2$s Gestionați fișierele</string>
     <string name="galleryplus_online_cta">Mi Video trebuie să se conecteze la internet pentru a funcționa în mod normal. Acceptați?</string>
     <string name="galleryplus_online_cta_agree">Accept</string>
     <string name="galleryplus_online_cta_disagree">Nu sunt de acord</string>
@@ -537,8 +552,11 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_permission_content_opt">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Ștergeți toate datele aplicației din Setări și deschideți din nou aplicația.</string>
     <string name="galleryplus_permission_content_xms">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Mergeți la Setări și acordați Mi Video permisiunile necesare.</string>
     <string name="galleryplus_permission_open_settings">Setări</string>
-    <string name="galleryplus_permission_refuse">Nu, mulțumesc</string>
-    <string name="galleryplus_permission_retry">Permisiuni</string>
+    <string name="galleryplus_permission_refuse">Renunțați</string>
+    <string name="galleryplus_permission_retry">Setări</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Pentru a putea folosi playerul video local, permiteți acestei aplicații să acceseze mai întâi spațiul de stocare.</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Pentru a putea folosi playerul video local, permiteți acestei aplicații să acceseze spațiul de stocare din secțiunea \"Permisiuni\" din Setări.</string>
+    <string name="galleryplus_permission_storage_title">Este necesar accesul la stocare</string>
     <string name="galleryplus_permission_title">Atenție</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Se redă la viteza normală acum</string>
@@ -617,12 +635,14 @@ pentru videoclipuri"</string>
     <string name="live_title">Live</string>
     <string name="live_tv_title">TV Live</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="local_empty_guide">Videoclipurile pe care le filmați vor apărea aici</string>
     <string name="local_play_tip">Se redă videoclipul local</string>
     <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
     <string name="local_push_title">Populare astăzi</string>
     <string name="local_video_create_a_new_playlist">Listă de redare nouă</string>
     <string name="local_video_date">Dată</string>
     <string name="local_video_dialog_default">Implicit</string>
+    <string name="local_video_edit_playlist">Editați lista de redare</string>
     <string name="local_video_from_a_to_z">De la A la Z</string>
     <string name="local_video_from_big_to_small">De la mic la mare</string>
     <string name="local_video_from_long_to_short">De la lung la scurt</string>
@@ -988,6 +1008,7 @@ pentru videoclipuri"</string>
     <string name="ovp_navigation_language">Limbă</string>
     <string name="ovp_navigation_localvideo">Locale</string>
     <string name="ovp_navigation_notice">Notificări</string>
+    <string name="ovp_navigation_score">Apreciați-ne aplicația</string>
     <string name="ovp_navigation_setting">Setări</string>
     <string name="ovp_navigation_subscribe">Abonament</string>
     <string name="ovp_navigation_version_update">Căutați actualizări</string>
@@ -1348,6 +1369,7 @@ Verificați alte videoclipuri!"</string>
     <string name="remaining_space_not_enough">Nu s-a putut descărca datorită spațiului de stocare insuficient</string>
     <string name="reminder">Atenție</string>
     <string name="rename">Redenumiți</string>
+    <string name="rename_word_out">Acest nume de fișier este prea lung</string>
     <string name="report">Raportați</string>
     <string name="report_content_dislike">Violență sau comportament necorespunzător</string>
     <string name="report_content_fakement">Spam sau fraudă</string>
@@ -1553,6 +1575,7 @@ Verificați alte videoclipuri!"</string>
     <string name="the_forth_day">Ziua a patra</string>
     <string name="the_hksar_establishment_day">Ziua înființării HKSAR</string>
     <string name="the_international_womens_day">Ziua Femeii</string>
+    <string name="the_item_choosed_tint">%s a fost selectat</string>
     <string name="the_laba_festival">Festivalul Laba</string>
     <string name="the_labour_day">Ziua muncii</string>
     <string name="the_lantern_festival">Festivalul Felinarelor</string>
@@ -1601,6 +1624,7 @@ Verificați alte videoclipuri!"</string>
     <string name="tool_bar_notification_setting_title">Bara de instrumente în Perdeaua de notificări</string>
     <string name="top_bar_game_desc">Descoperiți o mulțime de jocuri noi aici</string>
     <string name="top_bar_game_title">Canal jocuri</string>
+    <string name="trending_scroll_load_more">Glisați în sus pentru mai multe videoclipuri</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>

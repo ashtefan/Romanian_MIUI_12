@@ -217,6 +217,7 @@
     <string name="cloud_state_storage_full">Nu există suficient spațiu de stocare pe telefon; sincronizarea s-a oprit</string>
     <string name="cloud_welcome_message">Sincronizați melodiile</string>
     <string name="cloud_welcome_summary">Sincronizați melodiile în Mi Cloud și redați-le pe alte dispozitive</string>
+    <string name="columbus_ad_flag_text">RECLAMĂ</string>
     <string name="columbus_player_close_desc">Veți pierde recompensa</string>
     <string name="columbus_player_close_resume">RELUAȚI VIDEOCLIPUL</string>
     <string name="columbus_player_close_title">Închideți Videoclipul?</string>
@@ -226,6 +227,7 @@
     <string name="columbus_player_speed_title">Omiteți Videoclipul?</string>
     <string name="columbus_player_speed_video">Omiteți VIDEOCLIPUL</string>
     <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_skip_ad">Omiteți</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată în timpul descărcării imaginii.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView necesită permisiunea de accesare a INTERNETULUI</string>

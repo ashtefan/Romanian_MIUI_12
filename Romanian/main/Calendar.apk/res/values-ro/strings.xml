@@ -78,6 +78,7 @@
     <string name="additional_cal_dialog_title">Selectați calendarul</string>
     <string name="additional_cal_pref_title">Calendar adițional</string>
     <string name="additional_calendar_note">Este posibil ca unele calendare suplimentare să nu fie disponibile sau să varieze în funcție de factori neconstanți</string>
+    <string name="afternoon">După amiază</string>
     <string name="agenda_month_empty_hint">Niciun eveniment pentru azi</string>
     <string name="agenda_not_today_empty_hint">Niciun eveniment aici încă. Atingeți pentru a crea unul.</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
@@ -90,6 +91,7 @@
     <string name="alert_title">Notificările calendarului</string>
     <string name="all_events">Toate evenimentele</string>
     <string name="all_records">Toate înregistrările</string>
+    <string name="am">AM</string>
     <string name="anniversary_event_title">Aniversare: %1$s</string>
     <string name="anniversary_secondary_tag">Aniversare</string>
     <string name="app_label">Calendar</string>
@@ -143,6 +145,7 @@
     <string name="change">Modificați</string>
     <string name="change_response_title">Modificaţi răspunsul</string>
     <string name="change_zodiac">Modificați semnul zodiacal</string>
+    <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
@@ -153,9 +156,11 @@
   <string name="chongsha">Fantome</string>
     <string name="choose_your_holidays">Selectați vacanțele</string>
   <string name="clear_net_mock_success">Rețea fictivă eliminată cu succes</string>
+    <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_share">Atingeți pentru a partaja</string>
     <string name="click_for_create_event">Apăsați pentru a crea un eveniment pentru %s</string>
     <string name="click_paste">Apăsați pentru a lipi</string>
+    <string name="close">Închideți</string>
     <string name="close_alarm">Dezactivați</string>
     <string name="content_confirm_close_chinese_calendar">Toate evenimentele dvs. bazate pe calendarul Chinezesc Tradițional vor fi convertite la calendarul Gregorian după ce veți dezactiva această caracteristică. Anii și lunile din calendarul Gregorian vor fi utilizate pentru evenimentele repetate.</string>
     <string name="copy">Copiați</string>
@@ -178,6 +183,7 @@
     <string name="common_signin_button_text">Conectați-vă</string>
     <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
     <string name="contacts_permission_desc">Accesați informațiile de contact</string>
+    <string name="copy">Copiați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
@@ -231,8 +237,9 @@
     <string name="date_jump_hint">Treceți direct la o anumită zi</string>
     <string name="date_jump_title">Treceți la data</string>
   <string name="date_pattern_mm_dd">ziua d luna M</string>
-    <string name="date_picker_lunar">Calendar Chinez Tradițional</string>
+    <string name="date_picker_lunar">Calendarul Chinez Tradițional</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_today">" (astăzi)"</string>
     <string name="day">Zi</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
@@ -334,6 +341,7 @@
     <string name="event_title">Titlu</string>
     <string name="event_view">Vizualizaţi evenimentul</string>
     <string name="every_weekday">Zile lucrătoare (Lun–Vin)</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="featured_title">Recomandate</string>
     <string name="feedback">Feedback</string>
     <string name="festival_detail_title">Festival</string>
@@ -458,6 +466,7 @@
     <string name="guide_card_second_text">Nu ratați datele importante</string>
     <string name="guide_card_title">Importați zilele de naștere</string>
     <string name="guide_setting">Furnizați următoarele informații pentru a obține statistici menstruale precise</string>
+    <string name="hide_menstruation_info">Ascunde informațiile despre menstruație</string>
     <string name="hint_attendees">Invitaţi</string>
     <string name="hint_description">Descriere</string>
     <string name="hint_what">Numele evenimentului</string>
@@ -610,6 +619,7 @@
     <string name="mesens_card_title_stop_today">Ciclul se încheie azi</string>
     <string name="mesens_card_title_today_begin">Ciclul poate începe azi</string>
     <string name="mesens_card_title_tomorrow_begin">Ciclul poate începe mâine</string>
+    <string name="midnight">Noapte</string>
     <string name="missing_name">(Niciun nume)</string>
     <string name="missing_required_permission">Ați restricționat permisiunile necesare.</string>
     <string name="miuishare_account_activate_confirmation">Activați contul Mi</string>
@@ -630,6 +640,8 @@
     <string name="miuishare_wechat_timeline_title">Momente WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -644,6 +656,7 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_selected">%s a fost selectat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -723,6 +736,7 @@
     <string name="more_events">+%d</string>
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$d</string>
+    <string name="morning">Dimineață</string>
     <string name="movie_card_read_more">Citiți mai mult</string>
     <string name="movie_card_title">Filme</string>
     <string name="movie_card_trailer">Trailer</string>
@@ -769,6 +783,7 @@
     <string name="new_event_description">Nou</string>
     <string name="news">Știri</string>
     <string name="next_step">Următorul</string>
+    <string name="night">Seară</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
     <string name="no_events_hint">Niciun eveniment</string>
     <string name="no_holiday_selected">Zilele libere nu sunt selectate</string>
@@ -787,7 +802,9 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="no_visiable_calendar_select_account">Adăugare cont</string>
     <string name="no_visiable_calendar_title">Adăugați un cont</string>
     <string name="none">Nimic</string>
+    <string name="noon">Amiază</string>
     <string name="not_more_than_three_weekday">Puteți selecta maxim 3 zile</string>
+    <string name="not_set">Nesetat</string>
     <string name="notes_hint">Atingeți pentru a adăuga o sarcină</string>
     <string name="notes_reminders_channel">Memento notițe</string>
     <string name="notes_settings_summary">Adăugați sarcinile zilnice și notițele în Calendar</string>
@@ -838,7 +855,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Compatibilitatea cu partenerul</string>
     <string name="passenger">Pasager</string>
-    <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_calendar_settings">Aplicații de sistem/Calendar/Setări</string>
   <string name="pengzu">Ciupire</string>
     <string name="permission_accounts">Pentru conectarea și gestionarea contului sistemului și asocierea elementelor cu acesta</string>
@@ -851,6 +868,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="picker_year">Anul selectat: %1$d. Glisați vertical pentru a selecta.</string>
     <string name="plain_short_month_format">MMM</string>
     <string name="plain_year_format">yyyy</string>
+    <string name="pm">PM</string>
     <string name="points_table">Tabelul de puncte</string>
     <string name="predict_menstruation">Ciclul preconizat</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
@@ -859,6 +877,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="pref_title_alarm_remind">Alarmă memento</string>
     <string name="pref_title_no_remind">Niciun memento</string>
     <string name="pref_title_notification_remind">Notificare memento-uri</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preferences_alerts_ringtone_title">Sunet</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrare</string>
     <string name="preferences_alerts_vibrate_title">Vibrare și sunet</string>
@@ -883,6 +902,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="premission_description_agree">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii de mai jos.</string>
     <string name="premission_description_calendar">Pentru adăugarea și afișarea evenimentelor</string>
     <string name="premission_description_contact">Pentru afișarea zilei de naștere a contactelor dvs.</string>
+    <string name="prefsx_notify_sound_none">Silențios</string>
     <string name="premission_description_log">Pentru salvarea jurnalelor</string>
     <string name="premission_description_phone_state">Pentru identificarea dispozitivului bazat pe ID-ul acestuia</string>
     <string name="premission_description_ringtone">Pentru setarea sunetelor de apel</string>
@@ -973,7 +993,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="revoke_confirmation_dialog_title">Retragerea consimțământului</string>
     <string name="revoke_fail_message">Nu se poate conecta la rețea</string>
     <string name="revoke_processing_message">Se procesează…</string>
+    <string name="saturday">Sâmbătă</string>
     <string name="saturday_click_disabled">Fiecare a doua și a patra sâmbătă sunt zile libere acum</string>
+    <string name="saturday_short">Sâm</string>
+    <string name="saturday_shortest">Sâ</string>
     <string name="save">Salvați</string>
     <string name="saving_event">Eveniment salvat</string>
     <string name="saving_event_with_guest">Trimitere actualizări…</string>
@@ -989,6 +1012,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="select_date">Mergeți la data</string>
     <string name="select_menstruation_end_date">Selectați data de sfârșit a acestui ciclu</string>
     <string name="select_weekly_off_dialog_title">Selectați zilele libere</string>
+    <string name="send">Trimiteți</string>
     <string name="set_interval">Setați intervalul</string>
     <string name="set_reminder">Setați memento-ul</string>
     <string name="setting">Setări</string>
@@ -1034,8 +1058,16 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="short_date_format">dd MMM</string>
     <string name="show_day_view">Afișează ziua</string>
     <string name="show_indic_date_summary">Calendarul indic este disponibil atunci când una dintre limbile din India este setată ca limbă de sistem</string>
+    <string name="show_menstruation_info">Afișează informațiile despre menstruație</string>
     <string name="simple_date_format">dd.MM.yyyy</string>
     <string name="single_selected_holiday">%1$s este o zi liberă</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skip">Omiteți</string>
     <string name="small_week_date_format">EEE dd.MM.yyyy</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
@@ -1311,6 +1343,9 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="wednesday_short">Mie</string>
     <string name="weather_info_settings_description">Obțineți informații despre starea vremii și despre ICA locale</string>
     <string name="weather_info_settings_title">Afișează informații meteo</string>
+    <string name="wednesday">Miercuri</string>
+    <string name="wednesday_short">Mie</string>
+    <string name="wednesday_shortest">Mi</string>
     <string name="week_number">Arată numărul săptămânii</string>
     <string name="weekly">Săptămânal (în fiecare zi de %s)</string>
     <string name="when_label">Când</string>

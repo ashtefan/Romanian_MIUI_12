@@ -69,6 +69,8 @@
     <string name="calories_logo_text">Suport AI furnizat de Health Hope</string>
     <string name="calories_request_interface_text">Suport AI</string>
     <string name="camera_error_title">Eroare de cameră</string>
+    <string name="camera_stealth_mode_message">Nu s-a putut conecta la camera foto. Dacă este necesară camera, dezactivați modul secret.</string>
+    <string name="camera_stealth_mode_title">Modul Secret este activat</string>
     <string name="can_only_be_English_Chinese">Limba pentru traducerea online poate fi doar Engleză și Chineză Simplificată</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_pdf_save">S-a anulat salvarea pdf-ului</string>
@@ -289,6 +291,7 @@
     <string name="general_recognized">"Rezultat: "</string>
     <string name="general_title">Faceți o fotografie a unui obiect pe care doriți să-l recunoașteți</string>
     <string name="general_wifi_data_wrong_data">Introduceți SSID-ul și parola</string>
+    <string name="go_shut_down">Pentru a opri</string>
     <string name="goods_query">Produs</string>
     <string name="got_it">Am înțeles</string>
     <string name="gps">Navigați</string>
@@ -352,6 +355,8 @@
     <string name="miracast_switch_off">Ecranul wireless este oprit</string>
     <string name="miracast_switch_tip">Activați ecranul wireless pentru a utiliza această caracteristică</string>
     <string name="mishop">Magazin Mi</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -366,6 +371,7 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_selected">%s a fost selectat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -735,6 +741,7 @@
     <string name="word_to_be_recognized_is_aligned_with_cross">Cuvântul care trebuie recunoscut este aliniat cu cruce</string>
     <string name="word_translation">Traducere cuvinte</string>
     <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
+    <string name="xiaoai_classmate_scan_text">Scanați cu Mi AI</string>
     <string name="xiaoai_dialog">"Încercați să spuneți Mi AI ceea ce
 doriți să scanați"</string>
     <string name="xiaoai_text">Micuțul buton dragoste</string>

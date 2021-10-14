@@ -57,6 +57,7 @@
     <string name="app_name_miuimusic">Muzică</string>
     <string name="app_name_miuiringtone">Tonuri de apel</string>
     <string name="app_name_miuiwallpaper">Imagini de fundal</string>
+    <string name="app_name_recorder">Înregistrare</string>
     <string name="app_name_screenshot">Capturi de ecran</string>
     <string name="auto_play">Rulează în mod automat atunci când sunteți conectat la Wi-Fi</string>
     <string name="auto_play_later">Mai târziu</string>
@@ -804,7 +805,7 @@
     <string name="save_to_local">Descărcați</string>
     <string name="search_app">Aplicații și dosare</string>
     <string name="search_app_more">Mai multe</string>
-    <string name="search_category">Căutați după categorie</string>
+    <string name="search_category">Categorii</string>
     <string name="search_category_folder">Dosare</string>
     <string name="search_description">Căutați în toate fișierele din telefon</string>
     <string name="search_download">Descărcări;Descărcări recente</string>

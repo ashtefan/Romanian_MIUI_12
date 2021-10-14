@@ -326,6 +326,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="goto_confirm">Setări</string>
     <string name="goto_sign_up">Creați un cont</string>
     <string name="history_list_no_data">Niciun element aici</string>
     <string name="hour_1">În fiecare oră</string>
@@ -345,6 +346,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="just_a_second">Doar o secundă…</string>
+    <string name="k_test">testează</string>
     <string name="later">Nu dezactiva</string>
     <string name="launch_bg_permission_exception">Permiteți Caruselului de imagini de fundal să afișeze ferestre pop-up în timp ce rulează în fundal din aplicația de Securitate</string>
     <string name="like">Adăugați la Favorite</string>
@@ -693,6 +695,8 @@ mm"</string>
     <string name="refresh_network">Reîmprospătați</string>
     <string name="remove">Eliminați</string>
     <string name="req_permission_dis_tip">Sunt necesare unele permisiuni</string>
+    <string name="require_permission">Sunt necesare unele permisiuni</string>
+    <string name="require_permission_text">Pentru a putea salva și vedea elementele, permiteți Caruselului de imagini de fundal să acceseze stocarea.</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu a ajuns în dosarul de e-mailuri nedorite.</string>
     <string name="resend_email_reach_limit_title">Prea multe încercări</string>
@@ -874,6 +878,9 @@ mm"</string>
     <string name="subscribe_update_time_setting">Setați un interval diferit</string>
     <string name="summary">"Acceptați &lt;a href='%s'>Politica noastră de Confidențialitate&lt;/a> pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
     <string name="summary2">"Utilizând această caracteristică, sunteți de acord cu &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Acordul Utilizatorului&lt;/font>&lt;/a> și &lt;font color='#0D84FF'>&lt;a href='%2$s'>Politica noastră de Confidențialitate&lt;/font>&lt;/a>. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
+    <string name="summary3">"Bine ați venit la Caruselul de imagini de fundal! Aici vă puteți abona la categoriile dvs. preferate de imagini de fundal și puteți obține noi imagini livrate în mod regulat pe ecranul de blocare. Această aplicație trebuie să se conecteze la internet și să colecteze datele personale necesare pentru a putea funcționa în mod normal.&lt;br>Pentru a oferi servicii suplimentare, am putea cere permisiunea de a accesa și de a salva articole în spațiul de stocare al acestui dispozitiv.&lt;br>Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Acordul Utilizatorului&lt;/font>&lt;/a> și &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politica noastră de confidențialitate&lt;/font>&lt;/a> înainte de a utiliza această aplicație."</string>
+    <string name="summary4">"Bine ați venit la Caruselul de imagini de fundal! Aici vă puteți abona la categoriile dvs. preferate de imagini de fundal și puteți obține noi imagini livrate în mod regulat pe ecranul de blocare. "</string>
+    <string name="summary5">"Pentru a vă oferi servicii suplimentare, am putea cere permisiunea de a accesa și de a salva articole în spațiul de stocare al acestui dispozitiv. "</string>
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'>Acordul Utilizatorului&lt;/a> și &lt;a href='%2$s'>Politica de Confidențialitate&lt;/a>. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

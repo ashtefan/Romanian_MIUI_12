@@ -76,6 +76,10 @@
         <item quantity="other">Detaliere rambursare (%d ani), CNY</item>
         <item quantity="one">Detaliere rambursare (%d an), CNY</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d ani (%2$d luni)</item>
         <item quantity="one">%1$d an (%2$d luni)</item>
