@@ -163,7 +163,6 @@
     <string name="close">Închideți</string>
     <string name="close_alarm">Dezactivați</string>
     <string name="content_confirm_close_chinese_calendar">Toate evenimentele dvs. bazate pe calendarul Chinezesc Tradițional vor fi convertite la calendarul Gregorian după ce veți dezactiva această caracteristică. Anii și lunile din calendarul Gregorian vor fi utilizate pentru evenimentele repetate.</string>
-    <string name="copy">Copiați</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">%1$s nu va funcționa dacă nu activați serviciile Google Play.</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -591,7 +590,6 @@
     <string name="mark_start">Start</string>
   <string name="match_ed">S-a încheiat</string>
   <string name="match_not_started">nu a început</string>
-    <string name="midnight">Noapte</string>
     <string name="match_select_activity_label">Ligi</string>
     <string name="match_zodiac">Potriviți zodiacul</string>
     <string name="medium_date_format">EEE, dd MMMM, yyyy</string>
@@ -898,7 +896,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
-    <string name="prefsx_notify_sound_none">Silențios</string>
     <string name="premission_description_agree">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii de mai jos.</string>
     <string name="premission_description_calendar">Pentru adăugarea și afișarea evenimentelor</string>
     <string name="premission_description_contact">Pentru afișarea zilei de naștere a contactelor dvs.</string>
@@ -986,8 +983,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="response_no">Nu</string>
     <string name="response_yes">Da</string>
     <string name="rest_day_indication">: )</string>
-    <string name="saturday">Sâmbătă</string>
-    <string name="saturday_short">Sâm</string>
     <string name="revoke_confirmation_dialog_confirm">Retragere</string>
     <string name="revoke_confirmation_dialog_message">Prin dezactivarea comutatorului, vă retrageți consimțământul de la Politica de confidențialitate a Calendarului. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și reținute vor fi șterse în perioada specificată, așa cum este cerut de legile aplicabile. Calendarul trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de bază. Retragerea consimțământului dvs. de la politica sa de confidențialitate va fi considerată ca refuz de acceptare a serviciilor sale pe baza informațiilor personale colectate.</string>
     <string name="revoke_confirmation_dialog_title">Retragerea consimțământului</string>
@@ -1339,8 +1334,6 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="view_event_response_label">Participaţi?</string>
     <string name="view_in_month_view">Vizualizare lună</string>
     <string name="weather">Vremea</string>
-    <string name="wednesday">Miercuri</string>
-    <string name="wednesday_short">Mie</string>
     <string name="weather_info_settings_description">Obțineți informații despre starea vremii și despre ICA locale</string>
     <string name="weather_info_settings_title">Afișează informații meteo</string>
     <string name="wednesday">Miercuri</string>
