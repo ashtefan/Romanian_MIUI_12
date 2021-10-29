@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="allow">Permiteți</string>
+    <string name="allowed">Permis</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitudine</string>
@@ -137,6 +138,7 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="get_location">Accesarea locației</string>
     <string name="gradienter_title">Nivel</string>
     <string name="guide_toast">Pentru a calibra busola, mişcaţi telefonul conform imaginii de mai jos.</string>
     <string name="keywords_search_compass">Busolă;Calibrare busolă;Presiune;Altitudine;Latitudine;Longitudine;Verificare longitudine; Verificare latitudine;Busolă MIUI;Aplicația Busolă;Aplicația de busolă MIUI;Unde este Busola;Descărcați aplicația Busolă;Presiune atmosferică; Verificare altitudine;Care este altitudinea</string>
@@ -153,6 +155,8 @@
     <string name="location_west">Vest</string>
     <string name="longitude">Longitudine</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -167,6 +171,7 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -218,17 +223,25 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="new_cta_v2_app_purpose">Se afișează direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă</string>
+    <string name="new_permission_camera_desc">Pentru calibrare</string>
+    <string name="new_permission_location_desc">Pentru afișarea coordonatelor</string>
     <string name="night">Seară</string>
     <string name="noon">Amiază</string>
+    <string name="not_allowed">Nepermisă</string>
     <string name="not_set">Nesetat</string>
+    <string name="open_camera">Utilizați camera</string>
     <string name="open_perm_msg">Aplicația Busolă trebuie să acceseze informațiile despre locație și Camera foto. Acestea sunt necesare pentru a vă determina coordonatele și pentru a vă oferi vederi în direct. Permiteți?</string>
     <string name="open_perm_msg_no_camera">Aplicația Busolă trebuie să acceseze informațiile despre locație pentru a putea determina coordonatele. Permiteți?</string>
     <string name="open_perm_title">Permisiuni necesare</string>
     <string name="permission_camera_desc">Utilizarea nivelului de spirit?</string>
+    <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_location_desc">Afișarea coordonatelor și a presiunii atmosferice</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preference_other">Altele</string>
+    <string name="preference_privacy_policy">Vedeți Politica de Confidențialitate</string>
+    <string name="preference_privacy_setting">Confidențialitate</string>
     <string name="preference_privacy_title">Politica de Confidențialitate</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Presiune</string>

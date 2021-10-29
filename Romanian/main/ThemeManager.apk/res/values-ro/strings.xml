@@ -71,6 +71,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="app_disable_transparent_wallpaper">Fără imagine de fundal transparentă</string>
     <string name="app_enable_transparent_wallpaper">Cu imagine de fundal transparentă</string>
     <string name="app_name">Teme</string>
+    <string name="application_list_permission_desc">Pentru afișarea aplicațiilor compatibile cu imaginile de fundal transparente</string>
     <string name="apply_choosen_type_resource">Aplicați elementele selectate</string>
     <string name="apply_default_font_tip">Păstrați fontul actual de sistem?</string>
     <string name="apply_failed">Nu s-a putut aplica</string>
@@ -429,6 +430,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="has_mamual_hide_icons">Pictograme ascunse</string>
     <string name="has_mamual_hide_theme">Ascuns</string>
     <string name="has_mamual_hide_wallpaper">Ascuns</string>
+    <string name="head_portraits">Fotografie de profil</string>
     <string name="hide_free_aod">Nu arăta temele gratuite</string>
     <string name="hide_free_font">Ascunde fonturile gratuite</string>
     <string name="hide_free_icons">Nu arăta pictogramele gratuite</string>
@@ -670,6 +672,9 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Probleme de compatibilitate</string>
     <string name="multiwindow_no_support">Această acțiune nu este suportată în modul Ecran scindat</string>
     <string name="multiwindow_no_support_icon">Nu se pot modifica pictogramele când se utilizează Ecranul scindat</string>
+    <string name="need_to_open_application_permission_desc">Pentru a putea afla ce aplicații sunt compatibile cu imagini de fundal transparente, permiteți temelor să acceseze lista de aplicații instalate pe dispozitivul dvs.</string>
+    <string name="need_to_open_permission">Sunt necesare unele permisiuni</string>
+    <string name="need_to_open_storage_permission_desc">Pentru a putea folosi și descărca articole în Teme, permiteți mai întâi aplicației să acceseze spațiul de stocare.</string>
     <string name="network_exception">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Seară</string>
@@ -731,6 +736,7 @@ mm"</string>
     <string name="present_local_themes_subtitle">Personalizați-vă dispozitivul</string>
     <string name="present_official_themes">Selecția noastră</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
+    <string name="privacy_settings">Confidențialitate</string>
     <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_loading_tips">Doar o secundă…</string>
     <string name="provision_second_title">Selectați una din cele câteva teme implicite</string>
@@ -1075,6 +1081,8 @@ mm"</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="still_apply">Aplicați</string>
+    <string name="storage_migration_exit_msg">Pentru a face Temele compatibile cu versiunile viitoare de Android, am mutat articolele descărcate într-o nouă locație. Reporniți aplicația pentru a aplica modificările și pentru a vedea conținutul descărcat.</string>
+    <string name="storage_permission_denied_desc">Permiteți accesul aplicației Teme la spațiul de stocare pentru a putea vedea articolele</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

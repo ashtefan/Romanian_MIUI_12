@@ -40,7 +40,7 @@
     <string name="added_category">Adăugată</string>
     <string name="afternoon">După amiază</string>
     <string name="aggree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare listate mai jos.</string>
-    <string name="album_name">Selecția zilnică: %s</string>
+    <string name="agree">De acord</string>
     <string name="am">AM</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
     <string name="app_all_purpose">Bine ați venit în aplicația Gestionare Fișiere! Puteți utiliza această aplicație pentru a gestiona fișierele stocate pe dispozitiv.</string>
@@ -254,6 +254,7 @@
     <string name="error_not_support">Nesuportat</string>
     <string name="error_open_file_failed_no_app_found">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="evening">După amiază</string>
+    <string name="exit">Ieșiți</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
@@ -637,6 +638,7 @@
     <string name="open_app">Deschideți</string>
     <string name="open_chest">Deschideți pentru a primi un cadou</string>
     <string name="open_chest_failed">"Nu s-a putut deschide; verificați setările de rețea și reîncercați"</string>
+    <string name="open_or_close_wlan">Activați și dezactivați Wi-Fi</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
     <string name="operation_add_fav">Adăugare la favorite…</string>
     <string name="operation_cancel">Anulaţi</string>
@@ -700,6 +702,7 @@
     <string name="path_name_email">E-mail</string>
     <string name="path_recent_file">Gestionați fișierele de pe telefon</string>
     <string name="permission_denial">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări."</string>
+    <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_required">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări.​"</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Stocare internă</string>
@@ -739,8 +742,13 @@
     <string name="popup_msg_wb">Vă place videoclipul? Partajați-l prietenilor de pe Weibo!</string>
     <string name="popup_msg_wx">Partajați acest videoclip prietenilor din WeChat.</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
+    <string name="pref_permission_allowed">Acordată</string>
+    <string name="pref_permission_manage_key_storage">Accesarea fotografiilor și a fișierelor din dispozitiv</string>
+    <string name="pref_permission_not_allowed">Neacordată</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_policy_renew">Politica de Confidențialitate actualizată</string>
+    <string name="privacy_policy_renew_content"><Data>"&lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> a Gestionării fișierelor a fost actualizată. Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați noua versiune a Politicii de confidențialitate înainte de a continua."</Data></string>
     <string name="private_files">Ascunse</string>
     <string name="private_folder">Dosare ascunse</string>
     <string name="private_folder_no_file_hints">Apăsați și țineți apăsat un fișier sau un dosar pentru a-l ascunde.</string>
@@ -1179,9 +1187,10 @@
     <string name="weixin_not_installed">"WeChat nu este instalată"</string>
     <string name="weixin_sticker_tag_str">Sticker</string>
     <string name="wifi_state">Reţea Wi-Fi</string>
-    <string name="wxcircle_platform">Momente</string>
-    <string name="xiaomi_btn_bind">Cont Mi</string>
-    <string name="xiaomi_btn_str">Mi</string>
+    <string name="withdraw">Retrageți</string>
+    <string name="withdraw_consent">Retragerea consimțământului</string>
+    <string name="withdraw_consent_content">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Managerului de fișiere. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Gestionarea fișierelor își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Gestionării fișierelor.</string>
+    <string name="withdraw_consent_summary">Retrageți consimțământul pentru Politica de confidențialitate a Managerului de fișiere</string>
     <string name="xiaomi_login_btn_str">Cont Mi</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>

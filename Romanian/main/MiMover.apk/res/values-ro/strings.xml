@@ -85,6 +85,7 @@
     <string name="cancel_description">Renunțați</string>
     <string name="cancel_moving_dialog_message">Opriți importul acum?</string>
     <string name="cancel_moving_dialog_title">Opriți importul</string>
+    <string name="cancel_tranfer">Renunțați</string>
     <string name="cannot_use_mi_huanji_button">Am înțeles</string>
     <string name="cannot_use_mi_huanji_summary">Se pare că MIUI face copii de rezervă acum. Opriți backup-urile în curs sau reporniți dispozitivul pentru a permite Mi Mover să înceapă transferul.</string>
     <string name="cannot_use_mi_huanji_title">Nu se poate transfera acum</string>
@@ -284,6 +285,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="guest_unfinished_task_alert_btn_positive">Continuați</string>
     <string name="guest_unfinished_task_alert_message">Se pare că aveți sarcini de transfer neterminate. Continuați transferul?</string>
     <string name="guest_unfinished_task_alert_title">Sarcini neterminate</string>
+    <string name="guest_wainting_title">Continuați pe noul dispozitiv</string>
     <string name="hide_password_description">Ascunde parola</string>
     <string name="host_boot_installation_bottom_tips">Nu găsiți Mover? Atingeți pentru a descărca.</string>
     <string name="host_boot_installation_button">Următorul</string>
@@ -310,6 +312,10 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="host_memory_insuff_summary">Nu există suficient spațiu de stocare pe noul dispozitiv pentru a începe un transfer.</string>
     <string name="host_memory_insuff_title">Nu există suficient spațiu de stocare</string>
     <string name="host_new_device_hint">Acest dispozitiv</string>
+    <string name="host_verify_lock_hint">Introduceți parola de deblocare a ecranului</string>
+    <string name="host_verify_lock_retry">Confirmați Blocarea ecranului</string>
+    <string name="host_verify_lock_summary">Aceasta va deveni noua blocare a ecranului dispozitivului</string>
+    <string name="host_verify_lock_title">Introduceți Blocarea ecranului de pe vechiul dispozitiv</string>
     <string name="hsa_code_null">Codul de verificare nu poate fi lăsat necompletat</string>
     <string name="hsa_input_tip">ID-ul dvs. Apple folosește autentificarea cu doi factori. Introduceți codul de verificare.</string>
     <string name="hsa_send_again">Trimiteți din nou</string>
@@ -341,7 +347,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="icloud_signin_fail_message">ID-ul dvs. Apple a fost blocat din motive de securitate. Accesați iforgot.apple.com și urmați instrucțiunile.</string>
     <string name="icloud_start_now">Utilizați datele mobile</string>
     <string name="icloud_verify_tips">Atingeți Permiteți pe dispozitivul dvs. iOS și introduceți codul care apare aici.</string>
-    <string name="im">IM</string>
+    <string name="idm_discovery_positive_text">Transferați</string>
+    <string name="idm_discovery_summary">Se pare că acum activați un dispozitiv nou. Transferați articolele de pe acest dispozitiv pe cel nou?</string>
+    <string name="idm_discovery_title">Transferați elementele pe noul dvs. dispozitiv</string>
     <string name="im_recipient">Sunt destinatar</string>
     <string name="im_sender">Sunt expeditor</string>
     <string name="image">Imagini</string>
@@ -372,6 +380,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="loading_data">Doar o secundă…</string>
     <string name="location_permission_desc">Pentru descoperirea dispozitivelor din apropiere</string>
     <string name="location_permission_request">Pentru conectarea la alte dispozitive din apropiere</string>
+    <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
+    <string name="lockscreen_access_pattern_cleared">Model șters</string>
+    <string name="lockscreen_access_pattern_start">Model început</string>
     <string name="login">Conectați-vă</string>
     <string name="login_failed">Nu s-a putut conecta. Încercați din nou.</string>
     <string name="logining">Se conectează…</string>
@@ -388,8 +399,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="manual_connection_content1">1. Atingeți \"Conectați-vă manual la noul dispozitiv\" pe vechiul dispozitiv.</string>
     <string name="manual_connection_content2">2. Selectați următorul hotspot Wi-Fi.</string>
     <string name="manual_connection_content3">3. Introduceți această parolă pe vechiul dispozitiv pentru a vă conecta.</string>
+    <string name="manual_connection_hint">Atingeți \"Conectare manuală\" pe vechiul dispozitiv.</string>
     <string name="manual_connection_summary2">Dacă nu găsiți acest hotspot, reîmprospătați lista rețelelor Wi-Fi disponibile și încercați din nou.</string>
-    <string name="manual_connection_title">Conectați-vă manual la vechiul dispozitiv</string>
+    <string name="manual_connection_title">Conectați vechiul dispozitiv la acest hotspot</string>
     <string name="message_request_package_stats_perm">Mi Mover are nevoie de această permisiune pentru a învăța ce aplicații sunt instalate pe un dispozitiv și pentru a transfera aceste aplicații pe un alt dispozitiv.</string>
     <string name="midnight">Noapte</string>
     <string name="miui_need_location_permission_summary">Permiteți Mi Mover să vă acceseze locația pentru a găsi dispozitivele din apropiere. Nu veți putea utiliza Mi Mover decât dacă veți acorda această permisiune.</string>
@@ -399,6 +411,8 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="miui_wait_link_message_1">Butonul \"Sunt expeditor\" se află pe prima pagină a aplicației Mutare Mi.</string>
     <string name="miui_wait_link_title_1">%d. Atingeți butonul \"Sunt expeditor\" și așteptați un moment.</string>
     <string name="miui_wait_link_title_2">%d. Selectați acest hotspot pe vechiul dispozitiv pentru a vă conecta.</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -413,6 +427,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -611,16 +626,21 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="prompt_before_transmission_message4_title">Rămâneți conectat pe tot parcursul transferului</string>
     <string name="prompt_before_transmission_message5_summary">Transferul unor cantități mari de date prin wireless poate duce la o ușoară supraîncălzire, lucru care nu este anormal. Dispozitivul se va răci curând după ce transferul se va finaliza.</string>
     <string name="prompt_before_transmission_message5_title">Este posibil ca telefonul să se încălzească pe durata transferurilor.</string>
+    <string name="provision_cta_title">Transferați de pe vechiul dispozitiv</string>
     <string name="provision_receiver_finish_button">Următorul</string>
+    <string name="provision_select_data_null">Selectați elementele de transferat</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Nu s-a putut primi QQ</string>
     <string name="qq_app_send_fail">Nu s-a putut trimite QQ</string>
     <string name="qq_data_external">Date QQ pe cardul SD</string>
     <string name="quit_now">Părăsiți</string>
+    <string name="receiver">Primiți</string>
     <string name="receiver_finish_detail_button">Vedeți raportul</string>
     <string name="receiver_finish_detail_fail">Nu s-a putut transfera</string>
     <string name="receiver_finish_detail_success">Elementele transferate</string>
     <string name="receiver_finish_title">Sunteți gata!</string>
+    <string name="receiver_video_summary">Deblocați vechiul dispozitiv, atingeți \"Transferați\", și scanați această imagine</string>
+    <string name="receiver_video_title">Transferați de pe vechiul dispozitiv</string>
     <string name="reconnect">Conectați din nou</string>
     <string name="recovery_progress">Se restaurează elementele (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Atingeți butonul de mai jos pentru a încerca din nou.</string>
@@ -635,8 +655,10 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
 Conectați-vă la contul Mi pentru a le restaura."</string>
     <string name="restore_data_to_device_title">Restaurați elementele pe acest dispozitiv</string>
     <string name="restore_right_now">Restaurați</string>
-    <string name="retry">Încercați din nou</string>
-    <string name="sar">Informații de expunere RF</string>
+    <string name="revoke">Retrageți consimțământul</string>
+    <string name="revoke_agree">Retragerea consimțământului</string>
+    <string name="revoke_confirm_dialog_statement">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Mi Mover. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Mi Mover își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Mi Mover.</string>
+    <string name="revoke_confirm_dialog_yes">OK</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -690,8 +712,11 @@ Eliberați cel puțin %s."</string>
     <string name="send_sms_for_sync_title">Avertisment privind utilizarea datelor</string>
     <string name="send_verification_code_fail">Nu s-a putut trimite codul de verificare</string>
     <string name="send_verification_code_fail_tips">Asigurați-vă că v-ați conectat cu acest cont pe dispozitivul Apple. În caz contrar, nu veți putea primi codul.</string>
+    <string name="sender">Trimiteți</string>
     <string name="sender_finish_bottom_tips">Asigurați-vă că ați făcut copii de rezervă pentru toate elementele importante înainte de a șterge datele de pe acest dispozitiv.</string>
     <string name="sender_finish_title">Transfer încheiat cu succes</string>
+    <string name="sender_scanning_code">Plasați imaginea în cadrul ramei</string>
+    <string name="sender_scanning_connecting">Se conectează cu noul dispozitiv…</string>
     <string name="settings_phone">Setările telefonului</string>
     <string name="settings_powerkeeper">Date numărare pași</string>
     <string name="settings_sms">Setări mesagerie</string>
@@ -711,6 +736,7 @@ Eliberați cel puțin %s."</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_transfer">Omiteți</string>
     <string name="skip_underline">Omiteți acest pas</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">Nu s-a putut crea hotspot-ul. Încercați din nou.</string>
@@ -830,8 +856,11 @@ Descărcați și instalați Mi Mover."</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_receive_time_remained">Primit: %1$s | Rămas: %2$s</string>
     <string name="trans_send_time_remained">Trimis: %1$s | Rămas: %2$s</string>
-    <string name="trans_show_qr_code_label">Deschideți Mutarea Mi pe dispozitivul vechi</string>
+    <string name="trans_show_qr_code_label">Deschideți Mutare Mi pe dispozitivul vechi</string>
+    <string name="trans_show_qr_code_label_for_pad">Deschideți Mutare Mi pe dispozitivul vechi</string>
     <string name="trans_sync_transfer_data_list">Selectați elemente de transferat pe dispozitivul vechi</string>
+    <string name="trans_sync_transfer_data_list_hint">Doar o secundă…</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Selectați elementele pe vechiul dispozitiv și apăsați \"Trimiteți\".</string>
     <string name="trans_time_format_second">Mai puțin de 1 minut</string>
     <string name="trans_time_spent">Timp: %s</string>
     <string name="transfer_bottom_tip">Nu veți putea utiliza Wi-Fi sau Bluetooth în timpul transferului. Nu părăsiți această pagină.</string>

@@ -568,9 +568,17 @@
         <item quantity="other">%1$s, %2$s elemente</item>
         <item quantity="one">%1$s, %2$s element</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d elemente selectate vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
+        <item quantity="one">%d element selectat va fi șters definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>
         <item quantity="one">Nu veți putea restaura %d element selectat dacă îl ștergeți. Îl ștergeți oricum?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d articole selectate vor fi șterse definitiv. Ștergeți oricum?</item>
+        <item quantity="one">%d articol selectat va fi șters definitiv. Ștergeți oricum?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">Nu veți putea restaura %d elemente selectate dacă le ștergeți. Le ștergeți oricum?</item>

@@ -81,7 +81,7 @@
     <string name="allow_mock_location">Permiteți locații fictive</string>
     <string name="allow_mock_location_summary">Permiteți locații fictive</string>
     <string name="am">AM</string>
-    <string name="animator_duration_scale_title">Scală durată animator</string>
+    <string name="animator_duration_scale_title">Scală durată animație</string>
     <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="app_process_limit_title">Limita proceselor de fundal</string>

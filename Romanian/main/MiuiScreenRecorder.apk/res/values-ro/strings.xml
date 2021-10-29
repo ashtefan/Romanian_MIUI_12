@@ -224,11 +224,13 @@ Atingeți pentru a vedea"</string>
     <string name="not_set">Nesetat</string>
     <string name="operation_delete">Ștergeți</string>
     <string name="operation_send">Trimiteți</string>
+    <string name="permission_desc">Detalii permisiuni</string>
     <string name="permission_intro_microphone">Pentru înregistrarea sunetului când sursa de sunet este microfonul</string>
     <string name="permission_intro_storage">Pentru salvarea înregistrărilor de ecran</string>
     <string name="permission_microphone_desc">Utilizarea microfonului ca sursă audio pentru înregistrarea ecranului</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
+    <string name="privacy_settings">Confidențialitate</string>
     <string name="quit_recording">Ieșiți din Înregistrare ecran</string>
     <string name="recording_failure">"Nu s-a putut înregistra; reluați înregistrarea"</string>
     <string name="recording_max_size">"Înregistrarea a fost oprită și salvată datorită atingerii dimensiunii maxime a videoclipului. Reluați înregistrarea de unde ați rămas dacă nu ați finalizat captarea."</string>
@@ -356,6 +358,7 @@ Atingeți pentru a vedea"</string>
     <string name="using_record_confirm_ok">Permiteți</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="view_privacy">Consultați Politica de Confidențialitate</string>
     <string name="view_recorded_file">Atingeți pentru a vedea fișierul înregistrat</string>
     <string name="view_recorded_videos">Vedeți înregistrările</string>
     <string name="warning_recording_when_a2dp_connect">Dispozitivul dvs. nu suportă înregistrarea sunetelor de sistem cât timp se utilizează căștile Bluetooth.</string>
