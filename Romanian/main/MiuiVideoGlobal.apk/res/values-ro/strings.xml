@@ -1557,7 +1557,8 @@ Verificați alte videoclipuri!"</string>
     <string name="tab_name_moment">Amintiri</string>
     <string name="tab_name_trending">În trend</string>
     <string name="tab_name_video">Videoclipuri</string>
-    <string name="temporary_not_available">"Această caracteristică nu este disponibilă încă"</string>
+    <string name="target_sdk_version_30_upgrade_tips">Este posibil ca unele videoclipuri să nu fie vizionate aici din cauza restricțiilor Android 11. Apăsați \"Fișiere\" pentru a găsi alte videoclipuri.</string>
+    <string name="temporary_not_available">Această caracteristică nu este disponibilă încă</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

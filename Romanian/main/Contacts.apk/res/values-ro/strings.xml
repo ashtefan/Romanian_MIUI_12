@@ -223,6 +223,8 @@
     <string name="bh_permission_contact_desc">Pentru suplimentarea soldului contactelor</string>
     <string name="bh_permission_get_accounts_desc">Pentru plasarea comenzilor și verificarea stării acestora</string>
     <string name="bh_permission_read_call_log_desc">Pentru afișarea duratei apelului</string>
+    <string name="bh_permission_read_call_log_desc_and_reason">Citirea istoricului de apelare pentru afișarea duratei apelurilor</string>
+    <string name="bh_permission_read_contact_desc_and_reason">Citirea contactelor pentru suplimentarea balanței contactelor</string>
     <string name="bh_permission_read_phone_state_desc">Pentru afișarea numerelor de telefon și a informațiilor despre operator</string>
     <string name="bh_personal_center">Vedeți profilul</string>
     <string name="bh_phone_card_order">Cartelă SIM</string>
@@ -1134,6 +1136,8 @@ Motivul: \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_title">Actualizare fotografie de profil</string>
     <string name="missing_name">(Fără nume)</string>
     <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -1151,6 +1155,8 @@ Motivul: \"%s\""</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1335,6 +1341,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="permission_notice_desc_access_fine_location">Pentru importul contactelor de pe alte dispozitive prin Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Pentru utilizarea căuței vocale și a funcției de mesaje audio</string>
     <string name="permission_notice_desc_call_phone">Pentru apelarea în aplicații terțe</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Pentru realizarea apelurilor în aplicații terțe</string>
     <string name="permission_notice_desc_camera">Pentru realizarea fotografiilor de profil</string>
     <string name="permission_notice_desc_read_call_logs">Pentru vizualizarea istoricului de apelare</string>
     <string name="permission_notice_desc_read_contacts">Pentru vizualizarea contactelor</string>
@@ -1457,9 +1464,12 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="privacy_password_title2">Utilizați parola de protecție a confidențialității</string>
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
-    <string name="privacy_settings_call_phone">Realizați</string>
+    <string name="privacy_settings_call_phone">Realizați apeluri</string>
     <string name="privacy_settings_call_phone_description">Pentru realizarea apelurilor în aplicații terțe</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Pentru realizarea apelurilor în aplicații terțe</string>
+    <string name="privacy_settings_call_phone_for_pad">Realizare apeluri</string>
     <string name="privacy_settings_contacts">Contacte și Telefon</string>
+    <string name="privacy_settings_contacts_for_pad">Confidențialitate</string>
     <string name="privacy_settings_mallowed">Permis</string>
     <string name="privacy_settings_mnotallowed">Nepermis</string>
     <string name="privacy_settings_permission_description">Detalii permisiuni</string>
@@ -1850,6 +1860,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="toast_not_show_read_contacts_perm_req">Pentru a putea vedea contactele, permiteți mai întâi acestei aplicații să acceseze contactele.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Pentru a putea folosi această aplicație cu cartela SIM, permiteți mai întâi acestei aplicații să acceseze informațiile despre dispozitiv.</string>
     <string name="toast_not_show_storage_perm_req">Pentru a putea adăuga fotografii de profil și importa carduri vCard, permiteți mai întâi acestei aplicații să acceseze spațiul de stocare.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Pentru a putea adăuga fotografii de profil și importa carduri vCard, permiteți mai întâi acestei aplicații să acceseze spațiul de stocare.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Pentru a putea menține istoricul apelurilor actualizat, permiteți mai întâi acestei aplicații să editeze istoricul apelurilor.</string>
     <string name="toast_not_show_write_contacts_perm_req">Pentru a putea vizualiza contactele, permiteți mai întâi acestei aplicații să editeze contactele.</string>
     <string name="toast_start_intent_failed">"Nu s-a găsit nicio aplicație pentru gestionarea acestei acțiuni"</string>

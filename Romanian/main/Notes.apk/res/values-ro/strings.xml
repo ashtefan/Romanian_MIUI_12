@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="action_collapse">Ascunde</string>
+    <string name="action_expand">Afișează mai multe</string>
     <string name="action_folder_description">Vedeți dosarele</string>
     <string name="action_mode_cancel_folder_priority">Nu afișa mai întâi dosarele</string>
     <string name="action_mode_switcher_folder_priority">Afișează mai întâi dosarele</string>
@@ -112,6 +114,7 @@
     <string name="btn_next">Următorul</string>
     <string name="call_folder_name">Note apel</string>
     <string name="cancel_alarm_description">Anulați alarma</string>
+    <string name="canvas_is_too_large_to_share_phone">Acest element este prea mare pentru a fi partajat</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -318,6 +321,7 @@
     <string name="gesture_guide_ok">Învăț</string>
     <string name="gesture_guide_title">Gesturi</string>
     <string name="hand_write_only_support_tablet_editing">Notițele scrise de mână pot fi editate doar pe tablete</string>
+    <string name="hand_write_syncing_phone">Se sincronizează…</string>
     <string name="handwrite_description">Notiță scrisă de mână</string>
     <string name="hear_note">Notițe dictate</string>
     <string name="hidden_notes_fragment_title">Notițe ascunse</string>

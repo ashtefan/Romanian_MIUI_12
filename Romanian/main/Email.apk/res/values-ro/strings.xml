@@ -36,6 +36,12 @@
     <string name="account_add_other_sub_des">Alte conturi</string>
     <string name="account_add_title">Selectați serviciul de e-mail</string>
     <string name="account_change">Comutați conturile</string>
+    <string name="account_child_dialog_neg_text">Ieșiți</string>
+    <string name="account_child_dialog_pos_text">Acordul tutorelui</string>
+    <string name="account_child_dialog_text">"Dacă sunteți minor cu vârsta sub 14 ani, informați tutorele că trebuie să citească și să fie de acord cu \"Declarația Kingsoft privind protecția datelor cu caracter personal ale minorilor\". De asemenea, trebuie să solicitați consimțământul și îndrumarea acestuia înainte de a utiliza serviciile noastre sau de a ne trimite orice informații personale.
+Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum și modurile în care vă procesăm datele, citiți \"Declarația Kingsoft privind protecția datelor cu caracter personal ale minorilor\"."</string>
+    <string name="account_child_dialog_title">Declarația privind protecția datelor cu caracter personal ale minorilor</string>
+    <string name="account_child_save_statement">Declarația Kingsoft privind protecția datelor cu caracter personal ale minorilor</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_failure">Sesiune expirată</string>
@@ -45,6 +51,12 @@
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
           spaţii. Numeroase servere nu acceptă parole cu spaţii."</string>
+    <string name="account_permission_child_statement">Declarația privind protecția datelor cu caracter personal ale minorilor</string>
+    <string name="account_permission_dialog_cancel_text">Retrageți</string>
+    <string name="account_permission_dialog_text">Dacă veți continua, vă veți retrage consimțământul pentru Acordul de licență pentru utilizatorul final, Politica de confidențialitate și Declarația privind protecția datelor personale ale minorilor. După aceea, nu veți mai putea folosi WPS Mail și toate datele generate pe acest dispozitiv vor fi șterse.</string>
+    <string name="account_permission_dialog_title">Retragerea consimțământului</string>
+    <string name="account_permission_private_policy">Politica de Confidențialitate</string>
+    <string name="account_permission_user_privacy">Acordul licenței pentru utilizatorul final</string>
     <string name="account_security_dialog_content_fmt">"%s vă solicită actualizarea setărilor dvs.
           de securitate."</string>
     <string name="account_security_dialog_title">Actualizare de securitate</string>
@@ -1359,6 +1371,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="print">Imprimaţi</string>
     <string name="print_scheduler_title">Tipăriți toate programările</string>
     <string name="privacy_and_help">Confidențialitate și ajutor</string>
+    <string name="privacy_and_private_permission">Consimțământul pentru Acordul utilizatorului și Politica de confidențialitate</string>
     <string name="privacy_des">"Jurnalele conțin informații de depanare despre clientul de e-mail și despre dispozitiv. Aceste informații sunt utilizate pentru a localiza mai rapid problemele. Atingând butonul \"%1$s\" de mai jos, acceptați \"%2$s\"."</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_setting_agree">De acord</string>
@@ -1614,6 +1627,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="show_images_all">Încarcă și afișează toate imaginile</string>
     <string name="show_password">Arată parola</string>
     <string name="show_server_cet">Vedeți certificatul</string>
+    <string name="sign_in_dialog_office365">Office 365</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook pentru business (fără calendar)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (inclusiv calendar)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (fără calendar)</string>

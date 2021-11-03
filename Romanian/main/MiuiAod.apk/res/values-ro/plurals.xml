@@ -33,6 +33,12 @@
         <item quantity="other">" %1$s ore %2$s"</item>
         <item quantity="one">" %1$s oră %2$s"</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Durata redării animațiilor nu poate depăși %d secunde.
+Animațiile mai lungi vor fi oprite în acest moment."</item>
+        <item quantity="one">"Durata redării animațiilor nu poate depăși %d secundă.
+Animațiile mai lungi vor fi oprite în acest moment."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">Au fost selectate %d elemente</item>
         <item quantity="one">A fost selectat %d element</item>

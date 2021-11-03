@@ -42,6 +42,7 @@
     <string name="am">AM</string>
     <string name="antispam">Lista blocărilor</string>
     <string name="app_name">Mutare Mi</string>
+    <string name="app_update_title">Actualizați toate aplicațiile</string>
     <string name="appname_app_data_suffix">%1$s date ale aplicației</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, video și documente</string>

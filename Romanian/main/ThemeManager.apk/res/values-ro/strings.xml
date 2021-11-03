@@ -64,6 +64,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="afternoon">După amiază</string>
     <string name="all_resources">Toate</string>
+    <string name="allow">Permisă</string>
     <string name="already_latest_version">Actualizată la zi</string>
     <string name="already_newest_version">Versiunea curentă este cea mai recentă</string>
     <string name="am">AM</string>
@@ -241,6 +242,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="dialog_content_get_device_status">Această aplicație trebuie să vă acceseze ID-ul dispozitivului pentru a putea autentifica articolele achiziționate de pe celelalte dispozitive. Este posibil să nu puteți utiliza unele dintre articolele achiziționate după ce dezactivați această funcție. O dezactivați oricum?</string>
     <string name="dialog_show_never">Nu afișa din nou.</string>
     <string name="display">Afișați</string>
+    <string name="do_not_allow">Restricționată</string>
     <string name="download_failed">Nu s-a putut descărca</string>
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
     <string name="download_success">Descărcare finalizată</string>
@@ -515,16 +517,16 @@ Atingeți aici pentru a vă conecta acum."</string>
     <string name="miui_clock_city_name_second">Ceas secundar</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date">EEEE, dd.MM</string>
+    <string name="miui_lock_screen_date_12">EEEE, dd.MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
+dd.MM"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -687,6 +689,7 @@ mm"</string>
     <string name="no_network_please_retry">Verificați setările de rețea și încercați din nou</string>
     <string name="no_wallpaper">Niciun element aici deocamdată</string>
     <string name="noon">Amiază</string>
+    <string name="not_allow">Nepermisă</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_incall_show">Această imagine de fundal nu funcționează cu videoclipurile de profil</string>
     <string name="official_accounts">WeChat</string>
@@ -707,7 +710,15 @@ mm"</string>
     <string name="ota_recovery_theme_notity_btn">Restaurați</string>
     <string name="ota_recovery_theme_notity_content">Puteți reveni la tema folosită înainte de actualizare</string>
     <string name="ota_recovery_theme_notity_title">Restaurați tema</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"Nu veți putea efectua următoarele acțiuni după ce vă deconectați:
+Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau pe care le-ați adăugat la favorite."</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Deconectați-vă de la Imagini de fundal și personalizare?</string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a personalizării Imaginilor de fundal, ca și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a contului Mi(pentru autentificarea și utilizarea contului de sistem)."</Data></string>
+    <string name="pad_fold_log_in_wallpaper">Conectați-vă la Imagini de fundal și personalizare</string>
+    <string name="pad_fold_no_permission">Sunt necesare permisiuni pentru stocare</string>
+    <string name="pad_fold_no_permission_detail">Pentru a putea modifica preferințele de personalizare și pentru a salva articolele descărcate, permiteți mai întâi ca această funcție să acceseze spațiul de stocare.</string>
     <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="personalize">Personalizare</string>
     <string name="personalize_alarm_ringtone_title">Alarme</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Tonuri de apel</string>
@@ -724,10 +735,18 @@ mm"</string>
     <string name="personalize_title">Imagine de fundal și personalizare</string>
     <string name="personalize_wallpaper_sub_title">Super imagini de fundal și imagini conexe</string>
     <string name="personalize_wallpaper_title">Imagine de fundal</string>
+    <string name="phone_exit_theme_warning_content">"Nu veți putea efectua următoarele acțiuni după ce vă deconectați:
+1. Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau pe care le-ați adăugat la favorite.
+2. Să adăugați comentarii și aprecieri, să urmăriți alte persoane și să interacționați cu ei."</string>
+    <string name="phone_exit_theme_warning_title">Vă deconectați din aplicația Teme?</string>
+    <string name="phone_log_in_theme">Conectați-vă la Teme</string>
+    <string name="phone_log_in_theme_detail"><Data>"Am citit și acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a aplicației Teme, ca și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a Contului Mi(pentru autentificare și utilizarea contului de sistem)."</Data></string>
     <string name="playing_ringtone">Se redă</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Înlocuiți imaginea de fundal cu prezentări de imagini din diferite categorii</string>
     <string name="pref_privacy_policy">Politica de Confidențialitate</string>
+    <string name="pref_read_write_function_detail">Pentru modificarea preferințelor de personalizare și salvarea elementelor descărcate</string>
+    <string name="pref_reading_the_application_list_detail">Pentru utilizarea imaginilor de fundal transparente</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_subtitle_get_device_status">Permiteți aplicației să acceseze ID-ul dispozitivului pentru a putea descărca elementele achiziționate pe celelalte dispozitive</string>
     <string name="preference_title_get_device_status">Accesarea ID-ului dispozitivului</string>
@@ -736,7 +755,112 @@ mm"</string>
     <string name="present_local_themes_subtitle">Personalizați-vă dispozitivul</string>
     <string name="present_official_themes">Selecția noastră</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
+    <string name="privacy_action_failed_net_content">A apărut o eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="privacy_action_failed_server_content">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="privacy_action_failed_title">Eroare</string>
+    <string name="privacy_confirm_logoff_and_exit">Anulați serviciile</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Retrageți consimțământul</string>
+    <string name="privacy_exit_btn">Ieșiți</string>
+    <string name="privacy_give_up_logoff">Înapoi</string>
+    <string name="privacy_give_up_revoke_btn">Înapoi</string>
+    <string name="privacy_i_know_btn">Continuați</string>
+    <string name="privacy_important_prompt_title">Atenție</string>
+    <string name="privacy_log_off_succeed">Servicii anulate cu succes</string>
+    <string name="privacy_loging_off_warning">Se anulează serviciile…</string>
+    <string name="privacy_logoff_services_title">Anulați serviciile</string>
+    <string name="privacy_logoff_theme_content_1">1. Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.</string>
+    <string name="privacy_logoff_theme_content_2">2. Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorilor dvs. generate pe dispozitivele Xiaomi.</string>
+    <string name="privacy_logoff_theme_content_5">5. Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite.</string>
+    <string name="privacy_logoff_theme_service_warning">Următoarele elemente vor fi șterse definitiv după anularea serviciilor:</string>
+    <string name="privacy_network_exception">A apărut o eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="privacy_pad_fold_Read_write_storage">Acces la stocare</string>
+    <string name="privacy_pad_fold_entry">Confidențialitate</string>
+    <string name="privacy_pad_fold_logoff_service_content">Anulați serviciile de Imagini de fundal și personalizare</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Toate imaginile de fundal, fonturile și tonurile de apel descărcate pe acest dispozitiv.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Toate preferințele de permisiuni, setările și elementele din cache generate pe acest dispozitiv.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Asigurați-vă că aveți dreptul de a anula serviciile înainte de a continua.
+2. Anularea serviciilor de Imagini de fundal și personalizare nu vor afecta utilizarea normală a altor produse Xiaomi.
+3. Anularea serviciului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia odată ce serviciile vor fi anulate. Următoarele date vor fi șterse definitiv sau anonimizate după anularea serviciului (cu excepția cazurilor în care legile și reglementările prevăd altfel, sau dacă sunt altfel cerute de către autoritățile de reglementare):"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi.
+Toate imaginile de fundal, fonturile și tonurile de apel descărcate pe acest dispozitiv.
+Toate preferințele de permisiuni, setările și elementele din cache generate pe acest dispozitiv.
+Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Anularea serviciului nu implică scutire sau atenuare în ceea ce privește responsabilitățile aduse de acțiunile efectuate înainte de anularea serviciilor.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declarație privind anularea serviciilor de Imagini de fundal și personalizare</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Citiți și acceptați \"Declarația privind anularea serviciilor de Imagini de fundal și personalizare\" înainte de a anula serviciile noastre.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Sunteți pe cale să anulați serviciile de Imagini de fundal și personalizare."</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Am citit și accept \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind anularea serviciilor de Imagini de fundal și personalizare&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Am citit și accept \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind retragerea consimțământului de la Politica de Confidențialitate a Imaginilor de fundal și personalizare&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Toate imaginile de fundal, fonturile și tonurile de apel descărcate pe acest dispozitiv.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Toate preferințele de permisiuni, setările și elementele din cache generate pe acest dispozitiv.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declarație privind retragerea consimțământului cu privire la politica de confidențialitate a Imaginilor de fundal și a personalizării</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Citiți și acceptați \"Declarația privind retragerea consimțământului cu privire la politica de confidențialitate a Imaginilor de fundal și personalizare\" înainte de a vă retrage consimțământul.</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"Dacă continuați, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Imaginilor de fundal și personalizare. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Imagini de fundal și personalizare oferă serviciile sale pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile de Imagini de fundal și personalizare."</string>
+    <string name="privacy_pad_fold_update_content">Politica de confidențialitate a Imaginilor de fundal și personalizare a fost actualizată:</string>
+    <string name="privacy_pad_important_prompt_content">"Se pare că încă nu ați acceptat Acordul de utilizare și Politica noastră de confidențialitate. Cu toate acestea, funcțiile și serviciile de bază ale Imaginilor de fundal și personalizare vă sunt în continuare disponibile.
+Ori de câte ori utilizați elementele stocate pe acest dispozitiv pentru personalizare (de exemplu, setarea lor ca imagini de fundal sau tonuri de apel), vă vom cere să permiteți acestei aplicații să acceseze spațiul de stocare al dispozitivului."</string>
+    <string name="privacy_permission_management_description">Detalii permisiuni</string>
+    <string name="privacy_permission_related_content">Permisiuni</string>
+    <string name="privacy_permit_privacy_policy_content">"Nu veți putea continua să utilizați sistemul nostru decât dacă sunteți de acord cu noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politicii de Confidențialitate&lt;/font>&lt;/a>. Acceptați Politica de Confidențialitate actualizată acum?"</string>
+    <string name="privacy_phone_important_prompt_content">"Se pare că încă nu ați fost de acord cu Acordul de utilizare și cu Politica noastră de confidențialitate. Cu toate acestea, funcțiile și serviciile de bază ale Temelor vă sunt în continuare disponibile.
+Ori de câte ori utilizați elementele stocate pe acest dispozitiv pentru personalizare (de exemplu, setarea lor ca imagini de fundal sau tonuri de apel), vă vom cere să permiteți acestei aplicații să acceseze spațiul de stocare al dispozitivului."</string>
+    <string name="privacy_phone_logoff_service_content">Anulați serviciile Teme</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Toate înregistrările din istoricul căutărilor, preferințele de permisiuni, setările și elementele stocate în cache generate pe acest dispozitiv.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Asigurați-vă că aveți dreptul de a anula serviciile înainte de a continua.
+2. Anularea serviciilor Teme nu va afecta utilizarea normală a altor produse Xiaomi.
+3. Anularea serviciului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia odată ce serviciile vor fi anulate. Următoarele date vor fi șterse definitiv sau anonimizate după anularea serviciului (cu excepția cazurilor în care legile și reglementările prevăd altfel, sau dacă autoritățile de reglementare cer în alt mod):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi.
+Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.
+Toate înregistrările din istoricul căutărilor, preferințele de permisiuni, setările și elementele stocate în cache generate pe acest dispozitiv.
+Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Anularea serviciului nu implică scutire sau atenuare în ceea ce privește responsabilitățile aduse de acțiunile efectuate înainte de anularea serviciilor.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Declarație privind anularea serviciilor Teme</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Citiți și acceptați \"Declarația privind anularea serviciilor Teme\" înainte de a anula serviciile noastre.</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">"Sunteți pe cale să anulați serviciile Teme."</string>
+    <string name="privacy_phone_read_and_write_storage">Acces la stocare</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Am citit și am fost de acord cu \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind anularea serviciilor Teme&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Am citit și am fost de acord cu \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind retragerea consimțământului pentru politica de confidențialitate a Temelor&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Toate înregistrările din istoricul căutărilor, preferințele de permisiuni, setările și elementele stocate în cache generate pe acest dispozitiv.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Asigurați-vă că aveți dreptul de a vă retrage consimțământul înainte de a continua.
+2. Retragerea consimțământului dumneavoastră cu privire la Politica de confidențialitate a temelor nu va afecta utilizarea normală a altor produse Xiaomi.
+3. Retragerea consimțământului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia după retragerea consimțământului. Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.
+Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.
+Toate înregistrările din istoricul căutărilor, preferințele de permisiuni, setările și elementele stocate în cache generate pe acest dispozitiv.
+Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. După ce vă retrageți consimțământul pentru politica de confidențialitate a aplicației Teme, vom înceta să colectăm informațiile dumneavoastră personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, cu excepția cazului în care se solicită altfel. 
+5. Retragerea consimțământului nu implică scutire sau atenuare cu privire la responsabilitățile aduse de acțiunile efectuate înainte de retragerea consimțământului."</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Declarație privind retragerea consimțământului pentru politica de confidențialitate a Temelor</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Citiți și acceptați \"Declarația privind retragerea consimțământului pentru politica de confidențialitate a Temelor\" înainte de a vă retrage consimțământul.</string>
+    <string name="privacy_phone_revoke_agree_introduce">"Dacă continuați, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Temelor. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Întrucât Themes își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile Teme."</string>
+    <string name="privacy_phone_update_content">Politica de confidențialitate a Temelor a fost actualizată:</string>
+    <string name="privacy_read_statement">Acceptați mai întâi termenii și condițiile</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Citiți și acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politicii de Confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
+    <string name="privacy_reading_the_application_list">Accesați lista de aplicații instalate pe acest dispozitiv</string>
+    <string name="privacy_revoke_agree_content">Retragerea consimțământului</string>
+    <string name="privacy_revoke_agree_content_1">1. Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.</string>
+    <string name="privacy_revoke_agree_content_2">2. Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.</string>
+    <string name="privacy_revoke_agree_content_5">5. Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite.</string>
+    <string name="privacy_revoke_agree_data_warning">Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):</string>
+    <string name="privacy_revoke_succeed">Consimțământul a fost retras cu succes</string>
+    <string name="privacy_revoking_warning">Se retrage consimțământul…</string>
     <string name="privacy_settings">Confidențialitate</string>
+    <string name="privacy_update_prompt_title">Politica de confidențialitate actualizată</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Asigurați-vă că aveți dreptul de a vă retrage consimțământul înainte de a continua.
+2. Retragerea consimțământului dumneavoastră cu privire la Politica de confidențialitate a Imaginilor de fundal și personalizare nu va afecta utilizarea normală a altor produse Xiaomi.
+3. Retragerea consimțământului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia după retragerea consimțământului. Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.
+Toate imaginile de fundal, fonturile și tonurile de apel descărcate pe acest dispozitiv.
+Toate preferințele de permisiuni, setările și elementele din cache generate pe acest dispozitiv.
+Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. După ce vă retrageți consimțământul pentru politica de confidențialitate a imaginii de fundal și personalizare, vom înceta să colectăm informațiile dumneavoastră personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, cu excepția cazului în care se solicită altfel. 
+5. Retragerea consimțământului nu implică scutire sau atenuare cu privire la responsabilitățile aduse de acțiunile efectuate înainte de retragerea consimțământului."</string>
     <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_loading_tips">Doar o secundă…</string>
     <string name="provision_second_title">Selectați una din cele câteva teme implicite</string>
@@ -1224,6 +1348,7 @@ mm"</string>
     <string name="theme_import_from_sdcard">Import</string>
     <string name="theme_is_external_priority_storage">Salvaţi pe cardul SD</string>
     <string name="theme_is_external_priority_storage_summary">Aplicaţia Teme va reporni imediat pentru a intra în vigoare modificările efectuate</string>
+    <string name="theme_log_out">Deconectați-vă</string>
     <string name="theme_multiple_button_title_customize">Personalizare</string>
     <string name="theme_no">Nu</string>
     <string name="theme_not_include_module_desc">Această temă nu conține următoarele elemente: %s</string>

@@ -150,6 +150,8 @@
     <string name="cm_privacy_dialog_tips">"Serviciile de mesagerie inteligentă sunt furnizate de către operatorul dvs. Aplicația de Mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza aceste servicii. Trebuie să acceptați %1s operatorului înainte de a utiliza aceste servicii. Sunteți de acord?"</string>
     <string name="cm_privacy_dialog_title">Atenție</string>
     <string name="cmcc_privacy">Acordul de Confidențialitate al operatorului China Mobile</string>
+    <string name="cn_privacy_dialog_title">Atenție</string>
+    <string name="cn_privacy_update_dialog_title">Politica de confidențialitate a fost actualizată</string>
     <string name="complain_message_title">Raportați</string>
     <string name="compressing">Imaginea este prea mare. Se comprimă…</string>
     <string name="confirm">Confirmaţi</string>
@@ -228,6 +230,8 @@
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
+    <string name="dialog_agree">Accept</string>
+    <string name="dialog_cancel">Renunț</string>
     <string name="dialog_choice_all_correct_as_normal">Toate mesajele de la %s</string>
     <string name="dialog_complain_tips">Permiteți aplicației de Mesagerie să se conecteze la rețea pentru a putea raporta elementele.</string>
     <string name="dialog_message_correct_as_ad">Toate mesajele de la %s (exceptând codurile de verificare) vor fi mutate în dosarul de mesaje promoționale.</string>
@@ -236,6 +240,8 @@
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
     <string name="dialog_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje altor utilizatori ai acestei rețele din Mainland China fără costuri. Trebuie să acceptați \"%1$s\" înainte de a utiliza Mesageria China Mobile.</string>
+    <string name="dialog_quit">Ieșiți</string>
+    <string name="dialog_revoke">Retrageți</string>
     <string name="dialog_sim_locked_confirm">OK</string>
     <string name="dialog_sim_locked_message">"Cartela dvs. SIM nu este complet operațională cu acest telefon întrucât nu respecta termenii și condițiile abonamentului dvs. Dacă aveți întrebări sau aveți nevoie de mai multe informații despre această situație, vă rugăm să contactați centrul de servicii Xiaomi sau magazinul de unde ați cumpărat produsul."</string>
     <string name="dialog_smart_message_privacy_tips">Serviciile de mesagerie inteligentă sunt furnizate parțial de Dianhuabang. Înainte de a utiliza mesageria inteligentă, trebuie să fiți de acord cu \"%1$s\". Mesageria inteligentă trebuie să se conecteze la internet și să acceseze locația pentru a funcționa normal. Sunteți de acord?</string>
@@ -531,6 +537,8 @@ Verificați cartela SIM."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="mms">MMS</string>
+    <string name="mms_5g_mms_privacy_policy">Politica de Confidențialitate a Mesageriei 5G</string>
+    <string name="mms_5g_mms_privacy_policy_revoke">Retragerea consimțământului de la Politica de Confidențialitate a Mesageriei 5G</string>
     <string name="mms_block_alert_message">Toate MMS-urile, cu excepția mesajelor trimise de la expeditori autorizați, vor fi blocate. Expeditorii autorizați includ furnizorii de rețea, sistemele naționale de rezervare a căilor ferate etc.</string>
     <string name="mms_block_alert_ok">Blocare</string>
     <string name="mms_block_alert_title">Blocare MMS</string>
@@ -648,6 +656,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="mx_on_sim_2">Mesagerie Mi SIM2</string>
     <string name="mx_online">Activată</string>
     <string name="mx_privacy_policy">Politica de Confidențialitate a Mesageriei Mi</string>
+    <string name="mx_privacy_policy_revoke">Retragerea consimțământului de la Politica de Confidențialitate a Mesageriei Mi</string>
     <string name="mx_reactivate">Reactivaţi Mesagerie Mi</string>
     <string name="mx_recommend_msg">Atingeţi pentru a activa Mesageria Mi</string>
     <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
@@ -712,6 +721,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="perm_purpose_rcs_account">"Pentru afișarea ghidului începătorului la noii utilizatori"</string>
     <string name="perm_purpose_rcs_phone_state">Pentru accesarea IMEI-ului în vederea identificării dispozitivului</string>
     <string name="perm_purpose_rcs_storage">Pentru salvarea imaginilor, videoclipurilor, fișierelor și a altor atașamente RCS</string>
+    <string name="permission_new_retry_dialog_msg">Mesageria trebuie să acceseze contactele pentru a putea funcționa în mod normal. Puteți modifica permisiunile din Setări > Aplicații > Setări aplicații de sistem.</string>
     <string name="permission_retry_deny">Renunțați</string>
     <string name="permission_retry_dialog_msg">Aplicația de Mesagerie are nevoie de permisiuni pentru a putea funcționa în mod normal. Pentru a acorda permisiunile necesare, atingeți \"Setări\", selectați \"Permisiuni aplicație\" și permiteți aplicației să acceseze telefonul, SMS-urile și contactele.</string>
     <string name="permission_retry_setting">Setări</string>
@@ -776,6 +786,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_system_title">Sistem</string>
     <string name="pref_title_ad_mms_recognition">Recunoaște mesajele promoționale</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
+    <string name="pref_title_authority_management">Detalii permisiuni</string>
     <string name="pref_title_auto_delete">Șterge mesajele vechi</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
     <string name="pref_title_collapse_ad_notification">Grupează notificările despre mesajele promoționale</string>
@@ -794,6 +805,17 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_mms_validity_period">Expirare MMS</string>
     <string name="pref_title_msg_blocked">Listă de blocări</string>
     <string name="pref_title_notification_body_enabled">Arată mesajele în Blocarea ecranului</string>
+    <string name="pref_title_perm_audio">Înregistrare sunete audio</string>
+    <string name="pref_title_perm_calander">Accesare calendar</string>
+    <string name="pref_title_perm_call">Realizare apeluri</string>
+    <string name="pref_title_perm_camera">Utilizare cameră foto</string>
+    <string name="pref_title_perm_location">Locație</string>
+    <string name="pref_title_perm_read_call_log">Accesare istoric de apelare</string>
+    <string name="pref_title_perm_read_contacts">Accesare contacte</string>
+    <string name="pref_title_perm_read_mms">Citire SMS-uri</string>
+    <string name="pref_title_perm_send_mms">Trimitere SMS-uri</string>
+    <string name="pref_title_perm_storage">Accesare stocare</string>
+    <string name="pref_title_perm_write_contacts">Editare contacte</string>
     <string name="pref_title_privacy_authority">Autorizare</string>
     <string name="pref_title_privacy_policy_detail">Politica de confidențialitate</string>
     <string name="pref_title_ringtone_repeat">Sunet</string>

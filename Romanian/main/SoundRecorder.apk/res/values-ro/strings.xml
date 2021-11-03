@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Xiaomi Cloud. Ştergeți înregistrările selectate oricum?</string>
     <string name="alert_message_delete_record_title">Ştergeţi înregistrarea?</string>
     <string name="all_record">Toate înregistrările</string>
+    <string name="allowed">Permisă</string>
     <string name="am">AM</string>
     <string name="app_name">Înregistrare sunete</string>
     <string name="app_record">Înregistrări aplicație</string>
@@ -329,6 +330,7 @@
     <string name="no_records">Nicio înregistrare aici deocamdată</string>
     <string name="noon">Amiază</string>
     <string name="normal_settings_pref_title">Setări generale</string>
+    <string name="not_allowed">Nepermisă</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_message_all_paused">Se așteaptă conectarea la Wi-Fi.</string>
     <string name="notification_playback">Redare…</string>
@@ -374,6 +376,15 @@
     <string name="pay_error_cancel">Plata a fost anulată</string>
     <string name="pay_error_null">"Nu s-a putut finaliza plata. Verificați-vă contul."</string>
     <string name="pay_error_unknown">Eroare necunoscută</string>
+    <string name="permission_desc">Detalii permisiuni</string>
+    <string name="permission_dialog_cancel">Renunțați</string>
+    <string name="permission_dialog_ok">Setări</string>
+    <string name="permission_record">Înregistrare audio</string>
+    <string name="permission_record_description">Pentru furnizarea serviciilor de înregistrare audio</string>
+    <string name="permission_storage">Acces la stocare</string>
+    <string name="permission_storage_description">Pentru gestionarea înregistrărilor și descărcarea acestora din cloud</string>
+    <string name="permission_storage_description_for_download">Pentru descărcarea înregistrărilor din cloud</string>
+    <string name="permission_storage_description_for_manage_files">Pentru gestionarea înregistrărilor</string>
     <string name="play_speed">Viteza %1$.1fX</string>
     <string name="playback_delete_records">Ștergeți înregistrarea</string>
     <string name="playback_share_records">Partajați înregistrarea</string>
@@ -395,6 +406,7 @@
     <string name="preference_status_bar_indicator_prompt">Afișați un indicator albastru pe ecranul de blocare în timpul înregistrării</string>
     <string name="preference_tip_rename">Denumire înregistrare în mod manual</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
+    <string name="privacy_settings">Confidențialitate</string>
     <string name="recognition_button_add_to_queue">Adăugați în lista de sarcini</string>
     <string name="recognition_button_cancel">Nu acum</string>
     <string name="recognition_button_start">Transcrieți</string>
@@ -462,6 +474,7 @@
     <string name="record_mark_point">Marcați %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Sunt necesare permisiuni de accesare microfon</string>
     <string name="record_quliaty_preference_title">Calitate înregistrare</string>
     <string name="record_resotre">Restaurați înregistrări</string>
     <string name="recorder_record">Audio</string>
@@ -557,6 +570,7 @@
     <string name="status_bar_back">Atingeți pentru a reveni la Înregistrare</string>
     <string name="status_bar_recording">Înregistrare…</string>
     <string name="status_bar_recording_pause">Pauză înregistrare</string>
+    <string name="storage_permission_dialog_title">Sunt necesare permisiuni pentru stocare</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
@@ -646,6 +660,7 @@
     <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="view_privacy">Vedeți Politica de Confidențialitate</string>
     <string name="webview_check_network">Setări de rețea</string>
     <string name="webview_data_error">A apărut o eroare</string>
     <string name="webview_locating_fail">"Nu v-am putut determina locația"</string>

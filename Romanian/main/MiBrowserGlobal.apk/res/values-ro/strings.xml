@@ -492,7 +492,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_dialog_default_path_invalid">"Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…"</string>
     <string name="download_dialog_failed_body">Încercați din nou mai târziu sau eliminați acest fișier din coada de descărcare?</string>
     <string name="download_dialog_file_already_exists">Ați descărcat deja acest fișier</string>
-    <string name="download_dialog_file_length_hint_txt">"Dimensiunea fișierului: "</string>
+    <string name="download_dialog_file_length_hint_txt">"Dimensiune fișier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Nu s-a putut descărca</string>
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
@@ -1846,7 +1846,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="save_to_camera">Salvaţi în Galerie</string>
     <string name="save_to_camera_failed">"Nu se poate salva imaginea"</string>
     <string name="save_to_camera_success">Salvată în Galerie</string>
-    <string name="save_to_private_folder">Adăugați la fișierele ascunse</string>
+    <string name="save_to_private_folder">Adăugați în Ascunse</string>
     <string name="scanner_uninstalled_text">Instalați aplicația Scaner pentru a continua</string>
     <string name="scanner_uninstalled_title">Aplicația Scaner a fost dezinstalată</string>
     <string name="score_dialog_msg_score_explorer">Vă place Mi Browser?</string>
