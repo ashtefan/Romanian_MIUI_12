@@ -406,6 +406,9 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="copy">Copiați</string>
     <string name="copy_url">Copiaţi URL</string>
     <string name="could_not_load_data">Nu s-au putut încărca datele; reîmprospătați și încercați din nou</string>
+    <string name="crash_page_button">Încercați din nou</string>
+    <string name="crash_page_description">A apărut o eroare la afișarea acestei pagini web.</string>
+    <string name="crash_page_title">Oh, aiurea!</string>
     <string name="create_qr_code">Cod QR</string>
     <string name="current_version_pad">Tabletă</string>
     <string name="current_version_pc">Desktop</string>
@@ -429,6 +432,7 @@ Paginile pe care le vizitați nu vor apărea în istoric."</string>
     <string name="data_traffic_stop">Opriți</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="debug_crash">Activați depanarea blocărilor</string>
     <string name="debug_youtube_file">Depanați fișierul YouTube</string>
     <string name="debug_youtube_in_release">Depanare YouTube în versiune</string>
     <string name="delete">Ştergeţi</string>
@@ -1505,7 +1509,7 @@ Părăsiți această pagină acum?"</string>
     <string name="pf_guide_msg_if_has_downloading">Nu se pot adăuga descărcări în desfășurare în dosarul privat</string>
     <string name="pf_move_out">Eliminați din dosarul privat</string>
     <string name="pf_move_out_dialog_btn_confirm">Eliminați</string>
-    <string name="pf_move_out_dialog_content">Articolele eliminate vor fi salvate în locația inițială.</string>
+    <string name="pf_move_out_dialog_content">Articolele eliminate vor fi afișate printre fișierele recente.</string>
     <string name="pf_move_out_dialog_title">Se elimină din dosarul privat</string>
     <string name="pf_toast_add_success">Mutat în dosarul privat cu succes</string>
     <string name="phone">Stocare</string>

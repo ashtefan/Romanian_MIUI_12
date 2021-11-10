@@ -207,6 +207,13 @@
     <string name="copy">Copiați</string>
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pentru a efectua apeluri către persoanele de contact de urgență în modul simplificat</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pentru afișarea contactelor de urgență în modul simplificat</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pentru afișarea stării dispozitivului</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pentru afișarea widget-urilor Calendar</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pentru afișarea widget-urilor Galerie</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pentru accesarea numelui widgetului Wi-Fi în Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru accesarea și salvarea datelor de pe Ecranul principal</string>
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -586,7 +593,7 @@
     <string name="online_wallpaper">On-line</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Dezactivați</string>
-    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza Asistentul inteligent și primi actualizări pentru acesta. Dezactivați acum?"</string>
+    <string name="open_personal_assistant_dialog_desc">"După ce dezactivați Asistentul Inteligent, nu veți mai putea vedea sau utiliza widget-urile acestuia. Versiunile lor actualizate nu vor fi disponibile nici pentru dvs. Îl dezactivați oricum?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Nu veți mai putea utiliza cardurile Asistentului inteligent (Stocuri, Scurtături, etc.) și primi actualizări după ce veți dezactiva această funcție."</string>
     <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
     <string name="open_personal_assistant_settings">Setări Asistent inteligent</string>

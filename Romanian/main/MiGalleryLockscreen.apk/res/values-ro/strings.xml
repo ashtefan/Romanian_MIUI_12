@@ -32,6 +32,7 @@
     <string name="about_item_function">Caracteristici noi</string>
     <string name="about_net_error">Verificați setările de rețea și încercați din nou.</string>
     <string name="about_newest">Caruselul de imagini de fundal este actualizat.</string>
+    <string name="about_permission">Permisiuni</string>
     <string name="about_update">Actualizați</string>
     <string name="account_bind_secure_email_title">Adăugați o adresă de e-mail pentru recuperare</string>
     <string name="account_bind_secure_phone_title">Adăugați un număr de telefon pentru recuperare</string>
@@ -94,6 +95,7 @@
     <string name="add_wallpaper">Adăugați imagini de fundal</string>
     <string name="addcw_apply_btn_txt">Adăugați o imagine de fundal</string>
     <string name="afternoon">După amiază</string>
+    <string name="allowed">Permisă</string>
     <string name="am">AM</string>
     <string name="app_name">Caruselul Mi de ecrane de blocare</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorați această versiune</string>
@@ -113,9 +115,14 @@
     <string name="back_icon_content_description">Înapoi</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
     <string name="cancel">Renunță</string>
+    <string name="cancel_button">Da</string>
     <string name="cancel_international">Renunțați</string>
     <string name="cancel_lockscreen">Renunțați</string>
+    <string name="cancel_mfashiongallery_service">Anulați serviciile Carusel de imagini de fundal</string>
     <string name="cancel_network">Ieșiți</string>
+    <string name="cancel_service">Anulați serviciile</string>
+    <string name="cancel_service_running">Se anulează serviciile…</string>
+    <string name="cancel_service_summary">Dacă veți continua, veți anula serviciile Caruselului de imagini de fundal. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Anulați serviciile oricum?</string>
     <string name="carousel_declaration_btn_text">Activați Caruselul de imagini de fundal</string>
     <string name="carousel_declaration_cta">"Caruselul de imagini de fundal trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a avea acces la conținutul online, trebuie să acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt;. Sunteți de acord?"</string>
     <string name="carousel_declaration_cta_btn_text">Sunt de acord și activez</string>
@@ -152,6 +159,7 @@
     <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
     <string name="confirm_new_pwd">Confirmați noua parolă</string>
     <string name="confirm_unbundled_phone_dialog_message">Acest număr de telefon a fost asociat contului Mi %2$s pe %1$s. El nu va mai fi asociat contului Mi %3$s dacă veți continua. Continuați?</string>
+    <string name="copy">Copiați</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal</string>
     <string name="create_shortcut_btn">Creați</string>
     <string name="create_shortcut_title">Creați o scurtătură pe ecranul principal</string>
@@ -256,8 +264,11 @@ Trimiteți acest cod supervizorului."</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă nu este validă.</string>
     <string name="evening">După amiază</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja altui cont Mi.</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="explorer_activity_title">Caruselul de imagini de fundal</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
+    <string name="external_storage_permission">Acces la stocare</string>
+    <string name="external_storage_permission_summary">Pentru selectarea imaginilor de fundal personalizate și salvarea elementelor descărcate</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="favor_list_no_data">Niciun element aici.</string>
     <string name="favor_list_title">Favorite</string>
@@ -399,7 +410,12 @@ Trimiteți acest cod supervizorului."</string>
     <string name="lockscreen_magazine_summary">Selectați categoriile</string>
     <string name="lockscreen_magazine_system_title">Implicit</string>
     <string name="lockscreen_magazine_title">Carusel de imagini de fundal</string>
+    <string name="logout">Deconectați-vă</string>
     <string name="logout_account">Deconectați-vă</string>
+    <string name="logout_cancel">Renunțați</string>
+    <string name="logout_confirm">OK</string>
+    <string name="logout_summary">După ce vă deconectați, nu vă veți putea sincroniza abonamentele și setările personalizate pe toate dispozitivele. Vă deconectați oricum?</string>
+    <string name="logout_title">Vă deconectați acum?</string>
     <string name="look_str">Populare</string>
     <string name="main_fragment_title_discover">Descoperiți</string>
     <string name="main_fragment_title_home">Recomandări</string>
@@ -548,6 +564,10 @@ mm"</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="no_pic_data">Nu s-au găsit imaginile</string>
     <string name="noon">Amiază</string>
+    <string name="not_allowed">Nepermisă</string>
+    <string name="not_cancel_button">Nu</string>
+    <string name="not_revoke_button">Renunțați</string>
+    <string name="not_set">Nesetat</string>
     <string name="ok">OK</string>
     <string name="ok_enable_network_prov">De acord</string>
     <string name="ok_enable_network_prov2">De acord</string>
@@ -662,8 +682,10 @@ mm"</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="password_toggle_content_description">Afișați parola</string>
     <string name="permission_account_tip">Accesarea informațiilor despre cont</string>
+    <string name="permission_manager">Detalii permisiuni</string>
     <string name="permission_storage_read_tip">Accesarea fotografiilor stocate în telefon</string>
     <string name="permission_storage_tip">Salvarea elementelor descărcate pe dispozitiv</string>
+    <string name="personalized">Personalizare</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat câtorva conturi Mi într-o perioadă scurtă de timp. Încercați să folosiți alt număr de telefon.</string>
     <string name="phone_hint">Numărul de telefon</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
@@ -675,7 +697,15 @@ mm"</string>
     <string name="platform_unavailable_wechatmoment">Instalați aplicația WeChat</string>
     <string name="platform_unavailable_weibo">Instalați aplicația WhatsApp</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_setting">Setări de confidențialitate</string>
+    <string name="privacy_update_cancel">Renunțați</string>
+    <string name="privacy_update_confirm">De acord</string>
+    <string name="privacy_update_quit">Ieșiți</string>
+    <string name="privacy_update_summary1">Politica de Confidențialitate a Caruselului de imagini de fundal a fost actualizată:</string>
+    <string name="privacy_update_summary2">"Citiți și acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politicii de Confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
+    <string name="privacy_update_summary3">"Nu veți mai putea utiliza Caruselul de imagini de fundal dacă nu acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politicii de Confidențialitate&lt;/font>&lt;/a>. Acceptați Politica de Confidențialitate actualizată acum?"</string>
     <string name="prv_end"><CDATA>Asta este tot deocamdată</CDATA></string>
     <string name="prv_loading"><CDATA>Doar o secundă…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nu există date</CDATA></string>
@@ -706,6 +736,16 @@ mm"</string>
     <string name="restart_action">Reluați procesul</string>
     <string name="restart_phone_bind_message">Este posibil să dureze ceva timp până ce primiți SMS-ul. Reluați procesul oricum?</string>
     <string name="restart_phone_bind_title">Modificați numărul de telefon pentru recuperare</string>
+    <string name="revoke_button">Retrageți</string>
+    <string name="revoke_failed1">Eroare</string>
+    <string name="revoke_failed2">Eroare</string>
+    <string name="revoke_failed_internet">A apărut o eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="revoke_failed_internet_confirm">Am înțeles</string>
+    <string name="revoke_failed_service">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="revoke_failed_service_confirm">Am înțeles</string>
+    <string name="revoke_privacy">Retragerea consimțământului</string>
+    <string name="revoke_privacy_running">Se retrage consimțământului…</string>
+    <string name="revoke_privacy_summary">"Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Caruselului de imagini de fundal. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Caruselul de imagini de fundal își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile acestuia. Retrageți consimțământul acum?"</string>
     <string name="rv_with_footer_empty">Nu există nimic aici încă.</string>
     <string name="rv_with_footer_loading">Doar o secundă…</string>
     <string name="rv_with_footer_pull_load_more">Glisați în jos pentru a vedea mai multe</string>
@@ -987,6 +1027,8 @@ mm"</string>
     <string name="user_avatar_update_title">Modificați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_id_hint">E-mail/Telefon/ID cont Mi</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="v_code_title">Introduceți codul de verificare</string>
     <string name="view_privacy_policy">Politica de Confidențialitate</string>
     <string name="wallpaper">Imagine de fundal</string>
@@ -1001,5 +1043,8 @@ mm"</string>
     <string name="wm_storage_used">Ocupat: </string>
     <string name="wp_desktop_enable_title">Colaj Ecran principal</string>
     <string name="wp_lockscreen_enable_title">Colaj Blocare ecran</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yesterday">Ieri</string>
 </resources>

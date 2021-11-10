@@ -82,6 +82,7 @@
     <string name="attach_transaction">Trimiteți bani</string>
     <string name="attach_video">Videoclip</string>
     <string name="attach_video_call">Apel video</string>
+    <string name="attachment_panel_show_part">Pagina %1$d</string>
     <string name="audio_download_failed">Nu se poate descărca conţinutul audio</string>
     <string name="audio_message_expired">Acest mesaj vocal a expirat.</string>
     <string name="audio_message_mx_offline">"Nu s-a putut descărca mesajul audio. Mesageria Mi este dezactivată sau indisponibilă."</string>

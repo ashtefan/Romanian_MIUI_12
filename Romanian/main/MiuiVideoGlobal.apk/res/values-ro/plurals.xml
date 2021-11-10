@@ -164,4 +164,8 @@
         <item quantity="other">Subtitrarea este decalată cu %.1f secunde în urmă</item>
         <item quantity="one">Subtitrarea este decalată cu %.1f secundă în urmă</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Adăugați maxim %d semne de carte</item>
+        <item quantity="one">Adăugați maxim %d semn de carte</item>
+    </plurals>
 </resources>

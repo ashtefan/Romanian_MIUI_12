@@ -675,6 +675,10 @@
     <string name="tuesday_shortest">Ma</string>
     <string name="turn_off_a_repeat_alarm">Opriți alarma repetitivă</string>
     <string name="turn_off_this_repeat_alarm">Opriți această alarmă repetitivă</string>
+    <string name="tv_blank_list_other_text">Nu există nimic aici încă</string>
+    <string name="tv_blank_list_show_text">Nu există nimic aici încă. Căutați o locație pentru a o adăuga la ceasul global.</string>
+    <string name="tv_world_clock_edit_title1">Locații afișate pe Ecranul principal</string>
+    <string name="tv_world_clock_edit_title2">Alte locații salvate</string>
     <string name="upcoming_alarm">Alarmă viitoare: %s</string>
     <string name="upcoming_alarm_hint">Puteți opri această alarmă acum</string>
     <string name="update_health_app">Actualizați Sănătate Xiaomi</string>
@@ -702,8 +706,10 @@
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="week_ringtone_recommend_desc">Alarma naturală redă diferite sunete în funcție de dată. O setați ca alarmă implicită?</string>
+    <string name="white_noise">Sunet ambiental</string>
     <string name="white_noise_selector">Selectați sunetul</string>
     <string name="workday_alarm_clock">Alarmă în zilele lucrătoare</string>
+    <string name="worldclock_edit_label">Ceas global</string>
     <string name="worldclock_empty_text">Niciun ceas</string>
     <string name="worldclock_input_hint_text">Căutați țara sau orașul</string>
     <string name="worldclock_local_time">Ora locală</string>

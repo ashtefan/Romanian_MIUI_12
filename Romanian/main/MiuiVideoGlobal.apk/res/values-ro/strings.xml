@@ -114,6 +114,8 @@
     <string name="background_playback_enabled">Redarea în fundal este activă</string>
     <string name="before_yestoday">Cu 2 zile în urmă</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
+    <string name="box_title_gallery">Cutia cu unelte video</string>
+    <string name="box_title_mivideo">Caracteristici adiționale</string>
     <string name="brvah_app_name">Librărie</string>
     <string name="cancel">Anulare</string>
     <string name="cancel_choose">Deselectați</string>
@@ -171,6 +173,7 @@
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_open_pip">Atingeți pentru a comuta la imagine-în-imagine</string>
+    <string name="click_to_play_video_push_context">Atingeți pentru a reda videoclipul</string>
     <string name="click_to_reload_more">Atingeţi pentru a încărca mai mult</string>
     <string name="click_to_retry">Încercați din nou</string>
     <string name="close">Închideți</string>
@@ -294,8 +297,15 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_app_comment_select_feedback">Ne puteți lăsa și un feedback?</string>
     <string name="dialog_app_comment_select_praise">Drăguț! Apreciați Mi Video și în Magazinul de aplicații?</string>
     <string name="dialog_app_comment_title">Apreciați-ne aplicația</string>
+    <string name="dialog_bookmark_add">Adăugați</string>
+    <string name="dialog_bookmark_cancel">Renunțați</string>
     <string name="dialog_disagree_privacychange_info">Nu veți putea utiliza serviciile de streaming online Mi Video dacă nu sunteți de acord cu politica noastră de confidențialitate. Apăsați \"Renunțare\" pentru a merge înapoi sau \"Nu accept\" pentru a continua și a utiliza Mi Video doar ca player local.</string>
     <string name="dialog_disagree_privacychange_title">Nu sunteți de acord?</string>
+    <string name="dialog_edit_hint_bookmarks_name">Numele semnului de carte</string>
+    <string name="dialog_edit_hint_bookmarks_url">URL</string>
+    <string name="dialog_jumpto_choose">Nu arăta din nou</string>
+    <string name="dialog_jumpto_content">Comutați la Mi Video pentru a accesa caracteristicile adiționale de redare?</string>
+    <string name="dialog_jumpto_title">Mi Video</string>
     <string name="dialog_privacy_change_info">Am actualizat Politica de confidențialitate Mi Video datorită modificărilor din serviciile pe care le oferim. Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a> înainte de a utiliza această aplicație.</string>
     <string name="dialog_privacy_change_title">Actualizarea Politicii de Confidențialitate</string>
     <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=%2$s&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
@@ -311,12 +321,16 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_privacy_title">Termeni și condiții</string>
     <string name="dialog_revoke_privacy_info_new2">După revocarea autorizației, aplicația va opri colectarea datelor și toate datele asociate vor fi șterse de pe serverele noastre. Acest lucru poate face aplicația practic inutilizabilă. Anulați oricum autorizația?</string>
     <string name="dialog_revoke_privacy_title">Revocarea autorizației</string>
+    <string name="dialog_set_default_later">Nu, mulțumesc</string>
+    <string name="dialog_set_default_set">Setați</string>
+    <string name="dialog_set_default_text">Setați Mi Video ca player video implicit?</string>
     <string name="disagree">Nu sunt de acord</string>
     <string name="diy_channels_tips">Acum puteți personaliza lista canalelor.</string>
     <string name="do_not_show_again">"Nu afișa din nou"</string>
     <string name="download">Descărcați</string>
     <string name="download_checking_tip">Se pregătește descărcarea…</string>
     <string name="download_complete">Descărcat</string>
+    <string name="download_completed_push_title">Descărcare finalizată</string>
     <string name="download_delete_tip">Ștergeți elementele selectate?</string>
     <string name="download_delete_title">Ștergeți</string>
     <string name="download_guide_click_icon_to_website_or_enter_url">Atingeți o scurtătură pentru a deschide un site sau introduceți adresa</string>
@@ -600,6 +614,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="have_learned">Am înțeles</string>
     <string name="hidden_channels">"Următoarele canale nu vor fi afișate pe Ecranul principal."</string>
     <string name="hide">Ascundeți</string>
+    <string name="hint_icon_ad_title">Recomendate</string>
+    <string name="hint_in_mivideo">Acum puteți căuta în panoul lateral funcțiile suplimentare</string>
     <string name="history">Istoric</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">Online</string>
@@ -1616,6 +1632,13 @@ Verificați alte videoclipuri!"</string>
     <string name="title_firework_recommend">Recomandări Firework</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Abonamente</string>
+    <string name="toast_bookmark_add_success">Semn de carte adăugat</string>
+    <string name="toast_bookmark_already_created">Acest semn de carte există deja</string>
+    <string name="toast_bookmark_input_name">Introduceți numele semnului de carte</string>
+    <string name="toast_bookmark_input_url">Introduceți URL-ul</string>
+    <string name="toast_bookmark_success_to_add">Semn de carte adăugat</string>
+    <string name="toast_bookmark_success_to_delete">Semn de carte șters</string>
+    <string name="toast_bookmark_url_error">Introduceți un URL valid</string>
     <string name="toast_no_data">Acest element nu este disponibil acum. Reveniți mai târziu.</string>
     <string name="toast_request_too_frequently">Nu așa de repede!</string>
     <string name="toast_share_failed">"Nu s-a putut partaja. Așteptați un minut sau două și încercați din nou."</string>
@@ -1738,15 +1761,11 @@ Verificați alte videoclipuri!"</string>
     <string name="vp_replay">Redați din nou</string>
     <string name="vp_upcoming_auto_play">Redare automată</string>
     <string name="vp_upcoming_title">Urmează</string>
-    <string name="wechat_application_id"/>
-    <string name="wechat_scope"/>
-    <string name="wechat_state"/>
+    <string name="website_button_add_bookmarks">Adăugați semnul de carte</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
-    <string name="weibo_application_id"/>
-    <string name="weibo_redirect_uri"/>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de descărcări a eșuat, vă rugăm verificați starea Managerului de descărcări în Gestionarea aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>

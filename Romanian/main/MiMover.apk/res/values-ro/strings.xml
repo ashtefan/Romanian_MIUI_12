@@ -288,6 +288,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="guest_unfinished_task_alert_title">Sarcini neterminate</string>
     <string name="guest_wainting_title">Continuați pe noul dispozitiv</string>
     <string name="hide_password_description">Ascunde parola</string>
+    <string name="high_temp_summary">Dispozitivul dvs. se poate încălzi în timp ce transferați cantități mari de date. Acest lucru este normal și dispozitivul se va răci după ce transferul este finalizat.</string>
     <string name="host_boot_installation_bottom_tips">Nu găsiți Mover? Atingeți pentru a descărca.</string>
     <string name="host_boot_installation_button">Următorul</string>
     <string name="host_boot_installation_content">"1. Accesați Setări pe dispozitivul vechi.
@@ -403,7 +404,8 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="manual_connection_hint">Atingeți \"Conectare manuală\" pe vechiul dispozitiv.</string>
     <string name="manual_connection_summary2">Dacă nu găsiți acest hotspot, reîmprospătați lista rețelelor Wi-Fi disponibile și încercați din nou.</string>
     <string name="manual_connection_title">Conectați vechiul dispozitiv la acest hotspot</string>
-    <string name="message_request_package_stats_perm">Mi Mover are nevoie de această permisiune pentru a învăța ce aplicații sunt instalate pe un dispozitiv și pentru a transfera aceste aplicații pe un alt dispozitiv.</string>
+    <string name="message_request_manage_external_storage_perm">Mutare Mi trebuie să acceseze toate fișierele de pe acest dispozitiv pentru a le putea muta de pe vechiul dispozitiv pe cel nou.</string>
+    <string name="message_request_package_stats_perm">Mutare Mi are nevoie de această permisiune pentru a învăța ce aplicații sunt instalate pe un dispozitiv și pentru a transfera aceste aplicații pe un alt dispozitiv.</string>
     <string name="midnight">Noapte</string>
     <string name="miui_need_location_permission_summary">Permiteți Mi Mover să vă acceseze locația pentru a găsi dispozitivele din apropiere. Nu veți putea utiliza Mi Mover decât dacă veți acorda această permisiune.</string>
     <string name="miui_need_location_permission_title">Permiteți accesul la locație</string>
@@ -428,6 +430,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
@@ -581,6 +584,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="password">Introduceți parola</string>
     <string name="password_null">Parola nu poate fi lăsată necompletată</string>
     <string name="perm_location">Accesarea locației</string>
+    <string name="perm_manage_external_storage">Accesarea tuturor fișierelor</string>
     <string name="perm_package_stats">Accesarea statisticilor de utilizare a aplicației</string>
     <string name="perm_payment_dspt">Permiteți aplicației să plătească folosind serviciul Mi Pay</string>
     <string name="perm_payment_lab">Mi Pay</string>
@@ -839,6 +843,7 @@ Eliberați cel puțin %s."</string>
     <string name="time_spent">Ora: %1$s</string>
     <string name="title_open_wlan">Activați Wi-Fi-ul</string>
     <string name="title_request_alert_window_perm">Permiteți ferestrele plutitoare</string>
+    <string name="title_request_manage_external_storage_perm">Sunt necesare unele permisiuni</string>
     <string name="title_request_package_stats_perm">Sunt necesare unele permisiuni</string>
     <string name="title_request_write_settings_perm">Permiteți modificarea setărilor de sistem</string>
     <string name="today">Astăzi</string>

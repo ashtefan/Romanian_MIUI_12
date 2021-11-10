@@ -90,8 +90,10 @@ Vă veți putea urmări exercițiile și activitățile."</string>
     <string name="app_setting">Aplicații</string>
     <string name="audio_permission_dialog_desc">Permisiunea de înregistrare audio a fost anulată; vă rugăm să o accesați.</string>
     <string name="audio_permission_dialog_title">Acordați permisiunea de înregistrare audio</string>
-    <string name="audio_record_perm_description">Înregistrarea sforăitului și a viselor pe durata somnului</string>
-    <string name="audio_record_permission_description">Pentru înregistrarea vorbelor și a sforăitului pe durata analizării ciclului de somn</string>
+    <string name="audio_permission_subtitle">Pentru detectarea sforăitului și a vorbitului în somn</string>
+    <string name="audio_permission_title">Înregistrare sunete audio</string>
+    <string name="audio_record_perm_description">Pentru înregistrarea sforăitului și a viselor pe durata somnului</string>
+    <string name="audio_record_permission_description">Pentru înregistrarea vorbirii și a sforăitului pe durata analizării ciclului de somn</string>
     <string name="auth_description">Permiteți %1$s să sincronizeze date de la următoarele dispozitive</string>
     <string name="auth_dialog_description">"Activați recomandările?
 
@@ -170,6 +172,8 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="bmi_label">IMC</string>
     <string name="body_bmi_descripe_content">Indicele de masă corporală (IMC) este definit ca raportul dintre masa corporală (în kilograme) și pătratul înălțimii (în metri). Cunoașterea IMC vă poate ajuta să înțelegeți dacă greutatea are un impact negativ asupra sănătății dumneavoastră.</string>
     <string name="body_composition">Compoziția corporală</string>
+    <string name="body_sport_permission_subtitle">Pentru monitorizarea pașilor efectuați</string>
+    <string name="body_sport_permission_title">Accesare date despre sănătate și activități</string>
     <string name="body_water">Apă</string>
     <string name="body_water_descripe_content">Procentul de apă din corp se referă la proporția apei din totalul greutății corpului uman. În mod normal, țesutul muscular conține mai multă apă decât alte părți ale corpului.</string>
     <string name="body_weight">Greutate</string>
@@ -193,6 +197,8 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
     <string name="buy">Achiziționați</string>
     <string name="calories">calorii</string>
     <string name="camera_permission_desc">Pentru setarea fotografiei de profil</string>
+    <string name="camera_permission_subtitle">Pentru obținerea modificărilor fluxului sanguin în vederea stabilirii ritmului cardiac și setarea fotografiilor de profil</string>
+    <string name="camera_permission_title">Utilizarea camerei foto</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_edit">Anulați modificările</string>
     <string name="cancel_mark_end">Perioada nu s-a încheiat</string>
@@ -235,6 +241,8 @@ Dacă nu doriți să obțineți acces la cursurile recomandate, puteți utiliza 
 %2$s | %3$s"</string>
     <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Pentru setarea contactelor de urgență</string>
+    <string name="contact_permission_subtitle">Pentru setarea contactelor de urgență</string>
+    <string name="contact_permission_title">Accesare contacte</string>
     <string name="copy">Copiați</string>
     <string name="copy_done">Copiat cu succes</string>
     <string name="copyright_statement">Drepturi de autor © Xiaomi Inc. Toate drepturile rezervate.</string>
@@ -516,6 +524,8 @@ Dacă dispozitivul dumneavoastră este listat aici, puteți adăuga manual surse
     <string name="expand_all">Afișează tot</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
+    <string name="external_storage_permission_subtitle">Pentru setarea fotografiilor de profil</string>
+    <string name="external_storage_permission_title">Accesarea și salvarea elementelor în spațiul de stocare</string>
     <string name="fall_sleep_hard">Probleme cu adormirea</string>
     <string name="falling_duration">Adormire</string>
     <string name="falling_duration_hard_description">"Adormirea reprezintă perioada dintre începutul perioadei de somn și adormirea completă. Dacă vă ia mai mult de 30 de minute pentru a adormi, acesta poate fi un semn de insomnie.
@@ -797,6 +807,8 @@ Reluați măsurarea."</string>
     <string name="location_permission_dialog_negative">Nu acum</string>
     <string name="location_permission_dialog_positive">Permiteți</string>
     <string name="location_permission_dialog_title">Sunt necesare permisiuni pentru localizare</string>
+    <string name="location_permission_subtitle">Pentru monitorizarea exercițiilor exterioare și înregistrarea rutelor</string>
+    <string name="location_permission_title">Accesare locație</string>
     <string name="location_service_dialog_content">Activați serviciile de localizare din Setări pentru a vă putea urmări antrenamentele în aer liber.</string>
     <string name="location_service_dialog_negative">Nu acum</string>
     <string name="location_service_dialog_positive">Activați</string>
@@ -1478,7 +1490,10 @@ despre somn"</string>
     <string name="sport_btn_pause">Pauză</string>
     <string name="sport_btn_unlock">Deblocați</string>
     <string name="sport_counter_begin">Începeți acum</string>
-    <string name="sport_home_begin">Start</string>
+    <string name="sport_data_use_subtitle">Pentru a vă urmări antrenamentele și progresul exercițiilor de fitness, colectăm și procesăm informațiile dvs., inclusiv rutele de antrenament, datele despre somn, ritmul cardiac și greutatea.</string>
+    <string name="sport_data_use_tip">"Citiți și acceptați &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Politica de utilizare a datelor privind sănătatea și activitatea&lt;/a>&lt;/font> pentru a înțelege mai bine cum colectăm și procesăm informațiile dvs. Nu veți putea folosi acest serviciu dacă nu sunteți de acord cu colectarea și prelucrarea datelor."</string>
+    <string name="sport_data_use_title">Permisiuni accesare date</string>
+    <string name="sport_home_begin">Începeți</string>
     <string name="sport_home_set_goal">Setați ținta</string>
     <string name="sport_invalid_dialog_distance_content">Distanța parcursă în timpul acestui antrenament este prea mică pentru a crea o înregistrare istorică. Încheiați acest antrenament oricum?</string>
     <string name="sport_invalid_dialog_time_content">Acest antrenament a durat mai puțin de 5 secunde. Încheiați acum fără a-l înregistra?</string>
@@ -1599,6 +1614,7 @@ despre somn"</string>
     <string name="sync_status_never_done">Nesincronizate</string>
     <string name="sync_status_oauth_error">Nu s-au putut sincroniza datele. Acordați permisiunile necesare mai întâi</string>
     <string name="system_app_setting">Setări aplicație de sistem</string>
+    <string name="system_permission">Detalii permisiuni</string>
     <string name="systolic_pressure">Sistolică</string>
     <string name="tb_audio_progress_bar">Bară redare audio</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Cea mai ridicată presiune sistolică: %2$d milimetri coloană de mercur. Cea mai mică presiune diasistolică: %3$d milimetri coloană de mercur.</string>
