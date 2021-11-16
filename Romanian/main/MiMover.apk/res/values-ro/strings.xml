@@ -196,6 +196,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="err_bakfile_broken">Nu se poate utiliza această copie de rezervă.</string>
     <string name="err_bakfile_not_exist">Fișerul copie de rezervă nu există.</string>
     <string name="err_binder_died">Aplicația s-a oprit în mod neașteptat.</string>
+    <string name="err_install_incompatible">Problemă de compatibilitate</string>
     <string name="err_low_storage">Spațiu de stocare insuficient</string>
     <string name="err_no_gms">Versiune incompatibilă a aplicației. Instalați aplicația separat.</string>
     <string name="err_not_allow">Nesuportată</string>

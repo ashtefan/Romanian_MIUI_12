@@ -517,7 +517,7 @@ Actualizaţi acum?"</string>
     <string name="dialog_system_auto_sync_account_no_open">Activați sincronizarea contului pentru a primi e-mailuri în mod automat</string>
     <string name="dialog_system_auto_sync_master_no_open">Activați sincronizarea pentru a primi e-mailuri în mod automat</string>
     <string name="disable_admin_warning">"AVERTISMENT: dacă dezactivaţi permisiunea aplicaţiei E-mail de administrare a dispozitivului dvs. se şterg toate conturile de e-mail care au nevoie de aceasta, împreună cu e-mailurile, agenda, evenimentele din calendar şi alte date pe care aceste conturi le conţin."</string>
-    <string name="discard">Renunţaţi</string>
+    <string name="disallow_qq_auth_how_get_auth_code">Cum obțin un cod de autorizare?</string>
     <string name="discard_drafts">Renunţaţi la mesajul nefinalizat</string>
     <string name="dismiss_tip_hover_text">Ignorați sugestia</string>
     <string name="disturb_switch">Nu deranjați</string>
@@ -1200,6 +1200,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="ntes_send_to_content">Dacă numărul de telefon curent este asociat acestui cont, apăsați \"Trimite SMS\".</string>
     <string name="ntes_verification_code">Introduceți codul: %s</string>
     <string name="oauth_error_description">"Autentificare eșuată"</string>
+    <string name="oauth_find_browser_error_description">Vă rugăm să instalați browser-ul înainte de a vă autentifica</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google în pagina de autentificare următoare.</string>
     <string name="oauth_login_continue">Continuare</string>
     <string name="oauth_login_continue_qq">Obțineți codul de autorizare și conectați-vă &gt;</string>

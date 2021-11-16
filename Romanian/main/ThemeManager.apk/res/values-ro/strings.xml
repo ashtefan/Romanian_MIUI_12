@@ -86,6 +86,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="apply_success_not_enable_aod">Activați mai întâi din Setări Afișajul activ permanent</string>
     <string name="apply_success_not_support_aod">Nu se poate combina afișajul activ permanent cu temele de pe acest dispozitiv. Restul componentelor temei au fost aplicate cu succes.</string>
     <string name="apply_theme_with_ringtones">Utilizaţi tonurile de apel incluse în teme</string>
+    <string name="apply_warning_get_device_dialog_message">Pentru a putea utiliza conținutul descărcat, permiteți mai întâi acestei caracterisitici să acceseze ID-ul dispozitivului. Puteți acorda această permisiune din Setări > Confidențialitate.</string>
     <string name="apply_warning_tip_get_device_status">Permiteți mai întâi acestei aplicații să acceseze ID-ul dispozitivului din Profil > Setări.</string>
     <string name="audio_duration_minutes_format">%1$d minute</string>
     <string name="audio_duration_seconds_format">%1$d secunde</string>
@@ -102,12 +103,16 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="backup_theme_name">Tema mea</string>
     <string name="backup_theme_progress_message">Creare copie de rezervă…</string>
     <string name="backup_theme_success_message">Copia de rezervă a fost creată</string>
+    <string name="basic_mode">Mod offline</string>
+    <string name="basic_mode_desc">Aplicația Teme nu se va conecta la Internet și va folosi doar conținutul local. Informațiile personale nu vor fi colectate.</string>
     <string name="boot_audio_dialog_cancel">Renunțați</string>
     <string name="boot_audio_dialog_confirm">OK</string>
     <string name="boot_audio_dialog_content">Sunetul de pornire este dezactivat acum. Îl porniți din nou și aplicați acest sunet?</string>
     <string name="boot_audio_dialog_title">Atenție</string>
     <string name="both_all_apply_failured">"Nu se poate aplica imaginea de fundal"</string>
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
+    <string name="browse_mode">Mod online</string>
+    <string name="browse_mode_desc">Aplicația Teme se va conecta la Internet și va folosi atât conținut local cât și conținut online. Informațiile personale nu vor fi colectate.</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
     <string name="can_not_apply_error">Acest format video nu este suportat</string>
@@ -128,6 +133,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideţi</string>
+    <string name="close_custom_permission_warning_text">Fără permisiunile de accesare stocare, această aplicație nu va putea descărca elemente și nici nu va putea personaliza dispozitivul dvs. Dezactivați oricum?</string>
     <string name="common_applying">Se aplică…</string>
     <string name="common_downloading">Se descarcă…</string>
     <string name="common_format_date_no_year">dd.MM</string>
@@ -159,6 +165,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
     <string name="current_version">Versiunea curentă: %1$s</string>
     <string name="current_version_incompatible">Incompatibilă</string>
+    <string name="custom_storage_permission_desc">Pentru a putea modifica preferințele de personalizare și a salva articolele descărcate, permiteți mai întâi ca această funcție să acceseze spațiul de stocare. Puteți acorda această permisiune din Setări > Confidențialitate.</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="de_apply_icons">Pictogramele aplicației</string>
@@ -240,7 +247,13 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="dialog_apply_lock_screen_wallpaper_content">Este posibil ca tema curentă să nu suporte modificarea Imaginii de fundal a blocării ecranului.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Imagine de fundal a Blocării ecranului</string>
     <string name="dialog_content_get_device_status">Această aplicație trebuie să vă acceseze ID-ul dispozitivului pentru a putea autentifica articolele achiziționate de pe celelalte dispozitive. Este posibil să nu puteți utiliza unele dintre articolele achiziționate după ce dezactivați această funcție. O dezactivați oricum?</string>
+    <string name="dialog_negative_button_text">Nu acum</string>
+    <string name="dialog_positive_button_text">Permiteți</string>
     <string name="dialog_show_never">Nu afișa din nou.</string>
+    <string name="dialog_trans_wallpaper_offline_detail">Imaginile de fundal transparente nu mai sunt disponibile deoarece nu sunt suportate în Android 12.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Imaginile de fundal transparente nu mai sunt disponibile din cauza restricțiilor Android 12 și a problemelor de compatibilitate.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Imagini de fundal transparente</string>
+    <string name="dialog_trans_wallpaper_offline_title">Imaginile de fundal transparente nu sunt disponibile</string>
     <string name="display">Afișați</string>
     <string name="do_not_allow">Restricționată</string>
     <string name="download_failed">Nu s-a putut descărca</string>
@@ -502,6 +515,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
+    <string name="login_theme">Autentificați-vă în aplicația Teme</string>
     <string name="long_click_can_hide_resource">Atingeți și mențineți apăsat pentru a ascunde elemente</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Începutul intervalului,</string>
@@ -729,6 +743,7 @@ Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau
     <string name="personalize_icon_title">Pictograme</string>
     <string name="personalize_notify_ringtone_title">Notificări</string>
     <string name="personalize_notify_style_title">Efecte</string>
+    <string name="personalize_recommend_switch_desc">Primiți recomandări de conținut personalizat bazat pe ID-ul dispozitivului</string>
     <string name="personalize_second_space_not_support_set_font">Nu se poate modifica fontul în Spațiul secundar</string>
     <string name="personalize_theme_entrance">Teme</string>
     <string name="personalize_third_font">Fonturi</string>
@@ -842,6 +857,9 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="privacy_read_statement">Acceptați mai întâi termenii și condițiile</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Citiți și acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politicii de Confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
     <string name="privacy_reading_the_application_list">Accesați lista de aplicații instalate pe acest dispozitiv</string>
+    <string name="privacy_remind_user_mode_agree">Accept</string>
+    <string name="privacy_remind_user_mode_content"><Data>Acceptați Politica noastră de confidențialitate pentru a utiliza această funcție. Citiți &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Politica noastră de Confidențialitate&lt;/a>&lt;/font> pentru a afla cum colectăm, folosim, dezvăluim, procesăm și stocăm informațiile personale pe care ni le furnizați atunci când utilizați aplicația Teme.</Data></string>
+    <string name="privacy_remind_user_mode_title">Atenție</string>
     <string name="privacy_revoke_agree_content">Retragerea consimțământului</string>
     <string name="privacy_revoke_agree_content_1">1. Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.</string>
     <string name="privacy_revoke_agree_content_2">2. Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.</string>
@@ -849,6 +867,8 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="privacy_revoke_agree_data_warning">Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):</string>
     <string name="privacy_revoke_succeed">Consimțământul a fost retras cu succes</string>
     <string name="privacy_revoking_warning">Se retrage consimțământul…</string>
+    <string name="privacy_select_mode">Selectați modul</string>
+    <string name="privacy_select_mode_desc">Deoarece nu ați fost de acord cu Politica noastră de confidențialitate, selectați unul dintre următoarele moduri:</string>
     <string name="privacy_settings">Confidențialitate</string>
     <string name="privacy_update_prompt_title">Politica de confidențialitate actualizată</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Asigurați-vă că aveți dreptul de a vă retrage consimțământul înainte de a continua.
@@ -865,12 +885,12 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="provision_loading_tips">Doar o secundă…</string>
     <string name="provision_second_title">Selectați una din cele câteva teme implicite</string>
     <string name="provision_title">Selectați o temă</string>
+    <string name="prvicay_permission_not_allow_desc">"Această aplicație trebuie să acceseze spațiul de stocare pentru a șterge toate datele generate pe acest dispozitiv. Fără această permisiune, este posibil ca unele date să nu fie șterse. Anulați oricum serviciile?
+Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="pull_down_view_error_message">Uuups! Nu s-a găsit nicio conexiune la internet. Verificați conexiunea sau încercați din nou.</string>
     <string name="pull_down_view_refresh">Reîncărcați</string>
     <string name="pull_down_view_title">"Ce este nou"</string>
-    <string name="purchased_list">Teme achiziționate</string>
-    <string name="purchased_list_current">Teme optimizate</string>
-    <string name="purchased_list_legacy">Teme achiziționate</string>
+    <string name="read_and_agree_account_privacy"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politica de Confidențialitate a Contului Mi&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Utilizate recent</string>
     <string name="recommend_trigger">Recomandări personalizate</string>
     <string name="recommend_trigger_summary">Activați pentru a primi recomandări în funcție de preferințele dvs.</string>
@@ -1397,6 +1417,7 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="trans_wallpaper_offline_notice">Imaginile de fundal transparente nu sunt disponibile</string>
     <string name="transparency_pref_summary">Alegeți cât de transparentă doriți să fie imaginea de fundal</string>
     <string name="transparency_pref_title">Nivelul de opacitate</string>
     <string name="transparent_wallpaper">Imagine de fundal transparentă</string>
