@@ -99,6 +99,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">Eliminaţi %d melodii?</item>
         <item quantity="one">Eliminaţi %d melodie?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d dintre melodiile selectate sunt stocate într-un dosar extern. Acordați permisiunile necesare pentru a le șterge.</item>
+        <item quantity="one">%d dintre melodiile selectate este stocată într-un dosar extern. Acordați permisiunile necesare pentru a o șterge.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> descărcate</item>
         <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> descărcată</item>

@@ -594,6 +594,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="name_empty">Introduceți un nume</string>
+    <string name="need_open_content">Permiteți Managerului de fișiere să vă acceseze fotografiile și fișierele pentru a utiliza această funcție.</string>
+    <string name="need_open_permission">Sunt necesare unele permisiuni</string>
     <string name="need_read_storage_permission">"Exploratorul de fișiere Mi necesită permisiunea de accesare a stocării dispozitivului pentru a funcționa normal"</string>
     <string name="network_dialog_checkbox_tip">"Nu arăta din nou"</string>
     <string name="network_not_available">"Nu s-a putut conecta la rețea"</string>
@@ -617,6 +619,7 @@
     <string name="no_login_str">Nu sunteți conectat</string>
     <string name="no_message">Niciun mesaj</string>
     <string name="no_new_content_tip">Toate elementele sunt actualizate</string>
+    <string name="no_permission">Acordați permisiunile solicitate pentru a accesa această caracteristică</string>
     <string name="no_recent_files">Niciun fişier recent</string>
     <string name="no_topic">Niciun subiect</string>
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
@@ -1015,6 +1018,8 @@
     <string name="title_recent">Recent</string>
     <string name="title_report_video">Raportați</string>
     <string name="title_select_volume">Selectaţi dosarul</string>
+    <string name="to_open">Setări</string>
+    <string name="to_setting">Setări</string>
     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

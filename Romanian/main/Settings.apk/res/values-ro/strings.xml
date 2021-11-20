@@ -6533,7 +6533,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_dark_mode_smart_dark_summary">Aplicați modul întunecat și aplicațiilor terțe. Unele aplicații ar putea fi afișate necorespunzător.</string>
     <string name="screen_dark_mode_smart_dark_title">Mod întunecat global</string>
     <string name="screen_dark_mode_time_title">Program Mod întunecat</string>
-    <string name="screen_effect">Scema de culori</string>
+    <string name="screen_effect">Schema de culori</string>
     <string name="screen_enhance_engine_ai_note">%d. Această caracteristică crește ușor consumul de energie.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Numai imaginile din aplicația Galerie pot fi îmbunătățite.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Această funcție nu va funcționa dacă alegeți să afișați culorile originale sau să aplicați ajustări avansate.</string>

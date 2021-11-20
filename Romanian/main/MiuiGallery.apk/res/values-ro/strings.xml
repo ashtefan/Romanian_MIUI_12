@@ -570,6 +570,8 @@
     <string name="create_new_face">Persoană nouă</string>
     <string name="create_quick_icon_on_desk">Creaţi o comandă rapidă</string>
     <string name="creating_baby_album">Creare album…</string>
+    <string name="creativity_summary">Afișați funcțiile suplimentare de creativitate și editare</string>
+    <string name="creativity_title">Creativitate</string>
     <string name="crop_label">Fotografii trunchiate</string>
     <string name="cta_agreement_declare"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și modurile în care utilizăm datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza această aplicație.</Data></string>
     <string name="cta_network_declare">Pentru a sincroniza fotografiile și videoclipurile în Xiaomi Cloud, această aplicație trebuie să se conecteze la internet.</string>
