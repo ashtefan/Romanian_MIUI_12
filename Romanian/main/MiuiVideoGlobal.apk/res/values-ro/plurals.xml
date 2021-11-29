@@ -168,4 +168,8 @@
         <item quantity="other">Adăugați maxim %d semne de carte</item>
         <item quantity="one">Adăugați maxim %d semn de carte</item>
     </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d vizualizări</item>
+        <item quantity="one">%d vizualizare</item>
+    </plurals>
 </resources>

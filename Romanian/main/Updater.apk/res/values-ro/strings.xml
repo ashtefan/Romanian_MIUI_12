@@ -101,6 +101,7 @@
     <string name="download_fail_desc">Cheia MD5 Sum nu se potrivește…</string>
     <string name="downloading">Se descarcă:</string>
     <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
+    <string name="fastboot_update_warning">Această actualizare este doar pentru instalarea prin fastboot!</string>
     <string name="fetching_data">Se obține linkul de descărcare; așteptați…</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
     <string name="download_error">Ceva a mers prost. Așteptați un minut sau două și încercați din nou.</string>

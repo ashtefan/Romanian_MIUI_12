@@ -1113,6 +1113,9 @@ efecte pentru fotografii"</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_pad">Tableta mea</string>
+    <string name="global_pc">Laptopul meu</string>
+    <string name="global_phone">Telefonul meu</string>
     <string name="grant_permission_go_and_set">Setați</string>
     <string name="grant_permission_go_and_set_2">Setări</string>
     <string name="grant_permission_go_and_set_3">Setări</string>
@@ -2719,6 +2722,17 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="unsupported_media_downloading_tip_format">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android. Descărcați oricum?"</string>
     <string name="unsupported_media_scanned_tip">Au fost detectate %1$s imagini. Vizualizarea imaginilor %2$s nu este suportată în această versiune Android.</string>
     <string name="unsupported_media_view_tip">Vizualizarea imaginilor originale %s nu este suportată în această versiune Android</string>
+    <string name="update_apk_size">Dimensiunea actualizării: %s MB</string>
+    <string name="update_btn_exit">Ieșiți</string>
+    <string name="update_btn_negative">Mai târziu</string>
+    <string name="update_btn_positive">Actualizați</string>
+    <string name="update_check">Căutați actualizări</string>
+    <string name="update_check_title">Versiunea curentă: %s</string>
+    <string name="update_ignore">Ignorați această versiune</string>
+    <string name="update_latest_version">Versiunea curentă este actualizată</string>
+    <string name="update_network_error">Verificați setările de rețea și încercați din nou</string>
+    <string name="update_new_version">Este disponibilă o actualizare</string>
+    <string name="update_title">Versiunea %s este disponibilă acum</string>
     <string name="user_agree">De acord</string>
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
@@ -3149,6 +3163,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>

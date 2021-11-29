@@ -195,6 +195,12 @@
     <string name="context_menu_send_sms">Trimiteţi SMS</string>
     <string name="context_menu_view_contact">Vizualizaţi contactul</string>
     <string name="context_menu_view_mms">Vizualizaţi MMS</string>
+    <string name="conv_content_defraud_tip">Raportați o fraudă</string>
+    <string name="conv_content_risk">Trimis de la un număr necunoscut</string>
+    <string name="conv_head_link_tip">Raportați o fraudă</string>
+    <string name="conv_head_risk_tip">Poate fi o fraudă din străinătate</string>
+    <string name="conv_item_official">Oficial</string>
+    <string name="conv_item_risk_tip">Risc</string>
     <string name="conversation">Mesaje</string>
     <string name="conversation_listitem_avatar">Imagine de profil</string>
     <string name="converting_to_picture_message">Se face conversia la mesaj multimedia…</string>
@@ -470,6 +476,7 @@
     <string name="menu_new_manual">Introduceţi numărul de telefon</string>
     <string name="menu_pick_from_contact">Selectaţi din contacte</string>
     <string name="menu_preferences">Setări</string>
+    <string name="menu_report">Feedback</string>
     <string name="menu_send_as_common">Trimiteţi ca SMS</string>
     <string name="menu_sms_block">Listă de blocări</string>
     <string name="menu_traffic_destination">Destinație</string>

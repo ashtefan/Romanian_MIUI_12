@@ -72,6 +72,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="app_disable_transparent_wallpaper">Fără imagine de fundal transparentă</string>
     <string name="app_enable_transparent_wallpaper">Cu imagine de fundal transparentă</string>
     <string name="app_name">Teme</string>
+    <string name="app_name_pad">Personalizare</string>
     <string name="application_list_permission_desc">Pentru afișarea aplicațiilor compatibile cu imaginile de fundal transparente</string>
     <string name="apply_choosen_type_resource">Aplicați elementele selectate</string>
     <string name="apply_default_font_tip">Păstrați fontul actual de sistem?</string>
@@ -111,11 +112,13 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="boot_audio_dialog_title">Atenție</string>
     <string name="both_all_apply_failured">"Nu se poate aplica imaginea de fundal"</string>
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="browse_mode">Mod online</string>
     <string name="browse_mode_desc">Aplicația Teme se va conecta la Internet și va folosi atât conținut local cât și conținut online. Informațiile personale nu vor fi colectate.</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
     <string name="can_not_apply_error">Acest format video nu este suportat</string>
+    <string name="can_not_apply_pc_video">Modul PC nu suportă imagini de fundal live</string>
     <string name="can_not_apply_size_invalid">Videoclipul este prea mare</string>
     <string name="cancel_download">Descărcare anulată</string>
     <string name="card_data_request_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
@@ -394,6 +397,11 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="font_compat_dialog_title">Probleme de compatibilitate</string>
     <string name="font_compat_dialog_trial_confirm">Încercați</string>
     <string name="font_compat_dialog_trial_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Încercați oricum acest font?</string>
+    <string name="font_pad_setting_charge_font">Plătit</string>
+    <string name="font_pad_setting_find_more_title">Mai multe fonturi</string>
+    <string name="font_pad_setting_free_font">Gratuit</string>
+    <string name="font_pad_setting_local_font">Fonturi locale</string>
+    <string name="font_pad_setting_title">Fonturi</string>
     <string name="font_trial_end_purchase">Cumpărați fontul</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal transparentă în Spațiul principal.</string>
     <string name="forbid_video_wallpaper_by_second_space">Aplicați mai întâi o imagine de fundal dinamică în Spațiul principal.</string>
@@ -459,6 +467,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="hide_mamual_hide_miwallpaper">Nu arăta efectele ascunse pentru Ecranul principal</string>
     <string name="hide_mamual_hide_theme">"Nu afișa temele ascunse"</string>
     <string name="hide_mamual_hide_wallpaper">"Nu afișa imaginile de fundal ascunse"</string>
+    <string name="hide_phone_wallpaper">Ascundeți imaginile de fundal ale telefonului</string>
     <string name="hide_pull_down_message">Ascundeți brelocul?</string>
     <string name="hide_pull_down_negative">Nu ascunde</string>
     <string name="hide_pull_down_positive">Ascunde</string>
@@ -468,6 +477,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="home_daily">Repere zilnice</string>
     <string name="i_know">Am înțeles</string>
     <string name="icon_content_description">Pictogramă de Dialog</string>
+    <string name="icon_pad_setting_find_more_title">Mai multe pictograme</string>
+    <string name="icon_pad_setting_local_icon">Pictograme locale</string>
+    <string name="icon_pad_setting_title">Pictograme</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>
     <string name="incall_show_apply">Profil video pentru apelurile efectuate</string>
     <string name="incall_show_apply_fail">"Nu s-a putut seta"</string>
@@ -496,6 +508,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="lab">Laborator Teme</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
     <string name="live_wallpaper">Imagini de fundal dinamică</string>
+    <string name="load_from_local_photos">Galerie</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_picture">Se încarcă imaginea…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
@@ -517,8 +530,19 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="lockstyle_personal_settings">Personalizare</string>
     <string name="login_theme">Autentificați-vă în aplicația Teme</string>
     <string name="long_click_can_hide_resource">Atingeți și mențineți apăsat pentru a ascunde elemente</string>
+    <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Începutul intervalului,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Comutați la modul ceas pentru a introduce ora.</string>
+    <string name="material_timepicker_hour">Oră</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Comutați la modul introducere text pentru a introduce ora.</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
     <string name="midnight">Noapte</string>
     <string name="mine_tab_not_login">"Conectați-vă pentru a vedea elementele.
@@ -567,6 +591,8 @@ mm"</string>
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -590,6 +616,8 @@ mm"</string>
     <string name="miuix_compat_dialog_title">S-a aplicat tema implicită la \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Este necesară o actualizare</string>
     <string name="miuix_compat_mms">Mesagerie</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -656,7 +684,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Selectați o Dată</string>
+    <string name="mtrl_picker_date_header_title">Selectați Data</string>
     <string name="mtrl_picker_date_header_unselected">Data selectată</string>
     <string name="mtrl_picker_day_of_week_column_header">Coloana zilelor: %1$s</string>
     <string name="mtrl_picker_invalid_format">Format nevalid.</string>
@@ -668,7 +696,7 @@ mm"</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de start – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de sfârșit</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Selectați un interval de Date</string>
+    <string name="mtrl_picker_range_header_title">Selectați Intervalul</string>
     <string name="mtrl_picker_range_header_unselected">Data de start – Data de sfârșit</string>
     <string name="mtrl_picker_save">Salvați</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
@@ -750,6 +778,7 @@ Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau
     <string name="personalize_title">Imagine de fundal și personalizare</string>
     <string name="personalize_wallpaper_sub_title">Super imagini de fundal și imagini conexe</string>
     <string name="personalize_wallpaper_title">Imagine de fundal</string>
+    <string name="personalized_cta_content_text">Bine ați venit în aplicația Teme! O puteți utiliza pentru a vă gestiona imaginile de fundal, sunetele de apel, fonturile și multe altele.</string>
     <string name="phone_exit_theme_warning_content">"Nu veți putea efectua următoarele acțiuni după ce vă deconectați:
 1. Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau pe care le-ați adăugat la favorite.
 2. Să adăugați comentarii și aprecieri, să urmăriți alte persoane și să interacționați cu ei."</string>
@@ -969,6 +998,10 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_delete">Ştergeţi</string>
     <string name="resource_delete_all">Ştergeţi %1$d resurse selectate?</string>
     <string name="resource_delete_confirm">Ştergeţi aceste resurse?</string>
+    <string name="resource_delete_font_title">Ştergeţi fonturi</string>
+    <string name="resource_delete_icon_title">Ştergeţi pictograme</string>
+    <string name="resource_delete_ring_title">Ştergeţi sunete de apel</string>
+    <string name="resource_delete_wallpaper_title">Ştergeţi imagini de fundal</string>
     <string name="resource_delta_update_failed">Actualizare eşuată, reluare descărcare temă…</string>
     <string name="resource_delta_update_successful">Actualizare reuşită</string>
     <string name="resource_delta_update_total">%1$d actualizări delta. Salvat %2$s</string>
@@ -1012,7 +1045,8 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_free_download">Descărcați în mod gratuit</string>
     <string name="resource_get_auth_checking">Verificare autorizare…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Zece dispozitive au fost deja autorizate în acest cont</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Numărul de dispozitive autorizate a fost depășit</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Puteți utiliza Personalizarea cu un cont pe maxim 10 dispozitive.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Prea multe dispozitive autorizate</string>
     <string name="resource_get_auth_has_been_undercarriaged">Această temă nu mai este disponibilă.</string>
     <string name="resource_get_auth_not_official">Temele din surse terțe nu sunt acceptate</string>
     <string name="resource_get_auth_retrieving">Obţinere autorizare…</string>
@@ -1200,6 +1234,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="show_mamual_hide_miwallpaper">Afișează efectele ascunse pentru Ecranul principal</string>
     <string name="show_mamual_hide_theme">Afișează temele ascunse manual</string>
     <string name="show_mamual_hide_wallpaper">Afișează imaginile de fundal ascunse</string>
+    <string name="show_phone_wallpaper">Afișează imaginile de fundal ale telefonului</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -1249,10 +1284,15 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="system_aod_dialog_title">Afișajul activ permanent este dezactivat</string>
     <string name="system_cta_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii enumerate mai sus.</string>
     <string name="system_cta_all_purpose">Bine ați venit în aplicația Teme! Puteți utiliza această aplicație pentru a vă gestiona temele, imaginile de fundal, tonurile de apel și fonturile.</string>
+    <string name="system_cta_all_purpose_fold">Bine ați venit în aplicația Imagini de fundal și personalizare! O puteți utiliza pentru a gestiona temele Întotdeauna pe ecran, imaginile de fundal, sunetele de apel și fonturile.</string>
+    <string name="system_cta_all_purpose_pad">Bine ați venit în aplicația Personalizare! O puteți utiliza pentru a gestiona imaginile de fundal, sunetele de apel, pictogramele aplicațiilor și fonturile.</string>
     <string name="system_cta_main_purpose">Gestionați și utilizați teme, imagini de fundal, tonuri de apel, fonturi și imagini de fundal video online și offline</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Începeți</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Sunt necesare unele permisiuni</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Pentru accesarea IMEI-ului și furnizarea de servicii de descărcare</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Accesarea ID-ului dispozitivului pentru identificarea acestuia</string>
     <string name="system_cta_runtime_perm_desc_storage">Pentru utilizarea elementelor stocate pe dispozitiv în scopul personalizării și salvării elementelor achiziționate</string>
+    <string name="system_cta_runtime_perm_desc_storage_pad">Pentru utilizarea elementelor stocate pe dispozitiv în scopul personalizării și salvării elementelor achiziționate</string>
     <string name="system_precust">Pre-instalate</string>
     <string name="tag_ad">Reclamă</string>
     <string name="task_already_exist">Această sarcină există deja</string>
@@ -1492,6 +1532,10 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="voice_input">Introducere vocală</string>
     <string name="wallpaper_24h">24 h</string>
     <string name="wallpaper_apply">Aplicați</string>
+    <string name="wallpaper_apply_full">Toate</string>
+    <string name="wallpaper_apply_large">Ecran interior</string>
+    <string name="wallpaper_apply_pcmode">Setați imaginea de fundal pentru modul PC</string>
+    <string name="wallpaper_apply_small">Ecran exterior</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Previzualizare Mod întunecat</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
@@ -1530,10 +1574,16 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_online_tip">Conectați-vă la rețea pentru a vedea mai multe elemente</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
+    <string name="wallpaper_set_as_both_large">Setaţi pt. ambele</string>
+    <string name="wallpaper_set_as_both_small">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_desktop">Setaţi ca imagine de fundal</string>
+    <string name="wallpaper_set_as_desktop_large">Setați ca ecran de pornire interior</string>
+    <string name="wallpaper_set_as_desktop_small">Setați ca ecran de pornire exterior</string>
     <string name="wallpaper_set_as_float_wallpaper">Setați ca imagine de fundal transparentă</string>
     <string name="wallpaper_set_as_incall_show">Setați un profil video</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
+    <string name="wallpaper_set_as_lockscreen_large">Setați ca ecran de blocare interior</string>
+    <string name="wallpaper_set_as_lockscreen_small">Setați ca ecran de blocare exterior</string>
     <string name="wallpaper_setting_all">Toate imaginile de fundal</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Mai multe imagini de fundal online</string>

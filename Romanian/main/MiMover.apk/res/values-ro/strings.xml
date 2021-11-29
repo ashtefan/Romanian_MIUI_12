@@ -874,6 +874,7 @@ Descărcați și instalați Mi Mover."</string>
     <string name="transfer_connect_fail_summary">Atingeți butonul de mai jos pentru a vă conecta manual</string>
     <string name="transfer_finish_bottom_tip">Dacă nu veți mai folosi dispozitivul vechi, puteți șterge toate datele de pe acesta după ce confirmați că toate elementele importante au fost transferate cu succes.</string>
     <string name="transfer_finish_summary">Transferate %1$s (%2$s)</string>
+    <string name="transfer_long_pause_in_progress">Se transferă…</string>
     <string name="transfer_lose_connect_summary">Se pare că conexiunea a fost întreruptă. Conectați-vă din nou.</string>
     <string name="transfer_lose_connect_title">Conexiunea a fost întreruptă</string>
     <string name="transfer_multi_connect_summary">Transferul dvs. a fost întrerupt din motive de securitate. Puteți atinge \ "Conectați-vă din nou \" pentru a continua oricum.</string>

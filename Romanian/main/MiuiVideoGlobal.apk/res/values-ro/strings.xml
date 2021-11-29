@@ -177,6 +177,7 @@
     <string name="click_to_reload_more">Atingeţi pentru a încărca mai mult</string>
     <string name="click_to_retry">Încercați din nou</string>
     <string name="close">Închideți</string>
+    <string name="close_notify_panel_tips">Mini playerul va fi afișat în Perdeaua de notificări când este activă redarea în fundal</string>
     <string name="cloud_auto_pip_play_switch">Utilizați imagine-în-imagine în mod automat</string>
     <string name="cloud_online_player">Player</string>
     <string name="cloud_online_switch">Recomandări personalizate</string>
@@ -587,6 +588,25 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Editați textul</string>
     <string name="galleryplus_subtitle_edit_reminder">Textul introdus este prea lung</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Nu s-a putut recunoaște vocea pe durata înregistrării</string>
+    <string name="galleryplus_talkback_btn_back">Înapoi</string>
+    <string name="galleryplus_talkback_btn_cancel">Renunțați</string>
+    <string name="galleryplus_talkback_btn_fold_speed_view">Ascunde viteza de redare</string>
+    <string name="galleryplus_talkback_btn_lock_orientation">Rotire oprită</string>
+    <string name="galleryplus_talkback_btn_mute">Mut</string>
+    <string name="galleryplus_talkback_btn_pause">Pauză</string>
+    <string name="galleryplus_talkback_btn_play">Redare</string>
+    <string name="galleryplus_talkback_btn_rotate_screen">Rotește ecranul</string>
+    <string name="galleryplus_talkback_btn_save">Salvați</string>
+    <string name="galleryplus_talkback_btn_send">Trimiteți</string>
+    <string name="galleryplus_talkback_btn_unfold_speed_view">Viteza de redare</string>
+    <string name="galleryplus_talkback_btn_unmute">Cu sunet</string>
+    <string name="galleryplus_talkback_focused_speed">Selectat, %sX</string>
+    <string name="galleryplus_talkback_sound_track_item_ai_music">Coloană sonoră automată</string>
+    <string name="galleryplus_talkback_sound_track_item_local_music">Coloană sonoră locală</string>
+    <string name="galleryplus_talkback_sound_track_item_no_music">Fără coloană sonoră</string>
+    <string name="galleryplus_talkback_speed_view_item">%sX</string>
+    <string name="galleryplus_talkback_subtitle_time">%1$s, %2$s - %3$s</string>
+    <string name="galleryplus_talkback_unfocused_speed">Neselectat, %sX</string>
     <string name="galleryplus_v_agree">De acord</string>
     <string name="galleryplus_v_cancel">Renunțați</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Anulați toate modificările și opriți editarea subtitrării acum?</string>
@@ -648,9 +668,15 @@ pentru videoclipuri"</string>
     <string name="library_roundedimageview_author">Mi Vince</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView rapid (și desenabil) care acceptă colțuri rotunjite (și ovale sau cercuri) pe baza exemplului original de la Romain Guy.</string>
     <string name="live_now">Live acum</string>
-    <string name="live_title">Live</string>
+    <string name="live_title">TV Live</string>
     <string name="live_tv_title">TV Live</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="local_diversion_close_recommend">Închideți</string>
+    <string name="local_diversion_download_more_video">Mai multe videoclipuri</string>
+    <string name="local_diversion_manage_local_video">Gestionați fișierele</string>
+    <string name="local_diversion_open_mivideo">"Vedeți în Mi Video
+pentru cea mai bună experiență de vizualizare"</string>
+    <string name="local_diversion_recommend_title">Populare</string>
     <string name="local_empty_guide">Videoclipurile pe care le filmați vor apărea aici</string>
     <string name="local_play_tip">Se redă videoclipul local</string>
     <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
@@ -951,7 +977,7 @@ pentru videoclipuri"</string>
     <string name="notification_bar_player_title">Minimizează player-ul</string>
     <string name="notification_last_played_status">Istoricul de redare</string>
     <string name="notification_open_tip">Activați pentru a primi notificări</string>
-    <string name="notification_promotion">Recomandări</string>
+    <string name="notification_promotion">Recomandat</string>
     <string name="notification_recall_action">Activați</string>
     <string name="notification_recall_desc">Mi Video vă poate notifica despre videoclipurile populare și despre abonările dvs.</string>
     <string name="notification_recall_title">Activați notificările</string>
@@ -1173,6 +1199,7 @@ Spori securitatea contului dvs."</string>
     <string name="phone_number">Număr de telefon</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="pip">PiP</string>
+    <string name="pip_not_supported_toast">Actualizați MIUI pentru a putea utiliza imagine-în-imagine.</string>
     <string name="playlist_create">Creați</string>
     <string name="playlist_detail_recomm_title">Liste de redare recomandate</string>
     <string name="playlist_finish">Finalizat</string>
@@ -1308,9 +1335,12 @@ Spori securitatea contului dvs."</string>
     <string name="plus_tab_time">Cronologie</string>
     <string name="pm">PM</string>
     <string name="popup_click_for_download_video">Descărcați videoclipul</string>
+    <string name="popup_pip_activate_button">Setări</string>
+    <string name="popup_pip_not_activated">Permiteți mai întâi Mi Video pentru a utiliza imagine-în-imagine.</string>
     <string name="privacy_revoke_setting">Dezactivând comutatorul, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Mi Video.</string>
     <string name="privacy_revoke_title">Retragerea consimțământului</string>
-    <string name="progressbar_title">Se caută probleme de securitate…</string>
+    <string name="pro_prize_popup_style_one">Eliminați reclamele pentru %s</string>
+    <string name="pro_prize_popup_style_two">Deblocați mai multe caracteristici pentru %s</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Glisați în sus pentru a reîmprospăta…</string>
@@ -1785,5 +1815,5 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="ytb_logout">Deconectați-vă</string>
     <string name="ytb_play_next">Urmează</string>
     <string name="ytb_subscribed">Abonamente</string>
-    <string name="ytb_trending">În tendințe</string>
+    <string name="ytb_trending">Populare</string>
 </resources>

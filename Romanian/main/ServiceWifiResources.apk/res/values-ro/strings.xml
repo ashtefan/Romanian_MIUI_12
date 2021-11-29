@@ -7,7 +7,7 @@
     <string name="notification_channel_network_available">Rețea disponibilă</string>
     <string name="notification_channel_network_status">Starea rețelei</string>
     <string name="ok">OK</string>
-    <string name="wifiResourcesAppLabel">Resurse sistem Wi-Fi</string>
+    <string name="wifiResourcesAppLabel">Resurse de sistem Wi-Fi</string>
     <string name="wifi_available_action_all_networks">Toate rețelele</string>
     <string name="wifi_available_action_connect">Conectați-vă</string>
     <string name="wifi_available_content_failed_to_connect">Atingeți pentru a vedea toate rețelele</string>

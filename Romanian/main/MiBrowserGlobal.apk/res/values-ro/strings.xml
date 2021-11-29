@@ -240,7 +240,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="category_folder">Dosare</string>
     <string name="category_installed_app">Aplicații instalate</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">Puteți muta de la 3 la 7 articole în partea superioară a ecranului</string>
+    <string name="category_move_limit_notice">Puteți muta între %1$d și %2$d articole în partea superioară a ecranului</string>
     <string name="category_music">Muzică</string>
     <string name="category_other">Altele</string>
     <string name="category_photo">Fotografii</string>
@@ -476,7 +476,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_btn_select_none">Deselectați tot</string>
     <string name="download_business_app_new_version">Cea mai recentă versiune a acestei aplicații este deja instalată</string>
     <string name="download_business_app_update_install">Actualizare gata de instalare.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 selectate</string>
+    <string name="download_business_v5_edit_mode_title_empty">Selectați elemente</string>
     <string name="download_change_dir">Schimbați dosarul</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_completed">Descărcat</string>
@@ -497,7 +497,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_dialog_failed_body">Încercați din nou mai târziu sau eliminați acest fișier din coada de descărcare?</string>
     <string name="download_dialog_file_already_exists">Ați descărcat deja acest fișier</string>
     <string name="download_dialog_file_length_hint_txt">"Dimensiune fișier: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Mai puţin de %1$d KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Nu s-a putut descărca</string>
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
     <string name="download_dialog_file_missing_body">Nu s-a putut găsi fișierul. L-ați mutat sau șters?</string>
@@ -760,6 +760,8 @@ Trimiteți acest cod supervisorului."</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="gaid">GAID(Click pentru a Exporta)</string>
+    <string name="game_center_recommend_play">Redați</string>
+    <string name="game_center_recommend_title">Recomandat pentru tine</string>
     <string name="game_news_flow_download_bar_download">Descărcați</string>
     <string name="game_news_flow_download_bar_play">Redați</string>
     <string name="game_played">Recent</string>
@@ -877,9 +879,9 @@ Trimiteți acest cod supervisorului."</string>
     <string name="lockpattern_need_to_unlock_wrong">Încercați din nou</string>
     <string name="lockpattern_pattern_confirmed_header">Aici este modelul dvs. de deblocare:</string>
     <string name="lockpattern_pattern_entered_header">Finalizat!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Încercați din nou. Conectați cel puțin 4 puncte.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Încercați din nou. Conectați cel puțin %1$d puncte.</string>
     <string name="lockpattern_recording_inprogress">Eliberați când modelul dvs. este complet</string>
-    <string name="lockpattern_recording_intro_header">Conectați cel puțin 4 puncte</string>
+    <string name="lockpattern_recording_intro_header">Conectați cel puțin %1$d puncte</string>
     <string name="lockpattern_retry_button_text">Resetați</string>
     <string name="login_failed_toast">"Conectarea a eșuat; vă rugăm reîncărcați pagina și reîncercați."</string>
     <string name="login_or_register">sau</string>
@@ -890,7 +892,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="make_private_msg_1">Ascundeți acest fișier?</string>
     <string name="make_private_msg_2">Ascundeți aceste fișiere?</string>
     <string name="max_tabs_warning">Nu se mai pot deschide noi file</string>
-    <string name="maximum_input_alert">"Nu se pot introduce mai mult de 2048 de caractere"</string>
+    <string name="maximum_input_alert">"Nu se pot introduce mai mult de %1$d de caractere"</string>
     <string name="media_error_action_refresh">Reîmprospătaţi</string>
     <string name="media_error_action_replace_video_source">"Nu s-a putut schimba sursa"</string>
     <string name="media_error_failure">"Nu se poate reda videoclipul"</string>
@@ -1788,7 +1790,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="rename_alert">Dacă modificați extensia acestui fișier, este posibil să nu îl puteți deschide.</string>
     <string name="rename_alert2">Fișierul va fi ascuns după ce îi schimbați extensia.</string>
     <string name="rename_failed">Nu s-a putut redenumi %1$s</string>
-    <string name="rename_letter_count">%1$d/150</string>
+    <string name="rename_letter_count">%1$d/%2$d</string>
     <string name="renew_sub_now">Reînnoiți</string>
     <string name="replace">Înlocuiește</string>
     <string name="replay">Redați din nou</string>
@@ -1819,7 +1821,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="rlv_pull_to_refresh">Trageți în jos pentru a reîmprospăta</string>
     <string name="rlv_refreshing">Se reîmprospătează…</string>
     <string name="rlv_release_to_refresh">Eliberați pentru a reîmprospăta</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Nimic</string>
     <string name="router_download_exist">Acest fișier există deja</string>
     <string name="router_download_failed">"Nu s-a putut descărca"</string>
@@ -1878,7 +1880,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="search_hint">Căutaţi</string>
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Căutați</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">Marcaje şi istoric web</string>
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
@@ -2259,8 +2261,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Utilizat %2$s din %1$s</string>
     <string name="vpn_detail_guide1">Deblocați toate serverele pentru a vă accelera conexiunea</string>
     <string name="vpn_detail_guide2">Abonați-vă la serviciile VPN pentru a accesa mai multe site-uri web</string>
-    <string name="vpn_detail_guide3">Aproape nu mai aveți trafic disponibil. Încercați planul nostru de 12 luni! Atingeți pentru a afla despre opțiunile dvs.</string>
-    <string name="vpn_detail_guide4">Nu mai aveți trafic disponibil. Încercați planul nostru de 12 luni! Atingeți pentru a afla despre opțiunile dvs.</string>
+    <string name="vpn_detail_guide3">Aproape nu mai aveți trafic disponibil. Încercați planul nostru timp de %1$d luni! Atingeți pentru a afla despre opțiunile dvs.</string>
+    <string name="vpn_detail_guide4">Nu mai aveți trafic disponibil. Încercați planul nostru timp de %1$d luni! Atingeți pentru a afla despre opțiunile dvs.</string>
     <string name="vpn_detail_guide5">Aproape nu mai aveți trafic disponibil</string>
     <string name="vpn_detail_guide6">Nu mai aveți trafic disponibil</string>
     <string name="vpn_detail_subscribe">Abonați-vă</string>
@@ -2292,7 +2294,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Cum funcționează</string>
     <string name="whatsapp_intro_dialog_title">Opțiune nouă</string>
     <string name="whatsapp_no_status_tips">Nu există încă imagini sau videoclipuri aici. Vedeți actualizările de stare WhatsApp și reveniți aici din nou.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp salvează fotografiile și videoclipurile pe care le parcurgeți într-un folder ascuns. Aceste articole dispar după 24 de ore. Acum puteți utiliza Mi Browser pentru a le salva.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp salvează fotografiile și videoclipurile pe care le parcurgeți într-un folder ascuns. Aceste articole dispar după %1$d de ore. Acum puteți utiliza Mi Browser pentru a le salva.</string>
     <string name="whatsapp_principle_page_title">Puteți salva imagini și videoclipuri din stările WhatsApp folosind Mi Browser</string>
     <string name="whatsapp_principle_step_1">Răsfoiți imagini și videoclipuri din fila \"Stare\" WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Întoarceți-vă aici pentru a le salva.</string>
