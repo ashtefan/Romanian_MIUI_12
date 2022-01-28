@@ -795,7 +795,7 @@ Reluați măsurarea."</string>
     <string name="late">Târziu</string>
     <string name="light_sleep">Somn ușor</string>
     <string name="light_sleep_duration">Durata somnului ușor</string>
-    <string name="light_sleep_duration_description">Pe durata somnului apar periodic mișcări rapide ale ochilor. Somnul poate fi împărțit în somn cu mișcări rapide ale ochilor (REM) și somn fără mișcări rapide ale ochilor (NREM). Somnul ușor apare pe durata somnului NREM, însemnând circa 50-60% din durata totală de somn. Pe durata somnului ușor, conștiența este redusă gradual iar creierul este relativ static, dar totuși poate fi trezit ușor.</string>
+    <string name="light_sleep_duration_description">Pe durata somnului apar periodic mișcări rapide ale ochilor. Somnul poate fi împărțit în somn cu mișcări rapide ale ochilor (REM) și somn fără mișcări rapide ale ochilor (NREM). Somnul ușor apare pe durata somnului NREM, însemnând circa 50-60%% din durata totală de somn. Pe durata somnului ușor, conștiența este redusă gradual iar creierul este relativ static, dar totuși poate fi trezit ușor.</string>
     <string name="light_sleep_time_decrease_description">Somnul ușor este prea scurt</string>
     <string name="light_sleep_time_increase_description">Somnul ușor este prea lung</string>
     <string name="light_sleep_time_normal_description">Aveți un somn ușor suficient</string>
