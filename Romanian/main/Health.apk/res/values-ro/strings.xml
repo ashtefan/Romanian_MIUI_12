@@ -1740,7 +1740,7 @@ despre somn"</string>
     <string name="tb_sleep_index_info">%1$s. Atingeți pentru a vedea detaliile.</string>
     <string name="tb_sleep_index_title">Comutați la %1$s</string>
     <string name="tb_sleep_ring_info">%1$s. Somn: %2$s. Atingeți pentru a vedea detaliile.</string>
-    <string name="tb_snore_detection_main">Despre carcteristicile referitoare la sforâit și vorbitul în somn: %1%s. Glisați orizontal în partea de sus a ecranului pentru a trece la pagina următoare.</string>
+    <string name="tb_snore_detection_main">Despre carcteristicile referitoare la sforâit și vorbitul în somn: %1$s. Glisați orizontal în partea de sus a ecranului pentru a trece la pagina următoare.</string>
     <string name="tb_snore_view_info">Graficul sforăitului și vorbitului în somn</string>
     <string name="tb_stand_card_finish_stand">Episoade de ridicare astăzi: %1$s. Trebuie să faceți cel puțin 12 azi. Ați atins ținta între %2$s și %3$s.</string>
     <string name="tb_stand_card_not_finish_stand">Episoade de ridicare astăzi: %1$s. Trebuie să faceți cel puțin 12 azi. Nu ați atins ținta între %2$s și %3$s.</string>
