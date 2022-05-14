@@ -4381,7 +4381,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
     <string name="tc_web_correct_error">"Nu s-a putut calibra"</string>
-    <string name="ten_percent_total_pkg">%s (10% din datele lunare)</string>
+    <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
     <string name="tether_custom_dialog_title">Limită date mobile</string>
     <string name="tether_limit_dialog_title">Limită date mobile</string>
     <string name="tether_limit_value_custom">Personalizat</string>
