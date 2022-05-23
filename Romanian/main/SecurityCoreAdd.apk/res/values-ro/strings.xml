@@ -318,7 +318,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="master_clear_not_available">Resetarea la valorile din fabrică este restricționată de către compania dvs.</string>
     <string name="master_clear_not_available_ep">Nu aveți permisiunea de a reveni la setările din fabrică sau să revocați autorizarea acum. Contactați supervizorul.</string>
     <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
-    <string name="mess ageData">Mesaje</string>
+    <string name="messageData">Mesaje</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
